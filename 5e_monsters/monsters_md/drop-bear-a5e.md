@@ -1,0 +1,24 @@
+# Drop Bear
+
+*Large* *Beast*
+
+- **Armor Class:** 12
+- **Hit Points:** 42 (5d10+15)
+- **Speed:** walk 40 ft. climb 40 ft.
+- **Challenge Rating:** 3
+- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 20 (+5) | 10 (+0) | 16 (+3) | 2 (-4) | 12 (+1) | 4 (-3) |
+
+- **Senses:** passive Perception 13
+- **Languages:** 
+### Special Abilities
+- **Keen Smell:** The bear has advantage on Perception checks that rely on smell.
+- **Stealthy:** The drop bear has advantage on Stealth checks in forested areas.
+- **Drop:** The drop bear takes no damage from falling 40 feet or fewer and deals an extra 7 (2d6) damage when it hits with an attack after falling at least 20 feet. A creature that takes this extra damage is knocked prone.
+### Actions
+- **Multiattack:** The bear makes two melee attacks.
+- **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (1d8+5) piercing damage.
+- **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 7 (1d4+5) slashing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 15). Until this grapple ends  the bear can't attack a different target with its claws.
