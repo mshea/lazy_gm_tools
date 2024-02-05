@@ -769,50 +769,106 @@ origin
   clockwork
 
 monument
-  tree
-  statue
-  carcass
-  hole
-  ship
-  tower
-  mirror
-  pool
-  well
-  monolith
-  skull
-  tree of corpses
-  sigil
-  gateway
-  megalith
-  obelisk
-  pillar
-  tomb
-  monolith
-  ruins
-  mosaic
-  ship
+  aerie
   altar
-  shrine
-  tree
-  statue
-  stone circle
-  throne
-  podium
-  carved rock
+  aqueduct
+  arcane circle
+  archway
+  aviary
+  barrow
+  battlefield
+  bell
+  bone pile
+  boneyard
+  bonfire
+  brazier
+  bridge
+  cage
+  cairn
+  campsite
+  canal
+  carcass
+  carriage 
+  cauldron
+  cave
+  cenotaph 
+  cesspit
+  charnel pit
+  columns
+  crater
+  crossroads
+  crystal
+  dome
+  doorway
+  earthmote
+  effigy
+  fighting pit
+  firepit
   fossil
   fountain
-  mausoleum
-  gravestone
-  cairn
+  gallows
+  gateway
   geode
-  skull
-  barrow
-  well
+  geyser
+  graveyard
+  gravestone
+  grotto
+  grove
+  hollow
+  huge skull
+  idol
+  illusion
+  keep
+  lantern
+  machine
+  mausoleum
+  megalith
   meteorite
-  archway
-  fossil
-  battlefield
-  charnal pit
+  midden
+  mill
+  mine
+  mirror
+  monolith
+  monument
+  mosaic
+  nest
+  obelisk 
+  orb
+  orrery
+  oubliette 
+  petrified creature
+  pillar
+  pit
+  planar rift
+  platform
+  podium
+  pool
+  rock
+  ruin
+  sacred circle
+  sarcophagus
+  shipwreck 
+  shrine
+  sigil
+  sinkhole
+  slab
+  spell effect
+  sphere
+  spire
+  statue
+  stone circle
+  stone tablets
+  sundial
+  throne
+  tomb
+  totem
+  tower
+  trash heap
+  tree
+  wall
+  waymarker
+  well
+  windmill
 
 
 cult_factions
