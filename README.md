@@ -12,4 +12,6 @@ In this repository you'll find:
 
 **The Dyson Map Selector (/dyson_maps/)**. A tool to find maps from a library of commercially-licensed [Dyson Logos](https://dysonlogos.blog) maps. Please consider joining [Dyson's Patreon](https://www.patreon.com/dysonlogos/).
 
+**Forge of Foes Stats for Espanso (forge_of_foes_for_espanso.yml)**. A set of YAML instructions compatible with [espanso](https://espanso.org/).
+
 All of these fine tools are made possible by the generous support of the [Sly Flourish Patreon](https://www.patreon.com/slyflourish). If you are not a patron, please consider joining!
