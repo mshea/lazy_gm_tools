@@ -2,6 +2,12 @@
 
 The files in this directory are intended to be run with the Mac's Automator application to let you select a markdown file and output a PDF to your desktop formatted nicely for a single page two-column set of notes for your RPG game.
 
+## Setting up Pandoc
+
+This script uses Pandoc to convert Markdown to PDF. You'll need to install Pandoc and one of the Pandoc PDF converters such as MacTeX.
+
+With that done, move the included .tex template to a directory of your choice and modify the shell script Pandoc instruction to point to that template. You can modify the .tex pandoc template to change the format of the output if desired.
+
 ## Setting Up Automator to run this script
 
 To create an application in Automator that applies this script to selected files via a Finder window, follow these steps:
