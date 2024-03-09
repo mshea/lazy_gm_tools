@@ -14,4 +14,6 @@ In this repository you'll find:
 
 **Forge of Foes Stats for Espanso (forge_of_foes_for_espanso.yml)**. A set of YAML instructions compatible with [espanso](https://espanso.org/).
 
+**Markdown to PDF**. This directory contains a shell script, a latex template, and instructions for setting up a Mac automator application to generate a PDF from a markdown file. I use this with my session notes in Obsidian which I can then print and use at the table in my physical three-ring notebook.
+
 All of these fine tools are made possible by the generous support of the [Sly Flourish Patreon](https://www.patreon.com/slyflourish). If you are not a patron, please consider joining!
