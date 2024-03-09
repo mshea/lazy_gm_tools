@@ -12,6 +12,8 @@ In this repository you'll find:
 
 **The Dyson Map Selector (/dyson_maps/)**. A tool to find maps from a library of commercially-licensed [Dyson Logos](https://dysonlogos.blog) maps. Please consider joining [Dyson's Patreon](https://www.patreon.com/dysonlogos/).
 
+**Obsidian Lazy DM Campaign Template**. A simple set of markdown files and directories to build Lazy DM-style notes in [Obsidian](https://obsidian.md/).
+
 **Forge of Foes Stats for Espanso (forge_of_foes_for_espanso.yml)**. A set of YAML instructions compatible with [espanso](https://espanso.org/).
 
 **Markdown to PDF**. This directory contains a shell script, a latex template, and instructions for setting up a Mac automator application to generate a PDF from a markdown file. I use this with my session notes in Obsidian which I can then print and use at the table in my physical three-ring notebook.
