@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (chain shirt)
 - **Hit Points:** 105 (10d10+50)
 - **Speed:** walk 30 ft. swim 30 ft. fly 50 ft.
-- **Challenge Rating:** 7
+- **Challenge Rating:** 7 (2,900 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

@@ -5,7 +5,7 @@
 - **Armor Class:** 17 (Regal Bearing)
 - **Hit Points:** 189 (18d12+72)
 - **Speed:** walk 40 ft. fly 80 ft.
-- **Challenge Rating:** 15
+- **Challenge Rating:** 15 (13,000 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |

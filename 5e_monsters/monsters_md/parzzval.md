@@ -5,7 +5,7 @@
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 115 (11d10+55)
 - **Speed:** walk 50 ft.
-- **Challenge Rating:** 8
+- **Challenge Rating:** 8 (3,900 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Con +8
 - **Skills:** stealth +6
-- **Damage Vulnerabilities:** blinded, charmed, unconscious
+- **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** acid
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, unconscious

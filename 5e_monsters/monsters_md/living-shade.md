@@ -5,7 +5,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 18 (4d8)
 - **Speed:** walk 40 ft.
-- **Challenge Rating:** 1/4
+- **Challenge Rating:** 1/4 (50 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 6 (-2) | 14 (+2) | 10 (+0) | 9 (-1) | 10 (+0) | 12 (+1) |
 
 - **Skills:** stealth +6
-- **Damage Vulnerabilities:** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained

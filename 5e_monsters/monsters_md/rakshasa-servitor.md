@@ -5,7 +5,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 32 (5d8+10)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 1/2
+- **Challenge Rating:** 1/2 (100 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 14 (+2) | 17 (+3) | 14 (+2) | 12 (+1) | 14 (+2) | 11 (+0) |
 
 - **Skills:** perception +2
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** piercing from magic weapons wielded by good creatures
 - **Damage Resistances:** nonmagic B/P/S attacks
 - **Senses:** darkvision 60', passive Perception 14
 - **Languages:** Common, Infernal

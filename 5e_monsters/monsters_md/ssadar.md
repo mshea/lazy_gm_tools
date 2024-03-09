@@ -5,14 +5,14 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 71 (11d8+22)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 15 (+2) | 9 (-1) | 14 (+2) | 10 (+0) |
 
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Ignan

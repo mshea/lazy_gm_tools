@@ -5,7 +5,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 90 (12d10+24)
 - **Speed:** walk 50 ft.
-- **Challenge Rating:** 4
+- **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +6, Con +4
 - **Skills:** perception +3
-- **Damage Vulnerabilities:** exhaustion, frightened, poisoned, prone
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold, poison
 - **Condition Immunities:** exhaustion, frightened, poisoned, prone
 - **Senses:** darkvision 60', passive Perception 15

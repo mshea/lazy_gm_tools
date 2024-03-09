@@ -5,7 +5,7 @@
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 198 (36d10)
 - **Speed:** walk 20 ft. fly 60 ft.
-- **Challenge Rating:** 10
+- **Challenge Rating:** 10 (5,900 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +8, Wis +6, Cha +9
 - **Skills:** acrobatics +8, perception +6, stealth +8
-- **Damage Vulnerabilities:** charmed, exhaustion, frightened, paralyzed, poisoned, prone, restrained, stunned
+- **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** poison
 - **Damage Resistances:** piercing and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned, prone, restrained, stunned

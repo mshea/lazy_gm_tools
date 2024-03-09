@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 144 (17d10+51)
 - **Speed:** fly 80 ft. walk 40 ft.
-- **Challenge Rating:** 6
+- **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +3, Con +6
 - **Skills:** athletics +7, perception +4, stealth +3
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** poison
 - **Senses:** blindsight 15 ft., darkvision 120 ft., passive Perception 14
 - **Languages:** Draconic
 ### Special Abilities

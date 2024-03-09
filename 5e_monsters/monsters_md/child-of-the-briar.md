@@ -5,7 +5,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 50 (20d4)
 - **Speed:** walk 20 ft. climb 10 ft.
-- **Challenge Rating:** 1
+- **Challenge Rating:** 1 (200 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 6 (-2) | 17 (+3) | 11 (+0) | 13 (+1) | 10 (+0) | 14 (+2) |
 
 - **Skills:** perception +4, stealth +7
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Briarclick, Common, Sylvan
 ### Special Abilities

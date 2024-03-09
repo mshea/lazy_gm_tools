@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 91 (14d8+28)
 - **Speed:** walk 30 ft. swim 30 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 16 (+3) | 12 (+1) | 14 (+2) | 10 (+0) | 8 (-1) | 12 (+1) |
 
 - **Saving Throws**: Str +5, Con +4, Cha +3
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** fire
 - **Damage Resistances:** cold
 - **Senses:** darkvision 120 ft., passive Perception 9
 - **Languages:** Common, Void Speech

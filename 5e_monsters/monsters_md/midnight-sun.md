@@ -5,7 +5,7 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 136 (16d10+48)
 - **Speed:** walk 0 ft. fly 60 ft.
-- **Challenge Rating:** 7
+- **Challenge Rating:** 7 (2,900 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +6, Wis +7, Cha +5
 - **Skills:** perception +4
-- **Damage Vulnerabilities:** blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Damage Vulnerabilities:** necrotic (in day form), radiant (in night form)
 - **Damage Immunities:** necrotic (in night form), poison, radiant (in day form)
 - **Damage Resistances:** acid, cold, fire, lightning, thunder; nonmagic B/P/S attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious

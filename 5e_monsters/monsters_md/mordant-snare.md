@@ -5,7 +5,7 @@
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 264 (16d20+96)
 - **Speed:** walk 10 ft. burrow 20 ft.
-- **Challenge Rating:** 15
+- **Challenge Rating:** 15 (13,000 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

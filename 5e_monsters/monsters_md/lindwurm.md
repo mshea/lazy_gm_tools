@@ -5,7 +5,7 @@
 - **Armor Class:** 15
 - **Hit Points:** 136 (16d10+48)
 - **Speed:** walk 40 ft. swim 20 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Str +7, Dex +8, Con +6
 - **Skills:** acrobatics +8, athletics +8, perception +4, stealth +9
-- **Damage Vulnerabilities:** paralyzed, prone, unconscious
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
 - **Condition Immunities:** paralyzed, prone, unconscious
 - **Senses:** darkvision 60 ft., tremorsense 120 ft. on ice, passive Perception 14

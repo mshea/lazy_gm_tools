@@ -5,7 +5,7 @@
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 82 (11d8+33)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 16 (+3) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 16 (+3) |
 
 - **Skills:** arcana +3, deception +5, survival +4
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Giant, Sylvan

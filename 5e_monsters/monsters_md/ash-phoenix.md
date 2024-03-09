@@ -5,7 +5,7 @@
 - **Armor Class:** 15
 - **Hit Points:** 105 (14d10+28)
 - **Speed:** fly 90 ft. hover True ft. walk 0 ft.
-- **Challenge Rating:** 9
+- **Challenge Rating:** 9 (5,000 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Wis +5
 - **Skills:** perception +5, stealth +8
-- **Damage Vulnerabilities:** exhaustion, paralyzed, petrified, poisoned, prone
+- **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, paralyzed, petrified, poisoned, prone

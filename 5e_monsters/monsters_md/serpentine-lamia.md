@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (leather armor)
 - **Hit Points:** 36 (8d8)
 - **Speed:** climb 20 ft. swim 20 ft. walk 30 ft.
-- **Challenge Rating:** 1
+- **Challenge Rating:** 1 (200 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |

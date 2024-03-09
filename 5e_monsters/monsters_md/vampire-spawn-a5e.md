@@ -5,7 +5,7 @@
 - **Armor Class:** 15
 - **Hit Points:** 76 (9d8+36)
 - **Speed:** walk 30 ft. climb 30 ft.
-- **Challenge Rating:** 4
+- **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 18 (+4) | 16 (+3) | 18 (+4) | 10 (+0) | 14 (+2) | 14 (+2) |
 
 - **Saving Throws**: Dex +5, Wis +4
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** radiant
 - **Damage Resistances:** necrotic; damage from nonmagical, non-silvered weapons
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** the languages it knew in life

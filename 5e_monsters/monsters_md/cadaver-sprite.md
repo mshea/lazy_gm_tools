@@ -5,7 +5,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 20 (8d4)
 - **Speed:** walk 20 ft.
-- **Challenge Rating:** 1/2
+- **Challenge Rating:** 1/2 (100 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 5 (-3) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 8 (-1) |
 
 - **Skills:** perception +3, stealth +8
-- **Damage Vulnerabilities:** exhaustion, poisoned
+- **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11

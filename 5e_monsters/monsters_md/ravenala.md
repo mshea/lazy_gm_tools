@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 126 (12d10+60)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 20 (+5) | 10 (+0) | 20 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
 
 - **Saving Throws**: Wis +6, Cha +6
-- **Damage Vulnerabilities:** blinded, deafened
+- **Damage Vulnerabilities:** cold, fire
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** blinded, deafened
 - **Senses:** passive Perception 13

@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 85 (10d10+30)
 - **Speed:** walk 20 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 16 (+3) | 12 (+1) | 16 (+3) | 7 (-2) | 14 (+2) | 3 (-4) |
 
 - **Skills:** perception +2
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** thunder
 - **Senses:** blindsight 60' (blind beyond), passive Perception 14
 - **Languages:** understands Common, + one language known by its grower, but can’t speak
 ### Special Abilities

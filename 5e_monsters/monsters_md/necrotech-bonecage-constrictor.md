@@ -5,7 +5,7 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 175 (14d12+84)
 - **Speed:** walk 50 ft.
-- **Challenge Rating:** 9
+- **Challenge Rating:** 9 (5,000 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Str +8, Dex +7
 - **Skills:** perception +-1
-- **Damage Vulnerabilities:** poisoned, prone
+- **Damage Vulnerabilities:** bludgeoning, thunder
 - **Condition Immunities:** poisoned, prone
 - **Senses:** darkvision 60', tremorsense 30', passive Perception 9
 - **Languages:** understands Common and Darakhul but can’t speak

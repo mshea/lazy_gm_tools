@@ -5,7 +5,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 39 (6d8+12)
 - **Speed:** walk 0 ft. fly 40 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Wis +3
 - **Skills:** perception +1
-- **Damage Vulnerabilities:** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, poison
 - **Condition Immunities:** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 - **Senses:** darkvision 60', passive Perception 10

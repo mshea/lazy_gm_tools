@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (breastplate)
 - **Hit Points:** 198 (12d20+72)
 - **Speed:** walk 50 ft.
-- **Challenge Rating:** 12
+- **Challenge Rating:** 12 (8,400 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

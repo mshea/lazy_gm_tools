@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 91 (14d6+42)
 - **Speed:** walk 25 ft. climb 20 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 12 (+1) | 15 (+2) | 16 (+3) | 13 (+1) | 16 (+3) | 18 (+4) |
 
 - **Skills:** perception +3
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** piercing from magic weapons wielded by good creatures
 - **Senses:** darkvision 60', passive Perception 13
 - **Languages:** Common, Infernal, telepathy 60'
 ### Special Abilities

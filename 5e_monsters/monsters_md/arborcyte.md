@@ -5,7 +5,7 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 127 (15d10+45)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 8
+- **Challenge Rating:** 8 (3,900 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 21 (+5) | 12 (+1) | 16 (+3) | 5 (-3) | 10 (+0) | 3 (-4) |
 
 - **Saving Throws**: Con +6
-- **Damage Vulnerabilities:** deafened
+- **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** deafened
 - **Senses:** darkvision 60 ft., passive Perception 10

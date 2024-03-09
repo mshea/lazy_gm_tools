@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 133 (14d10+56)
 - **Speed:** swim 30 ft. walk 40 ft.
-- **Challenge Rating:** 7
+- **Challenge Rating:** 7 (2,900 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 20 (+5) | 12 (+1) | 18 (+4) | 4 (-3) | 16 (+3) | 5 (-3) |
 
 - **Skills:** athletics +8, perception +6
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
 - **Senses:** passive Perception 16
 - **Languages:** -

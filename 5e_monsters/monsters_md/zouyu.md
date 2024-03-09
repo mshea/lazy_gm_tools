@@ -5,7 +5,7 @@
 - **Armor Class:** 17
 - **Hit Points:** 114 (12d12+36)
 - **Speed:** walk 60 ft.
-- **Challenge Rating:** 6
+- **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +10, Wis +4
 - **Skills:** perception +7, stealth +10
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** thunder
 - **Senses:** darkvision 60 ft., passive Perception 17
 - **Languages:** understands Common but can’t speak
 ### Special Abilities

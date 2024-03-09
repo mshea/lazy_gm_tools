@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (chain shirt)
 - **Hit Points:** 44 (8d6+16)
 - **Speed:** walk 20 ft. burrow 20 ft.
-- **Challenge Rating:** 1
+- **Challenge Rating:** 1 (200 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

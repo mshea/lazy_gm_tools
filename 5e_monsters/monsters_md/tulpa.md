@@ -5,14 +5,14 @@
 - **Armor Class:** 13
 - **Hit Points:** 39 (6d8+12)
 - **Speed:** hover True ft.
-- **Challenge Rating:** 4
+- **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 16 (+3) | 14 (+2) | 10 (+0) | 14 (+2) | 9 (-1) |
 
-- **Damage Vulnerabilities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** cold, necrotic, poison
 - **Damage Resistances:** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained

@@ -5,14 +5,14 @@
 - **Armor Class:** 13 (studded leather armor)
 - **Hit Points:** 34 (4d8+16)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 18 (+4) | 6 (-2) | 6 (-2) | 8 (-1) |
 
-- **Damage Vulnerabilities:** blinded, deafened
+- **Damage Vulnerabilities:** fire
 - **Condition Immunities:** blinded, deafened
 - **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 8
 - **Languages:** -

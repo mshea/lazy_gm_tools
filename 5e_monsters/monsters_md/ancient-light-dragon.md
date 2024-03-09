@@ -5,7 +5,7 @@
 - **Armor Class:** 22 (natural armor)
 - **Hit Points:** 407 (22d20+176)
 - **Speed:** fly 80 ft. walk 40 ft.
-- **Challenge Rating:** 22
+- **Challenge Rating:** 22 (41,000 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |

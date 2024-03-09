@@ -5,7 +5,7 @@
 - **Armor Class:** 17 (clockwork armor)
 - **Hit Points:** 135 (18d10+36)
 - **Speed:** hover True ft. walk 30 ft. fly 30 ft.
-- **Challenge Rating:** 8
+- **Challenge Rating:** 8 (3,900 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |

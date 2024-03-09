@@ -5,7 +5,7 @@
 - **Armor Class:** 7
 - **Hit Points:** 217 (14d20+70)
 - **Speed:** walk 20 ft. climb 20 ft. swim 20 ft.
-- **Challenge Rating:** 9
+- **Challenge Rating:** 9 (5,000 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Int +5, Wis +10, Cha +8
 - **Skills:** deception +8, history +5, insight +10, perception +10
-- **Damage Vulnerabilities:** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** acid
 - **Damage Resistances:** fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone

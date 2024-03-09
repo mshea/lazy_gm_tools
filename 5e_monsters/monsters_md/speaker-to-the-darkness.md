@@ -5,7 +5,7 @@
 - **Armor Class:** 16 (scale mail)
 - **Hit Points:** 135 (18d6+72)
 - **Speed:** walk 25 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +6, Cha +7
 - **Skills:** perception +2
-- **Damage Vulnerabilities:** frightened
+- **Damage Vulnerabilities:** radiant
 - **Condition Immunities:** frightened
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Abyssal, Deep Speech, Undercommon

@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (granite half plate)
 - **Hit Points:** 152 (16d8+80)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 7
+- **Challenge Rating:** 7 (2,900 XP)
 - **Source:** [Critical Role: Tal’Dorei Campaign Setting](https://https://greenronin.com/blog/2017/09/25/ronin-round-table-integrating-wizards-5e-adventures-with-the-taldorei-campaign-setting/)
 
 | STR | DEX | CON | INT | WIS | CHA |

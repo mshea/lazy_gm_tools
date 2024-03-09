@@ -5,7 +5,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 65 (10d8+20)
 - **Speed:** fly 60 ft. walk 0 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 6 (-2) | 18 (+4) | 14 (+2) | 5 (-3) | 10 (+0) | 20 (+5) |
 
 - **Skills:** perception +2, stealth +6
-- **Damage Vulnerabilities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious
+- **Damage Vulnerabilities:** psychic
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, piercing and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious

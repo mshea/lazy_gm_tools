@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** burrow 10 ft. fly 60 ft. walk 40 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +5, Wis +3
 - **Skills:** intimidation +2, perception +3, stealth +5
-- **Damage Vulnerabilities:** poisoned
+- **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic
 - **Damage Resistances:** poison
 - **Condition Immunities:** poisoned

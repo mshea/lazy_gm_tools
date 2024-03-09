@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (studded leather)
 - **Hit Points:** 11 (2d8+2)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 1/2
+- **Challenge Rating:** 1/2 (100 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

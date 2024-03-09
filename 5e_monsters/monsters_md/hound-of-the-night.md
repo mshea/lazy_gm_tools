@@ -5,7 +5,7 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 112 (15d10+30)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +6, Con +5, Wis +5
 - **Skills:** intimidation +3, perception +5, stealth +6
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** understands Elvish and Umbral but can't speak

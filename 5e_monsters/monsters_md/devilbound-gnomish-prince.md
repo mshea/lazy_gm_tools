@@ -5,7 +5,7 @@
 - **Armor Class:** 12 (15 with mage armor)
 - **Hit Points:** 104 (19d6+38)
 - **Speed:** walk 25 ft.
-- **Challenge Rating:** 9
+- **Challenge Rating:** 9 (5,000 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

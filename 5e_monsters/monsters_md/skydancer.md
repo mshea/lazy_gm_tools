@@ -5,7 +5,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 63 (14d8)
 - **Speed:** walk 30 ft. fly 60 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Critical Role: Tal’Dorei Campaign Setting](https://https://greenronin.com/blog/2017/09/25/ronin-round-table-integrating-wizards-5e-adventures-with-the-taldorei-campaign-setting/)
 
 | STR | DEX | CON | INT | WIS | CHA |

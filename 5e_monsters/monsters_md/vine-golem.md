@@ -5,7 +5,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 67 (9d8+27)
 - **Speed:** climb 30 ft. walk 30 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 12 (+1) | 18 (+4) | 17 (+3) | 6 (-2) | 10 (+0) | 5 (-3) |
 
 - **Skills:** perception +2, stealth +6
-- **Damage Vulnerabilities:** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Damage Vulnerabilities:** slashing
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning and piercing from nonmagical attacks not made with adamantine weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned

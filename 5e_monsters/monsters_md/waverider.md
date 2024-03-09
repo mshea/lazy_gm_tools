@@ -5,7 +5,7 @@
 - **Armor Class:** 14 (hide armor of cold resistance)
 - **Hit Points:** 77 (14d8+14)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 4
+- **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Critical Role: Tal’Dorei Campaign Setting](https://https://greenronin.com/blog/2017/09/25/ronin-round-table-integrating-wizards-5e-adventures-with-the-taldorei-campaign-setting/)
 
 | STR | DEX | CON | INT | WIS | CHA |

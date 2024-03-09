@@ -5,7 +5,7 @@
 - **Armor Class:** 18 (scale mail, shield)
 - **Hit Points:** 51 (6d8+24)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 18 (+4) | 14 (+2) | 18 (+4) | 12 (+1) | 12 (+1) | 14 (+2) |
 
 - **Skills:** perception +1
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** piercing from magic weapons wielded by good creatures
 - **Senses:** darkvision 60', passive Perception 13
 - **Languages:** Common, Infernal
 ### Special Abilities

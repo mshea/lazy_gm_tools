@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 55 (10d8+10)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 16 (+3) | 14 (+2) | 13 (+1) | 10 (+0) | 16 (+3) | 7 (-2) |
 
 - **Skills:** arcana +2, perception +5
-- **Damage Vulnerabilities:** poisoned
+- **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

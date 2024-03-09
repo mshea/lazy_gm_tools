@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (hide armor)
 - **Hit Points:** 59 (17d6)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |

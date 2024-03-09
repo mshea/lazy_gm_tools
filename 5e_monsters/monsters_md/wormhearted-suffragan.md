@@ -5,7 +5,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 97 (13d8+39)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 10 (+0) | 14 (+2) | 16 (+3) | 11 (+0) | 16 (+3) | 8 (-1) |
 
 - **Skills:** medicine +6, religion +3
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** radiant
 - **Damage Resistances:** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** the languages it knew in life

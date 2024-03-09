@@ -5,7 +5,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 30 ft. climb 20 ft. swim 30 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Con +4, Wis +4
 - **Skills:** perception +2
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** psychic
 - **Senses:** blindsight 120' (blind beyond), passive Perception 14
 - **Languages:** Common, telepathy 120' (only w/other hirudine stalkers)
 ### Special Abilities

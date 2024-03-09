@@ -5,7 +5,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 0 ft. fly 40 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Con +6, Wis +5
 - **Skills:** perception +2
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** psychic
 - **Senses:** darkvision 60', passive Perception 15
 - **Languages:** the languages it knew in life
 ### Special Abilities

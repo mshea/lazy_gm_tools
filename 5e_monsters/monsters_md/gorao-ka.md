@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (copper coat)
 - **Hit Points:** 17 (5d4+5)
 - **Speed:** walk 20 ft.
-- **Challenge Rating:** 1/8
+- **Challenge Rating:** 1/8 (25 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |

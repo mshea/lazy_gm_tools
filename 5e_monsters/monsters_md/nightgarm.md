@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 20 ft.
-- **Challenge Rating:** 6
+- **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 20 (+5) | 14 (+2) | 18 (+4) | 10 (+0) | 15 (+2) | 16 (+3) |
 
 - **Skills:** perception +5, stealth +5
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** radiant; silvered weapons
 - **Damage Resistances:** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Giant, Goblin, telepathy 200 ft. (with falsemen only)

@@ -5,7 +5,7 @@
 - **Armor Class:** 14 (hide armor)
 - **Hit Points:** 104 (16d6+48)
 - **Speed:** walk 20 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

@@ -5,7 +5,7 @@
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 144 (17d8+68)
 - **Speed:** walk 40 ft.
-- **Challenge Rating:** 15
+- **Challenge Rating:** 15 (13,000 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 16 (+3) | 20 (+5) |
 
 - **Skills:** deception +10, insight +8
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** piercing from magic weapons wielded by good creatures
 - **Damage Immunities:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Infernal

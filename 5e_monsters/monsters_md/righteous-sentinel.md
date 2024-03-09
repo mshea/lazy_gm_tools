@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 104 (11d10+44)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 9
+- **Challenge Rating:** 9 (5,000 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 21 (+5) | 10 (+0) | 18 (+4) | 8 (-1) | 11 (+0) | 3 (-4) |
 
 - **Skills:** perception +6
-- **Damage Vulnerabilities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious
+- **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious
 - **Senses:** darkvision 120 ft., passive Perception 16

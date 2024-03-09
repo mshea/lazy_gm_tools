@@ -5,7 +5,7 @@
 - **Armor Class:** 16
 - **Hit Points:** 285 (30d8+150)
 - **Speed:** walk 40 ft. climb 30 ft.
-- **Challenge Rating:** 11
+- **Challenge Rating:** 11 (7,200 XP)
 - **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
 
 | STR | DEX | CON | INT | WIS | CHA |

@@ -5,14 +5,14 @@
 - **Armor Class:** 12
 - **Hit Points:** 7 (2d6)
 - **Speed:** walk 5 ft. fly 30 ft. swim 30 ft.
-- **Challenge Rating:** 1/8
+- **Challenge Rating:** 1/8 (25 XP)
 - **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 14 (+2) | 10 (+0) | 14 (+2) | 14 (+2) | 10 (+0) |
 
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** psychic
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** understands Common and Undercommon but can't speak, telepathy 60 ft.
 ### Special Abilities

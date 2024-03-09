@@ -5,14 +5,14 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 150 (20d12+20)
 - **Speed:** hover True ft. walk 25 ft. fly 40 ft.
-- **Challenge Rating:** 12
+- **Challenge Rating:** 12 (8,400 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 13 (+1) | 8 (-1) | 12 (+1) | 19 (+4) |
 
-- **Damage Vulnerabilities:** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned
+- **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** bludgeoning, cold, piercing, psychic, slashing
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned

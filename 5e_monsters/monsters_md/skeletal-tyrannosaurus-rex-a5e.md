@@ -5,14 +5,14 @@
 - **Armor Class:** 13
 - **Hit Points:** 126 (11d12+55)
 - **Speed:** walk 50 ft.
-- **Challenge Rating:** 8
+- **Challenge Rating:** 8 (3,900 XP)
 - **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 10 (+0) | 20 (+5) | 2 (-4) | 8 (-1) | 5 (-3) |
 
-- **Damage Vulnerabilities:** fatigue, poisoned
+- **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** poison
 - **Condition Immunities:** fatigue, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9

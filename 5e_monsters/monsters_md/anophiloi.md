@@ -5,7 +5,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 33 (6d6+12)
 - **Speed:** climb 20 ft. fly 40 ft. walk 30 ft.
-- **Challenge Rating:** 1
+- **Challenge Rating:** 1 (200 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 12 (+1) | 14 (+2) | 14 (+2) | 5 (-3) | 12 (+1) | 6 (-2) |
 
 - **Skills:** stealth +4
-- **Damage Vulnerabilities:** poisoned
+- **Damage Vulnerabilities:** cold
 - **Damage Resistances:** poison
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11

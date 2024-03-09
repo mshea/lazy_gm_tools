@@ -5,7 +5,7 @@
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** walk 20 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 16 (+3) | 8 (-1) | 15 (+2) | 7 (-2) | 10 (+0) | 14 (+2) |
 
 - **Saving Throws**: Wis +2
-- **Damage Vulnerabilities:** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned

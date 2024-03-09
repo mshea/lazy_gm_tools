@@ -5,7 +5,7 @@
 - **Armor Class:** 15
 - **Hit Points:** 68 (8d8+32)
 - **Speed:** hover True ft. walk 60 ft.
-- **Challenge Rating:** 6
+- **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |

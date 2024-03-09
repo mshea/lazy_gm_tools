@@ -5,14 +5,14 @@
 - **Armor Class:** 12
 - **Hit Points:** 18 (4d8)
 - **Speed:** walk 40 ft.
-- **Challenge Rating:** 1
+- **Challenge Rating:** 1 (200 XP)
 - **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 14 (+2) | 10 (+0) | 8 (-1) | 10 (+0) | 14 (+2) |
 
-- **Damage Vulnerabilities:** charmed, fatigue, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** acid, cold, fire, lightning, thunder; damage from nonmagical weapons
 - **Condition Immunities:** charmed, fatigue, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained

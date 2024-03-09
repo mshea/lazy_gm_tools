@@ -5,7 +5,7 @@
 - **Armor Class:** 20 (plate and shield)
 - **Hit Points:** 171 (18d8+90)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 11
+- **Challenge Rating:** 11 (7,200 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

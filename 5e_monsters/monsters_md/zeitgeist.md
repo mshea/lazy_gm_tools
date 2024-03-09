@@ -5,7 +5,7 @@
 - **Armor Class:** 14 (16 in Darting Form)
 - **Hit Points:** 82 (11d8+33)
 - **Speed:** walk 20 ft.
-- **Challenge Rating:** 6
+- **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |

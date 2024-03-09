@@ -5,7 +5,7 @@
 - **Armor Class:** 5
 - **Hit Points:** 95 (10d12+30)
 - **Speed:** walk 15 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 3 (-4) | 1 (-5) | 17 (+3) | 1 (-5) | 4 (-3) | 1 (-5) |
 
 - **Skills:** perception +-3
-- **Damage Vulnerabilities:** blinded, charmed, deafened, frightened, grappled, prone
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** blinded, charmed, deafened, frightened, grappled, prone

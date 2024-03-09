@@ -5,7 +5,7 @@
 - **Armor Class:** 21
 - **Hit Points:** 319 (22d10+198)
 - **Speed:** walk 50 ft. fly 150 ft.
-- **Challenge Rating:** 21
+- **Challenge Rating:** 21 (33,000 XP)
 - **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 28 (+9) | 22 (+6) | 28 (+9) | 22 (+6) | 30 (+10) | 30 (+10) |
 
 - **Saving Throws**: Wis +0, Cha +17
-- **Damage Vulnerabilities:** charmed, exhaustion, frightened, poisoned
+- **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** radiant; damage from nonmagical weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, poisoned

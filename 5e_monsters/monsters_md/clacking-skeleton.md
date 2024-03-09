@@ -5,14 +5,14 @@
 - **Armor Class:** 14 (armor scraps)
 - **Hit Points:** 45 (10d8)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 11 (+0) | 6 (-2) | 8 (-1) | 5 (-3) |
 
-- **Damage Vulnerabilities:** exhaustion, poisoned
+- **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9

@@ -5,7 +5,7 @@
 - **Armor Class:** 15
 - **Hit Points:** 110 (13d10+39)
 - **Speed:** hover True ft. walk 5 ft. fly 40 ft.
-- **Challenge Rating:** 4
+- **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

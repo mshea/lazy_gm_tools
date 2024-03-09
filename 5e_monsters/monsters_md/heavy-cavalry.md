@@ -5,7 +5,7 @@
 - **Armor Class:** 19 (splint, shield)
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |

@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 171 (18d12+54)
 - **Speed:** walk 10 ft.
-- **Challenge Rating:** 11
+- **Challenge Rating:** 11 (7,200 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Int +9, Wis +9
 - **Skills:** insight +9, perception +9
-- **Damage Vulnerabilities:** charmed, frightened
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** radiant
 - **Condition Immunities:** charmed, frightened
 - **Senses:** truesight 120 ft. (blind beyond this radius), passive Perception 19

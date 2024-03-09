@@ -5,14 +5,14 @@
 - **Armor Class:** 12
 - **Hit Points:** 39 (6d6+18)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 1
+- **Challenge Rating:** 1 (200 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 14 (+2) | 16 (+3) | 8 (-1) | 10 (+0) | 12 (+1) |
 
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire
 - **Senses:** passive Perception 10
 - **Languages:** Common, Ignan

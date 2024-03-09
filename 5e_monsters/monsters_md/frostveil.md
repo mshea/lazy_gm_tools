@@ -5,7 +5,7 @@
 - **Armor Class:** 16
 - **Hit Points:** 67 (9d8+27)
 - **Speed:** walk 10 ft. fly 30 ft.
-- **Challenge Rating:** 4
+- **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 20 (+5) | 20 (+5) | 16 (+3) | 1 (-5) | 11 (+0) | 1 (-5) |
 
 - **Skills:** stealth +7
-- **Damage Vulnerabilities:** blinded, charmed, deafened, frightened, prone
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
 - **Damage Resistances:** bludgeoning and piercing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, frightened, prone

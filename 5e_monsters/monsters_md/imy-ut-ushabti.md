@@ -5,7 +5,7 @@
 - **Armor Class:** 15 (chain shirt)
 - **Hit Points:** 97 (15d8+30)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 3
+- **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 17 (+3) | 14 (+2) | 15 (+2) | 6 (-2) | 10 (+0) | 5 (-3) |
 
 - **Saving Throws**: Wis +2
-- **Damage Vulnerabilities:** exhaustion, frightened
+- **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** exhaustion, frightened
 - **Senses:** darkvision 60 ft., passive Perception 10

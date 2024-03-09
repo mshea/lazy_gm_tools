@@ -5,7 +5,7 @@
 - **Armor Class:** 14 (armor scraps)
 - **Hit Points:** 93 (11d10+33)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Str +7, Dex +4
 - **Skills:** athletics +7, intimidation +4
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** psychic
 - **Senses:** passive Perception 10
 - **Languages:** any one language (usually Common)
 ### Special Abilities

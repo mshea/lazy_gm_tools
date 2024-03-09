@@ -5,7 +5,7 @@
 - **Armor Class:** 11
 - **Hit Points:** 138 (12d12+60)
 - **Speed:** walk 40 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Con +8, Wis +5
 - **Skills:** athletics +7, stealth +4, survival +5
-- **Damage Vulnerabilities:** grappled, restrained
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
 - **Condition Immunities:** grappled, restrained
 - **Senses:** passive Perception 12

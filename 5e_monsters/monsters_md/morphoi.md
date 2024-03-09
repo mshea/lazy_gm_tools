@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (may be higher with armor)
 - **Hit Points:** 33 (6d8+6)
 - **Speed:** walk 30 ft. swim 30 ft.
-- **Challenge Rating:** 1/2
+- **Challenge Rating:** 1/2 (100 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |

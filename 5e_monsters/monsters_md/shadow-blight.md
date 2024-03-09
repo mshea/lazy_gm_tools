@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 65 (10d6+30)
 - **Speed:** walk 40 ft.
-- **Challenge Rating:** 1
+- **Challenge Rating:** 1 (200 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 13 (+1) | 15 (+2) | 16 (+3) | 5 (-3) | 16 (+3) | 3 (-4) |
 
 - **Skills:** stealth +4
-- **Damage Vulnerabilities:** blinded, deafened
+- **Damage Vulnerabilities:** fire
 - **Damage Resistances:** cold, necrotic
 - **Condition Immunities:** blinded, deafened
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 13

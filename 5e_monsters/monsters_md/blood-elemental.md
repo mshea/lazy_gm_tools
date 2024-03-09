@@ -5,14 +5,14 @@
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 95 (10d10+40)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 13 (+1) | 18 (+4) | 5 (-3) | 10 (+0) | 5 (-3) |
 
-- **Damage Vulnerabilities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Damage Vulnerabilities:** poison
 - **Damage Immunities:** necrotic, psychic
 - **Damage Resistances:** acid, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious

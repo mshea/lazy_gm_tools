@@ -5,14 +5,14 @@
 - **Armor Class:** 9
 - **Hit Points:** 93 (11d8+44)
 - **Speed:** climb 20 ft. walk 20 ft.
-- **Challenge Rating:** 6
+- **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 8 (-1) | 18 (+4) | 2 (-4) | 6 (-2) | 1 (-5) |
 
-- **Damage Vulnerabilities:** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Damage Vulnerabilities:** lightning
 - **Damage Immunities:** acid, fire
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone

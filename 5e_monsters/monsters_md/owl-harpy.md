@@ -5,7 +5,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 112 (15d8+45)
 - **Speed:** walk 20 ft. fly 80 ft. hover True ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 12 (+1) | 17 (+3) | 16 (+3) | 11 (+0) | 14 (+2) | 14 (+2) |
 
 - **Skills:** performance +7, stealth +6
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** thunder
 - **Senses:** blindsight 60 ft., passive Perception 12
 - **Languages:** Common, Abyssal, Giant
 ### Special Abilities

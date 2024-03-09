@@ -5,7 +5,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 10 (3d6)
 - **Speed:** walk 25 ft.
-- **Challenge Rating:** 1/8
+- **Challenge Rating:** 1/8 (25 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Dex +4
 - **Skills:** stealth +4
-- **Damage Vulnerabilities:** charmed, petrified, poisoned, unconscious
+- **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold, poison
 - **Condition Immunities:** charmed, petrified, poisoned, unconscious
 - **Senses:** darkvision 30 ft., passive Perception 8

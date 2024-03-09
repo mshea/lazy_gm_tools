@@ -5,7 +5,7 @@
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 218 (19d12+95)
 - **Speed:** walk 40 ft. burrow 10 ft. swim 30 ft.
-- **Challenge Rating:** 15
+- **Challenge Rating:** 15 (13,000 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -14,7 +14,7 @@
 
 - **Saving Throws**: Con +1, Wis +6
 - **Skills:** perception +1
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** acid
 - **Damage Immunities:** cold 
 - **Damage Resistances:** nonmagic B/P/S attacks
 - **Senses:** darkvision 120', passive Perception 16

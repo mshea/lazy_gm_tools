@@ -5,7 +5,7 @@
 - **Armor Class:** 13 (chain shirt)
 - **Hit Points:** 67 (9d8+27)
 - **Speed:** walk 40 ft.
-- **Challenge Rating:** 2
+- **Challenge Rating:** 2 (450 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |

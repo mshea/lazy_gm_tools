@@ -5,7 +5,7 @@
 - **Armor Class:** 17 (Armor of Foresight)
 - **Hit Points:** 162 (25d8+50)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 12
+- **Challenge Rating:** 12 (8,400 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |

@@ -5,7 +5,7 @@
 - **Armor Class:** 12 (in humanoid form, 14 (natural armor) in horse or hybrid form)
 - **Hit Points:** 77 (14d8+14)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 4
+- **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |

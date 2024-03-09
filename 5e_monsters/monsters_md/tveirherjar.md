@@ -5,7 +5,7 @@
 - **Armor Class:** 18 (chain mail, shield)
 - **Hit Points:** 102 (12d8+48)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 7
+- **Challenge Rating:** 7 (2,900 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |

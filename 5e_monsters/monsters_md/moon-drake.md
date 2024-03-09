@@ -5,7 +5,7 @@
 - **Armor Class:** 15
 - **Hit Points:** 76 (9d8+36)
 - **Speed:** fly 100 ft. walk 25 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +13,7 @@
 | 10 (+0) | 20 (+5) | 19 (+4) | 13 (+1) | 18 (+4) | 14 (+2) |
 
 - **Skills:** arcana +4, insight +7
-- **Damage Vulnerabilities:** paralyzed, unconscious
+- **Damage Vulnerabilities:** varies (see Moonbound)
 - **Damage Resistances:** varies (see Moonbound)
 - **Condition Immunities:** paralyzed, unconscious
 - **Senses:** darkvision 120 ft., passive Perception 14

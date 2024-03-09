@@ -5,14 +5,14 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 188 (13d20+52)
 - **Speed:** walk 0 ft. swim 40 ft.
-- **Challenge Rating:** 9
+- **Challenge Rating:** 9 (5,000 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 10 (+0) | 19 (+4) | 4 (-3) | 10 (+0) | 5 (-3) |
 
-- **Damage Vulnerabilities:** blinded
+- **Damage Vulnerabilities:** piercing
 - **Damage Resistances:** acid, thunder
 - **Condition Immunities:** blinded
 - **Senses:** blindsight 120 ft., passive Perception 10

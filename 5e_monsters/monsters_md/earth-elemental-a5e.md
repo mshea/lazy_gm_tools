@@ -5,14 +5,14 @@
 - **Armor Class:** 17
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 30 ft. burrow 30 ft.
-- **Challenge Rating:** 5
+- **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 10 (+0) | 6 (-2) |
 
-- **Damage Vulnerabilities:** fatigue, paralyzed, petrified, poisoned, unconscious
+- **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** poison
 - **Damage Resistances:** damage from nonmagical weapons
 - **Condition Immunities:** fatigue, paralyzed, petrified, poisoned, unconscious

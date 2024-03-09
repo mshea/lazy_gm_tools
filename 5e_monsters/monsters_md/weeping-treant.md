@@ -5,14 +5,14 @@
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 105 (10d12+40)
 - **Speed:** walk 30 ft.
-- **Challenge Rating:** 6
+- **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition-print/)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 21 (+5) | 8 (-1) | 20 (+5) | 12 (+1) | 16 (+3) | 11 (+0) |
 
-- **Damage Vulnerabilities:** 
+- **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning and piercing
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Druidic, Elvish, Sylvan
