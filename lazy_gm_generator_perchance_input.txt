@@ -17,10 +17,10 @@ output
   [encounter_output] ^[generator_type == "encounter"]
   [quest_output] ^[generator_type == "quest"]
   [dmg_magic_item_output] ^[generator_type == "dmg_magic_item"]
-  [Roll1 = D100.selectOne.evaluateItem,Roll2 = D100.selectOne.evaluateItem,""] [Coins=createInstance(CoinsT1), Coins.Description] (["<b>"][Math.floor(Coins.Value)]gp["</b>"]); [Roll=Roll1,TreasureT1][Legend==1 ? "<br>" : ""][Roll=Roll2, Legend==1 ? TreasureT1 : ""] ["<b>"][TreasureValue]gp["</b>"]; [Roll=Roll1,MagicItemsT1][Legend==1 ? "<br>" : ""][Roll=Roll2, Legend==1 ? MagicItemsT1 : ""][TreasureValue=0,""] ^[generator_type == "tier_1_treasure_hoard"]
-  [Roll1 = D100.selectOne.evaluateItem,Roll2 = D100.selectOne.evaluateItem,""] [Coins=createInstance(CoinsT2), Coins.Description] (["<b>"][Math.floor(Coins.Value)]gp["</b>"]); [Roll=Roll1,TreasureT2][Legend==1 ? "<br>" : ""][Roll=Roll2, Legend==1 ? TreasureT2 : ""] ["<b>"][TreasureValue]gp["</b>"]; [Roll=Roll1,MagicItemsT2][Legend==1 ? "<br>" : ""][Roll=Roll2, Legend==1 ? MagicItemsT2 : ""][TreasureValue=0,""] ^[generator_type == "tier_2_treasure_hoard"]
-  [Roll1 = D100.selectOne.evaluateItem,Roll2 = D100.selectOne.evaluateItem,""] [Coins=createInstance(CoinsT3), Coins.Description] (["<b>"][Math.floor(Coins.Value)]gp["</b>"]); [Roll=Roll1,TreasureT3][Legend==1 ? "<br>" : ""][Roll=Roll2, Legend==1 ? TreasureT3 : ""] ["<b>"][TreasureValue]gp["</b>"]; [Roll=Roll1,MagicItemsT3][Legend==1 ? "<br>" : ""][Roll=Roll2, Legend==1 ? MagicItemsT3 : ""][TreasureValue=0,""] ^[generator_type == "tier_3_treasure_hoard"]
-  [Roll1 = D100.selectOne.evaluateItem,Roll2 = D100.selectOne.evaluateItem,""] [Coins=createInstance(CoinsT4), Coins.Description] (["<b>"][Math.floor(Coins.Value)]gp["</b>"]); [Roll=Roll1,TreasureT4][Legend==1 ? "<br>" : ""][Roll=Roll2, Legend==1 ? TreasureT4 : ""] ["<b>"][TreasureValue]gp["</b>"]; [Roll=Roll1,MagicItemsT4][Legend==1 ? "<br>" : ""][Roll=Roll2, Legend==1 ? MagicItemsT4 : ""][TreasureValue=0,""] ^[generator_type == "tier_4_treasure_hoard"]
+  [Roll1 = D100.selectOne.evaluateItem,Roll2 = D100.selectOne.evaluateItem,""] [Coins=createInstance(CoinsT1), Coins.Description] (["<b>"][Math.floor(Coins.Value)]gp["</b>"]); [Roll=Roll1,TreasureT1][Legend==1 ? ", " : ""][Roll=Roll2, Legend==1 ? TreasureT1 : ""] ["<b>"][TreasureValue]gp["</b>"]; [Roll=Roll1,MagicItemsT1][Legend==1 ? ", " : ""][Roll=Roll2, Legend==1 ? MagicItemsT1 : ""][TreasureValue=0,""] ^[generator_type == "tier_1_treasure_hoard"]
+  [Roll1 = D100.selectOne.evaluateItem,Roll2 = D100.selectOne.evaluateItem,""] [Coins=createInstance(CoinsT2), Coins.Description] (["<b>"][Math.floor(Coins.Value)]gp["</b>"]); [Roll=Roll1,TreasureT2][Legend==1 ? ", " : ""][Roll=Roll2, Legend==1 ? TreasureT2 : ""] ["<b>"][TreasureValue]gp["</b>"]; [Roll=Roll1,MagicItemsT2][Legend==1 ? ", " : ""][Roll=Roll2, Legend==1 ? MagicItemsT2 : ""][TreasureValue=0,""] ^[generator_type == "tier_2_treasure_hoard"]
+  [Roll1 = D100.selectOne.evaluateItem,Roll2 = D100.selectOne.evaluateItem,""] [Coins=createInstance(CoinsT3), Coins.Description] (["<b>"][Math.floor(Coins.Value)]gp["</b>"]); [Roll=Roll1,TreasureT3][Legend==1 ? ", " : ""][Roll=Roll2, Legend==1 ? TreasureT3 : ""] ["<b>"][TreasureValue]gp["</b>"]; [Roll=Roll1,MagicItemsT3][Legend==1 ? ", " : ""][Roll=Roll2, Legend==1 ? MagicItemsT3 : ""][TreasureValue=0,""] ^[generator_type == "tier_3_treasure_hoard"]
+  [Roll1 = D100.selectOne.evaluateItem,Roll2 = D100.selectOne.evaluateItem,""] [Coins=createInstance(CoinsT4), Coins.Description] (["<b>"][Math.floor(Coins.Value)]gp["</b>"]); [Roll=Roll1,TreasureT4][Legend==1 ? ", " : ""][Roll=Roll2, Legend==1 ? TreasureT4 : ""] ["<b>"][TreasureValue]gp["</b>"]; [Roll=Roll1,MagicItemsT4][Legend==1 ? ", " : ""][Roll=Roll2, Legend==1 ? MagicItemsT4 : ""][TreasureValue=0,""] ^[generator_type == "tier_4_treasure_hoard"]
   [element.sentenceCase] [trap] and [element] [trap] triggered by [trigger]. ^[generator_type == "trap"]
   [unique_magic_weapon] ^ [generator_type == "unique_magic_weapon"]
   [unique_magic_armor] ^ [generator_type == "unique_magic_armor"]
@@ -7220,10 +7220,11 @@ a5e_cr_41_items
   [magic_item_table_10.selectMany([d4]).join("<br>")]<br> ^3
 
 
+
 // Mike's custom treasure tables based on A5E
 
 lgm_cr_0_4_treasure
-  [Coins=createInstance(lgm_cr_0_4_coins), Coins.Description] (["<b>"][Math.floor(Coins.Value).toLocaleString()]gp["</b>"])<br>[lgm_cr_0_4_valuables][lgm_cr_0_4_items]
+  [Coins=createInstance(lgm_cr_0_4_coins), Coins.Description] (["<b>"][Math.floor(Coins.Value).toLocaleString()]gp["</b>"]), [lgm_cr_0_4_valuables] [lgm_cr_0_4_items]
 
 lgm_cr_0_4_coins
   CP = [(d6 + d6 + d6 + d6 + d6 + d6) *rand_100]
@@ -7236,17 +7237,17 @@ lgm_cr_0_4_coins
 
 lgm_cr_0_4_valuables
   ^4
-  25 gp [valuables_25]<br> ^4
-  50 gp [gems_50]<br> ^4
-  25 gp [valuables_25.selectMany(d4).join("<br>25 gp ")]<br> ^3
-  75 gp [valuables_75]<br>[d4] x 10 gp [gems_10]<br> ^3
+  25 gp [valuables_25],  ^4
+  50 gp [gems_50],  ^4
+  25 gp [valuables_25.selectMany(d4).join(", 25 gp ")],  ^3
+  75 gp [valuables_75], [d4] x 10 gp [gems_10],  ^3
 
 lgm_cr_0_4_items
   ^10
-  [uncommon_dmg_items.selectMany(d4).join("<br>")]<br> ^10
+  [uncommon_dmg_items.selectMany(d4).join(", ")],  ^10
 
 lgm_cr_5_10_treasure
-  [Coins=createInstance(lgm_cr_5_10_coins), Coins.Description] (["<b>"][Math.floor(Coins.Value).toLocaleString()]gp["</b>"])<br>[lgm_cr_5_10_valuables][lgm_cr_5_10_items]
+  [Coins=createInstance(lgm_cr_5_10_coins), Coins.Description] (["<b>"][Math.floor(Coins.Value).toLocaleString()]gp["</b>"]), [lgm_cr_5_10_valuables] [lgm_cr_5_10_items]
 
 lgm_cr_5_10_coins
   SP = [(d8) *rand_100]
@@ -7257,20 +7258,20 @@ lgm_cr_5_10_coins
   Description = [this.SP.toLocaleString()] sp, [this.GP.toLocaleString()] gp, [this.PP.toLocaleString()] pp
 
 lgm_cr_5_10_valuables
-  [d8] x 100 gp [gems_100]<br>
-  750 gp [valuables_750]<br>
-  1,000 gp [gems_1000]<br>
-  250 gp [valuables_250.selectMany(d4).join("<br>250 gp ")]<br>
-  [d6] x 500 gp [gems_500]<br>
+  [d8] x 100 gp [gems_100], 
+  750 gp [valuables_750], 
+  1,000 gp [gems_1000], 
+  250 gp [valuables_250.selectMany(d4).join(", 250 gp ")], 
+  [d6] x 500 gp [gems_500], 
 
 lgm_cr_5_10_items
   ^10
-  [uncommon_dmg_items.selectMany(d6).join("<br>")]<br> ^5
-  [rare_dmg_items.selectMany(d4).join("<br>")]<br> ^5
-  [uncommon_dmg_items.selectMany(d4).join("<br>")]<br>[rare_dmg_items.selectMany(d2).join("<br>")]<br> ^5
+  [uncommon_dmg_items.selectMany(d6).join(", ")],  ^5
+  [rare_dmg_items.selectMany(d4).join(", ")],  ^5
+  [uncommon_dmg_items.selectMany(d4).join(", ")], [rare_dmg_items.selectMany(d2).join(", ")],  ^5
   
 lgm_cr_11_16_treasure
-  [Coins=createInstance(lgm_cr_11_16_coins), Coins.Description] (["<b>"][Math.floor(Coins.Value).toLocaleString()]gp["</b>"])<br>[lgm_cr_11_16_valuables][lgm_cr_11_16_items]
+  [Coins=createInstance(lgm_cr_11_16_coins), Coins.Description] (["<b>"][Math.floor(Coins.Value).toLocaleString()]gp["</b>"]), [lgm_cr_11_16_valuables] [lgm_cr_11_16_items]
 
 lgm_cr_11_16_coins
   GP = [(d6 + d6 + d6 + d6) *rand_1000]
@@ -7279,22 +7280,22 @@ lgm_cr_11_16_coins
   Description = [this.GP.toLocaleString()] gp, [this.PP.toLocaleString()] pp
 
 lgm_cr_11_16_valuables
-  5,000 gp [gems_5000]<br>
-  7,500 gp [valuables_7500.selectMany(d4).join("<br>7,500 gp ")]<br>
-  7,500 gp [valuables_7500]<br>[d4] x 1,000 gp [gems_1000]<br>
-  [d4] x 5,000 gp [gems_5000]<br>
-  2,500 gp [valuables_2500.selectMany(d4).join("<br>2,500 gp ")]<br>[d10] x 1,000 gp [gems_1000]<br>
+  5,000 gp [gems_5000], 
+  7,500 gp [valuables_7500.selectMany(d4).join(", 7,500 gp ")], 
+  7,500 gp [valuables_7500], [d4] x 1,000 gp [gems_1000], 
+  [d4] x 5,000 gp [gems_5000], 
+  2,500 gp [valuables_2500.selectMany(d4).join(", 2,500 gp ")], [d10] x 1,000 gp [gems_1000], 
 
 lgm_cr_11_16_items
   ^15
-  [uncommon_dmg_items.selectMany(d6).join("<br>")]<br> ^5
-  [rare_dmg_items.selectMany(d4).join("<br>")]<br> ^5
-  [uncommon_dmg_items.selectMany(d4).join("<br>")]<br>[rare_dmg_items.selectMany(d2).join("<br>")]<br> ^5
-  [very_rare_dmg_items.selectMany(d4).join("<br>")]<br> ^5
-  [rare_dmg_items.selectMany(d4).join("<br>")]<br>[very_rare_dmg_items.selectMany(d2).join("<br>")]<br> ^5
+  [uncommon_dmg_items.selectMany(d6).join(", ")],  ^5
+  [rare_dmg_items.selectMany(d4).join(", ")],  ^5
+  [uncommon_dmg_items.selectMany(d4).join(", ")], [rare_dmg_items.selectMany(d2).join(", ")],  ^5
+  [very_rare_dmg_items.selectMany(d4).join(", ")],  ^5
+  [rare_dmg_items.selectMany(d4).join(", ")], [very_rare_dmg_items.selectMany(d2).join(", ")],  ^5
 
 lgm_cr_17plus_treasure
-  [Coins=createInstance(lgm_cr_17plus_coins), Coins.Description] (["<b>"][Math.floor(Coins.Value).toLocaleString()]gp["</b>"])<br>[lgm_cr_17plus__valuables][lgm_cr_17plus__items]
+  [Coins=createInstance(lgm_cr_17plus_coins), Coins.Description] (["<b>"][Math.floor(Coins.Value).toLocaleString()]gp["</b>"]), [lgm_cr_17plus__valuables] [lgm_cr_17plus__items]
 
 lgm_cr_17plus_coins
   GP = [(d6 + d6 + d6 + d6 + d6 + d6 + d6 + d6 + d6 + d6 + d6 + d6) *rand_1000]
@@ -7303,20 +7304,19 @@ lgm_cr_17plus_coins
   Description = [this.GP.toLocaleString()] gp, [this.PP.toLocaleString()] pp
 
 lgm_cr_17plus__valuables
-  [d8 + d8 + d8] x 5,000 gp gemstones<br>
-  15,000 gp [valuables_7500.selectMany(d4).join("<br>15,000 gp ")]<br>
-  15,000 gp [valuables_7500.selectMany(d4).join("<br>15,000 gp ")]<br>[d6 + d6] x 5,000 gp [gems_5000]<br>
-  15,000 gp [valuables_25000.selectMany(d4).join("<br>15,000 gp ")]<br>[d10 + d10] x 5,000 gp [gems_5000]<br>
-  20,000 gp [valuables_25000.selectMany(d4).join("<br>20,000 gp ")]<br>[d12 + d12] x 5,000 gp [gems_5000]<br>
+  [d8 + d8 + d8] x 5,000 gp gemstones, 
+  15,000 gp [valuables_7500.selectMany(d4).join(", 15,000 gp ")], 
+  15,000 gp [valuables_7500.selectMany(d4).join(", 15,000 gp ")], [d6 + d6] x 5,000 gp [gems_5000], 
+  15,000 gp [valuables_25000.selectMany(d4).join(", 15,000 gp ")], [d10 + d10] x 5,000 gp [gems_5000], 
+  20,000 gp [valuables_25000.selectMany(d4).join(", 20,000 gp ")], [d12 + d12] x 5,000 gp [gems_5000], 
 
 lgm_cr_17plus__items
   ^10
-  [rare_dmg_items.selectMany(d4).join("<br>")]<br> ^2
-  [very_rare_dmg_items.selectMany(d4).join("<br>")]<br> ^2
-  [rare_dmg_items.selectMany(d4).join("<br>")]<br>[very_rare_dmg_items.selectMany(d2).join("<br>")]<br> ^2
-  [legendary_dmg_items.selectMany(d4).join("<br>")]<br> ^2
-  [very_rare_dmg_items.selectMany(d4).join("<br>")]<br>[legendary_dmg_items.selectMany(d2).join("<br>")]<br> ^2
-
+  [rare_dmg_items.selectMany(d4).join(", ")],  ^2
+  [very_rare_dmg_items.selectMany(d4).join(", ")],  ^2
+  [rare_dmg_items.selectMany(d4).join(", ")], [very_rare_dmg_items.selectMany(d2).join(", ")],  ^2
+  [legendary_dmg_items.selectMany(d4).join(", ")],  ^2
+  [very_rare_dmg_items.selectMany(d4).join(", ")], [legendary_dmg_items.selectMany(d2).join(", ")],  ^2
 weapons
   [condition] [origin] shortsword [setting_select] ^10
   [condition] [origin] longsword [setting_select] ^9
@@ -7325,7 +7325,7 @@ weapons
   [condition] [origin] dagger [setting_select] ^10
   [condition] [origin] spear [setting_select] ^6
   [condition] [origin] mace [setting_select] ^5
-  [condition] [origin] marhammer [setting_select] ^4
+  [condition] [origin] warhammer [setting_select] ^4
   [condition] [origin] rapier [setting_select] ^8
   [condition] [origin] longbow [setting_select] ^7
   [condition] [origin] crossbow [setting_select] ^6
