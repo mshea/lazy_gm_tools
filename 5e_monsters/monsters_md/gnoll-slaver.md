@@ -6,7 +6,7 @@
 - **Hit Points:** 71 (11d8+22)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 189
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Whip:** Melee Weapon Attack: +6 to hit, reach 10ft., one target. Hit: 6 (1d4 + 4) slashing damage.
 - **Longbow:** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Menace Captives (Recharge 5-6):** The gnoll selects up to three creatures it has taken captive within 30 feet. Each creature must succeed on a DC 15 Wisdom saving throw or have disadvantage for 1 minute on any attack rolls or skill checks to take actions other than those the gnoll has ordered it to take.
+
+

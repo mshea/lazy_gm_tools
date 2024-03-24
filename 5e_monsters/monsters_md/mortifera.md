@@ -6,7 +6,7 @@
 - **Hit Points:** 135 (18d10+36)
 - **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 278
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Slam:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 10 (1d12+4) bludgeoning damage.
 - **Chomp:** One creature grappled by mortifera is pulled up to 5 ft. to mortifera’s central maw which chomps on creature. Target: 10 (3d6) piercing damage and 13 (3d8) poison (DC 15 Str half).
 - **Poison Spray (Recharge 5–6):** Sprays poison from its central maw in a 30' cone. Each creature in that area: 27 (6d8) poison (DC 15 Dex half).
+
+

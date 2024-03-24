@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d8+42)
 - **Speed:** walk 30 ft. swim 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 324
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 ### Actions
 - **Multiattack:** The shimmer seal makes two tusk attacks.
 - **Tusk:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 14 (3d6 + 4) slashing damage.
+
+

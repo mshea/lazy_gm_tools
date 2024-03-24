@@ -6,7 +6,7 @@
 - **Hit Points:** 63 (14d6+14)
 - **Speed:** climb 15 ft. walk 25 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 319
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Multiattack:** The roachling scout makes two begrimed shortsword attacks or two begrimed dart attacks.
 - **Begrimed Shortsword:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) poison damage.
 - **Begrimed Dart:** Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage plus 7 (2d6) poison damage.
+
+

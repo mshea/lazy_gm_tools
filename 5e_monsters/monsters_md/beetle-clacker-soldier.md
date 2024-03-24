@@ -6,7 +6,7 @@
 - **Hit Points:** 18 (4d6+4)
 - **Speed:** walk 20 ft. climb 20 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 54
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit, 0 ft., one creature,. 11 (2d8+2) piercing damage.
 - **Clack:** Clacks its mandibles to create small but dangerous booming noise in 15 ft. cone. Each creature in area: 5 (2d4) thunder (DC 13 Con half). When multiple beetles clack in same turn and create overlapping cones each creature in overlapping cones makes one save with disadvantage vs. total damage from all overlapping cones rather than one save for each.
+
+

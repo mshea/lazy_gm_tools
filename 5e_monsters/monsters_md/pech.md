@@ -6,7 +6,7 @@
 - **Hit Points:** 33 (6d6+12)
 - **Speed:** climb 10 ft. walk 20 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 294
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Multiattack:** The pech makes two attacks: one with its pick and one with its hammer. If the pech hits the same target with both attacks, the target must succeed on a DC 11 Constitution saving throw or be incapacitated until the start of its next turn.
 - **Pick:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Hammer:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+
+

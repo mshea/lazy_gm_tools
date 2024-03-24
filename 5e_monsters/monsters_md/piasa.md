@@ -6,7 +6,7 @@
 - **Hit Points:** 144 (17d10+51)
 - **Speed:** fly 80 ft. walk 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 298
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Tail:** Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 13 (2d8 + 4) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). Until this grapple ends, the target is restrained and the piasa can't make tail attacks against other targets. When the piasa moves, any Medium or smaller creature it is grappling moves with it.
 - **Frightful Presence:** Each creature of the piasa's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the piasa's Frightful Presence for the next 24 hours.
 - **Sleep Breath (Recharge 5-6):** The piasa exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+

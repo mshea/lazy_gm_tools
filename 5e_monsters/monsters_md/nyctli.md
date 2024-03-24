@@ -6,7 +6,7 @@
 - **Hit Points:** 7 (3d4)
 - **Speed:** fly 40 ft. hover True ft. walk 10 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 271
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -18,3 +18,5 @@
 ### Actions
 - **Stingers:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 1 piercing damage plus 3 (1d6) necrotic damage, and the target must succeed on a DC 11 Constitution saving throw or be blinded until the end of its next turn.
 - **Douse Light:** The nyctli magically dispels or douses a single magical or nonmagical light source within 30 feet of it. The nyctli can’t dispel light created by a spell of 3rd level or higher.
+
+

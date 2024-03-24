@@ -6,7 +6,7 @@
 - **Hit Points:** 170 (20d8+80)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 228
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Spellcasting:** Wis (DC 17) no material components: At will: charm person entangle  • 3/day: plant growth1/day: contagion
 ### Bonus Actions
 - **Nettling Word:** Heckles mocks or jeers one creature she can see within 30' of her. If creature can hear and understand her enraged until end of its next turn (DC 16 Cha negates). While enraged: advantage on melee attacks unable to distinguish friend from foe and must move to and attack nearest creature (not hag). If none is near enough to move to and attack enraged creature stalks off in random direction. Attacks vs. enraged creature: advantage.
+
+

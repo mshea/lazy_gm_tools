@@ -6,7 +6,7 @@
 - **Hit Points:** 49 (9d6+18)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 308
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Freezing Steel (Recharge 6):** Each creature within 10 feet of the quickstep must make a DC 15 Constitution saving throw as the quickstep whirls in a blur of cold steel. On a failure, a target takes 9 (2d8) piercing damage and 7 (2d6) cold damage and is paralyzed for 1 round. On a success, a target takes half the piercing and cold damage and isn't paralyzed.
 ### Reactions
 - **Quick Dodge:** When a creature the quickstep can see targets it with an attack, the quickstep can move to an unoccupied space within 5 feet of it without provoking opportunity attacks. If this movement would put the quickstep out of reach of the attacker, the attack misses.
+
+

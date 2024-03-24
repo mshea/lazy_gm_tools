@@ -6,7 +6,7 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 40 ft. climb 20 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 269
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one creature,. 13 (2d8+4) piercing damage. If the target is a creature other than an Undead or Construct it must make DC 12 Con save or lose 2 (1d4) hp at the start of each of its turns due to a bleeding wound. The creature can re-save at end of each of its turns success ends effect on itself. Any creature can take an action to stanch the wound with successful DC 12 Wis (Medicine) check. The wound also closes if the target receives magical healing.
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one creature,. 11 (2d6+4) slashing damage.
+
+

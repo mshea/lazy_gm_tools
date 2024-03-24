@@ -6,7 +6,7 @@
 - **Hit Points:** 341 (22d20+110)
 - **Speed:** climb 30 ft. walk 30 ft.
 - **Challenge Rating:** 21 (33,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 332
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,11 @@
 - **Amorphous:** The avatar, including its equipment, can move through a space as narrow as 1 inch wide without squeezing.
 - **Legendary Resistance (3/Day):** If the avatar fails a saving throw, it can choose to succeed instead.
 - **Soothing Aura:** Any creature hostile to the avatar that starts its turn within 30 feet of the avatar must succeed on a DC 20 Wisdom saving throw or have disadvantage on all attack rolls until the end of its next turn. Creatures with Intelligence 3 or lower automatically fail the saving throw.
-- **Innate Spellcasting (Psionics):** The avatar's innate spellcasting ability is Charisma (spell casting DC 21, +13 to hit with spell attacks). It may cast the following spells innately, requiring no components: At will: acid splash (4d6), light, spare the dying, true strike 3/day each: bless, blur, command, darkness, enthrall, shield 2/day each: counterspell, dispel magic 1/day each: black tentacles, confusion
+- **Innate Spellcasting (Psionics):** The avatar's innate spellcasting ability is Charisma (spell casting DC 21, +13 to hit with spell attacks). It may cast the following spells innately, requiring no components:
+At will: acid splash (4d6), light, spare the dying, true strike
+3/day each: bless, blur, command, darkness, enthrall, shield
+2/day each: counterspell, dispel magic
+1/day each: black tentacles, confusion
 ### Actions
 - **Multiattack:** The avatar makes three oozing tentacle attacks.
 - **Oozing Tentacle:** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 31 (4d12 + 5) bludgeoning damage and 14 (4d6) acid damage.

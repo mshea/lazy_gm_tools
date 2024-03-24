@@ -6,7 +6,7 @@
 - **Hit Points:** 5 (2d4)
 - **Speed:** walk 5 ft. fly 50 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 248
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -20,3 +20,5 @@
 - **Speak with Beasts:** The lymarien can communicate with beasts as if they shared a language.
 ### Actions
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
+
+

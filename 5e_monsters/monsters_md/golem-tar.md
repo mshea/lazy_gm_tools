@@ -6,7 +6,7 @@
 - **Hit Points:** 119 (14d8+56)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 218
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -33,3 +33,5 @@
 ### Bonus Actions
 - **Quench (Burning Only):** Puts out fire on it deactivating Fire Hazard.
 - **Draw Flames:** Extinguishes up to 10 ft. cube of nonmagical fire within 5 ft. of it drawing fire into itself and activating its Fire Hazard.
+
+

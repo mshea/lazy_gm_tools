@@ -6,12 +6,13 @@
 - **Hit Points:** 161 (19d8+76)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 367
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 16 (+3) | 18 (+4) | 16 (+3) | 16 (+3) | 20 (+5) |
 
+- **Skills:** deception +10, insight +8
 - **Damage Resistances:** bludgeoning and slashing from nonmagical weapons
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Infernal, one other
@@ -30,6 +31,5 @@
 - **Quickened Spell:** The rakshasa casts invisibility or fly.
 ### Reactions
 - **Counterproposal:** The rakshasa uses Sweet Promises on a creature that attacked it or attempted to target it with a spell.
-- **Shapeshift:** The rakshasa magically changes its form to that of any Medium or Small humanoid or to its true form. While shapeshifted, its statistics are unchanged.
-- **Read Thoughts:** The rakshasa magically reads the surface thoughts of one creature within 60 feet that it can see. Until the end of the rakshasas turn, it has advantage on attack rolls and on Deception, Insight, Intimidation, and Persuasion checks against the creature.
-- **Quickened Spell:** The rakshasa casts invisibility or fly.
+
+

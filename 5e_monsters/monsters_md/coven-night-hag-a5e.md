@@ -6,13 +6,14 @@
 - **Hit Points:** 120 (16d8+48)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 270
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
 - **Saving Throws**: Con +6, Wis +5
+- **Skills:** arcana +6, deception +6, insight +5, perception +5, stealth +5
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Abyssal, Common, Infernal
 ### Special Abilities
@@ -29,4 +30,5 @@
 - **Fragmentary Dream:** The hag creates a terrifying illusion visible only to one creature that it can see within 120 feet. The creature makes a DC 14 Wisdom saving throw. It takes 22 (4d10) psychic damage and becomes frightened until the end of its turn on a failure, or takes half damage on a success.
 ### Reactions
 - **Steal Magic (3/Day):** When a creature the hag can see within 60 feet casts a spell using a 3rd-level or lower spell slot, the hag attempts to steal its power. The caster makes a DC 14 saving throw using its spellcasting ability. On a failure, the spell fails, and the hag gains 5 (1d10) temporary hit points per level of the spell slot used.
-- **Fragmentary Dream:** The hag creates a terrifying illusion visible only to one creature that it can see within 120 feet. The creature makes a DC 14 Wisdom saving throw. It takes 22 (4d10) psychic damage and becomes frightened until the end of its turn on a failure, or takes half damage on a success.
+
+

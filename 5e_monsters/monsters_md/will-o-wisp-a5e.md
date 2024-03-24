@@ -6,12 +6,13 @@
 - **Hit Points:** 28 (8d6)
 - **Speed:** walk 0 ft. fly 50 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 425
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 24 (+7) | 10 (+0) | 12 (+1) | 14 (+2) | 12 (+1) |
 
+- **Skills:** 
 - **Damage Immunities:** lightning, poison
 - **Damage Resistances:** acid, cold, fire, necrotic, thunder; damage from nonmagical weapons
 - **Condition Immunities:** fatigue, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
@@ -26,3 +27,5 @@
 - **Shock:** Melee Spell Attack: +4 to hit  reach 5 ft.  one target. Hit: 10 (3d6) lightning damage. The will-o-wisp can't make this attack while its glow is extinguished.
 ### Bonus Actions
 - **Illumination:** The will-o-wisp alters the radius of its glow (shedding bright light in a 5- to 20-foot radius and dim light for the same number of feet beyond that radius), changes the color of its glow, or extinguishes its glow (making it invisible).
+
+

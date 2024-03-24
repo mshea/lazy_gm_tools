@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 30 ft. fly 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 217
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -34,3 +34,5 @@
 - **Trumpeting Blast (Swan Form Recharge 5–6):** Emits a trumpeting blast in 30' cone. Each creature in area: 31 (7d8) thunder and deafened until end of its next turn (DC 15 Con half not deafened).
 ### Bonus Actions
 - **Fold:** Reshape papery body to resemble Large dragon Large swan or Med frog. Use again to unfold into Large flat piece of fabric/paper. Stats except size same in each form. Unfolded if it dies.
+
+

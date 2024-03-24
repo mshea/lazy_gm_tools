@@ -6,13 +6,14 @@
 - **Hit Points:** 172 (23d8+69)
 - **Speed:** walk 60 ft. climb 60 ft.
 - **Challenge Rating:** 14 (11,500 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 465
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 20 (+5) | 16 (+3) | 10 (+0) | 20 (+5) | 10 (+0) |
 
 - **Saving Throws**: Str +8, Dex +10, Con +8, Int +5, Wis +10, Cha +5
+- **Skills:** acrobatics +10, athletics +8, perception +10, stealth +10
 - **Damage Resistances:** damage from nonmagical weapons
 - **Condition Immunities:** charmed, frightened, poisoned
 - **Senses:** passive Perception 22
@@ -33,4 +34,5 @@
 ### Reactions
 - **Deft Dodge (1/Round):** When an attacker that the grandmaster can see hits them with an attack, the grandmaster halves the attacks damage against them.
 - **Ascetic grandmasters lead the finest monasteries in the world or travel alone seeking worthy challenges and students:** They often appear unassuming, but challenging the speed and strength of these legendary martial artists is akin to challenging a hurricane.
-- **Trained Dash:** The grandmaster takes the Dash action.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 33 (6d8+6)
 - **Speed:** walk 20 ft. fly 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 316
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 ### Actions
 - **Talon:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) slashing damage.
 - **Hurl Flame:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 5 (1d6+2) fire.
+
+

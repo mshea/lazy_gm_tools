@@ -6,12 +6,13 @@
 - **Hit Points:** 60 (8d8+24)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 51
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 3 (-4) | 9 (-1) | 6 (-2) |
 
+- **Skills:** 
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 9
 - **Languages:** —
 ### Special Abilities
@@ -21,3 +22,5 @@
 - **Multiattack:** The brimstone locusthound makes two claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 4) slashing damage.
 - **Sticky Spittle:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 9 (2d6 + 2) acid damage, and the target must succeed on a DC 13 Dexterity saving throw or be restrained until the end of its next turn.
+
+

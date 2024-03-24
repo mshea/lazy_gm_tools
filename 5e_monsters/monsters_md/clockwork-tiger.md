@@ -6,12 +6,13 @@
 - **Hit Points:** 112 (15d10+30)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 68
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 15 (+2) | 7 (-2) | 10 (+0) | 6 (-2) |
 
+- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
@@ -27,3 +28,5 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
 ### Reactions
 - **Deflecting Leap:** When the clockwork tiger’s ward is the target of an attack the tiger can see, the tiger can move up to 10 feet toward its ward without provoking opportunity attacks. If it ends this movement within 5 feet of its ward, the tiger becomes the target of the attack instead.
+
+

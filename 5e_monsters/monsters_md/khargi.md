@@ -6,7 +6,7 @@
 - **Hit Points:** 147 (14d12+56)
 - **Speed:** walk 30 ft. fly 20 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 251
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Swarming Breath (Recharge 5–6):** Exhales biting stinging insects in a 30' cone. Each creature in that area: 31 (9d6) poison (DC 16 Con half).
 ### Reactions
 - **Adaptive Carapace:** When it takes acid cold force lightning or thunder it can magically attune itself to that type of damage. Until end of its next turn khargi has resistance to damage of the triggering type and when it hits with any weapon target takes an extra 7 (2d6) damage of the triggering type.
+
+

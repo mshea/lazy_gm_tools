@@ -6,7 +6,7 @@
 - **Hit Points:** 120 (16d8+48)
 - **Speed:** climb 40 ft. walk 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 92
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,6 +27,6 @@
 ### Actions
 - **Multiattack:** The vellso makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage and the target must succeed on a DC 15 Constitution saving throw or take 13 (3d8) necrotic damage and contract the carrion curse disease (see sidebar).
-- **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+- **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.<br><br>Constitution saving throw or gain one level of exhaustion. If an infected creature succeeds on the saving throw, it no longer gains exhaustion levels each day. A second successful save at the end of a long rest cures the disease. The abyssal disease resists many efforts at treatment and can only be cured by a greater restoration spell or similar magic. A living creature that dies from the effects of carrion curse has a 75% chance of rising again as a blood zombie (see page 393) within 24 hours.
 
-Constitution saving throw or gain one level of exhaustion. If an infected creature succeeds on the saving throw, it no longer gains exhaustion levels each day. A second successful save at the end of a long rest cures the disease. The abyssal disease resists many efforts at treatment and can only be cured by a greater restoration spell or similar magic. A living creature that dies from the effects of carrion curse has a 75% chance of rising again as a blood zombie (see page 393) within 24 hours.
+

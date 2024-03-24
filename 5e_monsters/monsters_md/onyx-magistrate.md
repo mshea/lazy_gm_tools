@@ -6,7 +6,7 @@
 - **Hit Points:** 123 (13d10+52)
 - **Speed:** fly 30 ft. walk 0 ft. hover True ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 276
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Dire Judgement (1/Day):** Each creature of the onyx magistrate’s choice that is within 30 feet of the magistrate and aware of it must succeed on a DC 16 Wisdom saving throw or be cursed with dire judgment. While cursed in this way, the creature can’t regain hp by magical means, though it can still regain hp from resting and other nonmagical means. In addition, when a cursed creature makes an attack roll or a saving throw, it must roll a d4 and subtract the number from the attack roll or saving throw. The curse lasts until it is lifted by a remove curse spell or similar magic.
 ### Reactions
 - **Tip the Scales (Recharge 5-6):** The onyx magistrate adds 3 to its AC against one attack that would hit it. Alternatively, the onyx magistrate succeeds on a saving throw it failed.
+
+

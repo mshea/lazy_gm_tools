@@ -6,7 +6,7 @@
 - **Hit Points:** 147 (14d10+70)
 - **Speed:** climb 15 ft. walk 30 ft. swim 15 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 138
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 ### Actions
 - **Multiattack:** The fabricator makes two disassembling slam attacks.
 - **Disassembling Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage plus 10 (3d6) force damage. A creature reduced to 0 hp by this attack immediately dies and its body and nonmagical equipment is disassembled and absorbed into the fabricator. The creature can be restored to life only by means of a true resurrection or a wish spell. The fabricator can choose to not disassemble a creature or its equipment after reducing it to 0 hp.
+
+

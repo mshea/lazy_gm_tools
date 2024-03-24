@@ -6,13 +6,14 @@
 - **Hit Points:** 85 (10d10+30)
 - **Speed:** walk 40 ft. swim 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 343
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
 - **Saving Throws**: Dex +6, Con +6, Wis +5, Cha +6
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12
@@ -29,3 +30,5 @@
 - **Vampiric Bite:** The naga attacks with its bite. If it hits and the target fails its saving throw against poison  the naga magically gains temporary hit points equal to the poison damage dealt.
 ### Reactions
 - **Shield (1st-Level; V):** When the naga is hit by an attack or targeted by magic missile, it gains a +5 bonus to AC (including against the triggering attack) and immunity to magic missile. These benefits last until the beginning of its next turn.
+
+

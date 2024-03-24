@@ -6,7 +6,7 @@
 - **Hit Points:** 76 (8d10+32)
 - **Speed:** climb 10 ft. swim 30 ft. walk 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 307
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 ### Actions
 - **Multiattack:** The purple slime makes two spike attacks.
 - **Spike:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage and 10 (3d6) poison damage. In addition, the target must succeed on a DC 14 Constitution saving throw or its Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+
+

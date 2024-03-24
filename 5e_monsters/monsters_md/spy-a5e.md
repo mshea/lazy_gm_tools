@@ -6,13 +6,14 @@
 - **Hit Points:** 27 (6d8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 468
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 14 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 14 (+2) |
 
 - **Saving Throws**: Dex +4, Wis +4
+- **Skills:** deception +4, insight +4, investigation +3, perception +4, persuasion +4, sleight +0, stealth +4
 - **Senses:** passive Perception 14
 - **Languages:** any two
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **Cunning Action:** The cutthroat takes the Dash, Disengage, Hide, or Use an Object action.
 - **Rapid Attack:** The cutthroat attacks with their shortsword.
 - **Spies use cunning and stealth to secretly gather information for nations:** 
+
+

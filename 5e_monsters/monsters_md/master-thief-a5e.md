@@ -6,13 +6,14 @@
 - **Hit Points:** 143 (22d8+44)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 17 (18,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 469
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 20 (+5) | 14 (+2) | 15 (+2) | 12 (+1) | 12 (+1) |
 
 - **Saving Throws**: Dex +11, Int +8, Wis +7
+- **Skills:** acrobatics +11, deception +7, perception +7, sleight +0, stealth +11
 - **Senses:** blindsight 20 ft., darkvision 60 ft., passive Perception 17
 - **Languages:** any three
 ### Special Abilities
@@ -29,3 +30,5 @@
 - **Cunning Action:** The assassin takes the Dash, Disengage, Hide, or Use an Object action.
 - **Rapid Attack:** The assassin attacks with their shortsword.
 - **Master thieves pride themselves on being able to steal anything:** Many master thieves avoid killing when possible.
+
+

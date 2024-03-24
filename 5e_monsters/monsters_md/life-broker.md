@@ -6,7 +6,7 @@
 - **Hit Points:** 190 (20d8+100)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 261
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Life Feast (Recharge 5–6):** Pulls life from hostile creatures within 30' of it that aren’t Constructs or Undead. Each such creature in the area: 36 (8d8) necrotic (DC 18 Con half). Broker gains temp hp equal to the single highest amount of necrotic dealt and has advantage on attack rolls until the end of its next turn.
 ### Bonus Actions
 - **Quick-Footed:** Takes Dash Disengage or Dodge.
+
+

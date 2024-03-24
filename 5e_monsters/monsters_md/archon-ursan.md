@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d10+60)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 43
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Thunderous Roar (Recharge 5–6):** Unleashes a terrifying roar in a 30' cone. Each creature in that area: 36 (8d8) thunder (DC 16 Con half). In addition each hostile creature within 60' of archon that can hear it: DC 15 Wis save or be frightened for 1 min. Creatures in the 30' cone have disadvantage on this save. A frightened creature can re-save at end of each of its turns success ends effect on itself.
 ### Reactions
 - **Rallying Roar:** When it reduces a creature to 0 hp it can utter a triumphant roar. Each friendly creature within 60' of the archon that is frightened paralyzed stunned or unconscious has advantage on its next save. A friendly creature with o those conditions has advantage on its next attack roll. In addition each friendly creature within 60' of archon that can hear the roar gains 14 (4d6) temp hp.
+
+

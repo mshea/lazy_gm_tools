@@ -6,7 +6,7 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 40 ft. burrow 40 ft. climb 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 283
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Wall of Earth:** Makes a wall of earth spring out of earth or rock on a point it can sense within 30' of it. Works like wall of stone spell except  can create only one 10 ft. × 10 ft. panel with AC 13 and 15 hp.
 ### Bonus Actions
 - **Earth Manipulation:** Can manipulate and move earth within 30' of it that fits within a 5 ft. cube. This manipulation is limited only by its imagination but it often includes creating caricatures of creatures to tell stories of travels or etching symbols to denote dangerous caverns or similar markers for those in the colony. It can also choose to make the ground within 10 ft. of it difficult terrain or to make difficult terrain normal if the ground is earth or stone. Changes caused by Earth Manipulation are permanent.
+
+

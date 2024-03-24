@@ -6,12 +6,13 @@
 - **Hit Points:** 93 (11d10+33)
 - **Speed:** walk 10 ft. climb 10 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 373
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 8 (-1) | 16 (+3) | 6 (-2) | 14 (+2) | 4 (-3) |
 
+- **Skills:** 
 - **Senses:** blindsight 30 ft., darkvision 60 ft., passive Perception 12
 - **Languages:** 
 ### Special Abilities
@@ -23,3 +24,5 @@
 - **Tendril:** Melee Weapon Attack: +7 to hit  reach 50 ft.  one target. Hit: The target is grappled (escape DC 15). Until this grapple ends  the target is restrained and the roper can't use this tendril on another target.
 - **Reel:** The roper pulls each creature it is grappling up to 25 feet straight towards it.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) piercing damage plus 9 (2d8) acid damage.
+
+

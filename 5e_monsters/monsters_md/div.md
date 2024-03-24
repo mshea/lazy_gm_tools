@@ -6,7 +6,7 @@
 - **Hit Points:** 99 (18d6+36)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 135
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Noxious Blast:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 12 (2d8+3) acid.
 - **Noxious Sands (Recharge 4–6):** Vomits a cloud of tainted sand in a 15 ft. cone. Each creature in the area: 14 (4d6) slashing damage and 14 (4d6) acid (DC 13 Dex half).
 - **Spellcasting:** Cha (DC 14) no material components: At will: disguise self minor illusion3/day ea: charm person suggestion1/day ea: dream fear
+
+

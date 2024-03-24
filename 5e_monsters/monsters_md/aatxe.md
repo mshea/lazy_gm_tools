@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (10d10+50)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 7
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

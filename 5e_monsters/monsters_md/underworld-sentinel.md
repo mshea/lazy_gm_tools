@@ -6,7 +6,7 @@
 - **Hit Points:** 126 (12d12+48)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 381
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Scythe:** Melee Weapon Attack: +10 to hit, 15 ft., one target, 17 (2d10+6) slashing damage + 10 (3d6) necrotic.
 - **Death Knell:** Ranged Spell Attack: +7 to hit, 60 ft., one target, 16 (3d8+3) necrotic or 22 (3d12+3) necrotic if the target is missing any of its hp.
 - **Grim Reaping (Recharge 5–6):** Spins with its scythe extended and makes one Scythe attack vs. each creature within its reach. A creature that takes necrotic from this attack can’t regain hp until the end of its next turn.
+
+

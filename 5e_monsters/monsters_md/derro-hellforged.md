@@ -6,7 +6,7 @@
 - **Hit Points:** 112 (15d6+60)
 - **Speed:** walk 25 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 113
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Hurl Hellfire:** Ranged Spell Attack: +5 to hit, 120 ft., one target, 12 (3d6+2) fire. If target is a creature or flammable object it ignites. Until a creature takes an action to douse the fire target takes 5 (1d10) fire at start of each of its turns.
 ### Reactions
 - **Voice of Authority (Recharge 5–6):** When a creature hits hellforged with an attack hellforged shrieks a one-word command. Attacker must make DC 15 Wis save or carry out this command on its next turn. This reaction works like the command spell except the attacker doesn’t have to understand the hellforged’s language. Hellforged must see the attacker and be able to speak to use this reaction.
+
+

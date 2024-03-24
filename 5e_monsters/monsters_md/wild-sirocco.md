@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d10+28)
 - **Speed:** walk 0 ft. fly 80 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 391
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Multiattack:** Two Fiery Wallop attacks.
 - **Fiery Wallop:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) bludgeoning damage + 7 (2d6) fire.
 - **Scorching Winds (Recharge 5–6):** Whips up scorching winds around it. Each creature within 10 ft. of it: 21 (6d6) fire ignites and is thrown up to 20' in random direction and knocked prone (DC 15 Str negates). If thrown creature strikes solid surface creature takes 3 (1d6) bludgeoning damage per 10 ft. it was thrown. If thrown at another creature that creature must make DC 15 Dex save or take same damage and be knocked prone. Until creature uses action to douse fire ignited creature takes 3 (1d6) fire at start of each of its turns.
+
+

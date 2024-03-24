@@ -6,13 +6,14 @@
 - **Hit Points:** 81 (18d8)
 - **Speed:** fly 40 ft. hover True ft. walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 171
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 4 (-3) | 14 (+2) | 10 (+0) | 10 (+0) | 14 (+2) | 15 (+2) |
 
 - **Saving Throws**: Wis +5
+- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
@@ -29,3 +30,5 @@
 - **Hand of the Grave:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 18 (4d8) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Prayers Unanswered (Recharge 5-6):** The ghost dwarf emits a constant whisper consisting of prayers, pleading, cursing, and cryptic phrases. The volume of the whispering intermittently increases, and those within 30 feet of the ghost dwarf that can hear it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Etherealness:** The ghost dwarf enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane. Ghoul, Darakhul Though all darakhul acknowledge dark gods, the priestess holds a closer link than most-always first to the feast, dividing out the choice morsels, intoning the words of hideous praise for the feast.
+
+

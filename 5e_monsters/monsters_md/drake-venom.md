@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d10+60)
 - **Speed:** walk 40 ft. climb 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 158
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
 - **Spit Venom:** Ranged Weapon Attack: +6 to hit 20/60' one target 16 (3d8+3) poison.
 - **Venom Breath (Recharge 5–6):** Spits venom in a 60' line that is 5 ft. wide. Each creature in that line: 36 (8d8) poison and succumbs to the drake’s venom (see above; DC 16 Con half damage and doesn’t succumb to the venom).
+
+

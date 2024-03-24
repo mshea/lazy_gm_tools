@@ -6,13 +6,14 @@
 - **Hit Points:** 130 (20d8+40)
 - **Speed:** walk 30 ft. fly 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 294
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 16 (+3) | 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) |
 
 - **Saving Throws**: Int +8, Wis +7, Cha +7
+- **Skills:** deception +7, insight +7, perception +7, persuasion +7, religion +8
 - **Damage Resistances:** fire, psychic, radiant
 - **Condition Immunities:** charmed
 - **Senses:** darkvision 60 ft., passive Perception 17
@@ -29,4 +30,5 @@
 - **Brain Jab:** Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated creature with a brain and an Intelligence of 6 or higher. Hit: 5 (1d4 + 3) piercing damage, and the target becomes diseased with brain larvae. Once the khalkos has used this attack successfully, it can't use it again for 24 hours.
 ### Reactions
 - **Telekinetic Shield:** When the khalkos is hit by an attack made by a creature that it can see or sense with its Detect Alignment trait, it gains a +4 bonus to AC against the triggering attack.
-- **Brain Jab:** Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated creature with a brain and an Intelligence of 6 or higher. Hit: 5 (1d4 + 3) piercing damage, and the target becomes diseased with brain larvae. Once the khalkos has used this attack successfully, it can't use it again for 24 hours.
+
+

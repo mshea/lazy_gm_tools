@@ -6,7 +6,7 @@
 - **Hit Points:** 44 (8d6+16)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 76
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Snap Back (Extended Form Only):** Violently returns to its true form. Each creature within 5 ft. of it: 4 (1d8) thunder or 9 (2d8) if catterball has extended its reach to 15 feet and is deafened for 1 min (DC 12 Dex half damage not deafened). A deafened creature can make a DC 12 Con save at the end of each of its turns success ends effect on itself.
 ### Bonus Actions
 - **Change Form:** Can extend its body roll up into a ball or return to true form. Each time it extends its body its reach with slam increases by 5 feet max 15 feet and Armor Class decreases by 1.
+
+

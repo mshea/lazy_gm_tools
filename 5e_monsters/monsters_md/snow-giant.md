@@ -6,7 +6,7 @@
 - **Hit Points:** 138 (12d12+60)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 174
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** The snow giant makes two club attacks.
 - **Club:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (3d4 + 4) bludgeoning damage.
 - **Giant Snowball:** Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage plus 4 (1d8) cold damage, and the target must succeed on a DC 16 Dexterity save or be blinded until the end of its next turn.
+
+

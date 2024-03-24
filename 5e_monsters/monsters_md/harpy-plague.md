@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (19d8+57)
 - **Speed:** walk 20 ft. fly 60 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 229
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Talons:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 14 (2d10+3) slashing damage.
 - **Sorrowful Caw:** Ranged Spell Attack: +6 to hit, 90 ft., one target, 13 (3d6+3) psychic.
 - **Dirge:** Telepathically sings a mournful hymn and projects images of sickly and dying loved ones in mind of one creature it can see within 90' of it. Target: DC 15 Wis save or be disheartened for 1 min. While disheartened creature has disadvantage on saves vs. being poisoned or contracting a disease. Disheartened creature can re-save at end of each of its turns success ends effect on itself.
+
+

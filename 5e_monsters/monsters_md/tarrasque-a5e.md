@@ -6,13 +6,14 @@
 - **Hit Points:** 1230 (60d20+600)
 - **Speed:** walk 60 ft. burrow 30 ft.
 - **Challenge Rating:** 30 (155,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 401
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 30 (+10) | 12 (+1) | 30 (+10) | 4 (-3) | 14 (+2) | 14 (+2) |
 
 - **Saving Throws**: Str +19, Dex +10, Con +19, Int +6, Wis +11, Cha +11
+- **Skills:** 
 - **Damage Immunities:** fire, poison; damage from nonmagical weapons
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 120 ft., tremorsense 60 ft., passive Perception 12

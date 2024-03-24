@@ -6,13 +6,14 @@
 - **Hit Points:** 93 (11d8+44)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 42
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 16 (+3) | 14 (+2) | 18 (+4) |
 
 - **Saving Throws**: Con +7, Int +6, Wis +5, Cha +7
+- **Skills:** deception +7, intimidation +7, perception +5, stealth +7
 - **Damage Resistances:** cold, fire, poison; damage from nonmagical weapons
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Abyssal, Common, Infernal
@@ -25,3 +26,5 @@
 - **Fell Charm:** The cambion targets one creature within 30 feet. The target makes a DC 15 Wisdom saving throw. On a failure, it is magically charmed by the cambion for 1 day. The effect ends if the cambion or a cambions ally harms the target, or if the cambion commands it to take a suicidal action. While charmed, the target regards the cambion as a trusted friend and is an ally of the cambion. If the target makes a successful saving throw or the effect ends, the target is immune to this cambions Fell Charm for 24 hours.
 - **Command:** The cambion gives an order to an ally within 60 feet that can hear it. If the ally has a reaction available, it can use it to follow the cambions order, either taking an action or moving up to its Speed.
 - **Shapeshift:** The cambion magically changes its form to that of any humanoid creature it has seen before, or back into its true form. While shapeshifted, its statistics are unchanged except that it has no armor or equipment, can't use its black iron blade, and can fly only if it is in a form with wings. It reverts to its true form if it dies.
+
+

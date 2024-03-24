@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (6d6+24)
 - **Speed:** walk 20 ft. climb 20 ft. fly 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 353
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Wing Slice:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) slashing damage.
 - **Radiant Wing:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 6 (1d8+2) radiant.
 - **Blessed Wings:** Marks one creature it can see within 30' of it with holy power. If the target is a hostile creature the next attack roll made vs. the target before the start of the moth’s next turn has advantage. If the target is a friendly creature it gains a +2 bonus to AC until the start of the moth’s next turn.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 76 (17d8)
 - **Speed:** fly 40 ft. walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 235
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,12 +27,8 @@
 ### Actions
 - **Multiattack:** The karakura makes three claw attacks and can use Charm or Shroud in Darkness, if it is available.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
-- **Charm:** One humanoid the karakura can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed until dawn. The charmed target obeys the fiend's commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw to end the effect. If the target successfully saves, or if the effect on it ends, the target is immune to this karakura's Charm for the next 24 hours. 
-
-The karakura can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
-- **Shroud in Darkness (Recharge 5-6):** Bands of shadow stretch out from the karakura and wrap around a target it can see within 30 feet. The target must succeed on a DC 15 Charisma saving throw or be translocated to the Plane of Shadow for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target exits the shroud, it appears in an unoccupied space within 10 feet of the karakura. 
-
-The karakura can have only one target in its shroud at a time. It can release a target as a bonus action. 
-
-While in the Plane of Shadow, the target is bombarded with horrific images and sensations. Each round it remains in the Plane of Shadow, it must succeed on a DC 15 Charisma saving throw or gain one short-term madness. A target held in the shroud is released when the karakura dies.
+- **Charm:** One humanoid the karakura can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed until dawn. The charmed target obeys the fiend's commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw to end the effect. If the target successfully saves, or if the effect on it ends, the target is immune to this karakura's Charm for the next 24 hours. <br><br>The karakura can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
+- **Shroud in Darkness (Recharge 5-6):** Bands of shadow stretch out from the karakura and wrap around a target it can see within 30 feet. The target must succeed on a DC 15 Charisma saving throw or be translocated to the Plane of Shadow for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target exits the shroud, it appears in an unoccupied space within 10 feet of the karakura. <br><br>The karakura can have only one target in its shroud at a time. It can release a target as a bonus action. <br><br>While in the Plane of Shadow, the target is bombarded with horrific images and sensations. Each round it remains in the Plane of Shadow, it must succeed on a DC 15 Charisma saving throw or gain one short-term madness. A target held in the shroud is released when the karakura dies.
 - **Shadow Walk:** The karakura can magically enter the Plane of Shadow from the Material Plane, or vice versa.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 22 (4d8+4)
 - **Speed:** walk 50 ft. climb 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 452
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 16 (+3) | 12 (+1) | 6 (-2) | 14 (+2) | 10 (+0) |
 
+- **Skills:** perception +4, stealth +5
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** 
 ### Special Abilities
@@ -22,3 +23,5 @@
 ### Bonus Actions
 - **Opportune Bite (True Form Only):** The grimalkin makes a bite attack against a prone creature.
 - **Shapeshift:** The grimalkin changes its form to a Tiny cat or into its true form, which resembles a panther. While shapeshifted, its statistics are unchanged except for its size. It reverts to its true form if it dies.
+
+

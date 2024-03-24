@@ -6,7 +6,7 @@
 - **Hit Points:** 117 (18d8+36)
 - **Speed:** walk 50 ft. swim 20 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 102
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -35,3 +35,5 @@
 - **Liberating Churr (Recharge 5–6):** Each friendly creature within 90' and can hear it gains benefits of its Freedom of Movement. All affected grow claws for unarmed strikes. If affected creature hits with claw deals 1d6+its Str modifier slashing instead of bludgeoning normal for unarmed strike. Lasts until start of cyonaxin’s next turn.
 ### Bonus Actions
 - **Free Runner:** Can take the Dash action.
+
+

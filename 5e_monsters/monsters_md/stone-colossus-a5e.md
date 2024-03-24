@@ -6,12 +6,13 @@
 - **Hit Points:** 263 (17d20+85)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 16 (15,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 266
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 10 (+0) | 20 (+5) | 3 (-4) | 12 (+1) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Immunities:** poison, psychic; damage from nonmagical, non-adamantine weapons
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 120 ft., passive Perception 11

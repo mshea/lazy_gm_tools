@@ -6,7 +6,7 @@
 - **Hit Points:** 153 (18d10+54)
 - **Speed:** walk 30 ft. burrow 15 ft. fly 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 355
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Tentacle:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 17 (3d8+4) bludgeoning damage. Target is grappled (escape DC 16) if it is an up to Large creature and diopsid doesn't have 2 grappled.
 - **Share Senses:** While within 300' of an envenomed Humanoid diopsid sees through target’s eyes and hears what target hears until start of its next turn gaining benefits of any special senses target has. On subsequent turns diopsid can use a bonus action to extend duration of this effect until start of its next turn.
 - **Control Envenomed (3/Day):** While within 300' of an envenomed Humanoid diopsid can telepathically suggest course of activity to it. Humanoid must make DC 16 Wis save or pursue the activity suggested to it. Success: Humanoid takes 11 (2d10) psychic and has disadvantage next time it makes this save. Works like suggestion spell and Humanoid unaware of diopsid’s influence.
+
+

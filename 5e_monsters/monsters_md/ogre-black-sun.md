@@ -6,7 +6,7 @@
 - **Hit Points:** 152 (16d10+64)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 298
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Dark Word:** Speaks an infernal word of unmaking at up to two creatures it can see within 120' of it. Each target: DC 16 Con save or take 22 (5d8) necrotic.
 ### Reactions
 - **Gauntleted Backhand:** When a creature within 5 ft. of the ogre misses the ogre with melee attack the attacker must make DC 16 Dex save or be knocked prone
+
+

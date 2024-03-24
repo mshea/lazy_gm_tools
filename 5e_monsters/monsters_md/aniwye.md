@@ -6,7 +6,7 @@
 - **Hit Points:** 102 (12d10+36)
 - **Speed:** climb 20 ft. walk 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 25
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Claw (Skunk Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 - **Rock (Giant Form Only):** Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit: 20 (3d10 + 4) bludgeoning damage.
 - **Deadly Musk (Recharge 5-6; Skunk Form Only):** The aniwye releases a cloud of highly poisonous musk from its tail in a 15-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failure, a creature takes 24 (7d6) poison damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.
+
+

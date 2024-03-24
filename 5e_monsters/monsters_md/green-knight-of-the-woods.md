@@ -6,7 +6,7 @@
 - **Hit Points:** 78 (12d8+24)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 209
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,9 @@
 - **Languages:** Common, Elvish, Sylvan
 ### Special Abilities
 - **Headsman's Woe:** If the green knight's head is severed by a vorpal weapon or by other means, magical vines sprout from its neck and the head reattaches by the start of the green knight's next turn, preventing the green knight from dying from the loss of its head.
-- **Knight's Challenge (3/Day):** As a bonus action, the green knight targets one creature that it can see within 30 feet and issues a challenge. If the target can see the green knight, it must succeed on a DC 14 Wisdom saving throw or become magically compelled to engage the green knight in melee combat for 1 minute, or until the knight challenges a new opponent. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  On its turn, the affected creature must move towards the green knight and make a melee attack against the green knight.
+- **Knight's Challenge (3/Day):** As a bonus action, the green knight targets one creature that it can see within 30 feet and issues a challenge. If the target can see the green knight, it must succeed on a DC 14 Wisdom saving throw or become magically compelled to engage the green knight in melee combat for 1 minute, or until the knight challenges a new opponent. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+On its turn, the affected creature must move towards the green knight and make a melee attack against the green knight.
 - **Magic Resistance:** The green knight has advantage on saving throws against spells and other magical effects.
 - **Speak with Beasts and Plants:** The green knight can communicate with beasts and plants as if they shared a language.
 ### Actions
@@ -30,3 +32,5 @@
 - **Javelin:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 ### Reactions
 - **Knight's Rebuke:** When the green knight is hit by a melee attack from a creature it has successfully challenged, it can make one battle axe attack with advantage against the attacker.
+
+

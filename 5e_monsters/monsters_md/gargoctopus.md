@@ -6,7 +6,7 @@
 - **Hit Points:** 104 (16d10+16)
 - **Speed:** climb 20 ft. swim 40 ft. walk 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 167
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Fling:** One Medium or smaller creature grappled by the gargoctopus is thrown up to 20 feet in a random direction and is knocked prone. If the target strikes a solid surface, the target takes 7 (2d6) bludgeoning damage. If the target is thrown at another creature, that creature must succeed on a DC 12 Dexterity saving throw or take the same damage and be knocked prone.
 - **Tentacle Slam (Recharge 5-6):** The gargoctopus slams the creatures grappled by it into a solid surface. Each grappled creature must make a DC 15 Constitution saving throw. On a failure, a target takes 10 (3d6) bludgeoning damage and is stunned until the end of the gargoctopus' next turn. On a success, a target takes half the damage and isn't stunned.
 - **Ink Cloud (Recharge 6):** A 20-foot-radius cloud of darkness extends around the gargoctopus. The area is heavily obscured until the start of the gargoctopus' next turn. If underwater, the gargoctopus can use the Dash action as a bonus action after releasing the cloud.
+
+

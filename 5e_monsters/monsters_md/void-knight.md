@@ -6,7 +6,7 @@
 - **Hit Points:** 153 (18d8+72)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 386
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Void Gauntlet:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 13 (2d6+6) slashing damage + 18 (4d8) force. If the target is a Med or smaller creature it must make DC 16 Str save or be knocked prone. 
 - **Void Bolt:** Ranged Spell Attack: +7 to hit, 120 ft., one target, 21 (4d8+3) force.
 - **Pull of the Void (Recharge 5–6):** Sends Void tendrils at up to three creatures it can see within 60' of it that are not behind total cover. Each target must make DC 16 strength Saving throw or be pulled up to 30' toward the knight. Then each creature within 5 ft. of knight takes 36 (8d8) force.
+
+

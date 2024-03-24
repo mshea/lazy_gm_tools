@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (16d10+48)
 - **Speed:** walk 30 ft. swim 60 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 341
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** Three Slam attacks.
 - **Slam:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 13 (2d8+4) bludgeoning damage and the target must make DC 15 Con save or be poisoned until end of its next turn.
 - **Sewer Overflow (Recharge 5–6):** Emits a tide of filth and water from itself in a 15 ft. cube. Each creature in this cube: 18 (4d8) bludgeoning damage and 18 (4d8) poison and is infected with sewer plague (DC 15 Con half damage and isn’t infected).
+
+

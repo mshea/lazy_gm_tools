@@ -6,12 +6,13 @@
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** walk 30 ft. burrow 15 ft. fly 60 ft. swim 15 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 109
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 14 (+2) | 12 (+1) | 10 (+0) | 14 (+2) |
 
+- **Skills:** perception +2, stealth +3, survival +2
 - **Damage Immunities:** lightning
 - **Senses:** blindsight 10 ft., tremorsense 30 ft., darkvision 120 ft., passive Perception 12
 - **Languages:** Common, Draconic
@@ -21,3 +22,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 19 (3d10 + 3) piercing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales a 30-foot-long  5-foot-wide line of lightning. Each creature in that area makes a DC 12 Dexterity saving throw  taking 22 (4d10) lightning damage on a failed save or half damage on a success.
+
+

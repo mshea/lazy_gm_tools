@@ -6,12 +6,13 @@
 - **Hit Points:** 45 (6d10+12)
 - **Speed:** walk 10 ft. swim 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 331
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 14 (+2) | 10 (+0) | 12 (+1) | 14 (+2) |
 
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Abyssal, Aquan, Giant, Primordial
 ### Special Abilities
@@ -27,3 +28,5 @@
 - **Shapeshift:** The mage changes its form to that of a Medium merfolk or back into its true form. While shapeshifted, it can't use its Bite attack but its statistics are otherwise unchanged except for its size. It reverts to its true form if it dies.
 - **Darkness (2nd-Level; V:** Magical darkness spreads from a point within 60 feet of the mage, filling a 15-foot-radius sphere and spreading around corners. It remains for 1 minute. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.
 - **Invisibility (2nd-Level; V:** The mage is invisible for 1 hour or until it attacks, uses Mage Bolt, or casts a spell.
+
+

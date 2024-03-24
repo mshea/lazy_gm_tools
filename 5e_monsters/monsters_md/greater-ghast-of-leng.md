@@ -6,13 +6,14 @@
 - **Hit Points:** 153 (18d10+54)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 52
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 17 (+3) | 19 (+4) | 16 (+3) | 12 (+1) | 10 (+0) | 8 (-1) |
 
 - **Saving Throws**: Con +6, Wis +3
+- **Skills:** 
 - **Damage Vulnerabilities:** radiant
 - **Damage Resistances:** bludgeoning, cold
 - **Senses:** darkvision 60 ft., passive Perception 10
@@ -26,3 +27,5 @@
 - **Multiattack:** The greater ghast of Leng makes three attacks: one with its bite and two with its claws. If both claw attacks hit a Medium or smaller target, the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, the greater ghast can automatically hit the target with its claws, and the greater ghast can’t make claw attacks against other targets.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) necrotic damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) slashing damage.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 195 (17d12+85)
 - **Speed:** walk 40 ft. burrow 20 ft. climb 40 ft. swim 40 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 245
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 12 (+1) | 20 (+5) | 8 (-1) | 14 (+2) | 18 (+4) |
 
+- **Skills:** 
 - **Damage Immunities:** psychic
 - **Condition Immunities:** prone
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 12
@@ -26,3 +27,5 @@
 - **Bite:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one creature. Hit: 21 (3d10 + 5) piercing damage. If the target is killed by this attack  the worm eats its head.
 ### Bonus Actions
 - **Mental Summons:** One creature with an Intelligence score greater than 3 within 120 feet makes a DC 16 Wisdom saving throw. On a failure, it uses its reaction to move up to its Speed towards the worm by the shortest route possible, avoiding hazards but not opportunity attacks. This is a magical charm effect.
+
+

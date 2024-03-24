@@ -6,7 +6,7 @@
 - **Hit Points:** 218 (19d12+95)
 - **Speed:** walk 40 ft. burrow 10 ft. swim 30 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 267
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -32,3 +32,5 @@
 - **Metal Eater:** Swallows one Med or smaller ferrous metal object within 5 ft. of it. If the object is being held or worn by a creature that creature must make DC 18 Str save or malmbjorn swallows the object. If the creature holding or wearing the object is also grappled by the malmbjorn it has disadvantage on this save. Nonmagical objects are digested and destroyed at the start of malmbjorn’s next turn. Magic objects remain intact in malmbjorn’s stomach for 8 hrs then are destroyed. Artifacts are never destroyed in this way.
 ### Reactions
 - **Ironhide:** When hit by a metal weapon fur-like metal spikes grow out of its hide until end of its next turn. While spikes remain its AC increases 2 and any critical hit vs. it becomes a normal hit.
+
+

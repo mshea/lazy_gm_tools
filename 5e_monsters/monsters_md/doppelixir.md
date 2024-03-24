@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (10d4+20)
 - **Speed:** walk 20 ft. climb 20 ft. swim 20 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 139
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Telepathic Urge:** It mentally urges one creature it can see within 60' of it to attempt to drink it. Target: DC 11 Wis save or charmed 1 min. While charmed target must move on its turn toward doppelixir by safest available route trying to get within 5 ft. of doppelixir to drink it. Creature can re-save at end of each of its turns success ends effect on itself. If doppelixir attacks target effect also ends. If target attempts to drink it doppelixir can use a reaction to make one Slam with advantage vs. target. If target’s save succeeds or effect ends for it creature immune to doppelixir’s Telepathic Urge for next 24 hrs.
 ### Bonus Actions
 - **Imitative Liquid:** Imitates one common or uncommon potion oil or other alchemical substance until it uses this bonus action again to end it or to imitate a different liquid. If it takes no acid fire or poison on the round it is slain creature can collect its remains which can be used as the liquid it was imitating as died.
+
+

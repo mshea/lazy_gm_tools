@@ -6,7 +6,7 @@
 - **Hit Points:** 78 (12d8+24)
 - **Speed:** walk 30 ft. climb 30 ft. swim 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 367
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Manipulate Flesh:** Can choose one of these attack options:Manifold Bite: Melee Weapon Attack: +6 to hit, 5 ft., one target, 14 (4d4+4) piercing damage and the target can’t regain hp until the start of the flesh’s next turn.Tentacle Melee Weapon Attack: +6 to hit, 10 ft., one target, 11 (2d6+4) bludgeoning damage and target is grappled (escape DC 13). Until this grapple ends target is restrained. The flesh can have up to two tentacles each can grapple only one target.Acidic Mucus: Ranged Weapon Attack: +4 to hit, 60 ft., one target, 14 (4d6) acid and 7 (2d6) acid at start of its next turn unless target immediately uses reaction to wipe.
 ### Bonus Actions
 - **Assume Form:** Consumes corpse of Med or smaller Humanoid or Beast within 5 ft. and transforms into it. Stats other than size are the same in new form. Any items worn/carried meld into new form. Can’t activate use wield or otherwise benefit from any of its equipment. It reverts to its true aberrant form if it dies makes a Manipulate Flesh attack or uses Assume Form while transformed.
+
+

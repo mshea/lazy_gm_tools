@@ -6,7 +6,7 @@
 - **Hit Points:** 14 (4d4+4)
 - **Speed:** climb 25 ft. walk 25 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 395
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Distressed Discharge (Recharge 5-6):** The holler spider releases a short, distressed cacophony in a 15-foot cone. Each creature in the area must make a DC 12 Constitution saving throw, taking 5 (2d4) thunder damage on a failed save, or half as much damage on a successful one. The holler spider is pushed 15 feet in the opposite direction of the cone.
 ### Reactions
 - **Tune Up:** When an ally within 15 feet of the backup holler spider casts a spell that deals thunder damage, the backup holler spider chooses one of the spell’s targets. That target has disadvantage on the saving throw against the spell.
+
+

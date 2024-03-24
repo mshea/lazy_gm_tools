@@ -6,13 +6,14 @@
 - **Hit Points:** 136 (13d10+65)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 69
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 20 (+5) | 8 (-1) | 12 (+1) | 12 (+1) |
 
 - **Saving Throws**: Str +7, Con +8, Int +2, Wis +4
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned
@@ -30,3 +31,5 @@
 - **Darkness:** Magical darkness spreads from a point within 30 feet  filling a 15-foot-radius sphere and spreading around corners. It remains for 1 minute  until the hezrou dismisses it  or until the hezrou uses this ability again. A creature with darkvision can't see through this darkness and nonmagical light can't illuminate it.
 ### Reactions
 - **Stench (1/Day):** When hit by a melee attack, the hezrou emits a cloud of foul-smelling poison gas in a 20-foot radius. Each creature in the area makes a DC 14 Constitution saving throw. On a failure, a creature is poisoned for 1 minute. A creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success
+
+

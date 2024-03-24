@@ -6,13 +6,13 @@
 - **Hit Points:** 580 (40d12+320)
 - **Speed:** walk 50 ft. fly 60 ft. swim 60 ft.
 - **Challenge Rating:** 30 (155,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 212
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 30 (+10) | 14 (+2) | 27 (+8) | 16 (+3) | 30 (+10) | 15 (+2) |
 
-- **Saving Throws**: Con +1, Int +1, Wis +1, Cha +1
+- **Saving Throws**: Con +17, Int +12, Wis +19, Cha +11
 - **Skills:** perception +10
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone
 - **Senses:** truesight 120', passive Perception 29

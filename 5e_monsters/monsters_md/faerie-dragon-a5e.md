@@ -6,12 +6,13 @@
 - **Hit Points:** 14 (4d4+4)
 - **Speed:** walk 10 ft. fly 60 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 205
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 3 (-4) | 20 (+5) | 12 (+1) | 14 (+2) | 12 (+1) | 16 (+3) |
 
+- **Skills:** arcana +4, perception +3, stealth +7
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Draconic, Sylvan, telepathy 60 ft. (with other dragons only)
 ### Special Abilities
@@ -23,3 +24,5 @@
 - **Beast Form (1/Day, 50+ Years Old Only):** The dragon targets one creature within 15 feet. The target makes a DC 13 Wisdom saving throw. On a failure  it is magically transformed into a harmless Tiny beast  such as a mouse or a songbird  for 1 minute. While in this form  its statistics are unchanged  except it can't speak or take actions  reactions  or
 ### Bonus Actions
 - **Invisibility:** The dragon and any equipment it wears or carries magically turns invisible. This invisibility ends if the dragon falls unconscious, dismisses the effect, or uses Bite, Euphoria Breath, Prismatic Light, or Beast Form.
+
+

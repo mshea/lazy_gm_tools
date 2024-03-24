@@ -6,13 +6,14 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 10 ft. swim 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 329
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 14 (+2) | 10 (+0) | 10 (+0) | 14 (+2) |
 
 - **Saving Throws**: Str +5, Con +4, Wis +2
+- **Skills:** athletics +5, perception +2
 - **Senses:** darkvision 30 ft., passive Perception 12
 - **Languages:** Aquan, Common
 ### Special Abilities
@@ -25,3 +26,5 @@
 - **Knightly Inspiration (1/Day):** The knight inspires creatures of its choice within 30 feet that can hear and understand it. For the next minute  inspired creatures gain an expertise die on attack rolls and saving throws. A creature can benefit from only one Knightly Inspiration at a time  and the knight cannot target itself.
 ### Bonus Actions
 - **Trident:** The knight makes a trident attack.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 76 (9d10+27)
 - **Speed:** walk 30 ft. climb 40 ft. fly 15 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 201
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Deadfall (Recharge 5–6):** If stick is 15 ft.+ off the ground can fall to the ground landing on its feet in a space it can see within 20' of it that contains 1+ other creatures. Each of them: 21 (6d6) bludgeoning damage and knocked prone (DC 13 Dex half not knocked prone and pushed 5 ft. out of stick’s space into unoccupied space of creature’s choice). Also each creature within 10 ft. of stick when it lands: 10 (3d6) bludgeoning damage and knocked prone (DC 13 Dex negates both).
 ### Bonus Actions
 - **Startling Display:** Each creature within 5 ft. of the stick: DC 13 Int save or be incapacitated until end of its next turn. The walking stick then flies up to its flying speed with o provoking opportunity attacks.
+
+

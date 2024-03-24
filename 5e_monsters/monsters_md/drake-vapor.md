@@ -6,7 +6,7 @@
 - **Hit Points:** 119 (14d10+42)
 - **Speed:** walk 30 ft. fly 50 ft. swim 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 157
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 13 (2d8+4) piercing damage and target must make DC 15 Con save or be poisoned for 1 min. Creature can re-save at end of each of its turns success ends effect on itself.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
 - **Poisonous Breath (Recharge 5–6):** Exhales poisonous swamp gas in 30' cone. Each creature in area: 27 (5d8) poison (DC 15 Con half). If drake is flying its Gaseous Ascension immediately ends takes falling damage as normal and each creature that failed save: poisoned 1 min. Poisoned creature can re-save at end of each of its turns success ends effect on itself.
+
+

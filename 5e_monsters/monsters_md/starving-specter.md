@@ -6,7 +6,7 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 0 ft. fly 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 356
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Multiattack:** One Bite attack and one Bladed Arm attack.
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (2d4+3) piercing damage + 3 (1d6) necrotic.
 - **Bladed Arm:** Melee Weapon Attack: +6 to hit, 10 ft., one target, 10 (2d6+3) slashing damage. This attack can target a creature on the Ethereal or Material Plane.
+
+

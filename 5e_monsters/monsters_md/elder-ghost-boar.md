@@ -6,12 +6,13 @@
 - **Hit Points:** 104 (11d12+33)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 169
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 9 (-1) | 17 (+3) | 7 (-2) | 12 (+1) | 7 (-2) |
 
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** understands Common but can't speak it
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **Tusk:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) slashing damage.
 ### Reactions
 - **Ghostly Slip:** When it is targeted by an attack or spell or is grappled or restrained, the ghost boar becomes momentarily incorporeal. It gains resistance to any damage that isn't force and ends any grappled or restrained conditions on itself.
+
+

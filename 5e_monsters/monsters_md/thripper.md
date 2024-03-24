@@ -6,7 +6,7 @@
 - **Hit Points:** 104 (16d8+32)
 - **Speed:** walk 25 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 368
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Disorienting Chitter:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 16 (3d8+3) thunder and the target must make DC 14 Wis save or fall prone as it briefly becomes disoriented and falls.
 ### Reactions
 - **Glamour Counter:** When creature thripper can see within 30' of it casts spell can counter the spell. This works like counterspell spell with +6 spellcasting ability check except thripper can counter only enchantment or illusion spells and it must make the ability check regardless of spell’s level.
+
+

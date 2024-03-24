@@ -6,13 +6,14 @@
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 494
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 14 (+2) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 - **Saving Throws**: Str +5, Dex +3, Con +4
+- **Skills:** athletics +5, intimidation +2, perception +2, survival +2
 - **Senses:** passive Perception 12
 - **Languages:** any two
 ### Actions
@@ -24,4 +25,5 @@
 - **Tactical Movement:** Until the end of the veterans turn, their Speed is halved and their movement doesnt provoke opportunity attacks.
 ### Reactions
 - **Off-Hand Counter:** When the veteran is missed by a melee attack by an attacker they can see within 5 feet, the veteran makes a shortsword attack against the attacker.
-- **Tactical Movement:** Until the end of the veterans turn, their Speed is halved and their movement doesnt provoke opportunity attacks.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 22 (5d6+5)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 213
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Fiendish Blink (1/Day):** The gumienniki flashes its glowing eyes, illuminating a 15-foot cone. Each creature in that area that can see the gumienniki must succeed on a DC 12 Constitution saving throw or be blinded for 1 minute.
 ### Reactions
 - **Taunting Cackle:** When the gumienniki is missed by an attack, it can taunt the attacker. The attacking creature must succeed on a DC 12 Wisdom saving throw or have disadvantage on its next attack roll or saving throw.
+
+

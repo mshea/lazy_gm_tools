@@ -6,7 +6,7 @@
 - **Hit Points:** 55 (10d6+20)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 388
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Hidden Dagger:** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing damage plus 7 (2d6) lightning damage.
 ### Reactions
 - **Borrowed Time (Recharges after a Short or Long Rest):** If damage is dealt to a xiphus that would kill it, it can attempt to temporarily borrow time from another creature to avoid death. One creature the xiphus can see within 30 feet of it must succeed on a DC 16 Constitution saving throw or take 10 (3d6) necrotic damage, and the xiphus regains hp equal to the damage taken. The target is stable and doesn't die if this effect reduces its hp to 0. After 2 rounds, the xiphus takes necrotic damage, and the target regains hp, equal to the original amount borrowed.
+
+

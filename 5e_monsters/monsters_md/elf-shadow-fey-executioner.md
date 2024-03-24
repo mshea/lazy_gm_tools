@@ -6,7 +6,7 @@
 - **Hit Points:** 172 (23d8+69)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 169
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 ### Bonus Actions
 - **Recall Severed Head:** Commands all severed heads attached to creatures to detach and return to the executioner’s belt.
 - **Shadow Traveler (3/Day):** In shadows/dim light/darkness disappears into darkness and reappears in unoccupied space it can see within 30'. Smoke tendril appears at origin and destination.
+
+

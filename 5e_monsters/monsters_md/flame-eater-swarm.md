@@ -6,12 +6,13 @@
 - **Hit Points:** 33 (6d8+6)
 - **Speed:** fly 40 ft. walk 0 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 204
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 3 (-4) | 15 (+2) | 12 (+1) | 2 (-4) | 14 (+2) | 4 (-3) |
 
+- **Skills:** 
 - **Damage Immunities:** fire
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
@@ -23,3 +24,5 @@
 ### Actions
 - **Multiattack:** The swarm can make two bite attacks.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hp or fewer.
+
+

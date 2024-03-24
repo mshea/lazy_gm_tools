@@ -6,7 +6,7 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 181
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Steel Shot:** Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 - **Scattershot (Recharge 5-6):** The golem’s body explodes. Each creature within 15 feet of the golem must make a DC 15 Dexterity saving throw. On a failure, a creature takes 36 (8d8) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage and isn’t knocked prone. The golem immediately scatters.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 85 (10d6+50)
 - **Speed:** climb 20 ft. walk 20 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 389
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Foul Transit (Recharge 4-6):** The goo teleports to an unoccupied space it can see within 50 feet, leaving behind a wretched puddle in the space it previously occupied. A creature within 5 feet of the space the goo left must succeed on a DC 16 Constitution saving throw or take 10 (3d6) necrotic damage and become poisoned until the end of its next turn. The first time a creature enters the puddle's space or if a creature starts its turn in the puddle's space it takes 10 (3d6) necrotic damage and is poisoned. The puddle lasts for 1 minute or until the goo that created it is killed.
 ### Reactions
 - **Puddle Splash:** When a creature the Yaga goo can see targets it with a melee attack while within 5 feet of the goo, the goo can teleport to a puddle created by its Foul Transit, if that puddle's space is unoccupied, negating the damage from the attack. If it does, the attacker must succeed on a DC 16 Constitution saving throw or take 10 (3d6) necrotic damage and become poisoned until the end of its next turn.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 36 (8d8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 230
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 16 (+3) | 10 (+0) | 10 (+0) | 10 (+0) | 8 (-1) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** charmed, fatigue, paralyzed, poisoned
@@ -24,3 +25,5 @@
 ### Actions
 - **Paralyzing Claw:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) slashing damage. If the target is a living creature  it makes a DC 10 Constitution saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of its turns  ending the effect on itself on a success. If the targets saving throw is successful or the effect ends for it  it is immune to any Paralyzing Claw for 24 hours.
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one incapacitated creature. Hit: 8 (1d10 + 3) piercing damage.
+
+

@@ -6,17 +6,35 @@
 - **Hit Points:** 67 (9d8+27)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 483
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 14 (+2) | 16 (+3) | 16 (+3) | 12 (+1) | 10 (+0) |
 
 - **Saving Throws**: Int +6, Wis +4
+- **Skills:** arcana +6, history +6, investigation +6, perception +4
 - **Senses:** passive Perception 14
 - **Languages:** any three
 ### Special Abilities
-- **Spellcasting:** The mage is a 9th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 14  +6 to hit with spell attacks). They have the following wizard spells prepared:  Cantrips (at will): fire bolt  light  mage hand  prestidigitation  1st-level (4 slots): detect magic  identify  mage armor  shield  2nd-level (3 slots): alter self  misty step  3rd-level (3 slots): animate dead  counterspell  fireball  4th-level (3 slots): dimension door  greater invisibility  5th-level (1 slot): cone of cold
+- **Spellcasting:** The mage is a 9th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 14
+ +6 to hit with spell attacks). They have the following wizard spells prepared:
+ Cantrips (at will): fire bolt
+ light
+ mage hand
+ prestidigitation
+ 1st-level (4 slots): detect magic
+ identify
+ mage armor
+ shield
+ 2nd-level (3 slots): alter self
+ misty step
+ 3rd-level (3 slots): animate dead
+ counterspell
+ fireball
+ 4th-level (3 slots): dimension door
+ greater invisibility
+ 5th-level (1 slot): cone of cold
 ### Actions
 - **Dagger:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +6 to hit  range 120 ft.  one target. Hit: 11 (2d10) fire damage.
@@ -29,4 +47,5 @@
 ### Reactions
 - **Counterspell (3rd-Level; S):** When a creature the mage can see within 60 feet casts a spell, the mage attempts to interrupt it. If the creature is casting a 2nd-level spell or lower, the spell fails. If the creature is casting a 3rd-level or higher spell, the mage makes an Intelligence check against a DC of 10 + the spells level. On a success, the spell fails, and the spellcasting creature can use its reaction to try to cast a second spell with the same casting time so long as it uses a spell slot level equal to or less than half the original spell slot. If the mage casts counterspell with a higher spell slot, the interrupted spell fails if its level is less than that of counterspell.
 - **Shield (1st-Level; V:** When the mage is hit by an attack or targeted by magic missile, they gain a +5 bonus to AC (including against the triggering attack) and immunity to magic missile. These benefits last until the start of their next turn.
-- **Misty Step (2nd-Level; V):** The mage teleports to an unoccupied space they can see within 30 feet. The mage can't cast this spell and a 1st-level or higher spell on the same turn.
+
+

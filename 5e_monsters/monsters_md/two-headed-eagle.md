@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d12+45)
 - **Speed:** fly 100 ft. walk 20 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 360
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Multiattack:** The two-headed eagle makes two bite attacks and one talons attack.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Talons:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the two-headed eagle can't use its talons on another target.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 43 (5d8+20)
 - **Speed:** walk 0 ft. fly 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 385
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Multiattack:** Two Slam attacks.
 - **Slam:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 10 (2d6+3) bludgeoning damage.
 - **Tentacles:** Melee Weapon Attack: +5 to hit, 10 ft., one target, 13 (4d4+3) bludgeoning damage and the target is grappled (escape DC 13). Until this grapple ends the constructor can’t use its tentacles on another target.
+
+

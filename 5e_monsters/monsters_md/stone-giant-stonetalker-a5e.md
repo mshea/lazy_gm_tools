@@ -6,13 +6,14 @@
 - **Hit Points:** 126 (11d12+55)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 241
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 23 (+6) | 14 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 - **Saving Throws**: Str +9, Dex +5, Con +8, Wis +4
+- **Skills:** athletics +9, perception +4, stealth +5
 - **Damage Resistances:** acid
 - **Condition Immunities:** petrified
 - **Senses:** passive Perception 14
@@ -30,4 +31,5 @@
 - **Grab:** One creature within 5 feet makes a DC 13 Dexterity saving throw. On a failure, it is grappled (escape DC 17). Until this grapple ends, the giant can't grab another target, and it makes greatclub attacks with advantage against the grappled target.
 ### Reactions
 - **Rock Catching:** If a rock or other Small or larger projectile is hurled or fired at the giant, the giant makes a DC 10 Dexterity saving throw. On a success, the giant catches the projectile, takes no bludgeoning or piercing damage from it, and is not pushed or knocked prone by it.
-- **Grab:** One creature within 5 feet makes a DC 13 Dexterity saving throw. On a failure, it is grappled (escape DC 17). Until this grapple ends, the giant can't grab another target, and it makes greatclub attacks with advantage against the grappled target.
+
+

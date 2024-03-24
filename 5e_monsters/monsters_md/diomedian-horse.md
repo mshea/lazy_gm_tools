@@ -6,7 +6,7 @@
 - **Hit Points:** 57 (6d10+24)
 - **Speed:** walk 60 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 130
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Multiattack:** One Bite attack and one Claw attack.
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 12 (2d6+5) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 10 (2d4+5) slashing damage.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 22 (4d8+4)
 - **Speed:** walk 0 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 157
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 1 (-5) | 1 (-5) | 12 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Immunities:** thunder
 - **Condition Immunities:** blinded, deafened, frightened
 - **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 6
@@ -22,3 +23,5 @@
 - **False Appearance:** While the boomer remains motionless, it is indistinguishable from an ordinary fungus.
 ### Reactions
 - **Shriek:** If bright light or a creature is within 30 feet of the boomer, it emits a shriek audible within 300 feet of it. The boomer continues to shriek until the disturbance moves out of range and for 1d4 of the boomer’s turns afterward.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 123 (13d12+39)
 - **Speed:** swim 30 ft. walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 273
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Multiattack:** The oasis keeper makes two attacks: one with its stinger and one with its bite
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft, one target. Hit: 21 (3d10 + 5) piercing damage.
 - **Stinger:** Melee Weapon Attack: +9 to hit, reach 10 ft, one target. Hit: 14 (2d8 + 5) piercing damage, and the target must make a DC 15 Constitution saving throw. On a failure, the target takes 14 (4d6) poison damage and is incapacitated for 1 minute. On a success, the target takes half the damage and isn’t incapacitated. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 22 (3d8+9)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 48
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,5 @@
 - **Shortbow:** Ranged Weapon Attack: +2 to hit 80/320' one target 3 (1d6) piercing damage.
 ### Reactions
 - **Dig In:** Has resistance to one melee weapon attack that would hit it. To do so the avestruzii must see the attacker and must not have moved during its previous turn.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 44 (8d6+16)
 - **Speed:** walk 20 ft. burrow 20 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 106
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one creature,. 4 (1d4+2) piercing damage + 2 (1d4) lightning and 4 (1d8) poison and the target must make DC 12 Con save or succumb to worm’s Dreaming Venom (above).
 - **Spit Poison:** Ranged Weapon Attack: +4 to hit 15/30' one creature. 9 (2d8) poison and the target must make DC 12 Con save or succumb to the worm’s venom (see Dreaming Venom).
+
+

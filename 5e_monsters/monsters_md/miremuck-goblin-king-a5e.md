@@ -6,12 +6,13 @@
 - **Hit Points:** 62 (8d8+16)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page None
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 16 (+3) | 10 (+0) | 12 (+1) | 8 (-1) | 18 (+4) |
 
+- **Skills:** stealth +7, persuasion +8, deception +8
 - **Senses:** darkvision 60 ft., passive Perception 9
 - **Languages:** Common, Goblin
 ### Special Abilities
@@ -21,3 +22,5 @@
 - **Charm Person (1/day):** Once per day the goblin king can castcharm personas a 3rd-level spell  allowing him tocharm three creatures within 60 feet. The goblinkings spell save DC is 14.
 ### Reactions
 - **Parry:** The goblin king adds 2 to his AC against onemelee attack that would hit him. To do this the goblinking must see the attacker and be wielding a meleeweapon.
+
+

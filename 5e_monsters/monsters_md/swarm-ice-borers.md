@@ -6,7 +6,7 @@
 - **Hit Points:** 40 (9d8)
 - **Speed:** walk 10 ft. climb 10 ft. fly 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 362
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Swarm:** Can occupy another creature’s space and vice versa and swarm can move through any opening large enough for a Tiny elemental. Can’t regain hp or gain temp hp.
 ### Actions
 - **Impale:** Melee Weapon Attack: +4 to hit, 0 ft., one creature, in the swarm’s space. 7 (2d6) piercing damage + 9 (2d8) cold or 3 (1d6) piercing damage + 4 (1d8) cold if the swarm has half its hp or fewer.
+
+

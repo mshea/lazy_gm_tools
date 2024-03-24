@@ -6,13 +6,14 @@
 - **Hit Points:** 180 (19d10+76)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 84
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Dex +6, Con +8, Wis +7, Cha +8
+- **Skills:** 
 - **Damage Immunities:** cold, fire, poison
 - **Damage Resistances:** damage from nonmagical, non-silvered weapons
 - **Condition Immunities:** poisoned
@@ -33,4 +34,5 @@
 - **Tail:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 5) bludgeoning damage plus 7 (2d6) cold damage.
 ### Reactions
 - **Freezing Blood (1/Day):** When a creature within 60 feet that the devil can see hits it with a ranged attack or includes it in a spells area, the creature makes a DC 16 Constitution saving throw. On a failure, the creature takes 10 (3d6) cold damage and is slowed until the end of its next turn.
-- **Tail:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 5) bludgeoning damage plus 7 (2d6) cold damage.
+
+

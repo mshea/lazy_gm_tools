@@ -6,7 +6,7 @@
 - **Hit Points:** 44 (8d6+16)
 - **Speed:** walk 0 ft. swim 60 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 315
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Slam:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) bludgeoning damage + 5 (2d4) radiant.
 - **Air Bubble (Recharge: Short/Long Rest):** Creates an air bubble around the heads of any number of creatures that are touching it. A creature that benefits from an air bubble can breathe underwater and gains swim speed of 20' if it doesn’t already have a swim speed. The air bubbles hold enough air for 24 hrs of breathing divided by number of breathing creatures that received an air bubble.
 - **Healing Touch (3/Day):** Touches another creature. Target magically regains 5 (1d8+1) hp and is freed from any disease poison blindness or deafness.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 26 (4d6+12)
 - **Speed:** walk 10 ft. fly 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 262
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Tentacle:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) bludgeoning damage.
 ### Reactions
 - **Emergency Flare (Recharges: Short/Long Rest):** When it takes damage can emit brilliant flash of light. Each creature within 30': blinded 1 min (DC 12 Con negates). Blinded creature can re-save at end of each of its turns success ends effect on itself.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 76 (9d8+36)
 - **Speed:** fly 100 ft. walk 25 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 260
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Lunarbeam (Recharge 5-6):** The drake exhales searing moonlight in a 60-foot line that is 5 feet wide. Each creature in that area must make a DC 15 Constitution saving throw, taking 33 (6d10) radiant damage on a failed save, or half as much damage on a successful one. A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its true form and can't assume a different form for 1d4 rounds.
 ### Reactions
 - **Form of Moonlight:** When the moon drake takes damage or is restrained, it can transmute its physical form into an incorporeal form of pure moonlight until the end of its next turn. While in this form, it has resistance to cold, fire, and lightning damage and immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks. While in this form, the drake can pass through openings at least 1 inch wide and through transparent objects. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+

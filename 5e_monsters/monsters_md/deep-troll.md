@@ -6,12 +6,13 @@
 - **Hit Points:** 63 (6d10+30)
 - **Speed:** walk 30 ft. burrow 20 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 352
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
 
+- **Skills:** 
 - **Senses:** blindsight 30 ft., darkvision 60 ft., passive Perception 9
 - **Languages:** Deep Speech
 ### Special Abilities
@@ -22,3 +23,5 @@
 - **Multiattack:** The deep troll makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) slashing damage.
+
+

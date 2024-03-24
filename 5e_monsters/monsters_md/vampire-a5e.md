@@ -6,13 +6,14 @@
 - **Hit Points:** 142 (15d8+75)
 - **Speed:** walk 40 ft. climb 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 418
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 18 (+4) | 20 (+5) | 16 (+3) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Dex +8, Wis +7, Cha +8
+- **Skills:** perception +7, persuasion +8, stealth +8
 - **Damage Resistances:** necrotic; damage from nonmagical, non-silvered weapons
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** the languages it knew in life
@@ -31,7 +32,6 @@
 ### Reactions
 - **Hissing Scuttle (1/Day):** When the vampire takes radiant damage, it moves up to its Speed without provoking opportunity attacks.
 - **Warding Charm (1/Day):** When a creature the vampire can see targets it with a melee attack but before the attack is made, the vampire uses Charm on that creature.
-- **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target that is grappled, incapacitated, restrained, willing, or unaware of the vampires presence. Hit: 10 (1d10 + 5) piercing damage plus 21 (6d6) necrotic damage. The targets hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the vampire regains this number of hit points. The reduction lasts until the target finishes a long rest. If the target is reduced to 0 hit points by this attack, it dies and rises the following night as a vampire spawn in the vampires thrall. Before the target first rises as a vampire spawn, a bless, gentle repose, or similar spell cast on the body prevents this transformation.
 
 
 ### Legendary Actions

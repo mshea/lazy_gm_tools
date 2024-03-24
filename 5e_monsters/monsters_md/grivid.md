@@ -6,7 +6,7 @@
 - **Hit Points:** 180 (19d10+76)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 221
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Spit Worm:** Ranged Weapon Attack: +7 to hit 20/60' one creature. 13 (3d6+3) bludgeoning damage + 7 (2d6) poison and target: DC 16 Con save or be infested with parasitic cheek worm (see above) if grivid has at least 1 cheek worm.
 ### Bonus Actions
 - **Consume Worms:** Consumes up to 3 cheek worms regaining 5 (2d4) hp for each worm consumed.
+
+

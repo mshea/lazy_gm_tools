@@ -6,7 +6,7 @@
 - **Hit Points:** 149 (13d10+78)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 15
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Burning Slam:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 14 (2d8+5) bludgeoning damage + 11 (2d10) fire. If target is creature/flammable object ignites. Until action used to douse fire target: 5 (1d10) fire at start of each of its turns.
 - **Hurl Flame:** Ranged Spell Attack: +9 to hit, 120 ft., one target, 19 (4d6+5) fire.
 - **Scorching Aura (Recharge 6):** Increases power of its inner fire causing metal weapons and armor to burn red-hot. Each creature within 30' of it in physical contact with manufactured metal object (ex: metal weapon suit of heavy or medium metal armor): 22 (5d8) fire and must make DC 16 Con save or drop object if it can. If it doesn’t drop object (or take off armor) has disadvantage on attacks and ability checks until start of alazai’s next turn.
+
+

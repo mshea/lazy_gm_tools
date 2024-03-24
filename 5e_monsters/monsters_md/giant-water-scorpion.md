@@ -6,7 +6,7 @@
 - **Hit Points:** 93 (11d10+33)
 - **Speed:** swim 30 ft. walk 20 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 393
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Multiattack:** The giant water scorpion makes two claw attacks. If it is grappling a creature, it can use its proboscis once.
 - **Proboscis:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage, and the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) piercing damage. The target is grappled (escape DC 13) if it is a Medium or smaller creature and the scorpion doesn’t have another creature grappled.
+
+

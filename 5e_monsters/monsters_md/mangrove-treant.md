@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (13d12+52)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 350
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,6 @@
 ### Actions
 - **Multiattack:** The mangrove treant makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
-- **Mangrove Mosquitos:** The mangrove treant calls a swarm of mosquitos from its branches. The swarm of mosquitos uses the statistics of a swarm of insects, except it has a flying speed of 30 feet. The swarm acts an ally of the treant and obeys its spoken commands. The swarm remains for 1 day, until the treant dies, or until the treant dismisses it as a bonus action.
+- **Mangrove Mosquitos:** The mangrove treant calls a swarm of mosquitos from its branches. The swarm of mosquitos uses the statistics of a swarm of insects, except it has a flying speed of 30 feet. The swarm acts an ally of the treant and obeys its spoken commands. The swarm remains for 1 day, until the treant dies, or until the treant dismisses it as a bonus action.<br><br>The treant can have only one swarm of mosquitos at a time. If it calls another, the previous swarm disperses.
 
-The treant can have only one swarm of mosquitos at a time. If it calls another, the previous swarm disperses.
+

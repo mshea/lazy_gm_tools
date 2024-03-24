@@ -6,7 +6,7 @@
 - **Hit Points:** 110 (13d8+52)
 - **Speed:** walk 25 ft. fly 50 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 156
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Breath Weapons (Recharge 5–6):** Uses one of the following:Calming Breath Breathes a cloud of soothing gas around itself. Each creature within 30' of it: become indifferent about creatures that it is hostile toward within 100' of the drake for 1 hr (DC 15 Cha negates). Indifference ends if creature is attacked harmed by a spell or witnesses any of its allies being harmed. Frightened creatures within 30' of drake are no longer frightened.Protective Roar Each hostile creature in 30' cone: 21 (6d6) thunder (DC 15 Con half). Each friendly Beast in area gains 5 (1d10) temp hp or 11 (2d10) temp hp if it is charmed by the drake.
 ### Reactions
 - **Shepherd’s Safeguard:** When a Beast within 30' of the drake would be hit by an attack drake can chirp and beast adds 3 to its AC vs. the attack. To do so drake must see attacker and Beast.
+
+

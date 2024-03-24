@@ -6,7 +6,7 @@
 - **Hit Points:** 104 (11d10+44)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 307
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Warp Reflection (Recharge 6):** The righteous sentinel points its shield at a creature within 30 feet of it. If the target can see the sentinel’s shield, the target must make a DC 15 Wisdom saving throw. On a failure, the target takes 22 (4d10) psychic damage and is frightened for 1 minute. On a success, the target takes half the damage and isn’t frightened. An evil-aligned target has disadvantage on this saving throw. At the start of each of the frightened creature’s turns, it takes 11 (2d10) psychic damage. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ### Reactions
 - **Reflective Retribution:** The sentinel adds 3 to its AC against one melee attack that would hit it. To do so, the sentinel must see the attacker. If the attack misses, the attacker takes 11 (2d10) psychic damage.
+
+

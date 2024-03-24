@@ -6,13 +6,14 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 30 ft. swim 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 271
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 16 (+3) |
 
 - **Saving Throws**: Con +5, Wis +3
+- **Skills:** arcana +3, deception +5, insight +3
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Aquan, Common, Giant
 ### Special Abilities
@@ -26,3 +27,5 @@
 - **Lightning Blast (Recharge 5-6):** An 80-foot-long  5-foot-wide lightning bolt springs from the hags extended claw. Each creature in the area makes a DC 13 Dexterity saving throw  taking 21 (6d6) lightning damage on a failed save or half damage on a success.
 ### Bonus Actions
 - **Horrific Transformation:** The hag briefly takes on a terrifying form or reveals its true form. Each creature within 30 feet that can see the hag makes a DC 11 Wisdom saving throw. A creature under the hags curse automatically fails this saving throw. On a failure, the creature is frightened until the end of its next turn. If a creatures saving throw is successful, it is immune to the hags Horrific Transformation for 24 hours.
+
+

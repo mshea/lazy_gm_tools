@@ -6,13 +6,14 @@
 - **Hit Points:** 30 (4d8+12)
 - **Speed:** climb 10 ft. walk 10 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 288
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 2 (-4) |
 
 - **Saving Throws**: Con +5
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, necrotic, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
@@ -24,3 +25,5 @@
 - **Spider Climb:** The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 ### Actions
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or become infected with the seeping death disease (see the Seeping Death trait).
+
+

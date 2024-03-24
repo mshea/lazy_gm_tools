@@ -6,7 +6,7 @@
 - **Hit Points:** 103 (9d12+45)
 - **Speed:** walk 20 ft. fly 80 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 382
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Beak:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 3 (1d6) fire damage and 3 (1d6) necrotic damage. If a creature is slain by this attack, its body crumbles to sand, and the zalikum stores its soul. The creature can be restored to life only if the zalikum is destroyed and can’t rejuvenate (see the Rejuvenation trait).
 - **Talon:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 3 (1d6) fire damage and 3 (1d6) necrotic damage.
 - **Death-infused Desert Breath (Recharge 6):** The zalikum exhales superheated sand infused with the power of damned souls in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw, taking 14 (4d6) fire damage and 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one. If a creature’s saving throw fails by 5 or more, the creature also suffers one level of exhaustion.
+
+

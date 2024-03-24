@@ -6,7 +6,7 @@
 - **Hit Points:** 20 (8d4)
 - **Speed:** fly 40 ft. walk 10 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 217
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Iridescent Blast:** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 7 (2d6) radiant damage.
 - **Gossip:** The irid spouts gossip and exaggerated truths about a target it can see within 30 feet. If the target is hostile, it must succeed on a DC 13 Charisma saving throw or have disadvantage on its next attack roll. If the target is friendly, it has advantage on its next attack roll.
 - **Invisibility:** The irid magically turns invisible until it attacks or uses Gossip, or until its concentration ends (as if concentrating on a spell). Any equipment the irid wears or carries is invisible with it.
+
+

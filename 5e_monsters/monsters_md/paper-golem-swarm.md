@@ -6,12 +6,13 @@
 - **Hit Points:** 55 (10d8+10)
 - **Speed:** fly 30 ft. walk 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 204
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 16 (+3) | 12 (+1) | 3 (-4) | 7 (-2) | 3 (-4) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned
@@ -26,3 +27,5 @@
 ### Actions
 - **Paper Cut:** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) slashing damage, or 7 (2d6) slashing damage if the swarm has half of its hp or fewer.
 - **Whirlwind (Recharge 5-6):** The air is momentarily filled with paper golems. Each creature within 5 feet of the swarm must make a DC 13 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.
+
+

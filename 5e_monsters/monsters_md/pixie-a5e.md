@@ -6,12 +6,13 @@
 - **Hit Points:** 2 (1d4)
 - **Speed:** walk 10 ft. fly 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 202
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 20 (+5) | 10 (+0) | 10 (+0) | 12 (+1) | 14 (+2) |
 
+- **Skills:** perception +3, stealth +7
 - **Senses:** passive Perception 13
 - **Languages:** Sylvan
 ### Special Abilities
@@ -31,3 +32,5 @@
 - **The targets head takes on the appearance of a beasts head (donkey, wolf, etc):** The targets statistics dont change  but the target can no longer speak; it can only make animal noises.
 ### Bonus Actions
 - **Invisibility:** The pixie and any equipment it wears or carries magically turns invisible until the pixie attacks, casts a spell, becomes incapacitated, or uses a bonus action to become visible.
+
+

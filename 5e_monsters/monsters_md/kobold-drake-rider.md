@@ -6,7 +6,7 @@
 - **Hit Points:** 71 (13d6+26)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 252
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Spear:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 20/60' one target 6 (1d6+3) piercing damage or 7 (1d8+3) piercing damage if used with two hands to make a melee attack.
 ### Reactions
 - **Failsafe Equipment:** The drake rider wears wing-like arm and feet flaps folded on its back. If its mount dies or it is dismounted the rider descends 60' per round and takes no damage from falling if its mount was flying or it gains a swimming speed of 30' for 1 min if its mount was swimming.
+
+

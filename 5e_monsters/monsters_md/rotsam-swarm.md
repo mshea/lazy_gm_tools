@@ -6,12 +6,13 @@
 - **Hit Points:** 142 (15d10+60)
 - **Speed:** walk 10 ft. swim 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 309
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 8 (-1) | 18 (+4) | 1 (-5) | 9 (-1) | 6 (-2) |
 
+- **Skills:** 
 - **Damage Immunities:** necrotic
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
@@ -23,3 +24,5 @@
 - **Swarm:** The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny rotsam. The swarm can’t regain hp or gain temporary hp.
 ### Actions
 - **Diseased Bites:** Melee Weapon Attack: +7 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 10 (4d4) piercing damage plus 21 (6d6) necrotic damage, or 5 (2d4) piercing damage and 10 (3d6) necrotic damage if the swarm has half of its hp or fewer. The target must make a DC 15 Constitution saving throw or contract a disease (see the Bog Rot trait).
+
+

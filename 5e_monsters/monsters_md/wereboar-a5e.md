@@ -6,12 +6,13 @@
 - **Hit Points:** 78 (12d8+24)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 313
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 10 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Skills:** perception +2
 - **Damage Immunities:** damage from nonmagical, non-silvered weapons
 - **Senses:** passive Perception 12
 - **Languages:** Common
@@ -25,3 +26,5 @@
 ### Bonus Actions
 - **Shapeshift:** The wereboar changes its form to a boar, a boar-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged. It can't speak in boar form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Frenzied Tusks (While Bloodied:** The wereboar attacks with its tusks.
+
+

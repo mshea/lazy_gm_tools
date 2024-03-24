@@ -6,7 +6,7 @@
 - **Hit Points:** 172 (15d12+75)
 - **Speed:** burrow 20 ft. walk 40 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 161
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
 - **Tail:** Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage. The target is grappled (escape DC 17) if it is a Large or smaller creature and the galidroo doesn’t have another creature grappled. Until this grapple ends, the target is restrained, and the galidroo can’t use its tail on another target.
 - **Prophetic Screech (Recharge 5-6):** The galidroo unleashes a burst of prophetic power in a 60-foot cone. Each creature in that area must make a DC 17 Intelligence saving throw. On a failure, a creature takes 35 (10d6) psychic damage and is incapacitated for 1 minute as its mind is bombarded with visions of its past and future. On a success, a creature takes half the damage and isn’t incapacitated. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 15 (2d8+6)
 - **Speed:** climb 30 ft. walk 40 ft. burrow 20 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 162
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Sunlight Sensitivity:** While in sunlight, the gray orc has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 ### Actions
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 82 (15d6+30)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 46
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Astral Traveler (2/Day):** Briefly surrounds itself in a shower of glittering dust and teleports to an unoccupied space it can see within 30 feet.
 ### Reactions
 - **Playing Dead:** When reduced to 10 hp or less it feigns death in hopes of deceiving its attackers. A creature that sees it in this state can determine it is a ruse via DC 15 Wis (Medicine) check. Ruse lasts until astralsupial ends it (no action required) up to 8 hrs. 1st attack it makes within 1 round of ending ruse has advantage.
+
+

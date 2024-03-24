@@ -6,7 +6,7 @@
 - **Hit Points:** 139 (9d20+45)
 - **Speed:** walk 10 ft. burrow 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 191
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Rapid Burrow:** Burrows up to 60 feet. Opportunity attacks vs. it are made with disadvantage when mulcher burrows out of an enemy’s reach this way. Creatures grappled by it are freed before it burrows.
 ### Reactions
 - **Emergent Stalk:** When reduced below half hp max or creature scores critical hit vs. it immediately uses Expose Stalk.
+
+

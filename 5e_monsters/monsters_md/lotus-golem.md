@@ -6,7 +6,7 @@
 - **Hit Points:** 82 (11d10+22)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 201
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Arcane Water:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d12 + 2) bludgeoning damage plus 7 (2d6) force damage.
 ### Reactions
 - **Arcane Absorption:** When a spell is cast within 30 feet of it, the golem absorbs some of the spell's potency. If it is a spell that forces a saving throw, the DC to succeed drops by 2. If it is a spell with an attack roll, the attack roll has disadvantage. The golem regains 20 hp and gains 1 charge point in its Arcane Pool.
+
+

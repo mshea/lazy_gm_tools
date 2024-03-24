@@ -6,12 +6,13 @@
 - **Hit Points:** 13 (3d8)
 - **Speed:** walk 50 ft. climb 40 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 455
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 14 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 6 (-2) |
 
+- **Skills:** perception +4, stealth +4
 - **Senses:** darkvision 30 ft., passive Perception 14
 - **Languages:** 
 ### Special Abilities
@@ -21,3 +22,5 @@
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4+2) piercing damage.
 ### Bonus Actions
 - **Opportune Bite:** The panther makes a bite attack against a prone creature.
+
+

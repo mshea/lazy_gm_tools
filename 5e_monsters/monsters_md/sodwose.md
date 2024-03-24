@@ -6,7 +6,7 @@
 - **Hit Points:** 127 (15d8+60)
 - **Speed:** walk 40 ft. climb 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 350
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 ### Bonus Actions
 - **Grass Step:** Teleports along with any equipment it is wearing or carrying up to 30' to an unoccupied spot it sees. The origin and destination spaces must contain grass.
 - **Set Snare:** Creates a snare in a square area it can see within 30' of it that is 5 ft. on a side and 50%+ grass. 1st creature to moves into that space within next min: DC 15 Str save or be restrained by grasses. A creature including restrained creature can use action to free restrained creature via DC 15 Str check. It can have at most 3 snares set at a time. If it sets a 4th oldest ceases to function.
+
+

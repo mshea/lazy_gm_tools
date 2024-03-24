@@ -6,12 +6,13 @@
 - **Hit Points:** 120 (16d8+48)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 323
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 18 (+4) | 16 (+3) | 12 (+1) | 14 (+2) | 14 (+2) |
 
+- **Skills:** deception +5, insight +5, perception +5, stealth +7
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common
 ### Special Abilities
@@ -21,3 +22,5 @@
 - **Multiattack:** The medusa makes any combination of two attacks with its snake hair and longbow.
 - **Snake Hair:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) poison damage  plus an additional 3 (1d6) piercing damage if the target is a creature that is surprised or that can't see the medusa.
 - **Longbow:** Ranged Weapon Attack: +7 to hit  range 150/600 ft.  one target. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) poison damage.
+
+

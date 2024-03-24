@@ -6,7 +6,7 @@
 - **Hit Points:** 81 (18d6+18)
 - **Speed:** walk 0 ft. fly 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 271
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Refract Mind (1/Day):** Pulls a Humanoid with 0 hp into its body refracting creature into fragments of itself. Humanoid dies and 2d4 cultists appear in unoccupied spaces within 15 ft. of mindshard. The cultists which share Humanoid’s appearance and memories act as allies of mindshard and obey its telepathic commands. A Humanoid must have an Int score of 5 or higher to be refracted.
 ### Reactions
 - **Enthralling Defense:** When a creature the mindshard can see within 30' of it hits it with an attack that creature must make DC 14 Cha save or be charmed until end of its next turn.
+
+

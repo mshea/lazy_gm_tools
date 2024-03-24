@@ -6,12 +6,13 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 437
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 6 (-2) | 14 (+2) | 3 (-4) | 8 (-1) | 4 (-3) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** fatigue, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9
@@ -24,3 +25,5 @@
 - **Greatsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Grab:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) bludgeoning damage  and the creature is grappled if its Medium or smaller (escape DC 13)  and until the grapple ends  the zombie can't grab another target.
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one creature grappled by a zombie. Hit: 8 (1d10 + 3) piercing damage  and the zombie regains hit points equal to the damage dealt.
+
+

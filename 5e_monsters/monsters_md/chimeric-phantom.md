@@ -6,12 +6,13 @@
 - **Hit Points:** 36 (8d8)
 - **Speed:** walk 0 ft. hover True ft. fly 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 62
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 13 (+1) | 10 (+0) | 13 (+1) | 14 (+2) | 5 (-3) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
@@ -23,3 +24,5 @@
 ### Actions
 - **Multiattack:** The chimeric phantom makes two Maddening Grasp attacks.
 - **Maddening Grasp:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 17 (7d4)
 - **Speed:** walk 0 ft. fly 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 34
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Orchestra Hit:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 5 (1d6+2) thunder.
 - **Spirited Solo (Recharge 5–6):** Improvises a tune to draw listeners into entrancing thought. Each creature within 30' of it that can hear the song: creature is incapacitated until end of its next turn (DC 12 Wis creature has an epiphany and gains advantage on Cha (Performance) checks for 1 day).
 - **Courageous Anthem (1/Day):** Plays a song that bolsters its allies. Each friendly creature within 30' of the instrument that can hear song has a +1 bonus to attack rolls ability checks and saves until song ends. Instrument must take a bonus action on subsequent turns to continue playing the song. Can stop playing at any time. Song ends if animated instrument is incapacitated. A creature can benefit from only one Courageous Anthem at a time.
+
+

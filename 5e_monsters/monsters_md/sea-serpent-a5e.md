@@ -6,13 +6,14 @@
 - **Hit Points:** 247 (15d20+90)
 - **Speed:** walk 10 ft. swim 50 ft.
 - **Challenge Rating:** 16 (15,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 386
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 28 (+9) | 10 (+0) | 22 (+6) | 4 (-3) | 14 (+2) | 8 (-1) |
 
 - **Saving Throws**: Dex +5, Con +11, Int +2, Wis +7, Cha +4
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** 
 ### Special Abilities
@@ -28,3 +29,5 @@
 ### Reactions
 - **Reactive Bite:** If the serpent takes 15 damage or more from a melee attack made by a creature it can see, it bites the attacker.
 - **Reactive Tail:** If the serpent takes 15 damage or more from an attack made by a creature or object it can see, it makes a tail attack against the attacker.
+
+

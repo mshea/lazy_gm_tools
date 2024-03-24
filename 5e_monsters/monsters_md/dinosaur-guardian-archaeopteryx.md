@@ -6,7 +6,7 @@
 - **Hit Points:** 36 (8d6+8)
 - **Speed:** walk 15 ft. fly 50 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 126
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Spit Thorn:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 4 (1d4+2) piercing damage + 2 (1d4) poison.
 ### Bonus Actions
 - **Imbue Poison:** The guardian archaeopteryx chooses a friendly creature it can see within 30' of it and imbues that creature’s attacks with magical poison. The next time the friendly creature hits with an attack before the start of archaeopteryx’s next turn target of attack takes an extra 2 (1d4) poison and must make DC 11 Con save or be poisoned until end of its next turn.
+
+

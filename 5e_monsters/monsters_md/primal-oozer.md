@@ -6,13 +6,14 @@
 - **Hit Points:** 112 (15d8+45)
 - **Speed:** walk 30 ft. climb 10 ft. swim 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 297
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 13 (+1) | 16 (+3) | 6 (-2) | 15 (+2) | 5 (-3) |
 
 - **Saving Throws**: Dex +4
+- **Skills:** 
 - **Damage Immunities:** acid
 - **Damage Resistances:** piercing
 - **Senses:** darkvision 60 ft., passive Perception 12
@@ -25,3 +26,5 @@
 ### Actions
 - **Multiattack:** The primal oozer makes two bite attacks. If both attacks hit the same target, the target must make a DC 15 Constitution saving throw. On a failure, the target takes 7 (2d6) acid damage and contracts a disease (see the Ooze Plague trait). On a success, the target takes half the damage and doesn’t contract a disease.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+

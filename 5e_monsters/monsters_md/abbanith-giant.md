@@ -6,13 +6,14 @@
 - **Hit Points:** 76 (9d10+27)
 - **Speed:** burrow 30 ft. walk 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 170
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 9 (-1) | 17 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 - **Saving Throws**: Str +7, Con +5
+- **Skills:** 
 - **Senses:** tremorsense 120 ft., passive Perception 11
 - **Languages:** Giant, Terran
 ### Special Abilities
@@ -23,3 +24,5 @@
 - **Thumb Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
 ### Reactions
 - **Earth Counter (Recharge 6):** When a creature the abbanith can see within 30 feet of it casts a spell, the abbanith counters it. This reaction works like the counterspell spell, except the abbanith can only counter spells that directly affect or create earth or stone, such as stone shape, wall of stone, or move earth, and it doesn’t need to make a spellcasting ability check, regardless of the spell’s level.
+
+

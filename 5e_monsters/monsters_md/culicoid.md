@@ -6,7 +6,7 @@
 - **Hit Points:** 190 (20d10+80)
 - **Speed:** fly 60 ft. hover True ft. walk 30 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 94
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Multiattack:** The culicoid makes three attacks: one with its proboscis and two with its needle claws.
 - **Needle Claws:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, the culicoid can automatically hit the target with its needle claw, and it can’t use the same needle claw against other targets. The culicoid has two needle claws, each of which can grapple only one target.
 - **Proboscis:** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 14 (2d8 + 5) piercing damage plus 7 (2d6) poison damage. The target must succeed on a DC 16 Constitution saving throw or be poisoned for 1 minute. While poisoned, a creature must succeed on a DC 16 Wisdom saving throw at the start of each of its turns or spend its full turn scratching the rash. A poisoned creature can repeat the Constitution saving throw at the end of each of its turns, ending the poisoned condition on itself on a success.
+
+

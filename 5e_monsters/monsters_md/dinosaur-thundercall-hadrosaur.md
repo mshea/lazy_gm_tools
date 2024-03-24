@@ -6,7 +6,7 @@
 - **Hit Points:** 168 (16d12+64)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 126
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Thunderous Bellow (Recharge 5–6):** The thundercall hadrosaur unleashes a ground-shattering bellow in a 120' cone. All in area make a DC 16 Con save. On a failure a creature takes 38 (7d10) thunder and is knocked prone. On a success a creature takes half the damage and isn’t knocked prone.
 ### Reactions
 - **Sonic Shield:** The hadrosaur adds 4 to its AC vs. one ranged attack that would hit it. To do so the hadrosaur must see the attacker and not be in an area of magical silence.
+
+

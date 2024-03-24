@@ -6,7 +6,7 @@
 - **Hit Points:** 161 (17d10+68)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 150
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Shortsword:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage plus 3 (1d6) poison damage.
 - **Longbow:** Ranged Weapon Attack: +7 to hit, range 120/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 3 (1d6) poison damage.
 - **Queen’s Grasp:** Ranged Weapon Attack: +7 to hit, ranged 30/60 ft., one target. Hit: The target is restrained by icy wisps of shadow. While restrained, the creature takes 7 (2d6) cold damage at the start of each of its turns. As an action, the restrained creature can make a DC 15 Strength check, bursting through the icy shadow on a success. The icy shadow can also be attacked and destroyed (AC 10; 5 hp; resistance to bludgeoning, piercing, and slashing damage; immunity to cold, necrotic, poison, and psychic damage).
+
+

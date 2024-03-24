@@ -6,12 +6,13 @@
 - **Hit Points:** 135 (18d8+54)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 312
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 16 (+3) | 10 (+0) | 12 (+1) | 12 (+1) |
 
+- **Skills:** perception +4
 - **Damage Immunities:** damage from nonmagical, non-silvered weapons
 - **Senses:** passive Perception 16
 - **Languages:** Common
@@ -27,3 +28,5 @@
 ### Bonus Actions
 - **Shapeshift:** The werebear changes its form to a Large bear, a Large bear-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged except for its size. It can't speak in bear form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Frenzied Bite (While Bloodied:** The werebear makes a bite attack.
+
+

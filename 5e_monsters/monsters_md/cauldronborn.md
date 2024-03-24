@@ -6,12 +6,13 @@
 - **Hit Points:** 13 (3d6+3)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 59
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 7 (-2) | 12 (+1) | 3 (-4) | 6 (-2) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** piercing and slashing from nonmagical attacks not made with adamantine
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
@@ -26,3 +27,5 @@
 - **Multiattack:** The cauldronborn makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
 - **Call Potion (Recharge 5-6):** The cauldronborn releases a hungry screech, magically reaching out to nearby potions. All potions within 10 feet of the cauldronborn magically move toward the cauldronborn by rolling out of backpacks, hopping off of belts, unburying themselves, etc. A creature wearing or carrying a potion must succeed on a DC 13 Dexterity saving throw or its potion moves to within 5 feet of the cauldronborn. The target must make a separate saving throw for each potion it is attempting to keep in its possession.
+
+

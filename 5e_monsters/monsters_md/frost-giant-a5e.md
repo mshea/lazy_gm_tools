@@ -6,13 +6,14 @@
 - **Hit Points:** 138 (12d12+60)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 236
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 8 (-1) | 20 (+5) | 10 (+0) | 10 (+0) | 12 (+1) |
 
 - **Saving Throws**: Str +10, Con +9, Wis +4, Cha +5
+- **Skills:** athletics +10, perception +4, survival +4
 - **Damage Immunities:** cold
 - **Senses:** passive Perception 14
 - **Languages:** Common, Giant
@@ -25,3 +26,5 @@
 ### Bonus Actions
 - **Grab:** One creature within 5 feet makes a DC 11 Dexterity saving throw. On a failure, it is grappled (escape DC 18). Until this grapple ends, the giant can't grab another target, and it makes battleaxe attacks with advantage against the grappled target.
 - **Stomp (1/Day):** Melee Weapon Attack: +10 to hit, reach 10 ft., one prone target. Hit: 13 (3d4 + 6) bludgeoning damage.
+
+

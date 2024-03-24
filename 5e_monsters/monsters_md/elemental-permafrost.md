@@ -6,7 +6,7 @@
 - **Hit Points:** 133 (14d10+56)
 - **Speed:** walk 20 ft. burrow 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 167
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Multiattack:** Two Slam attacks.
 - **Slam:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 13 (2d8+4) bludgeoning damage + 7 (2d6) cold.
 - **Plague-Ridden Pound (Recharge 5–6):** Brings both of its fists down striking ground and sending ice shards from its body flying at nearby creatures. Each creature on the ground within 20' of it: 10 (3d6) bludgeoning damage and 10 (3d6) cold knocked prone and becomes infected with primordial plague (see Plague Bearer; DC 14 Dex half damage and not prone or infected).
+
+

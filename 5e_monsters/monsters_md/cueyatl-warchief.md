@@ -6,7 +6,7 @@
 - **Hit Points:** 117 (18d6+54)
 - **Speed:** walk 30 ft. climb 20 ft. swim 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 101
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Javelin:** Melee or Ranged Weapon Attack: +7 to hit 5 ft. or range 30/120' one target 7 (1d6+4) piercing damage + 7 (2d6) poison.
 ### Reactions
 - **Mounted Parry:** Adds 3 to its AC or its mount’s AC vs. one melee attack that would hit it or its mount. To do so warchief must see attacker and be wielding a melee weapon.
+
+

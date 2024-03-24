@@ -6,12 +6,13 @@
 - **Hit Points:** 49 (11d8)
 - **Speed:** fly 30 ft. hover True ft. walk 0 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 246
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) | 18 (+4) |
 
+- **Skills:** 
 - **Damage Immunities:** cold, necrotic, poison
 - **Damage Resistances:** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
@@ -24,3 +25,5 @@
 - **Inflict Sorrow:** The lady in white makes one grasp attack against the target to which it is attached. If the attack hits, the target's Charisma score is reduced by 1d4. The target dies if this reduces its Charisma to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a female humanoid dies from this attack, a new lady in white rises from the corpse 1d4 hours later.
 - **Invisibility:** The lady in white turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell).
 - **Corpse Revealed:** The lady in white does away with her living disguise and reveals her undead state. Each non-undead creature within 50 feet of the lady that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lady's Corpse Revealed for the next 24 hours.
+
+

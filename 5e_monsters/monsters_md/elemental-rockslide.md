@@ -6,7 +6,7 @@
 - **Hit Points:** 147 (14d10+70)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 168
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Skipping Stone:** Ranged Weapon Attack: +9 to hit 20/60' one target 15 (2d8+6) bludgeoning damage and the stone bounces to another creature within 10 ft. of target. That creature must make DC 16 Dex save or take 9 (2d8) bludgeoning damage.
 ### Bonus Actions
 - **Nimble Separation:** Can briefly separate its components parts and take the Dash action. Opportunity attacks vs. it have disadvantage until start of its next turn.
+
+

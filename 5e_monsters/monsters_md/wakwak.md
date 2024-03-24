@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (6d10 +12)
 - **Speed:** walk 40 ft. fly 10 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 388
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Beak:** Melee Weapon Attack: +5 to hit, 10 ft., one target, 8 (1d10+3) slashing damage.
 - **Talon:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) piercing damage.
 - **Wing Slap (Recharge 5–6):** Slams its sharp-edged wings together in front of itself in a 15 ft. cone. All in area make a DC 13 Dex save. On a failure a creature takes 10 (3d6) slashing damage and is pushed up to 10 ft. away from the wakwak and knocked prone. On a success a creature takes half the damage and isn’t pushed or knocked prone.
+
+

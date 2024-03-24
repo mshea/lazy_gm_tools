@@ -6,13 +6,14 @@
 - **Hit Points:** 250 (20d10+140)
 - **Speed:** walk 40 ft. fly 120 ft.
 - **Challenge Rating:** 16 (15,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 20
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 22 (+6) | 24 (+7) | 22 (+6) | 24 (+7) | 24 (+7) |
 
 - **Saving Throws**: Wis +12, Cha +12
+- **Skills:** athletics +11, insight +12, perception +12, religion +12
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** radiant; damage from nonmagical weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, poisoned
@@ -30,4 +31,5 @@
 - **Awe-Inspiring Gaze (Gaze):** The planetar targets a creature within 90 feet. The target makes a DC 20 Wisdom saving throw. On a failure, it is frightened until the end of its next turn. If the target makes its saving throw, it is immune to any angels Awe-Inspiring Gaze for the next 24 hours.
 ### Reactions
 - **Protective Parry:** When a creature within 5 feet would be hit with a melee attack, the planetar applies disadvantage to the attack roll.
-- **Awe-Inspiring Gaze (Gaze):** The planetar targets a creature within 90 feet. The target makes a DC 20 Wisdom saving throw. On a failure, it is frightened until the end of its next turn. If the target makes its saving throw, it is immune to any angels Awe-Inspiring Gaze for the next 24 hours.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 333
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 14 (+2) | 6 (-2) | 14 (+2) | 8 (-1) |
 
+- **Skills:** stealth +4
 - **Condition Immunities:** grappled, prone
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** 
@@ -28,3 +29,5 @@
 - **If a swallowed creature deals 10 or more damage to the mimic in a single turn, or if the mimic dies, the target falls prone in an unoccupied space of its choice within 5 feet of the mimic and is no longer swallowed:** 
 ### Bonus Actions
 - **Shapeshift:** The mimic changes its form to resemble an inanimate object of its approximate size or changes into its true form, which is an amorphous blob. Objects it is carrying or stuck to are not transformed. While shapeshifted, its statistics are unchanged. It reverts to its true form if it dies.
+
+

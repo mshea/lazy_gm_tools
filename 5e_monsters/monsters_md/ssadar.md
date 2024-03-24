@@ -6,12 +6,13 @@
 - **Hit Points:** 71 (11d8+22)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 337
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 15 (+2) | 9 (-1) | 14 (+2) | 10 (+0) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 12
@@ -24,3 +25,5 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) fire damage.
 - **Longsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 - **Spit Fire:** Ranged Weapon Attack: +4 to hit, range 60 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 2 (1d4) fire damage at the start of each of its turns.
+
+

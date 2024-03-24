@@ -6,7 +6,7 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 20 ft. climb 20 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 152
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) slashing damage.
 - **Thorn Spray (Recharge 5–6):** Shakes its body spraying thorns around it. Each creature within 20' of it: 18 (4d8) piercing damage (DC 13 Dex half). A creature that fails by 5+ has its speed reduced by 10 ft. until it uses action to remove thorns. When drake uses this it loses Thorny Body trait until start of its next turn.
+
+

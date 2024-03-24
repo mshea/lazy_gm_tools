@@ -6,13 +6,14 @@
 - **Hit Points:** 600 (48d10+336)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 20 (25,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 88
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 26 (+8) | 16 (+3) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
 
 - **Saving Throws**: Dex +9, Con +13, Int +12, Wis +10, Cha +13
+- **Skills:** athletics +14, insight +10, perception +10
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; damage from nonmagical, non-silvered weapons
 - **Condition Immunities:** poisoned
@@ -31,3 +32,5 @@
 ### Bonus Actions
 - **Claw:** Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 19 (2d10 + 8) slashing damage, and the target is grappled (escape DC 22). While the target is grappled, the pit fiend can't use its claw against a different creature.
 - **Tail:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.
+
+

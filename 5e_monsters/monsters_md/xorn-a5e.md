@@ -6,12 +6,13 @@
 - **Hit Points:** 73 (7d8+42)
 - **Speed:** walk 20 ft. burrow 20 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 431
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 22 (+6) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Skills:** perception +3, stealth +3
 - **Damage Resistances:** acid; damage from nonmagical, non-adamantine weapons
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
 - **Languages:** Terran
@@ -23,3 +24,5 @@
 - **Multiattack:** The xorn makes three claw attacks and then makes a bite attack if it can.
 - **Claw:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 8 (1d8 + 4) slashing damage.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one creature that was hit by the xorns claws at least twice this turn. Hit: 13 (2d8 + 4) piercing damage  and the xorn consumes one of the following nonmagical objects in the targets possession: a worn set of metal armor or a carried metal weapon or shield  a piece of metal equipment  a gem  or up to 1 000 coins. For 1 minute after an item is consumed  a creature can retrieve it from the gullet of a willing  incapacitated  or dead xorn  taking 7 (2d6) acid damage in the process.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 63 (14d6+14)
 - **Speed:** climb 10 ft. walk 10 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 281
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Pseudopod:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) bludgeoning damage.
 - **Magical Burble:** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10 (3d6) acid, cold, fire, or poison damage.
+
+

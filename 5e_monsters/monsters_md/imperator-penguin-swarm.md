@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d12+36)
 - **Speed:** walk 20 ft. swim 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 242
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 ### Actions
 - **Beaks:** Melee Weapon Attack: +5 to hit, 0 ft., one creature, in the swarm’s space. 21 (6d6) piercing damage or 10 (3d6) if the swarm has half its hp or fewer.
 - **Toboggan Charge (Recharge 5–6):** The swarm moves up to 20' in a straight line over ice or snow and can move through the space of any Large or smaller creature. The first time it enters a creature’s space during this move that creature must make a DC 14 Str save. On a failure a creature takes 10 (3d6) bludgeoning damage and 10 (3d6) piercing damage and is knocked prone. On a success a creature takes half the damage and isn’t knocked prone.
+
+

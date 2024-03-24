@@ -6,7 +6,7 @@
 - **Hit Points:** 133 (14d12+42)
 - **Speed:** burrow 40 ft. swim 60 ft. walk 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 291
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,8 +26,6 @@
 ### Actions
 - **Multiattack:** The pal-rai-yuk makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 27 (4d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained. The pal-rai-yuk has two heads, each of which can grapple only one target.
-- **Swallow:** The pal-rai-yuk makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the creature is restrained, it has total cover against attacks and other effects outside the pal-rai-yuk, and it takes 18 (4d8) acid damage at the start of each of the pal-rai-yuk’s turns. The pal-rai-yuk can have up to three Medium or smaller creatures swallowed at a time.
+- **Swallow:** The pal-rai-yuk makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the creature is restrained, it has total cover against attacks and other effects outside the pal-rai-yuk, and it takes 18 (4d8) acid damage at the start of each of the pal-rai-yuk’s turns. The pal-rai-yuk can have up to three Medium or smaller creatures swallowed at a time.<br><br>The swallowed creature can see outside of the pal-rai-yuk, but it can’t target those outside the pal-rai-yuk with spells or cast spells or use features that allow it to leave the pal-rai-yuk’s stomach. In addition, nothing can physically pass through the pal-rai-yuk’s stomach, preventing creatures inside the stomach from making attack rolls against creatures outside the stomach.<br><br>If the pal-rai-yuk takes 20 damage or more on a single turn from a creature inside it, the pal-rai-yuk must succeed on a DC 16 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the pal-rai-yuk. If the pal-rai-yuk dies, a swallowed creature is no longer restrained by it and can escape the corpse by using 15 feet of movement, exiting prone.
 
-The swallowed creature can see outside of the pal-rai-yuk, but it can’t target those outside the pal-rai-yuk with spells or cast spells or use features that allow it to leave the pal-rai-yuk’s stomach. In addition, nothing can physically pass through the pal-rai-yuk’s stomach, preventing creatures inside the stomach from making attack rolls against creatures outside the stomach.
 
-If the pal-rai-yuk takes 20 damage or more on a single turn from a creature inside it, the pal-rai-yuk must succeed on a DC 16 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the pal-rai-yuk. If the pal-rai-yuk dies, a swallowed creature is no longer restrained by it and can escape the corpse by using 15 feet of movement, exiting prone.

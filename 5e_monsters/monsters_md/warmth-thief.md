@@ -6,7 +6,7 @@
 - **Hit Points:** 112 (15d4+75)
 - **Speed:** fly 40 ft. walk 10 ft. hover True ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 366
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Multiattack:** The warmth thief makes two freezing claw attacks.
 - **Freezing Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) slashing damage plus 14 (4d6) cold damage. The warmth thief regains hp equal to half the cold damage dealt. The target must succeed on a DC 16 Constitution saving throw or be chilled for 1 minute. A chilled creature takes 7 (2d6) cold damage at the start of each of its turns. A chilled creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A humanoid slain while chilled rises 24 hours later as a chill haunt, unless the humanoid is restored to life or its body is destroyed.
+
+

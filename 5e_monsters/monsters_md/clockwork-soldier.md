@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (6d8+18)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 65
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 ### Actions
 - **Halberd:** Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 7 (1d10 + 2) slashing damage.
 - **Overdrive Flurry (Recharge 6):** The soldier makes four halberd attacks. After taking this action, it is stunned until the end of its next turn.
+
+

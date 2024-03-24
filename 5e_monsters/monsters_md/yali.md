@@ -6,7 +6,7 @@
 - **Hit Points:** 51 (6d8+24)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 398
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Tusk:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 8 (1d6+5) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 7 (1d4+5) slashing damage.
 - **Trumpeting Blast (Recharge 5–6):** Unleashes a warbling sound in a 15 ft. cone. Each creature in area: 10 (4d4) thunder and is deafened for 1 min (DC 12 Con half damage and not deafened). A deafened creature can re-save at end of each of its turns success ends effect on itself.
+
+

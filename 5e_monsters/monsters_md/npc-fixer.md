@@ -6,7 +6,7 @@
 - **Hit Points:** 44 (8d8+8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 407
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 - **Shortsword:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) piercing damage + 3 (1d6) poison.
 - **Hand Crossbow:** Ranged Weapon Attack: +4 to hit 30/120' one target 5 (1d6+2) piercing damage + 3 (1d6) poison.
 - **Cleaner:** Can cast the prestidigitation and unseen servant spells at will requiring no material components and using Wis as the spellcasting ability
+
+

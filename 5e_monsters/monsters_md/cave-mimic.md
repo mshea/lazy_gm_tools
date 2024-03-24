@@ -6,7 +6,7 @@
 - **Hit Points:** 174 (12d20+48)
 - **Speed:** walk 10 ft. burrow 20 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 77
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Stalagteeth (Terrain Form Recharge 4–6):** Launches harpoon-like pseudopod shaped like pointed object (ex: stalagtite) at a creature in its space. Target: DC 14 Dex or 24 (7d6) piercing damage and pseudopod stuck in it. While pseudopod is stuck target restrained and 10 (3d6) acid at start of each of its turns mimic can use bonus action to pull target up to 30' to its nearest wall ceiling or similar surface. Creature including target can use action to detach pseudopod via DC 15 Str. If target detaches harpoon while stuck to mimic's ceiling: normal fall damage.
 ### Bonus Actions
 - **Change Shape:** Into Gargantuan object or stretches out as terrain up to 35 ft. cube or back to true amorphous form. Stats same. Items worn/carried not transformed. Reverts on death.
+
+

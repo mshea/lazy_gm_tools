@@ -6,12 +6,13 @@
 - **Hit Points:** 68 (8d10+24)
 - **Speed:** walk 30 ft. fly 50 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 320
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 16 (+3) | 8 (-1) | 12 (+1) | 8 (-1) |
 
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common
 ### Actions
@@ -22,3 +23,5 @@
 - **Tail Spike Volley (4/Day):** The manticore fires tail spikes in a 5-foot-wide  60-foot-long line. Each creature in the area makes a DC 12 Dexterity saving throw  taking 14 (4d6) piercing damage on a failure or half damage on a success.
 ### Reactions
 - **Tail Whip:** If a creature the manticore can see hits it with a melee attack, the manticore attacks the attacker with its tail. If it hits, it can fly up to half its fly speed without provoking opportunity attacks from the attacker.
+
+

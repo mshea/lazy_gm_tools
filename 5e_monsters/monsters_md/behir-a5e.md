@@ -6,13 +6,14 @@
 - **Hit Points:** 168 (16d12+64)
 - **Speed:** walk 60 ft. climb 40 ft. swim 40 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 33
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 14 (+2) | 18 (+4) | 10 (+0) | 16 (+3) | 12 (+1) |
 
 - **Saving Throws**: Dex +6, Int +4, Wis +7
+- **Skills:** athletics +9, perception +7, stealth +6
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 90 ft., passive Perception 17
 - **Languages:** Common, Draconic
@@ -27,3 +28,5 @@
 - **Lightning Breath (Recharge 5-6):** The behir breathes a line of lightning 5 feet wide and 20 feet long. Creatures in the area make a DC 16 Dexterity saving throw  taking 56 (16d6) lightning damage on a failed save or half damage on a success.
 ### Reactions
 - **Vengeful Breath (1/Day:** When struck by a melee attack, the behir immediately recharges and uses Lightning Breath, including the attacker in the area of effect.
+
+

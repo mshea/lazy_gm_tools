@@ -6,7 +6,7 @@
 - **Hit Points:** 156 (24d8+48)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 378
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Grasping Claws (Recharge 5–6):** Calls dozens of ghostly skeletal claws to erupt from a point on the ground it can see within 60' of it. All within 15 ft. of that point: 31 (7d8) necrotic and restrained 1 min (DC 16 Dex half damage not restrained). Restrained creature can re-save at end of each of its turns success ends effect on itself.
 ### Bonus Actions
 - **Dusty Step:** Teleports  with items worn/carried up to 60' to unoccupied space it can see. Dust cloud appears at origin and destination.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 275 (22d12+132)
 - **Speed:** walk 40 ft. swim 60 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 237
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 ### Bonus Actions
 - **Change Shape:** Transforms into Huge frost giant Huge whale or back into its true whale-giant hybrid form. Its stats are the same in each form. Items worn/carried transform with it. Reverts on death.
 - **Reel Anchor:** Pulls on the chain connected to anchor returning it to its empty hand. If anchor is hooked around a creature creature: DC 19 Str save or be pulled up to 30' toward hvalfiskr.
+
+

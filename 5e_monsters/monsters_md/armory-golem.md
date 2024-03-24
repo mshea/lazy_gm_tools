@@ -6,12 +6,13 @@
 - **Hit Points:** 136 (16d10+48)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 40
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 14 (+2) | 16 (+3) | 10 (+0) | 10 (+0) | 2 (-4) |
 
+- **Skills:** 
 - **Damage Immunities:** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
@@ -28,3 +29,5 @@
 - **Polearm Strike:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (1d12 + 5) piercing damage.
 - **Crossbow Barrage:** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 11 (2d8 + 2) piercing damage.
 - **Shield Wall (Recharge 4-6):** The golem reconfigures its construction, moving shields and armor to encase its body. It regains 10 hp, and its AC increases by 2 until the end of its next turn.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 150 (20d8 +60)
 - **Speed:** walk 15 ft. swim 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 225
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Shriek (Recharge 5–6):** Unleashes a painful screeching in a 30' cone. Each creature in the area: 33 (6d10) thunder and is stunned until the end of its next turn (DC 16 Con half damage and isn’t stunned).
 - **Denizens of the Deep (1/Day):** Magically calls 4 reef sharks 2 swarms of quippers or 1 Beast of up to CR 2 with swim speed. Arrive in 1d4 rounds act as hag allies obeying her spoken commands. Beasts stay 1 hr until hag dies or until hag dismisses them as bonus action.
 - **Spellcasting:** Cha (DC 16) no material components: At will: minor illusion  • 3/day ea: charm person major image1/day: control water
+
+

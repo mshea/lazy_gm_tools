@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (13d10+65)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 323
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Slam:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 15 (3d6+5) bludgeoning damage.
 - **Hurl Nugget:** Ranged Weapon Attack: +8 to hit 20/60' one target 14 (2d8+5) bludgeoning damage.
 - **Eat Gold:** Absorbs 52 (8d12) gp worth of nonmagical items and coins made of precious metals ignoring copper worn or carried by one creature grappled by it and the pile regains hp equal to half that. Absorbed metal is destroyed.
+
+

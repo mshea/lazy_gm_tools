@@ -6,7 +6,7 @@
 - **Hit Points:** 14 (4d4+4)
 - **Speed:** walk 20 ft. fly 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 103
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Sting:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Spew Blood:** Ranged Spell Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (2d4) poison damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned until the end of its next turn.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 34 (4d10+12)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 261
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Thunderous Bleat (Recharge 6):** The mountain strider releases a loud bleat in a 15-foot cone. Each creature in the area must make a DC 13 Dexterity saving throw, taking 7 (2d6) thunder damage on a failed save, or half as much damage on a successful one.
 ### Reactions
 - **Revenge for the Fallen:** When an ally the mountain strider can see is reduced to 0 hp within 30 feet of the mountain strider, the strider can move up to half its speed and make a headbutt attack.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 214
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d6+4) piercing damage + 7 (2d6) poison.
 - **Wing Slap:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d4+4) bludgeoning damage and the target must make DC 13 Str save or be knocked prone.
 - **Chymus Expulsion (Recharge 5–6):** Exhales semi-digested decayed meat and vegetation in a 15 ft. cone. Each creature in that area: 14 (4d6) poison (DC 13 Con half).
+
+

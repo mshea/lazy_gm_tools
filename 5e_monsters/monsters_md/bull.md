@@ -6,12 +6,13 @@
 - **Hit Points:** 25 (3d10+9)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 169
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 12 (+1) | 16 (+3) | 2 (-4) | 9 (-1) | 7 (-2) |
 
+- **Skills:** 
 - **Senses:** passive Perception 9
 - **Languages:** —
 ### Special Abilities
@@ -19,3 +20,5 @@
 ### Actions
 - **Hooves:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
 - **Gore:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+
+

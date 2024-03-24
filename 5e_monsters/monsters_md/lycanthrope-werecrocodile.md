@@ -6,7 +6,7 @@
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 265
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Khopesh (Humanoid Form Only):** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) slashing damage or 7 (1d10+2) slashing damage if used with two hands.
 ### Bonus Actions
 - **Change Shape:** Transforms into a Large crocodile or into a crocodile-humanoid hybrid or back into its true form which is Humanoid. Its stats other than size are the same in each form. Any equipment worn/carried isn't transformed. Reverts to its true form if it dies.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 60 (8d6+32)
 - **Speed:** burrow 10 ft. climb 20 ft. walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 228
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Piston:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage.
 - **Spike:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Lightning Cannon (Recharge 5-6):** The sphere extends a metal rod from one of its many facets and fires a bolt of lightning in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+

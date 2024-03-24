@@ -6,7 +6,7 @@
 - **Hit Points:** 97 (15d8+30)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 312
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Painting Sensor:** While touching one artwork can see and hear through another it has previously touched as if it was in that artwork’s space if within 1 mile of it. “Artwork” can mean any painting drawing or design on a flat surface including pattern on a wall or in a book.
 ### Bonus Actions
 - **Painting Portal:** Uses 10 ft. of move to step magically into one artwork within reach and emerge from 2nd artwork within 100' of 1st appearing in unoccupied space within 5 ft. of 2nd. If both are Large or larger can bring up to 3 willing creatures.
+
+

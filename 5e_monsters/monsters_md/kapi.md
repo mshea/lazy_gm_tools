@@ -6,7 +6,7 @@
 - **Hit Points:** 13 (3d8)
 - **Speed:** climb 30 ft. walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 234
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Quarterstaff:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage or 6 (1d8 + 2) bludgeoning damage if used with two hands.
 - **Tail Trip:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: The target must succeed on a DC 14 Dexterity saving throw or be knocked prone.
 - **Sling:** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 66 (12d8+12)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 393
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Capture:** Envelopes one up to Med creature in its space. Target: DC 13 Dex save or restrained inside wind witch. Restrained target can’t be hit by wind witch’s Slam but takes 5 (2d4) piercing damage if it takes action that requires movement (ex: attack or cast somatic spell). When it moves captured creature moves with it. Can have only one creature captured at a time. Creature within 5 ft. of wind witch can use action to pull restrained creature out via DC 13 Str check; creature trying: 5 (2d4) piercing damage.
 ### Reactions
 - **Bouncy Escape:** When it takes damage from a melee attack can move up to half its fly speed. This move doesn’t provoke opportunity attacks. It releases a captured creature when it uses this.
+
+

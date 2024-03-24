@@ -6,12 +6,13 @@
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 315
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 14 (+2) | 14 (+2) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Skills:** perception +2, stealth +4, survival +2
 - **Damage Immunities:** damage from nonmagical, non-silvered weapons
 - **Senses:** darkvision 30 ft. (wolf or hybrid form only), passive Perception 14
 - **Languages:** Common
@@ -26,3 +27,5 @@
 ### Bonus Actions
 - **Shapeshift:** The werewolf changes its form to a wolf, a wolf-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged. It can't speak in wolf form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Frenzied Bite (While Bloodied:** The werewolf makes a bite attack.
+
+

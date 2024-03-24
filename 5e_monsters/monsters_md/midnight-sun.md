@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (16d10+48)
 - **Speed:** walk 0 ft. fly 60 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 270
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Multiattack:** Three Energy Blast attacks.
 - **Energy Blast:** Melee or Ranged Spell Attack: +7 to hit 5 ft. or range 120' one target 14 (3d6+4) damage of the type determined by the sun’s current form.
 - **Energy Pulse (Recharge 5–6):** Each creature within 15 ft. of it: 28 (8d6) damage of type determined by sun’s form (DC 15 Con half).
+
+

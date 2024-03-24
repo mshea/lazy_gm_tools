@@ -6,7 +6,7 @@
 - **Hit Points:** 36 (8d6+8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 162
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 ### Reactions
 - **Hesitation:** When a creature the dubius can see attacks it dubius can force creature to roll d6 subtracting result from attack. If this causes attack to miss attacker is stunned until start of dubius’s next turn.
 - **Self-Pity:** If a creature dubius can see within 30' of it regains hp dubius regains hp equal to half that amount.
+
+

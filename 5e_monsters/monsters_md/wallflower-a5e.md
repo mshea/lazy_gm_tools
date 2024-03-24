@@ -6,12 +6,13 @@
 - **Hit Points:** 33 (6d8+12)
 - **Speed:** walk 20 ft. climb 20 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 254
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 14 (+2) | 14 (+2) | 2 (-4) | 14 (+2) | 5 (-3) |
 
+- **Skills:** stealth +4
 - **Damage Resistances:** damage from nonmagical weapons
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** 
@@ -21,3 +22,5 @@
 - **Tentacles:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the grick can't attack a different target with its tentacles.
 ### Bonus Actions
 - **Beak:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature grappled by the grick. Hit: 9 (2d6 + 2) piercing damage.
+
+

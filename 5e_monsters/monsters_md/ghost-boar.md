@@ -6,12 +6,13 @@
 - **Hit Points:** 68 (8d10+24)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 169
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 16 (+3) | 7 (-2) | 12 (+1) | 7 (-2) |
 
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** understands Common but can't speak it
 ### Special Abilities
@@ -22,3 +23,5 @@
 - **Tusk:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 ### Reactions
 - **Tusk Swipe:** When a creature hits the ghost boar with a melee weapon attack, the ghost boar can make one tusk attack against the creature. The ghost boar must see the attacker and be within 5 feet of it.
+
+

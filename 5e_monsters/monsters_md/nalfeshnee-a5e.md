@@ -6,13 +6,14 @@
 - **Hit Points:** 184 (16d10+96)
 - **Speed:** walk 20 ft. fly 30 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 72
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 16 (+3) | 22 (+6) | 20 (+5) | 16 (+3) | 16 (+3) |
 
 - **Saving Throws**: Str +10, Con +11, Int +10, Wis +8, Cha +8
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned
@@ -29,3 +30,5 @@
 ### Bonus Actions
 - **Horror Nimbus (1/Day):** The nalfeshnee glows with an unholy, multicolored radiance. Each creature within 15 feet of the nalfeshnee that can see it makes a DC 16 Wisdom saving throw. On a failure, a creature is frightened for 1minute. A creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Teleport:** The nalfeshnee magically teleports up to 120 feet to an unoccupied space it can see.
+
+

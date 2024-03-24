@@ -6,7 +6,7 @@
 - **Hit Points:** 123 (13d12+39)
 - **Speed:** walk 0 ft. hover True ft. fly 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 77
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,10 @@
 - **False Appearance:** While the crystalline monolith remains motionless, it is indistinguishable from a giant crystal.
 - **Magic Resistance:** The crystalline monolith has advantage on saving throws against spells and other magical effects.
 - **Powerful Mind:** The crystalline monolith has advantage on Intelligence saving throws and ability checks.
-- **Innate Spellcasting (Psionics):** The crystalline monolith’s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components: At will: detect magic, detect thoughts, mage hand, silent image 3/day each: clairvoyance, hypnotic pattern, stinking cloud, telekinesis 1/day each: confusion, dominate person, suggestion
+- **Innate Spellcasting (Psionics):** The crystalline monolith’s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
+At will: detect magic, detect thoughts, mage hand, silent image
+3/day each: clairvoyance, hypnotic pattern, stinking cloud, telekinesis
+1/day each: confusion, dominate person, suggestion
 ### Actions
 - **Multiattack:** The crystalline monolith makes two slam attacks or two mind spear attacks. If both slam attacks hit a Large or smaller target, the target must succeed on a DC 14 Constitution saving throw or begin to turn to crystal and be restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success.
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 11 (2d8 + 2) bludgeoning damage.

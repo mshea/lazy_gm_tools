@@ -6,7 +6,7 @@
 - **Hit Points:** 55 (10d8+10)
 - **Speed:** climb 30 ft. walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 235
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage and the target must succeed on a DC 13 Dexterity saving throw or drop its weapon in a space within 10 feet of the target.
 - **Sling:** Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
 - **Howl (Recharge 5-6):** The vanara releases a sonorous howl in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw. On a failure, a creature takes 18 (4d8) thunder damage and is deafened for 1 minute. On a success, the creature takes half the damage and isn't deafened.
+
+

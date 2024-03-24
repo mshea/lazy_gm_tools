@@ -6,7 +6,7 @@
 - **Hit Points:** 157 (15d10+75)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 62
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Rock:** Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. Hit: 33 (5d10 + 6) bludgeoning damage.
 ### Reactions
 - **Deadfall Shield (Recharge 5-6):** When the chuhaister or one ally within 30 feet of it is hit by an attack, the chuhaister can create a magical, wooden barrier that interrupts the attack. The attack causes no damage. The shield splinters and disappears afterwards.
+
+

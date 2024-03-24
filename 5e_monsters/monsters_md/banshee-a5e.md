@@ -6,13 +6,14 @@
 - **Hit Points:** 58 (13d8)
 - **Speed:** walk 30 ft. fly 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 30
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 16 (+3) | 10 (+0) | 12 (+1) | 10 (+0) | 18 (+4) |
 
 - **Saving Throws**: Wis +2
+- **Skills:** 
 - **Damage Immunities:** cold, necrotic, poison
 - **Damage Resistances:** acid, fire, lightning, thunder; damage from nonmagical weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
@@ -29,3 +30,5 @@
 - **Baleful Wail:** The banshee shrieks. All living creatures within 30 feet of it that can hear it make a DC 14 Constitution saving throw. On a failure  a creature takes 11 (2d6 + 4) psychic damage. If the creature is cursed by the banshee  it drops to 0 hit points instead.
 ### Reactions
 - **Wounded Warning:** When the banshee takes damage from a creature within 60 feet, it uses Presage Death on the attacker.
+
+

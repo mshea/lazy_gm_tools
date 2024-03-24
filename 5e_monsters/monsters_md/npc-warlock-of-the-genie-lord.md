@@ -6,7 +6,7 @@
 - **Hit Points:** 78 (12d8+24)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 411
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Spellcasting:** Cha (DC 15). At will: levitate water breathing3/day ea: fire shield fly gust of wind1/day ea: conjure minor elementals (as an action) wall of stone
 ### Reactions
 - **Genie Lord’s Favor:** When it takes acid cold fire lightning or thunder warlock has advantage on next Elemental Burst attack it makes before end of its next turn provided Elemental Burst deals same damage as damage warlock took.
+
+

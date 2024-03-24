@@ -6,7 +6,7 @@
 - **Hit Points:** 99 (18d8+18)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 404
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Gasp to Survive (Recharge 4–6):** Chooses a creature it dealt psychic to within last min. Target: 14 (4d6) psychic and believes it is suffocating including choking and being unable to speak (DC 15 Wis half damage and doesn’t believe it is suffocating). At the start of each of suffocating creature’s turns it must make a DC 15 Wis save. It has disadvantage on this save if it took psychic since start of its prior turn. If it fails three such saves before succeeding on three such saves it falls unconscious for 1 hr returns to breathing normally and stops making this save. On its third successful save effect ends for the creature.
 ### Bonus Actions
 - **Cunning Action:** Dash Disengage or Hide action.
+
+

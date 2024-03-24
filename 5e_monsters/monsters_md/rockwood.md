@@ -6,7 +6,7 @@
 - **Hit Points:** 94 (9d12+36)
 - **Speed:** walk 30 ft. burrow 15 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 334
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Whomping Slam:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 18 (3d8+5) bludgeoning damage and if the target is a Large or smaller creature it must make DC 15 Str save or be knocked prone.
 - **Rock:** Ranged Weapon Attack: +8 to hit 60/180' one target 16 (2d10+5) bludgeoning damage.
 - **Fossil Barrage (Recharge 6):** Stone shards in 30' cone. Each creature in area: 28 (8d6) piercing damage (DC 15 Dex half).
+
+

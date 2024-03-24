@@ -6,7 +6,7 @@
 - **Hit Points:** 28 (8d4+8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 68
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Branch Spear:** Melee or Ranged Weapon Attack: +7 to hit 5 ft. or range 20/60' one target 10 (2d4+5) piercing damage.
 - **Domestic Magic:** Wis no material components: At will: mending and prestidigitation
 - **Invisibility:** Magically turns invisible until it attacks or uses Domestic Magic or until its concentration ends (as if concentrating on a spell). Any equipment the brownie wears or carries is invisible with it.
+
+

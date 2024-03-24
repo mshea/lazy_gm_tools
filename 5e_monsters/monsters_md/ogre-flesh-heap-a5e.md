@@ -6,12 +6,13 @@
 - **Hit Points:** 59 (7d10+28)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 436
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 6 (-2) | 18 (+4) | 3 (-4) | 8 (-1) | 4 (-3) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** fatigue, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 8
@@ -27,3 +28,5 @@
 ### Reactions
 - **Bodyblock:** If the ogre flesh heap is grappling a creature when it is hit with a weapon attack by a creature it can see, it uses the creature as a shield, adding 2 to its AC against the attack. If this causes the attack to miss, the attack hits the grappled creature instead.
 - **Corpulent Expulsion (Recharge 6:** When it takes damage, the ogre flesh heaps belly splits and releases a torrent of caustic gore in a 30-foot cone. Creatures in this area make a DC 14 Dexterity saving throw, taking 14 (4d6) acid damage on a failure and half damage on a success. The flesh heap then takes 10 (3d6) acid damage.
+
+

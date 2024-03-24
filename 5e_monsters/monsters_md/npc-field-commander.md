@@ -6,7 +6,7 @@
 - **Hit Points:** 170 (20d8+80)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 406
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Spellcasting:** Cha (DC 16): At will: command protection from evil and good3/day ea: cure wounds (level 3) find steed (as an action)1/day: revivify
 ### Reactions
 - **Bolster Soldier:** When a friendly creature the field commander can see is hit with weapon attack the commander calls out encouragement and creature gains 5 (1d10) temp hp.
+
+

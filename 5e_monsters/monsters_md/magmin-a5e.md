@@ -6,12 +6,13 @@
 - **Hit Points:** 14 (4d6)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 316
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 14 (+2) | 10 (+0) | 8 (-1) | 10 (+0) | 10 (+0) |
 
+- **Skills:** 
 - **Damage Immunities:** cold, fire
 - **Damage Resistances:** damage from nonmagical weapons
 - **Senses:** passive Perception 10
@@ -23,3 +24,5 @@
 ### Actions
 - **Touch:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) fire damage. If the magmin is ablaze and the target is a creature  it suffers 5 (1d10) ongoing fire damage until a creature takes an action to extinguish the flame on the target.
 - **Spurt Magma (Ablaze Only):** Ranged Weapon Attack: +5 to hit  range 30 ft.  one target. Hit: 5 (1d6 + 2) fire damage.
+
+

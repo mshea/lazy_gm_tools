@@ -6,7 +6,7 @@
 - **Hit Points:** 99 (18d8+18)
 - **Speed:** climb 30 ft. walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 64
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Multiattack:** The clockwork assassin makes two rapier attacks.
 - **Rapier:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage and the target must succeed on a DC 15 Constitution saving throw or take 11 (2d10) poison damage and be poisoned for 1 minute.
 - **Disassembly:** The assassin breaks its body down into a snakelike, segmented cylinder, which allows it to move through a space as narrow as 6 inches wide. It can reassemble itself into its true form by using this action again. While disassembled into its snake form, the assassin can't attack and attack rolls against it have advantage.
+
+

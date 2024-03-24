@@ -6,12 +6,13 @@
 - **Hit Points:** 21 (6d6)
 - **Speed:** walk 30 ft. fly 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 326
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 12 (+1) | 10 (+0) | 8 (-1) | 10 (+0) | 10 (+0) |
 
+- **Skills:** perception +2, stealth +3
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire, poison
 - **Condition Immunities:** poisoned
@@ -25,3 +26,5 @@
 - **Claws:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 - **Heat Metal (1/Day):** Ranged Spell Attack: +4 to hit  range 60 ft.  one creature wearing or holding a metal object. Hit: 9 (2d8) fire damage. If a creature is holding the object and suffers damage  it makes a DC 10 Constitution saving throw  dropping the object on a failure.
 - **Fire Breath (1/Day):** The mephit exhales a 15-foot cone of fire. Each creature in the area makes a DC 10 Constitution saving throw  taking 7 (2d6) fire damage on a failed save or half damage on a success.
+
+

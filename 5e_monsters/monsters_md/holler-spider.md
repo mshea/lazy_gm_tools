@@ -6,7 +6,7 @@
 - **Hit Points:** 14 (4d4+4)
 - **Speed:** climb 25 ft. walk 25 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 395
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Distressed Discharge (Recharge 5-6):** The holler spider releases a short, distressed cacophony in a 15-foot cone. Each creature in the area must make a DC 12 Constitution saving throw, taking 5 (2d4) thunder damage on a failed save, or half as much damage on a successful one. The holler spider is pushed 15 feet in the opposite direction of the cone.
 ### Reactions
 - **Sound Alarm:** When the holler spider detects a creature within 60 feet of it, the spider can emit a hoot or trumpet audible within 300 feet of it. The noise continues until the creature moves out of range, the spider’s handler uses an action to soothe it, or the spider ends the alarm (no action required).
+
+

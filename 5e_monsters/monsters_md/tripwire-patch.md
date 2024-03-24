@@ -6,7 +6,7 @@
 - **Hit Points:** 95 (10d12+30)
 - **Speed:** walk 10 ft. burrow 20 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 371
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Tripwire Vine:** Melee Weapon Attack: +6 to hit, 20 ft., one creature,. 7 (1d6+4) bludgeoning damage and the target must make DC 14 Str save or be knocked prone and pulled up to 15 ft. toward the tripwire patch.
 ### Reactions
 - **No Escape:** If a prone creature within 5 ft. of patch stands up from prone patch can make one Bite vs. it.
+
+

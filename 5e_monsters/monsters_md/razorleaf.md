@@ -6,7 +6,7 @@
 - **Hit Points:** 112 (15d8+45)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 317
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** The razorleaf makes two lacerating leaves attacks.
 - **Lacerating Leaves:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 12 (3d6 + 2) slashing damage.
 - **Shower of Razors (Recharge 5-6):** The razorleaf shakes loose a deadly shower of slicing leaves. Each creature within 10 feet of the razorleaf must make a DC 14 Dexterity saving throw, taking 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 90 (12d10+24)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 289
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Multiattack:** The overshadow makes two strength drain attacks.
 - **Strength Drain:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) necrotic damage, and the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 - **Bringer of Darkness:** The overshadow dims the light around it. The radius of each light source within 60 feet of it is halved for 1 minute. The overshadow can’t use this action while in sunlight.
+
+

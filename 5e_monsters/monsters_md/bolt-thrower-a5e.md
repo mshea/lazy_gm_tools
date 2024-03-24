@@ -6,12 +6,13 @@
 - **Hit Points:** 44 (8d6+16)
 - **Speed:** walk 15 ft. climb 15 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 52
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 16 (+3) | 14 (+2) | 1 (-5) | 6 (-2) | 1 (-5) |
 
+- **Skills:** perception +0
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 120 ft. (blind beyond that range), passive Perception 14
@@ -23,3 +24,5 @@
 - **Multiattack:** The bolt-thrower attacks once with each of its crossbows.
 - **Light Crossbow:** Ranged Weapon Attack: +5 to hit  range 80/320 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Heavy Crossbow:** Ranged Weapon Attack: +5 to hit  range 100/400 ft.  one target. Hit: 8 (1d10 + 3) piercing damage.
+
+

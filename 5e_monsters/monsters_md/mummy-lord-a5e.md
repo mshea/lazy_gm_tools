@@ -6,13 +6,14 @@
 - **Hit Points:** 221 (26d8+104)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 339
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 18 (+4) | 12 (+1) | 18 (+4) | 16 (+3) |
 
 - **Saving Throws**: Con +9, Int +6, Wis +9, Cha +8
+- **Skills:** history +6, religion +6
 - **Damage Immunities:** necrotic, poison; damage from nonmagical weapons
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
@@ -23,7 +24,21 @@
 - **Legendary Resistance (1/Day):** If the mummy lord fails a saving throw while wearing its scarab amulet, it can choose to succeed instead. When it does so, the scarab amulet shatters. The mummy lord can create a new amulet when it finishes a long rest.
 - **Magic Resistance:** The mummy lord has advantage on saving throws against spells and magical effects.
 - **Rejuvenation:** If its heart is intact, a destroyed mummy lord gains a new body in 1d4 days, regaining all its hit points. The new body forms within 10 feet of the heart.
-- **Spellcasting:** The mummy lord is an 11th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17  +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared  which it can cast without material components:  Cantrips (at will): guidance  thaumaturgy  1st-level (4 slots): create or destroy water  detect magic  2nd-level (3 slots): augury  gentle repose  3rd-level (3 slots): animate dead  dispel magic  4th-level (3 slots): divination  guardian of faith  5th-level (2 slots): contagion  6th-level (1 slot): harm
+- **Spellcasting:** The mummy lord is an 11th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17
+ +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared
+ which it can cast without material components:
+ Cantrips (at will): guidance
+ thaumaturgy
+ 1st-level (4 slots): create or destroy water
+ detect magic
+ 2nd-level (3 slots): augury
+ gentle repose
+ 3rd-level (3 slots): animate dead
+ dispel magic
+ 4th-level (3 slots): divination
+ guardian of faith
+ 5th-level (2 slots): contagion
+ 6th-level (1 slot): harm
 ### Actions
 - **Multiattack:** The mummy lord uses Dreadful Glare and then attacks with its rotting fist.
 - **Dreadful Glare (Gaze):** The mummy lord targets a creature within 60 feet. The target makes a DC 16 Wisdom saving throw. On a failure  it is magically frightened until the end of the mummy lords next turn. If the target fails the save by 5 or more  it is paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of mummies and mummy lords for 24 hours.

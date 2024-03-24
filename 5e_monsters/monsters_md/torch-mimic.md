@@ -6,7 +6,7 @@
 - **Hit Points:** 21 (6d4+6)
 - **Speed:** walk 0 ft. fly 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 370
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 4 (1d4+2) piercing damage.
 - **Fire Blast:** Ranged Weapon Attack: +4 to hit 20/60' one target 7 (2d4+2) fire.
+
+

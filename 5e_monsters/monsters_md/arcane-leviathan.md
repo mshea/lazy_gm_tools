@@ -6,7 +6,7 @@
 - **Hit Points:** 279 (18d20+90)
 - **Speed:** walk 10 ft. swim 60 ft.
 - **Challenge Rating:** 16 (15,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 40
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Pylon Discharge (Recharge 5–6):** Discharges energy surge at a point it can see within 200' of it. Each creature within 30' of that point: 45 (10d8) lightning and is blinded until the end of its next turn (DC 19 Dex half damage not blinded).
 ### Bonus Actions
 - **Arcane Barrage:** Sends arcane energy toward a creature it can see within 120' of it. Target begins to glow with arcane energy and at end of target’s next turn: 35 (10d6) radiant (DC 19 Con half). Damage is divided evenly between target and all creatures within 10 ft. of it except leviathan.
+
+

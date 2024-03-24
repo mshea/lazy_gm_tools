@@ -6,13 +6,14 @@
 - **Hit Points:** 367 (21d20+147)
 - **Speed:** walk 40 ft. climb 40 ft. fly 80 ft.
 - **Challenge Rating:** 23 (50,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 164
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 26 (+8) | 12 (+1) | 24 (+7) | 20 (+5) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Dex +8, Con +14, Wis +10, Cha +11
+- **Skills:** deception +11, perception +10, stealth +8
 - **Damage Immunities:** acid
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 23
 - **Languages:** Common, Draconic, three more
@@ -34,7 +35,6 @@
 - **Change Shape:** The dragon magically takes the shape of a humanoid or beast, or changes back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (dragons choice). In the new form, the dragons stats are unchanged except for its size. It can't use Acid Spit, Breath Weapons, Tail Attack, or Wing Attack except in dragon form. In beast form, it can attack only with its bite and claws, if appropriate to its form. If the beast form is Large or smaller, the reach of these attacks is reduced to 5 feet. In humanoid form, it can attack only with its war pick.
 ### Reactions
 - **Tail Attack:** When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.
-- **Change Shape:** The dragon magically takes the shape of a humanoid or beast, or changes back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (dragons choice). In the new form, the dragons stats are unchanged except for its size. It can't use Acid Spit, Breath Weapons, Tail Attack, or Wing Attack except in dragon form. In beast form, it can attack only with its bite and claws, if appropriate to its form. If the beast form is Large or smaller, the reach of these attacks is reduced to 5 feet. In humanoid form, it can attack only with its war pick.
 
 
 ### Legendary Actions

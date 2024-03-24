@@ -6,13 +6,14 @@
 - **Hit Points:** 247 (15d20+90)
 - **Speed:** walk 50 ft. burrow 20 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 365
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 28 (+9) | 8 (-1) | 22 (+6) | 2 (-4) | 10 (+0) | 4 (-3) |
 
 - **Saving Throws**: Str +14, Con +11, Int +1, Wis +5, Cha +2
+- **Skills:** 
 - **Senses:** blindsight 30 ft., tremorsense 60 ft., passive Perception 15
 - **Languages:** 
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **Tail Stinger:** Melee Weapon Attack: +14 to hit  reach 10 ft.  one creature. Hit: 19 (3d6 + 9) piercing damage  and the target makes a DC 19 Constitution saving throw  taking 42 (12d6) poison damage on a failed save or half damage on a success.
 ### Reactions
 - **Fighting Retreat:** When a creature makes an opportunity attack on the worm, the worm attacks with either its bite or its tail stinger.
+
+

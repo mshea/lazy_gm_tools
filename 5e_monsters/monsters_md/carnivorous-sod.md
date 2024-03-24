@@ -6,12 +6,13 @@
 - **Hit Points:** 33 (6d8+6)
 - **Speed:** walk 20 ft. burrow 20 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 57
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 6 (-2) | 12 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** blinded, deafened, poisoned
 - **Senses:** blindsight 30 ft., tremorsense 60 ft., passive Perception 10
@@ -23,3 +24,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
 - **Grass Trip:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: The target is knocked prone.
+
+

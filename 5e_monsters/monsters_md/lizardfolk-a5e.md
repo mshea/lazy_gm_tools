@@ -6,12 +6,13 @@
 - **Hit Points:** 22 (4d8+4)
 - **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 309
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 8 (-1) |
 
+- **Skills:** perception +2, stealth +3, survival +2
 - **Senses:** passive Perception 12
 - **Languages:** Draconic
 ### Special Abilities
@@ -22,3 +23,5 @@
 - **Club:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 - **Shield:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 - **Javelin:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
+
+

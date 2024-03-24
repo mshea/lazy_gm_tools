@@ -6,12 +6,13 @@
 - **Hit Points:** 260 (40d8+80)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 71
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 14 (+2) | 8 (-1) | 8 (-1) | 8 (-1) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned
@@ -25,3 +26,5 @@
 ### Actions
 - **Multiattack:** The band attacks twice.
 - **Mob Attack:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one creature. Hit: 50 (10d6 + 15) slashing damage  or half damage if the band is bloodied.
+
+

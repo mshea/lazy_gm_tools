@@ -6,12 +6,13 @@
 - **Hit Points:** 127 (15d8+60)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 496
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) | 16 (+3) |
 
+- **Skills:** deception +6, insight +6, intimidation +6, perception +6, persuasion +6, stealth +5
 - **Senses:** passive Perception 16
 - **Languages:** any two
 ### Actions
@@ -23,3 +24,5 @@
 - **Command Bodyguard:** When the boss would be hit by an attack, they command an ally within 5 feet to use its reaction to switch places with the boss. The ally is hit by the attack instead of the boss.
 - **Offhand Dagger:** When missed by an attack, the boss makes a dagger attack.
 - **A crime boss has risen to the top of a criminal gang or guild:** Theyre tough in a fight but too smart to do their own dirty work unless absolutely necessary.
+
+

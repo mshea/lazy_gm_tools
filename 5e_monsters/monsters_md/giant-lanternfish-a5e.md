@@ -6,12 +6,13 @@
 - **Hit Points:** 85 (10d10+30)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 303
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) | 18 (+4) |
 
+- **Skills:** deception +6, perception +5, stealth +5
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Abyssal, Common
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **Hypnotic Pattern (3rd-Level; S, Concentration):** A swirling pattern of light appears at a point within 120 feet. Each creature within 10 feet of the pattern that can see it makes a DC 14 Wisdom saving throw. On a failure  the creature is charmed for 1 minute. While charmed  the creature is incapacitated and its Speed is 0. The effect ends on a creature if it takes damage or if another creature uses an action to shake it out of its daze.
 ### Bonus Actions
 - **Misty Step (2nd-Level; V):** The giant lanternfish teleports to an unoccupied space it can see within 30 feet. The giant lanternfish can't cast this spell and a 1st-level or higher spell on the same turn.
+
+

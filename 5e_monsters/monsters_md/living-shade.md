@@ -6,7 +6,7 @@
 - **Hit Points:** 18 (4d8)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 255
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Sunlight Sensitivity:** While in sunlight, the living shade has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 ### Actions
 - **Shadow Touch:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (1d4) cold damage.
+
+

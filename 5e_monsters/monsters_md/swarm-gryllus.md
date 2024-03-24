@@ -6,7 +6,7 @@
 - **Hit Points:** 110 (17d10+17)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 361
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Go for the Knees:** Melee Weapon Attack: +7 to hit 0' 1 tgt in the swarm’s space. 18 (4d8) slashing damage or 8 (2d4+3) slashing damage if swarm has half of its hp or fewer. Target must make DC 15 Con save or its speed is reduced by 10 ft. until end of its next turn.
 - **Go for the Eyes:** Ranged Weapon Attack: +7 to hit 20/60' one target 18 (4d8) piercing damage or 8 (2d4+3) piercing damage if swarm has half of its hp or fewer. Target must make DC 15 Wis save or be blinded until end of its next turn.
 - **Timber:** Calls out in synchronous tiny voices before chopping away at the feet of one creature in the swarm’s space. Target knocked prone (DC 15 Str negates). If target is knocked prone swarm can then make one Go for the Knees attack vs. it as a bonus action.
+
+

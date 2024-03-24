@@ -6,7 +6,7 @@
 - **Hit Points:** 261 (18d20+72)
 - **Speed:** walk 20 ft. climb 20 ft. fly 90 ft.
 - **Challenge Rating:** 19 (22,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 104
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

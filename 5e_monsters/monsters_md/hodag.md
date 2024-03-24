@@ -6,7 +6,7 @@
 - **Hit Points:** 52 (7d10+14)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 200
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Tail:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 - **Horns:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) piercing damage.
 - **Territorial Display (Recharge 6):** The hodag rears and stomps on the ground then roars a territorial challenge. Each creature within 10 feet of the hodag must make a DC 14 Dexterity saving throw, taking 14 (4d6) thunder damage on a failed save, or half as much damage on a successful one. A creature that fails the saving throw by 5 or more is also knocked prone.
+
+

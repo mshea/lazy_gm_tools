@@ -6,13 +6,14 @@
 - **Hit Points:** 344 (30d10+180)
 - **Speed:** walk 30 ft. fly 60 ft. swim 90 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 224
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 16 (+3) | 22 (+6) | 16 (+3) | 14 (+2) | 16 (+3) |
 
 - **Saving Throws**: Con +10, Int +7, Wis +6, Cha +7
+- **Skills:** perception +6, persuasion +7
 - **Damage Resistances:** acid, cold, lightning
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 - **Languages:** Aquan
@@ -26,3 +27,5 @@
 ### Bonus Actions
 - **Fog Cloud (1/Day):** The marid magically creates a heavily obscured area of fog (or, if underwater, inky water) in a 30-foot radius around a point it can see within 60 feet. The fog spreads around corners and can be dispersed by a moderate wind or current (at least 10 miles per hour). Otherwise, it disperses after 10 minutes. The marid can see through this fog.
 - **Water Jet (While Bloodied):** The marid shoots water in a 5-foot-wide, 60-foot-long jet. Each creature in the area makes a DC 18 Dexterity saving throw. On a failure, a target takes 21 (6d6) bludgeoning damage and is pushed 20 feet away from the marid, to a maximum of 60 feet away, and knocked prone. On a success, a target takes half damage.
+
+

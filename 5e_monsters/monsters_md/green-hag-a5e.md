@@ -6,13 +6,14 @@
 - **Hit Points:** 71 (11d8+22)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 268
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 14 (+2) | 14 (+2) | 14 (+2) | 16 (+3) |
 
 - **Saving Throws**: Con +4, Wis +4
+- **Skills:** arcana +4, deception +5, insight +4, perception +4, stealth +4
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Draconic, Sylvan
 ### Special Abilities
@@ -27,3 +28,5 @@
 - **3:** Ill Fortune Hex. The hag magically divines the targets activities. Whenever the target attempts a long-duration task such as a craft or downtime activity  the hag can cause the activity to fail.
 - **4:** Sleep Hex. The target falls unconscious. The curse ends early if the target takes damage or if a creature uses an action to shake it awake.
 - **Invisibility (2nd-Level; V, S, Concentration):** The hag is invisible for 1 hour. The spell ends if the hag attacks  uses Hex  or casts a spell.
+
+

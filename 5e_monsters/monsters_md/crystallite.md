@@ -6,7 +6,7 @@
 - **Hit Points:** 90 (12d10+24)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 100
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Biomineralize:** Absorbs lifeforce from one creature grappled by it. Target 14 (4d6) necrotic (DC 14 Con half). Target’s hp max is reduced by amount equal to necrotic taken and crystallite regains hp equal to that amount. Reduction lasts until target finishes a long rest. Target dies if this reduces its hp max to 0.
 ### Reactions
 - **Calcify:** When it takes 5+ damage on a single turn it can reduce its hp max by an amount equal to damage taken and gains a +1 bonus to AC. Reduction and bonus last until it finishes a long rest. Can’t increase its AC above 20 using this.
+
+

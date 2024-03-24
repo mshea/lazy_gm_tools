@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (6d8+18)
 - **Speed:** walk 30 ft. fly 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 395
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Deluge (Wrack Form Only):** Fills lungs of one creature it is grappling with seawater algae and tiny ocean debris harming creatures that breathe air or water: 14 (4d6) necrotic and chokes as lungs fill with water and debris (DC 13 Con half damage not choking). Choking creature can re-save at end of each of its turns success ends effect on itself.
 ### Bonus Actions
 - **Wrack Jump (Recharge 4–6):** Leaves current pile magically teleports to another within 60' of it and uses Animate Wrack.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 97 (15d8+30)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 494
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 14 (+2) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Skills:** perception +3, survival +3
 - **Senses:** passive Perception 13
 - **Languages:** any one
 ### Special Abilities
@@ -23,3 +24,5 @@
 ### Bonus Actions
 - **Tactical Movement:** Until the end of the squads turn, their Speed is halved and their movement doesnt provoke opportunity attacks.
 - **Soldier squads march to war and garrison fortifications:** 
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 168 (16d12+64)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 203
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Invisibility Rune:** Magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the giant wears or carries is invisible with it.
 ### Reactions
 - **Runic Shield:** Adds 4 to its AC vs. one attack that would hit it as green runes encircle the giant. To do so giant must see the attacker and can’t be invisible
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 133 (14d10+56)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 264
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 10 (+0) | 3 (-4) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
@@ -29,3 +30,5 @@
 ### Reactions
 - **Absorb Damage:** If the guardian is within 60 feet of its master when the master takes damage, half the damage (rounded up) is transferred to the guardian.
 - **Shield:** If the guardian is within 5 feet of its master when the master is attacked, the guardian grants a +3 bonus to its masters AC.
+
+

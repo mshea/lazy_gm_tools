@@ -6,7 +6,7 @@
 - **Hit Points:** 230 (20d12+100)
 - **Speed:** climb 10 ft. walk 20 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 333
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Oozing Crush:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 30 (4d12 + 4) bludgeoning damage and 7 (2d6) acid damage.
 - **Merge:** A shoth with less than half its maximum hp can merge with any other shoth creature within 10 feet, adding its remaining hp to that creature's. The hp gained this way can exceed the normal maximum of that creature. A shoth can accept one such merger every 24 hours.
 - **Acid Wave (Recharge 5-6):** The droth rises up and crashes down, releasing a 20-foot-radius wave of acidic ooze. Each creature in the area must make a DC 17 Dexterity saving throw. On a failure, a creature takes 45 (10d8) acid damage and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone.
+
+

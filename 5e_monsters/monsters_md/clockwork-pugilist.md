@@ -6,7 +6,7 @@
 - **Hit Points:** 32 (5d8+10)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 88
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 ### Reactions
 - **Get Down Sir!:** When a creature within 5 ft. of the pugilist is targeted by a ranged attack or spell the pugilist steps in the way and the ranged attack or spell targets the pugilist instead.
 - **:** [+]Parry[/+] +2 to its AC vs. one melee attack that would hit it. Must see attacker and have at least one hand empty.
+
+

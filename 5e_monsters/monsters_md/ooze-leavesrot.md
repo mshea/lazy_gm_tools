@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d10+28)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 305
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 10 (2d6+3) bludgeoning damage + 13 (3d8) acid and the target is grappled (escape DC 13). Until this grapple ends target is restrained ooze can automatically hit target with its Pseudopod and ooze can’t make Pseudopod attacks vs. others.
 - **Release Spores (Recharge 5–6):** Releases spores from the mold coating its leaves. Each creature within 20' of ooze: 14 (4d6) poison and is choking (DC 13 Con half damage and isn’t choking). A choking creature can re-save at end of each of its turns success ends effect on itself.
+
+

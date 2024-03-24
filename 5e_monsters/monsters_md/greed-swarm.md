@@ -6,12 +6,13 @@
 - **Hit Points:** 22 (4d8+4)
 - **Speed:** fly 40 ft. walk 0 ft. hover True ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 184
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 16 (+3) | 12 (+1) | 1 (-5) | 9 (-1) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** force
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, piercing, slashing
@@ -27,3 +28,5 @@
 - **Coin Slam:** Melee Weapon Attack: +5 to hit, reach 0 ft., one target in the greed swarm’s space. Hit: 10 (4d4) bludgeoning damage, or 5 (2d4) bludgeoning damage if the swarm has half of its hit points or fewer.
 - **Coin Barrage:** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 7 (2d6) bludgeoning damage, or 3 (1d6) bludgeoning damage if the swarm has half of its hit points or fewer.
 - **Gather (1/Day):** The swarm magically gathers up to 100 gp worth of coins, gems, and other small, valuable objects within 60 feet of it, adding them to its mass. It regains 7 (2d6) hit points and has advantage on its next attack roll. A creature wearing or carrying such valuables must succeed on a DC 11 Dexterity saving throw or its valuables fly toward the swarm, joining the mass.
+
+

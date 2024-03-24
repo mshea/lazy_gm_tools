@@ -6,7 +6,7 @@
 - **Hit Points:** 68 (8d8+32)
 - **Speed:** walk 40 ft. fly 60 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 28
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Unmake Contract (1/Day):** Projects power/majesty of its patron deity. Creature it can see or hear within 60': freed of all liens on its soul.
 ### Bonus Actions
 - **Spirit Usher (3/Day):** Wards a creature with divine power for 1 hr. While warded Celestials Fiends and Undead have disadvantage on attack rolls vs. the creature and creature can’t be charmed frightened or possessed by them. Warded creature gains 11 temp hp and if slain can’t be raised as an Undead for 1 year.
+
+

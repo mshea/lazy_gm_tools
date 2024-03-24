@@ -6,7 +6,7 @@
 - **Hit Points:** 52 (7d8+21)
 - **Speed:** walk 30 ft. burrow 20 ft. fly 60 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 144
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (1d10+3) piercing damage.
 - **Breath Weapon (Recharge 5–6):** Uses one of the following:Sand Blast. Exhales superheated sand in a 15 ft. cone. Each creature in area: 11 (2d10) piercing damage and 11 (2d10) fire (DC 13 Dex half). Blinding Sand. Breathes fine sand in a 15 ft. cone. Each creature in area: blinded for 1 min (DC 13 Con negates). Blinded creature can take an action to clear its eyes of sand ending effect for it.
+
+

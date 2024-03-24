@@ -6,7 +6,7 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** fly 30 ft. hover True ft. walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 30
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 ### Reactions
 - **Divide:** When an astral devourer that is Small or larger takes bludgeoning, piercing, or slashing damage, it can split into two new astral devourers if it has at least 10 hp. Each new devourer has hp equal to half the original creature, rounded down. New astral devourers are one size smaller than the original. While within 1 mile of each other, the new astral devourers share one collective mind.
 - **Recombine:** When one or more astral devourers that are Small or smaller and share a collective mind are within 5 feet of each other, they can combine into a new astral devourer. The new astral devourer is one size larger than the largest original creature, and it has hp equal to the combined total of the original creatures. The new astral devourer’s hp can’t exceed the normal hp maximum of a Medium astral devourer.
+
+

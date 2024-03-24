@@ -6,12 +6,13 @@
 - **Hit Points:** 22 (5d8)
 - **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 189
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 10 (+0) | 12 (+1) | 16 (+3) | 18 (+4) |
 
+- **Skills:** nature +3, perception +5, stealth +3, survival +5
 - **Damage Vulnerabilities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Elvish, Sylvan
@@ -21,3 +22,5 @@
 - **Amphibious:** The naiad can breathe air and water.
 ### Actions
 - **Watery Grasp:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage  and the target is grappled (escape DC 12). While grappling a creature this way  the naiad can't use Watery Grasp on a different target and can swim at full speed.
+
+

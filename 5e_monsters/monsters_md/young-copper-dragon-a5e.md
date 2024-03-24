@@ -6,13 +6,14 @@
 - **Hit Points:** 144 (17d10+51)
 - **Speed:** walk 40 ft. climb 40 ft. fly 80 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 167
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 12 (+1) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) |
 
 - **Saving Throws**: Dex +5, Con +7, Wis +5, Cha +6
+- **Skills:** deception +6, perception +5, stealth +5
 - **Damage Immunities:** acid
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Draconic
@@ -26,3 +27,5 @@
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Acid Breath:** The dragon exhales acid in a 40-foot-long  5-foot wide-line. Each creature in the area makes a DC 15 Dexterity saving throw  taking 45 (10d8) acid damage on a failed save or half damage on a success.
 - **Slowing Breath:** The dragon exhales toxic gas in a 30-foot cone. Each creature in the area makes a DC 15 Constitution saving throw  becoming slowed for 1 minute on a failure. A creature repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.
+
+

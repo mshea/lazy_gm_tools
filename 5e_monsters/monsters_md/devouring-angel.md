@@ -6,7 +6,7 @@
 - **Hit Points:** 220 (21d10+105)
 - **Speed:** walk 40 ft. climb 40 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 125
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Claw:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 12 (2d6+5) slashing damage.
 - **Spiked Tongue:** Melee Weapon Attack: +9 to hit, 20 ft., one target, 12 (2d6+5) bludgeoning damage and target is grappled (escape DC 17). Until this grapple ends target is restrained and takes 9 (2d8) piercing damage at the start of each of its turns and angel can pull the creature up to 15 ft. closer to it as a bonus action. Angel can have only one target grappled in this way at a time.
 - **Shed Spines (Recharge 5–6):** Shakes its body sending acid-coated spines outward. Each creature within 10 ft. of it: 18 (4d8) piercing damage and 24 (7d6) acid (DC 17 Dex half).
+
+

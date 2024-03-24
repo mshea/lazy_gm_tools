@@ -6,7 +6,7 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 390
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Multiattack:** The gaki makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) acid damage.
 - **Spit Acid:** Ranged Spell Attack: +6 to hit, range 30 ft., one target. Hit: 21 (6d6) acid damage.
+
+

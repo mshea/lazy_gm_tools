@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** fly 60 ft. walk 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 95
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage.
 - **Talon:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 - **Gloomspittle:** Ranged Weapon Attack: +6 to hit, range 30 ft., one creature. Hit: 10 (2d6 + 3) necrotic damage, and the target must succeed on a DC 15 Dexterity saving throw or be blinded until the end of its next turn.
+
+

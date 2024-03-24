@@ -6,12 +6,13 @@
 - **Hit Points:** 13 (3d8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 485
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 14 (+2) |
 
+- **Skills:** deception +4, history +2, insight +3, intimidation +4, performance +4, persuasion +4
 - **Senses:** passive Perception 11
 - **Languages:** any two
 ### Actions
@@ -20,3 +21,5 @@
 ### Reactions
 - **Parry:** If the noble is wielding a melee weapon and can see their attacker, they add 2 to their AC against one melee attack that would hit them.
 - **High elf nobles pride themselves on the cultural accomplishments of their waning or extinct empires:** Highly educated, many high elf nobles see themselves as peacemakers, leaders, or preservers of ancient traditions.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 52 (7d8+21)
 - **Speed:** walk 20 ft. climb 10 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 32
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 8 (-1) | 16 (+3) | 2 (-4) | 10 (+0) | 8 (-1) |
 
+- **Skills:** 
 - **Senses:** darkvision 30 ft., passive Perception 10
 - **Languages:** 
 ### Actions
@@ -19,3 +20,5 @@
 - **Venomous Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) piercing damage plus 10 (3d6) poison damage.
 ### Reactions
 - **Stone Glance:** If a creature within 60 feet that the basilisk can see hits the basilisk with an attack, the basilisk uses Stone Gaze on the attacker.
+
+

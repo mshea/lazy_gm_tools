@@ -6,7 +6,7 @@
 - **Hit Points:** 40 (9d8)
 - **Speed:** burrow 10 ft. walk 10 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 304
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Burning Slash:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) fire damage.
 - **Smolder (Recharge 5-6):** The execrable shrub releases a billowing cloud of smoke in a 10-foot-radius that lasts for 1 minute and moves with the shrub. The area affected by the smoke is heavily obscured.
+
+

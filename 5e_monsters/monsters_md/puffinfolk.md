@@ -6,7 +6,7 @@
 - **Hit Points:** 22 (4d6+8)
 - **Speed:** walk 20 ft. swim 30 ft. fly 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 322
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Peck:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d6+4) piercing damage.
 ### Reactions
 - **Quick and Nimble:** When a creature the puffinfolk can see targets it with melee or ranged weapon attack puffinfolk darts out of the way and attacker has disadvantage on the attack.
+
+

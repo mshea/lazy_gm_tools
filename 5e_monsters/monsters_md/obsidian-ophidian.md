@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (13d12+52)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 295
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, 10 ft., one target, 12 (2d8+3) piercing damage. Target: DC 15 Con save or take 5 (2d4) piercing damage at start of each of its turns as shards of obsidian lodge in wound. Any creature can use action to remove shards with DC 12 Wis (Medicine) check. Shards crumble to dust if target receives magical healing.
 - **Constrict:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (2d4+3) bludgeoning damage and target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends target is restrained and takes 5 (2d4) slashing damage at the start of each of its turns and ophidian can’t use Constrict on another target.
 - **Lava Splash (Recharge 4–6):** Writhes and flails splashing lava at everything. Each creature within 20' of it: 21 (6d6) fire (DC 15 Dex half). To use this must be touching or within 5 ft. of lava.
+
+

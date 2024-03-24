@@ -6,12 +6,13 @@
 - **Hit Points:** 178 (17d10+85)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 265
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 10 (+0) | 20 (+5) | 3 (-4) | 12 (+1) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Immunities:** poison, psychic; damage from nonmagical, non-adamantine weapons
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 120 ft., passive Perception 11
@@ -26,3 +27,5 @@
 - **Rock:** Ranged Weapon Attack: +10 to hit  range 60/240 ft.  one target. Hit: 30 (7d6 + 6) bludgeoning damage. The target makes a DC 18 Strength saving throw  falling prone on a failure.
 ### Bonus Actions
 - **Slow (Recharge 5-6):** The guardian targets one or more creatures within 30 feet. Each target makes a DC 17 Wisdom saving throw. On a failure, the target is slowed for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+

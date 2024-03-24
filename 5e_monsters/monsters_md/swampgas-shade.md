@@ -6,7 +6,7 @@
 - **Hit Points:** 39 (6d8+12)
 - **Speed:** walk 0 ft. fly 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 359
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Haunting Murmurs:** Ranged Spell Attack: +3 to hit, 60 ft., one creature,. 8 (1d8+3) psychic.
 ### Bonus Actions
 - **Swampland Stealth:** Takes the Hide action. It must be in swampy terrain to use this bonus action.
+
+

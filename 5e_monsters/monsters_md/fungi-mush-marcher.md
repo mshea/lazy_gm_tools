@@ -6,7 +6,7 @@
 - **Hit Points:** 85 (10d10+30)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 192
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Slowing Spores (Recharge 5–6):** Releases spores from its cap. Each creature within 20' of the mush marcher: 18 (4d8) poison and is poisoned (DC 13 Con half damage and isn’t poisoned). While poisoned this way creature’s speed is halved. A poisoned creature can re-save at end of each of its turns success ends effect on itself.
 ### Bonus Actions
 - **Recall Harpoon:** Pulls on the mycelial threads connecting it to its harpoon returning the harpoon to its empty hand. If harpoon is stuck in a creature that creature must make DC 13 Str save or be pulled up to 15 ft. toward marcher.
+
+

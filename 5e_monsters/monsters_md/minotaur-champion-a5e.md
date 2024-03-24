@@ -6,13 +6,14 @@
 - **Hit Points:** 262 (21d12+126)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 16 (15,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 335
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 10 (+0) | 22 (+6) | 10 (+0) | 16 (+3) | 14 (+2) |
 
 - **Saving Throws**: Str +11, Dex +5, Con +11, Wis +8
+- **Skills:** perception +8
 - **Senses:** darkvision 120 ft., passive Perception 21
 - **Languages:** Abyssal, Undercommon
 ### Special Abilities
@@ -25,3 +26,5 @@
 - **Fire Breath (Recharge 5-6):** The minotaur exhales fire in a 30-foot cone. Each creature in the area makes a DC 19 Dexterity saving throw  taking 55 (10d10) fire damage on a failed save or half damage on a success.
 ### Bonus Actions
 - **Roar of Triumph:** If the minotaur reduced a living creature to 0 hit points since the end of its last turn, it roars and gains 35 (10d6) temporary hit points.
+
+

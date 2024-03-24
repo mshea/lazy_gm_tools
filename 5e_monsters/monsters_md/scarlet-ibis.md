@@ -6,7 +6,7 @@
 - **Hit Points:** 135 (18d8+54)
 - **Speed:** fly 40 ft. walk 20 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 318
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 - **Multiattack:** The scarlet ibis makes three attacks: one with its beak and two with its talons.
 - **Beak:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 11 (2d8 + 2) piercing damage. The target must succeed on a DC 14 Charisma saving throw or become cursed. While cursed, the target has disadvantage on ability checks, attack rolls, or saving throws (the scarlet ibis’ choice). Alternatively, the ibis can choose for the target’s enemies to have advantage on attack rolls against the target. A creature can have no more than one of each kind of curse on it at a time. The curses last for 24 hours or until removed by the remove curse spell or similar magic.
 - **Talons:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) slashing damage.
+
+

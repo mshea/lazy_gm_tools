@@ -6,7 +6,7 @@
 - **Hit Points:** 34 (4d8+16)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 173
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Greatclub:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) bludgeoning damage.
 - **Spear:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 20/60' one target 6 (1d6+3) piercing damage or 7 (1d8+3) piercing damage if used with two hands to make a melee attack.
 - **Echoing Burps (Recharge 5–6):** Tries to let loose double roar but instead sends forth a series of obnoxious smelly belches in a 15 ft. cone. Each creature in the area: 10 (4d4) thunder and is incapacitated until end of its next turn (DC 13 Con half damage and isn’t incapacitated).
+
+

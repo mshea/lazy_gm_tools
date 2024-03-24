@@ -6,7 +6,7 @@
 - **Hit Points:** 91 (14d8+28)
 - **Speed:** walk 30 ft. burrow 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 124
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Freezing Smite (Recharge 5–6):** Raises its frigid claw drawing upon fiendish energies then smashes its rimed fist into the ground causing a wave of freezing power to emanate outward. Each creature within 30': 21 (6d6) cold (DC 15 Con half). If a creature fails by 5+ it is restrained by ice until end of its next turn.
 ### Reactions
 - **Fury of the Storm:** When a creature rimepacted can see is knocked prone by Frigid Vortex rimepacted can move up to half its speed toward the creature.
+
+

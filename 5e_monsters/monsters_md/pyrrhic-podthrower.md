@@ -6,7 +6,7 @@
 - **Hit Points:** 127 (17d6+68)
 - **Speed:** walk 20 ft. burrow 20 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 324
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Flaming Seedpod:** Lobs a flaming seedpod at a point it can see within 60' of it. Seedpod explodes on impact and is destroyed. Each creature within 10 ft. of that point: 12 (5d4) fire (DC 15 Dex half).
 ### Reactions
 - **Unstable Bulb:** When podthrower is grappled and removed from the ground while above 0 hp its bulb bursts. Each creature within 10 ft.: 12 (5d4) fire (DC 15 Dex half).
+
+

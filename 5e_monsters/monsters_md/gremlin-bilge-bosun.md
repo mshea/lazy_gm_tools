@@ -6,7 +6,7 @@
 - **Hit Points:** 60 (11d6+22)
 - **Speed:** walk 30 ft. climb 20 ft. swim 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 219
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Multiattack:** One Bite and two Makeshift Weapon attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d4+4) piercing damage + 5 (2d4) poison and the target must make DC 13 Con save or contract the sewer plague disease.
 - **Makeshift Weapon:** Melee or Ranged Weapon Attack: +6 to hit 5 ft. or range 20/60' one target 6 (1d6+3) bludgeoning damage P or S.
+
+

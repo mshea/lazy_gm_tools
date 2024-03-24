@@ -6,7 +6,7 @@
 - **Hit Points:** 119 (14d12+28)
 - **Speed:** walk 0 ft. swim 120 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 67
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Pseudopod:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d8+3) bludgeoning damage.
 - **Reef Poison Spray (Recharge 5–6):** Expels poison cloud. Each creature within 15 ft. of central spire: 21 (6d6) poison and is incapacitated until end of its next turn (DC 15 Int half damage not incapacitated).
 - **Beasts of the Sea (1/Day):** Magically calls 2d4 giant crabs 2 giant sea horses or reef sharks or 1 swarm of quippers provided coral is underwater. The called creatures arrive in 1d4 rounds acting as allies of coral and obeying its telepathic commands. Beasts remain 1 hr until coral dies or until coral dismisses them as a bonus action.
+
+

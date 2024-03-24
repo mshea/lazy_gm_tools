@@ -6,7 +6,7 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 0 ft. fly 60 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 50
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Slam:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) bludgeoning damage + 3 (1d6) poison.
 ### Reactions
 - **Swift Advance:** If a creature in same space as miasma moves miasma can move up to its speed with the creature. This move doesn’t provoke opportunity attacks but miasma must move in same spaces creature moved ending in creature’s space or space nearest to it.
+
+

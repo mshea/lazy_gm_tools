@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 20 ft. burrow 20 ft. fly 50 ft. swim 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 335
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Flurry of Tools:** Melee Weapon Attack: +8 to hit 0' 1 tgt in the swarm’s space. 10 (4d4) bludgeoning damage + 10 (4d4) piercing damage and 10 (4d4) slashing damage or 5 (2d4) bludgeoning damage + 5 (2d4) piercing damage and 4 (2d4) slashing damage if the swarm has half of its hp or fewer.
 - **Dismantle:** Destroys up to a 5 ft. cube of nonmagical debris structure or object that isn’t being worn or carried.
 - **Spellcasting:** Cha (DC 14) no material components: At will: floating disk mending spare the dying3/day ea: gentle repose knock sending1/day ea: locate creature passwall
+
+

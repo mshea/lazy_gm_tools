@@ -6,7 +6,7 @@
 - **Hit Points:** 176 (32d6+64)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 254
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -35,3 +35,5 @@
 - **Elusive Hunter:** Takes the Dodge or Hide action.
 ### Reactions
 - **Flame Burst:** When a hostile creature enters a space within 5 ft. of the ghost hunter the hunter can release a burst of fire from its clockwork hand. The creature must make DC 17 Dex save or take 7 (2d6) fire and have disadvantage on the next attack roll it makes vs. the ghost hunter before the end of the ghost hunter’s next turn.
+
+

@@ -6,13 +6,14 @@
 - **Hit Points:** 344 (30d10+180)
 - **Speed:** walk 30 ft. fly 90 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 220
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 22 (+6) | 22 (+6) | 14 (+2) | 16 (+3) | 20 (+5) |
 
 - **Saving Throws**: Dex +10, Int +6, Wis +7, Cha +9
+- **Skills:** acrobatics +10, insight +7, perception +7
 - **Damage Resistances:** lightning, thunder
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Auran
@@ -27,3 +28,5 @@
 - **Giant Form (1/Day:** The djinni magically becomes a Huge, semi-substantial creature of billowing cloud. In this form, it gains resistance to nonmagical damage, and its scimitar attacks gain a reach of 10 feet. The effect ends after 1 minute, when the djinni is incapacitated, or if the djinn becomes bloodied.
 - **Whirlwind (1/Day):** A magical, 5-foot-wide, 30-foot-tall whirlwind appears in a space the djinni can see within 60 feet. The whirlwind may appear in another creatures space. If the whirlwind appears in another creatures space, or when it enters a creatures space for the first time on a turn, the creature makes a DC 18 Strength check, becoming restrained by the whirlwind on a failure. The whirlwind may restrain one creature at a time. A creature within 5 feet of the whirlwind (including the restrained creature) can use an action to make a DC 18 Strength check, freeing the restrained creature on a success. A freed creature can move to an unoccupied space within 5 feet of the whirlwind.
 - **As a bonus action:** The whirlwind disappears if the djinni loses sight of it, if the djinni dies or is incapacitated, or if the djinni dismisses it as an action.
+
+

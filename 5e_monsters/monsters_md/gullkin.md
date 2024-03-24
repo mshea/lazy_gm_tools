@@ -6,7 +6,7 @@
 - **Hit Points:** 27 (5d8+5)
 - **Speed:** walk 20 ft. fly 30 ft. swim 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 223
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,5 @@
 - **Beak:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 5 (1d4+3) piercing damage.
 - **Javelin:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 30/120' one creature. 6 (1d6+3) piercing damage.
 - **Tempest Breath (Recharges: Short/Long Rest):** Exhales lungful of air in 15 ft. cone. Each creature in that area pushed up to 15 ft. away from gullkin (DC 12 Str negates).
+
+

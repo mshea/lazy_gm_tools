@@ -6,7 +6,7 @@
 - **Hit Points:** 38 (7d6+14)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 301
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Spirit-infused Yip:** The qiqirn releases a spirt-infused yip at one creature it can see within 30 feet of it. If the target can hear the qiqirn, it must make a DC 12 Wisdom saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a successful one.
 ### Reactions
 - **Horrifying Wail:** When the qiqirn takes damage, the spirits infusing it cry out, afraid of losing their host. If the creature that dealt the damage can hear the qiqirn, it must succeed on a DC 12 Wisdom saving throw or be frightened until the end of its next turn.
+
+

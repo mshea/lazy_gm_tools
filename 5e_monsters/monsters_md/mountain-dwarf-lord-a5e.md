@@ -6,13 +6,14 @@
 - **Hit Points:** 171 (18d8+90)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 14 (11,500 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 477
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 12 (+1) | 20 (+5) | 12 (+1) | 12 (+1) | 16 (+3) |
 
 - **Saving Throws**: Con +10, Wis +6
+- **Skills:** athletics +10, history +6, perception +6
 - **Condition Immunities:** frightened
 - **Senses:** passive Perception 18
 - **Languages:** any two
@@ -28,3 +29,5 @@
 ### Reactions
 - **Shield Block:** When a creature attacks the mountain dwarf lord or a target within 5 feet, the mountain dwarf lord imposes disadvantage on that attack. To do so, the mountain dwarf lord must see the attacker and be wielding a shield.
 - **Mountain dwarf lords rule underground strongholds:** 
+
+

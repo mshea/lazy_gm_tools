@@ -6,12 +6,13 @@
 - **Hit Points:** 33 (6d8+6)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 314
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Skills:** perception +2, stealth +4
 - **Damage Resistances:** damage from nonmagical, non-silvered weapons
 - **Senses:** darkvision 60 ft. (rat or hybrid form only), passive Perception 12
 - **Languages:** Common
@@ -26,3 +27,5 @@
 ### Bonus Actions
 - **Shapeshift:** The wererat changes its form to a giant rat, a rat-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged. It can't speak in rat form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Frenzied Bite (While Bloodied:** The wererat makes a bite attack.
+
+

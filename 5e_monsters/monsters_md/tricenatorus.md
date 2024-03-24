@@ -6,7 +6,7 @@
 - **Hit Points:** 184 (16d12+80)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 109
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Bite:** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 34 (4d12 + 8) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the tricenatorus can’t bite another target.
 - **Gore:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 26 (4d8 + 8) piercing damage and the target must succeed on a DC 18 Strength saving throw or be knocked prone.
 - **Tail Spike:** Ranged Weapon Attack: +12 to hit, range 150/300 ft., one target. Hit: 26 (4d8 + 8) piercing damage.
+
+

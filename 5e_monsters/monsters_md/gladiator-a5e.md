@@ -6,13 +6,14 @@
 - **Hit Points:** 105 (14d8+42)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 474
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
 - **Saving Throws**: Str +7, Con +6
+- **Skills:** athletics +7, intimidation +5, performance +5
 - **Senses:** passive Perception 11
 - **Languages:** any one
 ### Special Abilities
@@ -26,4 +27,5 @@
 - **Shield Rush:** The gladiator makes an attack with their shield. On a hit, the target makes a DC 15 Dexterity saving throw, falling prone on a failure.
 ### Reactions
 - **Shield Block:** If the gladiator is wielding a shield and can see their attacker, they add 3 to their AC against one melee or ranged attack that would hit them.
-- **Shield Rush:** The gladiator makes an attack with their shield. On a hit, the target makes a DC 15 Dexterity saving throw, falling prone on a failure.
+
+

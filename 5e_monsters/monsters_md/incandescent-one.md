@@ -6,7 +6,7 @@
 - **Hit Points:** 144 (17d8+68)
 - **Speed:** walk 30 ft. fly 60 ft. swim 60 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 244
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -33,3 +33,5 @@
 - **Astral Bolt:** Ranged Spell Attack: +8 to hit, 120 ft., one target, 18 (4d6+4) radiant and the next attack roll made vs. the target before the end of the incandescent one’s next turn has advantage.
 ### Bonus Actions
 - **Celestial Inspiration:** Inspires one creature it can see within 60' of it. Whenever target makes attack roll or save before start of incandescent one’s next turn target can roll a d4 and add number rolled to the attack roll or save.
+
+

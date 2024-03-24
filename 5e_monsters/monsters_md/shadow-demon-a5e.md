@@ -6,13 +6,14 @@
 - **Hit Points:** 45 (10d8)
 - **Speed:** walk 30 ft. fly 50 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 74
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 5 (-3) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 - **Saving Throws**: Dex +5, Con +2, Cha +5
+- **Skills:** stealth +5
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** cold, lightning, necrotic, poison
 - **Damage Resistances:** acid, fire, thunder; damage from nonmagical weapons
@@ -29,3 +30,5 @@
 - **Claws:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 14 (2d10 + 3) cold damage.
 ### Bonus Actions
 - **Shadow Sneak:** The demon takes the Hide action even if obscured only by dim light or darkness.
+
+

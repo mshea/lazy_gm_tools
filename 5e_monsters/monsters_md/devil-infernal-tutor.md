@@ -6,7 +6,7 @@
 - **Hit Points:** 182 (28d8+56)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 120
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -34,3 +34,5 @@
 - **Change Shape:** Magically transforms into a Small or Med Humanoid or back into its true fiendish form. Its stats other than its size are same in each form. Items worn/carried aren’t transformed. Reverts on death.
 ### Reactions
 - **Str of Character:** When it succeeds on a save tutor responds with scathing magical insult if source of effect is a creature within 60' of tutor. That creature: DC 18 Wis save or take 14 (4d6) psychic and have disadvantage on next save it makes vs. a spell cast by tutor.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 152 (16d10+64)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 345
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Head Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage. If the tetomatli scores a critical hit against a target wearing metal armor, the target must succeed on a DC 15 Strength saving throw or its armor is destroyed. A creature wearing magical armor has advantage on this saving throw. A creature wearing adamantine armor is unaffected.
 - **Wing Buffet:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage.
 - **Tremor (Recharge 6):** The tetomatli slams its head repeatedly into the ground, creating a magical shockwave. Each creature within 20 feet of the tetomatli must succeed on a DC 15 Dexterity saving throw or be knocked prone and have disadvantage on attack rolls and Dexterity checks until the end of its next turn.
+
+

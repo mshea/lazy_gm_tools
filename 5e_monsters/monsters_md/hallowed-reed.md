@@ -6,7 +6,7 @@
 - **Hit Points:** 22 (5d8)
 - **Speed:** walk 10 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 305
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Rebirth:** If a hallowed reed is slain, a new patch of hallowed reeds will grow in the same spot starting within a week of its death. Charring or salting the ground where a hallowed reed was slain prevents this resurgence.
 ### Actions
 - **Searing Grasp:** Melee Weapon Attack: +4 to hit, reach 15 ft., one creature. Hit: 4 (1d4 + 2) radiant damage, and the target is grappled (escape DC 12). Until this grapple ends, the creature is restrained, it takes 2 (1d4) radiant damage at the start of each of its turns, and the hallowed reed can't grasp another target. Undead and fiends have disadvantage on ability checks made to escape the grapple.
+
+

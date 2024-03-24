@@ -6,13 +6,14 @@
 - **Hit Points:** 165 (22d8+66)
 - **Speed:** walk 35 ft. fly 60 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 200
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 20 (+5) | 16 (+3) | 16 (+3) | 20 (+5) | 20 (+5) |
 
 - **Saving Throws**: Dex +9, Wis +9, Cha +9
+- **Skills:** arcana +7, history +7, insight +9, nature +7, perception +9, persuasion +9
 - **Condition Immunities:** charmed, paralyzed, poisoned, unconscious
 - **Senses:** truesight 60 ft., passive Perception 19
 - **Languages:** Common, Elvish, Sylvan, two more
@@ -33,4 +34,5 @@
 ### Reactions
 - **Riposte:** When the noble is hit by a melee attack made by a creature it can see, it makes a glittering scimitar attack against the attacker.
 - **Vengeful Eye:** When the noble is hit by a ranged attack or targeted with a spell by a creature within 60 feet, it uses Evil Eye on the attacker if they can see each other.
-- **Faerie Step (Recharge 5-6):** The noble magically teleports up to 60 feet to a space it can see.
+
+

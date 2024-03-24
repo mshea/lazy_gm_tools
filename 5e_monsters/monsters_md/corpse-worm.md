@@ -6,7 +6,7 @@
 - **Hit Points:** 76 (8d10+32)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 71
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Swallow:** The corpse worm makes a bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and effects outside the corpse worm, and it takes 10 (3d6) acid damage at the start of each of the corpse worm’s turns. The corpse worm can have only one creature swallowed at a time. If the corpse worm takes 20 damage or more on a single turn from the swallowed creature, the worm must succeed on a DC 12 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the worm. If the corpse worm dies, the target is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
 ### Reactions
 - **Regurgitate (Recharge 5-6):** When a creature the corpse worm can see hits it with an attack while within 10 feet of it, the corpse worm regurgitates a portion of its stomach contents on the attacker. The target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. If the corpse worm has a swallowed creature when it uses this reaction, the worm must succeed on a DC 14 Constitution saving throw or also regurgitate the swallowed creature, which falls prone in a space within 5 feet of the target. If it regurgitates the swallowed creature, the target and the swallowed creature take 7 (2d6) acid damage.
+
+

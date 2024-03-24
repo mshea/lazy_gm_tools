@@ -6,13 +6,14 @@
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** walk 35 ft. fly 60 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 201
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 18 (+4) | 14 (+2) | 12 (+1) | 16 (+3) | 16 (+3) |
 
 - **Saving Throws**: Dex +6, Wis +5, Cha +5
+- **Skills:** deception +5, nature +3, perception +5, stealth +6, survival +5
 - **Condition Immunities:** charmed, unconscious
 - **Senses:** passive Perception 15
 - **Languages:** Common, Elvish, Sylvan
@@ -26,3 +27,5 @@
 - **Fey Glamour:** The knight targets one humanoid within 30 feet. The target makes a DC 13 Wisdom saving throw. On a failure  it is magically charmed by the knight for 1 day. If the knight or one of the knights allies harms the target  the target repeats the saving throw  ending the effect on itself on a success. If a targets saving throw is successful  or if the effect ends for it  the creature is immune to this knights Fey Charm for a year and a day.
 ### Reactions
 - **Natures Shield:** When the knight would be hit by an attack while the knight is within 5 feet of a tree or other large plant, the knights AC magically increases by 3 against that attack as the plant interposes branches or vines between the knight and the attacker.
+
+

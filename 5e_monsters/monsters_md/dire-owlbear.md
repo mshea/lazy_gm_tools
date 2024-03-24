@@ -6,7 +6,7 @@
 - **Hit Points:** 102 (12d8+48)
 - **Speed:** walk 35 ft. burrow 10 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 132
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Multiattack:** One attack with its beak and one attack with its claws.
 - **Beak:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 10 (1d10+5) piercing damage.
 - **Claws:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 14 (2d8+5) slashing damage.
+
+

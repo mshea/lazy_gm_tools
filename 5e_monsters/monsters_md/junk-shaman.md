@@ -6,13 +6,14 @@
 - **Hit Points:** 42 (12d6)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 238
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 14 (+2) | 11 (+0) | 11 (+0) | 17 (+3) | 9 (-1) |
 
 - **Saving Throws**: Dex +4, Wis +5
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Draconic
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **Multiattack:** The kobold junk shaman makes two junk staff attacks.
 - **Junk Staff:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 3 (1d6) fire damage.
 - **Flame Jet:** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or flammable object that isn't being worn or carried, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the start of each of its turns.
+
+

@@ -6,13 +6,14 @@
 - **Hit Points:** 135 (18d8+54)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 272
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Con +6, Wis +6
+- **Skills:** arcana +6, deception +7, insight +6, perception +6, stealth +6
 - **Damage Resistances:** cold
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Draconic, Sylvan
@@ -31,3 +32,5 @@
 - **If the wall enters a creatures space when it appears, the creature is pushed to one side of the wall (hags choice):** The creature then makes a Dexterity saving throw  taking 35 (10d6) cold damage on a failed save or half damage on a success.
 ### Reactions
 - **Ice Shield:** The hag adds 3 to its AC against one melee attack that would hit it made by a creature it can see. If the attack misses, the attacker takes 14 (4d6) cold damage.
+
+

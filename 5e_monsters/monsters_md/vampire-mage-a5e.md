@@ -6,13 +6,14 @@
 - **Hit Points:** 142 (15d8+75)
 - **Speed:** walk 40 ft. climb 30 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 420
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 18 (+4) | 20 (+5) | 16 (+3) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Dex +8, Wis +7, Cha +8
+- **Skills:** perception +7, persuasion +8, stealth +8
 - **Damage Resistances:** necrotic; damage from nonmagical, non-silvered weapons
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** the languages it knew in life
@@ -23,7 +24,16 @@
 - **Spider Climb:** The vampire can climb even on difficult surfaces and upside down on ceilings.
 - **Vampire Weaknesses:** Vampires most common weaknesses are sunlight and running water. When the vampire ends its turn in contact with one of its weaknesses (such as being bathed in sunlight or running water), it takes 20 radiant damage. While in contact with its weakness, it can't use its Regeneration trait or its Mist Form or Shapechange actions.
 - **Resting Place:** Every vampires lair contains a resting place, usually a coffin or sarcophagus, where the vampire must rest for at least an hour each day to recuperate its powers. This resting place is sprinkled with soil from its mortal homeland. If this soil is scattered or is subjected to a bless, hallow, or similar spell, the vampire is destroyed when reduced to 0 hit points.
-- **Spellcasting:** The vampire is a 7th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15). It has the following wizard spells prepared:  Cantrips (at will): mage hand  minor illusion  1st-level (4 slots): disguise self  shield  2nd-level (3 slots): darkness  misty step  3rd-level (3 slots): animate dead  fireball  4th-level (1 slot): blight
+- **Spellcasting:** The vampire is a 7th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15). It has the following wizard spells prepared:
+ Cantrips (at will): mage hand
+ minor illusion
+ 1st-level (4 slots): disguise self
+ shield
+ 2nd-level (3 slots): darkness
+ misty step
+ 3rd-level (3 slots): animate dead
+ fireball
+ 4th-level (1 slot): blight
 ### Actions
 - **Grab (Vampire Form Only):** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 4 (1d8) necrotic damage. The target is grappled (escape DC 17) and restrained while grappled in this way.
 - **Charm:** The vampire targets a creature within 30 feet  forcing it to make a DC 16 Wisdom saving throw. On a failure  the target is charmed by the vampire for 24 hours. While charmed it regards the vampire as a trusted friend and is a willing target for the vampires bite. The target repeats the saving throw each time it takes damage  ending the effect on itself on a success. If the targets saving throw is successful or the effect ends for it  it is immune to this vampires Charm for 24 hours.
@@ -35,7 +45,6 @@
 - **Hissing Scuttle (1/Day):** When the vampire takes radiant damage, it moves up to its Speed without provoking opportunity attacks.
 - **Warding Charm (1/Day):** When a creature the vampire can see targets it with a melee attack but before the attack is made, the vampire uses Charm on that creature.
 - **Shield (1st-Level; V:** When the vampire is hit by an attack or targeted by magic missile, it gains a +5 bonus to AC (including against the triggering attack) and immunity to magic missile. These benefits last until the start of its next turn.
-- **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target that is grappled, incapacitated, restrained, willing, or unaware of the vampires presence. Hit: 10 (1d10 + 5) piercing damage plus 21 (6d6) necrotic damage. The targets hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the vampire regains this number of hit points. The reduction lasts until the target finishes a long rest. If the target is reduced to 0 hit points by this attack, it dies and rises the following night as a vampire spawn in the vampires thrall. Before the target first rises as a vampire spawn, a bless, gentle repose, or similar spell cast on the body prevents this transformation.
 
 
 ### Legendary Actions

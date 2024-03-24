@@ -6,12 +6,13 @@
 - **Hit Points:** 32 (5d8+10)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 262
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
 
+- **Skills:** perception +3
 - **Damage Immunities:** poison; damage from nonmagical, non-adamantine weapons
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
@@ -25,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (2d4 + 3) piercing damage. If the target is a creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
 ### Reactions
 - **Protective Bite:** When a creature within 5 feet hits the guardians owner with a melee attack, the guardian bites the attacker.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 24 (7d6)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 250
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 12 (+1) | 12 (+1) |
 
+- **Skills:** stealth +4, intimidation +3
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Goblin
 ### Actions
@@ -21,3 +22,5 @@
 - **Command Minions:** Up to 3 goblins within 30 feet that can hear or see it use their reactions to make a single melee attack each.
 ### Bonus Actions
 - **Nimble Escape:** The goblin takes the Disengage or Hide action.
+
+

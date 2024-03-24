@@ -6,12 +6,13 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 30 ft. climb 30 ft. fly 60 ft. swim 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 137
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 14 (+2) | 14 (+2) | 10 (+0) | 10 (+0) | 14 (+2) |
 
+- **Skills:** deception +4, insight +2, nature +2, perception +2, stealth +4
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** acid, cold, fire, lightning, thunder; damage from nonmagical weapons
 - **Condition Immunities:** fatigue, frightened, grappled, paralyzed, poisoned, prone, restrained
@@ -24,3 +25,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 18 (3d10 + 2) piercing damage.
 - **Anguished Breath (Recharge 5-6):** The dragon exhales a shadowy maelstrom of anguish in a 15-foot cone. Each creature in that area makes a DC 12 Wisdom saving throw  taking 22 (4d8) necrotic damage on a failed save or half damage on a success.
+
+

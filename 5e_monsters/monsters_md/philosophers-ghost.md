@@ -6,12 +6,13 @@
 - **Hit Points:** 77 (14d8+14)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 297
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 9 (-1) | 17 (+3) | 12 (+1) | 2 (-4) | 10 (+0) | 6 (-2) |
 
+- **Skills:** 
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** acid, cold; slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
@@ -25,3 +26,5 @@
 ### Actions
 - **Multiattack:** The philosopher's ghost makes two burning touch attacks.
 - **Burning Touch:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) fire damage. If the target is a creature, it suffers a burning lesion, taking 2 (1d4) fire damage at the start of each of its turns. Any creature can take an action to soothe the burning lesion with a successful DC 12 Wisdom (Medicine) check. The lesion is also soothed if the target receives magical healing.
+
+

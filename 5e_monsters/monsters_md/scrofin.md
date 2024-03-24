@@ -6,7 +6,7 @@
 - **Hit Points:** 68 (8d8+32)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 319
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Gore:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage.
 ### Reactions
 - **Quick to Anger (Recharges after a Short or Long Rest):** If the scrofin is wrestling a foe as part of a challenge and takes damage, or when it is reduced to half its hp maximum, it becomes angry. While angry, the scrofin has advantage on melee attack rolls and on saving throws against spells or effects that would charm or frighten it or make it unconscious, and it has resistance to bludgeoning damage. It remains angry for 1 minute, or until it is knocked unconscious. Alternatively, it can end its anger as a bonus action.
+
+

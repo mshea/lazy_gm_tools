@@ -6,7 +6,7 @@
 - **Hit Points:** 14 (4d4+4)
 - **Speed:** fly 40 ft. walk 20 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 103
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 ### Actions
 - **Fire Touch:** Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) fire damage and if the target is a flammable object that isn't being worn or carried, it also catches fire. If the target is a creature, it must succeed on a DC 12 Dexterity saving throw or take another 2 (1d4) fire damage at the start of its next turn.
 - **Hurl Flame:** Ranged Spell Attack: +4 to hit, range 150 ft., one target. Hit: 5 (2d4) fire damage and if the target is a flammable object that isn't being worn or carried, it also catches fire.
+
+

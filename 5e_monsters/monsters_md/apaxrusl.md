@@ -6,7 +6,7 @@
 - **Hit Points:** 60 (8d8+24)
 - **Speed:** burrow 30 ft. walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 27
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Fiery Sands (Recharge 5-6):** Sand whips violently around the apaxrusl. Each creature within 10 feet of the apaxrusl must make a DC 13 Constitution saving throw, taking 10 (3d6) slashing damage and 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
 ### Reactions
 - **Shifting Sands:** The apaxrusl can shift the flowing sands of its body to avoid harm. When the apaxrusl takes damage, roll a d12. Reduce the damage it takes by the number rolled.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 216 (16d12+112)
 - **Speed:** walk 30 ft. swim 90 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 242
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Beak:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 24 (3d12+5) piercing damage. If target is a Large or smaller creature it must make DC 17 Dex save or be swallowed by the imperator. A swallowed creature is blinded and restrained it has total cover vs. attacks and other effects outside the imperator and it takes 21 (6d6) acid at the start of each of the imperator’s turns. If the imperator takes 30 damage or more on a single turn from a creature inside it the imperator must make DC 17 Con save at the end of that turn or regurgitate all swallowed creatures which fall prone in a space within 10 ft. of the imperator. If the imperator dies a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 ft. of movement exiting prone.
 ### Reactions
 - **Muster the Legions (1/Day):** When the imperator is reduced to half its hp or lower it magically calls 1d4 swarms of penguins. The penguins arrive on initiative count 20 of the next round acting as allies of the imperator and obeying its telepathic commands. The penguins remain for 1 hr until the imperator dies or until the imperator dismisses them as a bonus action.
+
+

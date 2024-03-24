@@ -6,7 +6,7 @@
 - **Hit Points:** 232 (15d20+75)
 - **Speed:** walk 40 ft. fly 90 ft.
 - **Challenge Rating:** 16 (15,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 320
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** Three Elemental Strike attacks.
 - **Elemental Strike:** Melee or Ranged Weapon Attack: +11 to hit 15 ft. or range 60' one target 28 (4d10+6) acid cold fire lightning or thunder (surge’s choice).
 - **Primordial Storm (Recharge 6):** Rain of energies produces one of: Restorative Rain Each non Construct/Undead creature within 30' of the surge regains 27 (5d10) hp. Area becomes difficult terrain as nonmagical plants in the area become thick and overgrown.Ruinous Rain Each creature within 30' of the surge: 27 (5d10) acid and 27 (5d10) fire and is coated in burning acid (DC 18 Dex half damage not coated in acid). A creature coated in acid: 5 (1d10) acid and 5 (1d10) fire at the start of each of its turns until it or another creature takes an action to scrape/wash off the acid.
+
+

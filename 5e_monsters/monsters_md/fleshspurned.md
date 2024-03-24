@@ -6,7 +6,7 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** fly 40 ft. walk 0 ft. hover True ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 153
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Phantasmal Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 18 (4d6 + 4) necrotic damage. If the target is a creature other than a construct or an undead, it must succeed on a DC 14 Constitution saving throw or become ghostly for 1 minute. While ghostly, it has the Incorporeal Movement trait and is susceptible to the fleshspurned’s Ghost Eater trait. The creature can repeat the saving throw at the end of each of its turns, ending the ghostly effect on itself on a success.
 - **Chatter:** The fleshspurned clashes its oversized teeth together to create a clattering din. Each creature within 30 feet of the fleshspurned must succeed on a DC 14 Wisdom saving throw or be confused for 1 minute. While confused, a creature acts as if under the effects of the confusion spell. A confused creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the target is immune to the fleshspurned’s Chatter for the next 24 hours.
+
+

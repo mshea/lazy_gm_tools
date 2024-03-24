@@ -6,7 +6,7 @@
 - **Hit Points:** 54 (12d6+12)
 - **Speed:** walk 30 ft. burrow 15 ft. climb 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 283
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Earth Shift:** Ranged Spell Attack: +2 to hit 60' 1 tgt in contact with the ground. Target is pushed up to 10 ft. in a direction of myrmex’s choice and its speed is reduced by 5 ft. until end of its next turn.
 ### Bonus Actions
 - **Earth Manipulation:** Can manipulate and move earth within 30' of it that fits within a 5 ft. cube. This manipulation is limited only by its imagination but it often includes creating caricatures of creatures to tell stories of travels or etching symbols to denote dangerous caverns or similar markers for those in the colony. Can also choose to make ground within 10 ft. of it difficult terrain or to make difficult terrain normal if the ground is earth or stone. Changes caused by Earth Manipulation are permanent.
+
+

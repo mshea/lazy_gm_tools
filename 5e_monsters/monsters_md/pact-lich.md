@@ -6,7 +6,7 @@
 - **Hit Points:** 195 (26d8+78)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 152
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,9 @@
 - **One With Shadows:** As a bonus action when in an area of dim light or darkness, the pact lich can become invisible until it moves or takes an action or reaction.
 - **Patron's Blessing:** When the pact lich reduces a target to 0 hp, the lich gains 25 temporary hp.
 - **Pact Rejuvenation:** If a fist-sized or larger diamond is within its lair, a destroyed pact lich usually gains a new body in 3d10 days, but its return to the Material Plane is ultimately dictated by its patron.
-- **Innate Spellcasting:** The pact lich's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components: At will: chill touch, detect magic, levitate, mage hand, prestidigitation, speak with dead, true strike 1/day each: banishment, bestow curse, compulsion, confusion, conjure elemental, dominate monster, eyebite, finger of death, fly, hellish rebuke (5d10), hold monster, slow
+- **Innate Spellcasting:** The pact lich's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:
+At will: chill touch, detect magic, levitate, mage hand, prestidigitation, speak with dead, true strike
+1/day each: banishment, bestow curse, compulsion, confusion, conjure elemental, dominate monster, eyebite, finger of death, fly, hellish rebuke (5d10), hold monster, slow
 ### Actions
 - **Multiattack:** The pact lich makes four enhanced eldritch blast attacks.
 - **Maddening Touch:** Melee Spell Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (3d6) necrotic damage. The target must succeed on a DC 18 Charisma saving throw or have vivid hallucinations for 1 minute. During this time, the target is blinded, stunned, and deafened, sensing only the hallucinatory terrain and events. The hallucinations play on aspects of the creature's deepest fears. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

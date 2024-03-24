@@ -6,7 +6,7 @@
 - **Hit Points:** 127 (15d10+45)
 - **Speed:** walk 40 ft. climb 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 47
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Claws:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 12 (2d8+3) slashing damage.
 - **Rib Hooks:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 10 (2d6+3) piercing damage and the target is grappled (escape DC 15) if it is a Large or smaller creature and it doesn’t have another creature grappled.
 - **Consume Sound:** Siphons energy from audible vibrations surrounding a creature grappled by it. Target: 14 (4d6) necrotic and becomes deafened and unable to speak until end of its next turn (DC 13 Con half damage and is able to hear and speak). Aural hunter regains hp equal to damage dealt. Consume Sound has no effect on creatures that are already deafened and unable to speak. It can’t use this action if it is deafened.
+
+

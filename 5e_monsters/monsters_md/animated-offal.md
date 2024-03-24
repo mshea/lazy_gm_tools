@@ -6,7 +6,7 @@
 - **Hit Points:** 207 (18d12+90)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 38
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Pseudopod:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 11 (2d6+4) bludgeoning damage + 18 (4d8) necrotic and target is grappled (escape DC 16) if it is a Large or smaller creature and offal doesn’t have two other creatures grappled. If target is holding or carrying one or more healing potions there is a 25 percent chance one potion shatters during the attack allowing animated offal to absorb the healing energy and gain the benefits of its Healing Sense.
 ### Bonus Actions
 - **Subsume:** Begins absorbing one creature it is grappling. Creature takes 18 (4d8) necrotic (DC 17 Con half). Offal regains hp equal to half the damage dealt. If offal is at its hp max it gains temp hp for 1 hr instead. Offal can add temp hp gained from this trait to temp hp gained earlier from this trait. Temporary hp can’t exceed 48. If its temp hp would exceed 48 a new animated offal appears in an unoccupied space within 5 ft. of offal. The new Ooze is Small doesn’t have this bonus action and has 10 hp. Creature killed by this bonus action is fully subsumed into offal and can be restored to life only by means of a resurrection spell or similar magic.
+
+

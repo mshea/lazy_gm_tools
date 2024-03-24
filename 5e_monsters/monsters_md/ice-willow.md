@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d10+60)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 240
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Icicle Spray (Recharge 6):** Flings icicles in a 30' cone. All in area make a DC 15 Dex save taking 18 (4d8) piercing damage and 14 (4d6) cold on a failed save or half damage if made.
 ### Reactions
 - **Melting Icicles:** When the ice willow takes fire it can immediately use Icicle Drop if available.
+
+

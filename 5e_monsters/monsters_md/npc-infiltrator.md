@@ -6,7 +6,7 @@
 - **Hit Points:** 55 (10d8+10)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 410
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Spellcasting:** Int (DC 13): At will: mage hand message minor illusion3/day ea: charm person sleep1/day: invisibility
 ### Bonus Actions
 - **Cunning Action:** Takes the Dash Disengage or Hide action.
+
+

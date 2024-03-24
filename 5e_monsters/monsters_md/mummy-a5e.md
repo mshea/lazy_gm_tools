@@ -6,13 +6,14 @@
 - **Hit Points:** 67 (9d8+27)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 338
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 8 (-1) | 16 (+3) | 10 (+0) | 10 (+0) | 12 (+1) |
 
 - **Saving Throws**: Wis +2
+- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** damage from nonmagical weapons
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, poisoned
@@ -25,3 +26,5 @@
 - **Multiattack:** The mummy uses Dreadful Glare and then attacks with its rotting fist.
 - **Dreadful Glare (Gaze):** The mummy targets a creature within 60 feet. The target makes a DC 11 Wisdom saving throw. On a failure  it is magically frightened until the end of the mummys next turn. If the target fails the save by 5 or more  it is paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of mummies (but not mummy lords) for 24 hours.
 - **Rotting Fist:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature  it makes a DC 13 Constitution saving throw. On a failure  it is cursed with Mummy Rot.
+
+

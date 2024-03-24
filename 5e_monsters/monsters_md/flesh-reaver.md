@@ -6,7 +6,7 @@
 - **Hit Points:** 19 (3d8+6)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 160
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Consume Flesh:** Melee Weapon Attack: +4 to hit, reach 5 ft., one prone creature. Hit: 4 (1d4 + 2) piercing damage, and the creature must make a DC 13 Constitution saving throw, taking 7 (2d6) necrotic damage on a failed save, or half as much damage on a successful one.
+
+

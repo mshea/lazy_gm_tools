@@ -6,7 +6,7 @@
 - **Hit Points:** 91 (14d8+28)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 135
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Multiattack:** The emperor’s hyena makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) necrotic damage.
 - **Black Breath (Recharge 5-6):** The emperor’s hyena breathes a 15-foot cone of noxious black vapor. Each creature in the area that isn’t an undead or a construct must make a DC 12 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one. If the saving throw fails by 5 or more, the creature gains one level of exhaustion. This exhaustion lasts until the creature finishes a short or long rest.
+
+

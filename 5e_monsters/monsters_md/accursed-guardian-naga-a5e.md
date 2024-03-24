@@ -6,13 +6,14 @@
 - **Hit Points:** 136 (16d10+48)
 - **Speed:** walk 40 ft. swim 40 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 343
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 18 (+4) | 16 (+3) | 16 (+3) | 18 (+4) | 18 (+4) |
 
 - **Saving Throws**: Dex +8, Con +7, Int +7, Wis +8, Cha +8
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
@@ -21,7 +22,24 @@
 - **Amphibious:** The naga can breathe air and water.
 - **Forbiddance:** The nagas lair is under the forbiddance spell. Until it is dispelled, creatures in the lair can't teleport or use planar travel. Fiends and undead that are not the nagas allies take 27 (5d10) radiant damage when they enter or start their turn in the lair.
 - **Magic Resistance:** The naga has advantage on saving throws against spells and magical effects.
-- **Spellcasting:** The naga is an 11th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16). The naga has the following cleric spells prepared  which it can cast with only vocalized components:  Cantrips (at will): mending  thaumaturgy  1st-level (4 slots): command  cure wounds  false life  2nd-level (3 slots): calm emotions  hold person  locate object  3rd-level (3 slots) clairvoyance  create food and water  4th-level (3 slots): divination  freedom of movement  5th-level (2 slots): flame strike  geas  scrying  6th-level (1 slot): forbiddance
+- **Spellcasting:** The naga is an 11th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16). The naga has the following cleric spells prepared
+ which it can cast with only vocalized components:
+ Cantrips (at will): mending
+ thaumaturgy
+ 1st-level (4 slots): command
+ cure wounds
+ false life
+ 2nd-level (3 slots): calm emotions
+ hold person
+ locate object
+ 3rd-level (3 slots) clairvoyance
+ create food and water
+ 4th-level (3 slots): divination
+ freedom of movement
+ 5th-level (2 slots): flame strike
+ geas
+ scrying
+ 6th-level (1 slot): forbiddance
 ### Actions
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage. The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success.
 - **Spit Poison:** Melee Weapon Attack: +8 to hit  range 20/60 ft.  one creature. Hit: The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success.
@@ -32,3 +50,5 @@
 - **Vampiric Bite:** The naga attacks with its bite. If it hits and the target fails its saving throw against poison  the naga magically gains temporary hit points equal to the poison damage dealt.
 ### Bonus Actions
 - **Shapeshift:** The naga changes its form to that of a specific Medium humanoid, a Medium snake-human hybrid with the lower body of a snake, or its true form, which is a Large snake. While shapeshifted, its statistics are unchanged except for its size. It reverts to its true form if it dies.
+
+

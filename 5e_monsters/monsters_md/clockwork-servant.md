@@ -6,7 +6,7 @@
 - **Hit Points:** 22 (4d8+4)
 - **Speed:** walk 25 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 65
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Magic Resistance:** The servant has advantage on saving throws against spells and other magical effects.
 ### Actions
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+
+

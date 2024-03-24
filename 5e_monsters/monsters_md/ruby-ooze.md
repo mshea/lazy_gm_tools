@@ -6,12 +6,13 @@
 - **Hit Points:** 93 (11d8+44)
 - **Speed:** climb 20 ft. walk 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 286
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 8 (-1) | 18 (+4) | 2 (-4) | 6 (-2) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** lightning
 - **Damage Immunities:** acid, fire
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
@@ -28,3 +29,5 @@
 - **Multiattack:** The ruby ooze makes two pseudopod attacks.
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 14 (4d6) acid damage.
 - **Acid Spray (Recharge 5-6):** The ooze sprays its bright red protoplasm in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw. On a failure, the creature takes 21 (6d6) acid damage and is restrained as its flesh begins to turn into a translucent ruby-like stone. On a success, the creature takes half the damage and isn't restrained. The restrained creature must make a DC 15 Constitution saving throw at the end of its next turn, taking 21 (6d6) acid damage and becoming petrified on a failure or ending the effect on a success.
+
+

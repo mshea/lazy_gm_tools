@@ -6,7 +6,7 @@
 - **Hit Points:** 162 (25d8+50)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 407
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Spellcasting:** Wis (DC 17): At will: bane protection from evil and good spare the dying thaumaturgy3/day ea: cure wounds (level 5) dispel evil and good divination speak with dead1/day ea: commune (as an action) holy aura resurrection
 ### Bonus Actions
 - **Healing Hands (Recharge 5–6):** Touches a creature within 5 ft. of it: creature regains 14 (4d6) hp.
+
+

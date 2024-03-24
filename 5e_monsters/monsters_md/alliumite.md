@@ -6,7 +6,7 @@
 - **Hit Points:** 18 (4d6+4)
 - **Speed:** burrow 20 ft. walk 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 13
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,5 @@
 ### Actions
 - **Thorn Dart:** Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 - **Grass Blade:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+
+

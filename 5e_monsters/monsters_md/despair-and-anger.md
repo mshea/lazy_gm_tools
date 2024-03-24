@@ -6,7 +6,7 @@
 - **Hit Points:** 161 (17d10+68)
 - **Speed:** walk 40 ft. fly 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 116
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Despairing Rejection (Despair Only Recharge 4–6):** Assaults minds of up to 3 creatures it can see within 30' of it with despair. Each target: 17 (5d6) cold and 17 (5d6) psychic and must use its reaction to move its full speed away from despair and anger by safest available route unless there is nowhere to move this move doesn’t provoke opportunity attacks (DC 16 Wis half damage and doesn’t move away).
 ### Bonus Actions
 - **Change Aspect:** Changes aspect in control. Only one active at a time. Creature grappled by despair no longer grappled by anger.
+
+

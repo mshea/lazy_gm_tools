@@ -6,7 +6,7 @@
 - **Hit Points:** 117 (18d8+36)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 290
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **War Bellow:** Releases a loud challenging bellow. Each hostile creature within 60' of the raja that can hear the bellow:  frightened (DC 15 Cha negates). A frightened creature can re-save at end of each of its turns ending effect on itself on a success. If a creature’s save is successful or effect ends for it creature is immune to raja’s War Bellow for the next 24 hrs.
 ### Bonus Actions
 - **Enlarge:** Magically increases in size with anything worn/carried. While enlarged is Large 2× damage dice on weapon attacks (included above) and makes Str checks and Str saves with advantage. Enlarged can no longer use Evasion and Magic Resistance. If it lacks room to become Large this action fails.
+
+

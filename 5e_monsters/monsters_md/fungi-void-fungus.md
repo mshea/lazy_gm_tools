@@ -6,7 +6,7 @@
 - **Hit Points:** 65 (10d8+20)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 193
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Poisonous Mycelium:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) piercing damage + 7 (2d6) poison and poisoned until end of its next turn (DC 13 Con not poisoned.)
 - **Psychic Blast:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 12 (2d8+3) psychic.
 - **Consume Energy:** Hair-like tendrils dangling from its cap flash as it draws psychic energy from creature it can see within 30' of it. Target 18 (4d8) psychic (DC 13 Cha half). Fungus regains equal hp.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d8+75)
 - **Speed:** walk 20 ft. swim 90 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 27
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Transforming Touch (5/Day):** Can magically polymorph a willing creature into a giant octopus hunter shark or plesiosaurus. Transformation lasts 8 hrs until target uses a bonus action to transform back into its true form or until target dies. Items target is wearing/carrying are absorbed into new form. In new form target retains its alignment and Int Wis and Cha scores as well as its ability to speak. Its other stats are replaced by those of its new form and it gains any capabilities that new form has but it lacks.
 ### Bonus Actions
 - **Anoxic Aura (1/Day):** Removes oxygen from nearby water for 1 min. Each creature that requires oxygen to live (including air-breathing creatures under effects of water breathing) and starts its turn within 20' of deva: DC 17 Con save or begin suffocating. Deva never suffers effects of this; can choose any creatures in area to ignore it.
+
+

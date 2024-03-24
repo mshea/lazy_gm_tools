@@ -6,7 +6,7 @@
 - **Hit Points:** 262 (21d12+126)
 - **Speed:** walk 40 ft. swim 40 ft.
 - **Challenge Rating:** 18 (20,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 109
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Spit Fire:** Ranged Spell Attack: +11 to hit, 120 ft., one target, 32 (6d8+5) fire.
 - **Devastating Leap (Recharge 6):** Leaps up to 30' and lands on its feet in a space it can see. Each creature in the space or within 5 ft. of it when it lands: 72 (16d8) bludgeoning damage and knocked prone (DC 20 Str half damage not prone and if in kogukhpak’s space can choose to be pushed 5 ft. back or to side of kogukhpak). Creature in kogukhpak’s space that chooses not to be pushed suffers consequences of failed save.
 - **Fire Breath (Recharge 6):** Exhales fire in a 90' cone. Each creature in that area: 70 (20d6) fire (DC 20 Dex half).
+
+

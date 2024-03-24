@@ -6,18 +6,29 @@
 - **Hit Points:** 39 (6d8+12)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 472
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 14 (+2) | 14 (+2) | 10 (+0) | 14 (+2) | 14 (+2) |
 
 - **Saving Throws**: Wis +4
+- **Skills:** deception +4, persuasion +4, religion +2
 - **Senses:** passive Perception 12
 - **Languages:** any one
 ### Special Abilities
 - **Fanatic:** The cult fanatic has advantage on saving throws against being charmed or frightened.
-- **Spellcasting:** The cult fanatic is a 4th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12  +4 to hit with spell attacks). They have the following cleric spells prepared:  Cantrips (at will): light  sacred flame  thaumaturgy  1st-level (4 slots): ceremony  command  detect evil and good  inflict wounds  2nd-level (3 slots): blindness/deafness  hold person
+- **Spellcasting:** The cult fanatic is a 4th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12
+ +4 to hit with spell attacks). They have the following cleric spells prepared:
+ Cantrips (at will): light
+ sacred flame
+ thaumaturgy
+ 1st-level (4 slots): ceremony
+ command
+ detect evil and good
+ inflict wounds
+ 2nd-level (3 slots): blindness/deafness
+ hold person
 ### Actions
 - **Dagger:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Sacred Flame (Cantrip; V, S):** One creature the cult fanatic can see within 60 feet makes a DC 12 Dexterity saving throw  taking 4 (1d8) radiant damage on a failure. This spell ignores cover.
@@ -26,3 +37,5 @@
 - **Blindness/Deafness (2nd-Level; V):** One creature the cult fanatic can see within 30 feet makes a DC 12 Constitution saving throw. On a failure  the creature is blinded or deafened (cult fanatics choice) for 1 minute. The creature repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Hold Person (2nd-Level; V, S, M, Concentration):** One humanoid the cult fanatic can see within 60 feet makes a DC 12 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Cult fanatics are leaders who recruit for and command forbidden cults:** They have either been granted real spellcasting abilities by the dark forces they serve  or they have twisted their pre-existing magical abilities to the service of their cause.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 147 (14d10+70)
 - **Speed:** fly 60 ft. walk 30 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 247
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,10 @@
 - **Magic Resistance:** The lamassu has advantage on saving throws against spells and other magical effects.
 - **Magic Weapons:** The lamassu's weapon attacks are magical.
 - **Pounce:** If the lamassu moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the lamassu can make one claw attack against it as a bonus action.
-- **Innate Spellcasting:** The lamassu's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no material components: At will: detect evil and good, mage hand, magic circle, sacred flame, unseen servant 3/day each: bless, calm emotions, command, dimension door, invisibility, thunderwave 1/day each: banishment, flame strike, glyph of warding
+- **Innate Spellcasting:** The lamassu's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no material components:
+At will: detect evil and good, mage hand, magic circle, sacred flame, unseen servant
+3/day each: bless, calm emotions, command, dimension door, invisibility, thunderwave
+1/day each: banishment, flame strike, glyph of warding
 ### Actions
 - **Multiattack:** The lamassu makes two attacks with its claws.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 9 (2d8) radiant damage.

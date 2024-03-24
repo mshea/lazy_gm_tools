@@ -6,13 +6,14 @@
 - **Hit Points:** 55 (10d4+30)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 453
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 11 (+0) | 19 (+4) | 16 (+3) | 6 (-2) | 17 (+3) | 14 (+2) |
 
 - **Saving Throws**: Str +2, Dex +6, Con +5
+- **Skills:** athletics +2, deception +4, perception +5, stealth +6, survival +5
 - **Damage Resistances:** lightning
 - **Condition Immunities:** stunned
 - **Senses:** passive Perception 17
@@ -27,4 +28,5 @@
 - **Nimble Escape:** The jackalope takes the Disengage or Hide action.
 ### Reactions
 - **Uncanny Dodge:** When an attacker the jackalope can see hits it with an attack, the jackalope halves the attacks damage against it.
-- **Nimble Escape:** The jackalope takes the Disengage or Hide action.
+
+

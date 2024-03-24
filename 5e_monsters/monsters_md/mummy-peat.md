@@ -6,7 +6,7 @@
 - **Hit Points:** 93 (11d8+44)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 280
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Multiattack:** Two Rabid Bites. If it hits one creature with both target must make DC 15 Con save or be cursed with bog melt.
 - **Rabid Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) piercing damage + 7 (2d6) necrotic.
+
+

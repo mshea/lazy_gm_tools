@@ -6,13 +6,14 @@
 - **Hit Points:** 95 (10d10+40)
 - **Speed:** walk 40 ft. burrow 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 40
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 18 (+4) | 2 (-4) | 10 (+0) | 8 (-1) |
 
 - **Saving Throws**: Int +-1
+- **Skills:** perception +3
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 13
 - **Languages:** 
 ### Special Abilities
@@ -24,3 +25,5 @@
 ### Reactions
 - **Jaw Clamp (1/Day):** When an attacker within 5 feet of the bulette misses it with a melee attack, the bulette makes a bite attack against the attacker. On a hit, the attacker is grappled (escape DC 15). Until this grapple ends, the grappled creature is restrained, and the only attack the bulette can make is a bite against the grappled creature.
 - **Hard Carapace (1/Day):** After taking damage from an attack, the bulette lies down and closes its eyes, protecting all vulnerable spots. Until the beginning of its next turn, its AC becomes 21 and it has advantage on saving throws.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 157 (15d10+75)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 59
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Fearsome Howl (Recharge 5–6):** Howls a haunting tune. Each creature within 60' and can hear it: frightened until the end of its next turn (DC 17 Wis negates). A frightened creature concentrating on a spell must make DC 17 Con save or it loses concentration.
 ### Bonus Actions
 - **Mist Stalker:** In dim light fog or mist it takes the Hide action.
+
+

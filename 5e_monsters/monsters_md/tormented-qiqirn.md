@@ -6,7 +6,7 @@
 - **Hit Points:** 133 (14d10+56)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 301
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Unnerving Whispers (Recharge 5-6):** The qiqirn whispers the last words of the spirits infusing it into the minds of up to three creatures it can see within 60 feet of it. Each creature must succeed on a DC 16 Wisdom saving throw or take 21 (6d6) psychic damage and suffer a random effect for 1 minute. Roll a d6 to determine the effect: unconscious (1), deafened (2), incapacitated (3), stunned (4), frightened (5), paralyzed (6). A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ### Reactions
 - **Protective Spirits:** When the qiqirn takes damage, the spirits infusing it rise up to protect it. Roll 2d8 and reduce the damage by the result.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 67 (9d12+9)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 48
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 13 (+1) | 11 (+0) | 10 (+0) | 9 (-1) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Resistances:** piercing, slashing
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
@@ -25,3 +26,5 @@
 - **Barstool:** Melee Weapon Attack: +4 to hit, range 0 ft., one target in the bar brawl's space. Hit: 14 (4d6) bludgeoning damage, or 7 (2d6) if the bar brawl has half its hit points or fewer.
 - **Broken Bottles:** Melee Weapon Attack: +4 to hit, range 0 ft., one target in the bar brawl's space. Hit: 10 (4d4) slashing damage, or 5 (2d4) if the bar brawl has half its hit points or fewer.
 - **Darts:** Ranged Weapon Attack: +3 to hit, range 20/40 ft. Hit: 10 (4d4) piercing damage, or 5 (2d4) if the bar brawl has half its hit points or fewer.
+
+

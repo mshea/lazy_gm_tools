@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (10d10+50)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 344
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Gold and Ice (1/Day):** The sleipnir summons a gilded avalanche in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw. On a failure, a creature takes 13 (3d8) bludgeoning and 13 (3d8) cold damage, is pushed 15 feet away from the sleipnir, and is knocked prone. On a success, a creature takes half the damage and isn't pushed or knocked prone.
 ### Reactions
 - **Eight Hooves (3/Day):** When a creature moves within 5 feet of the sleipnir, the sleipnir can move up to its speed without provoking opportunity attacks.
+
+

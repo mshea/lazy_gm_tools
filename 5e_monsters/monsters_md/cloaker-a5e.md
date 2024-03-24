@@ -6,13 +6,14 @@
 - **Hit Points:** 97 (13d10+26)
 - **Speed:** walk 10 ft. fly 50 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 50
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 14 (+2) | 12 (+1) | 12 (+1) | 12 (+1) |
 
 - **Saving Throws**: Wis +4
+- **Skills:** stealth +6
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 11
@@ -28,3 +29,5 @@
 ### Reactions
 - **Reactive Tail:** When hit or missed with a melee attack, the cloaker makes a tail attack against the attacker.
 - **Angry Moan:** When the cloaker takes damage, it uses Moan.
+
+

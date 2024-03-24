@@ -6,12 +6,13 @@
 - **Hit Points:** 55 (10d8+10)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 492
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Skills:** perception +2
 - **Senses:** passive Perception 12
 - **Languages:** any one
 ### Special Abilities
@@ -21,3 +22,5 @@
 ### Actions
 - **Spears:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 feet  one target. Hit: 17 (5d6) piercing damage  or half damage if the squad is bloodied.
 - **Guard squads patrol city streets and accompany caravans along trade routes:** 
+
+

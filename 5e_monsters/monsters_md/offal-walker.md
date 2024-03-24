@@ -6,7 +6,7 @@
 - **Hit Points:** 37 (5d8+15)
 - **Speed:** walk 25 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 296
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Lasso:** Melee Weapon Attack: +3 to hit, 30 ft., one target, 3 (1d4+1) bludgeoning damage and the target is grappled (escape DC 13). Until this grapple ends the target is restrained and the offal walker can’t use the same gut lasso on another target.
 - **Slam:** Melee Weapon Attack: +3 reach 5 ft. one target 8 (2d6+1) bludgeoning damage.
 - **Reel:** Pulls one creature grappled by it up to 25 ft. straight toward it.
+
+

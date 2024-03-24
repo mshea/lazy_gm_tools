@@ -6,7 +6,7 @@
 - **Hit Points:** 152 (16d12+48)
 - **Speed:** walk 30 ft. burrow 30 ft. swim 60 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 154
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 ### Bonus Actions
 - **Reef Stealth:** If it is within 10 ft. of a coral reef it can take the Hide action.
 - **Siege Follow-Through:** If it destroys an object or structure it can make a bite attack vs. a creature it can see within 5 ft. of that object or structure.
+
+

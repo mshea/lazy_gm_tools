@@ -6,7 +6,7 @@
 - **Hit Points:** 54 (12d4+24)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 68
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Domestic Magic:** Wis no material components: At will: mending and prestidigitation
 - **Invisibility:** Magically turns invisible until it attacks uses Domestic Magic or Beasts of the Forest or until its concentration ends (as if concentrating on a spell). Any equipment it wears or carries is invisible with it.
 - **Beasts of the Forest (1/Day):** Magically calls 2d4 hawks or ravens or it calls 1 black bear or wolf. Called creatures arrive in 1d4 rounds acting as allies of brownie and obeying its spoken commands. The Beasts remain for 1 hr until brownie dies or until brownie dismisses them as a bonus action.
+
+

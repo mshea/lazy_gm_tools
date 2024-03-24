@@ -6,7 +6,7 @@
 - **Hit Points:** 407 (22d20+176)
 - **Speed:** fly 80 ft. walk 40 ft.
 - **Challenge Rating:** 21 (33,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 37
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,11 @@
 - **Languages:** all
 ### Special Abilities
 - **Aura of Necromancy's Bane:** Necromancy spells can't be cast within 120 feet of the ankou. When an undead creature starts its turn within 30 feet of the ankou, it must make a DC 22 Constitution saving throw, taking 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one.
-- **Cloak of Ghostly Shadows:** As a bonus action while in dim light or darkness, the ankou becomes invisible. While invisible, the ankou has advantage on Dexterity (Stealth) checks and gains the following: Resistance to acid, cold, fire, lighting, thunder; bludgeoning, piercing and slashing damage from nonmagical attacks. Immunity to the grappled, paralyzed, petrified, prone, and restrained conditions The ankou can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. The cloak of ghostly shadows ends when the ankou chooses to end it as a bonus action, when the ankou dies, or if the ankou ends its turn in bright light.
+- **Cloak of Ghostly Shadows:** As a bonus action while in dim light or darkness, the ankou becomes invisible. While invisible, the ankou has advantage on Dexterity (Stealth) checks and gains the following:
+Resistance to acid, cold, fire, lighting, thunder; bludgeoning, piercing and slashing damage from nonmagical attacks.
+Immunity to the grappled, paralyzed, petrified, prone, and restrained conditions
+The ankou can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+The cloak of ghostly shadows ends when the ankou chooses to end it as a bonus action, when the ankou dies, or if the ankou ends its turn in bright light.
 - **Death's Apotheosis:** The ankou has the celestial type in addition to the dragon type and its weapon attacks are magical.
 - **Legendary Resistance (3/Day):** If the ankou fails a saving throw, it can choose to succeed instead.
 ### Actions

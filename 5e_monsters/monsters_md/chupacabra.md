@@ -6,7 +6,7 @@
 - **Hit Points:** 36 (8d6+8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 63
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Fearful Gaze:** The chupacabra fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 11 Wisdom saving throw or be paralyzed for 1 minute. A paralyzed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the chupacabra's Fearful Gaze for the next 24 hours.
 ### Reactions
 - **Malodorous Stench:** When the chupacabra is reduced to less than half of its maximum hp, it releases a foul, sulphurous stench. Each creature within 5 feet of the chupacabra must succeed on a DC 11 Constitution saving throw or be poisoned until the end of its next turn.
+
+

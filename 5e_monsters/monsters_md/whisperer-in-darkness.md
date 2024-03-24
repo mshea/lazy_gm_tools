@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d8+75)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 378
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,12 @@
 ### Special Abilities
 - **Disquieting Technology:** The whisperer is a highly advanced being that often carries pieces of powerful wands of fireballs shaped like staves with peculiar triggers, eyes of the eagle shaped as a pair of cylinders, or a helm of telepathy in the form of a glowing metal disc adhered to the side of the creature's head.
 - **Magic Resistance:** The whisperer has advantage on saving throws against spells and other magical effects.
-- **Innate Spellcasting:** The whisperer's innate spellcasting ability is Intelligence (spell save DC 20). The whisperer can innately cast the following spells, requiring no material components: At will: alter self, detect magic, detect thoughts, disguise self, fear, identify, invisibility (self only), misty step, sleep, suggestion 3/day each: confusion, dimension door, disintegrate, dream, modify memory, plane shift, teleport 1/day each: feeblemind, meteor swarm, mind blank, weird
+- **Innate Spellcasting:** The whisperer's innate spellcasting ability is Intelligence (spell save DC 20). The whisperer can innately cast the following spells, requiring no material components:
+At will: alter self, detect magic, detect thoughts, disguise self, fear, identify, invisibility (self only), misty step, sleep, suggestion
+3/day each: confusion, dimension door, disintegrate, dream, modify memory, plane shift, teleport
+1/day each: feeblemind, meteor swarm, mind blank, weird
 ### Actions
 - **Multiattack:** The whisperer in the darkness makes two Grasp of the Void attacks.
 - **Grasp of the Void:** Melee Spell Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (6d6) force damage, and the target must succeed on a DC 18 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+

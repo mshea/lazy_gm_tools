@@ -6,7 +6,7 @@
 - **Hit Points:** 93 (11d8+44)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 174
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Frightening Gaze:** Fixes its gaze on one creature it can see within 60' of it. Target frightened 1 min (DC 15 Wis negates). Creature can re-save at end of each of its turns success ends effect on itself. If save succeeds or effect ends for it creature immune to faux-garou’s Frightening Gaze for the next 24 hrs.
 ### Bonus Actions
 - **Change Shape:** Transforms into Large or smaller Beast matching type of lycanthrope it resembles (wolf if it resembles a werewolf etc.) or back into its true form. Its stats other than size and speed are same in each form. While transformed retains constructed appearance and claws at end of its forelimbs. Items worn or carried not transformed. Reverts to true form if it dies.
+
+

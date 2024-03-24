@@ -6,13 +6,14 @@
 - **Hit Points:** 252 (24d12+96)
 - **Speed:** walk 60 ft. fly 80 ft. swim 90 ft.
 - **Challenge Rating:** 17 (18,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 132
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 20 (+5) | 18 (+4) | 14 (+2) | 20 (+5) | 16 (+3) |
 
 - **Saving Throws**: Dex +9, Con +8, Int +6, Wis +9, Cha +7
+- **Skills:** acrobatics +8, deception +7, insight +9, nature +6, perception +9, stealth +9
 - **Damage Resistances:** damage from nonmagical weapons
 - **Condition Immunities:** fatigue
 - **Senses:** darkvision 120 ft., tremorsense 200 ft. (only detects vibrations in water), passive Perception 19
@@ -33,7 +34,6 @@
 - **Whirlpool:** A cylindrical, 15-foot-tall, 10-foot-radius whirlpool or waterspout magically appears in the water or air, centered on a point within 60 feet. Creatures in the area make a DC 18 Strength saving throw. On a failure, a creature takes 17 (5d6) bludgeoning damage and is knocked prone and pushed up to 15 feet. On a failure, a creature takes half damage.
 ### Reactions
 - **Snap Back (While Bloodied):** When a creature the dragon can see hits it with a melee weapon attack, the dragon makes a bite attack against the attacker.
-- **Whirlpool:** A cylindrical, 15-foot-tall, 10-foot-radius whirlpool or waterspout magically appears in the water or air, centered on a point within 60 feet. Creatures in the area make a DC 18 Strength saving throw. On a failure, a creature takes 17 (5d6) bludgeoning damage and is knocked prone and pushed up to 15 feet. On a failure, a creature takes half damage.
 
 
 ### Legendary Actions

@@ -6,7 +6,7 @@
 - **Hit Points:** 65 (10d8+20)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 352
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -20,3 +20,5 @@
 - **Passing Bite:** Terror birds who move at least 20 feet straight toward a target have advantage on the next attack roll against that target.
 ### Actions
 - **Serrated Beak:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) slashing damage. The target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) slashing damage at the beginning of its next turn.
+
+

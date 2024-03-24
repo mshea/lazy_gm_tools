@@ -6,13 +6,14 @@
 - **Hit Points:** 262 (25d8+150)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 19 (22,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 184
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 16 (+3) | 22 (+6) | 14 (+2) | 18 (+4) | 20 (+5) |
 
 - **Saving Throws**: Dex +9, Con +12, Int +8, Wis +10, Cha +11
+- **Skills:** history +8, intimidation +11, perception +10
 - **Damage Immunities:** cold, fire, necrotic, poison
 - **Condition Immunities:** charmed, fatigue, frightened, poisoned, stunned
 - **Senses:** truesight 60 ft., passive Perception 20
@@ -30,3 +31,5 @@
 ### Bonus Actions
 - **Cursed Greatsword:** The dread knight makes a cursed greatsword attack.
 - **Break Magic:** The dread knight ends all spell effects created by a 5th-level or lower spell slot on a creature, object, or point within 30 feet.
+
+

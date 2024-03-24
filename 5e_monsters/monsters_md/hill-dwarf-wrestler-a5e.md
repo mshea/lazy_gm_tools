@@ -6,13 +6,14 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 495
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 16 (+3) | 10 (+0) | 14 (+2) | 10 (+0) |
 
 - **Saving Throws**: Str +5, Dex +4
+- **Skills:** athletics +5, intimidation +2
 - **Senses:** passive Perception 12
 - **Languages:** any one
 ### Special Abilities
@@ -29,5 +30,5 @@
 ### Reactions
 - **Opportune Jab:** If a creature attempts to grapple the pugilist, the pugilist attacks that creature with their fists.
 - **The hill dwarven sport of wrestling has grown wildly popular:** 
-- **Haymaker (1/Day):** The pugilist attacks with their fists. On a hit, the attack deals an extra 7 (2d6) damage.
-- **Head Shot (1/Day):** The pugilist attacks with their fists. On a hit, the target makes a DC 13 Constitution saving throw. On a failure, it is stunned until the end of the pugilists next turn.
+
+

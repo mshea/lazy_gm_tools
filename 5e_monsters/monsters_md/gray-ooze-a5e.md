@@ -6,12 +6,13 @@
 - **Hit Points:** 22 (3d8+9)
 - **Speed:** walk 15 ft. climb 15 ft. swim 15 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 352
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Resistances:** acid, cold, fire
 - **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
@@ -24,3 +25,5 @@
 - **Ooze Nature:** An ooze doesnt require air or sleep.
 ### Actions
 - **Pseudopod:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 5 (2d4) acid damage. Nonmagical metal armor worn by the target corrodes  taking a permanent -1 penalty to its AC protection per hit. If the penalty reduces the armors AC protection to 10  the armor is destroyed.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 66 (12d8+12)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 176
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 11 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Vomit Tar (Recharge 5-6):** The tar ghoul vomits tar, covering the ground in a 10-foot square within 5 feet of it. Each creature in the area must succeed on a DC 13 Dexterity saving throw or be covered with tar. The tar ignites if touched by a source of fire or if a creature covered with tar takes fire damage. The tar burns for 3 (1d6) rounds or until a creature takes an action to stop the blaze. A creature that starts its turn in the area or that starts its turn covered with burning tar takes 5 (1d10) fire damage.
+
+

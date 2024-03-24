@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 216
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Preserve Creature:** Preserves up to Med creature grappled by it: can’t breathe restrained as it freezes. Restrained creature: DC 16 Con save at its next turn end. Fail: 18 (4d8) cold is petrified in Ice Cavity total cover from attacks/effects outside. If this damage reduces it to 0 hp creature automatically stable. Petrified creature removed from Cavity thaws ending petrification in 1d4 rounds or immediately after taking fire damage. Success: half damage and ejected landing prone in unoccupied space within 5 ft. of golem. If golem moves preserved creature moves with it. GCan have only one creature preserved at a time. Can’t use Preserve Creature if Ice Cavity is frozen.
 ### Reactions
 - **Freeze or Liquefy Cavity:** Freezes/liquefies its Ice Cavity.
+
+

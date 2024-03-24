@@ -6,13 +6,14 @@
 - **Hit Points:** 429 (26d20+156)
 - **Speed:** walk 40 ft. burrow 40 ft. fly 80 ft.
 - **Challenge Rating:** 25 (75,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 149
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 24 (+7) | 24 (+7) | 22 (+6) | 26 (+8) | 24 (+7) | 20 (+5) |
 
 - **Saving Throws**: Con +13, Int +15, Wis +14, Cha +12
+- **Skills:** arcana +15, deception +12, history +15, insight +14, perception +14, persuasion +12
 - **Damage Immunities:** psychic
 - **Condition Immunities:** fatigue
 - **Senses:** darkvision 120 ft., passive Perception 27

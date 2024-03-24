@@ -6,7 +6,7 @@
 - **Hit Points:** 37 (5d10+10)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 230
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 ### Actions
 - **Slam:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 7 (2d4+2) bludgeoning damage.
 - **Harvester’s Stampede (Recharge 5–6):** Moves up to its speed in a straight line and can move through the space of any Large or smaller creature. The first time the harvest horse enters a creature’s space during this move that creature must make a DC 12 Dex save. On a failure it takes 7 (2d6) slashing damage and is knocked prone. On a success it takes half damage and isn’t knocked prone. When the harvest horse moves in this way it doesn’t provoke opportunity attacks.
+
+

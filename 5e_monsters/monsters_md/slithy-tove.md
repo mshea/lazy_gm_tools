@@ -6,7 +6,7 @@
 - **Hit Points:** 91 (14d6+42)
 - **Speed:** walk 40 ft. burrow 10 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 347
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Musk of Clumsiness (Recharge 5–6):** Discharges musk in 30' cone. Each creature in area: 10 (3d6) poison and poisoned 1 min (DC 13 Con half damage and isn’t poisoned). When poisoned creature moves 5 ft.+ on its turn it must make DC 13 Dex save or fall prone stepping in a hole hitting its head on a branch tripping over a rock bumping into an ally or some other clumsy act. Poisoned creature can re-save at end of each of its turns success ends effect on itself.
 ### Bonus Actions
 - **Hidden Step:** Magically teleports along with any equipment it is wearing or carrying up to 30' to an unoccupied space it can see and takes the Hide action.
+
+

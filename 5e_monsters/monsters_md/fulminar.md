@@ -6,7 +6,7 @@
 - **Hit Points:** 112 (15d10+30)
 - **Speed:** fly 90 ft. hover True ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 165
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage and 7 (2d6) lightning damage and the target can't take reactions until the end of the fulminar's next turn.
 - **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage and 7 (2d6) lightning damage.
 - **Lightning Shackles (Recharge 5-6):** The fulminar magically creates three sets of shackles of lightning, each of which can strike a creature the fulminar can see within 60 feet of it. A target must make a DC 16 Dexterity saving throw. On a failure, the target takes 18 (4d8) lightning damage and is restrained for 1 minute. On a success, the target takes half the damage but isn't restrained. A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+

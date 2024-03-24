@@ -6,7 +6,7 @@
 - **Hit Points:** 68 (8d10+24)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 400
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Slam:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 11 (2d6+4) bludgeoning damage + 9 (2d8) fire.
 - **Smoke Breath (Recharge 5–6):** The zombie breathes a cloud of smoke in a 15 ft. cone. Each creature in the area: 9 (2d8) fire and 7 (2d6) poison (DC 15 Con half). Smoke remains until the start of the zombie’s next turn and its area is heavily obscured.
+
+

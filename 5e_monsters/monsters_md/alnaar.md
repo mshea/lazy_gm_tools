@@ -6,7 +6,7 @@
 - **Hit Points:** 212 (25d10+75)
 - **Speed:** burrow 20 ft. fly 40 ft. walk 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 82
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Flare (Recharge Special):** The alnaar becomes super-heated, expelling momentous energy outwards in a 20-foot radius blast around it. Each creature caught in the blast must make a DC 17 Dexterity saving throw. On a failed save, a creature takes 22 (4d10) fire damage and 22 (4d10) force damage and is knocked prone. On a success, a creature takes half the fire and force damage but isn't knocked prone. The fire ignites flammable objects that aren't being worn or carried. After using Flare, the alnaar is starving. It can't use Flare if it is starving.
 ### Reactions
 - **On the Hunt:** When a creature the alnaar can see moves, the alnaar can move up to 20 feet toward the moving creature. If the alnaar moves within 10 feet of that creature, it can make one fiery fangs attack against the creature.
+
+

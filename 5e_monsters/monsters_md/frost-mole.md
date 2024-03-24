@@ -6,7 +6,7 @@
 - **Hit Points:** 71 (11d6+33)
 - **Speed:** burrow 30 ft. walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 390
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Snow Pit:** If the frost mole moves at least 20 feet straight toward a creature, it can dig a 5-foot-diameter, 20-foot-deep pit beneath the creature. If the target is Medium or smaller, it must succeed on a DC 13 Dexterity saving throw or fall into the pit and land prone, taking falling damage as normal. If the target is Large or larger, it must succeed on a DC 13 Dexterity saving throw or be restrained. If the target is prone or restrained, the mole can make one claw attack against it as a bonus action.
 ### Actions
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage.
+
+

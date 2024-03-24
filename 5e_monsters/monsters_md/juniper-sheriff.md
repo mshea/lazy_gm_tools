@@ -6,7 +6,7 @@
 - **Hit Points:** 31 (7d6+7)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 248
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Bitter Truth:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 8 (2d4+3) psychic and target: disad- vantage on next save vs. sheriff’s Aura of Honesty for next 1 min.
 ### Bonus Actions
 - **Hop Away:** Takes the Dash or Disengage action.
+
+

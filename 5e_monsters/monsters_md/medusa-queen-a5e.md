@@ -6,12 +6,13 @@
 - **Hit Points:** 153 (18d10+54)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 323
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 18 (+4) | 16 (+3) | 12 (+1) | 14 (+2) | 14 (+2) |
 
+- **Skills:** deception +5, insight +5, perception +5, stealth +7
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common
 ### Special Abilities

@@ -6,13 +6,14 @@
 - **Hit Points:** 85 (10d8+40)
 - **Speed:** walk 30 ft. fly 90 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 56
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 18 (+4) | 20 (+5) | 18 (+4) |
 
 - **Saving Throws**: Con +6, Wis +7, Cha +6
+- **Skills:** perception +7, persuasion +6, religion +7
 - **Damage Resistances:** psychic, radiant; damage from nonmagical weapons
 - **Senses:** truesight 120 ft., passive Perception 17
 - **Languages:** all, telepathy 120 ft.
@@ -25,3 +26,5 @@
 - **Shapeshift:** The couatl magically changes its form to resemble that of a humanoid or beast  or back into its true form. It reverts to its true form if it dies. If its form is humanoid  it is equipped with clothing and a weapon. While shapeshifted  its statistics are the same except that it can't use Constrict and Shielding Wing and it may gain a swim speed of 60 or lose its fly speed if appropriate to its new form. If its a beast  it can use its bite attack. If its a humanoid  it may make a weapon attack  which functions identically to its bite attack.
 ### Reactions
 - **Shielding Wing:** When the couatl or a creature within 5 feet is attacked, the couatl can interpose a wing and impose disadvantage on the attack.
+
+

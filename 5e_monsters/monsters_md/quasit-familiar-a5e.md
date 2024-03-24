@@ -6,12 +6,13 @@
 - **Hit Points:** 14 (4d4+4)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 74
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 5 (-3) | 16 (+3) | 12 (+1) | 10 (+0) | 12 (+1) | 12 (+1) |
 
+- **Skills:** stealth +5
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned
@@ -27,3 +28,5 @@
 - **Shapeshift:** The quasit magically changes its form into a bat (speed 10 ft.  fly 40 ft.)  centipede (40 ft.  climb 40 ft.)  or toad (40 ft.  swim 40 ft.)  or back into its true form. Its statistics are the same in each form except for its movement speeds. Equipment it is carrying is not transformed. It reverts to its true form if it dies.
 ### Bonus Actions
 - **Invisibility:** The quasit magically turns invisible, along with any equipment it carries. This invisibility ends if the quasit makes an attack, falls unconscious, or dismisses the effect.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 67 (9d8+27)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 383
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 18 (+4) | 16 (+3) | 12 (+1) | 14 (+2) | 16 (+3) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
@@ -27,3 +28,5 @@
 - **Fire Breath (Recharge 4-6):** The scarecrow exhales fire in a 30-foot cone. Each creature in the area makes a DC 13 Dexterity saving throw  taking 14 (4d6) fire damage on a failed save or half damage on a success.
 - **Pumpkin Head (1/Day):** The scarecrow throws its head up to 60 feet. Each creature within 20 feet of the head makes a DC 13 Dexterity saving throw  taking 21 (6d6) fire damage on a failed save or half damage on a success. After using this action  the scarecrow no longer has a head. It can still use its senses but can no longer use Fire Breath. It can create a new head when it finishes a long rest.
 - **Invisibility (1/Day):** The scarecrow  along with any mount it is riding  is invisible for 1 hour or until it attacks or uses Scare  Fire Breath  or Pumpkin Head.
+
+

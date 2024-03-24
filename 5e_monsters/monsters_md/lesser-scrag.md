@@ -6,12 +6,13 @@
 - **Hit Points:** 45 (7d8+14)
 - **Speed:** swim 40 ft. walk 10 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 200
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 15 (+2) | 8 (-1) | 10 (+0) | 9 (-1) |
 
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Abyssal, Aquan
 ### Special Abilities
@@ -21,3 +22,5 @@
 - **Multiattack:** The lesser scrag makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4)
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4)
+
+

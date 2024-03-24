@@ -6,7 +6,7 @@
 - **Hit Points:** 112 (15d8+45)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 148
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Multiattack:** The shadow fey poisoner makes two shortsword attacks or two longbow attacks.
 - **Shortsword:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 28 (8d6) poison damage on a failed save, or half as much damage on a successful one.
 - **Longbow:** Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 28 (8d6) poison damage on a failed save, or half as much damage on a successful one.
+
+

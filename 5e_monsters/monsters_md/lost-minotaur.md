@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 169
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Multiattack:** The minotaur makes two twilight greataxe attacks.
 - **Twilight Greataxe:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) slashing damage and 9 (2d8) necrotic damage.
 - **Gore:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
+
+

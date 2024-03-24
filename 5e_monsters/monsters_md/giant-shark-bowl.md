@@ -6,12 +6,13 @@
 - **Hit Points:** 172 (15d12+75)
 - **Speed:** swim 20 ft. walk 20 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 284
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 23 (+6) | 3 (-4) | 20 (+5) | 1 (-5) | 10 (+0) | 5 (-3) |
 
+- **Skills:** 
 - **Damage Immunities:** lightning
 - **Damage Resistances:** acid, fire, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
@@ -27,10 +28,6 @@
 - **Multiattack:** The giant shark bowl makes two attacks: one with its bite and one with its pseudopod.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.
 - **Pseudopod:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage.
-- **Engulf:** The giant shark bowl moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the bowl enters a creature's space, the creature must make a DC 16 Dexterity saving throw. 
+- **Engulf:** The giant shark bowl moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the bowl enters a creature's space, the creature must make a DC 16 Dexterity saving throw. <br><br>On a successful save, the creature can choose to be pushed 5 feet back or to the side of the bowl. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. <br><br>On a failed save, the bowl enters the creature's space, and the creature takes 22 (3d10 + 6) piercing damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 22 (3d10 + 6) piercing damage at the start of each of the bowl's turns. When the bowl moves, the engulfed creature moves with it. <br><br>An engulfed creature can try to escape by taking an action to make a DC 15 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the bowl.
 
-On a successful save, the creature can choose to be pushed 5 feet back or to the side of the bowl. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. 
 
-On a failed save, the bowl enters the creature's space, and the creature takes 22 (3d10 + 6) piercing damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 22 (3d10 + 6) piercing damage at the start of each of the bowl's turns. When the bowl moves, the engulfed creature moves with it. 
-
-An engulfed creature can try to escape by taking an action to make a DC 15 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the bowl.

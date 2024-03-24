@@ -6,13 +6,14 @@
 - **Hit Points:** 168 (16d10+80)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 83
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 16 (+3) | 20 (+5) | 12 (+1) | 16 (+3) | 16 (+3) |
 
 - **Saving Throws**: Str +9, Dex +7, Wis +7, Cha +7
+- **Skills:** athletics +9, intimidation +7
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; damage from nonmagical, non-silvered weapons
 - **Condition Immunities:** poisoned
@@ -30,3 +31,5 @@
 - **Inferno (1/Day, While Bloodied):** The devil waves its fork  igniting a trail of roaring flame. Any creature within 10 feet of the devil makes a DC 15 Dexterity saving throw  taking 49 (14d6) fire damage on a failure or half damage on a success.
 ### Reactions
 - **Pin (1/Day):** When a creature misses the devil with a melee attack, the devil makes a fork attack against that creature. On a hit, the target is impaled by the fork and grappled (escape DC 17). Until this grapple ends, the devil can't make fork attacks or use Inferno, but the target takes 7 (2d6) piercing damage plus 3 (1d6) fire damage at the beginning of each of its turns.
+
+

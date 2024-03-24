@@ -6,12 +6,13 @@
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** walk 30 ft. fly 30 ft. burrow 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 128
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 14 (+2) | 12 (+1) | 14 (+2) | 10 (+0) |
 
+- **Skills:** athletics +4, insight +4, nature +3, perception +4
 - **Damage Resistances:** damage from nonmagical weapons
 - **Condition Immunities:** petrified
 - **Senses:** darkvision 120 ft., tremorsense 30 ft., passive Perception 14
@@ -23,3 +24,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Scouring Breath (Recharge 5-6):** The dragon breathes scouring sand and stones in a 15-foot cone. Each creature in that area makes a DC 12 Dexterity saving throw  taking 10 (3d6) slashing damage on a failed save or half damage on a success.
+
+

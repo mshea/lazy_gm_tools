@@ -6,7 +6,7 @@
 - **Hit Points:** 7 (2d6)
 - **Speed:** fly 30 ft. walk 25 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 178
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -20,3 +20,5 @@
 ### Actions
 - **Proboscis:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Powdery Wings (1/Day):** A 10-foot radius cloud of fine powder disperses from the giant moth. Each creature in that area must succeed on a DC 10 Constitution saving throw or be blinded until the end of its next turn.
+
+

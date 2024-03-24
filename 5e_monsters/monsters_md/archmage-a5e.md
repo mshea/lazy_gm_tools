@@ -6,13 +6,14 @@
 - **Hit Points:** 117 (18d8+36)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 480
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 14 (+2) | 14 (+2) | 20 (+5) | 16 (+3) | 14 (+2) |
 
 - **Saving Throws**: Int +9, Wis +7
+- **Skills:** arcana +9, insight +7, history +9, perception +7
 - **Damage Immunities:** psychic (with mind blank)
 - **Condition Immunities:** charmed (with mind blank)
 - **Senses:** passive Perception 17
@@ -20,7 +21,34 @@
 ### Special Abilities
 - **Foresight:** When the foresight spell is active, the archmage can't be surprised and has advantage on ability checks, attack rolls, and saving throws. In addition, other creatures have disadvantage on attack rolls against the archmage.
 - **Mind Blank:** When the mind blank spell is active, the archmage is immune to psychic damage, any effect that would read their emotions or thoughts, divination spells, and the charmed condition.
-- **Spellcasting:** The archmage is an 18th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 17  +9 to hit with spell attacks). The archmage can cast shield at level 1 and alter self at level 2 without expending a spell slot. They have the following wizard spells prepared:  Cantrips (at will): fire bolt  light  mage hand  message  prestidigitation  1st-level (4 slots): detect magic  identify  mage armor  shield  2nd-level (4 slots): alter self  detect thoughts  suggestion  3rd-level (3 slots): counterspell  lightning bolt  sending  4th-level (3 slots): confusion  hallucinatory terrain  locate creature  5th-level (3 slots): cone of cold  mislead  scrying  6th-level (1 slot): globe of invulnerability  true seeing  7th-level (1 slot): teleport  8th-level (1 slot): mind blank  9th-level (1 slot): foresight
+- **Spellcasting:** The archmage is an 18th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 17
+ +9 to hit with spell attacks). The archmage can cast shield at level 1 and alter self at level 2 without expending a spell slot. They have the following wizard spells prepared:
+ Cantrips (at will): fire bolt
+ light
+ mage hand
+ message
+ prestidigitation
+ 1st-level (4 slots): detect magic
+ identify
+ mage armor
+ shield
+ 2nd-level (4 slots): alter self
+ detect thoughts
+ suggestion
+ 3rd-level (3 slots): counterspell
+ lightning bolt
+ sending
+ 4th-level (3 slots): confusion
+ hallucinatory terrain
+ locate creature
+ 5th-level (3 slots): cone of cold
+ mislead
+ scrying
+ 6th-level (1 slot): globe of invulnerability
+ true seeing
+ 7th-level (1 slot): teleport
+ 8th-level (1 slot): mind blank
+ 9th-level (1 slot): foresight
 ### Actions
 - **Dagger:** Melee or Ranged Weapon Attack: +6 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +9 to hit  range 120 ft.  one target. Hit: 22 (4d10) fire damage.
@@ -33,3 +61,5 @@
 ### Reactions
 - **Counterspell (3rd-Level; S):** When a creature the archmage can see within 60 feet casts a spell, the archmage attempts to interrupt it. If the creature is casting a 2nd-level spell or lower, the spell fails. If the creature is casting a 3rd-level or higher spell, the archmage makes an Intelligence check against a DC of 10 + the spells level. On a success, the spell fails, and the spellcasting creature can use its reaction to try to cast a second spell with the same casting time so long as it uses a spell slot level equal to or less than half the original spell slot. If the archmage casts counterspell with a higher spell slot, the interrupted spell fails if its level is less than that of counterspell.
 - **Shield (1st-Level; V:** When the archmage is hit by an attack or targeted by magic missile, they gain a +5 bonus to AC (including against the triggering attack) and immunity to magic missile. These benefits last until the start of their next turn.
+
+

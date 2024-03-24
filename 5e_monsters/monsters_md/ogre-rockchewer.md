@@ -6,7 +6,7 @@
 - **Hit Points:** 126 (12d12+48)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 302
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Quick Chew (Recharge 6):** Uses Chew Rock.
 ### Reactions
 - **Rock Catching:** If a rock or similar object is hurled at the rockchewer ogre the ogre can with successful DC 10 Dex save catch the missile and take no bludgeoning from it.
+
+

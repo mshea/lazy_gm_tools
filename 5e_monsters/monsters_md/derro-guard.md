@@ -6,7 +6,7 @@
 - **Hit Points:** 18 (4d6+4)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 97
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 ### Actions
 - **Aklys:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 10/30 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Light Crossbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+
+

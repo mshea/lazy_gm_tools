@@ -6,12 +6,13 @@
 - **Hit Points:** 7 (2d4+2)
 - **Speed:** fly 30 ft. walk 20 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 176
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 16 (+3) | 12 (+1) | 3 (-4) | 7 (-2) | 3 (-4) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine
@@ -25,3 +26,5 @@
 - **Magic Weapons:** The paper golem's weapon attacks are magical.
 ### Actions
 - **Paper Cut:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+
+

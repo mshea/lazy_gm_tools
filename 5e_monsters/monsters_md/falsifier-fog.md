@@ -6,12 +6,13 @@
 - **Hit Points:** 52 (8d12)
 - **Speed:** hover True ft. walk 0 ft. fly 60 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 140
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 1 (-5) | 17 (+3) | 10 (+0) | 14 (+2) | 16 (+3) | 15 (+2) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** acid, cold, fire, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
@@ -26,3 +27,5 @@
 - **Multiattack:** The falsifier fog makes two chill attacks.
 - **Chill:** Melee Spell Attack: +5 to hit, reach 5 ft., one target in the fog’s space. Hit: 10 (3d6) cold damage.
 - **Reaching Phantasms (Recharge 5-6):** The phantasmal images within the falsifier fog reach outward. Each creature within 10 feet of the fog must make a DC 13 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save, or half as much damage on a successful one. Creatures in the fog’s space have disadvantage on the saving throw.
+
+

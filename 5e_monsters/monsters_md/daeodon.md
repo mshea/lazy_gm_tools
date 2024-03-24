@@ -6,7 +6,7 @@
 - **Hit Points:** 76 (9d10+27)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 103
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 14 (2d8+5) piercing damage and the target is grappled (escape DC 13). Until this grapple ends the target is restrained and the daeodon can’t Bite another target.
 - **Slam:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 10 (2d4+5) bludgeoning damage.
 - **Fierce Call (Recharge: Short/Long Rest):** Lets out a loud fearsome call. Each hostile creature within 60' of the daeodon must make DC 13 Wis save or drop whatever it is holding and become frightened for 1 min. While frightened a creature must take the Dash action and move away from the daeodon by the safest available route on each of its turns unless there is nowhere to move. A frightened creature can re-save at end of each of its turns success ends effect on itself.
+
+

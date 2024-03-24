@@ -6,13 +6,14 @@
 - **Hit Points:** 97 (15d8+30)
 - **Speed:** walk 35 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 468
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 12 (+1) | 12 (+1) |
 
 - **Saving Throws**: Dex +6, Int +4, Wis +4
+- **Skills:** acrobatics +6, deception +4, perception +4, stealth +6
 - **Senses:** blindsight 10 ft., darkvision 30 ft., passive Perception 14
 - **Languages:** any two
 ### Special Abilities
@@ -29,3 +30,5 @@
 - **Don Disguise:** The spymaster uses a disguise kit, making a Deception check to create the disguise. While the spymaster is wearing a disguise, their true identity can't be determined even if the disguise fails.
 - **Study Adversary:** The spymaster studies the defenses of a creature engaged in combat. The spymaster gains advantage on all attacks and contested ability checks against that creature for 24 hours or until they study a different creature.
 - **Dashing secret agents:** 
+
+

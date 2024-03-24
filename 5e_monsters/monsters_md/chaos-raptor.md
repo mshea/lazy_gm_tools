@@ -6,7 +6,7 @@
 - **Hit Points:** 248 (16d20+80)
 - **Speed:** walk 20 ft. burrow 80 ft. fly 120 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 81
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Multiattack:** One Beak attack and one Talons attack.
 - **Beak:** Melee Weapon Attack: +14 to hit, 10 ft., one target, 27 (4d8+9) piercing damage.
 - **Talons:** Melee Weapon Attack: +14 to hit, 5 ft., one target, 23 (4d6+9) slashing damage and target is grappled (escape DC 18). Until this grapple ends target is restrained and raptor can’t use its talons on another target.
+
+

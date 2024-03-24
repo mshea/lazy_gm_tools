@@ -6,7 +6,7 @@
 - **Hit Points:** 126 (12d10+60)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 374
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 14 (2d8+5) piercing damage + 7 (2d6) poison. Target: DC 15 Con save or poisoned 1 min. While poisoned this way target can’t regain hp. Target can re-save at end of each of its turns success ends effect on itself.
 - **Claw:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 12 (2d6+5) slashing damage.
 - **Venom Spray (Recharge 5–6):** Sprays its venom in a 30' cone. Each creature in that area: 28 (8d6) poison and is poisoned for 1 min (DC 15 Con half damage and isn’t poisoned). While poisoned in this way a creature can’t regain hp. A poisoned creature can re-save at end of each of its turns success ends effect on itself.
+
+

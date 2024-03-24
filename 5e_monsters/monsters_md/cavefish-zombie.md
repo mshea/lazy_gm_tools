@@ -6,13 +6,14 @@
 - **Hit Points:** 37 (5d8+15)
 - **Speed:** swim 40 ft. walk 20 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 384
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 10 (+0) | 16 (+3) | 3 (-4) | 6 (-2) | 3 (-4) |
 
 - **Saving Throws**: Wis +0
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 8
@@ -22,3 +23,5 @@
 - **Undead Fortitude:** If damage reduces the cavefish zombie to 0 hp, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hp instead.
 ### Actions
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d10+28)
 - **Speed:** fly 90 ft. hover True ft. walk 0 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 28
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Multiattack:** The ash phoenix makes two ash talon attacks. If both attacks hit the same target, the phoenix plunges its beak into the target, and the target must succeed on a DC 16 Strength saving throw or take 7 (2d6) necrotic damage. The ash phoenix regains hp equal to half the necrotic damage dealt.
 - **Ash Talons:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage plus 7 (2d6) fire damage.
 - **Ash Storm (Recharge 5-6):** The ash phoenix furiously beats its wings, throwing clinging ash into a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw. On a failure, a creature takes 28 (8d6) necrotic damage and is blinded until the end of its next turn. On a success, a creature takes half the damage and isn’t blinded.
+
+

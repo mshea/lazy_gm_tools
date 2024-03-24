@@ -6,12 +6,13 @@
 - **Hit Points:** 31 (7d8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 382
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 14 (+2) | 10 (+0) | 6 (-2) | 10 (+0) | 14 (+2) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
@@ -27,3 +28,5 @@
 - **Slam:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 - **Scare:** Each creature of the scarecrows choice within 30 feet that can see the scarecrow makes a DC 12 Wisdom saving throw. On a failure  it is magically frightened for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success. If a creatures saving throw is successful or the effect ends for it  it is immune to Scare for 24 hours.
 - **Hat of Illusion (1/Day):** While wearing a hat or other head covering  the scarecrow takes on the illusory appearance of the last living humanoid to wear that hat. It requires a DC 12 Insight or Perception check to recognize the illusion. The illusion ends when the scarecrow is touched  takes damage  attacks  or uses Scare  or when the scarecrow chooses to end it as a bonus action.
+
+

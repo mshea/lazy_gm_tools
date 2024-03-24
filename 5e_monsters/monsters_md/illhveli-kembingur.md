@@ -6,7 +6,7 @@
 - **Hit Points:** 210 (12d20+84)
 - **Speed:** swim 60 ft. walk 5 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 211
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,6 +27,6 @@
 - **Multiattack:** The kembingur makes one bite attack and one tail attack.
 - **Bite:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 29 (6d6 + 8) piercing damage.
 - **Tail:** Melee Weapon Attack: +12 to hit, reach 20 ft., one target. Hit: 26 (4d8 + 8) bludgeoning damage.
-- **Churn Water (Recharge 4-6):** The kembingur thrashes violently. Each creature within 20 feet of the kembingur must make a DC 17 Dexterity saving throw, taking 36 (8d8) bludgeoning damage on a failed save, or half as much damage on a successful one.
+- **Churn Water (Recharge 4-6):** The kembingur thrashes violently. Each creature within 20 feet of the kembingur must make a DC 17 Dexterity saving throw, taking 36 (8d8) bludgeoning damage on a failed save, or half as much damage on a successful one.<br><br>The water within 60 feet of the kembingur becomes difficult terrain for 1 minute. Each creature that starts its turn on the deck of a ship in this area must succeed on a DC 17 Dexterity saving throw or fall overboard.
 
-The water within 60 feet of the kembingur becomes difficult terrain for 1 minute. Each creature that starts its turn on the deck of a ship in this area must succeed on a DC 17 Dexterity saving throw or fall overboard.
+

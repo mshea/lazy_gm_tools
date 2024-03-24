@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (16d6+80)
 - **Speed:** walk 15 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 327
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Blood Root:** Launches a root toward one creature it can see within 30' of it. The creature must make DC 15 Dex save or take 14 (4d6) necrotic as the rafflesian drains blood from it. The rafflesian or the host (the rafflesian’s choice) then regains hp equal to damage taken.
 ### Reactions
 - **Last Resort:** When host dies rafflesian can reanimate it up to 10 days if body is still intact. During this time host protected from decay and can’t become undead. Rafflesian can use bonus action to cause host to move as in life but host can’t take other actions. If host could speak in life rafflesian can speak with host’s voice. Host reanimated this way can be restored to life by any spell capable of that.
+
+

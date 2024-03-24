@@ -6,7 +6,7 @@
 - **Hit Points:** 123 (13d10+52)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 224
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** The ichneumon makes three attacks: two with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) piercing damage and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the ichneumon can't use its bite on another target.
 - **Claws:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) slashing damage.
+
+

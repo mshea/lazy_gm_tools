@@ -6,7 +6,7 @@
 - **Hit Points:** 95 (10d10+40)
 - **Speed:** climb 30 ft. walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 55
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 - **Blinding Spit (Recharge 5-6):** Ranged Weapon Attack: +4 to hit, range 30 ft., one target. Hit: The target is poisoned for 1 minute and must succeed on a DC 13 Constitution saving throw or be blinded while poisoned in this way.
+
+

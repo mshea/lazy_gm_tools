@@ -6,7 +6,7 @@
 - **Hit Points:** 102 (12d10+36)
 - **Speed:** walk 30 ft. climb 10 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 365
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** Two Slam attacks. If both attacks hit a Med or smaller target the target is grappled (escape DC 13).
 - **Slam:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 10 (2d6+3) bludgeoning damage.
 - **Grind:** Grinds its form over one creature in its space or that is grappled by it. Target takes 21 (6d6) bludgeoning damage (DC 13 Dex half). Flow regains hp equal to half the damage taken if creature is not a Construct or Undead.
+
+

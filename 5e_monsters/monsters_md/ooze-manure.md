@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (6d8+18)
 - **Speed:** walk 20 ft. climb 20 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 306
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Digest Corpse:** Dissolves a corpse in its space that is less than 1 week old. It regains 1d6 hp per size category of the creature it consumes. For example it regains 1d6 hp when consuming a Tiny creature or 4d6 hp when consuming a Large creature. The corpse is then destroyed and this action can’t be used on it again.
 ### Reactions
 - **Split:** When a Med or larger manure ooze is subjected to slashing damagesplits into 2 new oozes if it has 10+ hp. Each new ooze has half original’s hp rounded down. New oozes are one size smaller than original.
+
+

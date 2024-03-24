@@ -6,12 +6,13 @@
 - **Hit Points:** 52 (7d8+21)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 278
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 16 (+3) | 6 (-2) | 12 (+1) | 8 (-1) |
 
+- **Skills:** perception +3
 - **Damage Immunities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** understands Infernal but can't speak
@@ -22,3 +23,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (1d10 + 3) piercing damage plus 7 (2d6) fire damage.
 - **Fire Breath (Recharge 5-6):** The hound exhales fire in a 15-foot cone. Each creature in that area makes a DC 12 Dexterity saving throw  taking 21 (6d6) fire damage on a failed save or half damage on a success.
+
+

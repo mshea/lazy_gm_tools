@@ -6,7 +6,7 @@
 - **Hit Points:** 26 (4d8+8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 246
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Shortbow:** Ranged Weapon Attack: +4 to hit 80/320' one target 5 (1d6+2) piercing damage + 3 (1d6) lightning.
 ### Reactions
 - **Parry:** + 2 to its AC vs. one melee attack that would hit it if it can see attacker and wielding melee weapon.
+
+

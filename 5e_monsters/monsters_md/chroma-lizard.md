@@ -6,7 +6,7 @@
 - **Hit Points:** 90 (12d10+24)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 84
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 14 (2d10+3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (1d10+3) slashing damage.
 - **Dazzling Display:** Causes its chrome scales to ripple casting dizzying reflections of light. Each creature that can see the chroma lizard must make DC 15 Con save or be blinded until the end of its next turn. The lizard can’t use this action while in darkness and creatures have advantage on the save if the chroma lizard is in dim light.
+
+

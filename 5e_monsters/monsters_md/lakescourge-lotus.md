@@ -6,7 +6,7 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 258
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Tainted Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d6+3) slashing damage + 9 (2d8) poison and target poisoned 1 min (DC 15 Con negates poison). A poisoned creature can re-save at end of each of its turns success ends effect on itself.
 - **Poisonous Water Jet:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 15 (3d8+2) poison.
 - **Enter Reflection:** Touches a body of water large enough to hold it and becomes a reflection on water's surface. While in this form has immunity to B/P/S damage from nonmagical attacks and resistance to B/P/S from magical attacks. While a reflection speed is 5 ft. can’t use Tainted Claw and can revert to its true form as a bonus action. If it takes damage that isn’t bludgeoning piercing or slashing while a reflection forced back into its true form.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 66 (12d6+24)
 - **Speed:** walk 20 ft. burrow 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 172
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Multiattack:** Two Punching Spines or Throw Spines. If it hits one creature with both Punching Spines target is grappled (escape DC 13). Erina can grapple only one target at a time.
 - **Punching Spines:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (2d4+3) piercing damage.
 - **Throw Spine:** Ranged Weapon Attack: +5 to hit 20/60' one target 8 (2d4+3) piercing damage and spine sticks in target until a creature uses an action to remove it. While spine is stuck target has disadvantage on weapon attacks that use Str.
+
+

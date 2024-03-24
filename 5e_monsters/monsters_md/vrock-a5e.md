@@ -6,13 +6,14 @@
 - **Hit Points:** 104 (11d10+44)
 - **Speed:** walk 40 ft. fly 60 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 76
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 8 (-1) | 14 (+2) | 10 (+0) |
 
 - **Saving Throws**: Dex +6, Int +2, Wis +5, Cha +3
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned
@@ -28,3 +29,5 @@
 - **Spores (1/Day):** A 15-foot-radius cloud of spores emanates from the vrock  spreading around corners. Each creature in the area makes a DC 14 Constitution saving throw  becoming poisoned for 1 minute on a failure. While poisoned in this way  the target takes ongoing 5 (1d10) poison damage. The target repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.
 ### Bonus Actions
 - **Stunning Screech (1/Day):** The vrock screeches. Each non-demon creature within 20 feet that can hear it makes a DC 14 Constitution saving throw. On a failure, it is stunned until the end of the vrocks next turn.
+
+

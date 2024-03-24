@@ -6,7 +6,7 @@
 - **Hit Points:** 44 (8d8+8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 282
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 ### Bonus Actions
 - **Musk (Recharge: Short/Long Rest):** As musk deer but save DC 12.
 - **Sprinter:** Takes the Dash action.
+
+

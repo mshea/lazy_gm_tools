@@ -6,12 +6,13 @@
 - **Hit Points:** 39 (6d8+12)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 28
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire, poison
 - **Condition Immunities:** poisoned
@@ -24,3 +25,5 @@
 - **Heat Metal:** Ranged Spell Attack: +4 to hit  range 60 ft.  one creature wearing or holding a metal object. Hit: 9 (2d8) fire damage. If a creature is holding the object and suffers damage  it makes a DC 12 Constitution saving throw  dropping the object on a failure.
 ### Bonus Actions
 - **Fire Step:** While standing in fire, the azer can magically teleport up to 90 feet to a space within fire.
+
+

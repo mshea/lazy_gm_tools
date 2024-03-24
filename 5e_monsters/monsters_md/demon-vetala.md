@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d8+60)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 112
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -33,3 +33,5 @@
 - **Command Corpse:** Commands one Undead under its control that it can see to make a weapon attack as reaction. If so has advantage.
 ### Reactions
 - **Corpse Detonation:** When Undead under its control is reduced to 0 hp vetala can force it to explode. Each creature that isn’t Undead or vetala within 5 ft. of exploding Undead: 10 (3d6) bludgeoning damage (if zombie) or slashing (if skeleton) damage and 5 (2d4) poison (DC 15 Dex half).
+
+

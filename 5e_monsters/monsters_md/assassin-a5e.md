@@ -6,13 +6,14 @@
 - **Hit Points:** 97 (15d8+30)
 - **Speed:** walk 35 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 467
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 12 (+1) | 12 (+1) |
 
 - **Saving Throws**: Dex +6, Int +4, Wis +4
+- **Skills:** acrobatics +6, deception +4, perception +4, stealth +6
 - **Senses:** blindsight 10 ft., darkvision 30 ft., passive Perception 14
 - **Languages:** any two
 ### Special Abilities
@@ -27,3 +28,5 @@
 - **Cunning Action:** The assassin takes the Dash, Disengage, Hide, or Use an Object action.
 - **Rapid Attack:** The assassin attacks with their shortsword.
 - **Assassins specialize in dealing quiet:** While some kill for pay, others do so for ideological or political reasons.
+
+

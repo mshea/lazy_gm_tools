@@ -6,7 +6,7 @@
 - **Hit Points:** 38 (7d8+7)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 340
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Flame Ray:** Ranged Spell Attack: +4 to hit, 120 ft., one target, 6 (1d8+2) fire. If the jackal hits a creature with Flame Ray the jackal gains half-cover vs. all attacks that originate more than 30' away from it until the start of its next turn.
 ### Bonus Actions
 - **Daylight Skirmish:** While in sunlight the jackal takes the Dash or Dodge action.
+
+

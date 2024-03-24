@@ -6,12 +6,13 @@
 - **Hit Points:** 55 (10d8+10)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 499
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 14 (+2) | 10 (+0) |
 
+- **Skills:** athletics +3, stealth +3, perception +4, survival +4
 - **Senses:** passive Perception 14
 - **Languages:** any one
 ### Special Abilities
@@ -21,3 +22,5 @@
 ### Actions
 - **Spears:** Melee or Ranged Weapon Attack: +3 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 22 (5d6 + 5) piercing damage  or half damage when bloodied.
 - **Warriors who train together are able to fight as one, attacking and retreating as if they share a mind:** 
+
+

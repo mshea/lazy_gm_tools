@@ -6,12 +6,13 @@
 - **Hit Points:** 157 (15d12+60)
 - **Speed:** walk 10 ft. swim 50 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 227
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 19 (+4) | 3 (-4) | 15 (+2) | 5 (-3) |
 
+- **Skills:** 
 - **Damage Resistances:** acid, bludgeoning, piercing
 - **Condition Immunities:** blinded, deafened, unconscious
 - **Senses:** blindsight 90 ft. (blind beyond this radius), passive Perception 12
@@ -24,3 +25,5 @@
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 31 (6d8 + 4) bludgeoning damage.
 - **Kelp Tendril:** Melee Weapon Attack: +8 to hit, reach 50 ft., one creature. Hit: The target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the kelp eel can’t use the same kelp tendril on another target. In addition, at the start of the target’s next turn, it begins to suffocate as the eel’s grip crushes the breath out of it.
 - **Reel:** The kelp eel pulls each creature grappled by it up to 25 feet straight toward it.
+
+

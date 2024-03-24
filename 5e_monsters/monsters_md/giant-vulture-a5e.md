@@ -6,12 +6,13 @@
 - **Hit Points:** 22 (3d10+6)
 - **Speed:** walk 10 ft. fly 60 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 451
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 14 (+2) | 14 (+2) | 6 (-2) | 12 (+1) | 6 (-2) |
 
+- **Skills:** perception +3
 - **Senses:** passive Perception 13
 - **Languages:** 
 ### Special Abilities
@@ -22,3 +23,5 @@
 - **Talons:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8+2) slashing damage.
 ### Reactions
 - **Retreat:** When the vulture would be hit by a melee attack, the vulture can move 5 feet away from the attacker. If this moves the vulture out of the attackers reach, the attacker has disadvantage on its attack.
+
+

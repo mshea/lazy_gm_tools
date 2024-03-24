@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (7d8+14)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 376
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Mark Foe:** One creature shaman can see within 60' must make DC 13 Wis save or be wreathed in magical fire for 1 min. While wreathed it can’t take the Hide action or become invisible. The next time creature takes damage it takes an extra 7 (2d6) fire and the magical fire ends.
 ### Reactions
 - **Fiery Escape (2/Day):** When shaman takes damage each creature within 5 ft. of it: DC 13 Dex save or take 7 (2d6) fire. Shaman is then wreathed in flames and teleports up to 30' to unoccupied space it can see.
+
+

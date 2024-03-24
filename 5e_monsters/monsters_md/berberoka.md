@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 40 ft. swim 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 56
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Water Jet (Saturated Only Recharge 4–6):** Releases all absorbed water as a powerful jet in a 60' line that is 5 ft. wide. Each creature in that line: 40 (9d8) bludgeoning damage and is pushed up to 15 ft. away from it and knocked prone (DC 14 Dex half damage and isn’t pushed or knocked prone). After using Water Jet it is no longer saturated.
 ### Bonus Actions
 - **Saturated Expansion:** While in contact with body of water it absorbs water that is a cube up to 10 ft. on a side and becomes saturated as water fills its body. While saturated increases in size along with anything it is wearing or carrying becoming Huge and has advantage on Str checks and Str saves. If it lacks room to become Huge it attains max size possible in space available. Ground exposed by the absorbed water becomes difficult terrain.
+
+

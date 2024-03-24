@@ -6,7 +6,7 @@
 - **Hit Points:** 7 (2d4+2)
 - **Speed:** burrow 5 ft. walk 40 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 0
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -19,3 +19,5 @@
 - **Keen Hearing and Sight:** The fennec fox has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 ### Actions
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+
+

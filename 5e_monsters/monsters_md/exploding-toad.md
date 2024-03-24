@@ -6,7 +6,7 @@
 - **Hit Points:** 2 (1d4)
 - **Speed:** swim 20 ft. walk 20 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 150
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 ### Reactions
 - **Death Leap:** The exploding toad can turn an attack that missed it into a hit or turn a successful saving throw into a failure.
+
+

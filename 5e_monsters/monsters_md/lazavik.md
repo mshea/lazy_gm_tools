@@ -6,7 +6,7 @@
 - **Hit Points:** 36 (8d4+16)
 - **Speed:** swim 30 ft. walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 236
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Reed Whip:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
 - **Eye Flare (Recharge 5-6):** The lazavik’s eye flares with blinding light in a 15-foot cone. Each creature in the area much make a DC 13 Dexterity saving throw. On a failure, a creature takes 10 (3d6) radiant damage and is blinded for 1 minute. On a success, a creature takes half the damage and isn’t blinded. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+

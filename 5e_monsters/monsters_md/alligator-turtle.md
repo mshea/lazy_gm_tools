@@ -6,7 +6,7 @@
 - **Hit Points:** 11 (2d8+2)
 - **Speed:** walk 20 ft. swim 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 387
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -20,3 +20,5 @@
 - **Hold Breath:** The turtle can hold its breath for 1 hour.
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) slashing damage and the target is grappled (escape DC 12). Until this grapple ends, the turtle can’t bite another target.
+
+

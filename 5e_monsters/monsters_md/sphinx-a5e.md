@@ -6,13 +6,14 @@
 - **Hit Points:** 142 (15d10+60)
 - **Speed:** walk 40 ft. fly 60 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 398
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 14 (+2) | 18 (+4) | 18 (+4) | 22 (+6) | 20 (+5) |
 
 - **Saving Throws**: Dex +6, Con +8, Int +8, Wis +10
+- **Skills:** arcana +8, history +8, perception +10, religion +8
 - **Damage Immunities:** psychic; damage from nonmagical weapons
 - **Condition Immunities:** charmed, frightened, paralyzed, stunned
 - **Senses:** truesight 120 ft., passive Perception 20
@@ -31,3 +32,5 @@
 - **Different Location or Plane of Existence:** The creatures appear in empty spaces of the sphinxs choice anywhere on the Material Plane or on a different plane altogether.
 - **Demiplane:** The creatures appear in empty spaces of the sphinxs choice on a demiplane. The demiplane can be up to one square mile in size. The demiplane can appear to be inside, outside, or underground, and can contain terrain, nonmagical objects, and magical effects of the sphinxs choosing. The sphinx may populate it with creatures and hazards with a total Challenge Rating equal to or less than the sphinxs Challenge Rating.
 - **Time:** The creatures appear in empty spaces of the sphinxs choosing anywhere on the Material Plane, at any time from 1,000 years in the past to 1,000 years in the future. At the Narrators discretion, changes made in the past may alter the present.
+
+

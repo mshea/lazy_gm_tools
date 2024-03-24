@@ -6,7 +6,7 @@
 - **Hit Points:** 133 (14d10+56)
 - **Speed:** swim 40 ft. walk 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 348
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Reel:** The tidehunter pulls one creature restrained by its net up to 20 feet straight toward it. If the target is within 10 feet of the tidehunter at the end of this pull, the tidehunter can make one claw attack against it as a bonus action.
 ### Reactions
 - **Entangle Weapon:** When the tidehunter is targeted by a melee weapon attack, the attacker must succeed on a DC 16 Dexterity saving throw or miss the attack as the tidehunter uses its net to interfere with the weapon. The tidehunter must have an empty net to use this reaction.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 10 (3d6)
 - **Speed:** walk 5 ft. fly 60 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 284
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,5 @@
 - **Keen Hearing and Sight:** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 ### Actions
 - **Talons:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+
+

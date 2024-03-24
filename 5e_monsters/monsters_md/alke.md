@@ -6,7 +6,7 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 50 ft. climb 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 16
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Piercing Roll (Recharge 4–6):** Tucks in its head and throws itself spikes first into nearby foes. Alke moves up to 25 ft. in a straight line and can move through space of any Med or smaller creature. The first time it enters a creature’s space during this move creature takes 14 (4d6) bludgeoning damage and 14 (4d6) piercing damage and is knocked prone (DC 15 Str half not knocked prone.)
 ### Reactions
 - **Repelling Spikes:** Adds 3 to its AC vs. one melee or ranged weapon attack that would hit it. To do so the alke must see the attacker and not be prone.
+
+

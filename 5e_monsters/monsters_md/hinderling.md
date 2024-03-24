@@ -6,7 +6,7 @@
 - **Hit Points:** 13 (3d6+3)
 - **Speed:** walk 30 ft. climb 20 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 232
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Nimble Escape:** Takes the Disengage or Hide action.
 ### Reactions
 - **Run and Hide:** When a creature hinderling can see targets it with weapon hinderling chooses another creature within 5 ft. as attack's target then moves up to half its speed with o provoking opportunity attacks.
+
+

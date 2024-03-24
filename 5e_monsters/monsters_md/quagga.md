@@ -6,7 +6,7 @@
 - **Hit Points:** 84 (13d8+26)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 325
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Twin Blade:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
 ### Bonus Actions
 - **War Surge:** When the quagga reduces a creature to 0 hp with melee attack on its turn the quagga can move up to half its speed and make a Twin Blade attack.
+
+

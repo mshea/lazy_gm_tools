@@ -6,12 +6,13 @@
 - **Hit Points:** 45 (7d8+14)
 - **Speed:** walk 30 ft. burrow 15 ft. fly 50 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 142
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 14 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 14 (+2) |
 
+- **Skills:** deception +4, insight +2, perception +2, persuasion +4
 - **Damage Resistances:** force, psychic
 - **Condition Immunities:** fatigue
 - **Senses:** darkvision 120 ft., passive Perception 12
@@ -21,3 +22,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Concussive Breath (Recharge 5-6):** The dragon psionically unleashes telekinetic energy in a 15-foot cone. Each creature in that area makes a DC 12 Constitution saving throw  taking 16 (3d10) force damage on a failed save or half damage on a success.
+
+

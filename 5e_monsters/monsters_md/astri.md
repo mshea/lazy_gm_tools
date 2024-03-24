@@ -6,7 +6,7 @@
 - **Hit Points:** 112 (15d6+60)
 - **Speed:** burrow 30 ft. walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 31
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,10 +23,15 @@
 - **Helping Hand:** The astri can take the Help action as a bonus action on each of its turns.
 - **Magic Resistance:** The astri has advantage on saving throws against spells and other magical effects.
 - **Magic Weapons:** The astri’s weapon attacks are magical.
-- **Innate Spellcasting:** The astri’s spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The astri can cast the following spells, requiring no material components: At will: create or destroy water, detect poison and disease, produce flame, purify food and drink 3/day each: bless, create food and water, lesser restoration 1/day each: remove curse
+- **Innate Spellcasting:** The astri’s spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The astri can cast the following spells, requiring no material components:
+At will: create or destroy water, detect poison and disease, produce flame, purify food and drink
+3/day each: bless, create food and water, lesser restoration
+1/day each: remove curse
 ### Actions
 - **Multiattack:** The astri makes three bite attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) radiant damage.
 - **Healing Touch (3/Day):** The astri touches another creature. The target magically regains 14 (3d8 + 1) hit points and is freed from any disease, poison, blindness, or deafness.
 ### Reactions
 - **Defensive Counter:** When a creature within 5 feet of the astri makes an attack against a creature other than the astri, the astri can bite the attacker. To do so, the astri must be able to see the attacker.
+
+

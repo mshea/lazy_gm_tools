@@ -6,12 +6,13 @@
 - **Hit Points:** 45 (10d8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 0 (25 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 471
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** any one
 ### Special Abilities
@@ -22,3 +23,5 @@
 - **Clubs:** Melee Weapon Attack: +2 to hit  reach 5 ft.  up to two targets. Hit: 10 (4d4) bludgeoning damage  or half damage if the mob is bloodied.
 - **Stones:** Ranged Weapon Attack: +2 to hit  range 10/30 ft.  up to two targets. Hit: 10 (4d4) bludgeoning damage  or half damage if the mob is bloodied.
 - **When riled up by strident voices, angry people may coalesce into a group that acts like a single organism:** A mob might commit acts of violence its individual members would otherwise shun.
+
+

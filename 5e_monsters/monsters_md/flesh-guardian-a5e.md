@@ -6,12 +6,13 @@
 - **Hit Points:** 93 (11d8+44)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 262
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 8 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 5 (-3) |
 
+- **Skills:** 
 - **Damage Immunities:** lightning, poison; damage from nonmagical, non-adamantine weapons
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
@@ -29,3 +30,5 @@
 - **Slam:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Hurl Object:** Ranged Weapon Attack: +7 to hit  range 20/60 ft.  one target. Hit: 18 (4d6 + 4) bludgeoning damage.
 - **Lightning Bolt (1/Day, While Bloodied):** An 80-foot-long  5-foot-wide lightning bolt springs from the guardians chest. Each creature in the area makes a DC 15 Dexterity saving throw  taking 28 (8d6) lightning damage on a failed save or half damage on a success.
+
+

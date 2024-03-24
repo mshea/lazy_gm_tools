@@ -6,13 +6,14 @@
 - **Hit Points:** 161 (19d8+76)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 82
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 14 (+2) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Dex +8, Con +8, Wis +7, Cha +8
+- **Skills:** athletics +8, insight +7, perception +7
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; damage from nonmagical, non-silvered weapons
 - **Condition Immunities:** poisoned
@@ -28,3 +29,5 @@
 - **Lasso:** Melee Weapon Attack: +8 to hit  reach 15 ft.  one target. Hit: The target is entangled by the lasso. While entangled  it can't move more than 15 feet away from the erinyes. The entanglement ends if the erinyes releases the lasso or becomes incapacitated  or if the lasso is destroyed. The lasso is an object with AC 12 and 20 HP and is immune to piercing  poison  psychic  and thunder damage. The entanglement also ends if the target or a creature within 5 feet of it uses an action to succeed on a DC 16 Athletics or Acrobatics check to remove the lasso. The erinyes can't make a lasso attack while a creature is entangled.
 ### Reactions
 - **Parry:** If the erinyes is wielding a longsword and can see its attacker, it adds 4 to its AC against one melee attack that would hit it.
+
+

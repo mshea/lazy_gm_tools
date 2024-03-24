@@ -6,12 +6,13 @@
 - **Hit Points:** 32 (5d8+10)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 73
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 10 (+0) | 14 (+2) | 1 (-5) | 11 (+0) | 5 (-3) |
 
+- **Skills:** 
 - **Damage Immunities:** acid, poison
 - **Condition Immunities:** blinded, deafened, poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 10
@@ -22,3 +23,5 @@
 ### Actions
 - **Slam:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 3 (1d6) acid damage.
 - **Slime Glob:** Ranged Weapon Attack: +2 to hit, range 20/60 ft., one target. Hit: 3 (1d6) acid damage and the target must succeed on a DC 12 Constitution saving throw or become infected with the shambler’s spores (see the Spores trait).
+
+

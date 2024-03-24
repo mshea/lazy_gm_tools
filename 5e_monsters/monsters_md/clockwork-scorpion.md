@@ -6,7 +6,7 @@
 - **Hit Points:** 95 (10d10+40)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 89
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Acid Spray (Recharge 5–6):** Spews acid in a 15 ft. cone. Each creature in that area: 42 (12d6) acid (DC 16 Dex half).
 ### Reactions
 - **Gas Nozzles:** When it takes damage all within 5 feet: 5 (1d10) poison. If damage taken was fire gas ignites deals + 5 (1d10) fire.
+
+

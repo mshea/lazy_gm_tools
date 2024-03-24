@@ -6,7 +6,7 @@
 - **Hit Points:** 138 (12d10+72)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 206
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Runic Armor (3/Day):** Can inscribe the thurs rune on its armor. When a creature hits armorer with melee weapon attack while rune is active creature takes 4 (1d8) lightning and can’t take reactions until start of its next turn. Rune lasts for 1 min.
 ### Bonus Actions
 - **Harness Dwarven Soul:** Draws on the soul fragment trapped in one of the dwarven skulls on its belt. Armorer has advantage on ability checks when using smith’s tools and on attack rolls using a battleaxe handaxe light hammer or warhammer until start of its next turn. It carries six skulls on its belt.
+
+

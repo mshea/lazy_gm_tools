@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (16d12+32)
 - **Speed:** walk 10 ft. fly 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 260
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Drain Magic Item:** Drains the magic from an item it is holding. Magic item with charges loses 1d6 charges item with limited uses per day loses one daily use and single-use item such as potion or spell scroll is destroyed. All other magic items have their effects suppressed for 1 min. Wanderer gains 5 temp hp each time it drains a magic item. A drained item regains its magic after 24 hrs.
 ### Reactions
 - **Absorb Spell:** When a creature wanderer can see within 30' of it casts spell wanderer can absorb spell’s energy countering it. Works like counterspell except wanderer must always make spellcasting ability check no matter spell’s level. Its ability check for this is +7. If it successfully counters the spell it gains 5 temp hp/spell level.
+
+

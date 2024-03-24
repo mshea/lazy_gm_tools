@@ -6,7 +6,7 @@
 - **Hit Points:** 22 (4d6+8)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 56
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 ### Actions
 - **Adhesive Hands:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage and the target is subjected to its Adhesive trait. Until this grapple ends, the target is restrained, and the boot grabber can't make adhesive hands attacks against other targets.
 - **Unearthly Hum:** The boot grabber targets one creature it can see within 60 feet of it. It emits a high frequency humming noise which can only be heard by the target. The target must succeed on a DC 11 Wisdom saving throw or move toward the boot grabber on its turn by the shortest and most direct route, ending its turn when it comes within 5 feet of the boot grabber.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 123 (13d10+52)
 - **Speed:** swim 30 ft. walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 356
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Tail:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage.
 - **Swallow:** The vallowex makes one spiked tongue attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the vallowex, and it takes 10 (3d6) acid damage at the start of each of the vallowex’s turns. The vallowex can have only one creature swallowed at a time. If the vallowex takes 15 damage or more on a single turn from the swallowed creature, the vallowex must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 5 feet of the vallowex. If the vallowex dies, the swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
 - **Release Eggs (1/Week):** A vallowex can release a 40-foot-radius cloud of microscopic eggs into a body of water it touches. The eggs live for 1 hour. Any humanoid or beast that drinks the eggs must succeed on a DC 15 Constitution saving throw or be infected with a disease—a vallowex tadpole. A host can carry only one vallowex tadpole to term at a time. While diseased, the host must make a DC 15 Constitution saving throw at the end of each long rest. On a failed save, the host’s Strength score is reduced by 1d4. This reduction lasts until the host finishes a long rest after the disease is cured. If the host’s Strength score is reduced to 0, the host dies, and a vallowex emerges from the corpse. If the host succeeds on three saving throws or the disease is magically cured, the unborn tadpole disintegrates.
+
+

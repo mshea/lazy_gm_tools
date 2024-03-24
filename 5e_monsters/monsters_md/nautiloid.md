@@ -6,7 +6,7 @@
 - **Hit Points:** 216 (16d20+48)
 - **Speed:** walk 0 ft. swim 90 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 286
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Jet Propulsion (Recharge 5–6):** Releases a magical burst of pressure that propels it backwards in a line that is 90' long and 10 ft. wide. Each creature within 15 ft. of the space the nautiloid left and each creature in that line must make a DC 18 Con save. On a failure a creature takes 45 (10d8) force and is pushed up to 20' away from the nautiloid and knocked prone. On a success a creature takes half the damage but isn’t pushed or knocked prone.
 ### Reactions
 - **Withdraw:** When a creature the nautiloid can see targets it with an attack the nautiloid can pull its body into its shell gaining a +5 bonus to AC until the start of its next turn.
+
+

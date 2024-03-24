@@ -6,13 +6,14 @@
 - **Hit Points:** 138 (12d12+60)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 380
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 8 (-1) | 21 (+5) | 3 (-4) | 14 (+2) | 1 (-5) |
 
 - **Saving Throws**: Str +8, Con +9
+- **Skills:** 
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 10
@@ -26,3 +27,5 @@
 - **Blazing Ray:** Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 27 (5d10) fire damage.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage plus 5 (1d10) fire damage and the target is grappled (escape DC 16). The wickerman has two fists, each of which can grapple only one target.
 - **Imprison:** The wickerman makes one slam attack against a target it is grappling. If the attack hits, the target is imprisoned inside its burning body, and the grapple ends. A creature imprisoned in the wickerman is blinded, restrained, has total cover against attacks and other effects outside the wickerman, and it takes 17 (5d6) fire damage at the start of each of the wickerman's turns. Up to 6 Medium or smaller creatures can fit inside a wickerman's body. If the wickerman takes 25 damage or more from a creature inside of it, the wickerman must succeed on a DC 14 Constitution saving throw or the creature bursts free from it. The creature falls prone in a space within 10 feet of the wickerman. If the wickerman dies, all creatures inside of it are no longer restrained by it and can escape from the burning corpse by using 15 feet of movement, exiting prone.
+
+

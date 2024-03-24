@@ -6,7 +6,7 @@
 - **Hit Points:** 144 (17d8+68)
 - **Speed:** walk 15 ft. fly 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 63
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 ### Actions
 - **Multiattack:** Two Free Bleeding Cuts attacks.
 - **Free Bleeding Cuts:** Melee Weapon Attack: +9 to hit 0' 1 tgt in the swarm’s space. 27 (6d8) slashing damage or 13 (3d8) slashing damage if flurry has half of its hp or fewer. If target is a creature other than an Undead or a Construct: DC 16 Con save or lose 13 (3d8) hp at start of each of its turns due to a bleeding wound. Any creature can take an action to stanch the wound with successful DC 12 Wis (Medicine) check. Wound also closes if target receives magical healing.
+
+

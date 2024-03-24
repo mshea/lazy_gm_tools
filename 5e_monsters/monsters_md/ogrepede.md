@@ -6,13 +6,14 @@
 - **Hit Points:** 142 (15d12+45)
 - **Speed:** walk 40 ft. climb 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 275
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 21 (+5) | 9 (-1) | 17 (+3) | 5 (-3) | 5 (-3) | 3 (-4) |
 
 - **Saving Throws**: Wis +0
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, exhaustion, poisoned, prone
 - **Senses:** darkvision 90 ft., passive Perception 7
@@ -24,3 +25,5 @@
 - **Multiattack:** The ogrepede makes two attacks: one with its bite and one with its slam.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 12 (2d6 + 5) bludgeoning damage, or 8 (1d6 + 5) bludgeoning damage if the ogrepede has half its hp or fewer. If the ogrepede scores a critical hit, it rolls the damage dice three times, instead of twice.
+
+

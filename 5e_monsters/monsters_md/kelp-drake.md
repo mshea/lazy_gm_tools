@@ -6,7 +6,7 @@
 - **Hit Points:** 60 (8d8+24)
 - **Speed:** swim 50 ft. walk 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 227
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 - **Deathroll:** The kelp drake latches onto a Medium or smaller creature it can see within 5 feet of it and rolls itself and the target. The target must make a DC 13 Constitution saving throw. On a failure, the creature takes 7 (2d6) slashing damage and is stunned until the end of its next turn. On a success, the creature takes half the damage and isn’t stunned. The kelp drake can use this action only if both itself and the target are immersed in water.
 - **Binding Bile (Recharge 6):** The drake forcibly vomits a long line of bile-coated kelp that unravels in a 30-foot-long, 5-foot-wide line. Each target in the area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 14 (4d6) acid damage and is restrained by kelp for 1 minute. On a success, a creature takes half the damage and isn’t restrained. A creature, including the target, can take its action to remove the kelp by succeeding on a DC 13 Strength check. Alternatively, the kelp can be attacked and destroyed (AC 10; hp 3; immunity to bludgeoning, poison, and psychic damage).
+
+

@@ -6,13 +6,14 @@
 - **Hit Points:** 153 (18d8+72)
 - **Speed:** walk 30 ft. fly 90 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 19
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 18 (+4) | 20 (+5) | 20 (+5) |
 
 - **Saving Throws**: Wis +9, Cha +9
+- **Skills:** insight +9, perception +9, religion +9
 - **Damage Vulnerabilities:** radiant
 - **Damage Resistances:** radiant; damage from nonmagical weapons
 - **Condition Immunities:** charmed, exhaustion, frightened
@@ -31,3 +32,5 @@
 - **Radiant Energy (1/Day):** The deva touches a creature other than itself. If the target is unwilling  the deva makes an attack roll with a +8 bonus. The deva can choose to magically heal 60 hit points of damage and end any blindness  curse  deafness  disease  or poison on the target. Alternatively  the deva can choose to deal 60 radiant damage to the target.
 - **Change Form:** The deva magically transforms into a beast or humanoid or back into its true form. It retains its deva statistics  including speech and telepathy  except that it has the size  movement modes  and traits of its new form.
 - **Consume Life Energy (1/Day):** The angel feasts on the departing life energy of a humanoid within 5 feet. The target must have been slain within the last hour. The angel magically gains temporary hit points equal to half the dead creatures maximum hit points. These hit points last until depleted. Only a spell cast with a 9th-level slot can raise the corpse from the dead.
+
+

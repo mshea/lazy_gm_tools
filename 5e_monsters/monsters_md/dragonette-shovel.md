@@ -6,7 +6,7 @@
 - **Hit Points:** 33 (6d4+18)
 - **Speed:** walk 20 ft. burrow 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 150
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Head Slap:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 4 (1d4+2) bludgeoning damage and if target is Small or smaller: DC 12 Str save or be launched up 10 ft. into the air and away from dragonette taking falling damage as normal.
 - **Raking Claws:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) slashing damage.
 - **Sticky Tongue:** Launches tongue at target up to 15 ft. away. If target is Small or smaller: DC 13 Str save or be pulled up to 15 ft. toward dragonette. If target is Med or larger: DC 13 Dex save or dragonette is pulled up to 15 ft. closer to the target. If target is within 5 ft. of dragonette dragonette can make one Raking Claws attack vs. it as a bonus action.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 76 (8d10+32)
 - **Speed:** climb 20 ft. walk 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 282
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 6 (-2) | 18 (+4) | 1 (-5) | 8 (-1) | 2 (-4) |
 
+- **Skills:** 
 - **Damage Immunities:** acid, fire, necrotic, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 9
@@ -24,3 +25,5 @@
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 16 (3d10) necrotic damage. The ooze gains temporary hp equal to the necrotic damage taken.
 ### Reactions
 - **Overflow:** When the blood ooze is hit with a melee attack, it can drain blood from the attacker. The attacker must make a DC 15 Constitution saving throw, taking 11 (2d10) necrotic damage on a failed save, or half as much damage on a successful one. The ooze gains temporary hp equal to the necrotic damage taken.
+
+

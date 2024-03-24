@@ -6,7 +6,7 @@
 - **Hit Points:** 190 (20d10+80)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 369
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Claws:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 23 (4d8+5) slashing damage.
 ### Bonus Actions
 - **Hypnotic Gaze:** Gazes on one creature it can see within 60' of it. If target can see it: paralyzed until end of its next turn (DC 17 Wis negates immune to tigebra’s Hypnotic Gaze 24 hrs).
+
+

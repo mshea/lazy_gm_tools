@@ -6,12 +6,13 @@
 - **Hit Points:** 126 (12d10+60)
 - **Speed:** climb 20 ft. fly 10 ft. hover True ft. swim 20 ft. walk 20 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 283
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 8 (-1) | 20 (+5) | 2 (-4) | 6 (-2) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** acid, fire, lightning
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
@@ -26,3 +27,5 @@
 ### Actions
 - **Multiattack:** The foxfire ooze makes three pseudopod attacks.
 - **Pseudopod:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 20 (3d10 + 4) bludgeoning damage plus 4 (1d8) lightning damage.
+
+

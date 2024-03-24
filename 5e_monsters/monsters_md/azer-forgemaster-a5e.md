@@ -6,12 +6,13 @@
 - **Hit Points:** 78 (12d8+24)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 28
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 14 (+2) | 12 (+1) | 16 (+3) | 16 (+3) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire, poison
 - **Condition Immunities:** poisoned
@@ -25,3 +26,5 @@
 - **Bonfire (3/Day):** A 5-foot-square space within 60 feet catches fire. A creature takes 10 (3d6) fire damage when it enters this area for the first time on a turn or starts its turn there. A creature can use an action to extinguish this fire.
 ### Bonus Actions
 - **Fire Step:** While standing in fire, the azer can magically teleport up to 90 feet to a space within fire.
+
+

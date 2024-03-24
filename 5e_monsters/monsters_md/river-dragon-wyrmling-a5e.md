@@ -6,12 +6,13 @@
 - **Hit Points:** 44 (8d8+8)
 - **Speed:** walk 50 ft. fly 60 ft. swim 60 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 133
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 14 (+2) | 12 (+1) | 10 (+0) | 14 (+2) | 10 (+0) |
 
+- **Skills:** acrobatics +4, deception +2, insight +4, nature +2, perception +4, stealth +4
 - **Damage Resistances:** damage from nonmagical weapons
 - **Condition Immunities:** fatigue
 - **Senses:** darkvision 120 ft., tremorsense 90 ft. (only detects vibrations in water), passive Perception 14
@@ -23,3 +24,5 @@
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Torrential Breath (Recharge 5-6):** The dragon exhales water in a 15-foot-long  5-foot-wide line. Each creature in the area makes a DC 11 Dexterity saving throw  taking 14 (4d6) bludgeoning damage on a failed save or half damage on a success.
+
+

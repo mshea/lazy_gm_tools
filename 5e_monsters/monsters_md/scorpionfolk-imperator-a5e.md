@@ -6,16 +6,26 @@
 - **Hit Points:** 52 (7d10+14)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 385
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 14 (+2) | 18 (+4) | 10 (+0) | 10 (+0) |
 
+- **Skills:** perception +2, stealth +3, survival +2, arcana +2, history +2, religion +2
 - **Senses:** passive Perception 12
 - **Languages:** Common, Scorpionfolk
 ### Special Abilities
-- **Spellcasting:** The imperator is a 5th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14  +6 to hit with spell attacks). It has the following cleric and wizard spells prepared:  Cantrips (at will): light  sacred flame  1st-level (4 slots): create or destroy water  healing word  2nd-level (3 slots): burning gust of wind  lesser restoration  3rd-level (2 slots): major image  venomous fireball
+- **Spellcasting:** The imperator is a 5th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14
+ +6 to hit with spell attacks). It has the following cleric and wizard spells prepared:
+ Cantrips (at will): light
+ sacred flame
+ 1st-level (4 slots): create or destroy water
+ healing word
+ 2nd-level (3 slots): burning gust of wind
+ lesser restoration
+ 3rd-level (2 slots): major image
+ venomous fireball
 ### Actions
 - **Claw:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the scorpionfolk can't attack a different target with its claws.
 - **Javelin:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
@@ -25,3 +35,5 @@
 - **Venomous Fireball (3rd-Level; V, S, M):** Green fire streaks from the imperator to a point within 120 feet and explodes in a 20-foot radius  spreading around corners. Each creature in the area makes a DC 14 Dexterity saving throw  taking 21 (6d6) poison damage on a failed save or half damage on a success. A creature that fails the save is also poisoned until the end of its next turn.
 ### Bonus Actions
 - **Sting:** Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, and the target makes a DC 12 Constitution saving throw, taking 16 (3d10) poison damage on a failure or half damage on a success.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 66 (12d6+24)
 - **Speed:** swim 20 ft. walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 90
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 3 (1d6) necrotic damage.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
 - **Necrotic Rush (Recharge 5-6):** The rattok unleashes a wave of shadowy versions of itself that fan out and rake dark claws across all creatures within 15 feet. Each creature in that area must make a DC 13 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.
+
+

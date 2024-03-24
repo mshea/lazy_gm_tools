@@ -6,12 +6,13 @@
 - **Hit Points:** 78 (12d8+24)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 319
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 16 (+3) | 14 (+2) | 14 (+2) | 16 (+3) | 20 (+5) |
 
+- **Skills:** deception +7, insight +5, perception +5, persuasion +7, stealth +5
 - **Damage Resistances:** cold, fire, lightning, poison; damage from nonmagical weapons
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Abyssal, Common, Infernal, telepathy 60 ft.
@@ -29,4 +30,5 @@
 - **Shapeshift:** The malcubus magically changes its form to a Medium or Small humanoid or into its true form. It can fly only in its true form. While shapeshifted, its statistics are unchanged except for its size and speed. Its equipment is not transformed. It reverts to its true form if it dies.
 ### Reactions
 - **Living Shield:** When a creature the malcubus can see hits it with an attack, the malcubus can give an order to a creature charmed by it within 5 feet. The charmed creature uses its reaction, if available, to swap places with the malcubus. The attack hits the charmed creature instead of the malcubus.
-- **Shapeshift:** The malcubus magically changes its form to a Medium or Small humanoid or into its true form. It can fly only in its true form. While shapeshifted, its statistics are unchanged except for its size and speed. Its equipment is not transformed. It reverts to its true form if it dies.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 91 (14d8+28)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 252
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,13 @@
 - **Levitate:** As a bonus action, a hierophant lich can rise or descend vertically up to 20 feet and can remain suspended there. This trait works like the levitate spell, except there is no duration, and the lich doesn't need to concentrate to continue levitating each round.
 - **Rejuvenation:** If it has a sacred vessel, a destroyed hierophant lich gains a new body in 1d10 days, regaining all its hp and becoming active again. The new body appears within 5 feet of the vessel.
 - **Turn Resistance:** The hierophant lich has advantage on saving throws against any effect that turns undead.
-- **Spellcasting:** The lich is an 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The lich has the following cleric spells prepared: Cantrips (at will): guidance, mending, sacred flame, thaumaturgy 1st level (4 slots): command, detect magic, protection from evil and good, sanctuary 2nd level (3 slots): blindness/deafness, hold person, silence 3rd level (3 slots): animate dead, dispel magic, spirit guardians 4th level (3 slots): banishment, freedom of movement, guardian of faith 5th level (1 slot): flame strike
+- **Spellcasting:** The lich is an 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The lich has the following cleric spells prepared:
+Cantrips (at will): guidance, mending, sacred flame, thaumaturgy
+1st level (4 slots): command, detect magic, protection from evil and good, sanctuary
+2nd level (3 slots): blindness/deafness, hold person, silence
+3rd level (3 slots): animate dead, dispel magic, spirit guardians
+4th level (3 slots): banishment, freedom of movement, guardian of faith
+5th level (1 slot): flame strike
 ### Actions
 - **Unholy Smite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) bludgeoning plus 9 (2d8) necrotic damage. The target must succeed on a DC 17 Wisdom saving throw or be charmed for 1 minute. The charmed target must defend the hierophant. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. An undead target that fails is charmed for 24 hours and can only repeat the saving throw once every 24 hours.
 

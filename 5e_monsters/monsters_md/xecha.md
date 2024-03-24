@@ -6,7 +6,7 @@
 - **Hit Points:** 133 (14d8+70)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 397
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Pseudopod (True Form Only):** Melee Weapon Attack: +6 to hit, 5 ft., one target, 13 (3d6+3) bludgeoning damage + 7 (2d6) acid.
 - **Slam:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 12 (2d8+3) bludgeoning damage.
 - **Sensory Overload (Recharge 5–6):** Psychic pulse. Each creature that isn’t a Construct or Undead within 20' of the xecha: 24 (7d6) psychic and blinded and deafened until end of its next turn (DC 15 Int half damage not blinded/deafened).
+
+

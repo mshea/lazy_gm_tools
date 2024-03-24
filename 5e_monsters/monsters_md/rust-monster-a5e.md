@@ -6,12 +6,13 @@
 - **Hit Points:** 27 (5d8+5)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 375
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 12 (+1) | 12 (+1) | 2 (-4) | 12 (+1) | 6 (-2) |
 
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** 
 ### Special Abilities
@@ -23,3 +24,5 @@
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) piercing damage.
 ### Reactions
 - **Defensive Bite:** When the rust monster is hit by a melee attack made by a creature it can see within 5 feet, it bites the attacker.
+
+

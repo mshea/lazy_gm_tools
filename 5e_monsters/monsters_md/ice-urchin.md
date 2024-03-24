@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (6d10+12)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 239
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Actions
 - **Ice Spine:** Melee Weapon Attack: +4 to hit reach 5 ft. one target 9 (2d6+2) piercing damage + 2 (1d4) cold
 - **Venomous Spine:** Ranged Weapon Attack: +3 to hit range 20/60' one target 3 (1d4+1) piercing damage + 2 (1d4) cold and 7 (2d6) poison.
+
+

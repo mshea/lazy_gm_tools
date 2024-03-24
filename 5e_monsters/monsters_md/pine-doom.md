@@ -6,7 +6,7 @@
 - **Hit Points:** 172 (15d12+75)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 295
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Slam:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) bludgeoning damage.
 - **Sap-filled Pinecone:** Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit: 10 (2d4 + 5) slashing damage. The target and each creature within 5 feet of it must succeed on a DC 16 Dexterity saving throw or be restrained by sap. A creature can be free if it or another creature takes an action to make a DC 16 Strength check and succeeds.
 - **Flurry of Pinecones (Recharge 6):** Each creature within 30 feet of the pine doom must make a DC 16 Dexterity saving throw, taking 15 (6d4) slashing damage on a failed save, or half as much damage on a successful one.
+
+

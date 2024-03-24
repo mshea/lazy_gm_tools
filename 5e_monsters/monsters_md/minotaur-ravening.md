@@ -6,7 +6,7 @@
 - **Hit Points:** 85 (10d10+30)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 272
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (1d8+4) piercing damage and minotaur gains temp hp equal to damage. Target: DC 13 Con save or infected with ravening (below).
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d6+4) slashing damage.
 - **Gore:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 13 (2d8+4) piercing damage.
+
+

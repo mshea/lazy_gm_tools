@@ -6,7 +6,7 @@
 - **Hit Points:** 44 (8d8+8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 108
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 - **Swarm:** The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny compsognathus. The swarm can’t regain hp or gain temporary hp.
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hp or fewer.
+
+

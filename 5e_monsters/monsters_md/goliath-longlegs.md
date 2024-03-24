@@ -6,7 +6,7 @@
 - **Hit Points:** 162 (12d20+36)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 206
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Leg:** Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 - **Paralytic Web (Recharge 5-6):** Ranged Weapon Attack: +5 to hit, range 30/60 ft., one Large or smaller creature. Hit: The creature is restrained by webbing and must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the paralyzed effect on itself on a success. As an action, the restrained creature can make a DC 15 Strength check, escaping from the webbing on a success. The webbing can also be attacked and destroyed (AC 12; hp 15; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 - **Reel:** The goliath longlegs pulls one creature caught in its web up to 30 feet straight toward it. If the target is within 10 feet of the goliath longlegs, the goliath longlegs can make one bite attack as a bonus action.
+
+

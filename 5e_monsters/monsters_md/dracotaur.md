@@ -6,7 +6,7 @@
 - **Hit Points:** 110 (13d10+39)
 - **Speed:** burrow 20 ft. walk 50 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 110
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Longbow:** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage.
 - **Lightning Arrow (Recharges after a Short or Long Rest):** The dracotaur shoots an arrow at a point it can see within 150 feet where it explodes into a 20-foot-radius sphere of lightning. Each creature in that area must make a DC 15 Dexterity saving throw, taking 28 (8d6) lightning damage on a failed save, or half as damage much on a successful one.
 - **Lightning Breath (Recharge 5-6):** The dracotaur exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 33 (6d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+

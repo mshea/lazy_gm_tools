@@ -6,7 +6,7 @@
 - **Hit Points:** 55 (10d8+10)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 54
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Dark Stare:** The bloody bones stares balefully at one creature it can see within 60 feet. That creature must succeed on a DC 13 Wisdom saving throw or have disadvantage on all attacks until the end of its next turn.
 ### Reactions
 - **Its Crown Runs Red:** When it is hit by an attack, the bloody bones regains 5 (1d10) hit points and has resistance to that damage type until the end of its next turn as life-giving blood pours from the top of its skull.
+
+

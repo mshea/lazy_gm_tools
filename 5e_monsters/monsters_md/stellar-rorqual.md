@@ -6,7 +6,7 @@
 - **Hit Points:** 165 (10d20+60)
 - **Speed:** walk 0 ft. fly 80 ft. swim 40 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 338
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Tail Slap:** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 26 (4d8 + 8) bludgeoning damage.
 - **Energy Burst:** Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 24 (7d6) force damage.
 - **Planar Dive:** The stellar rorqual can transport itself and any willing creature inside its mouth to the Astral, Ethereal, or Material Planes or to the Void. This works like the plane shift spell, except the stellar rorqual can transport any number of willing creatures as long as they are inside its mouth. The stellar rorqual can’t use this action to banish an unwilling creature.
+
+

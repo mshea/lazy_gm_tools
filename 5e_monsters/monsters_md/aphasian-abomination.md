@@ -6,7 +6,7 @@
 - **Hit Points:** 170 (20d10+60)
 - **Speed:** walk 0 ft. fly 60 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 39
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 ### Actions
 - **Multiattack:** Three Force Blast attacks.
 - **Force Blast:** Melee or Ranged Spell Attack: +9 to hit 5 ft. or range 120' one target 23 (4d8+5) force.
+
+

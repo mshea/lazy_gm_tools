@@ -6,13 +6,14 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 476
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 14 (+2) | 10 (+0) | 10 (+0) | 14 (+2) |
 
 - **Saving Throws**: Str +5, Con +4, Wis +2
+- **Skills:** athletics +5, history +0, perception +2
 - **Senses:** passive Perception 12
 - **Languages:** any two
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit  range 100/400 ft.  one target. Hit: 6 (1d10 + 1) piercing damage.
 - **Knightly Inspiration (1/Day):** The knight inspires creatures of their choice within 30 feet that can hear and understand them. For the next minute  inspired creatures gain an expertise die (1d4) on attack rolls and saving throws. A creature can benefit from only one Knightly Inspiration at a time  and the knight cannot target themselves.
 - **The typical knight is a highly-trained, heavily-armored cavalry soldier who has sworn allegiance to a noble, monarch, or faith:** Not every knight  however  is forged from the same iron. Some knights fight on foot or on griffon-back  and some owe allegiance to none but themselves.
+
+

@@ -6,13 +6,14 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 497
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 18 (+4) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
 - **Saving Throws**: Str +7, Dex +7, Con +6, Wis +4
+- **Skills:** athletics +7, intimidation +5, perception +4, stealth +7, survival +4
 - **Senses:** passive Perception 14
 - **Languages:** any one
 ### Actions
@@ -22,3 +23,5 @@
 - **Aggressive Charge:** The war chief moves up to their Speed towards an enemy they can see or hear.
 - **Whirling Axe:** The war chief attacks with their greataxe.
 - **The generals and elite fighters of a war horde hew through the front lines of battle with broad-bladed axes:** The statistics of a warhordling orc war chief can also be used to represent the leaders of a war horde composed of humans or other heritages.
+
+

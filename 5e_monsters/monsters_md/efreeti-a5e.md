@@ -6,13 +6,14 @@
 - **Hit Points:** 172 (15d10+90)
 - **Speed:** walk 40 ft. fly 60 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 221
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 18 (+4) | 22 (+6) | 14 (+2) | 16 (+3) | 16 (+3) |
 
 - **Saving Throws**: Dex +8, Int +6, Wis +7, Cha +7
+- **Skills:** athletics +10, intimidation +7, perception +7
 - **Damage Immunities:** fire
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Ignan
@@ -25,3 +26,5 @@
 - **Hurl Flame:** Ranged Spell Attack: +7 to hit  range 120 ft.  one target. Hit: 21 (6d6) fire damage.
 ### Bonus Actions
 - **Fiery Wall (1/Day):** An opaque wall of magical flame rises from the ground within 60 feet. The wall is 6 inches thick and can be up to 20 feet high and 30 feet long. Each creature within the wall when it appears makes a DC 15 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save or half damage on a success. A creature also takes 18 (4d8) fire damage when it enters the wall for the first time on a turn or ends its turn there. The wall disappears when the efreet is killed or incapacitated, or when it uses an action to dismiss it.
+
+

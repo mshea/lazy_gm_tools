@@ -6,12 +6,13 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 70
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 14 (+2) | 8 (-1) | 8 (-1) | 8 (-1) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned
@@ -33,3 +34,5 @@
 - **10 Whispering Mouth:** The demon targets a creature within 30 feet that can hear it. The target makes a DC 12 Wisdom saving throw. On a failure, it takes 7 (1d8 + 3) psychic damage and is magically cursed until the start of the demons next turn. While cursed, the demons attacks against the target are made with advantage, and the target has disadvantage on saving throws against the demons Whispering Mouth.
 ### Actions
 - **Multiattack:** The demon makes two attacks  using any attack granted by its Varied Shapes trait.
+
+

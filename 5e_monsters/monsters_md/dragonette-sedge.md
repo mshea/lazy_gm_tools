@@ -6,7 +6,7 @@
 - **Hit Points:** 27 (5d4+15)
 - **Speed:** walk 20 ft. swim 50 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 149
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Boggy Presence (1/Day):** Transmutes ground in 10 ft. radius centered on it into a muddy soup for 10 min. For the duration any creature other than sedge dragonette moving through area must spend 4' of move per 1' it moves.
 ### Reactions
 - **Prickly Defense:** When a creature dragonette can see hits dragonette with melee attack while within 5 ft. of it dragonette can make one Spines attack vs. the creature.
+
+

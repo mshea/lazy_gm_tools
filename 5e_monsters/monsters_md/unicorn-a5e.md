@@ -6,12 +6,13 @@
 - **Hit Points:** 85 (9d10+36)
 - **Speed:** walk 80 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 415
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 18 (+4) | 18 (+4) | 16 (+3) | 20 (+5) | 20 (+5) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, paralyzed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 15
@@ -28,3 +29,5 @@
 - **Luck: During the next 24 hours, the creature can roll a d12 and add the result to one ability check, attack roll, or saving throw after seeing the result:** 
 - **Protection: A glowing mote of light orbits the creatures head:** The mote lasts 24 hours. When the creature fails a saving throw  it can use its reaction to expend the mote and succeed on the saving throw.
 - **Resolution: The creature is immune to being charmed or frightened for 24 hours:** 
+
+

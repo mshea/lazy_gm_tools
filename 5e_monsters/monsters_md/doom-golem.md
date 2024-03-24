@@ -6,12 +6,13 @@
 - **Hit Points:** 153 (18d10+54)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 201
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 24 (+7) | 13 (+1) | 16 (+3) | 3 (-4) | 10 (+0) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Immunities:** cold, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 120 ft., passive Perception 10
@@ -29,3 +30,5 @@
 - **Wind of Boreas (Recharge 5-6):** The doom golem releases an arctic wind in a 15-foot radius around itself or in a 30-foot cone. Each creature in that area must make a DC 16 Constitution saving throw, taking 38 (11d6) cold damage on a failed save, or half as much damage on a successful one.
 ### Reactions
 - **Doom Upon You:** When a creature the doom golem can see within 60 feet of it hits it with a spell or attack that requires a ranged attack roll, the doom golem strikes the attacker with a doom bolt. The doom bolt is a shadowy reflection of the original attack, using the same attack roll and effects as the original, except it deals necrotic damage.
+
+

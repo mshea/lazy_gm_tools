@@ -6,12 +6,13 @@
 - **Hit Points:** 157 (15d12+60)
 - **Speed:** walk 30 ft. swim 90 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 194
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 18 (+4) | 6 (-2) | 10 (+0) | 6 (-2) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** acid; damage from nonmagical weapons
 - **Condition Immunities:** fatigue, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
@@ -25,3 +26,5 @@
 - **Multiattack:** The elemental makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 22 (4d8 + 4) bludgeoning damage.
 - **Whelm:** The elemental targets each Large or smaller creature in its space. Each target makes a DC 15 Strength saving throw. On a failure  the target is grappled (escape DC 15). Until this grapple ends  the target is restrained and unable to breathe air. The elemental can move at full speed while carrying grappled creatures inside its space. It can grapple one Large creature or up to four Medium or smaller creatures.
+
+

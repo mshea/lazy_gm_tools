@@ -6,12 +6,13 @@
 - **Hit Points:** 152 (16d10+64)
 - **Speed:** fly 60 ft. walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 378
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 21 (+5) | 15 (+2) | 18 (+4) | 10 (+0) | 16 (+3) | 7 (-2) |
 
+- **Skills:** 
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 13
 - **Languages:** Common, Orc
 ### Special Abilities
@@ -23,3 +24,5 @@
 - **Longbow:** Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 150/600 ft., one target. Hit: 15 (2d8 + 2) piercing damage.
 ### Reactions
 - **Precognition (Recharge 6):** The yathon catches a glimpse of an attack just before it lands, giving it time to react. When a creature the yathon can see hits it with a melee attack, the attacker has disadvantage on the attack roll. Alternatively, when the yathon misses with a melee weapon attack, it can reroll the attack roll with advantage.
+
+

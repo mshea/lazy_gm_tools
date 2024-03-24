@@ -6,7 +6,7 @@
 - **Hit Points:** 171 (18d12+54)
 - **Speed:** walk 10 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 303
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Multiattack:** The ecstatic bloom makes three gilded beam attacks.
 - **Gilded Beam:** Ranged Spell Attack: +9 to hit, range 150 ft., one target. Hit: 27 (6d8) radiant damage.
 - **Castigate (Recharges after a Short or Long Rest):** The bloom summons a chorus of booming celestial voices that descend into the minds of nearby creatures. Each creature within 30 feet of the bloom must succeed on a DC 17 Wisdom saving throw or be stunned until the end of its next turn. Castigate only affects non-good-aligned creatures with an Intelligence of 5 or higher.
+
+

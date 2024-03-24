@@ -6,7 +6,7 @@
 - **Hit Points:** 178 (17d10+85)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 211
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Multiattack:** Three Slam attacks.
 - **Slam:** Melee Weapon Attack: +10 to hit, 10 ft., one target, 22 (3d10+6) bludgeoning damage.
 - **Acid Jet (Recharge 5–6):** Sprays jet of acid in 30' line by 5 ft. wide. Each creature in line: 40 (9d8) acid (DC 17 Dex half).
+
+

@@ -6,13 +6,14 @@
 - **Hit Points:** 345 (30d10+180)
 - **Speed:** walk 30 ft. burrow 30 ft. fly 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 218
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 12 (+1) | 22 (+6) | 5 (-3) | 6 (-2) | 6 (-2) |
 
 - **Saving Throws**: Str +10, Con +10, Int +5, Wis +6, Cha +6
+- **Skills:** athletics +10, perception +6
 - **Damage Resistances:** acid
 - **Condition Immunities:** petrified
 - **Senses:** darkvision 120 ft., tremorsense 30 ft., passive Perception 16
@@ -27,3 +28,5 @@
 - **Quake (Recharge 5-6):** Amid deafening rumbling  the ground shakes in a 10-foot radius around a point on an earth or stone surface within 90 feet. The area becomes difficult terrain. Each non-elemental creature in the area makes a DC 18 Constitution saving throw  taking 24 (7d6) thunder damage and falling prone on a failure or taking half damage on a success.
 ### Bonus Actions
 - **Stone Wall (1/Day):** A permanent stone wall magically rises from an earth or stone surface within 60 feet. The wall is 6 inches thick and can be up to 20 feet high and 30 feet long. If it appears in a creatures space, the creature can choose which side of the wall to move to. Each 10-foot-by-10-foot section of the wall is an object with AC 18 and 30 hit points.
+
+

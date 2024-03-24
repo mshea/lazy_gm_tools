@@ -6,12 +6,13 @@
 - **Hit Points:** 67 (9d8+27)
 - **Speed:** walk 20 ft. swim 20 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 245
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 8 (-1) | 16 (+3) | 2 (-4) | 10 (+0) | 6 (-2) |
 
+- **Skills:** 
 - **Damage Resistances:** psychic
 - **Condition Immunities:** prone
 - **Senses:** darkvision 60 ft., passive Perception 10
@@ -25,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one creature. Hit: 7 (2d6) piercing damage  and the target makes a DC 10 Strength saving throw  falling prone on a failure. If the target is killed by this attack  it is absorbed into the mouther.
 ### Bonus Actions
 - **Blinding Bile (Recharge 5-6):** Ranged Weapon Attack: +2 to hit, range 20/60 ft., one creature. Hit: 3 (1d6) acid damage, and the target is blinded until the end of the mouthers next turn.
+
+

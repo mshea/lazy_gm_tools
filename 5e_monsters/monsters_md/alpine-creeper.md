@@ -6,7 +6,7 @@
 - **Hit Points:** 95 (10d12+30)
 - **Speed:** walk 15 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 19
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Cleaning Call (1/Day):** Sprays pheromone-laced spores calling nearby Beasts to feast. Arrive in 1d4 rounds and act as creeper allies attacking creatures within 10 ft. of it. Beasts remain 1 hr until creeper dies or until it dismisses them as a bonus action. Choose one CR 1 or lower Beast or roll d100 to choose Summoned Beasts. They arrive at creeper’s location; aggressive and prioritize active threats before feasting on creatures knocked out. Summoned Beasts:[br/] • 01-04: 2d4 badgers • 05-09: 1d6 black bears • 10-13: 1d3 brown bears • 14-17: 1d3 dire wolves • 18-20: 1d6 giant badgers • 21-30: 2d6 giant rats  • 31-34: 1d3 giant vultures • 35-40: 2d6 giant weasels • 41-44: 1d3 lions or tigers • 45-60: 1d6 swarms of rats • 61-71: 2d4 wolves • 72-75: 1d4 worgs • 76-100: No beasts respond
 ### Bonus Actions
 - **Lethargic Stupor:** One unconscious Humanoid or Giant in creeper’s space suffers one level of exhaustion. A creature with more than half its hp max can’t suffer more than one level of exhaustion from this. This exhaustion lasts until creature finishes short rest.
+
+

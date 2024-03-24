@@ -6,7 +6,7 @@
 - **Hit Points:** 66 (12d10)
 - **Speed:** walk 30 ft. swim 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 363
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Bites:** Melee Weapon Attack: +5 to hit, 0 ft., one creature, in the swarm’s space. 14 (4d6) piercing damage + 9 (2d8) poison or 7 (2d6) piercing damage + 4 (1d8) poison if the swarm has half its hp or fewer.
 - **Spit Swamp Sludge:** Ranged Weapon Attack: +5 to hit 20/60' one target 18 (4d8) poison or 9 (2d8) poison if the swarm has half its hp or fewer.
 - **Soggy Relocation (Recharge 5–6):** While at least one creature is in swarm’s space swarm uses Puddle Jump attempting to pull one creature along for the ride. Target magically teleported with swarm to swarm’s destination (DC 13 Str negates).
+
+

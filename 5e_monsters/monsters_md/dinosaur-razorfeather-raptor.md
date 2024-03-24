@@ -6,7 +6,7 @@
 - **Hit Points:** 39 (6d8+12)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 126
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Multiattack:** One Bladed Feather attack and one Claw attack.
 - **Bladed Feather:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 30/90' one target 8 (1d10+3) slashing damage and the target’s speed is reduced by 10 ft. until the end of its next turn.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) slashing damage.
+
+

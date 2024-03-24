@@ -6,13 +6,14 @@
 - **Hit Points:** 256 (27d8+135)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 19 (22,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 479
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 12 (+1) | 20 (+5) | 20 (+5) | 14 (+2) | 12 (+1) |
 
 - **Saving Throws**: Con +11, Int +11, Wis +8
+- **Skills:** arcana +11, athletics +11
 - **Senses:** passive Perception 12
 - **Languages:** any six
 ### Special Abilities
@@ -20,7 +21,37 @@
 - **Magic Resistance:** The blademaster has advantage on saving throws against spells and magical effects.
 - **Steel Focus:** The blademaster has advantage on Constitution saving throws made to maintain concentration on spells.
 - **Superior Heavy Armor Master:** While wearing heavy armor, the blademaster reduces any bludgeoning, piercing, or slashing damage they take from nonmagical weapons by 5.
-- **Spellcasting:** The arcane blademaster is a 20th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 19  +11 to hit with spell attacks). The arcane blademaster has the following wizard spells prepared:  Cantrips (at will): acid splash  fire bolt  shocking grasp  true strike  1st-level (4 slots): burning hands  charm person  magic missile  sleep  2nd-level (3 slots): magic weapon  misty step  see invisibility  3rd-level (3 slots): dispel magic  fireball  fly  lightning bolt  tongues  4th-level (3 slots): fire shield  stoneskin  wall of fire  5th-level (3 slots): cone of cold  conjure elemental  hold monster  telekinesis  6th-level (2 slots): globe of invulnerability  sunbeam  7th-level (2 slots): teleport  unholy star  8th-level (1 slot): power word stun  9th-level (1 slot): meteor swarm
+- **Spellcasting:** The arcane blademaster is a 20th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 19
+ +11 to hit with spell attacks). The arcane blademaster has the following wizard spells prepared:
+ Cantrips (at will): acid splash
+ fire bolt
+ shocking grasp
+ true strike
+ 1st-level (4 slots): burning hands
+ charm person
+ magic missile
+ sleep
+ 2nd-level (3 slots): magic weapon
+ misty step
+ see invisibility
+ 3rd-level (3 slots): dispel magic
+ fireball
+ fly
+ lightning bolt
+ tongues
+ 4th-level (3 slots): fire shield
+ stoneskin
+ wall of fire
+ 5th-level (3 slots): cone of cold
+ conjure elemental
+ hold monster
+ telekinesis
+ 6th-level (2 slots): globe of invulnerability
+ sunbeam
+ 7th-level (2 slots): teleport
+ unholy star
+ 8th-level (1 slot): power word stun
+ 9th-level (1 slot): meteor swarm
 ### Actions
 - **Multiattack:** The arcane blademaster attacks four times and casts a cantrip.
 - **Longsword:** Melee Weapon Attack: +11 to hit  reach 5 ft.  one target. Hit: 11 (1d8 + 7) slashing damage.
@@ -35,3 +66,5 @@
 ### Bonus Actions
 - **Improved War Magic:** When the blademaster uses an action to cast a spell, they can make one weapon attack.
 - **Misty Step (2nd-Level; V):** The blademaster teleports to an unoccupied space they can see within 30 feet. The blademaster can't cast this spell and a 1st-level or higher spell on the same turn.
+
+

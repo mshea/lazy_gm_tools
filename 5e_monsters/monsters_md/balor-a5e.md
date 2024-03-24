@@ -6,13 +6,14 @@
 - **Hit Points:** 299 (26d12+130)
 - **Speed:** walk 40 ft. fly 80 ft.
 - **Challenge Rating:** 19 (22,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 66
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 26 (+8) | 18 (+4) | 20 (+5) | 20 (+5) | 20 (+5) | 22 (+6) |
 
 - **Saving Throws**: Str +14, Dex +10, Con +11, Wis +11, Cha +12
+- **Skills:** intimidation +12, perception +11
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned
@@ -31,3 +32,5 @@
 - **Teleport:** The balor magically teleports to a space within 120 feet that it can see.
 ### Reactions
 - **Instinctive Teleport:** After the balor takes damage, it uses Teleport.
+
+

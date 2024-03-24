@@ -6,7 +6,7 @@
 - **Hit Points:** 10 (3d4+3)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 108
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -20,3 +20,5 @@
 - **Pack Tactics:** The compsognathus has advantage on attack rolls against a creature if at least one of the compsognathus’ allies is within 5 feet of the creature and the ally isn’t incapacitated.
 ### Actions
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+

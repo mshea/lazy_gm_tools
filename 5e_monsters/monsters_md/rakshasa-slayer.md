@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (19d8+57)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 328
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Gain the Upper Hand:** The slayer studies one creature it can see within 30' of it granting the slayer advantage on the next attack roll it makes vs. the target before start of the slayer’s next turn. If the attack hits slayer’s weapon attack deals extra 9 (2d8) piercing damage.
 ### Reactions
 - **Shadow Leap:** When a creature moves into a space within 5 ft. of slayer while slayer is in dim light or darkness slayer can teleport to unoccupied space it can see within 30' of it. Destination must also be in dim light or darkness.
+
+

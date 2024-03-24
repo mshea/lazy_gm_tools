@@ -6,7 +6,7 @@
 - **Hit Points:** 149 (23d8+46)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 405
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Bend the Spoon:** Chooses one nonmagical weapon it can see within 30' of it and magically warps it. If weapon is being worn or carried creature doing so can prevent warping via DC 16 Wis save. Warped weapon deals only half its normal damage on a hit and creature wielding warped weapon has disadvantage on attack rolls with it. A creature can repair a warped weapon with mending spell or by spending a short rest repairing it with the appropriate tools.
 ### Reactions
 - **Appeal to the Fervent:** When a creature psychophant can see targets it with attack psychophant calls for aid from its followers switching places with friendly creature within 5 ft. of it. Friendly creature becomes target of the attack instead.
+
+

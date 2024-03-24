@@ -6,7 +6,7 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 316
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Unveil (1/Day):** The mystic unveils a darker reality to up to three creatures it can see within 30 feet of it. Each target must succeed on a DC 13 Wisdom saving throw or be frightened until the end of its next turn.
 ### Reactions
 - **Void Deflection:** When a creature the mystic can see targets it with a ranged spell attack, the mystic can attempt to deflect the spell. The mystic makes a Constitution saving throw. If the result is higher than the attack roll, the mystic is unaffected by the spell.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 40 ft. climb 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 275
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 11 (2d6+4) slashing damage and target is grappled (escape DC 14). It has two claws each of which can grapple only one target.
 - **Briny Embrace:** Fills lungs of a creature grappled by it with seawater. Creature:  DC 14 Con save or begin suffocating. A suffocating but conscious creature can re-save at end of each of its turns success ends effect on itself. Effect also ends if creature escapes grapple.
 - **Whispered Terrors (Recharge 5–6):** Bombards the minds of up to 3 creatures it can see within 60' of it with nightmares: 18 (4d8) psychic and frightened until end of its next turn (DC 14 Wis half not frightened). If creature fails by 5+ also suffers short-term madness.
+
+

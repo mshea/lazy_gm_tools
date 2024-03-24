@@ -6,7 +6,7 @@
 - **Hit Points:** 150 (20d8+60)
 - **Speed:** walk 30 ft. hover True ft. fly 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 42
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Bell:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 4) bludgeoning damage plus 14 (4d6) necrotic damage.
 - **Bell Toll:** The black crier targets one creature it can see within 60 feet of it. The creature must make a DC 17 Wisdom saving throw. On a failure, the target takes 14 (4d6) necrotic damage and is frightened until the end of its next turn. On a success, the target takes half the damage and isn’t frightened. If the saving throw fails by 5 or more, the target suffers one level of exhaustion.
 - **Crier’s Lament (1/Day):** The black crier unleashes a devastating peal of anguish and rage in a 30-foot cone. Each creature in the area must make a DC 16 Charisma saving throw. On a failure, a creature drops to 0 hp. On a success, a creature takes 21 (6d6) psychic damage and is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+

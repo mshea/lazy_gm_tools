@@ -6,12 +6,13 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 187
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 10 (+0) | 16 (+3) | 12 (+1) |
 
+- **Skills:** perception +6, stealth +6, survival +6
 - **Damage Resistances:** poison
 - **Senses:** darkvision 120 ft., passive Perception 16
 - **Languages:** Undercommon, Elvish, one more
@@ -29,3 +30,5 @@
 - **Longbow:** Melee Weapon Attack: +6 to hit  range 120/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
 - **Darkness (2nd-Level; V, S, Concentration):** Magical darkness spreads from a point within 30 feet  filling a 15-foot-radius sphere and spreading around corners. It remains for 1 minute. A creature with darkvision can't see through this darkness and nonmagical light can't illuminate it.
 - **Web (2nd-Level; V, S, Concentration):** Thick  sticky webs fill a 20-foot cube within 60 feet  lightly obscuring it and making it difficult terrain. The webs must either be anchored between two solid masses (such as walls) or layered 5 feet deep over a flat surface. Each creature that starts its turn in the webs or that enters them during its turn makes a DC 14 Dexterity saving throw. On a failure  it is restrained. A creature can escape by using an action to make a DC 14 Strength check. Any 5-foot cube of webs exposed to fire burns away in 1 round  dealing 5 (2d4) fire damage to any creature that starts its turn in the fire. The webs remain for 1 minute.
+
+

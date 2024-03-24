@@ -6,7 +6,7 @@
 - **Hit Points:** 63 (14d8)
 - **Speed:** fly 10 ft. walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 105
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Hellish Chorus (Recharge 5-6):** The wind's harp devil creates an infernal cacophony. Each creature within 30 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) psychic damage and 7 (2d6) thunder damage on a failed save, or half as much damage on a successful one. Devils are immune to the hellish chorus.
 ### Reactions
 - **Diabolical Countersong:** When a spell is cast within 60 feet of it, the wind's harp devil plays a single, infernal note, interrupting the spell. This reaction works like the counterspell spell, except it only works on spells of 3rd level or lower.
+
+

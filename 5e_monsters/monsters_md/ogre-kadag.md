@@ -6,7 +6,7 @@
 - **Hit Points:** 133 (14d10+56)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 300
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Multiattack:** Three Spear attacks.
 - **Spear:** Melee or Ranged Weapon Attack: +7 to hit 10 ft. or range 20/60' one target 12 (2d6+5) piercing damage or 14 (2d8+5) piercing damage if used with two hands to make a melee attack.
 - **Master of Death (Recharge 5–6):** Empowers up to three friendly Undead it can see within 30' of it. Each can use a reaction to move up to half its speed and make one melee weapon attack. In addition an empowered Undead gains 5 (2d4) temp hp for 1 min. The kadag ogre can’t empower Undead with Int score of 10 or higher.
+
+

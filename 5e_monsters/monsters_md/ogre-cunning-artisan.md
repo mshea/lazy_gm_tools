@@ -6,7 +6,7 @@
 - **Hit Points:** 119 (14d10+42)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 299
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Battleaxe:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 13 (2d8+4) slashing damage or 15 (2d10+4) slashing damage if used with two hands + 4 (1d8) force.
 - **Arcane Bolt:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 12 (2d8+3) force.
 - **Curse Item (Recharge 5–6):** Curses one magic item it can see within 60' of it. If item is being worn or carried by a creature creature must make DC 15 Cha save to avoid curse. For 1 min cursed item suffers one curse described below based on type.
+
+

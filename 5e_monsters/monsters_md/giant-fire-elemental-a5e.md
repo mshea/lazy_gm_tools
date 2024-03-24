@@ -6,12 +6,13 @@
 - **Hit Points:** 127 (15d12+30)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 194
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 18 (+4) | 14 (+2) | 6 (-2) | 10 (+0) | 6 (-2) |
 
+- **Skills:** 
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** damage from nonmagical weapons
 - **Condition Immunities:** fatigue, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
@@ -26,3 +27,5 @@
 - **Multiattack:** The elemental makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 24 (4d8 + 4) fire damage  and the target suffers 5 (1d10) ongoing fire damage. A creature can use an action to end the ongoing damage.
 - **Wildfire (Recharge 4-6):** The elemental moves up to half its Speed without provoking opportunity attacks. It can enter the spaces of hostile creatures but not end this movement there. When a creature shares its space with the elemental for the first time during this movement  the creature is subject to the elementals Fiery Aura and the elemental can make a slam attack against that creature.
+
+

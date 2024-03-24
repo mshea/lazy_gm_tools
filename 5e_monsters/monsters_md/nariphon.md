@@ -6,7 +6,7 @@
 - **Hit Points:** 195 (17d12+85)
 - **Speed:** walk 15 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 285
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Thorns:** Ranged Weapon Attack: +12 to hit 30/120' one target 17 (3d6+7) piercing damage and target must make DC 18 Wis save or thorn falls to the ground and instantly grows into a vegetative clone (see above) under nariphon’s control.
 ### Bonus Actions
 - **Bury:** One creature grappled by nariphon is knocked prone dragged into ground and buried just below surface ending grapple. Victim is restrained unable to breathe or stand up. Creature including victim can use action to free buried creature via DC 18 Str.
+
+

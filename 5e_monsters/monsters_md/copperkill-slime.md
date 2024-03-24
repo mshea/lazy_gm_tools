@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d12+45)
 - **Speed:** walk 20 ft. climb 20 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 94
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Poisonous Snap (Stretched Body Only Recharge 5–6):** While it is covering an object or structure it can rapidly collapse back to its normal form ending the stretch and spraying all nearby creatures with poisonous slime. Each creature within 10 ft. of any space the stretched slime occupied before collapsing: 27 (6d8) poison and coated in poisonous slime (DC 15 Dex half not coated). A creature coated takes 9 (2d8) poison at start of each of its turns. A creature including slime-coated creature can take an action to clean it off.
 ### Bonus Actions
 - **Stretch Body:** Stretches its body across surface of a Gargantuan or smaller object or across surface of a wall pillar or similar structure no larger than a 20' square within 5 ft. of it sharing the space of the object or structure. Slime can end the stretch as a bonus action occupying nearest unoccupied space to the object or structure.
+
+

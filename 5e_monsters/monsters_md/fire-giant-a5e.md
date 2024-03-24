@@ -6,13 +6,14 @@
 - **Hit Points:** 162 (13d12+78)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 234
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 25 (+7) | 10 (+0) | 22 (+6) | 10 (+0) | 14 (+2) | 12 (+1) |
 
 - **Saving Throws**: Str +11, Dex +4, Con +10, Cha +5
+- **Skills:** athletics +11, perception +6, intimidation +5
 - **Damage Immunities:** fire
 - **Senses:** passive Perception 16
 - **Languages:** Giant
@@ -25,3 +26,5 @@
 - **Sword Sweep (1/Day, While Bloodied):** The giant makes a greatsword attack against each creature within 10 feet.
 ### Reactions
 - **Kick:** When hit by a melee attack by a Medium or smaller creature the giant can see within 10 feet, the giant kicks its attacker. The attacker makes a DC 19 Dexterity saving throw. On a failure, it takes 14 (3d4 + 7) bludgeoning damage, is pushed up to 20 feet from the giant, and falls prone.
+
+

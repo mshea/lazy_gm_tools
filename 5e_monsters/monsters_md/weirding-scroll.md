@@ -6,7 +6,7 @@
 - **Hit Points:** 27 (6d4+12)
 - **Speed:** fly 10 ft. walk 0 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 376
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 ### Actions
 - **Dominate:** A weirding scroll beguiles one humanoid that it can see within 30 feet. The target must succeed on a DC 13 Wisdom saving throw or be charmed for 1 hour. The charmed creature obeys the telepathic commands of the weirding scroll to the best of its ability. This action works like the dominate person spell, except the weirding scroll doesn't need to concentrate to maintain the domination, and it can't take total and precise control of the target. The weirding scroll can have only one humanoid under its control at one time. If it dominates another, the effect on the previous target ends.
 - **Tendril of Light:** Melee Spell Attack: +5 to hit, reach 10 ft., one target. Hit: 3 (1d6) psychic damage plus 3 (1d6) radiant damage.
+
+

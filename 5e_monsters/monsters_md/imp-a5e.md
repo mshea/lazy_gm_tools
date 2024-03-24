@@ -6,12 +6,13 @@
 - **Hit Points:** 14 (4d4+4)
 - **Speed:** walk 20 ft. fly 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 85
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 16 (+3) | 12 (+1) | 10 (+0) | 12 (+1) | 14 (+2) |
 
+- **Skills:** deception +4, insight +3, perception +3, persuasion +4, stealth +5
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; damage from nonmagical, non-silvered weapons
 - **Condition Immunities:** poisoned
@@ -27,3 +28,5 @@
 - **Shapeshift:** The imp magically changes its form into a rat (speed 20 ft.)  raven (20 ft.  fly 60 ft.)  or spider (20 ft.  climb 20 ft.) or back into its true form. Its statistics are the same in each form except for its movement speeds. Equipment it carries is not transformed. It reverts to its true form if it dies.
 ### Bonus Actions
 - **Invisibility:** The imp magically turns invisible, along with any equipment carried. This invisibility ends if the imp makes an attack, falls unconscious, or dismisses the effect.
+
+

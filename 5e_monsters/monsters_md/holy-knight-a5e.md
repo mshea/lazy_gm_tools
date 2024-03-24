@@ -6,13 +6,14 @@
 - **Hit Points:** 93 (11d8+44)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 476
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 12 (+1) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
 
 - **Saving Throws**: Str +7, Con +7, Wis +5, Cha +5
+- **Skills:** athletics +7, insight +5, perception +5, religion +4
 - **Condition Immunities:** frightened
 - **Senses:** passive Perception 15
 - **Languages:** any two
@@ -25,3 +26,5 @@
 - **Lay On Hands (1/Day):** The knight touches a willing creature or themself and restores 30 hit points.
 - **Knightly Inspiration (1/Day):** The knight inspires creatures of their choice within 30 feet that can hear and understand them. For the next minute  inspired creatures gain an expertise die (1d4) on attack rolls and saving throws. A creature can benefit from only one Knightly Inspiration at a time  and the knight cannot target themselves.
 - **Holy knights are dedicated to a sacred temple or a righteous principle:** While they obey the mandates of the monarchs they serve  they are sworn to fight evil wherever they find it.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 112 (15d10+30)
 - **Speed:** climb 20 ft. walk 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 61
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 ### Actions
 - **Multiattack:** The child of Yggdrasil makes three claw attacks.
 - **Claw:** Melee Weapon Attack. +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) slashing damage plus 7 (2d6) acid damage.
+
+

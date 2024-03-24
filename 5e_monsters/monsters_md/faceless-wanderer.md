@@ -6,13 +6,14 @@
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** fly 30 ft. walk 0 ft. hover True ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 139
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 17 (+3) | 14 (+2) | 16 (+3) | 12 (+1) | 10 (+0) |
 
 - **Saving Throws**: Wis +3
+- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** cold
 - **Condition Immunities:** blinded, exhaustion, poisoned, prone
@@ -25,3 +26,5 @@
 - **Multiattack:** The faceless wanderer makes two attacks, but it can use its Memory Drain only once.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 7 (2d6) psychic damage.
 - **Memory Drain:** The faceless wanderer drains memories from an adult creature within 30 feet of it. The target must make a DC 13 Intelligence saving throw. On a failure, the target takes 14 (4d6) psychic damage and its Intelligence score is reduced by 1d4. The target dies if this reduces its Intelligence to 0. A humanoid slain in this way rises 1d4 hours later as a new faceless wanderer. Otherwise, the reduction lasts until the target finishes a short or long rest. On a success, the target takes half the damage and its Intelligence score isn’t reduced.
+
+

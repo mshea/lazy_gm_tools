@@ -6,7 +6,7 @@
 - **Hit Points:** 187 (15d12+90)
 - **Speed:** walk 40 ft. fly 60 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 42
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Stomp:** Melee Weapon Attack: +11 to hit 10 ft. one prone creature. 22 (3d10+6) bludgeoning damage.
 - **Trumpeting Blast:** Ranged Spell Attack: +10 to hit, 120 ft., one target, 19 (4d6+5) thunder.
 - **Sundering Quake (Recharge 5–6):** Slams its forelegs into the ground. Each creature in contact with the ground within 20' of it: 49 (14d6) force (DC 19 Dex half). Each structure in contact with the ground within 20' of archon also takes the damage and collapses if the damage reduces it to 0 hp.
+
+

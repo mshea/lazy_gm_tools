@@ -6,12 +6,13 @@
 - **Hit Points:** 120 (15d10+45)
 - **Speed:** walk 20 ft. climb 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 280
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 8 (-1) | 16 (+3) | 1 (-5) | 8 (-1) | 2 (-4) |
 
+- **Skills:** 
 - **Damage Immunities:** fire, necrotic, poison
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
@@ -23,3 +24,5 @@
 - **Multiattack:** The tar ooze makes two pseudopod attacks. If both attacks hit the same target, the target is covered in tar (see Sticky Situation).
 - **Pseudopod:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 14 (4d6) necrotic damage.
 - **Hurl Tar:** Ranged Weapon Attack: +2 to hit, range 60 ft., one target. Hit: 14 (4d6) necrotic damage and the target must succeed on a DC 14 Dexterity saving throw or be covered in tar (see Sticky Situation).
+
+

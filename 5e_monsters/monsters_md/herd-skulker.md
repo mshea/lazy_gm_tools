@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (6d10+12)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 231
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Bonus Actions
 - **Change Shape:** Transforms into a Large or smaller domesticated herd animal it can see such as a cow horse sheep or chicken or back into its true canine form. Its statistics other than its size are the same in each form. Reverts on death.
 - **Nimble Escape:** Takes the Disengage or Hide action.
+
+

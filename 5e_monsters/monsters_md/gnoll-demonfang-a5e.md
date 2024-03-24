@@ -6,13 +6,14 @@
 - **Hit Points:** 65 (10d8+20)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 247
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 16 (+3) | 14 (+2) | 10 (+0) | 10 (+0) | 12 (+1) |
 
 - **Saving Throws**: Con +4, Wis +2, Cha +3
+- **Skills:** 
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Abyssal, Gnoll
@@ -22,3 +23,5 @@
 ### Actions
 - **Multiattack:** The gnoll attacks three times with its Charging Claw.
 - **Charging Claw:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) slashing damage  or 10 (2d6 + 3) slashing damage if this is the gnolls first attack on this target this turn. The gnoll may then move up to 10 feet without provoking opportunity attacks.
+
+

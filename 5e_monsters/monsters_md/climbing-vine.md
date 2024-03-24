@@ -6,7 +6,7 @@
 - **Hit Points:** 13 (2d8+4)
 - **Speed:** walk 10 ft. climb 10 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 85
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Squeeze:** Squeezes creatures in its grasp. Each creature grappled by the climbing vine must make DC 11 Str save or take 5 (2d4) bludgeoning damage.
 ### Reactions
 - **Grasping Retaliation:** When a creature hits the climbing vine with melee attack while within 5 ft. of the vine the vine can make one Dewvine attack vs. it.
+
+

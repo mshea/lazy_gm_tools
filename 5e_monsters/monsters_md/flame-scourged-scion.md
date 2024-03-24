@@ -6,7 +6,7 @@
 - **Hit Points:** 125 (10d12+60)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 159
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** The flame-scourged scion makes three tentacle attacks.
 - **Tentacle:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage. If the target is a Large or smaller creature, it is grappled (escape DC 16). Until the grapple ends, the target is restrained, the flame-scourged scion can automatically hit the target with its tentacle, and it can't use the same tentacle on another target. The flame-scourged scion can grapple up to two creatures at one time.
 - **Embers (Recharge 6):** The flame-scourged scion fills the area around itself with a cloud of burning embers. Each creature within 10 feet of the flame-scourged scion must make a DC 18 Constitution saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. The embers die out within moments.
+
+

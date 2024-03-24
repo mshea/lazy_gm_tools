@@ -6,13 +6,14 @@
 - **Hit Points:** 379 (33d12+165)
 - **Speed:** walk 40 ft. fly 80 ft.
 - **Challenge Rating:** 24 (62,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 66
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 26 (+8) | 18 (+4) | 20 (+5) | 20 (+5) | 20 (+5) | 22 (+6) |
 
 - **Saving Throws**: Str +14, Dex +10, Con +11, Wis +11, Cha +12
+- **Skills:** intimidation +12, perception +11
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned
@@ -35,3 +36,5 @@
 - **Avenging Sword:** When damaged by a melee weapon attack, the balor attacks with its lightning sword.
 - **Hunters Whip:** When damaged by a ranged weapon attack, spell, area effect, or magical effect, the balor uses Teleport and then attacks with its fire whip.
 - **Avenging Bolt (1/Day:** When damaged by a ranged weapon attack, spell, or magical effect, a 100-foot-long, 5-foot-wide lightning bolt springs from the balors extended sword. Each creature in the area makes a DC 19 Dexterity saving throw, taking 42 (12d6) lightning damage on a failed save or half damage on a success.
+
+

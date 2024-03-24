@@ -6,7 +6,7 @@
 - **Hit Points:** 17 (5d6)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 277
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Waking Nightmare:** Each creature with Int 3+ within 60' of moppet: DC 13 Int save. Fail: creature enters collective fugue state with all that failed unconscious but doesn’t drop anything held/fall prone. All in fugue face hostile nightmare creature with brown bear's stats but deals psychic instead of piercing or slashing. Creature appearance is up to GM but should reflect mutual fears of affected creatures. Fight with nightmare creature works as normal except all action takes place in minds of affected. When affected creature is reduced to 0 hp moppet gains one Psychic Point. If nightmare creature or moppet is reduced to 0 hp all in fugue awaken. Spell slots or class features used in nightmare combat are expended but magic item charges or uses aren’t. If creature in fugue takes damage from source other than nightmare creature can immediately re-save with advantage success ends effect on itself. If creature’s save is succeeds/effect ends for it creature immune to moppet’s Waking Nightmare next 24 hrs.
 ### Bonus Actions
 - **Nimble Moves:** Takes the Dash or Disengage action.
+
+

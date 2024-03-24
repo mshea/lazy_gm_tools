@@ -6,13 +6,14 @@
 - **Hit Points:** 44 (8d8+8)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 196
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 16 (+3) | 13 (+1) | 8 (-1) | 12 (+1) | 8 (-1) |
 
 - **Saving Throws**: Dex +5
+- **Skills:** perception +3, stealth +5, survival +3
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Ettercap
 ### Special Abilities
@@ -27,3 +28,5 @@
 - **Strangle:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one Medium or smaller creature against which the ettercap has advantage on the attack roll. Hit: 7 (1d8 + 3) bludgeoning damage  and the target is grappled (escape DC 13). Until this grapple ends  the ettercap automatically hits the target with its strangle attack  and the target can't breathe.
 ### Bonus Actions
 - **Web (Recharge 5-6):** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one Large or smaller creature. Hit: The creature is restrained by webs. As an action, a creature can make a DC 11 Strength check, breaking the webs on a success. The effect also ends if the webs are destroyed. They have AC 10, 1 hit point, and immunity to all damage except slashing, fire, and force.
+
+

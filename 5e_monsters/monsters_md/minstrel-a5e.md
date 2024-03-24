@@ -6,17 +6,31 @@
 - **Hit Points:** 32 (5d8+10)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 484
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 12 (+1) | 16 (+3) |
 
 - **Saving Throws**: Dex +5, Cha +5
+- **Skills:** deception +5, performance +5, persuasion +5
 - **Senses:** passive Perception 11
 - **Languages:** any three
 ### Special Abilities
-- **Spellcasting:** The minstrel is a 5th level spellcaster. Their spellcasting ability is Charisma (spell save DC 13  +5 to hit with spell attacks). They have the following bard spells prepared:  Cantrips (at will): light  mage hand  minor illusion  vicious mockery  1st-level (4 slots): charm person  disguise self  healing word  2nd-level (3 slots): enthrall  invisibility  shatter  3rd-level (2 slots): hypnotic pattern  major image
+- **Spellcasting:** The minstrel is a 5th level spellcaster. Their spellcasting ability is Charisma (spell save DC 13
+ +5 to hit with spell attacks). They have the following bard spells prepared:
+ Cantrips (at will): light
+ mage hand
+ minor illusion
+ vicious mockery
+ 1st-level (4 slots): charm person
+ disguise self
+ healing word
+ 2nd-level (3 slots): enthrall
+ invisibility
+ shatter
+ 3rd-level (2 slots): hypnotic pattern
+ major image
 ### Actions
 - **Rapier:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Vicious Mockery (Cantrip; V):** A creature within 60 feet that can hear the minstrel makes a DC 14 Wisdom saving throw. On a failure  it takes 7 (2d6) psychic damage and has disadvantage on the first attack roll it makes before the end of its next turn.
@@ -27,3 +41,5 @@
 - **Martial Encouragement:** Until the beginning of the minstrels next turn, one creature within 30 feet that can hear the minstrel deals an extra 3 (1d6) damage whenever it deals weapon damage.
 - **Healing Word (1st-Level; V):** The minstrel or a living creature within 60 feet regains 5 (1d4 + 3) hit points. The minstrel can't cast this spell and a 1st-level or higher spell on the same turn.
 - **Minstrels are musicians who weave magic into their performances:** Minstrels make themselves welcome wherever they go with a mix of entertainment, storytelling, and when necessary, magical charm.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 144 (17d10+51)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 61
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Hastening Stomp (Recharge 5–6):** Rears and stomps sending small magical shockwave. For 1 min each friendly creature within 60' of it increases its speed by 10 ft. and can use Free Runner bonus action.
 ### Bonus Actions
 - **Free Runner:** Can take the Dash action.
+
+

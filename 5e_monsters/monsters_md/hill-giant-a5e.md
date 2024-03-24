@@ -6,13 +6,14 @@
 - **Hit Points:** 105 (10d12+40)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 238
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 8 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 6 (-2) |
 
 - **Saving Throws**: Str +8, Con +7
+- **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** Giant
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **Greatclub Sweep (1/Day, While Bloodied):** Each creature within 10 feet makes a DC 16 Dexterity saving throw. On a failure  a creature takes 18 (3d8 + 5) bludgeoning damage  is pushed 10 feet away from the giant  and falls prone.
 ### Bonus Actions
 - **Grab:** One creature within 5 feet makes a DC 10 Dexterity saving throw. On a failure, it is grappled (escape DC 16). Until this grapple ends, the giant can't grab another target, and it makes greatclub attacks with advantage against the grappled target.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 171 (18d12+54)
 - **Speed:** walk 20 ft. climb 20 ft. swim 20 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 350
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 4 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Immunities:** acid, cold, lightning, slashing
 - **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
@@ -27,3 +28,5 @@
 - **Multiattack:** The pudding makes two pseudopod attacks. The pudding can't use Multiattack after it splits for the first time.
 ### Reactions
 - **Split:** When a Medium or larger pudding with at least 10 hit points is subjected to lightning or slashing damage, it splits into two puddings that are each one size smaller. Each new pudding has half the originals hit points (rounded down).
+
+

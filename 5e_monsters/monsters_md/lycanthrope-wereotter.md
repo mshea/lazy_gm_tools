@@ -6,7 +6,7 @@
 - **Hit Points:** 44 (8d8 +8)
 - **Speed:** walk 30 ft. swim 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 266
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Net (Humanoid or Hybrid Form Only):** Ranged Weapon Attack: +3 to hit 5/15 ft. one target Large or smaller creature hit by net is restrained until freed. Net has no effect on creatures that are formless or Huge or larger. Creature including target can use action to free restrained target via DC 11 Str check. Dealing 5 slashing to net (AC 10) frees target with o harming it ending effect and destroying net.
 ### Bonus Actions
 - **Change Shape:** Transforms into a Med otter-humanoid hybrid or into Large otter or back into true form: Humanoid. Stats other than size are same in each form. Items worn/ carried not transformed. Reverts to its true form if it dies.
+
+

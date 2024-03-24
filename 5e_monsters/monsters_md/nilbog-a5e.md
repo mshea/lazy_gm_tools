@@ -6,12 +6,13 @@
 - **Hit Points:** 14 (4d6)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page None
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 8 (-1) | 10 (+0) | 12 (+1) | 14 (+2) | 10 (+0) |
 
+- **Skills:** stealth +3
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Common, Goblin
 ### Special Abilities
@@ -21,3 +22,5 @@
 - **Fetid sling:** Ranged Weapon Attack: +3 to hit  range 20/60 ft.  one target. Hit: 3(1d6) bludgeoning damage  and the target must make a DC 14 Constitutionsaving throw. On a failure  the target is poisoned for 1minute.
 ### Bonus Actions
 - **Nimble Escape:** The goblin takes the Disengage or Hide action.
+
+

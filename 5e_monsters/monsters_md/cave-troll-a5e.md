@@ -6,12 +6,13 @@
 - **Hit Points:** 84 (8d10+40)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 413
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 12 (+1) | 20 (+5) | 8 (-1) | 12 (+1) | 8 (-1) |
 
+- **Skills:** stealth +4
 - **Senses:** blindsight 120 ft., passive Perception 11
 - **Languages:** Giant
 ### Special Abilities
@@ -25,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) slashing damage.
 - **Rock:** Ranged Weapon Attack: +7 to hit  range 20/60 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+
+

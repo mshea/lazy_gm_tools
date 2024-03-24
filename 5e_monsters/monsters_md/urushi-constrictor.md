@@ -6,7 +6,7 @@
 - **Hit Points:** 133 (14d10+56)
 - **Speed:** walk 30 ft. climb 30 ft. swim 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 382
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** 2 Bites or 1 Bite and 1 Poisonous Constriction.
 - **Bite:** Melee Weapon Attack: +6 to hit, 10 ft., one creature,. 14 (2d10+3) piercing damage.
 - **Poisonous Constriction:** Melee Weapon Attack: +6 to hit, 5 ft., one creature,. 12 (2d8+3) bludgeoning damage and target is grappled (escape DC 15). Until this grapple ends target is restrained and takes 10 (3d6) poison at start of each of its turns and snake can't use Poisonous Constriction on another target. Each time target takes this poison it must make DC 15 Con save or contract urushi blight.
+
+

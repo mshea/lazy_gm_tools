@@ -6,13 +6,14 @@
 - **Hit Points:** 187 (15d12+90)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 233
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 27 (+8) | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |
 
 - **Saving Throws**: Str +12, Con +10, Wis +7, Cha +7
+- **Skills:** insight +7, perception +7, persuasion +7
 - **Damage Resistances:** lightning, thunder
 - **Senses:** passive Perception 17
 - **Languages:** Common, Giant
@@ -31,3 +32,5 @@
 ### Bonus Actions
 - **Gust:** One creature within 10 feet makes a DC 15 Strength saving throw. On a failure, it is pushed up to 30 feet away from the giant.
 - **Misty Step (2nd-Level; V):** The giant teleports to an unoccupied space it can see within 30 feet. The giant can't cast this spell and a 1st-level or higher spell on the same turn.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 78 (12d8+24)
 - **Speed:** climb 10 ft. swim 20 ft. walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 257
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Spit Venom:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 16 (3d10) poison damage.
 - **Sticky Tongue:** Melee Weapon Attack: +4 to hit, reach 60 ft., one target. Hit: The target is restrained and the lou carcolh can't use the same sticky tongue on another target.
 - **Reel:** The lou carcolh pulls in each creature of Large size or smaller who is restrained by one of its sticky tongues. The creature is knocked prone and dragged up to 30 feet towards the lou carcolh. If a creature is dragged within 5 feet of the lou carcolh, it can make one bite attack against the creature as a bonus action.
+
+

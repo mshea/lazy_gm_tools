@@ -6,7 +6,7 @@
 - **Hit Points:** 117 (18d8+36)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 403
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Divine Bolt:** Ranged Spell Attack: +7 to hit, 120 ft., one target, 13 (2d8+4) necrotic or radiant (apostle’s choice). 
 - **Destroy Undead (2/Day):** Presents its holy symbol and intones a prayer. Each undead within 30' of apostle that can see or hear it: 28 (8d6) radiant (DC 15 Wis half).
 - **Spellcasting:** Wis (DC 15): At will: guidance spare the dying thaumaturgy3/day ea: bless cure wounds (3rd-level) hold person lesser restoration1/day ea: bestow curse daylight freedom of movement mass cure wounds revivify
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 165 (22d8+66)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 166
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -32,3 +32,5 @@
 - **Heavy Crossbow:** Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 7 (2d6) necrotic damage.
 - **Imperial Conscription (Recharge 6):** The darakhul captain targets one incapacitated creature it can see within 30 feet. The target must make a DC 15 Wisdom saving throw, taking 27 (5d10) necrotic damage on a failed save, or half as much damage on a successful one. The target’s hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. If the victim has darakhul fever, this reduction can’t be removed until the victim recovers from the disease. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain by this attack rises as a ghast 1d4 hours later under the darakhul captain’s control, unless the humanoid is restored to life
 - **Leadership (Recharges after a Short or Long Rest):** For 1 minute, the darakhul captain can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the captain. A creature can benefit from only one Leadership die at a time. This effect ends if the captain is incapacitated.
+
+

@@ -6,13 +6,14 @@
 - **Hit Points:** 161 (17d8+85)
 - **Speed:** walk 40 ft. fly 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 209
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 18 (+4) | 20 (+5) | 10 (+0) | 20 (+5) | 20 (+5) |
 
 - **Saving Throws**: Con +9, Wis +9, Cha +9
+- **Skills:** arcana +4, history +4, intimidation +9, perception +9, persuasion +9, religion +9
 - **Damage Resistances:** poison, radiant; damage from nonmagical weapons
 - **Condition Immunities:** fatigue, frightened, poisoned
 - **Senses:** truesight 120 ft., passive Perception 19
@@ -28,3 +29,5 @@
 - **Divine Wrath (1/Day, While Bloodied):** Each creature of the gods choice within 60 feet makes a DC 17 Constitution saving throw  taking 28 (8d6) radiant damage on a failure or half damage on a success.
 - **Spirit Guardians (3rd-Level; V, S, Concentration):** Spirits of former divine servants surround the god in a 10-foot radius for 10 minutes. The god can choose creatures they can see to be unaffected by the spell. Other creatures treat the area as difficult terrain  and when a creature enters the area for the first time on a turn or starts its turn there  it makes a DC DC 17 Wisdom saving throw  taking 10 (3d6) radiant damage on a failed save or half damage on a success.
 - **Flame Strike (5th-Level; V, S):** A 10-foot-radius  40-foot-high column of divine flame appears centered on a point the god can see within 60 feet. Each creature in the area makes a DC 17 Dexterity saving throw  taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failed save  or half damage on a success.
+
+

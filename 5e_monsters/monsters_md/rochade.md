@@ -6,7 +6,7 @@
 - **Hit Points:** 27 (6d6+6)
 - **Speed:** walk 30 ft. climb 20 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 332
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Short Step:** Teleports to unoccupied space it can see within 15 ft..
 ### Reactions
 - **Switch:** When a creature rochade can see targets it with attack rochade can switch places with any creature it can see within 15 ft. of it. An unwilling creature must make DC 14 Dex save to avoid the switch. If the switch is successful switched creature becomes attack's target instead.
+
+

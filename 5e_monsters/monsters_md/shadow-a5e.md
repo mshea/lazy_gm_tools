@@ -6,12 +6,13 @@
 - **Hit Points:** 18 (4d8)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 388
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 14 (+2) | 10 (+0) | 8 (-1) | 10 (+0) | 14 (+2) |
 
+- **Skills:** stealth +4
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** acid, cold, fire, lightning, thunder; damage from nonmagical weapons
@@ -26,3 +27,5 @@
 - **Claw:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one creature. Hit: 9 (2d6 + 2) necrotic damage  and the target makes a DC 12 Constitution saving throw. On a failure  the target is cursed until it finishes a short or long rest or is the subject of remove curse or a similar spell. While cursed  the target makes attack rolls  Strength checks  and Strength saving throws with disadvantage. If the target dies while cursed  a new undead shadow rises from the corpse in 1d4 hours  the corpse no longer casts a natural shadow  and the target can't be raised from the dead until the new shadow is destroyed.
 ### Bonus Actions
 - **Shadow Sneak:** The shadow takes the Hide action even if obscured only by dim light or darkness.
+
+

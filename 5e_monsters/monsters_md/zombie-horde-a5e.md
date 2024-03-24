@@ -6,12 +6,13 @@
 - **Hit Points:** 75 (10d8+30)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 437
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 4 (-3) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** poison
 - **Condition Immunities:** fatigue, poisoned
@@ -25,3 +26,5 @@
 ### Actions
 - **Grab:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 22 (5d6 + 5) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 11).
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one grappled target. Hit: 32 (5d10 + 5) piercing damage  and the horde regains the same number of hit points.
+
+

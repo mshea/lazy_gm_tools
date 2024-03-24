@@ -6,7 +6,7 @@
 - **Hit Points:** 104 (19d8+19)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 410
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Spellcasting:** Cha (DC 15): At will: comprehend languages mage hand mending3/day ea: calm emotions enthrall heroism1/day ea: confusion freedom of movement
 ### Reactions
 - **Inspiration (4/Day):** When a creature within 30' of the merchant captain fails an attack roll ability check or save the captain can force it to reroll the die. The target must use the new roll.
+
+

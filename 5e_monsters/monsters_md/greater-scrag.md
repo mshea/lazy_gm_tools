@@ -6,13 +6,14 @@
 - **Hit Points:** 127 (15d10+45)
 - **Speed:** swim 40 ft. walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 401
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 10 (+0) | 17 (+3) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 - **Saving Throws**: Str +8, Con +6
+- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Abyssal, Aquan, Giant
 ### Special Abilities
@@ -23,3 +24,5 @@
 - **Multiattack:** The greater scrag makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5)
 - **Claws:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (3d4 + 5)
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d10+28)
 - **Speed:** fly 40 ft. walk 0 ft. hover True ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 201
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Multiattack:** The hongaek makes two attacks with its vaporous tentacles.
 - **Vaporous Tentacle:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (4d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Invisibility:** The hongaek magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the hongaek wears or carries is invisible with it.
+
+

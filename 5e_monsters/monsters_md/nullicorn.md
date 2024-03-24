@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d10+28)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 292
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Hooves:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) bludgeoning damage.
 - **Void Horn:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 8 (1d8+4) force and target must make DC 13 Con save or contract the nullifying blight disease (above). 
 - **Ripple of darkness:** Each creature within 20' of the nullicorn: 18 (4d8) necrotic and contracts the nullifying blight disease (above; DC 13 Con half and doesn’t contract it).
+
+

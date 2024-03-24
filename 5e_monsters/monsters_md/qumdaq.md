@@ -6,7 +6,7 @@
 - **Hit Points:** 18 (4d6+4)
 - **Speed:** walk 30 ft. burrow 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 326
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 ### Actions
 - **Slam:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 4 (1d4+2) bludgeoning damage.
 - **Desiccation Field (1/Day):** Extends its arms sending sand and grit swirling around itself. Each non-qumdaq creature within 10 ft. of it: 5 (2d4) bludgeoning damage and suffers one level of exhaustion for 1 hr or until it drinks 1+ pint of water (DC 10 Con half damage and isn’t exhausted). A creature can suffer no more than 3 total levels of exhaustion from Desiccation Field regardless of how many qumdaqs use the action.
+
+

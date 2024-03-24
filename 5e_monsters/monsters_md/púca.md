@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (19d10+38)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 321
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Multiattack:** Two Chain Whip attacks and one Hooves attack.
 - **Chain Whip:** Melee Weapon Attack: +7 to hit, 15 ft., one target, 15 (2d10+4) bludgeoning damage and target grappled (escape DC 15) if it is a Med or smaller creature and púca doesn’t have 2 others grappled. Until grapple ends target restrained.
 - **Hooves:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 13 (2d8+4) bludgeoning damage and target must make DC 15 Str save or be knocked prone.
+
+

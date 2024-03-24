@@ -6,7 +6,7 @@
 - **Hit Points:** 36 (8d6+8)
 - **Speed:** fly 50 ft. hover True ft. walk 0 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 16
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 ### Actions
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) radiant (good or neutral eyes) or necrotic (evil eyes) damage.
 - **Divine Inspiration (Recharge 5-6):** The eye of the gods inspires all allies within 10 feet. For 1 minute, all inspired creatures have advantage on saving throws against being frightened.
+
+

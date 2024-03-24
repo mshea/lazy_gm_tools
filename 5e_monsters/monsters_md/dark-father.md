@@ -6,7 +6,7 @@
 - **Hit Points:** 65 (10d8+18)
 - **Speed:** fly 20 ft. hover True ft. walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 71
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Final Curtain:** The dark father targets a corpse it can see within 30 feet that has been dead for no longer than 1 hour. A stream of dark energy flows between the corpse and the dark father. At the end of the dark father's next turn, the dark father absorbs the corpse and it vanishes completely. Any worn items or possessions are unaffected. A corpse destroyed in this manner can't be retrieved other than by a wish spell or similar magic.
 ### Reactions
 - **Banish Hope:** When a spell from the evocation or necromancy school is cast within 30 feet of the dark father, the dark father can counter the spell with a successful ability check. This works like the counterspell spell with a +5 spellcasting ability check, except the dark father must make the ability check no matter the level of the spell.
+
+

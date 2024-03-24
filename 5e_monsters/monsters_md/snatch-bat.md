@@ -6,7 +6,7 @@
 - **Hit Points:** 97 (15d8+30)
 - **Speed:** walk 20 ft. fly 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 349
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Multiattack:** Three Claw attacks or two Claw attacks and one Pilfering Bite attack.
 - **Claw:** Melee Weapon Attack: +8 to hit 5.' one target 12 (2d6+5) slashing damage.
 - **Pilfering Bite:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 10 (2d4+5) piercing damage. Instead of dealing damage the snatch bat can steal one item the target is wearing or carrying provided the item weighs no more than 10 pounds isn’t a weapon and isn’t wrapped around or firmly attached to the target. Ex: snatch bat could steal a hat or belt pouch but not a creature’s shirt or armor. Bat holds stolen item in its long neck-arm and must regurgitate that item (no action required) before it can make another Pilfering Bite.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (13d10+65)
 - **Speed:** swim 30 ft. walk 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 203
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) slashing damage.
 - **Tail:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 - **Gem Explosion (Recharge 6):** The huecambra causes some of the gem-like nodules on its body to detonate. Each creature within 20 feet of the huecambra must make a DC 16 Dexterity saving throw. On a failure, a creature takes 24 (7d6) thunder damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned. A creature cursed by the huecambra’s bite has disadvantage on this saving throw.
+
+

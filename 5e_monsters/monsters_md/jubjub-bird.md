@@ -6,7 +6,7 @@
 - **Hit Points:** 91 (14d10+14)
 - **Speed:** walk 30 ft. fly 10 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 247
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Constrict:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 14 (2d10+3) bludgeoning damage and target is grappled (escape DC 13). Until grapple ends creature is restrained and bird can't constrict another target.
 ### Reactions
 - **Impassioned Riposte:** When a creature the jubjub bird can see misses it with an attack while within 10 ft. of it the jubjub bird can make one Bite attack vs. the attacker.
+
+

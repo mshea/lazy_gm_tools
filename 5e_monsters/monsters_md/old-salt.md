@@ -6,7 +6,7 @@
 - **Hit Points:** 117 (18d8+36)
 - **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 304
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Wave of Seawater (Recharge 5–6):** Throws its hand forward sending wave of seawater in a 30' cone. Each creature in that area: 21 (6d6) bludgeoning damage and begins choking as its lungs fill with seawater (DC 15 Dex half damage and isn’t choking). A creature that can breathe water doesn’t choke from failing this save. A choking creature can make a DC 15 Con save at the end of each of its turns coughing up seawater and success ends effect on itself.
 ### Bonus Actions
 - **Cunning Action:** Take Dash Disengage or Hide.
+
+

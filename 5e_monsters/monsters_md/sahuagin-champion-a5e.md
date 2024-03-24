@@ -6,13 +6,14 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 40 ft. swim 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 377
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 18 (+4) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
 - **Saving Throws**: Str +7, Dex +7, Con +6, Wis +4
+- **Skills:** athletics +7, intimidation +5, perception +4, stealth +7, survival +4
 - **Senses:** darkvision 120 ft., passive Perception 14
 - **Languages:** Sahuagin
 ### Special Abilities
@@ -25,3 +26,5 @@
 - **Trident:** Melee or Ranged Weapon Attack: +7 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 7 (1d6 + 4) piercing damage  or 8 (1d8 + 4) if wielded in two hands in melee.
 ### Bonus Actions
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
+
+

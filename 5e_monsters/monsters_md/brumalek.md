@@ -6,7 +6,7 @@
 - **Hit Points:** 40 (9d6+9)
 - **Speed:** walk 30 ft. burrow 20 ft. climb 20 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 70
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Reverberating Howl:** Releases an ear-shattering howl in a 30' cone that is audible 300' away. Each creature in that cone must make a DC 13 Dex save. On a failure a creature takes 5 (2d4) thunder and is deafened for 1 min. On a success the creature takes half the damage and isn’t deafened. A deafened creature can re-save at end of each of its turns success ends effect on itself.
 ### Bonus Actions
 - **Skittish:** Can take the Dash or Disengage action.
+
+

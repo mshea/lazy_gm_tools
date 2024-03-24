@@ -6,12 +6,13 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 314
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 16 (+3) | 16 (+3) | 10 (+0) | 12 (+1) | 10 (+0) |
 
+- **Skills:** perception +3, stealth +5
 - **Damage Immunities:** damage from nonmagical, non-silvered weapons
 - **Senses:** darkvision 60 ft. (tiger or hybrid form only), passive Perception 15
 - **Languages:** Common
@@ -28,3 +29,5 @@
 - **Shapeshift:** The weretiger changes its form to a Large tiger, a tiger-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged except for its size. It can't speak in tiger form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Opportune Bite (Tiger or Hybrid Form Only):** The weretiger makes a bite attack against a prone creature.
 - **Frenzied Bite (While Bloodied:** The weretiger makes a bite attack.
+
+

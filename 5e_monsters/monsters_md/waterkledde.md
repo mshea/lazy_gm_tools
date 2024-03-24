@@ -6,7 +6,7 @@
 - **Hit Points:** 123 (13d10+52)
 - **Speed:** walk 40 ft. fly 40 ft. swim 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 390
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 ### Bonus Actions
 - **Change Shape:** Magically transforms into a Small or Med Beast or back into its true fiendish form. Without wings it loses its flying speed. Its statistics other than its size and speed are the same in each form. No matter the form its eyes are always an unnatural green. Any equipment it is wearing or carrying isn’t transformed. Reverts on death.
 - **Supernatural Speed:** Takes Dash or Disengage.
+
+

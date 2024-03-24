@@ -6,12 +6,13 @@
 - **Hit Points:** 59 (7d12+14)
 - **Speed:** walk 30 ft. burrow 15 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 26
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 10 (+0) | 14 (+2) | 2 (-4) | 14 (+2) | 8 (-1) |
 
+- **Skills:** 
 - **Damage Resistances:** acid
 - **Senses:** tremorsense 30 ft., passive Perception 12
 - **Languages:** 

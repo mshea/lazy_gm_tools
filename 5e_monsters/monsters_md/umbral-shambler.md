@@ -6,7 +6,7 @@
 - **Hit Points:** 39 (6d8+12)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 380
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Multiattack:** Two Claws attacks.
 - **Claws:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 5 (1d4+3) slashing damage + 3 (1d6) necrotic.
 - **Twisted Step:** Can project itself beyond reality for a short time. Until start of its next turn it can move through objects as if they were difficult terrain provided an object is no more than 3' thick and at least one side of the object is in dim light or darkness. It takes 5 (1d10) force if it starts its turn inside an object.
+
+

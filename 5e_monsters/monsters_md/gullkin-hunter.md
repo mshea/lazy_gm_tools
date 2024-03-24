@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (7d8+14)
 - **Speed:** walk 20 ft. fly 30 ft. swim 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 223
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Tempest Breath (Recharges: Short/Long Rest):** Exhales lungful of air in 15 ft. cone. Each creature in that area pushed up to 15 ft. away from gullkin (DC 12 Str negates).
 ### Bonus Actions
 - **Mark Quarry (Recharges: Short/Long Rest):** Marks a creature as its quarry. Whenever hunter hits marked creature with weapon attack deals extra 1d6 damage to target.
+
+

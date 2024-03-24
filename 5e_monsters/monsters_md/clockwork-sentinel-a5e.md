@@ -6,12 +6,13 @@
 - **Hit Points:** 60 (8d8+24)
 - **Speed:** walk 35 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 52
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
+- **Skills:** athletics +5, perception +0, survival +0
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 120 ft. (blind beyond that range), passive Perception 12
@@ -28,4 +29,5 @@
 - **Overclock (Recharge 5-6):** The sentinel takes the Dash action.
 ### Reactions
 - **Parry:** The sentinel adds 2 to its AC against one melee attack that would hit it.
-- **Overclock (Recharge 5-6):** The sentinel takes the Dash action.
+
+

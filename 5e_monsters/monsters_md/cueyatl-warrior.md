@@ -6,7 +6,7 @@
 - **Hit Points:** 36 (8d6+8)
 - **Speed:** climb 20 ft. swim 30 ft. walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 69
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Standing Leap:** The cueyatl's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 ### Actions
 - **Battleaxe:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage plus 7 (2d6) poison damage, or 7 (1d10 + 2) slashing damage plus 7 (2d6) poison damage if used with two hands.
+
+

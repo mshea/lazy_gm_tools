@@ -6,7 +6,7 @@
 - **Hit Points:** 77 (14d6+28)
 - **Speed:** climb 30 ft. walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 0
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Multiattack:** The yek makes one bite attack and one claw attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage, and, if the target is Large or smaller, the yek demon attaches to it. While attached, the yek demon can make this attack only against the target and has advantage on the attack roll. The yek demon can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the yek demon by succeeding on a DC 13 Strength check.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (3d4 + 3) slashing damage.
+
+

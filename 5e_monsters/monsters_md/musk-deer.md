@@ -6,7 +6,7 @@
 - **Hit Points:** 17 (5d4+5)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 282
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,5 @@
 ### Bonus Actions
 - **Musk (Recharge: Short/Long Rest):** Emits a pungent musk around itself for 1 min. While musk is active a creature that starts its turn within 10 ft. of deer: poisoned 1 min (DC 11 Con negates). Poisoned creature can re-save at end of each of its turns success ends effect on itself. For 1 hr after creature fails this save others have advantage on Wis (Perception) and Wis (Survival) checks to find or track the creature unless creature spends 10+ min washing off the musk.
 - **Sprinter:** Takes the Dash action.
+
+

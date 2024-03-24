@@ -6,7 +6,7 @@
 - **Hit Points:** 60 (8d8+24)
 - **Speed:** walk 30 ft. swim 20 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 72
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Slam:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 7 (2d4+2) bludgeoning damage.
 ### Reactions
 - **Protect the Community:** When another capybear within 5 ft. of this capybear is hit by an attack this capybear can leap in the way becoming the new target of the attack.
+
+

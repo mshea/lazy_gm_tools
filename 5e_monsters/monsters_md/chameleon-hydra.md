@@ -6,7 +6,7 @@
 - **Hit Points:** 184 (16d12+80)
 - **Speed:** climb 40 ft. walk 20 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 207
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.
 - **Sticky Tongue:** Melee Weapon Attack: +9 to hit, reach 50 ft., one target. Hit: The target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the hydra can’t use the same sticky tongue on another target.
 - **Reel:** The hydra pulls a creature grappled by it up to 25 feet straight toward it.
+
+

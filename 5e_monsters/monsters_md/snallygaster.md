@@ -6,7 +6,7 @@
 - **Hit Points:** 207 (18d12+90)
 - **Speed:** walk 30 ft. fly 30 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 348
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Nimble Flier:** Takes the Dash or Disengage action. It must be flying to use this bonus action.
 ### Reactions
 - **Parry Spell:** If it succeeds on save vs. spell of 5th level or lower that targets only snallygaster spell has no effect. If snallygaster succeeds on save by 5+ spell is reflected back at spellcaster using slot level spell save DC attack bonus and spellcasting ability of caster
+
+

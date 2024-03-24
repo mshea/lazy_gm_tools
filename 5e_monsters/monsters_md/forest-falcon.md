@@ -6,7 +6,7 @@
 - **Hit Points:** 13 (3d6+3)
 - **Speed:** walk 20 ft. fly 60 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 390
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,5 @@
 - **Keen Sight:** The falcon has advantage on Wisdom (Perception) checks that rely on sight.
 ### Actions
 - **Beak:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
+
+

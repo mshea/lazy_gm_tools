@@ -6,7 +6,7 @@
 - **Hit Points:** 17 (5d4+5)
 - **Speed:** fly 30 ft. walk 10 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 36
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 4 (1d8) fire damage.
 - **Song of Life:** The aviere sings a song against death. The aviere chooses one creature it can see within 30 feet of it that has 0 hp and isn’t an undead or a construct. The creature becomes stable.
 - **Song of Healing (1/Day):** The aviere sings a song of healing. The aviere chooses one creature within 60 feet of it. If the creature can hear the aviere’s song and isn’t an undead or a construct, it regains 1d4 hp.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 136 (16d10+48)
 - **Speed:** walk 30 ft. bur. 15 ft. climb 15 ft. fly 15 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 337
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Gut Rip:** The ruin scarab tears into one prone creature within 5 ft. of it. The target takes 11 (2d10) slashing damage and 5 (2d4) necrotic and is incapacitated for 1 min (DC 15 Con half damage and isn’t incapacitated). An incapacitated creature can re-save at end of each of its turns success ends effect on itself.
 ### Reactions
 - **Relentless Pursuit:** When a creature within 10 ft. of the scarab moves away from it scarab can move up to half its speed toward that creature.
+
+

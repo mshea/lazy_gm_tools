@@ -6,12 +6,13 @@
 - **Hit Points:** 45 (6d8+18)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 423
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
+- **Skills:** perception +3, stealth +4
 - **Damage Resistances:** cold, necrotic; damage from nonmagical, non-silvered weapons
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** the languages it knew in life
@@ -25,3 +26,5 @@
 - **Longbow:** Ranged Weapon Attack: +4 to hit  range 150/600 ft.  one target. Hit: 6 (1d8 + 2) piercing damage plus 3 (1d6) cold damage.
 ### Bonus Actions
 - **Life Drain:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) necrotic damage, and the target makes a DC 13 Constitution saving throw. On a failure, the targets hit point maximum is reduced by an amount equal to the necrotic damage dealt. The reduction lasts until the target finishes a long rest. A humanoid or beast reduced to 0 hit points by this attack dies. Its corpse rises 24 hours later as a zombie under the wights control.
+
+

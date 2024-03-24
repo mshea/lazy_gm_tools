@@ -6,7 +6,7 @@
 - **Hit Points:** 25 (10d4)
 - **Speed:** walk 10 ft. swim 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 62
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one creature,. 5 (1d6+2) piercing damage and barnacle attaches to target. While attached barnacle doesn’t attack. Instead at start of each of barnacle’s turns target loses 5 (1d6+2) hp due to blood loss. Barnacle can detach itself by spending 5 ft. of its movement. A creature including target can take its action to detach barnacle via DC 12 Str check. When barnacle is removed target takes 2 (1d4) piercing damage. If creature ends its turn with barnacle attached to it that creature: DC 12 Con save or contract barnacle shivers (see above).
 ### Reactions
 - **Host Defense:** When a creature damages an attached blood barnacle with anything other than fire creature hosting barnacle must make DC 12 Wis save or use its reaction to protect the barnacle. Barnacle takes half the damage dealt to it and host takes the other half.
+
+

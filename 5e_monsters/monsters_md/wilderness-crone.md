@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d8+42)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 392
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Spellcasting:** Wis (DC 15). Prepared: At will: minor illusion tree stride3/day ea: goodberry hold person locate animals or plants1/day ea: commune with nature remove curse
 ### Reactions
 - **Transmigratory Strike:** When she kills a Humanoid can immediately restore it to life as a Beast with CR no higher the Humanoid’s CR or level. Otherwise works as reincarnate spell.
+
+

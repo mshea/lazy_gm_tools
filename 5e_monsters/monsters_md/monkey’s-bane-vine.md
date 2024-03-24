@@ -6,7 +6,7 @@
 - **Hit Points:** 119 (14d10+42)
 - **Speed:** walk 10 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 273
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 ### Actions
 - **Multiattack:** Two Tendril attacks.
 - **Tendril:** Melee Weapon Attack: +6 to hit, 20 ft., one target, 11 (2d6+4) bludgeoning damage. If the target is a Large or smaller creature it is grappled (escape DC 14). Until this grapple ends the creature is restrained and takes 7 (2d6) bludgeoning damage at the start of each of its turns. The monkey’s bane vine has two tendrils each of which can grapple only one target.
+
+

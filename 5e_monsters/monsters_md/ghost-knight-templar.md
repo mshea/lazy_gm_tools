@@ -6,7 +6,7 @@
 - **Hit Points:** 127 (17d8+51)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 196
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Stride of Damnation (Recharge 5–6):** Moves up to its speed through its enemies. This move doesn’t provoke opportunity attacks. Each creature through which templar passes: 35 (10d6) cold (DC 16 Dex half damage). It can’t use this while mounted.
 ### Bonus Actions
 - **Ghostly Mount:** Can summon or dismiss a ghostly mount mounting or dismounting it as part of this bonus action with o spending movement. Mount uses the stats of a warhorse skeleton except it has the Incorporeal Movement trait a flying speed of 60 feet 40 hp and resistance to cold and necrotic and B/P/S damage from nonmagical attacks. If mount is slain it disappears leaving behind no physical form and templar must wait 1 hr before summoning it again.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 30 (4d10+8)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 454
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 14 (+2) | 3 (-4) | 12 (+1) | 4 (-3) |
 
+- **Skills:** perception +3, stealth +4
 - **Senses:** passive Perception 13
 - **Languages:** 
 ### Special Abilities
@@ -23,3 +24,5 @@
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (1d10+3) piercing damage.
 ### Bonus Actions
 - **Opportune Bite:** The lion makes a bite attack against a prone creature.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 144 (32d8)
 - **Speed:** walk 40 ft. climb 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 409
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Thorn Shot:** Melee Weapon Attack: +10 to hit 30/120' one target 10 (2d4+5) piercing damage + 7 (2d6) poison.
 ### Reactions
 - **Spore Cloud:** When it takes damage from a ranged attack emits a burst of thick yellow spores that surround infested duelist and heavily obscure area within 5 ft. of it. Spores dissipate at start of duelist’s next turn.
+
+

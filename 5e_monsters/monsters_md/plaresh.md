@@ -6,12 +6,13 @@
 - **Hit Points:** 30 (4d8+12)
 - **Speed:** burrow 30 ft. swim 30 ft. walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 89
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 17 (+3) | 16 (+3) | 6 (-2) | 12 (+1) | 3 (-4) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; bludgeoning, slashing, and piercing
 - **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
@@ -24,3 +25,5 @@
 ### Actions
 - **Bites:** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 13 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the target is wearing nonmagical armor, the armor takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed.
 - **Infest Corpse (Recharges after a Long Rest):** The plaresh targets one dead humanoid in its space. The body is destroyed, and a new plaresh rises from the corpse. The newly created plaresh is free-willed but usually joins its creator.
+
+

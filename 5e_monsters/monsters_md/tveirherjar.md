@@ -6,7 +6,7 @@
 - **Hit Points:** 102 (12d8+48)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 359
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Niflheim Longsword:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 4 (1d8) necrotic damage.
 - **Spear of the Northern Sky (Recharge 5-6):** Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) radiant damage, and the target is outlined in a shimmering light until the end of the tveirherjar's next turn. This light works like the faerie fire spell, except only the tveirherjar has advantage on attacks against the creature and the light is not absorbed by the tveirherjar's Niflheim longsword.
 - **Terrifying Glare (Recharge 5-6):** The tveirherjar targets one creature it can see within 30 feet of it. If the creature can see the tveirherjar, it must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. While frightened, the creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 91 (14d8+28)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 11
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 18 (+4) | 14 (+2) | 3 (-4) | 10 (+0) | 5 (-3) |
 
+- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** piercing
 - **Condition Immunities:** blinded, charmed, exhaustion, frightened, paralyzed, petrified, poisoned
@@ -26,3 +27,5 @@
 - **Arm Blade:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 3 (1d6) force damage.
 ### Reactions
 - **Time-Assisted Counterattack:** The akaasit’s awareness of the near future allows it to see attacks before they happen. When a creature the akaasit can see attacks it while within 5 feet of it, the akaasit can attack the creature before the creature’s attack hits. The akaasit makes a single arm blade attack against the creature. If the creature is reduced to 0 hp as a result of the akaasit’s attack, the creature’s attack doesn’t hit the akaasit.
+
+

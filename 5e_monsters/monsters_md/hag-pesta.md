@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d8+42)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 227
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 - **Poison Bolt:** Ranged Spell Attack: +5 to hit, 120 ft., one target, 12 (2d8+3) poison.
 - **Curative Touch (3/Day):** Touched target magically regains 10 (2d8+1) hp and freed from any disease or poison afflicting it.
 - **Summon Plague Rats (1/Day):** Magically calls 1d3 rat swarms. Arrive in 1d4 rounds act as hag allies and obey her spoken commands. Swarms carry a terrible disease. If creature takes damage from swarm’s Bites: DC 10 Con save or contract the disease. Until disease is cured creature can’t regain hp except by magically and target’s hp max decreases by 3 (1d6) every 24 hrs. If creature’s hp max drops to 0 as a result of this disease it dies. Rats remain 1 hr until hag dies or hag dismisses them as bonus action.
+
+

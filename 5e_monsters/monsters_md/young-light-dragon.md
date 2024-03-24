@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d10+60)
 - **Speed:** fly 80 ft. walk 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 170
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,6 @@
 - **Void Traveler:** The light dragon travels from star to star and does not require air, food, drink, or sleep. When flying between stars, the light dragon magically glides on solar winds, making the immense journey through the void in an impossibly short time.
 ### Actions
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
-- **Breath Weapon (Recharge 5-6):** The dragon uses one of the following breath weapons:
-Radiant Breath. The dragon exhales radiant energy in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 44 (8d10) radiant damage on a failed save, or half as much damage on a successful one.
-Flaring Breath. The dragon emits a flash of dazzling light from its maw in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 15 Wisdom saving throw or be turned for 1 minute. Undead of CR 1 or lower who fail the saving throw are instantly destroyed.
+- **Breath Weapon (Recharge 5-6):** The dragon uses one of the following breath weapons:<br>Radiant Breath. The dragon exhales radiant energy in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 44 (8d10) radiant damage on a failed save, or half as much damage on a successful one.<br>Flaring Breath. The dragon emits a flash of dazzling light from its maw in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 15 Wisdom saving throw or be turned for 1 minute. Undead of CR 1 or lower who fail the saving throw are instantly destroyed.
+
+

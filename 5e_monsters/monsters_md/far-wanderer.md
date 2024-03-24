@@ -6,7 +6,7 @@
 - **Hit Points:** 88 (16d8+16)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 151
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Stardust Blade:** Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 11 (2d8 + 2) slashing damage and 2 (1d4) cold damage.
 - **Stardust bow:** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 13 (2d8 + 4) piercing damage and 2 (1d4) cold damage.
 - **Call to Yorama (1/Day):** The far wanderer channels the energy of the living god-star Yorama. One creature the far wanderer can see within 60 feet must make a DC 13 Wisdom saving throw, taking 7 (2d6) psychic damage on a failed save, or half as much damage on a successful one. A creature who fails the saving throw is stunned until the end of its turn. Alternately, the far wanderer can instead restore 14 (4d6) hp to one willing creature it can see within 60 feet.
+
+

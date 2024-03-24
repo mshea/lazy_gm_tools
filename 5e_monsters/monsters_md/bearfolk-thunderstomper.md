@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d8+42)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 53
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,5 @@
 ### Bonus Actions
 - **Frenzy (Recharges on a Short or Long Rest):** Triggers berserk frenzy for 1 min. It gains resistance to B/P/S damage from nonmagical weapons and has advantage on attacks. Attacks vs. frenzied bearfolk have advantage.
 - **Taunt (2/Day):** Jests at one creature it can see within 30' of it. If target can hear bearfolk target: DC 15 Cha save or disadvantage on ability checks attacks and saves until start of bearfolk’s next turn.
+
+

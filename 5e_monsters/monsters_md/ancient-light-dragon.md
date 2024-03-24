@@ -6,7 +6,7 @@
 - **Hit Points:** 407 (22d20+176)
 - **Speed:** fly 80 ft. walk 40 ft.
 - **Challenge Rating:** 22 (41,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 170
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,9 +30,7 @@
 - **Claw:** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
 - **Tail:** Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
 - **Frightful Presence:** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 23 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
-- **Breath Weapon (Recharge 5-6):** The dragon uses one of the following breath weapons:
-Radiant Breath. The dragon exhales radiant energy in a 90-foot cone. Each creature in that area must make a DC 23 Dexterity saving throw, taking 77 (14d10) radiant damage on a failed save, or half as much damage on a successful one.
-Flaring Breath. The dragon emits a flash of dazzling light from its maw in a 90-foot cone. Each creature in that area must make a DC 23 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 23 Wisdom saving throw or be turned for 1 minute. Undead of CR 3 or lower who fail the saving throw are instantly destroyed.
+- **Breath Weapon (Recharge 5-6):** The dragon uses one of the following breath weapons:<br>Radiant Breath. The dragon exhales radiant energy in a 90-foot cone. Each creature in that area must make a DC 23 Dexterity saving throw, taking 77 (14d10) radiant damage on a failed save, or half as much damage on a successful one.<br>Flaring Breath. The dragon emits a flash of dazzling light from its maw in a 90-foot cone. Each creature in that area must make a DC 23 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 23 Wisdom saving throw or be turned for 1 minute. Undead of CR 3 or lower who fail the saving throw are instantly destroyed.
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 ### Legendary Actions

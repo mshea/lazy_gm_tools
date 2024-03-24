@@ -6,7 +6,7 @@
 - **Hit Points:** 38 (7d8+7)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 351
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage. The target must succeed on a DC 13 Constitution saving throw or take 7 (2d6) poison damage and become poisoned until the end of its next turn.
 - **Vine Whip (Tree Form Only):** Melee Weapon Attack: +5 to hit, reach 20 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and if the target is a Large or smaller creature, it is grappled (escape DC 13). The skinner can grapple up to two creatures at one time.
 - **Squeeze (Tree Form Only):** The tree skinner makes one vine whip attack against a creature it is grappling. If the attack hits, the target is also unable to breathe or cast spells with verbal components until this grapple ends.
+
+

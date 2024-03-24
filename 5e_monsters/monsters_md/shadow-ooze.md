@@ -6,7 +6,7 @@
 - **Hit Points:** 76 (9d8+36)
 - **Speed:** climb 20 ft. walk 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 287
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Multiattack:** The ooze makes one pseudopod attack and then uses Snuff Out.
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 7 (2d6) necrotic damage and 3 (1d6) acid damage.
 - **Snuff Out:** The ooze extinguishes one natural or magical light source within 60 feet of it. If the light source is created by a spell, it is dispelled.
+
+

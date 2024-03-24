@@ -6,12 +6,13 @@
 - **Hit Points:** 171 (18d8+90)
 - **Speed:** walk 40 ft. fly 60 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 428
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 20 (+5) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
 
+- **Skills:** 
 - **Damage Immunities:** cold, necrotic, poison
 - **Damage Resistances:** acid, lightning, psychic, thunder; damage from nonmagical weapons
 - **Condition Immunities:** charmed, fatigue, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
@@ -30,3 +31,5 @@
 - **Paralyzing Terror:** The wraith lord targets a frightened creature within 60 feet  forcing it to make a DC 18 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.
 - **Create Wraith:** The wraith lord touches a humanoid corpse it killed up to 1 day ago. The creatures spirit rises as a wraith under the wraith lords control.
 - **Corporeal Form (1/Day):** The wraith lord takes on a material form. In material form  it loses its incorporeal trait  its fly speed  and its immunity to the grappled  prone  and restrained conditions. The wraith instantly reverts to its incorporeal form if it is bloodied  and it can do so voluntarily at any time as an action.
+
+

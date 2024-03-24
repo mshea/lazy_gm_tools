@@ -6,7 +6,7 @@
 - **Hit Points:** 38 (7d4+21)
 - **Speed:** walk 20 ft. climb 10 ft. swim 10 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 220
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Rum Splash:** Ranged Weapon Attack: +5 to hit 40/80' one target 7 (2d6) poison.
 - **Drinking Stories:** Tells a story of a rum gremlin celebration. Each has initial and additional effect if it takes bonus action on subsequent turns to continue. Can stop any time; story ends if it is incapacitated. Can tell only one story at a time. Chooses among:Tale of Liquid Courage Rum gremlins within 30' of keeper and hear it: +5 temp hp 1 min. While tale continues each rum gremlin that starts turn within 30' of keeper: advantage saves vs. frightened.Tale of the Bar Room Rush Each rum gremlin within 30' of keeper and can hear it can use its reaction to immediately move up to its speed. While tale continues each rum gremlin within 30' of keeper can take Dash or Disengage action as a bonus action on its turn.Tale of the Great Shindig Each rum gremlin within 30' of keeper and can hear it can use its reaction to immediately shove a Med or smaller creature. While tale continues each rum gremlin within 30' of keeper has advantage on Str (Athletics) checks and can shove creatures up to two sizes larger than it.
 - **Spellcasting:** Cha (DC 13) no material components: At will: prestidigitation3/day ea: charm person mirror image
+
+

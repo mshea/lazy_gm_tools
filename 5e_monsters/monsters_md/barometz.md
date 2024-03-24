@@ -6,12 +6,13 @@
 - **Hit Points:** 95 (10d10+40)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 38
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 11 (+0) | 18 (+4) | 5 (-3) | 16 (+3) | 13 (+1) |
 
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, poisoned
@@ -26,3 +27,5 @@
 - **Multiattack:** The barometz makes two attacks: one with its gore and one with its hooves.
 - **Gore:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage. If the target is Medium or smaller, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 - **Hooves:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 207 (18d12+90)
 - **Speed:** fly 60 ft. walk 0 ft.
 - **Challenge Rating:** 19 (22,000 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 256
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Multiattack:** The living star makes three starflare attacks. It can use its Silvered Ray in place of one starflare attack.
 - **Starflare:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage plus 14 (4d6) radiant damage.
 - **Silvered Ray:** Ranged Spell Attack: +12 to hit, range 150 ft., one target. Hit: 28 (4d10 + 6) radiant damage, and the target must succeed on a DC 19 Charisma saving throw or be stunned until the end of its next turn.
+
+

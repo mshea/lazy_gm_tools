@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (10d6+10)
 - **Speed:** walk 10 ft. fly 50 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 13
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,5 @@
 - **Multiattack:** Two Talons attacks or one Talons attack and one Draining Fangs attack.
 - **Draining Fangs:** Melee Weapon Attack: +4 to hit, 5 ft., one creature,. 6 (1d8+2) piercing damage and the alabroza attaches to the target. While attached the alabroza doesn’t attack. Instead at the start of each of the alabroza’s turns the target loses 6 (1d8+2) hp due to blood loss. The alabroza can detach itself by spending 5 ft. of its movement. It does so after the target is reduced to 0 hp. A creature including the target can use its action to detach the alabroza.
 - **Talons:** Melee Weapon Attack: +4 to hit, 5 ft., one creature,. 5 (1d6+2) slashing damage.
+
+

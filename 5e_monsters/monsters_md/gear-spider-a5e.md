@@ -6,12 +6,13 @@
 - **Hit Points:** 28 (8d4+8)
 - **Speed:** walk 30 ft. climb 20 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 53
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 15 (+2) | 12 (+1) | 2 (-4) | 6 (-2) | 1 (-5) |
 
+- **Skills:** perception +0, stealth +4
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft., passive Perception 10
@@ -24,3 +25,5 @@
 - **Needle:** Ranged Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
 ### Bonus Actions
 - **Photograph:** The gear spider stores a black and white image of what it can see. The gear spider can hold up to 10 images at a time. Retrieving the image storage device inside the gear spider requires 1 minute. Once the device is accessed, viewing a stored image requires a DC 12 Investigation check to make out any details.
+
+

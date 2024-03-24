@@ -6,7 +6,7 @@
 - **Hit Points:** 172 (15d12+75)
 - **Speed:** swim 60 ft. walk 20 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 229
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) piercing damage
 - **Constrict:** Melee Weapon Attack: +8 to hit, reach 5 ft., one Large or smaller creature. Hit: 10 (1d10 + 5) bludgeoning damage and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained and the jaanavar jal can't constrict another creature.
 - **Flaming Oil Spittle (Recharge 5-6):** The jaanavar jal expels a line of burning oil that is 40 feet long and 5 feet wide from glands beside its mouth. Each creature in that line must make a DC 16 Dexterity saving throw, taking 31 (9d6) fire damage on a failed save, or half as much damage on a successful one.
+
+

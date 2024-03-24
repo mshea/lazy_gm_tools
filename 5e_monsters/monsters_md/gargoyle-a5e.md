@@ -6,13 +6,14 @@
 - **Hit Points:** 45 (6d8+18)
 - **Speed:** walk 30 ft. fly 60 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 214
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 10 (+0) | 16 (+3) | 8 (-1) | 14 (+2) | 8 (-1) |
 
 - **Saving Throws**: Str +4, Con +5
+- **Skills:** perception +4
 - **Damage Immunities:** poison
 - **Damage Resistances:** piercing and slashing damage from nonmagical, non-adamantine weapons
 - **Condition Immunities:** fatigue, petrified, poisoned, unconscious
@@ -26,3 +27,5 @@
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage  or 9 (2d6 + 2) slashing damage if the gargoyle started its turn at least 20 feet above the target.
 - **Rock:** Ranged Weapon Attack: +4 to hit  range 20/60 ft.  one target. Hit: 9 (2d6 + 2) bludgeoning damage.
+
+

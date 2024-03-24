@@ -6,13 +6,14 @@
 - **Hit Points:** 144 (17d10+51)
 - **Speed:** walk 50 ft. swim 50 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 354
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 10 (+0) | 16 (+3) | 6 (-2) | 14 (+2) | 5 (-3) |
 
 - **Saving Throws**: Str +6, Con +6
+- **Skills:** 
 - **Senses:** darkvision 120 ft., passive Perception 12
 - **Languages:** telepathy 120 ft. (can transmit but not receive thoughts and images)
 ### Special Abilities

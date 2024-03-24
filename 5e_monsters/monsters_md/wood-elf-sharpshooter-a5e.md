@@ -6,13 +6,14 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 491
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 18 (+4) | 16 (+3) | 12 (+1) | 18 (+4) | 12 (+1) |
 
 - **Saving Throws**: Dex +7, Wis +7
+- **Skills:** nature +4, perception +7, stealth +7, survival +7
 - **Senses:** passive Perception 20
 - **Languages:** any two
 ### Special Abilities
@@ -27,3 +28,5 @@
 - **Aimed Strike:** The strider gains advantage on their next attack made before the end of their turn.
 - **Skirmish Step:** The strider moves up to half their Speed without provoking opportunity attacks.
 - **Wood elf sharpshooters pride themselves on winning a battle without ever coming within range of their enemys weapons:** 
+
+

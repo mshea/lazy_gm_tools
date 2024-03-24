@@ -6,12 +6,13 @@
 - **Hit Points:** 102 (12d10+36)
 - **Speed:** walk 30 ft. fly 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 348
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 16 (+3) |
 
+- **Skills:** arcana +5, deception +6, perception +4, stealth +3
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Giant
 ### Special Abilities
@@ -28,3 +29,5 @@
 - **Cone of Cold (5th-Level; V, S):** Frost blasts from the ogre in a 60-foot cone. Each creature in the area makes a DC 14 Constitution saving throw  taking 36 (8d8) cold damage on a failure or half damage on a success.
 ### Bonus Actions
 - **Shapeshift:** The ogre changes its form into a Small or Medium humanoid, or back into its true form, which is a Large giant. Other than its size, its statistics are the same in each form. Its iron club, armor, and clothing change size with it. It reverts to its true form when it dies.
+
+

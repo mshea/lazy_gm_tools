@@ -6,7 +6,7 @@
 - **Hit Points:** 21 (6d4+6)
 - **Speed:** walk 30 ft. climb 30 ft. fly 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 49
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,5 @@
 - **Spellcasting:** Wis (DC 12) no material components: At will: druidcraft guidance1/day ea: animal messenger bless
 ### Reactions
 - **Dazzling Glow:** When a creature the aziza can see targets it with melee attack its skin briefly glows brightly causing the attacker to have disadvantage on the attack roll.
+
+

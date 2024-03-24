@@ -6,7 +6,7 @@
 - **Hit Points:** 65 (10d8+20)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 408
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Frost Bolt:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 8 (2d4+3) cold.
 ### Reactions
 - **Frigid Flare:** When a creature hits the frost-afflicted with weapon attack ice bursts from the frost-afflicted. Each creature within 5 ft. of the frost-afflicted must make a DC 13 Con save taking 5 (2d4) cold on a failed save or half damage if made.
+
+

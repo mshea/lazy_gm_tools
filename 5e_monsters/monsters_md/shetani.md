@@ -6,7 +6,7 @@
 - **Hit Points:** 190 (20d8+100)
 - **Speed:** walk 30 ft. fly 50 ft.
 - **Challenge Rating:** 14 (11,500 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 343
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,5 @@
 - **Spellcasting:** Cha (DC 18): At will: charm person silent image3/day ea: major image suggestion1/day ea: mirage arcane (as an action) programmed illusion
 ### Bonus Actions
 - **Change Shape:** Transforms into a Large or smaller Beast or Humanoid or back into its true form which is a Fiend. Without wings it loses its flying speed. Its statistics other than size and speed are the same in each form. Items worn/carried transformed as desired by the shetani taking whatever color or shape it deems appropriate. Reverts on death.
+
+

@@ -6,13 +6,14 @@
 - **Hit Points:** 210 (20d12+80)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 208
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 8 (-1) | 19 (+4) | 13 (+1) | 10 (+0) | 8 (-1) |
 
 - **Saving Throws**: Con +8, Wis +4
+- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** charmed, frightened, poisoned
@@ -28,3 +29,5 @@
 - **Slam:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
 - **Gorge:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 25 (3d12 + 6) piercing damage plus 14 (4d6) necrotic damage.
 - **Hurl Flesh (Recharge 5-6):** The grave behemoth vomits putrid flesh and 5 (2d4) zombies in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw. On a failure, a target takes 38 (11d6) necrotic damage and is covered in rotting slime for 1 minute. On a success, a target takes half the necrotic damage and isn't covered in slime. A creature, including the target, can take an action to clean off the slime. Zombies under the grave behemoth's control have advantage on attack rolls against creatures covered in a grave behemoth's slime.
+
+

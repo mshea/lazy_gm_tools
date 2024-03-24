@@ -6,13 +6,14 @@
 - **Hit Points:** 19 (3d8+6)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 491
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 16 (+3) | 14 (+2) | 10 (+0) | 14 (+2) | 10 (+0) |
 
 - **Saving Throws**: Dex +5
+- **Skills:** nature +2, perception +4, stealth +5, survival +4
 - **Senses:** passive Perception 16
 - **Languages:** any one
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **War Pick:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Blindness (2nd-Level; V):** A creature within 30 feet makes a DC 10 Constitution saving throw. On a failure  the target is blinded for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Far underground, deep gnomes use stealth to survive amidst warlike deep dwarves and imperious shadow elves:** Deep gnome scouts hunt and forage  search for gems  and set ambushes for enemies who approach their settlements.
+
+

@@ -6,12 +6,13 @@
 - **Hit Points:** 105 (10d10+50)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 413
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 12 (+1) | 20 (+5) | 8 (-1) | 12 (+1) | 8 (-1) |
 
+- **Skills:** stealth +4
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Giant
 ### Special Abilities
@@ -22,3 +23,5 @@
 - **5-6: Head:** If the troll has a head, it loses its head. It loses its bite attack, and the severed head can make a bite attack.
 ### Actions
 - **Multiattack:** The troll makes two bite attacks and three claw attacks.
+
+

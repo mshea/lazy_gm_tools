@@ -6,13 +6,14 @@
 - **Hit Points:** 168 (16d12+64)
 - **Speed:** walk 60 ft. climb 40 ft. swim 40 ft.
 - **Challenge Rating:** 12 (8,400 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page None
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 14 (+2) | 18 (+4) | 10 (+0) | 16 (+3) | 12 (+1) |
 
 - **Saving Throws**: Dex +6, Int +4, Wis +7
+- **Skills:** athletics +9, perception +7, stealth +6
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 90 ft., passive Perception 17
 - **Languages:** Common, Draconic
@@ -30,3 +31,5 @@
 - **Blindness (1/Day):** When struck by a ranged or area attack by a creature within 60 feet that it can see, the behir forces the attacker to make a DC 13 Constitution saving throw. On a failure, the creature is magically blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns.
 - **Invisibility (1/Day):** When damaged by an attack, the behir magically becomes invisible for 1 minute or until it makes an attack.
 - **Drain Charge (1/Day):** When subjected to lightning damage, the behir takes no damage, and the attacker or caster takes necrotic damage equal to the lightning damage dealt.
+
+

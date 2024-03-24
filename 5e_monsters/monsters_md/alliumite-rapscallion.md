@@ -6,7 +6,7 @@
 - **Hit Points:** 38 (7d6+14)
 - **Speed:** walk 30 ft. burrow 20 ft. swim 20 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 17
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 ### Reactions
 - **Grapplevine Escape:** When a creature rapscallion can see hits it with melee attack can use its whip to swing up to 20' away from attacker provided nearby terrain includes a feature it can use to swing (branch chandelier ledge mast railing or similar). This movement doesn’t provoke opportunity attacks.
 - **Pungent Retort:** When a creature rapscallion can see within 60' of it starts its turn or casts a spell rapscallion issues forth a string of insults cleverly crafted to make a foe cry. If it can hear the rapscallion target: DC 14 Wis save or sob uncontrollably until start of rapscallion’s next turn. A sobbing creature has disadvantage on ability checks and attack rolls and must make DC 14 Con save to cast a spell that requires spellcaster to see its target. Spellcaster doesn’t lose the spell slot on a failure.
+
+

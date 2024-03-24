@@ -6,12 +6,13 @@
 - **Hit Points:** 67 (15d8)
 - **Speed:** walk 15 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 86
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 4 (-3) | 10 (+0) | 1 (-5) | 10 (+0) | 2 (-4) |
 
+- **Skills:** 
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold
 - **Condition Immunities:** poisoned
@@ -26,3 +27,5 @@
 - **Lawful Evil:** The band radiates a Lawful and Evil aura.
 ### Actions
 - **Fists:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 12 (5d4) bludgeoning damage.
+
+

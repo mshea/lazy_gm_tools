@@ -6,7 +6,7 @@
 - **Hit Points:** 150 (20d8+60)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 90
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -33,3 +33,5 @@
 - **Press the Attack:** If the clockwork tactician hits one target with two Multiweapon attacks or scores a critical hit with its multiweapon it can make one additional Multiweapon attack.
 ### Reactions
 - **Quick Study:** When a creature hits tactician with attack tactician makes DC 13 Int check. Success: it chooses one of:Tactician has advantage on melee attack rolls vs. the attacker.Attacker has disadvantage on attack rolls vs. the tactician.Tactician has resistance to damage type of attack that hit it.Can have more than one benefit active at a time. They end when it attacks a different creature or uses Quick Study on another.
+
+

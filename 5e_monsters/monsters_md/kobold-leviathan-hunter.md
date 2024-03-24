@@ -6,7 +6,7 @@
 - **Hit Points:** 190 (20d8+100)
 - **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 254
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -33,3 +33,5 @@
 - **Recall Harpoon:** Pulls on the cord connected to its harpoon returning harpoon to its empty hand. If harpoon is stuck in a creature that creature must make DC 17 Str save or be pulled up to 20' toward the hunter.
 ### Reactions
 - **Grappled Redirect:** If it is target of an attack it can see while grappling a creature it can hold the grappled creature in the way and the grappled creature becomes attack's target instead.
+
+

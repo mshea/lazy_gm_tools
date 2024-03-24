@@ -6,12 +6,13 @@
 - **Hit Points:** 39 (6d8+12)
 - **Speed:** hover True ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 358
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 16 (+3) | 14 (+2) | 10 (+0) | 14 (+2) | 9 (-1) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** cold, necrotic, poison
 - **Damage Resistances:** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -27,3 +28,5 @@
 - **Black Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) necrotic damage.
 - **Psychic Blast:** Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 22 (4d10) psychic damage.
 - **Imposing Dread (1/Day):** The tulpa uses its action to fill a 40-foot radius around itself with dread-inducing psychic energy. Each creature, other than the tulpa's creator, within that area must succeed on a DC 13 Wisdom saving throw or be frightened of the tulpa until the end of its next turn and become cursed. A creature with an Intelligence of 5 or lower can't be cursed. While cursed by the tulpa, that creature's own thoughts turn ever more dark and brooding. Its sense of hope fades, and shadows seem overly large and ominous. The cursed creature can repeat the saving throw whenever it finishes a long rest, ending the effect on itself on a success. If not cured within three days, the cursed creature manifests its own tulpa.
+
+

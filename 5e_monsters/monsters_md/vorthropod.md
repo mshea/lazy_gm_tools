@@ -6,7 +6,7 @@
 - **Hit Points:** 127 (15d8+60)
 - **Speed:** walk 30 ft. swim 30 ft. climb 20 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 387
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** Two Claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (2d4+3) bludgeoning damage + 7 (2d6) fire. 
 - **Molten Tail Slap (Recharge 4–6):** Unfurls its tail and slaps it down showering area with searing sparks and superheated rock. Each creature within 15 ft. of it: 28 (8d6) fire (DC 14 Dex half).
+
+

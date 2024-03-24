@@ -6,7 +6,7 @@
 - **Hit Points:** 60 (8d8+24)
 - **Speed:** fly 60 ft. hover True ft. walk 0 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 135
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Steal Dreams:** The dream wraith targets an unconscious or sleeping creature within 5 feet of it. The creature must succeed on a DC 14 Constitution saving throw or be reduced to 0 hp. The dream wraith gains temporary hp for 1 hour equal to the amount of hp the creature lost.
 ### Reactions
 - **Dreamer's Gaze:** When a creature the dream wraith can see starts its turn within 30 feet of the dream wraith, the dream wraith can create the illusion that it looks like that creature's most recently departed loved one. If the creature can see the dream wraith, it must succeed on a DC 14 Wisdom saving throw or be stunned until the end of its turn.
+
+

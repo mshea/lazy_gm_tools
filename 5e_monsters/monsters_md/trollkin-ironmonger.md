@@ -6,7 +6,7 @@
 - **Hit Points:** 105 (14d8+42)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 376
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Throwing Axe:** Melee or Ranged Weapon Attack: +6 to hit 5 ft. or range 30/60' one target 7 (1d6+4) slashing damage.
 ### Reactions
 - **Impregnable Counter:** When a creature within 5 ft. of the ironmonger misses a melee attack vs. it the attacker must make DC 15 Str save or be knocked prone.
+
+

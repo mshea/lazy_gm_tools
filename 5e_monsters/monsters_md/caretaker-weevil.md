@@ -6,7 +6,7 @@
 - **Hit Points:** 51 (6d8+24)
 - **Speed:** walk 30 ft. climb 15 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 73
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 - **Mandibles:** Melee Weapon Attack: +3 to hit, 5 ft., one target, 10 (2d8+1) slashing damage.
 - **Glue Glob:** Ranged Weapon Attack: +3 to hit 30/60' one target 7 (2d6) acid. Target restrained for 1 min (DC 13 Dex its speed is halved for 1 min instead). Target can re-save at end of each of its turns success ends effect on itself.
 - **Regenerative Spittle (3/Day):** Launches spittle at one creature it can see within 10 ft. of it. Target regains 2 (1d4) hp. For 1 min target regains 1 hp at the start of each of its turns.
+
+

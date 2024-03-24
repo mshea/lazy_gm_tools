@@ -6,13 +6,14 @@
 - **Hit Points:** 248 (16d20+80)
 - **Speed:** climb 40 ft. walk 40 ft.
 - **Challenge Rating:** 16 (15,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 254
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 26 (+8) | 8 (-1) | 20 (+5) | 21 (+5) | 17 (+3) | 10 (+0) |
 
 - **Saving Throws**: Int +10, Wis +8, Cha +5
+- **Skills:** 
 - **Damage Immunities:** psychic
 - **Condition Immunities:** blinded, prone
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 13
@@ -30,3 +31,5 @@
 - **Separate Malleables:** The massive malleable can split into sixteen minor malleables, four moderate malleables, or two major malleables. The new malleables’ hp totals are equal to the massive malleable’s hp total divided by the number of malleables created (rounded down) and are affected by any conditions, spells, and other magical effects that affected the massive malleable. The new malleables act on the same initiative count as the massive malleable and occupy any unoccupied space that previously contained the massive malleable.
 ### Reactions
 - **Sudden Separation:** When the massive malleable takes 30 damage or more from a single attack, it can choose to immediately use Separate Malleables. If it does so, the damage is divided evenly among the separate malleables it becomes.
+
+

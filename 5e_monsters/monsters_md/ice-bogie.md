@@ -6,7 +6,7 @@
 - **Hit Points:** 10 (3d6)
 - **Speed:** walk 25 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 209
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Spiteful Hail:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 2 (1d4) cold damage, and the target’s speed is reduced by 10 until the end of its next turn.
 ### Reactions
 - **Frosty Aid (1/Day):** Whenever an allied ice bogie within 30 feet is reduced to 0 hp, this ice bogie can choose to reduce its hp by 3 (1d6), and the ally regains hp equal to the amount of hp this ice bogie lost.
+
+

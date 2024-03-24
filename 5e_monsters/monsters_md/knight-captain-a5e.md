@@ -6,13 +6,14 @@
 - **Hit Points:** 171 (18d8+90)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 14 (11,500 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 477
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 12 (+1) | 20 (+5) | 12 (+1) | 12 (+1) | 16 (+3) |
 
 - **Saving Throws**: Con +10, Wis +6
+- **Skills:** athletics +10, history +6, perception +6
 - **Condition Immunities:** frightened
 - **Senses:** passive Perception 18
 - **Languages:** any two
@@ -26,3 +27,5 @@
 - **Command the Attack (1/Day):** The knight captain issues a command to all nonhostile creatures within 30 feet. Creatures who can see or hear the knight captain can use their reaction to make a single weapon attack with advantage.
 - **Knightly Inspiration (1/Day):** The knight captain inspires creatures of their choice within 30 feet that can hear and understand them. For the next minute  inspired creatures gain an expertise die (1d4) on attack rolls and saving throws. A creature can benefit from only one Knightly Inspiration at a time  and the knight captain cannot target themselves.
 - **Knight captains are battle-hardened warriors with countless victories to their names:** Their mere presence inspires even the most novice warrior  and their peerless swordplay can turn the tide of any battle.
+
+

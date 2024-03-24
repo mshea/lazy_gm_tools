@@ -6,7 +6,7 @@
 - **Hit Points:** 93 (11d8+44)
 - **Speed:** walk 25 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 166
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 ### Reactions
 - **Brace Pike:** When a creature enters the captain’s reach the captain can brace its pike. If it does so it has advantage on its next attack roll vs. that creature.
 - **Bring It Down:** When a creature within captain’s reach takes damage from a pike guard or pike guard captain captain can make one opportunity attack vs. that creature.
+
+

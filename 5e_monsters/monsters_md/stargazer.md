@@ -6,7 +6,7 @@
 - **Hit Points:** 168 (16d12+64)
 - **Speed:** walk 15 ft. burrow 20 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 354
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Reel:** Pulls up to 2 creatures grappled by it up to 15 ft. straight to it.
 ### Reactions
 - **Wing Trap Snap:** When 1+ creatures step onto a space on ground within 10 ft. directly above a hidden stargazer stargazer can burrow up to 10 ft. and snap its wing-like appendages shut emerging on the ground in space directly above where it was buried and that contains one or more other creatures. Each creature must make DC 16 Dex save or be trapped as if it failed save vs. Wing Trap.
+
+

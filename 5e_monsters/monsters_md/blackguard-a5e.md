@@ -6,13 +6,14 @@
 - **Hit Points:** 82 (11d8+33)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 475
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 16 (+3) | 12 (+1) | 14 (+2) | 14 (+2) |
 
 - **Saving Throws**: Str +6, Con +6, Wis +5
+- **Skills:** athletics +6, intimidation +5, perception +5
 - **Senses:** passive Perception 15
 - **Languages:** any two
 ### Special Abilities
@@ -24,3 +25,5 @@
 - **Heavy Crossbow:** Ranged Weapon Attack: +4 to hit  range 100/400 ft.  one target. Hit: 6 (1d10 + 1) piercing damage plus 10 (3d6) poison damage.
 - **Vile Curse (1/Day):** The knight utters hellish words that scald the soul. Living creatures of the knights choice within 30 feet that can hear and understand them are magically cursed for 1 minute. A d4 is subtracted from attack rolls and saving throws made by a cursed creature. A creature immune to the frightened condition is immune to this curse.
 - **Blackguards rule baronies and command undead and other sinister forces:** Some are forsworn holy knights  while others are armored brutes who serve supernatural villains.
+
+

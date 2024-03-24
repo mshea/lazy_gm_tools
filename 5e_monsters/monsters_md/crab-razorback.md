@@ -6,7 +6,7 @@
 - **Hit Points:** 58 (9d8+18)
 - **Speed:** walk 30 ft. burrow 15 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 98
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,5 @@
 - **Multiattack:** One Claw attack and one Shell Bash attack.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) bludgeoning damage and the target is grappled (escape DC 13). The crab has two claws each of which can grapple only one target.
 - **Shell Bash:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 5 (1d4+3) bludgeoning damage + 3 (1d6) slashing damage.
+
+

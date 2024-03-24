@@ -6,13 +6,14 @@
 - **Hit Points:** 190 (20d8+100)
 - **Speed:** walk 0 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 211
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 10 (+0) | 20 (+5) | 1 (-5) | 12 (+1) | 1 (-5) |
 
 - **Saving Throws**: Int +-1, Cha +-1
+- **Skills:** 
 - **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone, restrained, stunned
 - **Senses:** blindsight 90 ft. (blind beyond this radius), passive Perception 11
 - **Languages:** 
@@ -27,3 +28,5 @@
 - **Ethereal Spores (While Bloodied, Ethereal Plane Only):** Each creature within 30 feet makes a DC 15 Constitution saving throw  taking 31 (9d6) necrotic damage on a failed save or half damage on a success. A creature reduced to 0 hit points by this damage dies. If a creature killed by this attack remains on the Ethereal Plane for 24 hours  its corpse disintegrates  and a new dead mans fingers sprouts from its place.
 ### Bonus Actions
 - **Telekinetic Pull (Ethereal or Material Plane):** One creature within 90 feet makes a DC 15 Strength saving throw. On a failure, it is magically pulled up to 60 feet straight towards the dead mans fingers.
+
+

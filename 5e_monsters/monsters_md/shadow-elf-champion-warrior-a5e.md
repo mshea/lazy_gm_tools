@@ -6,13 +6,14 @@
 - **Hit Points:** 90 (12d8+36)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 497
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 18 (+4) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
 - **Saving Throws**: Str +7, Dex +7, Con +6, Wis +4
+- **Skills:** athletics +7, intimidation +5, perception +4, stealth +7, survival +4
 - **Senses:** passive Perception 14, darkvision 120 ft.
 - **Languages:** any one
 ### Special Abilities
@@ -22,3 +23,5 @@
 - **Shortsword:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 7 (1d6 + 4) piercing damage. As part of this attack  the warrior can poison the blade  causing the attack to deal an extra 7 (2d6) poison damage.
 - **Hand Crossbow:** Ranged Weapon Attack: +7 to hit  range 30/120 ft.  one target. Hit: 7 (1d6 + 4) piercing damage. If the target is a creature  it makes a DC 13 Constitution saving throw. On a failure  the target is poisoned for 1 hour. If it fails the saving throw by 5 or more  it falls unconscious until it is no longer poisoned  it takes damage  or a creature takes an action to shake it awake.
 - **In the caverns and tunnels of the underworld, shadow elves conduct raids on rival settlements, using stealth and poison to gain the upper hand:** 
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 147 (14d10+70)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 251
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Multiattack:** The magma octopus makes four attacks with its tentacles.
 - **Tentacle:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage plus 2 (1d4) fire damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and it takes 2 (1d4) fire damage at the start of each of its turns. The magma octopus can grapple up to two targets at a time.
 - **Magma Blast (Recharge 6):** The magma octopus sprays magma in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it catches fire. Until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+
+

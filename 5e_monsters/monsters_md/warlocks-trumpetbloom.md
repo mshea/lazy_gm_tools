@@ -6,7 +6,7 @@
 - **Hit Points:** 152 (16d10+64)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 372
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Multiattack:** The trumpetbloom makes three attacks: one with its stinger and two with its tendrils.
 - **Stinger:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 16 (2d12 + 3) piercing damage, and the target must succeed on a DC 15 Constitution saving throw or become poisoned for 1 minute. The target is paralyzed while poisoned in this way. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Tendril:** Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage and the target is grappled (escape DC 14) if it is a Medium or smaller creature. The trumpetbloom has two tendrils, each of which can grapple only one target.
+
+

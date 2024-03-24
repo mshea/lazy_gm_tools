@@ -6,7 +6,7 @@
 - **Hit Points:** 27 (5d8+5)
 - **Speed:** walk 30 ft. fly 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 108
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,5 @@
 - **Inspire Violence (Recharge 5–6):** Wispers to a creature within 5 ft. of it that can hear it stoking paranoia and hatred. The creature must make DC 13 Cha save or it uses its next action to make one attack vs. a creature that both target and inciter demon can see. A creature immune to being charmed isn’t affected by inciter demon’s Inspire Violence.
 ### Bonus Actions
 - **Invisibility:** Magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment it wears or carries is invisible with it.
+
+

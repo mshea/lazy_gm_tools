@@ -6,13 +6,14 @@
 - **Hit Points:** 133 (14d12+42)
 - **Speed:** walk 40 ft. burrow 20 ft. fly 60 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 146
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 18 (+4) | 16 (+3) | 18 (+4) | 12 (+1) | 16 (+3) |
 
 - **Saving Throws**: Con +7, Int +8, Wis +5, Cha +7
+- **Skills:** deception +7, history +8, perception +5, stealth +8
 - **Damage Resistances:** psychic, thunder
 - **Condition Immunities:** fatigue
 - **Senses:** darkvision 120 ft., passive Perception 17
@@ -25,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) thunder damage.
 - **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Maddening Breath (Recharge 5-6):** The dragon screams  stripping flesh from bone in a 30-foot cone. Each creature in that area makes a DC 15 Constitution saving throw  taking 44 (8d10) thunder damage on a failed save or half damage on a success.
+
+

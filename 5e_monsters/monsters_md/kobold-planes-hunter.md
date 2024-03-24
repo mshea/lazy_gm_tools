@@ -6,7 +6,7 @@
 - **Hit Points:** 181 (33d6+66)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 254
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -32,3 +32,5 @@
 - **Planar Step:** Teleports along with any equipment up to 30' to an unoccupied spot it sees. Glowing swirls of elemental energy appear at origin and destination when it uses this.
 ### Reactions
 - **Parry:** + 4 to its AC vs. one melee attack that would hit it if it can see attacker and wielding melee weapon.
+
+

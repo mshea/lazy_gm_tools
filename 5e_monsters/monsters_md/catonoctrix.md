@@ -6,7 +6,7 @@
 - **Hit Points:** 168 (16d10+80)
 - **Speed:** walk 40 ft. fly 80 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 75
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Spellcasting (Psionics):** Int (DC 15) no spell components: At will: detect thoughts divination1/day ea: confusion scrying suggestion
 ### Reactions
 - **Precognitive Dodge:** Adds 4 to its AC vs. one attack that would hit it. To do so it must see the attacker and be within 30' of it.
+
+

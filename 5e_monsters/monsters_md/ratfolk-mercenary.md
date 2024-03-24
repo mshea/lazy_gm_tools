@@ -6,7 +6,7 @@
 - **Hit Points:** 45 (13d6)
 - **Speed:** swim 10 ft. walk 25 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 315
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Dart:** Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 ### Reactions
 - **Guard the Big Cheese:** When a creature makes an attack against the ratfolk mercenary's current employer, the mercenary grants a +2 bonus to the employer's AC if the mercenary is within 5 feet of the employer.
+
+

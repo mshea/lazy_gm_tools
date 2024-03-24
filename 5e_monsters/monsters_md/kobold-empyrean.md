@@ -6,7 +6,7 @@
 - **Hit Points:** 150 (20d6+80)
 - **Speed:** walk 30 ft. fly 90 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 253
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -32,3 +32,5 @@
 - **Invisibility:** Magically turns invisible until it attacks/concentration ends (as if on a spell). Items worn/carried are invisible with it.
 ### Reactions
 - **Draconic Ascension:** When a kobold it can see is reduced to 0 hp empyrean can reincarnate the kobold as a wyrmling dragon of a type befitting that kobold and its virtues. Empyrean can provide ascension to up to two kobolds each hr with this reaction.
+
+

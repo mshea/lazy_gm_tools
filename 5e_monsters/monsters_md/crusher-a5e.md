@@ -6,12 +6,13 @@
 - **Hit Points:** 115 (11d10+55)
 - **Speed:** walk 20 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 53
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 8 (-1) | 20 (+5) | 1 (-5) | 6 (-2) | 1 (-5) |
 
+- **Skills:** perception +2
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft. (blind beyond that range), passive Perception 12
@@ -24,3 +25,5 @@
 - **Ram:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 23 (4d8 + 5) bludgeoning damage. If the crusher moves at least 20 feet straight towards the target before the attack  the attack deals an extra 18 (4d8) bludgeoning damage.
 ### Bonus Actions
 - **Overclock (Recharge 5-6):** The crusher takes the Dash action.
+
+

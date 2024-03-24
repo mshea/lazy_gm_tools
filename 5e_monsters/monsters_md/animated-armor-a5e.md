@@ -6,12 +6,13 @@
 - **Hit Points:** 31 (7d8)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 23
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 10 (+0) | 10 (+0) | 1 (-5) | 10 (+0) | 1 (-5) |
 
+- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** piercing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
@@ -22,3 +23,5 @@
 - **False Appearance:** While motionless, the armor is indistinguishable from normal armor.
 ### Actions
 - **Weapon:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 7 (1d10 + 2) bludgeoning  piercing  or slashing damage  depending on weapon.
+
+

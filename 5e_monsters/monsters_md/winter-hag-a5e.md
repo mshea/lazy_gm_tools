@@ -6,13 +6,14 @@
 - **Hit Points:** 120 (16d8+48)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 272
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Con +6, Wis +6
+- **Skills:** arcana +6, deception +7, insight +6, perception +6, stealth +6
 - **Damage Resistances:** cold
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Draconic, Sylvan
@@ -28,3 +29,5 @@
 - **Invisibility (2nd-Level; V, S, Concentration):** The hag is invisible for 1 hour. The spell ends if the hag attacks or casts a spell.
 ### Reactions
 - **Ice Shield:** The hag adds 3 to its AC against one melee attack that would hit it made by a creature it can see. If the attack misses, the attacker takes 14 (4d6) cold damage.
+
+

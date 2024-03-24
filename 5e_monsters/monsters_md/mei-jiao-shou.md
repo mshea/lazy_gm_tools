@@ -6,13 +6,14 @@
 - **Hit Points:** 139 (9d20+45)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 259
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 23 (+6) | 7 (-2) | 21 (+5) | 3 (-4) | 9 (-1) | 6 (-2) |
 
 - **Saving Throws**: Dex +1
+- **Skills:** 
 - **Senses:** passive Perception 9
 - **Languages:** —
 ### Special Abilities
@@ -21,3 +22,5 @@
 - **Head Bash:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
 - **Stomp:** Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature. Hit: 28 (4d10 + 6) bludgeoning damage.
 - **Earth-Shaking Thump (Recharge 5-6):** The mei jiao shou rears up and lands heavily, kicking up a shower of debris and rattling and cracking the ground. Each creature in contact with the ground within 30 feet of the mei jiao shou must make a DC 16 Dexterity saving throw. On a failure, a creature takes 22 (4d10) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage and isn’t knocked prone. The area then becomes difficult terrain.
+
+

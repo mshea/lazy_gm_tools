@@ -6,12 +6,13 @@
 - **Hit Points:** 18 (4d8)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 291
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
+- **Skills:** deception +4, perception +2, stealth +4
 - **Damage Resistances:** damage from nonmagical, non-silvered weapons
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common (cant speak in jackal form)
@@ -27,3 +28,5 @@
 ### Bonus Actions
 - **Shapeshift:** The jackalwere magically changes its form, along with its equipment, to that of a specific Medium humanoid or a jackal-human hybrid or its true form, which is a Small jackal. While shapeshifted, its statistics are otherwise unchanged. It reverts to its true form if it dies.
 - **Combat The jackalwere shifts to hybrid form and uses Sleep Gaze on an unsuspecting target:** It then fights with its scimitar, staying next to at least one ally. A jackalwere is fearless when facing enemies armed with mundane weapons, but it retreats if it is outnumbered by enemies capable of bypassing its resistances.
+
+

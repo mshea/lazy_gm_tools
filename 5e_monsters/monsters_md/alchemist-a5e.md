@@ -6,13 +6,14 @@
 - **Hit Points:** 91 (14d8+28)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 466
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 11 (+0) | 16 (+3) | 14 (+2) | 19 (+4) | 14 (+2) | 13 (+1) |
 
 - **Saving Throws**: Dex +6, Con +5, Wis +5
+- **Skills:** arcana +7, investigation +7, nature +7, perception +5
 - **Damage Resistances:** fire, poison
 - **Senses:** passive Perception 15
 - **Languages:** any four
@@ -34,5 +35,5 @@
 ### Reactions
 - **Desperate Drink (1/Day:** When the alchemist is dealt damage, they drink a potion.
 - **Alchemists brew concoctions with potent magical and chemical properties:** Some alchemists perform dangerous experiments to perfect new alchemical recipes, while others fabricate guardians and other constructs in pursuit of the creation of life itself.
-- **Alter Bomb:** The alchemist quickly swaps reagents to change the damage dealt by their next bomb to acid, cold, lightning, poison, or thunder.
-- **Potion:** The alchemist drinks or administers a potion.
+
+

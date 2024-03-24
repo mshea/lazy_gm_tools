@@ -6,7 +6,7 @@
 - **Hit Points:** 135 (18d8+54)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 189
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,5 @@
 - **Icicle Barrage (Recharge 5–6):** Icicles fly from its hand in 30' cone. Each creature in area: 17 (5d6) piercing damage and 17 (5d6) cold (DC 16 Dex half).
 ### Reactions
 - **Hoarfrost Warding (3/Day):** When it takes fire it gains resistance to fire including triggering attack until end of its next turn.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 115 (11d12+44)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 326
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Duplicating Terror (1/Day):** The shukankor magically duplicates itself, creating four replicas. Each replica uses the statistics of an axe beak, except it also has the shukankor’s Many Eyes and Self-made Pack traits. The shukankor can communicate telepathically with a replica as long as they are within 120 feet of each other. The replicas act as allies of the shukankor and obey its telepathic commands. The replicas remain until killed or dismissed by the shukankor as a bonus action. Slain or dismissed replicas melt into a foul-smelling puddle of green goo. A replica that survives for 24 hours breaks its telepathic link with the shukankor, becoming a free-thinking creature, and grows into a full shukankor after 1 month.
 ### Reactions
 - **Sacrifice Replica:** When a creature the shukankor can see targets it with an attack, the shukankor forces a replica within 5 feet of it to jump in the way. The chosen replica becomes the target of the attack instead.
+
+

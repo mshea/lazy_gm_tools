@@ -6,7 +6,7 @@
 - **Hit Points:** 28 (8d6)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 87
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,5 @@
 - **Overclocked Finale (Recharge: Short/Long Rest):** Makes a grand sacrifice spurring its allies on in a final masterstroke. Each friendly creature within 30' of conductor that can see it gains a +5 bonus to attack rolls damage rolls and ability checks until the end of the conductor’s next turn. Roll a d6. On a 1 to 4 conductor can’t use Concerted Effort until it finishes a short rest. On a 5 or 6 it can’t use Concerted Effort and its Metronomic Aura becomes inactive until it finishes a short rest.
 ### Bonus Actions
 - **Concerted Effort:** Inspires itself or one friendly creature it can see within 30' of it until start of conductor’s next turn. When target makes an attack roll or a Con save to maintain concentration on a spell target can roll d4 and add result to attack or save.
+
+

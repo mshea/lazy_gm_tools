@@ -6,7 +6,7 @@
 - **Hit Points:** 55 (10d8+10)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 20
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,5 @@
 - **Greatsword:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 9 (2d6+2) slashing damage.
 - **Shortbow:** Ranged Weapon Attack: +6 to hit 80/320' one target 6 (1d6+3) piercing damage.
 - **Dye Bomb (3/Day):** Lobs a sphere of concentrated dye that explodes on impact marking creatures caught in its effect. Each creature within a 10 ft. radius of where sphere landed: DC 13 Dex save or be brightly painted for 8 hrs. Any attack roll vs. creature has advantage if attacker can see it and other creatures have advantage on any Wis (Perception) or Wis (Survival) check made to find the marked creature. To remove the effect a creature must spend 1 min bathing. Alternatively spells that create water or clean objects such as prestidigitation also remove the effect.
+
+

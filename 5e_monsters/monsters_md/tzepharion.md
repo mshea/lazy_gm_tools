@@ -6,7 +6,7 @@
 - **Hit Points:** 110 (13d10+39)
 - **Speed:** walk 50 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 106
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
 - **Soul Jolt (Recharge 6):** The tzepharion leaps up to 20 feet through the air and makes a claw attack against a target within reach. If it hits, the target must succeed on a DC 15 Wisdom saving throw or its soul is forced out of its body, appearing 20 feet in a random direction away from its body, for 1 minute. The creature has control of its soul, which is invisible and can move through creatures and objects as if they were difficult terrain, but it can’t cast spells or take any actions. The creature’s body is knocked unconscious and can’t be awoken until its soul returns, but it can take damage as normal. The creature can repeat the saving throw at the end of each of its turns, reoccupying its body on a success. Alternatively, a creature can reoccupy its body early if it starts its turn within 5 feet of its body. If a creature doesn’t return to its body within 1 minute, the creature dies. If its body is reduced to 0 hp before the creature reoccupies its body, the creature dies.
+
+

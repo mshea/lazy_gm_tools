@@ -6,7 +6,7 @@
 - **Hit Points:** 32 (5d8+10)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+- **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 328
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Spellcasting:** Cha (DC 11) no material components: At will: detect thoughts disguise self1/day: cause fear
 ### Reactions
 - **Protecting Pounce:** When a rakshasa the servitor can see within 15 ft. of it is the target of an attack the servitor can move up to half its speed toward that rakshasa with o provoking opportunity attacks. If it ends this movement within 5 ft. of the rakshasa the servitor becomes the target of the attack instead.
+
+

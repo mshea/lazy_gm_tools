@@ -6,12 +6,13 @@
 - **Hit Points:** 19 (3d8+6)
 - **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 410
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) |
 
+- **Skills:** stealth +3
 - **Senses:** darkvision 120 ft., passive Perception 11
 - **Languages:** Troglodyte
 ### Special Abilities
@@ -22,3 +23,5 @@
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage  and the target makes a DC 12 Constitution saving throw. On a failure  it is infected with Troglodyte Stench.
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Dart:** Melee Weapon Attack: +4 to hit  range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) poison damage.
+
+

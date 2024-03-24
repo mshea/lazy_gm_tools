@@ -6,12 +6,13 @@
 - **Hit Points:** 114 (12d10+48)
 - **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** [Level Up Advanced 5e Monstrous Menagerie](https://www.levelup5e.com)
+- **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 187
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 10 (+0) | 16 (+3) | 12 (+1) |
 
+- **Skills:** perception +6, stealth +6, survival +6
 - **Damage Resistances:** poison
 - **Senses:** darkvision 120 ft., passive Perception 16
 - **Languages:** Undercommon, one more
@@ -25,3 +26,5 @@
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one grappled creature. Hit: 2 (1d4) piercing damage plus 13 (3d8) poison damage.
 - **Longsword (wielded two-handed):** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (1d10 + 4) slashing damage.
 - **Longbow:** Melee Weapon Attack: +6 to hit  range 120/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
+
+

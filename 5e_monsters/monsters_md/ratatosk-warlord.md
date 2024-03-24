@@ -6,7 +6,7 @@
 - **Hit Points:** 77 (14d6+28)
 - **Speed:** climb 25 ft. walk 25 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 314
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,5 @@
 - **Ratatosk Shortspear:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 - **Gore:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage plus 14 (4d6) psychic damage.
 - **Chatter of War (Recharges 5-6):** Each non-ratatosk creature within 30 feet that can hear the warlord must succeed on a DC 15 Charisma saving throw or have disadvantage on all attack rolls until the start of the warlord's next turn.
+
+

@@ -6,7 +6,7 @@
 - **Hit Points:** 142 (15d10+60)
 - **Speed:** fly 60 ft. walk 20 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
+- **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 277
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,5 @@
 - **Clutching Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage, and the target is grappled (escape DC 16) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained. The nightgaunt has two claws, each of which can grapple only one target. While using a claw to grapple, the nightgaunt can't use that claw to attack.
 - **Barbed Tail:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 10 (3d6) poison damage.
 - **Baneful Presence:** Each creature of the nightgaunt's choice that is within 30 feet of the nightgaunt and aware of it must succeed on a DC 16 Wisdom saving throw or have disadvantage on all attack rolls and saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nightgaunt's Baneful Presence for the next 24 hours.
+
+
