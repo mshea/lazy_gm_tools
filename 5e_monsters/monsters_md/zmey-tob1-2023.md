@@ -28,9 +28,6 @@
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 19 (2d12 + 6) piercing damage.
 - **Claw:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 20 (4d6 + 6) slashing damage.
 - **Fire Breath (Recharge 5–6):** The zmey exhales fire in a 30-foot cone out of each of its heads. Each creature in a cone must make a DC 17 Dexterity saving throw, taking 49 (14d6) fire damage on a failed save, or half as much damage on a successful one. If the cones overlap, each creature in the overlapping cones must make one saving throw with disadvantage against only one of the cones rather than one saving throw for each cone. The zmey can choose for this breath to not harm plants or Plant creatures.
-- **Move:** The zmey moves up to its speed, or flies up to half its flying speed, without provoking opportunity attacks.
-- **Tail Whip:** The zmey whips its tail around it. Each creature within 15 feet of the zmey must succeed on a DC 17 Dexterity saving throw or be knocked prone.
-- **Tripartite Roar (Costs 2 Actions):** The zmey’s heads exhale a three-part roar, one a deafening shriek, one a frightful screech, and one a stunning bellow, in a 30-foot cone. Each creature in that area must succeed on a DC 17 Wisdom saving throw or suffer the effects of the roars until the end of its next turn. The effects depend upon the number of heads the zmey has remaining: deafened for only one head, deafened and frightened for two heads, or stunned for three heads.
 
 The zmey can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The zmey regains spent legendary actions at the start of its turn.
 ### Legendary Actions

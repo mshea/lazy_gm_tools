@@ -27,8 +27,6 @@
 - **Beak:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.
 - **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19 (4d6 + 5) slashing damage.
 - **Carrion Breath (Recharge 5–6):** The gypsosphinx exhales rotting breath in a 30-foot cone. Each creature in the area must make a DC 18 Constitution saving throw. On a failure, a creature takes 21 (6d6) poison damage and 27 (6d8) necrotic damage and is poisoned for 1 minute. On a success, a creature takes half the damage and isn’t poisoned. While poisoned in this way, a creature has disadvantage on death saving throws. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-- **Beak Attack:** The sphinx makes one Beak attack.
-- **Teleport (Costs 2 Actions):** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Spellcasting:** The sphinx casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):<br>At will: comprehend languages, detect magic, mage hand<br>3/day each: blur, dispel magic, locate object<br>1/day each: major image, greater invisibility
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The sphinx regains spent legendary actions at the start of its turn.
