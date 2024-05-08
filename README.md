@@ -12,6 +12,8 @@ In this repository you'll find:
 
 **The Dyson Map Selector (/dyson_maps/)**. A tool to find maps from a library of commercially-licensed [Dyson Logos](https://dysonlogos.blog) maps. Please consider joining [Dyson's Patreon](https://www.patreon.com/dysonlogos/).
 
+**RPG Tips**. A CSV of all the #dnd tips I posted to Twitter from 2009 to 2020 and a set of RPG tips from about 2015 to present. Released under a Creative Commons Attribution 4.0 license.
+
 **Obsidian Lazy DM Campaign Template**. A simple set of markdown files and directories to build Lazy DM-style notes in [Obsidian](https://obsidian.md/).
 
 **Forge of Foes Stats for Espanso (forge_of_foes_for_espanso.yml)**. A set of YAML instructions compatible with [espanso](https://espanso.org/).
