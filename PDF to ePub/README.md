@@ -4,7 +4,9 @@ Digital RPG products are almost always published in PDF but PDF is a terribly in
 
 This shell script can do a moderately decent job of converting PDFs to ePub, a flexible and open format for reading books on mobile devices.
 
-Steel yourself – the output is still going to suck. There's no magic here. PDFs are just terrible to convert to other formats. Still, this might do a decent enough job to give you something useful – or maybe not. I wish you luck.
+Steel yourself – the output is still going to suck. There's no magic here. PDFs are just terrible to convert to other formats. Still, this might do a decent enough job to give you something useful – or maybe not. It particularly blows at rendering tables. I mean really blows.
+
+I wish you luck.
 
 This script requires that you have `pdftotext` and `pandoc` installed and in your path.
 
