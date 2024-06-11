@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 11
 - **Languages:** 
+
 ### Special Abilities
+
 - **Hold Breath:** The plesiosaurus can hold its breath for 1 hour.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 15 (2d10 + 4) piercing damage. The target makes a DC 14 Strength saving throw. On a failure  it is pulled up to 5 feet towards the plesiosaurus.
 
 

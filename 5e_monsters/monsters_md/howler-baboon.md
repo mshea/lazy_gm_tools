@@ -16,9 +16,13 @@
 - **Skills:** athletics +4, perception +3
 - **Senses:** passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Pack Tactics:** The baboon has advantage on attack rolls against a creature if at least one of the baboon’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
 ### Actions
+
 - **Fist:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 

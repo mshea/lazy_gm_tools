@@ -15,9 +15,13 @@
 - **Skills:** Intimidation +4, Perception +4
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Giant
+
 ### Special Abilities
+
 - **Magic Resistance:** The degenerate titan has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The degenerate titan can use its Reality-Bending Shout. It then makes three Greatclub attacks or two Rock attacks.
 - **Greatclub:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 27 (4d10 + 5) bludgeoning damage.

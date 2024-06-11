@@ -15,9 +15,13 @@
 - **Skills:** perception +2
 - **Senses:** darkvision 30 ft., passive Perception 12
 - **Languages:** Aquan, Common
+
 ### Special Abilities
+
 - **Amphibious:** The merfolk can breathe air and water.
+
 ### Actions
+
 - **Trident:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d8) piercing damage if used with two hands to make a melee attack  or 3 (1d6) piercing damage if thrown.
 
 

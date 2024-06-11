@@ -15,9 +15,13 @@
 - **Skills:** Nature +3, Perception +5, Stealth +5, Survival +5
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Elvish, Sylvan
+
 ### Special Abilities
+
 - **Woodfriend:** When in a forest, the alseid leaves no tracks and automatically discerns true north.
+
 ### Actions
+
 - **Spear:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 - **Shortbow:** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Thorned Staff:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 5 (2d4) piercing damage.

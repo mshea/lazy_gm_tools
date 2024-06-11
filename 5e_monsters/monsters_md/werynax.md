@@ -17,10 +17,14 @@
 - **Damage Resistances:** force
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** understands Common but can’t speak
+
 ### Special Abilities
+
 - **Magic Resistance:** The werynax has advantage on saving throws against spells and other magical effects.
 - **Pounce:** If the werynax moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, the target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the werynax can make one bite attack against it as a bonus action.
+
 ### Actions
+
 - **Multiattack:** The werynax makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.

@@ -16,10 +16,14 @@
 - **Damage Resistances:** fire
 - **Senses:** passive Perception 14
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Infantry Slayer:** While mounted, the dragonborn has advantage on melee weapon attacks against creatures that are Medium or smaller and are not mounted.
 - **Mounted Warrior:** While mounted, the dragonborn's mount can't be charmed or frightened.
+
 ### Actions
+
 - **Cavalry Saber:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Shortbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Fire Breath (Recharges after a Short or Long Rest):** The dragonborn breathes fire in a 15-foot cone. All creatures in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.

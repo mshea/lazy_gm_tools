@@ -16,10 +16,14 @@
 - **Skills:** athletics +5, history +0, perception +2
 - **Senses:** passive Perception 12
 - **Languages:** any two
+
 ### Special Abilities
+
 - **Brave:** The knight has advantage on saving throws against being frightened.
 - **Steadfast:** When a defender would be pushed, pulled, or knocked prone, they are not knocked prone, and the distance of any push or pull is reduced by 10 feet.
+
 ### Actions
+
 - **Multiattack:** The defender attacks twice with their warhammer.
 - **Warhammer:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) bludgeoning damage.
 - **Lance (Mounted Only):** Melee Weapon Attack: +5 to hit  reach 10 ft.  one target. Hit: 9 (1d12 + 3) piercing damage. If the knight moves at least 20 feet straight towards the target before the attack  they deal an extra 6 (1d12) piercing damage  and the target makes a DC 13 Strength saving throw  falling prone on a failure. This attack is made at disadvantage against targets within 5 feet.

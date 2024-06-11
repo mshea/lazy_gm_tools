@@ -18,10 +18,14 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned
 - **Senses:** blindsight 120' (blind beyond), passive Perception 15
 - **Languages:** understands Common and Void Speech but can’t speak, telepathy 60'
+
 ### Special Abilities
+
 - **False Appearance:** While motionless indistinguishable from patch of glowing fungus.
 - **Illumination:** Sheds dim light in a 10 ft. radius.
+
 ### Actions
+
 - **Multiattack:** 2 Poisonous Mycelium or Psychic Blasts. If it hits one creature with both Blasts target charmed 1 min (DC 13 Cha negates) and can re-save at end of each of its turns success ends effect on itself.
 - **Poisonous Mycelium:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) piercing damage + 7 (2d6) poison and poisoned until end of its next turn (DC 13 Con not poisoned.)
 - **Psychic Blast:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 12 (2d8+3) psychic.

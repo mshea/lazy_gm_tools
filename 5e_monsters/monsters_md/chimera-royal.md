@@ -18,10 +18,14 @@
 - **Condition Immunities:** charmed, frightened, poisoned
 - **Senses:** blindsight 30', darkvision 60', passive Perception 16
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Legendary Resistance (3/Day):** Choose to succeed failed save.
 - **Regal Bearing:** The chimera’s AC includes its Cha modifier.
+
 ### Actions
+
 - **Multiattack:** One Bite one Claws and one Eldritch Horns or it makes two Arcane Blasts.
 - **Bite:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 15 (3d6+5) piercing damage.
 - **Claws:** Melee Weapon Attack: +10 to hit, 10 ft., one target, 15 (3d6+5) slashing damage.
@@ -32,7 +36,9 @@
 - **Spellcasting:** Goat head casts one of the following spells. Cha (DC 18) only verbal components: At will: charm person dispel magic mage hand3/day ea: bestow curse enthrall haste1/day: dominate person
 
 
+
 ### Legendary Actions
+
 - **Prideful Prowl:** Moves up to its walking speed or flies up to half its flying speed with o provoking opportunity attacks.
 - **Serpent Strike:** Makes one Serpent Strike attack.
 - **Cast a Spell (2):** Uses Spellcasting.

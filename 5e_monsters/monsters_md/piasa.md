@@ -17,9 +17,13 @@
 - **Damage Vulnerabilities:** poison
 - **Senses:** blindsight 15 ft., darkvision 120 ft., passive Perception 14
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Segmented Tail:** The piasa's spiked tail is segmented and up to three times the length of its body. When the piasa takes 25 or more damage in a single turn, a segment of its tail is severed. When the first segment is severed, the tail attack's damage type changes from piercing to bludgeoning and deals 1d8 less damage. When the second segment is severed, the tail attack no longer deals damage, but it can still grapple. When the third segment is severed, the piasa can't make tail attacks. The tail re-grows at a rate of one segment per long rest.
+
 ### Actions
+
 - **Multiattack:** The piasa can use its Frightful Presence. It then makes three attacks: one with its bite or tail and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.

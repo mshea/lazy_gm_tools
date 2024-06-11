@@ -16,9 +16,13 @@
 - **Damage Immunities:** acid
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 17
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Flow Within the Mountain:** The dragon has advantage on Stealth checks made to hide in mountainous regions.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Acid Breath:** The dragon exhales acid in a 20-foot-long  5-foot wide-line. Each creature in the area makes a DC 11 Dexterity saving throw  taking 13 (3d8) acid damage on a failed save or half damage on a success.

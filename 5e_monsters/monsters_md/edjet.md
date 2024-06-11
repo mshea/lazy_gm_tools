@@ -17,10 +17,14 @@
 - **Damage Resistances:** fire
 - **Senses:** passive Perception 14
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Line of Battle:** When the dragonborn edjet is within 5 feet of two allies that aren't incapacitated, it has advantage on saving throws against being frightened.
 - **Martial Advantage:** Once per turn, the dragonborn edjet can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the edjet that isn't incapacitated.
+
 ### Actions
+
 - **Multiattack:** The dragonborn edjet makes two melee or ranged attacks.
 - **Halberd:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
 - **Shortsword:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.

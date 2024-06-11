@@ -15,9 +15,13 @@
 - **Skills:** stealth +3
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Hearing and Sight:** The fennec fox has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 
 

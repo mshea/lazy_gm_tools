@@ -16,11 +16,15 @@
 - **Skills:** perception +4, stealth +6
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 14
 - **Languages:** —
+
 ### Special Abilities
+
 - **Amphibious:** The vallowex can breathe air and water.
 - **Aura of Thirst:** At the start of each of the vallowex’s turns, each creature within 30 feet of it must succeed on a DC 15 Constitution saving throw or have disadvantage on its next attack roll or ability check as a gnawing thirst distracts it. For each minute a creature stays in the vallowex’s aura, it gains one level of exhaustion from dehydration. A level of exhaustion is removed if the creature uses an action to drink 1 pint of water. A vallowex is immune to its own Aura of Thirst as well as the auras of other vallowexes.
 - **Underwater Camouflage:** The vallowex has advantage on Dexterity (Stealth) checks made while underwater.
+
 ### Actions
+
 - **Multiattack:** The vallowex makes two attacks: one with its spiked tongue and one with its tail.
 - **Spiked Tongue:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 14 (2d8 + 5) piercing damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the vallowex can’t use its spiked tongue against another target.
 - **Tail:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage.

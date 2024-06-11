@@ -17,13 +17,17 @@
 - **Damage Resistances:** thunder
 - **Senses:** darkvision 60', passive Perception 14
 - **Languages:** —
+
 ### Special Abilities
+
 - **Amphibious:** Can breathe air and water.
 - **Hop By:** Doesn't provoke opportunity attacks when it jumps out of an enemy’s reach.
 - **Pack Tactics:** Advantage on attacks vs. creature if 1+ unincapacitated attacker ally is within 5 ft. of target.
 - **Standing Leap:** Its long jump is up to 20' and its high jump is up to 10 ft. with or with o a running start.
 - **Swamp Camouflage:** Has advantage on Dex (Stealth) checks made to hide in swampy terrain.
+
 ### Actions
+
 - **Multiattack:** One Bite attack and one Kick attack. It can replace one Bite attack with one Sticky Tongue attack.
 - **Bite:** Melee Weapon Attack: +8 to hit, 5 ft., one creature,. 16 (2d10+5) piercing damage.
 - **Kick:** Melee Weapon Attack: +8 to hit, 5 ft., one creature,. 14 (2d8+5) bludgeoning damage.

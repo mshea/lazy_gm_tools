@@ -15,12 +15,16 @@
 - **Skills:** athletics +10, perception +6
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** understands Deep Speech but can’t speak
+
 ### Special Abilities
+
 - **Blood Frenzy:** The murgrik has advantage on melee attack rolls against any creature that doesn’t have all its hp.
 - **Hold Breath:** The murgrik can hold its breath for 30 minutes.
 - **Keen Scent:** The murgrik has advantage on Wisdom (Perception) checks that rely on smell.
 - **Tentacle Flight:** The murgrik flies by spinning its tentacles. If it is grappling a creature with its tentacles, its flying speed is halved.
+
 ### Actions
+
 - **Multiattack:** The murgrik makes three attacks: one with its bite and two with its tentacles.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) piercing damage.
 - **Tentacles:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 9 (1d6 + 6) bludgeoning damage. The target is grappled (escape DC 18) if it is a Medium or smaller creature and the murgrik doesn’t have two other creatures grappled. Until this grapple ends, the target is restrained.

@@ -18,11 +18,15 @@
 - **Condition Immunities:** blinded, charmed, frightened, paralyzed
 - **Senses:** truesight 120 ft., passive Perception 22
 - **Languages:** Abyssal, Celestial, Common, Draconic, Infernal, Primordial
+
 ### Special Abilities
+
 - **Magic Resistance:** The drake has advantage on saving throws against spells and other magical effects.
 - **Nimbus of Swirling Stars:** At the start of each of the drake’s turns, each creature within 10 feet of it and that can see it must succeed on a DC 18 Constitution saving throw or be incapacitated until the end of its next turn.
 - **Planar Weapons:** The drake’s weapon attacks are magical. When it hits with any weapon, the weapon deals an extra 4d8 force damage (included in the attack).
+
 ### Actions
+
 - **Multiattack:** The drake makes one Bite attack and two Claw attacks, or it makes four Searing Star attacks. If two Searing Star attacks hit one creature, that creature must succeed on a DC 18 Constitution saving throw or be blinded until the end of its next turn.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage plus 18 (4d8) force damage.
 - **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 18 (4d8) force damage.

@@ -17,11 +17,15 @@
 - **Damage Resistances:** cold
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** —
+
 ### Special Abilities
+
 - **Limited Invisibility:** When the shimmer seal is on an icy surface or underwater, it is invisible. In all other terrain, the shimmer seal has advantage on Dexterity (Stealth) checks. Seals, other pinnipeds, and creatures chosen by the shimmer seal can see it.
 - **Sureflippered:** The shimmer seal can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn’t cost it extra movement.
 - **Underwater Propulsion:** When the shimmer seal is underwater, it can take the Dash action as a bonus action on each of its turns.
+
 ### Actions
+
 - **Multiattack:** The shimmer seal makes two tusk attacks.
 - **Tusk:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 14 (3d6 + 4) slashing damage.
 

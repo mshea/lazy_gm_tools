@@ -18,10 +18,14 @@
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** understands Common and Sylvan but can’t speak
+
 ### Special Abilities
+
 - **Impale and Toss:** When the colláis hits a Medium or smaller creature with a gore attack, it can use a bonus action to impale and toss the creature. The target must succeed on a DC 16 Strength saving throw or take 11 (2d10) piercing damage and be flung up to 10 feet away from the colláis in a random direction and knocked prone.
 - **Magic Resistance:** The colláis has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The colláis makes one gore attack and two hooves attacks.
 - **Gore:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
 - **Hooves:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.

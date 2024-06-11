@@ -18,10 +18,14 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 10
 - **Languages:** 
+
 ### Special Abilities
+
 - **Spell-created:** The DC for dispel magic to destroy this creature is 19.
 - **False Appearance:** While motionless, the sword is indistinguishable from a normal sword.
+
 ### Actions
+
 - **Longsword:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) slashing damage.
 
 

@@ -16,7 +16,9 @@
 - **Skills:** animal +0, medicine +4, nature +3, perception +4
 - **Senses:** passive Perception 14
 - **Languages:** Druidic plus any two
+
 ### Special Abilities
+
 - **Spellcasting:** The druid is a 4th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12
  +4 to hit with spell attacks). They have the following druid spells prepared:
  Cantrips (at will): druidcraft
@@ -28,7 +30,9 @@
  thunderwave
  2nd-level (3 slots): animal messenger
  barkskin
+
 ### Actions
+
 - **Shillelagh (True Form Only):** Melee Spell Attack: +4 to hit  reach 5 ft  one target. Hit: 6 (1d8 + 2) magical bludgeoning damage.
 - **Bite (Medium or Large Beast Form Only):** Melee Weapon Attack: +4 to hit  reach 5 ft  one target. Hit: 11 (2d8 + 2) piercing damage.
 - **Beast Form:** The druid magically transforms into a Large or smaller beast or back into their true form. While in beast form  they retain their game statistics can't cast spells  and can't speak. The druids Speed increases by 10 feet  and when appropriate to their beast form they gain climb  fly  or swim speeds of 40 feet. Any equipment the druid is wearing or wielding merges into their new form.

@@ -17,9 +17,13 @@
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** any languages it knew in life
+
 ### Special Abilities
+
 - **Deathspeak:** If the deathspeaker engages at least one creature in conversation for at least 1 minute, it can perform a prophetic display, reading cards, throwing bones, speaking to a crystal ball, or similar. Each creature that can see or hear the prophetic display must succeed on a DC 15 Intelligence saving throw or be cursed with the belief it will soon die. While cursed, the creature has disadvantage on attack rolls and ability checks. The curse lasts until it is lifted by a remove curse spell or similar magic, or until the deathspeaker dies. The deathspeaker can use this trait only on creatures that share at least one language with it.
+
 ### Actions
+
 - **Multiattack:** The deathspeaker makes two rake attacks. Alternatively, it can use Necrotic Ray twice.
 - **Rake:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) slashing damage.
 - **Necrotic Ray:** Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 10 (3d6) necrotic damage.

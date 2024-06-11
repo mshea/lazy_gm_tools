@@ -15,10 +15,14 @@
 - **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** 
+
 ### Actions
+
 - **Gore:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 19 (3d8+6) piercing damage. If the elephant moves at least 20 feet straight towards the target before the attack  the target makes a DC 16 Strength saving throw  falling prone on a failure.
 - **Stomp:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 22 (3d10+6) bludgeoning damage.
+
 ### Bonus Actions
+
 - **Trample Underfoot:** The elephant makes a stomp attack against a prone creature.
 
 

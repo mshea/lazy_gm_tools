@@ -16,10 +16,14 @@
 - **Skills:** Insight +7, Perception +7, Stealth +8
 - **Senses:** darkvision 60 ft., tremorsense 120 ft., passive Perception 17
 - **Languages:** Common, Deep Speech, Undercommon, telepathy 60 ft.
+
 ### Special Abilities
+
 - **Corruption’s Bond:** The xhkarsh ignores the range restriction on its telepathy when communicating with a creature whose fate it has corrupted. In addition, it can pinpoint the location of any such creature, as well as sense the creature’s general state of health. These effects function even if the xhkarsh and the creature are on different planes of existence.
 - **Interdimensional Nature:** The xhkarsh doesn’t require air, food, drink, sleep, or ambient pressure.
+
 ### Actions
+
 - **Multiattack:** The xhkarsh makes two Claw attacks and one Fate-Altering Stinger attack.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 9 (2d8) poison damage.
 - **Fate-Altering Stinger:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) piercing damage, and the target must succeed on a DC 16 Charisma saving throw or have its fate corrupted. A creature with corrupted fate has disadvantage on Charisma checks and Charisma saving throws, can’t be targeted by any divination magic, can’t be perceived through magical scrying sensors, and is immune to any effect that would sense its emotions or read its thoughts. The target’s fate can be restored, ending the corruption and breaking the xhkarsh’s magical tie to the target, by a dispel evil and good spell or similar magic.

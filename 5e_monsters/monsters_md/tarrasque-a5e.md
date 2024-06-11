@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 120 ft., tremorsense 60 ft., passive Perception 12
 - **Languages:** 
+
 ### Special Abilities
+
 - **Astounding Leap:** The tarrasques high jump distance is equal to its Speed.
 - **Bloodied Regeneration:** While the tarrasque is bloodied, it regains 50 hit points at the start of each of its turns. A wish spell can suppress this trait for 24 hours. The tarrasque dies only if it starts its turn with 0 hit points and doesnt regenerate.
 - **Immortal Nature:** The tarrasque doesnt require air, sustenance, or sleep.
@@ -26,7 +28,9 @@
 - **Magic Resistance:** The tarrasque has advantage on saving throws against spells and magical effects.
 - **Reflective Carapace:** When the tarrasque is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 3, the tarrasque is unaffected. On a 4 to 6, the tarrasque is unaffected, and the spell is reflected back, targeting the caster as if it originated from the tarrasque.
 - **Siege Monster:** The tarrasque deals double damage to objects and structures.
+
 ### Actions
+
 - **Multiattack:** The tarrasque attacks with its bite  claw  horns  and tail. It can use Swallow instead of its bite. If its bloodied  it also recharges and then uses Radiant Breath.
 - **Bite:** Melee Weapon Attack: +19 to hit  reach 10 ft.  one target. Hit: 42 (5d12 + 10) piercing damage. If the target is a creature  it is grappled (escape DC 27). Until this grapple ends  the target is restrained and the tarrasque can't bite a different creature.
 - **Claw:** Melee Weapon Attack: +19 to hit  reach 15 ft.  one target. Hit: 32 (5d8 + 10) slashing damage.
@@ -37,7 +41,9 @@
 - **Radiant Breath (Recharge 5-6):** The tarrasque exhales radiant energy in a 90-foot cone. Each creature in that area makes a DC 27 Constitution saving throw  taking 105 (30d6) radiant damage on a failed save or half damage on a success.
 
 
+
 ### Legendary Actions
+
 - **The tarrasque can take 3 legendary actions:** Only one legendary action can be used at a time and only at the end of another creatures turn. It regains spent legendary actions at the start of its turn.
 - **Attack:** The tarrasque attacks with its claw or tail.
 - **Move:** The tarrasque moves up to half its Speed.

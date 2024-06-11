@@ -17,11 +17,15 @@
 - **Damage Immunities:** lightning
 - **Senses:** blindsight 30 ft., tremorsense 30 ft., darkvision 120 ft., passive Perception 18
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Desert Farer:** The dragon ignores difficult terrain or obscurement caused by sand or gravel, even while flying. Additionally, it ignores the effects of extreme heat.
 - **Dune Splitter:** The dragon can remain submerged in sand and gravel for up to 4 hours. It has advantage on Stealth checks to hide in this way.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 15). It can innately cast the following spells, requiring no material components. 3/day each:blur, silent image
+
 ### Actions
+
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 21 (3d10 + 5) piercing damage plus 4 (1d8) lightning damage.
 - **Claw:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) slashing damage.

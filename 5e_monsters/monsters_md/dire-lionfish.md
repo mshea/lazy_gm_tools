@@ -15,13 +15,17 @@
 - **Skills:** perception +1
 - **Senses:** passive Perception 14
 - **Languages:** —
+
 ### Special Abilities
+
 - **Charge:** If it moves 30'+ straight to foe and hits with Headbutt attack on same turn target takes an extra 9 (2d8) piercing damage.
 - **Coral Camouflage:** The lionfish has advantage on Dex (Stealth) checks made to hide in underwater terrain that includes plant life or coral reefs.
 - **Envenomed Spines:** A creature that touches lionfish or hits it with melee attack while within 5 ft. of it: 7 (2d6) poison.
 - **Poison Affinity:** Advantage on saves vs. being poisoned.
 - **Water Breathing:** Can breathe only underwater.
+
 ### Actions
+
 - **Multiattack:** One Bite attack and one Headbutt attack.
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 14 (2d10+3) piercing damage.
 - **Headbutt:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 12 (2d8+3) bludgeoning damage + 7 (2d6) poison.

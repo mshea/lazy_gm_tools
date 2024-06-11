@@ -15,7 +15,9 @@
 - **Skills:** 
 - **Senses:** blindsight 10 ft., passive Perception 10
 - **Languages:** 
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8+2) piercing damage.
 - **Constrict:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) bludgeoning damage and the target is grappled (escape DC 14). Until this grapple ends  the target is restrained and the snake can't constrict a different target.
 

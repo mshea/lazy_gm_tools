@@ -15,11 +15,15 @@
 - **Skills:** Deception +6, Perception +5, Stealth +5
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Dwarvish, Giant, Gnomish
+
 ### Special Abilities
+
 - **Magic Resistance:** The sand hag has advantage on saving throws against spells and other magical effects.
 - **Mimicry:** The sand hag can mimic animal sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 16 Wisdom (Insight) check.
 - **Scorpion Walk:** Difficult terrain composed of sand or gravel doesn’t cost the hag extra movement. In addition, while in sandy terrain, she doesn’t leave tracks and has tremorsense out to a range of 30 feet.
+
 ### Actions
+
 - **Multiattack:** The hag makes three Claw attacks. If two Claw attacks hit one creature, the target must succeed on a DC 14 Constitution saving throw or suffer one level of exhaustion. A creature can’t suffer more than two levels of exhaustion from this effect.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Illusory Appearance:** The sand hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and Humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.

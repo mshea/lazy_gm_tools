@@ -18,7 +18,9 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Draconic
+
 ### Actions
+
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
 - **Discombobulating Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and if the target is a creature, it must succeed on a DC 13 Charisma saving throw or be discombobulated until the end of its next turn. A discombobulated creature is incapacitated, and when it moves, it moves in a random direction.
 - **Mocking Chortle:** Ranged Spell Attack: +5 to hit, range 60 ft., one creature. Hit: 7 (1d8 + 3) psychic damage.

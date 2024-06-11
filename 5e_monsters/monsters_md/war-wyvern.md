@@ -16,9 +16,13 @@
 - **Skills:** athletics +8, perception +5
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** understands Common and Draconic, but can't speak
+
 ### Special Abilities
+
 - **Siege Monster:** The wyvern deals double damage to objects and structures.
+
 ### Actions
+
 - **Multiattack:** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 12 (2d6 + 5) piercing damage plus 10 (3d6) poison damage.
 - **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) slashing damage and the creature is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the wyvern can't use its claw on another target.

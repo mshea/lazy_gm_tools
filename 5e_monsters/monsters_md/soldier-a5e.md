@@ -16,10 +16,14 @@
 - **Skills:** perception +2, survival +2
 - **Senses:** passive Perception 12
 - **Languages:** any one
+
 ### Actions
+
 - **Spear:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 5 (1d6 + 2) piercing damage  or 9 (2d6 + 2) piercing damage if within 5 feet of an ally that is not incapacitated.
 - **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit  range 100/400 ft.  one target. Hit: 6 (1d10 + 1) piercing damage.
+
 ### Bonus Actions
+
 - **Tactical Movement:** Until the end of the soldiers turn, their Speed is halved and their movement doesnt provoke opportunity attacks.
 - **Soldiers march against monsters and rival nations:** Soldiers are tougher and more organized than city guards.
 

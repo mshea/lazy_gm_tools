@@ -15,10 +15,14 @@
 - **Skills:** perception +2
 - **Senses:** blindsight 30 ft., passive Perception 12
 - **Languages:** 
+
 ### Special Abilities
+
 - **Pack Tactics:** The shark has advantage on attack rolls against a creature if at least one of the sharks allies is within 5 feet of the creature and not incapacitated.
 - **Water Breathing:** The shark breathes only water.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8+2) piercing damage.
 
 

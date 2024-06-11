@@ -18,10 +18,14 @@
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
 - **Senses:** passive Perception 10
 - **Languages:** any two languages
+
 ### Special Abilities
+
 - **Liquid Courage (Recharge 5-6):** As a bonus action, the bar brawl imbibes nearby alcohol to gain access to a hidden reservoir of audacity and grit. The bar brawl gains 7 (2d6) temporary hp for 1 minute.
 - **Swarm:** The bar brawl can occupy another creature's space and vice versa, and the bar brawl can move through any opening large enough for a Medium humanoid. Except for Liquid Courage, the bar brawl can't regain hp or gain temporary hp.
+
 ### Actions
+
 - **Multiattack:** The bar brawl makes two melee attacks or two darts attacks.
 - **Barstool:** Melee Weapon Attack: +4 to hit, range 0 ft., one target in the bar brawl's space. Hit: 14 (4d6) bludgeoning damage, or 7 (2d6) if the bar brawl has half its hit points or fewer.
 - **Broken Bottles:** Melee Weapon Attack: +4 to hit, range 0 ft., one target in the bar brawl's space. Hit: 10 (4d4) slashing damage, or 5 (2d4) if the bar brawl has half its hit points or fewer.

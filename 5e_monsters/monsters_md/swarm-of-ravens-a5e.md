@@ -17,9 +17,13 @@
 - **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned, unconscious
 - **Senses:** passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Swarm:** The swarm can occupy another creatures space and move through any opening large enough for a Tiny creature. It can't gain hit points or temporary hit points.
+
 ### Actions
+
 - **Beaks:** Melee Weapon Attack: +4 to hit  reach 0 ft.  one target. Hit: 7 (2d6) piercing damage  or 3 (1d6) piercing damage if the swarm is bloodied.
 
 

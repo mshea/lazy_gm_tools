@@ -15,9 +15,13 @@
 - **Skills:** perception +3, stealth +4
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Keen Hearing and Smell:** The weasel has advantage on Perception checks that rely on hearing and smell.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4+2) piercing damage  or 7 (2d4+2) piercing damage against a creature the weasel is grappling.
 - **Grab:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: The target is grappled (escape DC 12).
 

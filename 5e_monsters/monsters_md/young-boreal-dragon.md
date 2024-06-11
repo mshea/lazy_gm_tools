@@ -18,7 +18,9 @@
 - **Damage Resistances:** cold
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 - **Languages:** Draconic, Giant
+
 ### Actions
+
 - **Multiattack:** The dragon makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.

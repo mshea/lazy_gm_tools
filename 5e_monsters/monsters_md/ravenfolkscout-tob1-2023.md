@@ -16,9 +16,13 @@
 - **Skills:** Deception +3, Perception +6, Stealth +6
 - **Senses:** darkvision 120 ft., passive Perception 16
 - **Languages:** Common, Feather Speech, Ravenfolk
+
 ### Special Abilities
+
 - **Mimicry:** The ravenfolk scout can mimic animal sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 13 Wisdom (Insight) check.
+
 ### Actions
+
 - **Peck:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
 - **Rapier:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Longbow:** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.

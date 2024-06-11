@@ -20,11 +20,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Abyssal, Common, Infernal, telepathy 60 ft.
+
 ### Special Abilities
+
 - **Night Walkers:** The karakura can only exist on the Material Plane at night or underground. Spells or effects that count as sunlight cast the fiend back to the Plane of Shadow for 1d4 hours.
 - **Shapechanger:** The karakura can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Other than its size, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 - **Telepathic Bond:** The karakura can telepathically communicate with any creature it has charmed at any distance and across different planes.
+
 ### Actions
+
 - **Multiattack:** The karakura makes three claw attacks and can use Charm or Shroud in Darkness, if it is available.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 - **Charm:** One humanoid the karakura can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed until dawn. The charmed target obeys the fiend's commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw to end the effect. If the target successfully saves, or if the effect on it ends, the target is immune to this karakura's Charm for the next 24 hours. <br><br>The karakura can have only one target charmed at a time. If it charms another, the effect on the previous target ends.

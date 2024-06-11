@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Abyssal, Celestial, Common
+
 ### Special Abilities
+
 - **Amphibious:** The naga can breathe air and water.
 - **Forbiddance:** The nagas lair is under the forbiddance spell. Until it is dispelled, creatures in the lair can't teleport or use planar travel. Fiends and undead that are not the nagas allies take 27 (5d10) radiant damage when they enter or start their turn in the lair.
 - **Magic Resistance:** The naga has advantage on saving throws against spells and magical effects.
@@ -40,7 +42,9 @@
  geas
  scrying
  6th-level (1 slot): forbiddance
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage. The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success.
 - **Spit Poison:** Melee Weapon Attack: +8 to hit  range 20/60 ft.  one creature. Hit: The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success.
 - **Command (1st-Level; V):** One living creature within 60 feet that the naga can see and that can hear and understand it makes a DC 16 Wisdom saving throw. On a failure  the target uses its next turn to move as far from the naga as possible  avoiding hazardous terrain.
@@ -48,7 +52,9 @@
 - **Flame Strike (5th-Level; V):** A column of divine flame fills a 10-foot-radius  40-foot-high cylinder within 60 feet. Creatures in the area make a DC 16 Dexterity saving throw  taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failure or half damage on a success.
 - **Multiattack:** The naga casts a spell and uses its vampiric bite.
 - **Vampiric Bite:** The naga attacks with its bite. If it hits and the target fails its saving throw against poison  the naga magically gains temporary hit points equal to the poison damage dealt.
+
 ### Bonus Actions
+
 - **Shapeshift:** The naga changes its form to that of a specific Medium humanoid, a Medium snake-human hybrid with the lower body of a snake, or its true form, which is a Large snake. While shapeshifted, its statistics are unchanged except for its size. It reverts to its true form if it dies.
 
 

@@ -16,12 +16,16 @@
 - **Skills:** athletics +11, insight +5, intimidation +7, persuasion +4, survival +5
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Giant
+
 ### Special Abilities
+
 - **Brute:** A melee weapon deals one extra die of its damage when the bearfolk cheiftain hits with it (included in the attack).
 - **Frenzy (1/rest):** As a bonus action, the bearfolk can trigger a berserk frenzy that lasts 1 minute. While in frenzy, it gains resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks and has advantage on attack rolls. Attack rolls made against a frenzied bearfolk have advantage.
 - **Keen Smell:** The bearfolk has advantage on Wisdom(Perception) checks that rely on smell.
 - **Savage Charge:** If the bearfolk moves at least 20 feet straight toward a creature and then hits it with a battleaxe attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the bearfolk can make one bite attack against it as a bonus action.
+
 ### Actions
+
 - **Multiattack:** The bearfolk makes two attacks with its battleaxe and one with its bite.
 - **Battleaxe:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage, or 16 (2d10 + 5) slashing damage if used two-handed.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.

@@ -18,9 +18,13 @@
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Sticky Secretions:** When the spider drake is hit with a melee attack, the attacker's weapon becomes stuck to the web fluid secreted from its scales. If the attacker didn't use a weapon, it must succeed on a DC 16 Strength saving throw or become restrained in the webbing. As an action, a creature can make a DC 16 Strength check, escaping or freeing its weapon from the secretions on a success.
+
 ### Actions
+
 - **Multiattack:** The spider drake makes three attacks: one with its bite and two with its claws. It can use Web in place of its bite attack.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.

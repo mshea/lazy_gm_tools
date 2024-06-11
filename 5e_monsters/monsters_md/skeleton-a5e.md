@@ -18,9 +18,13 @@
 - **Condition Immunities:** fatigue, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9
 - **Languages:** understands the languages it knew in life but can't speak
+
 ### Special Abilities
+
 - **Undead Nature:** A skeleton doesnt require air, sustenance, or sleep.
+
 ### Actions
+
 - **Shortsword:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Shortbow:** Ranged Weapon Attack: +4 to hit  range 80/320 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
 

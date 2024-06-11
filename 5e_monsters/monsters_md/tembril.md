@@ -16,10 +16,14 @@
 - **Damage Resistances:** cold
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** —
+
 ### Special Abilities
+
 - **Ambusher:** In the first round of combat, the tembril has advantage on attack rolls against any creature it has surprised.
 - **Nimble Leap:** The tembril can take the Dash or Disengage action as a bonus action on each of its turns.
+
 ### Actions
+
 - **Multiattack:** The tembril makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage. If the tembril scores a critical hit against a Medium or smaller target and the damage reduces the target to below half its hp maximum, the target must succeed on a DC 15 Constitution saving throw or be instantly killed as its head is removed. A creature is immune to this effect if it is immune to piercing damage or doesn’t have or need a head.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.

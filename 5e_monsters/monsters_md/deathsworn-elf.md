@@ -15,7 +15,9 @@
 - **Skills:** perception +7, stealth +10, survival +4
 - **Senses:** passive Perception 17
 - **Languages:** Common, Elvish
+
 ### Special Abilities
+
 - **Archer's Step:** The deathsworn can use Disengage as a bonus action.
 - **Death Bolt (3/Day):** As a bonus action after firing an arrow, the deathsworn can imbue the arrow with magical power, causing it to trail green fire. The arrow deals an extra 7 (2d6) fire damage.
 - **Fey Ancestry:** The deathsworn has advantage on saving throws against being charmed, and magic can't put the deathsworn to sleep.
@@ -23,7 +25,9 @@
 - **Magic Weapons:** The deathsworn's weapon attacks are magical.
 - **Stealthy Traveler:** The deathsworn can take the Hide action as a bonus action.
 - **Surprise Attack:** If the deathsworn surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
+
 ### Actions
+
 - **Multiattack:** The deathsworn makes two melee attacks or four ranged attacks.
 - **Scimitar:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 - **Longbow:** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage.

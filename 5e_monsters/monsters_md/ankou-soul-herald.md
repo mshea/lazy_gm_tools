@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, poisoned
 - **Senses:** truesight 60 ft., passive Perception 28
 - **Languages:** all
+
 ### Special Abilities
+
 - **Aura of Necromancy's Bane:** Necromancy spells can't be cast within 120 feet of the ankou. When an undead creature starts its turn within 30 feet of the ankou, it must make a DC 22 Constitution saving throw, taking 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one.
 - **Cloak of Ghostly Shadows:** As a bonus action while in dim light or darkness, the ankou becomes invisible. While invisible, the ankou has advantage on Dexterity (Stealth) checks and gains the following:
 Resistance to acid, cold, fire, lighting, thunder; bludgeoning, piercing and slashing damage from nonmagical attacks.
@@ -27,7 +29,9 @@ The ankou can move through other creatures and objects as if they were difficult
 The cloak of ghostly shadows ends when the ankou chooses to end it as a bonus action, when the ankou dies, or if the ankou ends its turn in bright light.
 - **Death's Apotheosis:** The ankou has the celestial type in addition to the dragon type and its weapon attacks are magical.
 - **Legendary Resistance (3/Day):** If the ankou fails a saving throw, it can choose to succeed instead.
+
 ### Actions
+
 - **Multiattack:** The ankou can use its Horrifying Presence. It then makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 11 (2d10) cold damage.
 - **Claw:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 14 (2d6 + 7) slashing damage.
@@ -38,7 +42,9 @@ The cloak of ghostly shadows ends when the ankou chooses to end it as a bonus ac
 - **Usher of Souls:** The ankou can transport itself and up to eight creatures in contact with it to another plane of existence. This works like the plane shift spell, except dead or incorporeal creatures can be transported and don't have to be willing. The ankou can't use this ability to banish an unwilling creature.
 
 The ankou can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ankou regains spent legendary actions at the start of its turn.
+
 ### Legendary Actions
+
 - **Detect:** The ankou learns the location of all living creatures within 120 feet. Alternatively, it can learn the location of all undead creatures or creatures that have been dead no longer than 1 hour within 1 mile.
 - **Tail Attack:** The ankou makes a tail attack.
 - **Envelope in Shadow (Costs 2 Actions):** The ankou moves up to half its speed without provoking opportunity attacks. Any creature whose space it moves through must make a DC 22 Dexterity saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.

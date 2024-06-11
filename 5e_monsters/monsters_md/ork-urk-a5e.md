@@ -16,10 +16,14 @@
 - **Skills:** athletics +4, intimidation +3, perception +2, survival +2
 - **Senses:** passive Perception 12
 - **Languages:** any one
+
 ### Special Abilities
+
 - **Bloodied Frenzy:** While the berserker is bloodied, they make all attacks with advantage and all attacks against them are made with advantage.
 - **Unarmored Defense:** The berserkers AC equals 10 + their Dexterity modifier + their Constitution modifier.
+
 ### Actions
+
 - **Multiattack:** The berserker attacks twice.
 - **Greataxe:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 8 (1d12 + 2) slashing damage.
 - **Handaxe:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft or range 20/60 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.

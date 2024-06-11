@@ -19,12 +19,18 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9
 - **Languages:** understands the languages of its creator but can't speak
+
 ### Special Abilities
+
 - **Immutable Form:** The golem is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The glass golem has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Shard:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
+
 ### Reactions
+
 - **Shatter:** When a glass golem takes bludgeoning damage, it can make one shard attack against each creature within 5 feet of it.
 
 

@@ -16,7 +16,9 @@
 - **Skills:** deception +5, insight +8, intimidation +8, persuasion +8
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Cunning Action:** On each of its turns, the king kobold can use a bonus action to take the Dash, Disengage, or Hide action.
 - **Evasion:** If the king kobold is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the king instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 - **Pack Tactics:** The king has advantage on attack rolls against a creature if at least one of the king's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -26,11 +28,15 @@
 Cantrips (at will): fire bolt, mage hand, minor illusion, poison spray
 1st level (4 slots): alarm, grease, mage armor
 2nd level (3 slots): alter self, hold person, invisibility
+
 ### Actions
+
 - **Multiattack:** The king kobold makes two shortsword attacks.
 - **Shortsword:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
 - **Hand Crossbow:** Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
+
 ### Reactions
+
 - **Uncanny Dodge:** The king kobold halves the damage from one attack that hits it. To do so, it must see the attacker.
 
 

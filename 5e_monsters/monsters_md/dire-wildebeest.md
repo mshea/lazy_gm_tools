@@ -17,9 +17,13 @@
 - **Condition Immunities:** frightened, poisoned
 - **Senses:** passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Trampling Charge:** If it moves 20'+ straight to a creature and then hits it with Gore on same turn target: DC 15 Str save or be knocked prone. If target is prone wildebeest can make one Hooves attack vs. it as a bonus action.
+
 ### Actions
+
 - **Multiattack:** Uses Intimidating Glare then 1 Gore and 1 Hooves.
 - **Gore:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 22 (4d8+4) piercing damage.
 - **Hooves:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 18 (4d6+4) bludgeoning damage.

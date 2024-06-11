@@ -16,14 +16,18 @@
 - **Condition Immunities:** charmed, poisoned, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Giant, Sylvan
+
 ### Special Abilities
+
 - **Amphibious:** The shellycoat can breathe air and water.
 - **Keen Hearing:** The shellycoat has advantage on Wisdom (Perception) checks that rely on hearing.
 - **Hazesight:** The shellycoat can see through areas obscured by fog, smoke, and steam without penalty.
 - **Regeneration:** The shellycoat regains 3 hp at the start of its turn. If the shellycoat takes acid or fire damage, this trait doesn’t function at the start of the shellycoat’s next turn. The shellycoat dies only if it starts its turn with 0 hp and doesn’t regenerate.
 - **Water Camouflage:** The shellycoat has advantage on Dexterity (Stealth) checks made to hide while at least partially submerged in water.
 - **Sunlight Petrification:** If the shellycoat remains in nonmagical sunlight for 1 minute, it becomes petrified at the end of that minute.
+
 ### Actions
+
 - **Multiattack:** The shellycoat makes one Bite attack and one Claw attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 15 ft., one target. Hit: 12 (2d8 + 3) slashing damage, and the target is grappled (escape DC 13) if it is a Large or smaller creature. Until this grapple ends, the creature is restrained. The shellycoat has two claws, each of which can grapple only one creature.

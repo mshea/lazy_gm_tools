@@ -16,11 +16,15 @@
 - **Skills:** perception +2
 - **Senses:** passive Perception 14
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Mounted Warrior:** While mounted the brownie’s mount can’t be charmed or frightened.
 - **Speak with Beasts:** Can communicate with Beasts as if they shared a language.
+
 ### Actions
+
 - **Multiattack:** Two Branch Spears or it makes one Branch Spear and its mount makes one melee weapon attack.
 - **Branch Spear:** Melee or Ranged Weapon Attack: +7 to hit 5 ft. or range 20/60' one target 10 (2d4+5) piercing damage.
 - **Domestic Magic:** Wis no material components: At will: mending and prestidigitation

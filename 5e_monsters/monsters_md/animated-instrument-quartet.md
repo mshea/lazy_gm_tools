@@ -17,12 +17,16 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60' (blind beyond), passive Perception 7
 - **Languages:** —
+
 ### Special Abilities
+
 - **Antimagic Susceptibility:** The quartet is incapacitated while in the area of an antimagic field. If targeted by dispel magic the quartet must succeed on a Con save vs. the caster’s spell save DC or fall unconscious for 1 min.
 - **Construct Nature:** The quartet doesn’t require air food drink or sleep.
 - **False Appearance:** While motionless indistinguishable from group of musical instruments.
 - **Four-Part Harmony:** An animated quartet is always composed of four instruments that sit or hover close together acting with singular intent. If an attack deals at least 25 damage to the quartet then one of the instruments falls unconscious causing the quartet to deal one die less of damage with its Trouble Clef and Orchestra Hit actions.
+
 ### Actions
+
 - **Multiattack:** Two Trouble Clef or Orchestra Hit attacks.
 - **Trouble Clef:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 13 (4d4+3) bludgeoning damage.
 - **Orchestra Hit:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 18 (4d6+4) thunder.

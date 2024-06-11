@@ -16,12 +16,16 @@
 - **Skills:** athletics +5, engineering +4, intimidation +4, perception +3
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Goblin
+
 ### Special Abilities
+
 - **Formation Movement:** If the hobgoblin begins its turn within 5 feet of an ally that is not incapacitated, its movement doesnt provoke opportunity attacks.
 - **Bloodied Rage:** While bloodied, the warlord can attack four times with its greatsword or twice with its javelin when it uses Multiattack but no longer gains the benefit of its Military Training trait.
 - **Elite Recovery:** At the end of each of its turns, while bloodied, the hobgoblin can end one condition or effect on itself. It can do this even when unconscious or incapacitated.
 - **Military Training:** The hobgoblin has advantage on ability checks to make a tactical, strategic, or political decision.
+
 ### Actions
+
 - **Multiattack:** The hobgoblin attacks twice with its greatsword.
 - **Greatsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Javelin:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 6 (1d6 + 3) piercing damage.

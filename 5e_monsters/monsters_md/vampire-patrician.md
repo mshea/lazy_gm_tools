@@ -17,7 +17,9 @@
 - **Damage Resistances:** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** the languages it knew in life
+
 ### Special Abilities
+
 - **Cruel Combatant:** A melee weapon deals one extra die of its damage and an extra 3 (1d6) necrotic damage when the vampire patrician hits with it (included in the attack).
 - **Misty Escape:** When it drops to 0 hp outside its resting place, the vampire patrician transforms into a cloud of mist instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed. While it has 0 hp in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. 
 
@@ -32,7 +34,9 @@ Forbiddance. The patrician can't enter a residence without an invitation from on
 Harmed by Running Water. The patrician takes 20 acid damage if it ends its turn in running water.
 Stake to the Heart. If a piercing weapon made of wood is driven into the patrician's heart while the patrician is incapacitated in its resting place, the patrician is paralyzed until the stake is removed.
 Sunlight Hypersensitivity. The patrician takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+
 ### Actions
+
 - **Multiattack:** The vampire patrician can use its Bone-Chilling Gaze. It then makes two attacks, only one of which can be a bite attack.
 - **Rapier:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) piercing damage plus 3 (1d6) necrotic damage.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire patrician, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hp maximum is reduced by an amount equal to the necrotic damage taken, and the patrician regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire patrician's control.

@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, exhaustion, frightened
 - **Senses:** truesight 120 ft., passive Perception 23
 - **Languages:** all, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Change Face:** As a bonus action, the angel of judgment can change its face and demeanor to exhibit aspects of chaos or law, as needed by its assignment. It can have only one face active at a time and can end the effect on its turn as a bonus action. 
 * Face of Chaos. The angel of judgment becomes a harbinger of chaos. It is treated as a fiend by spells and other magical effects that affect fiends and has advantage on attack rolls against celestials and devils. 
 * Face of Law. The angel becomes a harbinger of law and has advantage on attack rolls against demons, fey, and undead.
@@ -30,7 +32,9 @@
 At will: detect evil and good, detect magic, detect thoughts, invisibility (self only)
 3/day each: calm emotions, dispel evil and good, speak with dead
 1/day each: divine word, holy aura, raise dead
+
 ### Actions
+
 - **Multiattack:** The angel of judgment makes two melee attacks.
 - **Greataxe:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage plus 27 (6d8) force damage.
 

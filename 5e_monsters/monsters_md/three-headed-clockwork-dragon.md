@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 20
 - **Languages:** understands Common but can't speak
+
 ### Special Abilities
+
 - **Bound:** The dragon is magically bound to three circlets. As long as the dragon is within 1 mile of a circlet wearer on the same plane of existence, the wearer can communicate telepathically with the dragon. While the dragon is active, the wearers see through its eyes and hear what it hears. During this time, the wearers are deaf and blind with regard to their own senses. 
 
 If only two circlet wearers are within 1 mile of the active dragon each hour spent wearing the circlets imposes one level of exhaustion on those wearers. If only a single wearer is within 1 mile of the active dragon, each minute spent wearing the circlet gives that wearer one level of exhaustion. If no circlet wearers are within 1 mile of the dragon, it views all creatures it can see as enemies and tries to destroy them until a circlet wearer communicates with the dragon or the dragon is destroyed. A circlet wearer can use its action to put the dragon in an inactive state where it becomes incapacitated until a wearer uses an action to switch the dragon to active. 
@@ -27,7 +29,9 @@ Each circlet is a magic item that must be attuned.
 - **Immutable Form:** The dragon is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The dragon has advantage on saving throws against spells and other magical effects.
 - **Siege Monster:** The dragon deals double damage to objects and structures.
+
 ### Actions
+
 - **Multiattack:** The dragon can use its Oil Spray. It then makes five attacks: three with its bite and two with its fists.
 - **Bite:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 3 (1d6) fire damage.
 - **Fist:** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) bludgeoning damage.

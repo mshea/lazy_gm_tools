@@ -19,11 +19,15 @@
 - **Condition Immunities:** deafened, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 - **Senses:** truesight 120', passive Perception 20
 - **Languages:** understands all languages but can’t speak
+
 ### Special Abilities
+
 - **Invisible:** Is invisible.
 - **Legendary Resistance (3/Day):** Choose to succeed failed save.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
+
 ### Actions
+
 - **Multiattack:** Can use Universal Music then one Discordant Wave and one Slam or two Discordant Waves.
 - **Discordant Wave:** Melee or Ranged Spell Attack: +10 to hit 5 ft. or range 60/120' one target 27 (5d8+5) thunder. Target and each creature within 10 ft. of it: DC 18 Con save or become deafened until end of its next turn.
 - **Slam:** Melee Weapon Attack: +13 to hit, 5 ft., one target, 24 (3d10+8) bludgeoning damage + 22 (5d8) thunder.
@@ -31,7 +35,9 @@
 - **Celestial Crescendo (Recharge 5–6):** Sound waves explode from it. Each creature within 30' of it: 45 (10d8) thunder and is deafened for 1 min (DC 18  Con half damage not deafened). A creature can re-save at end of each of its turns success ends effect on itself.
 
 
+
 ### Legendary Actions
+
 - **Fly:** Flies up to half its flying speed with o provoking opportunity attacks.
 - **Major Chord (2):** The symphony regains 18 (4d8) hp.
 - **Minor Chord (2):** Each creature within 10 ft. of the symphony must make DC 18 Con save or take 9 (2d8) thunder.

@@ -15,9 +15,13 @@
 - **Skills:** perception +3
 - **Senses:** passive Perception 15
 - **Languages:** 
+
 ### Special Abilities
+
 - **Keen Sight:** The hippogriff has advantage on Perception checks that rely on sight.
+
 ### Actions
+
 - **Claws:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
 
 

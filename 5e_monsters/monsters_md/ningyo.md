@@ -17,13 +17,19 @@
 - **Damage Resistances:** acid, cold, fire, necrotic, poison
 - **Senses:** darkvision 120 ft., passive Perception 13
 - **Languages:** Aquan, Common, Deep Speech
+
 ### Special Abilities
+
 - **Aquatic:** The ningyo can breathe only underwater and can hold its breath for 1 hour.
 - **Curse of Ill Fortune:** When a creature that the ningyo can see attacks the ningyo and misses, the attack is automatically redirected against another creature within 5 feet of the ningyo or the attacker. This attack uses the same attack roll.
+
 ### Actions
+
 - **Multiattack:** The ningyo makes four barbed tentacle attacks.
 - **Barbed Tentacle:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage plus 5 (1d10) poison damage.
+
 ### Reactions
+
 - **Share Pain:** When the ningyo takes damage, it can choose to take half the damage instead. The ningyo then chooses a creature within 60 feet. The target must succeed on a DC 15 Constitution saving throw or have disadvantage until the end of its next turn as it is wracked with the pain of the attack.
 
 

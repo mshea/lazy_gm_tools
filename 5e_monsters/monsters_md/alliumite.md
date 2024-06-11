@@ -15,10 +15,14 @@
 - **Skills:** perception +3, stealth +6, survival +3
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Sylvan
+
 ### Special Abilities
+
 - **Plant Camouflage:** The alliumite has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.
 - **Tearful Stench:** Each creature other than an alliumite within 5 feet of the alliumite when it takes damage must succeed on a DC 13 Constitution saving throw or be blinded until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Tearful Stench of all alliumites for 1 minute.
+
 ### Actions
+
 - **Thorn Dart:** Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 - **Grass Blade:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 

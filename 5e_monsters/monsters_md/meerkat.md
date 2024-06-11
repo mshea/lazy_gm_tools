@@ -16,10 +16,14 @@
 - **Damage Resistances:** poison
 - **Senses:** passive Perception 10
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Sight:** Advantage: sight Wis (Percept) checks.
 - **Snake Hunter:** Has advantage on saves vs. being poisoned.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +3 to hit, 5 ft., one creature,. 1 piercing.
 
 

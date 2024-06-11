@@ -15,7 +15,9 @@
 - **Skills:** intimidation +2
 - **Senses:** passive Perception 10
 - **Languages:** any one
+
 ### Actions
+
 - **Multiattack:** The thug attacks twice with their brass knuckles.
 - **Brass Knuckles:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d4 + 3) bludgeoning damage. If this damage reduces the target to 0 hit points  it is unconscious and stable.
 - **Heavy Crossbow:** Ranged Weapon Attack: +4 to hit  range 100/400 feet  one target. Hit: 7 (1d10 + 2) piercing damage.

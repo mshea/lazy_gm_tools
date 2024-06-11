@@ -15,9 +15,13 @@
 - **Skills:** Perception +2
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Giant
+
 ### Special Abilities
+
 - **Desperate Hunger:** When the zimwi is below half its hp maximum, it has advantage on melee attack rolls against creatures that aren’t Constructs.
+
 ### Actions
+
 - **Multiattack:** The zimwi makes one Bite attack and one Claw attack. It can replace its Bite attack with a use of Swallow.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage, and the target is grappled (escape DC 12) if it is a Medium or smaller creature. The zimwi has two claws, each of which can grapple only one target.

@@ -15,7 +15,9 @@
 - **Skills:** 
 - **Senses:** passive Perception 11
 - **Languages:** 
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 17 (3d8 + 4) slashing damage. If the allosaurus moves at least 10 feet towards its target before making this attack  it gains advantage on the attack.
 
 

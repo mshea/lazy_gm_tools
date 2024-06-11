@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** 
+
 ### Actions
+
 - **Ram:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) bludgeoning damage. If the target is a creature and the elk moves at least 20 feet straight towards the target before the attack  the target makes a DC 12 Strength saving throw  falling prone on a failure.
+
 ### Bonus Actions
+
 - **Hooves:** Melee Weapon Attack: +4 to hit, reach 5 ft., one prone creature. Hit: 7 (2d4+2) bludgeoning damage.
 
 

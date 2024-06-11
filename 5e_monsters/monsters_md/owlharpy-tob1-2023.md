@@ -16,10 +16,14 @@
 - **Damage Vulnerabilities:** thunder
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 12
 - **Languages:** Common, Abyssal, Giant
+
 ### Special Abilities
+
 - **Hypersensitive Hearing:** The owl harpy has advantage on Wisdom (Perception) checks that rely on hearing, and it can’t use its blindsight while deafened.
 - **Quiet Wings:** The owl harpy has advantage on Dexterity (Stealth) checks made to hide while flying.
+
 ### Actions
+
 - **Multiattack:** The owl harpy makes two Claw attacks and two Talon attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
 - **Talon:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.

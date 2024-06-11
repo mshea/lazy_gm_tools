@@ -15,7 +15,9 @@
 - **Skills:** deception +10, intimidation +10, stealth +6
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Abyssal, Common
+
 ### Special Abilities
+
 - **Serpent Strike:** The matriarch serpentine lamia has advantage on attack rolls against a creature she has surprised or that is charmed by her or her allies.
 - **Snake Body:** The matriarch serpentine lamia has advantage on saving throws and ability checks against being knocked prone.
 - **Speak with Snakes:** The matriarch serpentine lamia can communicate with snakes as if they shared a language.
@@ -23,7 +25,9 @@
 At will: animal friendship (snakes only), disguise self (any humanoid form), suggestion
 3/day each: animal messenger (snakes only), charm person, hypnotic pattern, moonbeam
 1/day each: compulsion, vampiric touch
+
 ### Actions
+
 - **Multiattack:** The matriarch serpentine lamia makes three attacks, but can use her constrict and Debilitating Touch attacks only once each.
 - **Scimitar:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Constrict:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the target is restrained, the matriarch can automatically hit the target with her constrict, and the she can't constrict another target.

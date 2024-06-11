@@ -15,10 +15,14 @@
 - **Skills:** athletics +4
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Hearing:** The cave goat has advantage on Wisdom (Perception) checks that rely on hearing.
 - **Sturdy Climber:** The cave goat has advantage on Strength (Athletics) checks to climb rocky surfaces.
+
 ### Actions
+
 - **Ram:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 
 

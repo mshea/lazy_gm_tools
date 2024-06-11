@@ -19,13 +19,17 @@
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Aquan
+
 ### Special Abilities
+
 - **Tempest:** The storm lord is surrounded in a 120-foot-radius by a ferocious storm. The storm imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks based on sight or hearing within the area. The storm lord's own senses and attacks are not impaired by this trait. 
 
 The tempest extinguishes open flames and disperses fog. A flying creature in the tempest must land at the end of its turn or fall. 
 
 Each creature that starts its turn within 30 feet of the storm lord must succeed on a DC 16 Strength saving throw or be pushed 15 feet away from the storm lord. Any creature within 30 feet of the storm lord must spend 2 feet of movement for every 1 foot it moves when moving closer to the storm lord.
+
 ### Actions
+
 - **Multiattack:** The storm lord makes two slam attacks or two lightning bolt attacks.
 - **Slam:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 29 (7d6 + 5) bludgeoning damage.
 - **Lightning Bolt:** Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 31 (7d8) lightning damage.

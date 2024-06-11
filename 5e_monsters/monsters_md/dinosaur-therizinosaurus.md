@@ -15,9 +15,13 @@
 - **Skills:** perception +2
 - **Senses:** passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Relentless (Recharge: Short/Long Rest):** If therizinosaurus would take 20 or less damage that would reduce it to less than 1 hp it is reduced to 1 hp instead.
+
 ### Actions
+
 - **Multiattack:** Two claw attacks.
 - **Claw:** Melee Weapon Attack: +8 to hit, 15 ft., one target, 18 (3d8+5) slashing damage and the target must make DC 16 Str save or be knocked prone.
 

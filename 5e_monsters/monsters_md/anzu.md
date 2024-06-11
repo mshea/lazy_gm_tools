@@ -16,9 +16,13 @@
 - **Damage Resistances:** fire, lightning
 - **Senses:** darkvision 90 ft., passive Perception 16
 - **Languages:** Common, Primordial
+
 ### Special Abilities
+
 - **Keen Sight:** The anzu has advantage on Wisdom (Perception) checks that rely on sight.
+
 ### Actions
+
 - **Multiattack:** The anzu makes three attacks: one with its bite and two with its talons.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage plus 7 (2d6) lightning damage.
 - **Talons:** Melee Weapon Attack: +9 to hit, reach 5ft., one target. Hit: 12 (2d6 + 5) slashing damage.

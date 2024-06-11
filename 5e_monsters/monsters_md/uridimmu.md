@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, exhaustion, frightened
 - **Senses:** truesight 90 ft., passive Perception 19
 - **Languages:** all, telepathy 60 ft.
+
 ### Special Abilities
+
 - **Chaos Mace:** The uridimmu’s attacks with its mace are magical. When the uridimmu hits with its mace, the mace deals an extra 4d8 fire, lightning, or radiant damage (included in the attack). The uridimmu chooses the type of damage when making the attack.
 - **Heroic Aura:** Each friendly creature within 20 feet of the uridimmu can’t be charmed or frightened. In addition, when a friendly creature within 20 feet of the uridimmu makes an attack roll or a saving throw, it can roll a d4 and add the result to the attack roll or saving throw. The uridimmu’s aura doesn’t work in the area of an antimagic field spell or while in a temple, shrine, or other structure dedicated to a chaotic deity.
 - **Magic Resistance:** The uridimmu has advantage on saving throws against spells and other magical effects.
@@ -26,7 +28,9 @@
 At will: detect evil and good, light, protection from evil and good
 3/day each: dispel magic, glyph of warding, lightning bolt
 1/day each: flame strike, heal, wall of fire
+
 ### Actions
+
 - **Multiattack:** The uridimmu makes three attacks: one with its bite and two with its mace.
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) piercing damage.
 - **Mace:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) bludgeoning damage plus 18 (4d8) fire, lightning, or radiant damage.

@@ -19,9 +19,13 @@
 - **Condition Immunities:** grappled, paralyzed, prone, restrained
 - **Senses:** truesight 120 ft., passive Perception 23
 - **Languages:** Common, Deep Speech
+
 ### Special Abilities
+
 - **Thousands of Eyes:** The butatsch has advantage on Wisdom (Perception) checks that rely on sight and on saving throws against being blinded. In addition, if the butatsch isn’t blinded, creatures attacking it can’t benefit from traits and features that rely on a creature’s allies distracting or surrounding the butatsch, such as the Pack Tactics or Sneak Attack traits.
+
 ### Actions
+
 - **Multiattack:** The butatsch can use its Immolating Gaze. It then makes two slam attacks. If both attacks hit a Large or smaller target, the target is grappled (escape DC 17), and the butatsch uses its Ingest on the target.
 - **Immolating Gaze:** The butatsch chooses up to three creatures it can see within 60 feet of it. Each target must make a DC 18 Dexterity saving throw. On a failure, a creature takes 10 (3d6) fire damage and is immolated. On a success, a creature takes half the damage and isn’t immolated. Until a creature takes an action to smother the fire, the immolated target takes 7 (2d6) fire damage at the start of each of its turns. Water doesn’t douse fires set by the butatsch’s Immolating Gaze.
 - **Slam:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 10 (1d8 + 6) bludgeoning damage plus 7 (2d6) fire damage.

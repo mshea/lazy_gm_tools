@@ -15,7 +15,9 @@
 - **Skills:** insight +6, intimidation +6, religion +1
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Orc
+
 ### Special Abilities
+
 - **Aggressive:** As a bonus action, the priestess can move up to her speed toward a hostile creature that she can see.
 - **Black Sun Sight:** Magical darkness doesn't impede the the Black Sun priestess' darkvision.
 - **Light Sensitivity:** While in bright light, the orc has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
@@ -24,7 +26,9 @@ Cantrips (at will): guidance, mending, resistance, sacred flame
 1st level (4 slots): bane, command, cure wounds, detect magic
 2nd level (3 slots): augury, spiritual weapon
 3rd level (3 slots): animate dead, bestow curse, spirit guardians
+
 ### Actions
+
 - **Greatclub:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage.
 
 

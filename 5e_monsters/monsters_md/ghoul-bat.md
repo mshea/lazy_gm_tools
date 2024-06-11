@@ -17,10 +17,14 @@
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** blindsight 60 ft., passive Perception 11
 - **Languages:** —
+
 ### Special Abilities
+
 - **Echolocation:** The ghoul bat can’t use its blindsight while deafened.
 - **Keen Hearing:** The ghoul bat has advantage on Wisdom (Perception) checks that rely on hearing. Undead Nature. Ghoul bats don’t require air, food, drink, or sleep.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving  throw or be paralyzed until the end of its next turn.
 
 

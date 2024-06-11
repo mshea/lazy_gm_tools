@@ -17,9 +17,13 @@
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Draconic, Elvish
+
 ### Special Abilities
+
 - **Charge:** If the dracotaur moves at least 30 feet straight toward a target and then hits it with a bite attack on the same turn, the target takes an extra 14 (4d6) piercing damage.
+
 ### Actions
+
 - **Multiattack:** The dracotaur makes two attacks: one with its bite and one with its claws or two with its longbow.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 7 (2d6) lightning damage.
 - **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.

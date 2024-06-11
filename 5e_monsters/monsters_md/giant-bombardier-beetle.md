@@ -17,7 +17,9 @@
 - **Damage Resistances:** fire
 - **Senses:** blindsight 30 ft., passive Perception 10
 - **Languages:** —
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Spray:** Ranged Weapon Attack: +4 to hit, range 15/30 ft., one target. Hit: 7 (2d4 + 2) fire damage.
 

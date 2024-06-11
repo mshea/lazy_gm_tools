@@ -16,7 +16,9 @@
 - **Skills:** athletics +7, intimidation +5, perception +4, stealth +7, survival +4
 - **Senses:** passive Perception 14
 - **Languages:** any one
+
 ### Actions
+
 - **Multiattack:** The warrior attacks twice.
 - **Greataxe:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 10 (1d12 + 4) slashing damage. If the warrior has moved this turn  this attack is made with advantage.
 - **Champion warriors are the champions and chiefs who lead lightly-armed warriors on skirmishes and raids:** 

@@ -15,9 +15,13 @@
 - **Skills:** stealth +2
 - **Senses:** passive Perception 10
 - **Languages:** 
+
 ### Special Abilities
+
 - **Hold Breath:** The crocodile can hold its breath for 15 minutes.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 7 (1d10+2) piercing damage and the target is grappled (escape DC 12). Until this grapple ends  the target is restrained and the crocodile can't bite a different target.
 
 

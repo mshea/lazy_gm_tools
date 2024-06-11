@@ -15,10 +15,14 @@
 - **Skills:** Stealth +4
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** —
+
 ### Special Abilities
+
 - **Amphibious:** The water leaper can breathe air and water.
 - **Underwater Camouflage:** The water leaper has advantage on Dexterity (Stealth) checks made while underwater.
+
 ### Actions
+
 - **Multiattack:** The water leaper makes one Bite attack and one Stinger attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the water leaper can’t Bite another target.
 - **Stinger:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the creature takes 5 (2d4) poison damage at the start of each of its turns. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

@@ -18,10 +18,14 @@
 - **Condition Immunities:** fatigue
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Deep Speech, Draconic, Undercommon, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Far Thoughts:** The dragon is aware of any creature that uses a psionic ability or communicates telepathically within 100 miles of it. As an action, the dragon can psionically observe a creature, object, or location it is familiar with within 100 miles. While observing a subject in this way, the dragon can see, hear, and communicate telepathically, but it is blind and deaf in regard to its physical senses and does not require food or water. The dragon can psionically observe a subject indefinitely and can end this effect and return to its own senses as an action.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 19). It can innately cast the following spells, requiring no material components. 3/day each:calm emotions, charm person
+
 ### Actions
+
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 19 (3d10 + 3) piercing damage plus 4 (1d8) force damage.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 12 (2d8 + 3) slashing damage.

@@ -16,9 +16,13 @@
 - **Damage Immunities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** -
+
 ### Special Abilities
+
 - **Antennae:** The giant moth has advantage on Wisdom (Perception) checks that rely on smell.
+
 ### Actions
+
 - **Proboscis:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Sooty Wings (1/Day):** A 20-foot radius cloud of smoldering ash disperses from the sootwing. Each creature in that area must make a DC 11 Constitution saving throw. On a failure, a creature takes 4 (1d8) fire damage and is blinded until the end of its next turn. On a success, a creature takes half the damage and isn't blinded.
 

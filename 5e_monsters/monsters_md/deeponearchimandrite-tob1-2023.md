@@ -18,10 +18,14 @@
 - **Damage Resistances:** cold, thunder
 - **Senses:** darkvision 240 ft., passive Perception 16
 - **Languages:** Common, Void Speech
+
 ### Special Abilities
+
 - **Amphibious:** The deep one archimandrite can breathe air and water.
 - **Frenzied Rage:** If a deep one archimandrite takes 15 or more damage from a single attack, it has advantage on all attack rolls and gains a +4 bonus to all damage rolls until the end of its next turn. For the duration, it can make one Unholy Trident attack as a bonus action on its turn.
+
 ### Actions
+
 - **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) slashing damage.
 - **Unholy Trident:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) piercing damage plus 13 (2d12) necrotic damage.
 - **Jolt:** Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 60 ft., one target. Hit: 14 (3d6 + 4) lightning damage, and the target’s speed is reduced by 10 until the end of its next turn.

@@ -16,7 +16,9 @@
 - **Skills:** arcana +11, athletics +11
 - **Senses:** passive Perception 12
 - **Languages:** any six
+
 ### Special Abilities
+
 - **Duelist:** When the blademaster is wielding a single melee weapon, their weapon attacks deal an extra 2 damage (included below).
 - **Magic Resistance:** The blademaster has advantage on saving throws against spells and magical effects.
 - **Steel Focus:** The blademaster has advantage on Constitution saving throws made to maintain concentration on spells.
@@ -52,7 +54,9 @@
  unholy star
  8th-level (1 slot): power word stun
  9th-level (1 slot): meteor swarm
+
 ### Actions
+
 - **Multiattack:** The arcane blademaster attacks four times and casts a cantrip.
 - **Longsword:** Melee Weapon Attack: +11 to hit  reach 5 ft.  one target. Hit: 11 (1d8 + 7) slashing damage.
 - **Composite Longbow:** Ranged Weapon Attack: +11 to hit  range 150/600 ft.  one target. Hit: 9 (1d8 + 5) piercing damage.
@@ -63,7 +67,9 @@
 - **Unholy Star (7th-Level; V, S):** A meteor explodes at a point the blademaster can see 100 feet directly above them. Each creature within 120 feet that can see the meteor (other than the blademaster) makes a DC 19 Dexterity saving throw. On a failure  it is blinded until the end of the blademasters next turn. Four fiery chunks of the meteor then plummet to the ground at different points chosen by the blademaster that are within range  to explode in 5-foot-radius areas. Each creature in an area makes a DC 19 Dexterity saving throw  taking 21 (6d6) fire damage and 21 (6d6) necrotic damage on a failed save or half damage on a successful one. A creature in more than one area is affected only once. Flammable unattended objects catch fire.
 - **Power Word Stun (8th-Level; V):** The blademaster utters a powerful word that stuns one creature that has 150 hit points or less and is within 60 feet (if it has more hit points  it is instead rattled until the end of its next turn). The creature repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Meteor Swarm (9th-Level; V, S):** Scorching 40-foot-radius spheres of flame strike the ground at 4 different points chosen by the blademaster within 1 mile. The effects of a sphere reach around corners. Creatures and objects in the area make a DC 19 Dexterity saving throw  taking 49 (14d6) fire damage and 49 (14d6) bludgeoning damage on a failure or half damage on a success. A creature in more than one area is affected only once. Flammable unattended objects catch fire.
+
 ### Bonus Actions
+
 - **Improved War Magic:** When the blademaster uses an action to cast a spell, they can make one weapon attack.
 - **Misty Step (2nd-Level; V):** The blademaster teleports to an unoccupied space they can see within 30 feet. The blademaster can't cast this spell and a 1st-level or higher spell on the same turn.
 

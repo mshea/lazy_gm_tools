@@ -19,11 +19,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 12
 - **Languages:** Common, Infernal, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Devil’s Sight:** Magical darkness doesn’t impede the devil’s darkvision.
 - **Fear Aura:** A creature that starts its turn within 10 feet of the automata devil must succeed on a DC 17 Wisdom saving throw or become frightened until the start of its next turn. On a successful saving throw, the creature is immune to the automata devil’s Fear Aura for 24 hours.
 - **Magic Resistance:** The automata devil has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The automata devil makes one Bite attack, one Whip attack, and two Claw attacks. It can replace two Claw attacks with a use of Shredding Maw.
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 18 (2d10 + 7) slashing damage.
 - **Claw:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16 (2d8 + 7) slashing damage.

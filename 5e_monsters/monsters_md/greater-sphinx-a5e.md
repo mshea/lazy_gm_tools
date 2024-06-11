@@ -18,11 +18,15 @@
 - **Condition Immunities:** charmed, frightened, paralyzed, stunned
 - **Senses:** truesight 120 ft., passive Perception 20
 - **Languages:** Celestial, Common, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Inscrutable:** The sphinx is immune to divination and to any effect that would sense its emotions or read its thoughts. Insight checks made to determine the sphinxs intentions are made with disadvantage.
 - **Legendary Resistance (1/Day):** Each greater sphinx wears a piece of jewelry, such as a crown, headdress, or armlet. When the greater sphinx fails a saving throw, it can choose to succeed instead. When it does so, its jewelry shatters. The sphinx can create a new piece of jewelry when it finishes a long rest.
 - **Innate Spellcasting:** The sphinxs spellcasting ability is Wisdom (spell save DC 18). It can cast the following spells, requiring no material components: At will: detect evil and good, detect magic, minor illusion, spare the dying, 3/day each: dispel magic, identify, lesser restoration, remove curse, scrying, tongues, zone of truth, 1/day each: contact other plane, flame strike, freedom of movement, greater restoration, legend lore, heroes feast
+
 ### Actions
+
 - **Multiattack:** The sphinx attacks twice with its claw.
 - **Claw:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 17 (2d10 + 6) slashing damage.
 - **Dispel Magic (3rd-Level; V, S):** The sphinx scours the magic from one creature  object  or magical effect within 120 feet that it can see. A spell ends if it was cast with a 3rd-level or lower spell slot. For spells using a 4th-level or higher spell slot  the sphinx makes a Wisdom ability check (DC 10 + the spells level) for each one  ending the effect on a success.
@@ -31,7 +35,9 @@
 - **First Roar: A creature that fails the saving throw is frightened for 1 minute:** It can repeat the saving throw at the end of each of its turns  ending the effect on itself on a success.
 - **Second Roar: A creature that fails the saving throw takes 22 (4d10) thunder damage and is frightened for 1 minute:** On a success  the creature takes half damage. While frightened by this roar  the creature is paralyzed. It can repeat the saving throw at the end of each of its turns  ending the effect on itself on a success.
 - **Third Roar: A creature that fails the saving throw takes 44 (8d10) thunder damage and is knocked prone:** On a success  the creature takes half damage.
+
 ### Bonus Actions
+
 - **Speed Time (1/Day:** For 1 minute, the sphinxs Speed and flying speed are doubled, opportunity attacks against it are made with disadvantage, and it can attack three times with its claw (instead of twice) when it uses Multiattack.
 - **Planar Jaunt (1/Day):** The sphinx targets up to eight willing creatures it can see within 300 feet. The targets are magically transported to a different place, plane of existence, demiplane, or time. This effect ends after 24 hours or when the sphinx takes a bonus action to end it. When the effect ends, the creatures reappear in their original locations, along with any items they acquired on their jaunt. While the effect lasts, the sphinx can communicate telepathically with the targets. The sphinx chooses one of the following destinations:
 - **Different Location or Plane of Existence:** The creatures appear in empty spaces of the sphinxs choice anywhere on the Material Plane or on a different plane altogether.

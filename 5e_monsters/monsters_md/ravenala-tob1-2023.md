@@ -18,10 +18,14 @@
 - **Condition Immunities:** blinded, deafened
 - **Senses:** passive Perception 13
 - **Languages:** Common, Druidic, Elvish, Sylvan
+
 ### Special Abilities
+
 - **Magic Resistance:** The ravenala has advantage on saving throws against spells and other magical effects.
 - **Woodland Stride:** Difficult terrain composed of magical or nonmagical plants doesn’t cost the ravenala extra movement. In addition, it can pass through magical or nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+
 ### Actions
+
 - **Multiattack:** The ravenala makes two Bursting Pod or Slam attacks. If both Slam attacks hit a Medium or smaller creature, the target is grappled (escape DC 14), and the ravenala uses its Lamenting Engulfment on the target.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
 - **Bursting Pod:** Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage, and each creature within 5 feet of the target, including the target, must make a DC 15 Dexterity saving throw, taking 5 (2d4) piercing damage on a failed save, or half as much damage on a successful one.

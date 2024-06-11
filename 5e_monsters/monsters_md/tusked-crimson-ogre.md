@@ -18,10 +18,14 @@
 - **Condition Immunities:** frightened
 - **Senses:** darkvision 60 ft., passive Perception 8
 - **Languages:** Common, Giant
+
 ### Special Abilities
+
 - **Blood Frenzy:** The ogre has advantage on melee attack rolls against any creature that doesn't have all its hp.
 - **Rampage:** When the ogre reduces a creature to 0 hp with a melee attack on its turn, the ogre can take a bonus action to move up to half its speed and make one bite attack.
+
 ### Actions
+
 - **Multiattack:** The tusked crimson ogre makes two attacks: one with its morningstar and one with its bite.
 - **Morningstar:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.

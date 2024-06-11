@@ -18,13 +18,17 @@
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Darakhul, Undercommon
+
 ### Special Abilities
+
 - **Master of Disguise:** A darakhul in a prepared disguise has advantage on Charisma (Deception) checks made to pass as a living creature. While using this ability, it loses its Stench.
 - **Necrotic Weapons:** The darakhul captain’s weapon attacks are magical. When the captain hits with any weapon, the weapon deals an extra 2d6 necrotic damage (included in the attack).
 - **Stench:** Any creature that starts its turn within 5 feet of the darakhul must succeed on a DC 15 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the darakhul’s Stench for 24 hours.
 - **Sunlight Sensitivity:** While in sunlight, the darakhul has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 - **Turning Defiance:** The darakhul and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
+
 ### Actions
+
 - **Multiattack:** The darakhul captain makes three attacks: one with its bite, one with its claw, and one with its longsword. Alternatively, it can make four attacks with its longsword.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 7 (2d6) necrotic damage. If the target is a humanoid, it must succeed on a DC 15 Constitution saving throw or contract darakhul fever.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature other than an undead, it must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a humanoid is paralyzed for more than 2 rounds, it contracts darakhul fever.

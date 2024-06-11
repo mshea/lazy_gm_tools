@@ -18,10 +18,14 @@
 - **Damage Immunities:** fire
 - **Senses:** blindsense 60 ft., passive Perception 14
 - **Languages:** -
+
 ### Special Abilities
+
 - **Amphibious:** The jaanavar jal can breathe air and water.
 - **Regeneration:** The jaanavar jal regains 10 hp at the start of its turn if it has at least 1 hp. If the jaanavar jal takes cold damage, this trait doesn't function at the start of its next turn. The jaanavar jal dies only if it starts its turn with 0 hp and doesn't regenerate.
+
 ### Actions
+
 - **Multiattack:** The jaanavar jal makes two attacks: one with its bite and one to constrict.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) piercing damage
 - **Constrict:** Melee Weapon Attack: +8 to hit, reach 5 ft., one Large or smaller creature. Hit: 10 (1d10 + 5) bludgeoning damage and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained and the jaanavar jal can't constrict another creature.

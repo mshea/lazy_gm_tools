@@ -19,11 +19,15 @@
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Auran
+
 ### Special Abilities
+
 - **Flyby:** The fulminar doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 - **Essence of Lightning:** Bolts of lightning course around the fulminar's body, shedding bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The fulminar can alter the radius as a bonus action.
 - **Lightning Form:** The fulminar can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the fulminar or hits it with a melee attack while within 5 feet of it takes 7 (2d6) lightning damage.
+
 ### Actions
+
 - **Multiattack:** The fulminar makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage and 7 (2d6) lightning damage and the target can't take reactions until the end of the fulminar's next turn.
 - **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage and 7 (2d6) lightning damage.

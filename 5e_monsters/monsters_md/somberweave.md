@@ -17,13 +17,17 @@
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** blindsight 10 ft., darkvision 120 ft., passive Perception 14
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Shadow Webs:** The somberweave’s webs are anchored in the Material Plane and the Shadow Realm, existing in both simultaneously. Except for effects and attacks from the somberweave, a creature in contact with or restrained by a somberweave’s webs has half cover and is immune to any spell or effect that would move it to a different plane, such as the banishment and plane shift spells.
 - **Shadow Sight:** The somberweave can see 60 feet into the Shadow Realm when it is on the Material Plane, and vice versa.
 - **Spider Climb:** The somberweave can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 - **Web Sense:** While in contact with a web, the somberweave knows the exact location of any other creature in contact with the same web.
 - **Web Walker:** The somberweave ignores movement restrictions caused by webbing.
+
 ### Actions
+
 - **Multiattack:** The somberweave makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.

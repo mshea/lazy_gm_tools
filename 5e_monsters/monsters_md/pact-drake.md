@@ -19,13 +19,17 @@
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., truesight 60 ft., passive Perception 16
 - **Languages:** all
+
 ### Special Abilities
+
 - **Binding Witness:** Creatures that make a pact or agree to terms while the drake witnesses the agreement are bound by the drake's magic. They have disadvantage on saving throws against scrying by the drake (simply making a successful save against the drake's scrying usually is enough to arouse its suspicion), and they become potential targets for the drake's Punish Transgressor action.
 - **Sense Falsehood:** The drake knows if it hears a lie.
 - **Innate Spellcasting:** A pact drake's spellcasting ability is Charisma (spell save DC 15). It can cast the following spells, requiring only somatic components:
 At will: detect magic
 3/day each: arcane eye, clairvoyance, scrying
+
 ### Actions
+
 - **Multiattack:** The pact drake makes two attacks: one with its bite and one with its claw.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.

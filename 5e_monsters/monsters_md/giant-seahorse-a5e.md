@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 11
 - **Languages:** 
+
 ### Special Abilities
+
 - **Water Breathing:** The seahorse breathes only water.
+
 ### Actions
+
 - **Ram:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 6 (2d4+1) bludgeoning damage. If the seahorse moves at least 20 feet straight towards the target before the attack  the attack deals an extra 5 (2d4) bludgeoning damage and the target makes a DC 11 Strength saving throw  falling prone on a failure.
 
 

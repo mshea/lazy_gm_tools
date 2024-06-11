@@ -19,12 +19,16 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned
 - **Senses:** darkvision 60 ft., truesight 20 ft., passive Perception 14
 - **Languages:** the languages it knew in life
+
 ### Special Abilities
+
 - **Eldritch Weapons:** The fext’s weapon attacks are magical. When the fext hits with any weapon, the weapon deals an extra 2d8 force damage (included in the attack).
 - **Magic Resistance:** The fext has advantage on saving throws against spells and other magical effects.
 - **Patron’s Blessing:** While the fext is conscious and wearing no armor and wielding no shield, it adds its Charisma modifier to its AC (included above).
 - **Undead Nature:** The fext doesn’t require air, food, drink, or sleep.
+
 ### Actions
+
 - **Multiattack:** The fext makes two Eldritch Blade or Eldritch Fury attacks.
 - **Eldritch Blade:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage plus 9 (2d8) force damage.
 - **Eldritch Fury:** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (3d8 + 4) force damage.

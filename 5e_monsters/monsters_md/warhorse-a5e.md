@@ -15,7 +15,9 @@
 - **Skills:** 
 - **Senses:** passive Perception 11
 - **Languages:** 
+
 ### Actions
+
 - **Hooves:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 7 (1d6+4) bludgeoning damage. If the horse moves at least 20 feet straight towards the target before the attack  the target makes a DC 14 Strength saving throw  falling prone on a failure.
 
 

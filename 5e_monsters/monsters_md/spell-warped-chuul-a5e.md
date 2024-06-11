@@ -17,7 +17,9 @@
 - **Condition Immunities:** frightened, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** understands Deep Speech but can't speak
+
 ### Special Abilities
+
 - **Amphibious:** The chuul can breathe air and water.
 - **Detect Magic:** The chuul senses a magical aura around any visible creature or object within 120 feet that bears magic.
 - **Spell-warped:** The spell-warped Chuul possesses one of the following traits.
@@ -25,7 +27,9 @@
 - **King-Sized Claw:** One of the chuuls pincers deals 18 (4d6 + 4) bludgeoning damage on a successful hit. A creature grappled by this pincer makes ability checks to escape the grapple with disadvantage.
 - **Rune Drinker:** Whenever the chuul takes damage from a magic weapon, until the start of the chuuls next turn attacks made with that weapon have disadvantage, and the chuul gains a +4 bonus to AC.
 - **Sparking Wand:** A wand of lightning bolts adorns the chuuls carapace. A creature that starts its turn within 10 feet must make a successful DC 14 Dexterity saving throw or take 7 (2d6) lightning damage. As an action, a creature within 5 feet of the chuul can grab the wand by making a successful DC 14 Athletics or Sleight of Hand check. A creature that fails this check must make a DC 14 Dexterity saving throw. On a failed save, the creature takes 7 (2d6) lightning damage and is knocked prone. On a successful save, a creature takes half damage and isnt knocked prone.
+
 ### Actions
+
 - **Multiattack:** If the chuul is grappling a creature  it uses its tentacle on that creature. It then makes two pincer attacks.
 - **Pincer:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one Large or smaller target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a creature  it is grappled (escape DC 15). When carrying a grappled creature  the chuul can move at full speed. A pincer that is being used to grapple a creature can be used only to attack that creature.
 - **Tentacle:** A grappled creature makes a DC 14 Constitution saving throw. On a failure  it is paralyzed for 1 minute. The creature repeats the saving throw at the end of each of its turns  ending the paralysis on a success.

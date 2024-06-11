@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 11
 - **Languages:** 
+
 ### Special Abilities
+
 - **Flyby:** The pteranodon doesnt provoke an opportunity attack when it flies out of a creatures reach.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) piercing damage.
 
 

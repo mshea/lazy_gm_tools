@@ -15,10 +15,14 @@
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Electrified Tendrils:** A creature that touches the skyfish or hits it with a melee attack while within 5 feet of it takes 3 (1d6) lightning damage. In addition, a creature that starts its turn beneath the skyfish while the skyfish is hovering takes 3 (1d6) lightning damage, provided the creature is within 15 feet of the skyfish.
 - **Mobile Grappler:** While grappling a creature, the tusked skyfish can move at its full speed, carrying the grappled creature along with it.
+
 ### Actions
+
 - **Multiattack:** The tusked skyfish makes one Gore attack and one Electrified Tentacles attack.
 - **Gore:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Electrified Tentacles:** Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 14 (3d6 + 4) bludgeoning damage, and the target is grappled (escape DC 13) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained and takes 14 (4d6) lightning damage at the start of each of its turns, and the skyfish can’t use its Electrified Tentacles on another target.

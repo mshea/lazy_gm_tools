@@ -18,12 +18,16 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** understands Infernal but can’t speak
+
 ### Special Abilities
+
 - **Devil’s Sight:** Magical darkness doesn’t impede the tzepharion’s darkvision.
 - **Eye of Rage:** As a bonus action, the tzepharion incites rage in up to three beasts or monstrosities it can see within 60 feet of it. Each target must succeed on a DC 15 Wisdom saving throw or become enraged until the end of its next turn. While enraged, it has advantage on its attack rolls, but it is unable to distinguish friend from foe and must attack the nearest creature other than the tzepharion. This trait doesn’t work on targets with an Intelligence of 6 or higher.
 - **Magic Resistance:** The tzepharion has advantage on saving throws against spells and other magical effects.
 - **Pack Tactics:** The tzepharion has advantage on attack rolls against a creature if at least one of the devil’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
 ### Actions
+
 - **Multiattack:** The tzepharion devil makes one bite attack and four claw attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.

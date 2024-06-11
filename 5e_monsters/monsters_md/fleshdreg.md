@@ -19,9 +19,13 @@
 - **Condition Immunities:** exhaustion, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Deep Speech, Sylvan
+
 ### Special Abilities
+
 - **Regeneration:** The fleshdreg regains 5 hp at the start of its turn if it has at least 1 hp. If the fleshdreg uses its Disgorge Innards action, this trait doesn’t function at the start of its next turn.
+
 ### Actions
+
 - **Multiattack:** The fleshdreg makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 14 (3d6 + 4) bludgeoning damage.
 - **Rock:** Melee Weapon Attack: +7 to hit, range 60/180 ft., one target. Hit: 20 (3d10 + 4) bludgeoning damage.

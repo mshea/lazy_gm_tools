@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 8
 - **Languages:** —
+
 ### Special Abilities
+
 - **Illumination:** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet. When it dies, its body continues to glow for another 6 hours.
+
 ### Actions
+
 - **Horn:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 
 

@@ -18,9 +18,13 @@
 - **Condition Immunities:** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common
+
 ### Special Abilities
+
 - **Amorphous:** The shadow river lord can move through a space as narrow as one inch wide without squeezing.
+
 ### Actions
+
 - **Multiattack:** The shadow river lord makes two greenfire staff or two shadowfrost bolt attacks. If two attacks hit the same target, the target must make a DC 16 Constitution saving throw or be blinded until the end of its next turn.
 - **Greenfire Staff:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 - **Shadowfrost Bolt:** Ranged Spell Attack: +8 to hit, range 150 ft., one target. Hit: 9 (2d8) necrotic damage plus 7 (2d6) cold damage.

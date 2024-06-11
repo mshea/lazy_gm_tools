@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 8
 - **Languages:** 
+
 ### Special Abilities
+
 - **Water Breathing:** The quipper breathes only water.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 1 piercing damage. On a hit  the quipper can use a bonus action to make a second bite attack.
 
 

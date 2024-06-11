@@ -16,10 +16,14 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft., truesight 30 ft., passive Perception 15
 - **Languages:** Sylvan
+
 ### Special Abilities
+
 - **Magic Weapons:** The ijiraq's weapon attacks are magical.
 - **Memory Loss:** After encountering an ijiraq, a creature must succeed on a DC 15 Wisdom saving throw to remember the events. On a failure, the details of the encounter rapidly fade away from the creature's mind, including the presence of the ijiraq.
+
 ### Actions
+
 - **Multiattack:** In its true form, the ijiraq makes two claw attacks. In its hybrid form, it makes one gore attack and one claw attack.
 - **Gore (Hybrid Form Only):** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage and 9 (2d8) poison damage.
 - **Claw (Hybrid Form or True Form Only):** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 13 (3d8) poison damage. Invisibility (True Form Only). The ijiraq magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). It may choose whether equipment it wears or carries is invisible with it or not.

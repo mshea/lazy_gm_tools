@@ -18,13 +18,17 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60', passive Perception 14
 - **Languages:** understands Common but can’t speak
+
 ### Special Abilities
+
 - **Construct Nature:** Doesn’t require air food drink or sleep.
 - **False Appearance:** While motionless indistinguishable from ordinary stained-glass window or artwork.
 - **Flyby:** Doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 - **Immutable Form:** Immune: form-altering spells/effects.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
+
 ### Actions
+
 - **Multiattack:** Blessed Wings then two Wing Slice or Radiant Wing attacks.
 - **Wing Slice:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) slashing damage.
 - **Radiant Wing:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 6 (1d8+2) radiant.

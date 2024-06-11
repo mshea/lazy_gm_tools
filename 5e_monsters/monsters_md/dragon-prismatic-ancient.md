@@ -18,9 +18,13 @@
 - **Condition Immunities:** blinded
 - **Senses:** blindsight 60', darkvision 120', passive Perception 27
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Legendary Resistance (3/Day):** Choose to succeed failed save.
+
 ### Actions
+
 - **Multiattack:** Uses Frightful Presence then one Bite and two Claws.
 - **Bite:** Melee Weapon Attack: +14 to hit, 15 ft., one target, 18 (2d10+7) piercing damage.
 - **Claw:** Melee Weapon Attack: +14 to hit, 10 ft., one target, 14 (2d6+7) slashing damage.
@@ -30,7 +34,9 @@
 - **Spellcasting:** Int (DC 20) no material components: At will: charm person dancing lights prismatic spray1/day: prismatic wall
 
 
+
 ### Legendary Actions
+
 - **Detect:** Makes a Wis (Perception) check.
 - **Tail Attack:** Makes a tail attack.
 - **Cast a Spell (2):** Uses Spellcasting.

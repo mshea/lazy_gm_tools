@@ -16,7 +16,9 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 9
 - **Languages:** Common
+
 ### Special Abilities
+
 - **Aura of Drunkenness:** The rum lord radiates an aura of drunkenness to a radius of 20 feet. Each creature that starts its turn in the aura must succeed on a DC 12 Constitution saving throw or be poisoned for 1 hour. A creature that has consumed alcohol within the past hour has disadvantage on the saving throw. While poisoned, a creature falls prone if it tries to move more than half its speed during a turn. A creature that succeeds on the saving throw is immune to the rum gremlin lord’s Aura of Drunkenness for 24 hours.
 - **Hearty:** The rum lord adds its Constitution modifier to its AC (included in the Armor Class).
 - **Magic Resistance:** The rum lord has advantage on saving throws against spells and other magical effects.
@@ -24,7 +26,9 @@
 - **Innate Spellcasting:** The rum lord’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
 At will: prestidigitation
 3/day: command
+
 ### Actions
+
 - **Multiattack:** The rum lord makes two attacks: one with its ale tap scepter and one with its broken bottle shiv.
 - **Ale Tap Scepter:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
 - **Broken Bottle Shiv:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage.

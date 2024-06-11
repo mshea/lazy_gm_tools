@@ -17,16 +17,22 @@
 - **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages:** 
+
 ### Special Abilities
+
 - **Amorphous:** The pudding can pass through an opening as narrow as 1 inch wide without squeezing.
 - **Corrosive Body:** A creature that touches the pudding or hits it with a melee attack while within 5 feet takes 9 (2d8) acid damage. A nonmagical weapon made of metal or wood that hits the black pudding corrodes after dealing damage, taking a permanent -1 penalty to damage rolls per hit. If this penalty reaches -5, the weapon is destroyed. Wooden or metal nonmagical ammunition is destroyed after dealing damage. Any other metal or organic object that touches it takes 9 (2d8) acid damage.
 - **Spider Climb:** The pudding can use its climb speed even on difficult surfaces and upside down on ceilings.
 - **Sunlight Sensitivity:** While in sunlight, the pudding has disadvantage on attack rolls.
 - **Ooze Nature:** An ooze doesnt require air or sleep.
+
 ### Actions
+
 - **Pseudopod:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 9 (2d8) acid damage. Nonmagical armor worn by the target corrodes  taking a permanent -1 penalty to its AC protection per hit. If the penalty reduces the armors AC protection to 10  the armor is destroyed.
 - **Multiattack:** The pudding makes two pseudopod attacks. The pudding can't use Multiattack after it splits for the first time.
+
 ### Reactions
+
 - **Split:** When a Medium or larger pudding with at least 10 hit points is subjected to lightning or slashing damage, it splits into two puddings that are each one size smaller. Each new pudding has half the originals hit points (rounded down).
 
 

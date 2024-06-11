@@ -18,10 +18,14 @@
 - **Condition Immunities:** exhaustion, stunned
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Common
+
 ### Special Abilities
+
 - **Aura of Starvation:** A creature that starts its turn within 10 feet of the wendigo must succeed on a DC 15 Constitution saving throw or be paralyzed by gnawing cold and crippling hunger for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the wendigo's Aura of Starvation for the next 24 hours.
 - **Magic Resistance:** The wendigo has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The wendigo makes three attacks: two with its icy claw and one with its bite. Alternatively, it uses its Frozen Spittle twice.
 - **Icy Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage and 14 (4d6) cold damage.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.

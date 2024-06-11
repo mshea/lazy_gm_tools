@@ -19,10 +19,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** —
+
 ### Special Abilities
+
 - **Immutable Form:** The ulnorya is immune to any spell or effect that would alter its form.
 - **Photoadaptive Hide:** If the ulnorya didn’t move on its previous turn, it is invisible.
+
 ### Actions
+
 - **Multiattack:** The ulnorya makes four attacks: one with its bite, one with its claw, and two with its tentacles.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage and the target must succeed on a DC 15 Constitution saving throw or take 7 (2d6) poison damage. If the poison damage reduces the target to 0 hp, the target is stable but poisoned for 1 hour, even after regaining hp, and is paralyzed while poisoned in this way.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.

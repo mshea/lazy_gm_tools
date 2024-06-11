@@ -15,10 +15,14 @@
 - **Skills:** perception +2, stealth +3, survival +2
 - **Senses:** passive Perception 12
 - **Languages:** Common, Scorpionfolk
+
 ### Actions
+
 - **Claw:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the scorpionfolk can't attack a different target with its claws.
 - **Javelin:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
+
 ### Bonus Actions
+
 - **Sting:** Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, and the target makes a DC 12 Constitution saving throw, taking 16 (3d10) poison damage on a failure or half damage on a success.
 
 

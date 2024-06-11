@@ -19,12 +19,16 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** Celestial, Draconic, Elvish, Infernal, Sylvan, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Devil’s Sight:** Magical darkness doesn’t impede the lunar devil’s darkvision.
 - **Light Incorporeality:** The lunar devil is translucent when standing in moonlight and is immune to damage from all nonmagical weapons in such conditions.
 - **Lightwalking:** Once on its turn, the lunar devil can use half its movement to step magically into one area of moonlight within its reach and emerge from a second area of moonlight within 80 feet of the first, appearing in an unoccupied space within that second area.
 - **Magic Resistance:** The lunar devil has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The lunar devil makes one Bite attack, one Claw attack, and one Tail attack, or it makes three Hurl Moonlight attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage plus 9 (2d8) cold damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) slashing damage.

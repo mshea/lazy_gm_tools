@@ -16,10 +16,14 @@
 - **Condition Immunities:** paralyzed, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Draconic, Sylvan
+
 ### Special Abilities
+
 - **Amphibious:** The zmey headling can breathe air and water.
 - **Regeneration:** As the zmey, but it regains only 10 hp at the start of its turn.
+
 ### Actions
+
 - **Multiattack:** The zmey headling makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 16 (2d12 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.

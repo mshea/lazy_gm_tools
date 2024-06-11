@@ -15,7 +15,9 @@
 - **Skills:** stealth +3
 - **Senses:** darkvision 30 ft., passive Perception 11
 - **Languages:** 
+
 ### Special Abilities
+
 - **Amphibious:** The frog can breathe air and water.
 - **Jumper:** The frog can jump up to 10 feet horizontally and 5 feet vertically without a running start.
 

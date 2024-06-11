@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, deafened, exhaustion, frightened
 - **Senses:** truesight 60 ft., passive Perception 19
 - **Languages:** all, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Charlatan’s Bane:** The yaojing knows if it hears a lie, and it has advantage on Wisdom (Insight) checks to determine if a creature is attempting to deceive it.
 - **Magic Resistance:** The yaojing has advantage on saving throws against spells and other magical effects.
 - **Magic Weapons:** The yaojing’s weapon attacks are magical.
@@ -27,7 +29,9 @@
 At will: detect evil and good, silence
 3/day each: beacon of hope, bestow curse
 1/day each: death ward, dispel evil and good
+
 ### Actions
+
 - **Multiattack:** The yaojing uses Blasphemer’s Bane. It then makes three attacks.
 - **Sacred Fist:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage and 13 (3d8) radiant damage.
 - **Sacred Bolt:** Ranged Spell Attack: +10 to hit, range 60 ft., one target. Hit: 22 (5d8) radiant damage.

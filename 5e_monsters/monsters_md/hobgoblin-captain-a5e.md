@@ -16,9 +16,13 @@
 - **Skills:** athletics +5, engineering +4, intimidation +4, perception +3
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Goblin
+
 ### Special Abilities
+
 - **Formation Movement:** If the hobgoblin begins its turn within 5 feet of an ally that is not incapacitated, its movement doesnt provoke opportunity attacks.
+
 ### Actions
+
 - **Multiattack:** The hobgoblin attacks twice with its greatsword.
 - **Greatsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Javelin:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 6 (1d6 + 3) piercing damage.

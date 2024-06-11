@@ -17,7 +17,9 @@
 - **Condition Immunities:** frightened
 - **Senses:** passive Perception 13
 - **Languages:** Common, Eonic, Giant, Sylvan
+
 ### Special Abilities
+
 - **Amend Time:** As a bonus action, the savant alters the strands of time surrounding a creature it can see within 30 feet. If the target is friendly, the target has advantage on its next weapon attack roll. If the target is hostile, the target must succeed on a DC 15 Charisma saving throw or have disadvantage on its next weapon attack roll.
 - **Magic Resistance:** The savant has advantage on saving throws against spells and other magical effects.
 - **Past and Future, Present:** A savant is always accompanied by its past and future selves. They occupy the savant’s same space seconds before and after the savant and can’t be targeted separately. They provide the savant with the following benefits. 
@@ -29,7 +31,9 @@
 3rd Level (3 slots): counterspell, fireball, fly
 4th Level (3 slots): arcane eye, confusion, dimension door
 5th Level (1 slot): arcane hand
+
 ### Actions
+
 - **Multiattack:** The eonic savant makes three melee attacks.
 - **Time Warping Staff:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 7 (2d6) force damage.
 

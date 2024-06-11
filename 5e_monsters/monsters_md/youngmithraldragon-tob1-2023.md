@@ -18,9 +18,13 @@
 - **Condition Immunities:** charmed
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 - **Languages:** all, telepathy 60 ft.
+
 ### Special Abilities
+
 - **Magic Resistance:** The dragon has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The dragon makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage. Instead of dealing damage, the dragon can end one magical effect of its choice of 3rd level or lower on the target.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage, and if the target isn’t a Construct or Undead, it must succeed on a DC 14 Constitution saving throw or lose 3 (1d6) hp at the start of each of its turns as a piece of metallic claw breaks off in the wound. Any creature can take an action to remove the claw with a successful DC 12 Wisdom (Medicine) check. The claw pops out of the wound if the target receives magical healing.

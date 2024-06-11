@@ -18,11 +18,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Apothecary:** At the start of each of the kobold alchemist’s turns, the alchemist chooses one of the following damage types: acid, cold, fire, lightning, or poison. The alchemist has resistance to that damage type until the start of its next turn.
 - **Pack Tactics:** The kobold has advantage on attack rolls against a creature if at least one of the kobold’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 - **Sunlight Sensitivity:** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
 ### Actions
+
 - **Multiattack:** The kobold makes two Alchemical Dagger or Alchemical Bolt attacks.
 - **Alchemical Dagger:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) damage of the type determined by Apothecary.
 - **Alchemical Bolt:** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10 (2d6 + 3) damage of the type determined by Apothecary.

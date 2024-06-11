@@ -19,12 +19,16 @@
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** truesight 120 ft., passive Perception 17
 - **Languages:** Abyssal, Infernal, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Burning Tangle:** The ground within 10 feet of the thorned sulfurlord is difficult terrain.
 - **Hell Core:** At the start of each of the thorned sulfurlord's turns, each creature within 10 feet of the sulfurlord takes 7 (2d6) fire damage. If the thorned sulfurlord takes cold damage, this trait doesn't function at the start of its next turn.
 - **Like Calls to Like:** The thorned sulfurlord knows if a creature within 100 feet of it is evil-aligned or not.
 - **Root (3/Day):** As a bonus action, the thorned sulfurlord sends its roots deep into the ground. For 1 minute, the sulfurlord's speed is halved, it is immune to effects that would move it, and it can't be knocked prone.
+
 ### Actions
+
 - **Multiattack:** The thorned sulfurlord makes two sulfur slam attacks or two fiery spike attacks.
 - **Sulfur Slam:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 9 (2d8) fire damage. The target must succeed on a DC 17 Constitution saving throw or be blinded until the end of its next turn.
 - **Fiery Spike:** Ranged Weapon Attack: +6 to hit, range 60/240 ft., one target. Hit: 12 (3d6 + 2) piercing damage plus 9 (2d8) fire damage.

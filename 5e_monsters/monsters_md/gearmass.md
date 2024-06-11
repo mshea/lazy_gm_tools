@@ -18,12 +18,16 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60' (blind beyond), passive Perception 8
 - **Languages:** —
+
 ### Special Abilities
+
 - **Amorphous:** Move through space 1ft.+ wide with o squeezing.
 - **Clanging Mass:** Is filled with metal objects that clang scrape and clink together as it moves. When it moves it has disadvantage on Dex (Stealth) checks to stay silent until start of its next turn.
 - **Ooze Nature:** Doesn’t require sleep.
 - **Rust Metal:** Any nonmagic metal weapon that hits gearmass corrodes. After dealing damage weapon: permanent cumulative –1 penalty to damage. If penalty drops to –5 destroyed. Nonmagic metal ammo that hits gearmass destroyed after dealing damage.
+
 ### Actions
+
 - **Multiattack:** Two Gear Slam or Cog Tossess. If it hits one creature with both Gear Slams target is grappled (escape DC 14) and gearmass uses Engulf on target.
 - **Gear Slam:** Melee Weapon Attack: +6 to hit, 10 ft., one creature,. 12 (2d8+3) bludgeoning damage.
 - **Cog Toss:** Ranged Weapon Attack: +6 to hit 20/60' one creature. 12 (2d8+3) bludgeoning damage and the target must make DC 14 Str save or be knocked prone.

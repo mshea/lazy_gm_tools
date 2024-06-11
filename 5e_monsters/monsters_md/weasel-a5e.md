@@ -15,9 +15,13 @@
 - **Skills:** perception +3, stealth +5
 - **Senses:** darkvision 30 ft., passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Keen Hearing and Smell:** The weasel has advantage on Perception checks that rely on hearing and smell.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 1 piercing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
 
 

@@ -18,14 +18,18 @@
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Elvish, Sylvan
+
 ### Special Abilities
+
 - **Elusive:** The azeban can take the Dash, Disengage, or Hide action as a bonus action on each of its turns.
 - **Magic Resistance:** The azeban has advantage on saving throws against spells and other magical effects.
 - **Innate Spellcasting:** The azeban's innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
 At will: dancing lights, disguise self, faerie fire, minor illusion
 3/day each: creation, major image, mislead, seeming
 1/day each: mirage arcane, programmed illusion
+
 ### Actions
+
 - **Multiattack:** The azeban makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.

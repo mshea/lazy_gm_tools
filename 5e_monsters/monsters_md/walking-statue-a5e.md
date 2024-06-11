@@ -17,11 +17,15 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 10
 - **Languages:** 
+
 ### Special Abilities
+
 - **Bludgeoning Weakness:** When the statue takes more than 10 bludgeoning damage from one attack, it falls prone.
 - **False Appearance:** While motionless, the statue is indistinguishable from a normal statue.
 - **Spell-created:** The DC for dispel magic to destroy this creature is 19.
+
 ### Actions
+
 - **Smash:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 15 (2d10 + 4) bludgeoning damage.
 
 

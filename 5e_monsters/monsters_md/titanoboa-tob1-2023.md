@@ -16,10 +16,14 @@
 - **Skills:** Perception +4
 - **Senses:** blindsight 10 ft., passive Perception 14
 - **Languages:** —
+
 ### Special Abilities
+
 - **Slither:** If the titanoboa hasn’t eaten a Huge creature in the last 24 hours, it can easily move through any open large enough for a Large creature, and it can squeeze through any opening large enough for a Medium creature. The titanoboa’s destination must still have suitable room to accommodate its volume.
 - **Sparkling Scales:** When a creature that can see the titanoboa starts its turn within 30 feet of the titanoboa and the titanoboa is in bright light, isn’t incapacitated, and can see the creature, the titanoboa can force the creature to make a DC 17 Wisdom saving throw. On a failed save, the creature is stunned until the start of its next turn.
+
 ### Actions
+
 - **Multiattack:** The titanoboa makes two Bite attacks or one Bite attack and one Constrict attack. It can replace one Bite attack with a use of Swallow.
 - **Bite:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 30 (5d8 + 8) piercing damage.
 - **Constrict:** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage, and the target is grappled (escape DC 18) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the titanoboa can’t Constrict another target.

@@ -18,13 +18,17 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 10
 - **Languages:** -
+
 ### Special Abilities
+
 - **Amphibious:** The giant shark bowl can breathe air and water.
 - **Blood Frenzy:** The giant shark bowl has advantage on melee attack rolls against any creature that doesn't have all its hp.
 - **Electrical Charge:** When the giant shark bowl is subjected to lightning damage, it takes no damage and instead becomes charged for 1 minute. While charged, its attacks deal an extra 2 (1d4) lightning damage.
 - **Ooze Fish Bowl:** The shark bowl takes up its entire space. Other creatures can enter the space, but they are subjected to the bowl's Engulf and have disadvantage on the saving throw. Creatures inside the bowl can be seen but have total cover. A creature within 5 feet of the bowl can take an action to pull a creature out. Doing so requires a successful DC 15 Strength check, and the creature making the attempt takes 22 (3d10 + 6) piercing damage. The bowl can hold one Large creature or up to six Medium or smaller creatures inside it at a time.
 - **Symbiotically Bound:** The ooze and the giant shark's life forces have been entwined by an arcane force. They share statistics as if they were one monster and can't be separated.
+
 ### Actions
+
 - **Multiattack:** The giant shark bowl makes two attacks: one with its bite and one with its pseudopod.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.
 - **Pseudopod:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage.

@@ -18,10 +18,14 @@
 - **Condition Immunities:** blinded, deafened, frightened, prone
 - **Senses:** blindsight 120' (blind beyond), passive Perception 9
 - **Languages:** Sylvan
+
 ### Special Abilities
+
 - **False Appearance:** While motionless indistinguishable from ordinary oak tree.
 - **Grasping Branches:** Can have up to six Grasping Branches at a time. Each Grasping Branch can be attacked (AC 16; 25 hp; vulnerability to lightning; immunity to poison and psychic). Destroying a Grasping Branch deals no damage to the oaken sentinel which can extend a replacement branch on its next turn. A Grasping Branch can also be broken if a creature takes an action and succeeds on a DC 16 Str check vs. it.
+
 ### Actions
+
 - **Multiattack:** Three Grasping Branch or Rock attacks. It can replace one attack with use of Fling.
 - **Grasping Branch:** Melee Weapon Attack: +10 to hit, 50 ft., one target, 19 (3d8+6) bludgeoning damage and the target is grappled (escape DC 16). Until the grapple ends the target is restrained and takes 4 (1d8) bludgeoning damage at start of each of its turns and sentinel can't use same Grasping Branch on another target.
 - **Rock:** Ranged Weapon Attack: +10 to hit 60/240' one target 22 (3d10+6) bludgeoning damage.

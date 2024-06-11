@@ -17,10 +17,14 @@
 - **Condition Immunities:** frightened
 - **Senses:** passive Perception 18
 - **Languages:** any two
+
 ### Special Abilities
+
 - **Magic Resistance:** The knight captain has advantage on saving throws against spells and magical effects.
 - **Superior Heavy Armor Master:** While wearing heavy armor, the knight captain reduces bludgeoning, piercing, or slashing damage they take from nonmagical weapons by 5.
+
 ### Actions
+
 - **Multiattack:** The knight captain attacks four times.
 - **Longsword:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 11 (1d8 + 7) slashing damage.
 - **Composite Longbow:** Ranged Weapon Attack: +10 to hit  range 150/600 ft.  one target. Hit: 9 (1d8 + 5) piercing damage.

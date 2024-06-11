@@ -18,10 +18,14 @@
 - **Damage Resistances:** cold
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 - **Languages:** Common, Draconic, Primordial
+
 ### Special Abilities
+
 - **Elusive:** The dragon has advantage on ability checks and saving throws made to avoid or escape an effect that would reduce its speed or grapple or restrain it.
 - **Storm Sight:** The dragon can see through areas obscured by fog, mist, clouds, or precipitation.
+
 ### Actions
+
 - **Multiattack:** The dragon makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.

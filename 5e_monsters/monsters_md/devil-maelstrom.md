@@ -19,11 +19,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120', passive Perception 11
 - **Languages:** Infernal, telepathy 120'
+
 ### Special Abilities
+
 - **Devil’s Sight:** Magic darkness doesn’t impede its darkvision.
 - **Influence Weather:** Nearby weather responds to devil’s desires. At start of each min devil can choose to change precipitation and wind within 1 mile of it by one stage up or down (no action required). This works like the changing weather conditions aspect of the control weather spell except devil can’t change temperature and conditions change immediately.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
+
 ### Actions
+
 - **Multiattack:** Three Claws attacks and one Tempest Trident attack or it makes three Lightning Ray attacks.
 - **Claws:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 10 (2d6+3) slashing damage.
 - **Tempest Trident:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 16 (2d12+3) piercing damage + 7 (2d6) cold. A creature hit by this: knocked prone (DC 16 Str negates) by a gust of wind channeled through the trident.

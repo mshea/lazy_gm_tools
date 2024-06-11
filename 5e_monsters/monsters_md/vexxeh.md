@@ -19,10 +19,14 @@
 - **Condition Immunities:** poisoned, unconscious
 - **Senses:** truesight 60 ft., passive Perception 10
 - **Languages:** Common, Infernal
+
 ### Special Abilities
+
 - **Four-Legged Lope:** When the vexxeh uses its action to Dash, it moves at three times its speed.
 - **Weak Willed:** The vexxeh has disadvantage on saving throws against being charmed.
+
 ### Actions
+
 - **Multiattack:** The vexxeh makes three attacks: one with its bite and two with its claws. If both claw attacks hit the same target, the target and each creature within 5 feet of the target must succeed on a DC 15 Wisdom saving throw or be frightened until the end of its next turn as the vexxeh cackles with sadistic glee.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) poison damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage.

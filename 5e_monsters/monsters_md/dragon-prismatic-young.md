@@ -18,7 +18,9 @@
 - **Condition Immunities:** blinded
 - **Senses:** blindsight 30', darkvision 120', passive Perception 18
 - **Languages:** Common, Draconic
+
 ### Actions
+
 - **Multiattack:** One Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 15 (2d10+4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.

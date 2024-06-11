@@ -17,9 +17,13 @@
 - **Damage Resistances:** nonmagic B/P/S attacks
 - **Senses:** darkvision 60', tremorsense 60', passive Perception 17
 - **Languages:** Deep Speech, Undercommon, telepathy 100' (300' w/its own kind)
+
 ### Special Abilities
+
 - **Mutagenic Venom:** Produces potent poison that envenoms Humanoid victim and slowly transforms it into new diopsid. While envenomed treats all diopsid as if charmed by them. Every 24 hrs that elapse victim : DC 16 Con save reducing hp max by 5 (2d4) on failure. Reduction lasts until creature finishes long rest after venom removed. Creature dies if this reduces hp max to 0. Humanoid that dies from this horrifically transformed becoming new diopsid and losing all memory of its former life. Poison remains within creature’s body until removed by greater restoration or similar.
+
 ### Actions
+
 - **Multiattack:** One Stinger attack and two Tentacle attacks.
 - **Stinger:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 26 (4d10+4) piercing damage. If Humanoid succumbs to diopsid’s venom (DC 16 Con negates see Mutagenic Venom).
 - **Tentacle:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 17 (3d8+4) bludgeoning damage. Target is grappled (escape DC 16) if it is an up to Large creature and diopsid doesn't have 2 grappled.

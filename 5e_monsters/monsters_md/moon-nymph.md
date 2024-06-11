@@ -17,10 +17,14 @@
 - **Damage Resistances:** necrotic, radiant
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** -
+
 ### Special Abilities
+
 - **Invisibility:** The moon nymph is invisible in darkness or in bright light. It can only be seen via normal means when in dim light.
 - **Magic Resistance:** The moon nymph has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The moon nymph makes two beguiling touch attacks or two moonbeam attacks.
 - **Beguiling Touch:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) psychic damage, and the target must succeed on a DC 14 Charisma saving throw or be stunned until the end of its next turn.
 - **Moonbeam:** Ranged Weapon Attack: +6 to hit, range 120 ft., one target. Hit: 21 (4d8 + 3) radiant damage, and the target is blinded until the end of its next turn.

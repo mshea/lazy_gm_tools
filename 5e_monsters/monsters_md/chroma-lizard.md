@@ -16,11 +16,15 @@
 - **Damage Resistances:** radiant
 - **Senses:** passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Mirror Scales:** While the chroma lizard is in bright light creatures that rely on sight have disadvantage on attack rolls vs. the lizard.
 - **Mirror Shy:** If the chroma lizard sees itself reflected in a polished surface within 30' of it and in an area of bright light the lizard immediately closes its eyes and is blinded until the start of its next turn when it can check for the reflection again.
 - **Radiant Reflection:** When a creature deals radiant to the chroma lizard half the radiant the lizard took is reflected back at that creature.
+
 ### Actions
+
 - **Multiattack:** Dazzling Display then one Bite and one Claws.
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 14 (2d10+3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (1d10+3) slashing damage.

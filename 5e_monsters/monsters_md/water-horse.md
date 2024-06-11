@@ -15,10 +15,14 @@
 - **Skills:** deception +4, persuasion +4
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Amphibious:** The water horse can breathe air and water.
 - **Shapechanger:** The water horse can use its action to polymorph into a Medium humanoid, a horse, or its true horse-humanoid hybrid form. Its statistics, other than its size, speed, and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
 ### Actions
+
 - **Multiattack:** The water horse can use its Charming Gaze. In horse form, it then makes two bite attacks. In humanoid form, it then makes two longsword attacks. In hybrid form, it then makes two attacks: one with its bite and one with its longsword.
 - **Bite (Hybrid or Horse Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 - **Longsword (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.

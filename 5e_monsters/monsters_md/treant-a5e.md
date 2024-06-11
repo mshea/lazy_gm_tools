@@ -16,12 +16,16 @@
 - **Damage Resistances:** bludgeoning, piercing
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Druidic, Elvish, Sylvan
+
 ### Special Abilities
+
 - **False Appearance:** While motionless, the treant is indistinguishable from a tree.
 - **Flammable:** If the treant takes fire damage, it catches fire, taking 10 (3d6) ongoing fire damage, unless it is already on fire. It can use an action to extinguish itself, ending the ongoing damage.
 - **Forest Speaker:** The treant can communicate with beasts and plants.
 - **Siege Monster:** The treant deals double damage to objects and structures.
+
 ### Actions
+
 - **Multiattack:** The treant makes two attacks  or makes one attack and uses Animate Plant.
 - **Slam:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 20 (4d6 + 6) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +10 to hit  range 60/180 ft.  one target. Hit: 15 (2d8 + 6) bludgeoning damage.

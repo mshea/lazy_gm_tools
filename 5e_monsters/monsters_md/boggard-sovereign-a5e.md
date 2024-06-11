@@ -15,10 +15,14 @@
 - **Skills:** stealth +3, perception +3, intimidation +3
 - **Senses:** passive Perception 13
 - **Languages:** Boggard, Common
+
 ### Special Abilities
+
 - **Amphibious:** The boggard can breathe air and water.
 - **Speak with Frogs and Toads:** The boggard can communicate with frogs and toads.
+
 ### Actions
+
 - **Parting Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 12 (2d8 + 3) piercing damage plus 7 (2d6) poison damage. On a hit  the boggard may jump up to its Speed horizontally and half its Speed vertically without provoking opportunity attacks.
 - **Incite Frenzy (1/Day):** Each boggard and frog with a Bite attack within 60 feet may use its reaction to make a Bite attack.
 - **Earthshaking Croak (1/Day):** Each non-frog and non-boggard creature within 30 feet makes a DC 12 Constitution saving throw  taking 14 (4d6) thunder damage and falling prone on a failure  or taking half damage on a success.

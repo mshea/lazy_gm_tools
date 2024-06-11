@@ -19,11 +19,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** truesight 120', passive Perception 13
 - **Languages:** understand Abyssal but can’t speak
+
 ### Special Abilities
+
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Standing Leap:** Its long jump is up to 30' and its high jump is up to 15 ft. with or with o a running start.
 - **Sunlight Hypersensitivity:** Takes 20 radiant when it starts its turn in sunlight. If in sunlight: disadvantage on attacks/ability checks.
+
 ### Actions
+
 - **Multiattack:** One Bite and two Gores or three Spit Fires.
 - **Bite:** Melee Weapon Attack: +16 to hit, 5 ft., one target, 19 (2d8+10) bludgeoning damage + 9 (2d8) fire and target is grappled (escape DC 18). Until the grapple ends the target is restrained kogukhpak can automatically hit target with its Bite and kogukhpak can’t make Bite attacks vs. other targets.
 - **Gore:** Melee Weapon Attack: +16 to hit, 10 ft., one target, 37 (5d10+10) piercing damage.

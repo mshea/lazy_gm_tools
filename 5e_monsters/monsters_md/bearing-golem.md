@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone
 - **Senses:** darkvision 60 ft., tremorsense 30 ft., passive Perception 13
 - **Languages:** understands the languages of its creator but can’t speak
+
 ### Special Abilities
+
 - **Ambusher:** In the first round of combat, the golem has advantage on attack rolls against any creature it has surprised.
 - **False Appearance:** While the bearing golem is scattered, it is indistinguishable from a normal pile of ball bearings.
 - **Immutable Form:** The golem is immune to any spell or effect that would alter its form.
@@ -26,7 +28,9 @@
 - **Magic Weapons:** The golem’s weapon attacks are magical.
 - **Reform:** If the golem is scattered and has at least 1 hit point, it can reform as a bonus action in any space containing at least one of its ball bearings without provoking an opportunity attack. If it reforms within 5 feet of a prone creature, it can make one slam attack against that creature as part of this bonus action.
 - **Scatter:** As a bonus action, the bearing golem can disperse, scattering its ball bearings in a 15-foot cube, centered on the space it previously occupied. A creature moving through a space containing any of the golem’s ball bearings must succeed on a DC 15 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save. While scattered, the bearing golem can’t attack or move, except to reform, and it can’t be targeted by attacks or spells. It can still take damage from spells that deal damage in an area.
+
 ### Actions
+
 - **Multiattack:** The golem makes two slam attacks. Alternatively, it uses its Steel Shot twice.
 - **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Steel Shot:** Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.

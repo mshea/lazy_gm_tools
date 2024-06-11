@@ -19,7 +19,9 @@
 - **Condition Immunities:** charmed, exhaustion, paralyzed, petrified, poisoned, unconscious
 - **Senses:** darkvision 60 ft., tremorsense 60 ft; passive Perception 18
 - **Languages:** Sylvan, Terran
+
 ### Special Abilities
+
 - **Earth Glide:** The mountain dryad can burrow through nonmagical, unworked earth and stone. While doing so, the dryad doesn’t disturb the material it moves through.
 - **Magic Resistance:** The mountain dryad has advantage on saving throws against spells and other magical effects.
 - **Mountain’s Aspect:** Each day at sunrise, the mountain dryad chooses one of the following: 
@@ -27,7 +29,9 @@
 * Vaunted Peaks. The mountain dryad has advantage on Wisdom (Perception) checks until the next sunrise. 
 * Rockslider. As a bonus action once before the next sunrise, the mountain dryad can make the ground within 30 feet of it difficult terrain. This difficult terrain doesn’t cost the dryad extra movement.
 - **Siege Monster:** The mountain dryad deals double damage to objects and structures.
+
 ### Actions
+
 - **Multiattack:** The mountain dryad makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 27 (4d8 + 9) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +13 to hit, range 60/240 ft., one target. Hit: 31 (4d10 + 9) bludgeoning damage.

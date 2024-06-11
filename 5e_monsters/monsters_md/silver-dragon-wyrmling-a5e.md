@@ -16,9 +16,13 @@
 - **Damage Immunities:** cold
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 12
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Cloud Strider:** The dragon suffers no harmful effects from high altitude.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 20 (3d10 + 4) piercing damage.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Frost Breath:** The dragon exhales freezing wind in a 15-foot cone. Each creature in the area makes a DC 13 Constitution saving throw  taking 17 (5d6) cold damage on a failed save or half damage on a success.

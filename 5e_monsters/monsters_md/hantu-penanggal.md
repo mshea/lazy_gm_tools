@@ -19,7 +19,9 @@
 - **Condition Immunities:** poisoned
 - **Senses:** truesight 60 ft., passive Perception 10
 - **Languages:** Abyssal, Common, Infernal
+
 ### Special Abilities
+
 - **Detachable Head:** As a bonus action, the hantu penanggal detaches its head. The head trails entrails like flexible tentacles. While detached, the head and body act independently from each other on the same initiative, and each has hp equal to half its hp before detaching its head. Its statistics remain the same in both forms, except the body loses its truesight and gains blindsight out to a range of 60 feet.
 
 The head and body can use the whole form’s innate spellcasting trait, expending daily uses as normal. The two forms can rejoin into the fiend’s whole form as a bonus action if they are within 5 feet of each other. If the head is destroyed while it is detached, the body also perishes. If the body is destroyed while the head is detached, the head has disadvantage on attack rolls and ability checks until it acquires a new body. A creature within 30 feet of the penanggal and that can see the detachment must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
@@ -27,7 +29,9 @@ The head and body can use the whole form’s innate spellcasting trait, expendin
 At will: darkness, detect evil and good
 2/day each: protection from evil and good, scorching ray
 1/day each: gaseous form
+
 ### Actions
+
 - **Multiattack:** When detached, the hantu penanggal’s head makes one bite attack and one entrails attack, and its body makes two claw attacks. In its whole form, it can make three rapier attacks.
 - **Rapier (Whole Form Only):** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) necrotic damage.
 - **Claw (Body Only):** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage plus 3 (1d6) necrotic damage.

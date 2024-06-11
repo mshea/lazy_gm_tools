@@ -17,10 +17,14 @@
 - **Damage Immunities:** fire
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 - **Languages:** Common, Draconic, one more
+
 ### Special Abilities
+
 - **Self-Sufficient:** The brass dragon can subsist on only a quart of water and a pound of food per day.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 14). It can innately cast the following spells, requiring no material components. 3/day each:comprehend languages,
+
 ### Actions
+
 - **Multiattack:** The dragon attacks with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) fire damage.
 - **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.

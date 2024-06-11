@@ -15,9 +15,13 @@
 - **Skills:** perception +3
 - **Senses:** passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Keen Smell:** The bear has advantage on Perception checks that rely on smell.
+
 ### Actions
+
 - **Multiattack:** The bear attacks once with its bite and once with its claws.
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) piercing damage.
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) slashing damage.

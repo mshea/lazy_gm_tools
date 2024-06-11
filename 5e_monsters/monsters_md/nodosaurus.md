@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 11
 - **Languages:** -
+
 ### Special Abilities
+
 - **Swamp Camouflage:** The nodosaurus has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
+
 ### Actions
+
 - **Tail:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage.
 
 

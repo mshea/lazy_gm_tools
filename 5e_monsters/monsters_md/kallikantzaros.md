@@ -15,11 +15,15 @@
 - **Skills:** stealth +3
 - **Senses:** darkvision 60 ft., passive Perception 9
 - **Languages:** Sylvan, Undercommon
+
 ### Special Abilities
+
 - **Fey Ancestry:** The kallikantzaros has advantage on saving throws against being charmed, and magic can't put a kallikantzaros to sleep.
 - **Hateful Scents:** A kallikantzaros who begins its turn within 20 feet of burning incense must succeed on a DC 13 Constitution saving throw or have disadvantage on attack rolls until the start of its next turn. The kallikantzaros can't voluntarily move toward the incense. Burning old shoes has the same effect.
 - **Nimble Escape:** The kallikantzaros can take the Disengage or Hide action as a bonus action on each of its turns.
+
 ### Actions
+
 - **Multiattack:** The kallikantzaros makes two handsaw attacks or two spear attacks.
 - **Handsaw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. The handsaw does an extra die of damage against a target that is wearing no armor.
 - **Spear:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.

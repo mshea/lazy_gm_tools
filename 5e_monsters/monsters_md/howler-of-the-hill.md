@@ -19,10 +19,14 @@
 - **Condition Immunities:** charmed, frightened
 - **Senses:** truesight 120', passive Perception 19
 - **Languages:** understands Abyssal, Common, Infernal, and Void Speech but can’t speak, telepathy 120'
+
 ### Special Abilities
+
 - **Hungry Void Traveler:** Doesn’t require air drink or sleep.
 - **Inscrutable:** Immune to any effect that would sense its emotions or read its thoughts and any divination spell it refuses. Wis (Insight) checks made to ascertain its intentions/sincerity have disadvantage.
+
 ### Actions
+
 - **Multiattack:** Three Claw or Psychic Bolt attacks.
 - **Claw:** Melee Weapon Attack: +11 to hit, 5 ft., one target, 15 (2d8+6) slashing damage + 13 (3d8) psychic.
 - **Psychic Bolt:** Ranged Spell Attack: +9 to hit, 120 ft., one target, 26 (5d8+4) psychic.

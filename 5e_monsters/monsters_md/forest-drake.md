@@ -17,9 +17,13 @@
 - **Condition Immunities:** paralyzed, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Draconic, Druidic, Sylvan
+
 ### Special Abilities
+
 - **Mighty Leap:** The drake's long jump is up to 30 feet and its high jump is up to 15 feet with or without a running start. Additionally, if it ends its jump within 5 feet of a creature, the first attack roll it makes against that creature before the end of its turn has advantage.
+
 ### Actions
+
 - **Multiattack:** The forest drake makes one bite attack and one claw attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 3 (1d6) fire damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.

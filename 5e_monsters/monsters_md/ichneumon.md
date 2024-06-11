@@ -17,12 +17,16 @@
 - **Damage Resistances:** acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 120 ft., passive Perception 12
 - **Languages:** -
+
 ### Special Abilities
+
 - **Draconic Predator:** The ichneumon is immune to a dragon's Frightful Presence and has advantage on saving throws against the breath weapons of dragons.
 - **Evasion:** If the ichneumon is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the ichneumon instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 - **Keen Hearing and Smell:** The ichneumon has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 - **Mud Armor:** If the ichneumon spends an hour applying mud to itself, it can increase its AC by 2 for 8 hours.
+
 ### Actions
+
 - **Multiattack:** The ichneumon makes three attacks: two with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) piercing damage and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the ichneumon can't use its bite on another target.
 - **Claws:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) slashing damage.

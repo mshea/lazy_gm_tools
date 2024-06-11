@@ -17,11 +17,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 19
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Flyby:** The ala doesn’t provoke an opportunity attack when it flies out of an enemy’s reach.
 - **Poisonous Flesh:** The ala’s poison infuses its flesh. A creature that touches the ala or hits it with a melee attack while within 5 feet of it takes 7 (2d6) poison damage.
 - **Storm’s Strength:** If the ala is outside and an electrical storm is within 1 mile of it, creatures have disadvantage on their saving throws against the ala’s Lightning’s Kiss.
+
 ### Actions
+
 - **Multiattack:** The ala makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) poison damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 7 (2d6) poison damage.

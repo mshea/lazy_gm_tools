@@ -18,11 +18,15 @@
 - **Condition Immunities:** exhaustion, poisoned, prone
 - **Senses:** darkvision 60 ft., passive Perception 18
 - **Languages:** Common, Draconic, Infernal
+
 ### Actions
+
 - **Needle Fingers:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) piercing damage.
 - **Poison Ray:** Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 22 (4d8 + 4) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the end of its next turn.
 - **Spellcasting:** The cambium casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):<br>At will: alter self, detect thoughts, spare the dying<br>3/day each: hold person, protection from poison, heal<br>1/day: plane shift (self only)
+
 ### Bonus Actions
+
 - **Damage Ability:** The cambium twists the bodily humors of a creature within 30 feet of it that isn’t a Construct or Undead and that it hit with Needle Fingers in the past minute. The target must succeed on a DC 17 Constitution saving throw or its Strength, Dexterity, or Constitution score (the cambium’s choice) is reduced by 1d4. The target falls unconscious if this reduces an ability score to 0. This reduction lasts until the target finishes a long rest.
 - **Imbalance Humors:** If the cambium has hit a creature that isn’t a Construct or Undead with Needle Fingers in the past minute, it can cause a surge in one of the target’s bodily humors, causing an imbalance. The target must succeed on a DC 17 Constitution saving throw or suffer one of the following effects of the cambium’s choice. Unless noted otherwise, the target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Sanguine Flux:** The target can’t regain hp—naturally or magically—until after it finishes a long rest.

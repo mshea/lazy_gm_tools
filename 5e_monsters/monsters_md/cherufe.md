@@ -19,10 +19,14 @@
 - **Condition Immunities:** exhaustion, paralyzed, petrified, poisoned, prone
 - **Senses:** darkvision 60 ft., tremorsense 120 ft., passive Perception 17
 - **Languages:** Ignan, Terran
+
 ### Special Abilities
+
 - **Firewalker:** When the cherufe is subjected to fire damage, its speed doubles until the end of its next turn, and it can Dash or Disengage as a bonus action on its next turn.
 - **Internal Flame:** A creature that touches the cherufe or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage. In addition, the cherufe sheds dim light in a 30-foot radius.
+
 ### Actions
+
 - **Multiattack:** The cherufe makes four slam attacks. Alternatively, it can throw two magma balls.
 - **Slam:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage.
 - **Magma Ball:** Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage plus 11 (2d10) fire damage. Each creature within 5 feet of the target must succeed on a DC 18 Dexterity saving throw or take 7 (2d6) fire damage.

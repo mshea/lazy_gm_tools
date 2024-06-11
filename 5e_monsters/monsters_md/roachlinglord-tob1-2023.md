@@ -17,10 +17,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., tremorsense 10 ft., passive Perception 10
 - **Languages:** Common
+
 ### Special Abilities
+
 - **Hardy:** The roachling is immune to diseases and has advantage on Constitution saving throws.
 - **Unpleasant Scent:** The roachling has disadvantage on Wisdom (Animal Handling) checks when interacting with Beasts and on Charisma checks when interacting with Humanoids. If the roachling bathes meticulously, it loses this trait for 24 hours.
+
 ### Actions
+
 - **Multiattack:** The roachling lord makes two Begrimed Shortsword or Begrimed Dart attacks.
 - **Begrimed Shortsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 3 (1d6) poison damage.
 - **Begrimed Dart:** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) poison damage.

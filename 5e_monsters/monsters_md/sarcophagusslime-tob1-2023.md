@@ -19,10 +19,14 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 11
 - **Languages:** —
+
 ### Special Abilities
+
 - **Amorphous:** The sarcophagus slime can move through a space as narrow as 1 inch wide without squeezing.
 - **Undead Nature:** The sarcophagus slime doesn’t require air, food, drink, or sleep.
+
 ### Actions
+
 - **Multiattack:** The sarcophagus slime can use its Frightful Presence. It then makes two Slam attacks. It can replace one Slam attack with a use of Corrupting Gaze.
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 9 (2d8) acid damage.
 - **Corrupting Gaze:** One creature the sarcophagus slime can see within 30 feet of it must make a DC 15 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one. The target’s hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. A Humanoid slain by this effect rises 24 hours later as a sarcophagus slime, unless the Humanoid is restored to life or its body is destroyed.

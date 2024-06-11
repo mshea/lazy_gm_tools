@@ -18,10 +18,14 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone
 - **Senses:** darkvision 60', tremorsense 60', passive Perception 12
 - **Languages:** understands creator's languages but can’t speak
+
 ### Special Abilities
+
 - **Construct Nature:** Doesn’t require air food drink or sleep.
 - **Grassland Camouflage:** Has advantage on Dex (Stealth) checks made to hide in grassland terrain.
+
 ### Actions
+
 - **Multiattack:** One Bite attack and one Tail Whip attack.
 - **Bite:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 14 (2d8+5) piercing damage.
 - **Tail Whip:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 16 (2d10+5) bludgeoning damage.

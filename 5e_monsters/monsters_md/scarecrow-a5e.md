@@ -18,12 +18,16 @@
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
+
 ### Special Abilities
+
 - **False Appearance:** While motionless, the scarecrow is indistinguishable from an ordinary scarecrow.
 - **Flammable:** After taking fire damage, the scarecrow catches fire and takes 5 (1d10) ongoing fire damage if it isnt already suffering ongoing fire damage. A creature can spend an action to extinguish this fire.
 - **Local Spirit:** The scarecrow is destroyed if it travels more than a mile from the place it was created.
 - **Spell-created:** The DC for dispel magic to destroy this creature is 19.
+
 ### Actions
+
 - **Multiattack:** The scarecrow uses Scare and makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 - **Scare:** Each creature of the scarecrows choice within 30 feet that can see the scarecrow makes a DC 12 Wisdom saving throw. On a failure  it is magically frightened for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success. If a creatures saving throw is successful or the effect ends for it  it is immune to Scare for 24 hours.

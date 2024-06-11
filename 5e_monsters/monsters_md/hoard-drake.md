@@ -17,10 +17,14 @@
 - **Damage Immunities:** fire
 - **Senses:** darkvision 120 ft., passive Perception 13
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Miser’s Fury:** The hoard drake knows the scent of every coin, gem and item of value in its hoard. The drake has advantage on Wisdom (Perception and Survival) checks to find and track its hoard. In addition, it has advantage on attack rolls against a creature if the creature is in possession of any portion of its hoard.
 - **Treasure Sense:** A hoard drake can pinpoint, by scent, the location of precious metals and minerals, such as coins and gems, within 60 feet of it. In addition, it can differentiate between various types of metals and minerals and can determine if the metal or mineral is magical.
+
 ### Actions
+
 - **Multiattack:** The hoard drake makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage.

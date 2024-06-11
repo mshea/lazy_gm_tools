@@ -17,9 +17,13 @@
 - **Damage Resistances:** bludgeoning, piercing
 - **Senses:** passive Perception 10
 - **Languages:** one language known by its creator
+
 ### Special Abilities
+
 - **False Appearance:** While motionless, the tree is indistinguishable from a normal tree.
+
 ### Actions
+
 - **Slam:** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 14 (3d6+4) bludgeoning damage.
 
 

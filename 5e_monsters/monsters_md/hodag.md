@@ -16,11 +16,15 @@
 - **Condition Immunities:** charmed
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Charge:** If the hodag moves at least 10 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 5 (2d4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 - **Improved Critical:** The hodag’s teeth, claws, horns, and tail spikes are extra sharp. These weapon attacks score a critical hit on a roll of 19 or 20.
 - **Keen Hearing and Smell:** The hodag has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
 ### Actions
+
 - **Multiattack:** The hodag makes three melee attacks, but can use its bite and horn attacks only once each.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.

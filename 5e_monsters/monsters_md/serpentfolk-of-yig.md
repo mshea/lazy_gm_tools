@@ -18,11 +18,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Abyssal, Common, Draconic, Infernal, Void Speech
+
 ### Special Abilities
+
 - **Magic Resistance:** The serpentfolk has advantage on saving throws against spells and other magical effects.
 - **Innate Spellcasting:** The serpentfolk's innate spellcasting ability is Charisma (spell save DC 12). The serpentfolk can innately cast the following spells, requiring no material components:
 3/day each: charm person, disguise self
+
 ### Actions
+
 - **Multiattack:** The serpentfolk makes two attacks: one with its bite and one with its scimitar.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) poison damage.
 - **Scimitar:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.

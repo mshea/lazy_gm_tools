@@ -17,10 +17,14 @@
 - **Damage Resistances:** cold, radiant
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Void Speech
+
 ### Special Abilities
+
 - **Deathly Spores:** When a mi-go dies, its body crumbles into millions of spores. Each creature within 10 feet of the mi-go must succeed on a DC 15 Dexterity saving throw or take 14 (4d6) poison damage and be poisoned until the end of its next turn.
 - **Void Traveler:** The mi-go doesn’t require air, food, drink, sleep, or ambient pressure. It requires only minimal exposure to starlight a few times each year to sustain itself.
+
 ### Actions
+
 - **Multiattack:** The mi-go makes two Claw or Psychic Bolt attacks.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) slashing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature.
 - **Psychic Bolt:** Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 17 (3d6 + 7) psychic damage.

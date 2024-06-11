@@ -15,11 +15,15 @@
 - **Skills:** history +7, investigation +7, perception +6, stealth +7
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** telepathy 100 ft.
+
 ### Special Abilities
+
 - **Amphibious:** The gargoctopus can breathe air and water.
 - **Shifting Camouflage:** The gargoctopus has advantage on Dexterity (Stealth) checks made to hide.
 - **Spider Climb:** The gargoctopus can climb on difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
 ### Actions
+
 - **Multiattack:** The gargoctopus makes four tentacle attacks or one bite attack and three tentacle attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage.
 - **Tentacle:** Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). Until the grapple ends, the target is restrained, the gargoctopus can automatically hit the target with its tentacle, and it can't use the same tentacle on another target. The gargoctopus can grapple up to four creatures at one time.

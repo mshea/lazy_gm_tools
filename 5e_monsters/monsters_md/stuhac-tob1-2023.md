@@ -19,10 +19,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Abyssal, Common, Infernal, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Mountain Walk:** The stuhac can move across and climb rocky surfaces without needing to make an ability check. Additionally, difficult terrain composed of rocks or rocky debris doesn’t cost it extra movement.
 - **Standing Leap:** The stuhac’s long jump is up to 30 feet and tis high jump is up to 15 feet, with or without a running start.
+
 ### Actions
+
 - **Multiattack:** The stuhac can use Hobble. It then makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 20 (4d6 + 6) piercing damage.
 - **Claw:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 28 (5d8 + 6) slashing damage.

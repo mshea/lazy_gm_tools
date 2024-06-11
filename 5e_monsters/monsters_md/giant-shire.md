@@ -15,7 +15,9 @@
 - **Skills:** perception +0
 - **Senses:** passive Perception 10
 - **Languages:** Common, Giant
+
 ### Actions
+
 - **Multiattack:** Three Pitchfork attacks or it makes one Pitchfork attack then uses Grab and Throw. Alternatively it can make one pitchfork attack then use Grab and Throw.
 - **Pitchfork:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 20 (3d10+4) piercing damage.
 - **Rock:** Ranged Weapon Attack: +7 to hit 60/240' 20 (3d10+4) bludgeoning damage.

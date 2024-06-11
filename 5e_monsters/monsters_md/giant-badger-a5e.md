@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** darkvision 30 ft., passive Perception 11
 - **Languages:** 
+
 ### Special Abilities
+
 - **Keen Smell:** The badger has advantage on Perception checks that rely on smell.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6+1) piercing damage.
 
 

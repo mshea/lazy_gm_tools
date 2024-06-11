@@ -16,10 +16,14 @@
 - **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** -
+
 ### Special Abilities
+
 - **Trampling Charge:** If the oliphaunt moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the oliphaunt can make one stomp attack against it as a bonus action.
 - **Trunk Slam:** If the oliphaunt starts its turn with a target grappled, it can slam the target into the ground as a bonus action. The creature must make a DC 17 Constitution saving throw, taking 11 (2d10) bludgeoning damage on a failed save, or half as much damage on a successful one. This doesn't end the grappled condition on the target.
+
 ### Actions
+
 - **Multiattack:** The oliphaunt uses its trunk, then it makes one gore or stomp attack.
 - **Gore:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 30 (5d8 + 8) piercing damage.
 - **Stomp:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 35 (5d10 + 8) bludgeoning damage.

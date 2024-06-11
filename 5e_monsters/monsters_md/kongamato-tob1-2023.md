@@ -15,11 +15,15 @@
 - **Skills:** Perception +3
 - **Senses:** passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Breaker of Boats:** The kongamato deals double damage to objects and structures made of wood or lighter materials.
 - **Carry Off:** The kongamato can fly at half its flying speed when dragging two creatures it has grappled or at its full flying speed if dragging only one creature it has grappled.
 - **Flyby:** The kongamato doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+
 ### Actions
+
 - **Multiattack:** The kongamato makes one Beak attack and two Claw attacks.
 - **Beak:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage, and the target is grappled (escape DC 15) if it is a Medium or smaller creature. The kongamato has two claws, each of which can grapple only one target.

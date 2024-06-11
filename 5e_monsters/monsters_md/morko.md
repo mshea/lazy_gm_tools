@@ -16,9 +16,13 @@
 - **Damage Immunities:** fire, poison
 - **Senses:** passive Perception 12
 - **Languages:** Elvish, Sylvan
+
 ### Special Abilities
+
 - **Magic Resistance:** The morko has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Spear:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 - **Disdainful Eye (Recharge 6):** The morko fixes its gaze on a creature it can see within 30 feet. The target must make a DC 13 Wisdom saving throw or become cursed with ill manners, taking disadvantage on all ability checks and saving throws based on
 - **Charisma:** The curse lasts until removed by the remove curse spell or other magic, or until the creature drinks a pitcher of curdled milk.

@@ -19,10 +19,14 @@
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Giant
+
 ### Special Abilities
+
 - **Blood Sense:** A blood giant can pinpoint the location of living creatures within 60 feet of it and can sense the general direction of living creatures within 1 mile of it.
 - **Magic Weapons:** The blood giant's weapon attacks are magical.
+
 ### Actions
+
 - **Multiattack:** The blood giant makes two blood spear attacks.
 - **Blood Spear:** Melee Weapon Attack: +9 to hit, range 15 ft., one target. Hit: 19 (3d8 + 6) piercing damage plus 7 (2d6) cold damage.
 - **Rock:** Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.

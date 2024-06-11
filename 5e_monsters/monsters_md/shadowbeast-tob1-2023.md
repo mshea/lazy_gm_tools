@@ -18,12 +18,16 @@
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, restrained
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Elvish, Umbral, Void Speech
+
 ### Special Abilities
+
 - **Incorporeal Movement:** The shadow beast can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 - **Magic Resistance:** The shadow beast has advantage on saving throws against spells and other magical effects.
 - **Shadow Weapons:** The shadow beast’s weapon attacks are magical. When the shadow beast hits with any weapon, the weapon deals an extra 2d6 necrotic damage (included in the attack).
 - **Sunlight Sensitivity:** While in sunlight, the shadow beast has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
 ### Actions
+
 - **Multiattack:** The shadow beast makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 7 (2d6) necrotic damage.

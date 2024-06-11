@@ -15,10 +15,14 @@
 - **Skills:** perception +3
 - **Senses:** darkvision 60', passive Perception 15
 - **Languages:** Common, Elvish, Sylvan
+
 ### Special Abilities
+
 - **Painted for War:** Advantage on Cha (Intimidation) checks and advantage on savings throws vs. being frightened. In addition each friendly creature within 10 ft. of warrior and that can see it has advantage on saves vs. being frightened.
 - **Woodfriend:** When in a forest alseid leave no tracks and automatically discern true north.
+
 ### Actions
+
 - **Multiattack:** Two Greatsword or Shortbow attacks.
 - **Greatsword:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 9 (2d6+2) slashing damage.
 - **Shortbow:** Ranged Weapon Attack: +6 to hit 80/320' one target 6 (1d6+3) piercing damage.

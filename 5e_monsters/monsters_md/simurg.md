@@ -17,14 +17,18 @@
 - **Damage Resistances:** radiant
 - **Senses:** darkvision 120 ft., passive Perception 16
 - **Languages:** all, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Flyby:** The simurg doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 - **Keen Sight:** The simurg has advantage on Perception (Wisdom) checks that rely on sight.
 - **Innate Spellcasting:** The simurg's innate spellcasting ability is Wisdom (spell save DC 14). The simurg can innately cast the following spells, requiring no material components:
 At will: detect poison and disease, detect thoughts, spare the dying
 2/day each: cure wounds, lesser restoration, purify food and drink
 1/day each: greater restoration, remove curse
+
 ### Actions
+
 - **Multiattack:** The simurg makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.

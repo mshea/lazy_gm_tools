@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed
 - **Senses:** darkvision 60 ft., passive Perception 18
 - **Languages:** the languages it knew in life
+
 ### Special Abilities
+
 - **Misty Escape:** When she drops to 0 hp outside her resting place, the vampire priestess transforms into a cloud of mist instead of falling unconscious, provided that she isn't in running water. If she can't transform, she is destroyed. While she has 0 hp in mist form, she can't revert to her priestess form, and she must reach her resting place within 2 hours or be destroyed. 
 
 While in mist form she can't take any actions, speak, or manipulate objects. She is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, she can do so without squeezing, and she can't pass through water. She has advantage on Strength, Dexterity, and Constitution saving throws, and she is immune to all nonmagical damage, except the damage she takes from sunlight. 
@@ -37,7 +39,9 @@ Forbiddance. The priestess can't enter a residence without an invitation from on
 Harmed by Running Water. The priestess takes 20 acid damage if she ends her turn in running water.
 Stake to the Heart. If a piercing weapon made of wood is driven into the priestess' heart while she is incapacitated in her resting place, the she is paralyzed until the stake is removed.
 Sunlight Hypersensitivity. The priestess takes 20 radiant damage when she starts her turn in sunlight. While in sunlight, she has disadvantage on attack rolls and ability checks.
+
 ### Actions
+
 - **Multiattack:** The vampire priestess can use her Bewitching Gaze. She then makes two attacks, only one of which can be a bite attack.
 - **Scourge:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, and the creature must succeed on a DC 16 Constitution saving throw or bleed profusely from the wound. A bleeding creature takes 7 (2d6) slashing damage at the start of each of its turns. A creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire priestess, incapacitated, or restrained. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hp maximum is reduced by an amount equal to the necrotic damage taken, and the priestess regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the priestess' control.

@@ -19,10 +19,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Underwater Camouflage:** The coral drake has advantage on Dexterity (Stealth) checks made while underwater.
 - **Water Breathing:** The coral drake can breathe only underwater.
+
 ### Actions
+
 - **Multiattack:** The coral drake makes one Bite attack and two Spined Fin attacks. It can replace its Bite attack with a Stinger attack.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
 - **Spined Fin:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.

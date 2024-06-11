@@ -15,10 +15,14 @@
 - **Skills:** perception +3, stealth +7
 - **Senses:** passive Perception 13
 - **Languages:** Sylvan
+
 ### Special Abilities
+
 - **Faerie Light:** As a bonus action, the pixie can cast dim light for 30 feet, or extinguish its glow.
 - **Magic Resistance:** The pixie has advantage on saving throws against spells and magical effects.
+
 ### Actions
+
 - **Thorn Dagger:** Melee or Ranged Weapon Attack: +7 to hit  reach 5 ft. or range 10/30 ft.  one target. Hit: 1 piercing damage.
 - **Faerie Blessing (3/Day):** The pixie targets a willing creature within 30 feet. The target gains one of the following abilities for 1 hour:
 - **The target gains truesight out to a range of 120 feet:** 
@@ -30,7 +34,9 @@
 - **The target is charmed by the pixie:** 
 - **If the target is already charmed by the pixie, the target falls asleep:** It wakes if it is shaken awake as an action or if it takes damage.
 - **The targets head takes on the appearance of a beasts head (donkey, wolf, etc):** The targets statistics dont change  but the target can no longer speak; it can only make animal noises.
+
 ### Bonus Actions
+
 - **Invisibility:** The pixie and any equipment it wears or carries magically turns invisible until the pixie attacks, casts a spell, becomes incapacitated, or uses a bonus action to become visible.
 
 

@@ -18,13 +18,17 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., truesight 10 ft., passive Perception 16
 - **Languages:** Common, Draconic, Primordial
+
 ### Special Abilities
+
 - **Amphibious:** The bathhouse drake can breathe air and water.
 - **Soapy:** The bathhouse drake has advantage on ability checks and saving throws made to escape a grapple.
 - **Innate Spellcasting:** The bathhouse drake's innate spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 At will: create or destroy water, misty step, prestidigitation
 3/day each: control water, fog cloud, gaseous form, lesser restoration
+
 ### Actions
+
 - **Multiattack:** The bathhouse drake makes three melee attacks: one with its bite and two with its claws. Alternatively, it can use Scalding Jet twice.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.

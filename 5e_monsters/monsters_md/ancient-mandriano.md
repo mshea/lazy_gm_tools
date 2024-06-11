@@ -19,9 +19,13 @@
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Siege Monster:** The ancient mandriano deals double damage to objects and structures.
+
 ### Actions
+
 - **Multiattack:** The ancient mandriano makes two swipe attacks.
 - **Swipe:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 15 (3d6 + 5) slashing damage. If the target is Medium or smaller, it is grappled (escape DC 16). Until this grapple ends, the target is restrained. It can grapple up to three creatures.
 - **Consume the Spark:** The mandriano drains the essence of one grappled target. The target must make a DC 16 Constitution saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. The target's hp maximum is reduced by an amount equal to the necrotic damage taken, and the mandriano regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. A humanoid slain in this way rises 24 hours later as a zombie or skeleton under the mandriano's control, unless the humanoid is restored to life or its body is destroyed. The mandriano can control up to twelve undead at one time.

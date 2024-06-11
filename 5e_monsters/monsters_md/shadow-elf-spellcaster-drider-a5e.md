@@ -16,13 +16,17 @@
 - **Damage Resistances:** poison
 - **Senses:** darkvision 120 ft., passive Perception 16
 - **Languages:** Undercommon, Elvish, one more
+
 ### Special Abilities
+
 - **Spider Climb:** The drider can use its climb speed even on difficult surfaces and upside down on ceilings.
 - **Sunlight Sensitivity:** While in sunlight, the drider has disadvantage on attack rolls, as well as on Perception checks that rely on sight.
 - **Web Walker:** The drider ignores movement restrictions imposed by webs.
 - **Fey Ancestry:** The drider gains an expertise die on saving throws against being charmed, and magic can't put it to sleep.
 - **Innate Spellcasting:** The driders innate spellcasting ability is Wisdom (spell save DC 14). The drider can innately cast the following spells, requiring no material components: At will: dancing lights, 1/day each: darkness, web
+
 ### Actions
+
 - **Multiattack:** The drider makes a claws attack and then either a bite or longsword attack. Alternatively  it makes two longbow attacks.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 15 (2d10 + 4) piercing damage  and the target is grappled (escape DC 15). While grappling a target  the drider can't attack a different target with its claws.
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one grappled creature. Hit: 2 (1d4) piercing damage plus 13 (3d8) poison damage.

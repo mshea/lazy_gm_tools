@@ -18,9 +18,13 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Rust Drake Lockjaw:** A creature infected with this disease manifests symptoms 1d4 days after infection, which include painful muscle spasms, particularly in the jaw. At the end of each long rest, the infected creature must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 hour and have its Dexterity score reduced by 1d4. This reduction lasts until the disease is cured. If the disease reduces the creature’s Dexterity to 0, the creature dies. A creature that succeeds on two saving throws recovers from the disease.
+
 ### Actions
+
 - **Multiattack:** The drake makes one Bite attack and two Tail Swipe attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) piercing damage, and the target must succeed on a DC 15 Constitution save or contract the rust drake lockjaw disease (see the Rust Drake Lockjaw trait).
 - **Tail Swipe:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.

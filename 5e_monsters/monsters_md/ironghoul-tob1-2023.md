@@ -16,10 +16,14 @@
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Darakhul, Undercommon
+
 ### Special Abilities
+
 - **Hungry Dead Nature:** The ghoul requires no air or sleep.
 - **Turning Defiance:** The iron ghoul and any ghouls within 30 feet of it have advantage on saving throws against effects that turn Undead.
+
 ### Actions
+
 - **Multiattack:** The iron ghoul makes one Bite attack and one Claw attack, or it makes three Glaive attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage. If the target is a Humanoid, it must succeed on a DC 13 Constitution saving throw or contract the darakhul fever disease (see the Darakhul Fever sidebar).
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 18 (4d6 + 4) slashing damage. If the target is a creature other than an elf or Undead, it must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

@@ -18,11 +18,15 @@
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60', passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Glowing Organs:** While underwater its internal organs glow an eerie pale blue shedding dim light in a 10 ft. radius.
 - **Hold Breath:** While out of water can hold its breath for 30 min.
 - **Water Breathing:** Can breathe only underwater.
+
 ### Actions
+
 - **Multiattack:** Two Tentacle Lashes and one Stinging Tentacle.
 - **Tentacle Lash:** Melee Weapon Attack: +8 to hit, 15 ft., one target, 14 (3d6+4) bludgeoning damage.
 - **Stinging Tentacle:** Melee Weapon Attack: +8 to hit, 15 ft., one target, 7 (1d6+4) piercing damage + 9 (2d8) poison. Target must make DC 16 Con save or be paralyzed for 1 min. A frightened creature has disadvantage on this save. Paralyzed target can re-save at end of each of its turns success ends effect on itself.

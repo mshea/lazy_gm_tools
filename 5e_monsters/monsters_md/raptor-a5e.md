@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 11
 - **Languages:** 
+
 ### Special Abilities
+
 - **Pack Tactics:** The raptor has advantage on attack rolls against a creature if at least one of the raptors allies is within 5 feet of the creature and not incapacitated.
+
 ### Actions
+
 - **Claw:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (1d10 + 3) slashing damage. If the target is a Medium or smaller creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
 
 

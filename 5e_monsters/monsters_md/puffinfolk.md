@@ -15,13 +15,19 @@
 - **Skills:** perception +2
 - **Senses:** darkvision 60', passive Perception 12
 - **Languages:** Aquan, Common
+
 ### Special Abilities
+
 - **Blessings of the Sea Gods:** Has advantage on saves while flying over or swimming in ocean waters.
 - **Hardy Ocean Explorers:** Considered a Med creature when determining its carrying capacity. Holds its breath 30 min.
 - **Oceanic Recall:** Can perfectly recall any path it has traveled above or within an ocean.
+
 ### Actions
+
 - **Peck:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d6+4) piercing damage.
+
 ### Reactions
+
 - **Quick and Nimble:** When a creature the puffinfolk can see targets it with melee or ranged weapon attack puffinfolk darts out of the way and attacker has disadvantage on the attack.
 
 

@@ -18,9 +18,13 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120', passive Perception 13
 - **Languages:** understands Common and Undercommon but can’t speak, telepathy 120' (with other fungi only)
+
 ### Special Abilities
+
 - **Light Absorption:** Light within 60' of the duskwilt is reduced. Bright light in the area becomes dim light and dim light in the area becomes darkness.
+
 ### Actions
+
 - **Multiattack:** Three Slam or Nether Bolt attacks.
 - **Slam:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d4+4) bludgeoning damage + 3 (1d6) necrotic.
 - **Nether Bolt:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 9 (2d6+2) necrotic.

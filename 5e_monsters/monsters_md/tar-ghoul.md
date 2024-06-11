@@ -18,9 +18,13 @@
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Darakhul
+
 ### Special Abilities
+
 - **Fire Hazard:** As a bonus action or when it takes fire damage, the tar ghoul bursts into flame. The tar ghoul continues burning until it takes cold damage or is immersed in water. A creature that touches the tar ghoul or hits it with a melee attack while within 5 feet of it while it is burning takes 3 (1d6) fire damage. While burning, a tar ghoul deals an extra 3 (1d6) fire damage on each melee attack, and its vomit tar action is a 15-foot cone that ignites immediately. Each creature in that area must make a DC 13 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+
 ### Actions
+
 - **Multiattack:** The tar ghoul makes one bite attack and one claw attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 11 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

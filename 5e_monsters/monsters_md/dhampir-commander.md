@@ -17,10 +17,14 @@
 - **Damage Resistances:** necrotic
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common
+
 ### Special Abilities
+
 - **Inspiring Savagery:** Each ally within 30 feet of the dhampir that can see it can make one melee attack as a bonus action.
 - **Undead Resistance:** The dhampir has advantage on saving throws against disease.
+
 ### Actions
+
 - **Multiattack:** The dhampir makes four rapier or four shortbow attacks. It can make a grapple attack or Dark Thirst attack in place of any attack.
 - **Rapier:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Shortbow:** Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.

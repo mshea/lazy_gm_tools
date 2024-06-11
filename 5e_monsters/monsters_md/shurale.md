@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Magic Weapons:** The shurale’s weapon attacks are magical.
 - **Magic Resistance:** The shurale has advantage on saving throws against spells and other magical effects.
 - **Mirthful Regeneration:** The shurale regains 5 hp at the start of its turn for each creature within 30 feet of it that is incapacitated with laughter from its Tickle action. If a creature dies while suffering from the laughter, the shurale gains 15 temporary hp.
@@ -26,7 +28,9 @@
 At will: dancing lights, invisibility (self only), minor illusion
 3/day each: detect thoughts, major image, misty step
 1/day: confusion
+
 ### Actions
+
 - **Multiattack:** The shurale can use Tickle. It then makes three attacks: one with its gore and two with its battleaxe.
 - **Battleaxe:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 - **Gore:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.

@@ -17,14 +17,20 @@
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** understands the languages of its creator but can't speak
+
 ### Special Abilities
+
 - **Immutable Form:** The guardian is immune to any effect that would alter its form.
 - **Keen Hearing and Smell:** The guardian has advantage on Perception checks that rely on hearing or smell.
 - **Magic Resistance:** The guardian has advantage on saving throws against spells and magical effects.
 - **Constructed Nature:** Guardians dont require air, sustenance, or sleep.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (2d4 + 3) piercing damage. If the target is a creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
+
 ### Reactions
+
 - **Protective Bite:** When a creature within 5 feet hits the guardians owner with a melee attack, the guardian bites the attacker.
 
 

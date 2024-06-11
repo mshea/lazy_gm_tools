@@ -18,10 +18,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9
 - **Languages:** Abyssal
+
 ### Special Abilities
+
 - **Chaotic Evil:** The dretch radiates a Chaotic and Evil aura.
 - **Energy-Sucking Aura:** A non-demon creature that takes an action or bonus action while within 10 feet of a dretch can't take another action, bonus action, or reaction until the start of its next turn.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) piercing damage.
 
 

@@ -18,12 +18,16 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
+
 ### Special Abilities
+
 - **Antimagic Susceptibility:** The snake is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the snake must succeed on a Constitution saving throw against the caster's spell save DC or return to the textile to which it is bound for 1 minute.
 - **Immutable Form:** The snake is immune to any spell or effect that would alter its form.
 - **Magic Weapons:** The snake's weapon attacks are magical.
 - **Shifting Form:** The snake can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+
 ### Actions
+
 - **Constrict:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage and the creature is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
 

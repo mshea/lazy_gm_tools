@@ -18,11 +18,15 @@
 - **Condition Immunities:** frightened, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Living Projection:** The yowler’s undead form is constantly covered with a magical illusion that makes it look like it did in life. This effect is suppressed for 1 minute if the yowler attacks or uses Yowl.
 
 The changes wrought by this illusion fail to hold up to physical inspection. For example, the yowler’s fur appears soft and silky, but someone touching it would feel the yowler’s rotten fur and exposed bones. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 15 Intelligence (Investigation) check to discern the yowler’s true appearance.
+
 ### Actions
+
 - **Multiattack:** The yowler makes two attacks: one with its bite and one with its claws. It can use Yowl in place of a bite attack.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned until the end of its next turn.
 - **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.

@@ -19,10 +19,14 @@
 - **Condition Immunities:** fatigue, petrified, poisoned, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Terran
+
 ### Special Abilities
+
 - **False Appearance:** While motionless, the gargoyle is indistinguishable from a normal statue.
 - **Elemental Nature:** Gargoyles dont require air, sustenance, or sleep.
+
 ### Actions
+
 - **Multiattack:** The gargoyle attacks with its bite and its claws.
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage  or 9 (2d6 + 2) slashing damage if the gargoyle started its turn at least 20 feet above the target.

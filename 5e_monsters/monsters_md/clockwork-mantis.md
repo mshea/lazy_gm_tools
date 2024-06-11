@@ -17,12 +17,16 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** understands Common but can’t speak
+
 ### Special Abilities
+
 - **Hobbling Strike:** When the clockwork mantis makes a successful opportunity attack, the target’s speed is reduced to 0 until the start of its next turn.
 - **Immutable Form:** The clockwork mantis is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The clockwork mantis has advantage on saving throws against spells and other magical effects.
 - **Standing Leap:** The clockwork mantis’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+
 ### Actions
+
 - **Multiattack:** The clockwork mantis makes two serrated blade attacks. If both attacks hit the same target, the mantis can make a bite attack against another target within range as a bonus action.
 - **Serrated Blade:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.

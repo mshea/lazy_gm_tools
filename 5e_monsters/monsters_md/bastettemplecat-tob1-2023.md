@@ -15,10 +15,14 @@
 - **Skills:** Perception +5, Stealth +6
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Keen Smell:** The temple cat has advantage on Wisdom (Perception) checks that rely on smell.
 - **Priestly Purr:** When a cleric or paladin who worships Bastet spends an hour preparing spells while a Bastet temple cat is within 5 feet of it, that spellcaster can choose two 1st-level spells and one 2nd-level spell that it is able to cast and imbue the temple cat with the spells. The spellcaster doesn’t expend spell slots to imbue the cat in this way. The cat can be imbued with no more than three spells at a time. The cat can use the Spellcasting action to cast each spell once, requiring no material components. Once the spells are expended, the temple cat must finish a long rest before it can be imbued with spells again.
+
 ### Actions
+
 - **Multiattack:** The temple cat makes one Bite attack and one Claws attack.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d4 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.

@@ -18,9 +18,13 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** any languages it knew in life
+
 ### Special Abilities
+
 - **Incorporeal Movement:** The lady in white can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
 ### Actions
+
 - **Grasp:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) necrotic damage, and, if the target is a Large or smaller humanoid, the lady in white attaches to it. The lady in white attaches to the target's back, where it is unable to see the lady in white. The lady in white can detach itself by spending 5 feet of its movement. A creature, other than the target, can take its action to detach the lady in white by succeeding on a DC 14 Strength check.
 - **Inflict Sorrow:** The lady in white makes one grasp attack against the target to which it is attached. If the attack hits, the target's Charisma score is reduced by 1d4. The target dies if this reduces its Charisma to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a female humanoid dies from this attack, a new lady in white rises from the corpse 1d4 hours later.
 - **Invisibility:** The lady in white turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell).

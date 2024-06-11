@@ -17,7 +17,9 @@
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
+
 ### Special Abilities
+
 - **Berserk:** When the guardian starts its turn while bloodied, roll a d6. On a 6, the guardian goes berserk. While berserk, the guardian attacks the nearest creature it can see. If it can't reach a creature, it attacks an object. The guardian stays berserk until it is destroyed or restored to full hit points.
 - **If a berserk guardian can see and hear its creator, the creator can use an action to try to calm it by making a DC 15 Persuasion check:** On a success, the guardian is no longer berserk.
 - **Fire Fear:** When the guardian takes fire damage, it is rattled until the end of its next turn.
@@ -25,7 +27,9 @@
 - **Lightning Absorption:** When the guardian is subjected to lightning damage, it instead regains hit points equal to the lightning damage dealt.
 - **Magic Resistance:** The guardian has advantage on saving throws against spells and magical effects.
 - **Constructed Nature:** Guardians dont require air, sustenance, or sleep.
+
 ### Actions
+
 - **Multiattack:** The guardian attacks twice with its slam.
 - **Slam:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Hurl Object:** Ranged Weapon Attack: +7 to hit  range 20/60 ft.  one target. Hit: 18 (4d6 + 4) bludgeoning damage.

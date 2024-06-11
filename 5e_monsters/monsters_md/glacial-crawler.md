@@ -18,12 +18,16 @@
 - **Condition Immunities:** blinded, prone
 - **Senses:** blindsight 60' (blind beyond), tremorsense 60', passive Perception 18
 - **Languages:** —
+
 ### Special Abilities
+
 - **Acidic Coating:** A creature that touches the crawler or hits it with melee attack while within 5 ft. of it takes 9 (2d8) acid.
 - **Amphibious:** Can breathe air and water.
 - **Snow Camouflage:** Has advantage on Dex (Stealth) checks made to hide in snowy terrain.
 - **Tunneler:** Can burrow through ice snow and permafrost and leaves a 5 ft. diameter tunnel in its wake.
+
 ### Actions
+
 - **Multiattack:** 2 Bites and 1 Tail Spike or 3 Superheated Acid Spits.
 - **Bite:** Melee Weapon Attack: +9 to hit, 10 ft., one creature,. 16 (2d10+5) piercing damage + 9 (2d8) acid.
 - **Tail Spike:** Melee Weapon Attack: +9 to hit, 10 ft., one creature,. 19 (4d6+5) piercing damage. Target is grappled (escape DC 17) if it is a Large or smaller creature and crawler doesn’t have another creature grappled.

@@ -18,13 +18,17 @@
 - **Condition Immunities:** fatigue
 - **Senses:** darkvision 120 ft., tremorsense 120 ft. (only detects vibrations in water), passive Perception 17
 - **Languages:** Aquan, Common, Draconic
+
 ### Special Abilities
+
 - **Amphibious:** The dragon can breathe air and water.
 - **Flowing Grace:** The dragon doesnt provoke opportunity attacks when it flies or swims out of an enemys reach.
 - **Shimmering Scales:** While in water, the dragon gains three-quarters cover from attacks made by creatures more than 30 feet away.
 - **Essence Link:** The essence dragon is spiritually linked to a specific area or landmark. The dragon gains no benefit from a long rest when more than 1 mile away from its linked area. If the dragon dies, the area it is linked to loses its vital essence until it forms a new essence dragon, which can take centuries. When a creature first enters an area that has lost its vital essence in this way, they gain a level of fatigue and a level of strife. This fatigue and strife can be removed only by completing a long rest outside the area.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 13). It can innately cast the following spells, requiring no material components. 3/day each:create or destroy water, fog cloud
+
 ### Actions
+
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 19 (3d10 + 3) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 12 (2d8 + 3) slashing damage.

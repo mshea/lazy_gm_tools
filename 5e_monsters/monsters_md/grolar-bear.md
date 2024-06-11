@@ -16,9 +16,13 @@
 - **Damage Resistances:** cold
 - **Senses:** passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
+
 ### Actions
+
 - **Multiattack:** One Bite and one Claw. If it hits one creature with both creature: DC 13 Str save or take 7 (2d6) bludgeoning damage and be knocked prone.
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 9 (1d8+5) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 12 (2d6+5) slashing damage.

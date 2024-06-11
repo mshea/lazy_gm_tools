@@ -16,11 +16,15 @@
 - **Skills:** Deception +5, Intimidation +5, Perception +10
 - **Senses:** darkvision 120 ft., passive Perception 20
 - **Languages:** Common, Feather Speech, Ravenfolk
+
 ### Special Abilities
+
 - **Magic Resistance:** The doom croaker has advantage on saving throws against spells and other magical effects.
 - **Mimicry:** The ravenfolk doom croaker can mimic animal sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 15 Wisdom (Insight) check.
 - **Rune-Powered Weapons:** The ravenfolk’s weapon attacks are magical. When the ravenfolk hits with any weapon, the weapon deals an extra 2d8 radiant damage (included in the attack).
+
 ### Actions
+
 - **Multiattack:** The doom croaker makes one Peck attack and one Runestaff attack, or it makes two Rune Blast attacks. It can replace one attack with a use of Ghost Wings or Prophetic Call, if available.
 - **Peck:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage plus 9 (2d8) radiant damage.
 - **Runestaff:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) radiant damage.

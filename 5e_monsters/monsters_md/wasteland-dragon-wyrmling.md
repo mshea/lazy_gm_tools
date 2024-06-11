@@ -17,7 +17,9 @@
 - **Damage Immunities:** force
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 12
 - **Languages:** Draconic
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage.
 - **Warped Energy Breath (Recharge 6):** The dragon blasts warped arcane energy in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) force damage on a failed save, or half as much damage on a successful one.
 

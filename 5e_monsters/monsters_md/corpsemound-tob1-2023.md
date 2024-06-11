@@ -18,12 +18,16 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** understands Common but can’t speak
+
 ### Special Abilities
+
 - **Absorb the Dead:** Whenever a Large or smaller creature that isn’t a Construct or Undead dies within 10 feet of the corpse mound, that creature’s remains join with the mound, and the mound regains hp equal to twice the CR or level of the absorbed creature. The absorbed creature can’t be returned to life by any spell or effect that requires a body, unless the body is retrieved from the corpse mound.
 - **Noxious Aura:** At the end of each of the corpse mound’s turns, each creature within 20 feet of it must succeed on a DC 17 Constitution saving throw or become poisoned until the end of its next turn. On a successful saving throw, the creature is immune to the mound’s Noxious Aura for 24 hours.
 - **Undead Nature:** The corpse mound doesn’t require air, food, drink, or sleep.
 - **Zombie Drop:** At the start of each of the corpse mound’s turns, it can choose to have one corpse fall from it and immediately rise as a zombie under its control. The mound can have no more than ten zombies under its control at one time. Zombies take their turns immediately after the corpse mound’s turn.
+
 ### Actions
+
 - **Multiattack:** The corpse mound makes two Slam or Bone Shard attacks. If both Slam attacks hit a Large or smaller target, the corpse mound can immediately use Envelop on it.
 - **Slam:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 18 (2d10 + 7) bludgeoning damage plus 10 (3d6) necrotic damage, and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained.
 - **Bone Shard:** Ranged Weapon Attack: +11 to hit, range 30/120 ft., one target. Hit: 14 (2d6 + 7) piercing damage plus 10 (3d6) necrotic damage, and the target must succeed on a DC 17 Strength saving throw or be knocked prone and restrained as it is pinned to the ground by the shard. A creature, including the restrained target, can take its action to free the target by succeeding on a DC 17 Strength check.

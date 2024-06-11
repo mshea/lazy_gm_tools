@@ -16,15 +16,21 @@
 - **Skills:** Acrobatics +11, Perception +3, Stealth +11
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Gnoll, Sylvan, Void Speech
+
 ### Special Abilities
+
 - **Flyby:** The aridni doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 - **Magic Resistance:** The aridni has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The aridni makes three Shortsword or Pixie Bow attacks.
 - **Shortsword:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
 - **Pixie Bow:** Ranged Weapon Attack: +8 to hit, range 40/160 ft., one target. Hit: 10 (2d4 + 5) piercing damage.
 - **Spellcasting:** The aridni casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):<br>At will: dancing lights, detect magic, invisibility<br>3/day each: charm person, faerie fire<br>1/day: spike growth
+
 ### Bonus Actions
+
 - **Enchanted Arrows:** The aridni enchants one arrow with minor magic. The next time it hits a creature with a Pixie Bow attack before the start of its next turn, the target must succeed on a DC 14 Wisdom saving throw or suffer one of the following effects:
 - **Confusion:** The target can’t take reactions and acts randomly until the end of its next turn, as if it had failed the saving throw against the confusion spell.
 - **Fear:** The target is frightened until the end of its next turn and must spend its next turn moving away from the aridni by the safest available route.

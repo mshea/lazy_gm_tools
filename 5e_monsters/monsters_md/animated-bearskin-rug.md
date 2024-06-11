@@ -17,11 +17,15 @@
 - **Condition Immunities:** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 6
 - **Languages:** —
+
 ### Special Abilities
+
 - **Antimagic Susceptibility:** The bearskin rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 - **Damage Transfer:** While it is grappling a creature, the bearskin rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
 - **False Appearance:** While the bearskin rug remains motionless, it is indistinguishable from a normal bearskin rug.
+
 ### Actions
+
 - **Multiattack:** The animated bearskin rug makes two attacks: one with its bite and one with its claws. It can use its Envelop in place of its claw attack.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target not grappled by the bearskin rug. Hit: 11 (2d6 + 4) slashing damage.

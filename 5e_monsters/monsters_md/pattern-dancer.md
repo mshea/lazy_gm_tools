@@ -16,7 +16,9 @@
 - **Skills:** acrobatics +5, deception +5, performance +7
 - **Senses:** darkvision 120 ft., passive Perception 11
 - **Languages:** Common, Elvish
+
 ### Special Abilities
+
 - **Fey Ancestry:** The shadow fey has advantage on saving throws against being charmed, and magic can't put it to sleep.
 - **Shadow Traveler (1/Day):** As a bonus action while in shadows, dim light, or darkness, the shadow fey disappears into the darkness and reappears in an unoccupied space it can see within 30 feet. A tendril of inky smoke appears at the origin and destination when it uses this trait.
 - **Sunlight Sensitivity:** While in sunlight, the shadow fey has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
@@ -30,7 +32,9 @@ Cantrips (at will): dancing lights, friends, minor illusion, poison spray
 At will: hold person
 3/day: fear, sleep
 1/day: confusion, hypnotic pattern
+
 ### Actions
+
 - **Shortsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Longbow:** Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 

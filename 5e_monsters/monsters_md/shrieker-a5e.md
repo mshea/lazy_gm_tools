@@ -17,9 +17,13 @@
 - **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone, restrained, stunned
 - **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 6
 - **Languages:** 
+
 ### Special Abilities
+
 - **False Appearance:** While motionless, the shrieker is indistinguishable from a normal fungus.
+
 ### Reactions
+
 - **Shriek:** If the shrieker perceives a creature within 30 feet  or if an area of bright light is within 30 feet  it shrieks loudly and continuously. The shriek is audible within 300 feet. The shrieker continues to shriek for 1 minute after the creature or light has moved away.
 
 

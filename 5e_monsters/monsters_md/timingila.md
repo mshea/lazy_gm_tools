@@ -18,10 +18,14 @@
 - **Condition Immunities:** frightened
 - **Senses:** blindsight 120 ft., passive Perception 18
 - **Languages:** understands Abyssal, Celestial, Draconic, and Infernal but can’t speak
+
 ### Special Abilities
+
 - **Siege Monster:** The timingila deals double damage to objects and structures.
 - **Water Breathing:** The timingila can breathe only underwater.
+
 ### Actions
+
 - **Multiattack:** The timingila makes four attacks: one with its bite, one with its tail slap, and two with its flippers.
 - **Bite:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 25 (3d10 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Dexterity saving throw or be swallowed by the timingila. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the timingila, and it takes 21 (6d6) acid damage at the start of each of the timingila’s turns.<br><br>If the timingila takes 30 damage or more on a single turn from a creature inside it, the timingila must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the timingila. If the timingila dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
 - **Flipper:** Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 16 (2d6 + 9) bludgeoning damage.

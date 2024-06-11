@@ -17,7 +17,9 @@
 - **Damage Resistances:** radiant
 - **Senses:** passive Perception 15
 - **Languages:** any three
+
 ### Special Abilities
+
 - **Anointed Healing:** Whenever the archpriest casts a spell that restores hit points, that spell restores an extra 11 (2d10) hit points.
 - **Magic Resistance:** The archpriest has advantage on saving throws against spells and magical effects.
 - **Spellcasting:** The archpriest is a 20th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 18
@@ -52,14 +54,18 @@
  fire storm
  8th-level (1 slot): antimagic field
  9th-level (1 slot): mass heal
+
 ### Actions
+
 - **Multiattack:** The archpriest attacks twice.
 - **Mace:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 8 (1d6 + 5) bludgeoning damage plus 10 (3d6) radiant damage.
 - **Flame Strike (5th-Level; V, S, M):** A column of divine flame fills a 10-foot-radius  40-foot-high cylinder within 60 feet. Creatures in the area make a DC 18 Dexterity saving throw  taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failure or half damage on a success.
 - **Fire Storm (7th-Level; V, S):** Flames roar from areas within 120 feet in a contiguous group of ten 10-foot cubes in an arrangement the archpriest chooses. Creatures in the area make a DC 18 Dexterity saving throw  taking 38 (7d10) fire damage on a failure or half damage on a success. The spell damages objects in the area and ignites flammable objects that arent being worn or carried.
 - **Holy Aura (8th-Level; V, S, M, Concentration):** Holy radiance emanates from the archpriest and fills a 30-foot radius around them  targeting creatures in the area of the archpriests choice. Targets shed dim light in a 5-foot radius and have advantage on saving throws. Attacks made against a target have disadvantage. When a fiend or undead hits a target  the aura erupts into blinding light  forcing the attacker to succeed on a DC 18 Constitution saving throw or be blinded until the spell ends (up to 1 minute).
 - **Mass Heal (9th-Level; V, S):** Healing energy erupts from the archpriest and restores up to 700 hit points amongst any number of creatures within 60 feet that are not constructs or undead. Creatures healed in this way are also cured of any diseases  and any effect causing them to be blinded or deafened. In addition  on subsequent turns within the next minute the archpriest can use a bonus action to distribute any unused hit points.
+
 ### Bonus Actions
+
 - **Divine Word (7th-Level; V):** The archpriest utters a primordial imprecation that targets other creatures within 30 feet. A target suffers an effect based on its current hit points.
 - **Fewer than 50 hit points: deafened for 1 minute:** 
 - **Fewer than 40 hit points: blinded and deafened for 10 minutes:** 

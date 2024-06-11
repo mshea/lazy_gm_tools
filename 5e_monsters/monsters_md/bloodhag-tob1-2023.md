@@ -17,9 +17,13 @@
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 19
 - **Languages:** Common, Giant, Sylvan
+
 ### Special Abilities
+
 - **Blood Sense:** The blood hag can pinpoint the location of creatures that aren’t Constructs or Undead within 60 feet of her and can sense the general direction of such creatures within 1 mile of her.
+
 ### Actions
+
 - **Multiattack:** The blood hag makes three Claw or Blood Bolt attacks and can use Blood-Drinking Hair or Face Peel. She can replace one attack with a use of Sanguine Curse.
 - **Claws:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 19 (4d6 + 5) slashing damage, and the target is grappled (escape DC 17) if it is a Medium or smaller creature. The blood hag has two claws, each of which can grapple only one target.
 - **Blood Bolt:** Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 18 (3d8 + 5) necrotic damage. If the target is a creature with blood, it must succeed on a DC 17 Constitution saving throw or be poisoned until the end of its next turn.

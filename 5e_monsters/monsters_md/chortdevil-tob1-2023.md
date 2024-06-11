@@ -19,11 +19,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 19
 - **Languages:** Celestial, Common, Infernal, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Devil’s Sight:** Magical darkness doesn’t impede the chort devil’s darkvision.
 - **Hellish Weapons:** The chort devil’s weapon attacks are magical. When the devil hits with any weapon, the weapon deals an extra 4d6 fire damage (included in the attack).
 - **Magic Resistance:** The chort devil has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The chort devil makes one Claw attack and two Ranseur attacks, or it makes four Hurl Flame attacks.
 - **Claw:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 12 (2d4 + 7) slashing damage plus 14 (4d6) fire damage, and the target must succeed on a DC 17 Constitution saving throw or have disadvantage on ability checks and saving throws that use Charisma for 1 hour or until cured by a lesser restoration spell or similar magic.
 - **Ranseur:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 12 (1d10 + 7) piercing damage plus 14 (4d6) fire damage.

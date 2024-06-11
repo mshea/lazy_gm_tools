@@ -15,7 +15,9 @@
 - **Skills:** Perception +5
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common
+
 ### Actions
+
 - **Multiattack:** The bagiennik makes two Claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Acid Spray:** The bagiennik sprays acid on one creature it can see within 30 feet of it, creating a puddle of oil beneath the creature. The target must make a DC 13 Dexterity saving throw. On a failure, the creature takes 18 (4d8) acid damage and is knocked prone. On a success, the creature takes half the damage and isn’t knocked prone. The slippery oil covers the ground in a 5-foot square centered on the point where the target was standing for 1 minute. A creature that enters the oily area or ends its turn there must succeed on a DC 13 Dexterity saving throw or fall prone.

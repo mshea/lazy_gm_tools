@@ -17,11 +17,15 @@
 - **Damage Resistances:** bludgeoning and piercing from nonmagical attacks
 - **Senses:** darkvision 90 ft., passive Perception 14
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Speak with Plants:** The drake can communicate with plants as if they shared a language.
 - **Thorn Body:** A creature that touches the drake or hits it with a melee attack while within 5 feet of it takes 4 (1d8) piercing damage.
 - **Innate Spellcasting (2/Day):** The vine drake can innately cast entangle, requiring no material components. Its innate spellcasting ability is Charisma.
+
 ### Actions
+
 - **Multiattack:** The vine drake can make three attacks: one with its bite, one with its claw, and one with its vine lash.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.

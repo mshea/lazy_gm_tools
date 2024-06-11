@@ -18,7 +18,9 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 11
 - **Languages:** Abyssal
+
 ### Special Abilities
+
 - **Chaotic Evil:** The demon radiates a Chaotic and Evil aura.
 - **Radiant Weakness:** If the demon takes radiant damage while it is bloodied, it is frightened for 1 minute.
 - **Varied Shapes:** Each horde demon has a unique combination of attacks and powers. Roll 1d10 once or twice, rerolling duplicates, or choose one or two features from the following table. A horde demons features determine the attacks it can make.
@@ -32,7 +34,9 @@
 - **8 Scorpion Tail Melee Weapon Attack: +5 to hit, reach 5 ft:** , one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
 - **9 Tentacle Arms Melee Weapon Attack: +5 to hit, reach 15 ft:** , one target. Hit: 8 (2d4 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the tentacle arms attack can only be used on this target.
 - **10 Whispering Mouth:** The demon targets a creature within 30 feet that can hear it. The target makes a DC 12 Wisdom saving throw. On a failure, it takes 7 (1d8 + 3) psychic damage and is magically cursed until the start of the demons next turn. While cursed, the demons attacks against the target are made with advantage, and the target has disadvantage on saving throws against the demons Whispering Mouth.
+
 ### Actions
+
 - **Multiattack:** The demon makes two attacks  using any attack granted by its Varied Shapes trait.
 
 

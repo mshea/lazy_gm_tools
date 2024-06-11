@@ -16,10 +16,14 @@
 - **Condition Immunities:** charmed
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Carbuncle, Common
+
 ### Special Abilities
+
 - **Gem Illumination:** As a bonus action, the carbuncle can cause its garnet to glow or not. While glowing, the garnet sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 - **Jungle Camouflage:** The carbuncle has advantage on Dexterity (Stealth) checks made to hide in jungle terrain.
+
 ### Actions
+
 - **Multiattack:** The carbuncle makes one bite attack and one claw attack.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.

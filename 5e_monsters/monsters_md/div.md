@@ -17,10 +17,14 @@
 - **Damage Resistances:** acid, fire
 - **Senses:** darkvision 60', passive Perception 14
 - **Languages:** Common, Primordial
+
 ### Special Abilities
+
 - **Elemental Demise:** If the div dies its body disintegrates into a pool of noxious sludge leaving behind only equipment the div was wearing or carrying.
 - **Sunlight Sensitivity:** In sunlight disadvantage on attacks and Wis (Perception) checks that use sight.
+
 ### Actions
+
 - **Multiattack:** One Claw and two Scimitars or three Noxious Blasts. It can replace one attack with use of Spellcasting.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage + 9 (2d8) acid.
 - **Scimitar:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 7 (1d6+4) slashing damage.

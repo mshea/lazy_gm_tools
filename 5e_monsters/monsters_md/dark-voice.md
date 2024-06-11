@@ -15,11 +15,15 @@
 - **Skills:** intimidation +7, persuasion +7
 - **Senses:** blindsight 60 ft., passive Perception 13
 - **Languages:** Common, Umbral
+
 ### Special Abilities
+
 - **Dark Devotion:** The dark voice has advantage on saving throws against being charmed or frightened.
 - **Regeneration:** The dark voice regains 5 hp at the start of its turn if it is in an area of dim light or darkness. The dark voice only dies if it starts its turn with 0 hp and doesn't regenerate.
 - **Sunlight Sensitivity:** While in sunlight, the dark voice has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
 ### Actions
+
 - **Multiattack:** The dark voice makes two attacks with its mace.
 - **Mace:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 7 (2d6) cold damage.
 - **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage plus 7 (2d6) cold damage.

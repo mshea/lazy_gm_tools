@@ -15,11 +15,15 @@
 - **Skills:** acrobatics +4, athletics +3, stealth +4
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Aquan
+
 ### Special Abilities
+
 - **Mimicry:** The grindylow can mimic humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 13 Wisdom (Insight) check.
 - **Slippery:** The grindylow has advantage on ability checks and saving throws made to escape a grapple.
 - **Water Breathing:** The grindylow can breathe only underwater.
+
 ### Actions
+
 - **Multiattack:** The grindylow makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Claws:** Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 8 (2d6 + 1) slashing damage and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the grindylow can't use its claws on another target.

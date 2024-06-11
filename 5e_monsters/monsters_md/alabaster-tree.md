@@ -19,12 +19,16 @@
 - **Condition Immunities:** stunned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 15
 - **Languages:** all, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Churning Advance (3/Day):** As a bonus action, the alabaster tree moves up to five times its speed, leaving a trail of difficult terrain behind it.
 - **Foster the Grasses:** Hallowed reeds within 60 feet of an alabaster tree have advantage on saving throws.
 - **Like Calls to Like:** The alabaster tree knows if a creature within 60 feet of it is good-aligned or not.
 - **Soul's Respite:** A good-aligned creature who takes a short rest within 10 feet of an alabaster tree gains all the benefits of a long rest.
+
 ### Actions
+
 - **Multiattack:** The alabaster tree makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (3d4 + 5) bludgeoning damage plus 4 (1d8) radiant damage and the creature is grappled (escape DC 16).
 - **Serrated Squeeze (Willow Only):** The alabaster tree makes one slam attack against a Large or smaller target it is grappling. If the attack hits, the target is engulfed in razor-sharp leaves, and the grapple ends. While engulfed, the target is blinded and restrained, it has total cover against attacks and other effects outside of the leaves, and it takes 13 (3d8) slashing damage at the start of each of the alabaster tree's turns. An alabaster tree can have only one creature engulfed at a time.<br><br>If the alabaster tree takes 15 damage or more on a single turn from the engulfed creature, the alabaster tree must succeed on a DC 14 Constitution saving throw at the end of that turn or release the creature in a shower of shredded leaves. The released creature falls prone in a space within 10 feet of the alabaster tree. If the alabaster tree dies, an engulfed creature is no longer restrained by it and can escape from the leaves and branches by using an action to untangle itself.

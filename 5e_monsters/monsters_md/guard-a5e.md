@@ -15,7 +15,9 @@
 - **Skills:** perception +2
 - **Senses:** passive Perception 12
 - **Languages:** any one
+
 ### Actions
+
 - **Spear:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 3 (1d6) piercing damage.
 - **Guards patrol city gates or accompany caravans:** Most guards are not as well trained or equipped as army soldiers  but their presence can deter bandits and opportunistic monsters.
 

@@ -17,10 +17,14 @@
 - **Damage Immunities:** cold
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Cloud Strider:** The dragon suffers no harmful effects from high altitudes.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 17). It can innately cast the following spells, requiring no material components. 3/day each:charm person, faerie fire
+
 ### Actions
+
 - **Multiattack:** The dragon attacks with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) cold damage.
 - **Claws:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 15 (2d8 + 6) slashing damage.

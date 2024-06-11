@@ -18,14 +18,18 @@
 - **Damage Immunities:** fire; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 90 ft., passive Perception 12
 - **Languages:** Abyssal, Ignan, Infernal
+
 ### Special Abilities
+
 - **Heated Body:** A creature that touches the salamander monarch or hits it with a melee attack while within 5 feet of it takes 14 (4d6) fire damage.
 - **Heated Weapons:** Any metal melee weapon the salamander monarch wields deals an extra 7 (2d6) fire damage on a hit (included in the attack).
 - **Inspiring Sovereign:** Each salamander within 30 feet of the salamander monarch and that can see the monarch has advantage on its melee attack rolls and saving throws.
 - **Innate Spellcasting:** The salamander monarch’s innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components.
 3/day: flaming sphere, heat metal
 1/day: conjure elemental (fire elemental only)
+
 ### Actions
+
 - **Multiattack:** The salamander monarch makes two attacks: one with its trident and one with its tail.
 - **Tail:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, the salamander monarch can automatically hit the target with its tail, and the salamander monarch can’t make tail attacks against other targets.
 - **Trident:** Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 14 (2d8 + 5) piercing damage or 16 (2d10 + 5) piercing damage if used with two hands to make a melee attack, plus 7 (2d6) fire damage.

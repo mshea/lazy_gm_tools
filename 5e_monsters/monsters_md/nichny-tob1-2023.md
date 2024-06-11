@@ -20,11 +20,15 @@
 - **Condition Immunities:** charmed, frightened, paralyzed, poisoned, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 17
 - **Languages:** Elvish, Primordial, Sylvan, Void Speech
+
 ### Special Abilities
+
 - **Aura of Luck:** The nichny is surrounded by an aura that manipulates the luck of those near the nichny. Each friendly creature, other than the nichny, within 10 feet of the nichny has a +1 bonus to attack rolls and saving throws. Each hostile creature that starts its turn within 10 feet of the nichny must succeed on a DC 15 Wisdom saving throw or have disadvantage on attack rolls and saving throws until the end of its turn.
 - **Magic Resistance:** The nichny has advantage on saving throws against spells and other magical effects.
 - **Soothsaying (1/Day):** The nichny can spend 1 minute conversing with a creature it can see within 30 feet of it. During this time, the creature can ask up to three questions about the past, present, or future. At the end of the minute, the nichny then offers two truthful answers and one false answer, each in the form of a paradox, riddle, or cryptic rhyme.
+
 ### Actions
+
 - **Multiattack:** The nichny makes two Claw or Luck-Stealing Bolt attacks.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 9 (2d8) force damage.
 - **Luck-Stealing Bolt:** Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 22 (4d8 + 4) force damage, and the target has disadvantage on ability checks and attack rolls until the end of its next turn.

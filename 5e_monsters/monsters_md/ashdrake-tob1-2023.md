@@ -17,9 +17,13 @@
 - **Damage Immunities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Firesight:** The ash drake can see through areas obscured by fire, smoke, and fog without penalty.
+
 ### Actions
+
 - **Multiattack:** The drake makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage plus 3 (1d6) fire damage.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.

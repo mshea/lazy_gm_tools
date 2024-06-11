@@ -16,10 +16,14 @@
 - **Damage Resistances:** poison
 - **Senses:** passive Perception 14
 - **Languages:** Common
+
 ### Special Abilities
+
 - **Dark Devotion:** The scorpion cultist has advantage on saving throws against being charmed or frightened.
 - **Keen Senses:** The scorpion cultist has advantage on Wisdom (Perception) checks.
 - **Scorpion’s Blessing:** The scorpion cultist has advantage on saving throws against poison. In addition, when the scorpion cultist hits with any weapon, the weapon deals an extra 1d4 poison damage (included in the attack).
+
 ### Actions
+
 - **Scimitar:** Melee Weapon Attack: +5 to hit, reach 5 ft, one target. Hit: 6 (1d6 + 3) slashing damage plus 2 (1d4) poison damage.
 - **Sling:** Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) poison damage.

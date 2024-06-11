@@ -19,11 +19,15 @@
 - **Condition Immunities:** exhaustion, petrified, prone
 - **Senses:** truesight 60 ft., passive Perception 13
 - **Languages:** Void Speech, telepathy 60 ft.
+
 ### Special Abilities
+
 - **Darkness Regeneration:** While in an area of dim light or darkness, the voidling regains 5 hp at the start of its turn if it has at least 1 hp.
 - **Magic Resistance:** The voidling has advantage on saving throws against spells and other magical effects.
 - **Void Traveler:** The voidling doesn’t require air, food, drink, sleep, or ambient pressure.
+
 ### Actions
+
 - **Multiattack:** The voidling makes four Shadow Tendril or Necrotic Bolt attacks. If two Necrotic Bolt attacks hit one creature, the target must succeed on a DC 17 Wisdom saving throw or be frightened until the end of its next turn.
 - **Shadow Tendril:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage plus 10 (3d6) necrotic damage.
 - **Necrotic Bolt:** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (4d6 + 3) necrotic damage.

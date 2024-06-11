@@ -15,13 +15,17 @@
 - **Skills:** intimidation +7
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Common, Giant
+
 ### Special Abilities
+
 - **Magical Horn:** The power of the one-horned ogre comes from its horn. If the horn is ever removed, the one-horned ogre loses its Fiendish Horn Blast action and its Innate Spellcasting trait, and its Charisma score is reduced to 8 (-1). If the ogre receives a new horn through regenerative magic or a blessing from its patron, it regains what it lost.
 - **Ruthless Weapons:** When the one-horned ogre hits a blinded, charmed, or frightened creature with any weapon, the weapon deals an extra 1d6 psychic damage.
 - **Innate Spellcasting:** The one-horned ogre’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.
 2/day each: darkness, misty step, suggestion
 1/day each: fear
+
 ### Actions
+
 - **Multiattack:** The one-horned ogre can use its Fiendish Horn Blast. It then makes one greatsword attack.
 - **Greatsword:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 19 (4d6 + 5) slashing damage.
 - **Javelin:** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 12 (2d6 + 5) piercing damage.

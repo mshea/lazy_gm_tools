@@ -16,9 +16,13 @@
 - **Damage Immunities:** cold
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** -
+
 ### Special Abilities
+
 - **Antennae:** The giant moth has advantage on Wisdom (Perception) checks that rely on smell.
+
 ### Actions
+
 - **Proboscis:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Frosted Wings (1/Day):** A 20-foot radius cloud of colorful ice crystals extends from the rimewing. Each creature in that area must succeed on a DC 10 Wisdom saving throw or be charmed by the rimewing for 1 minute. While charmed by the rimewing, a creature is incapacitated and must move up to its speed toward the rimewing at the start of its turn, stopping when it is 5 feet away. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

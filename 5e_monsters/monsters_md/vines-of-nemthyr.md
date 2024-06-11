@@ -18,11 +18,15 @@
 - **Condition Immunities:** blinded, deafened, frightened, poisoned
 - **Senses:** blindsight 60 ft., passive Perception 14
 - **Languages:** -
+
 ### Special Abilities
+
 - **Dispersal:** As a bonus action, the vines of Nemthyr can separate itself into a group of distinct vines. While separated in this way, the vines can move through spaces as narrow as 3 inches wide. The separated vines can't attack while in this state, but they can reform into the vines of Nemthyr as a bonus action.
 - **False Appearance:** While the vines of Nemthyr remains motionless, it is indistinguishable from a normal plant.
 - **Magic Resistance:** The vines of Nemthyr has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The vines of Nemthyr makes three attacks: two with its slam and one with its thorny lash.
 - **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 - **Thorny Lash:** Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 15 (2d10 + 4) slashing damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained. The vines of Nemthyr has two thorny lashes, each of which can grapple only one target.

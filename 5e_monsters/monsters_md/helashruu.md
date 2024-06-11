@@ -20,9 +20,13 @@
 - **Condition Immunities:** charmed, paralyzed, petrified, prone
 - **Senses:** truesight 90 ft., passive Perception 23
 - **Languages:** Void Speech, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Innate Spellcasting (1/Day):** The helashruu can innately cast gate, requiring no material components. Its innate spellcasting ability is Charisma.
+
 ### Actions
+
 - **Multiattack:** The helashruu uses Trap Life if it can. It then makes four shard whip attacks.
 - **Shard Whip:** Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
 - **Reflect Energy (Recharge 5-6):** The helashruu releases stored energy in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 35 (10d6) damage of the most recent type dealt to the helashruu on a failed save, or half as much damage on a successful one. If the helashruu hasn’t taken damage within the past 1 minute, the damage type is force.

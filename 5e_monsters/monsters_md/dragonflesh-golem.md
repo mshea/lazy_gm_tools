@@ -18,11 +18,15 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 120 ft., passive Perception 10
 - **Languages:** understands the languages of its creator but can’t speak
+
 ### Special Abilities
+
 - **Immutable Form:** The golem is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The golem has advantage on saving throws against spells and other magical effects.
 - **Magic Weapons:** The golem’s weapon attacks are magical.
+
 ### Actions
+
 - **Multiattack:** The dragonflesh golem uses Terror Stare. It then makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.
 - **Claws:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) slashing damage.

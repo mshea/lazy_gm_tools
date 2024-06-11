@@ -15,10 +15,14 @@
 - **Skills:** acrobatics +4, athletics +6, perception +3, survival +3
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Simian
+
 ### Special Abilities
+
 - **Arboreal Tactician:** The sulsha is adept at fighting while climbing. It doesn’t provoke opportunity attacks when it climbs out of an enemy’s reach, and it has advantage on attack rolls against a creature if the creature is climbing.
 - **Standing Leap:** The sulsha’s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
+
 ### Actions
+
 - **Multiattack:** The sulsha makes three attacks: one with its bite, one with its slam, and one with its tail spur. Alternatively, it makes two bomb attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.

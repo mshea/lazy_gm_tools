@@ -17,9 +17,13 @@
 - **Damage Resistances:** slashing from nonmagical attacks
 - **Senses:** blindsight 30', passive Perception 8
 - **Languages:** —
+
 ### Special Abilities
+
 - **Compact:** Can occupy same space as one other clacker soldier.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit, 0 ft., one creature,. 11 (2d8+2) piercing damage.
 - **Clack:** Clacks its mandibles to create small but dangerous booming noise in 15 ft. cone. Each creature in area: 5 (2d4) thunder (DC 13 Con half). When multiple beetles clack in same turn and create overlapping cones each creature in overlapping cones makes one save with disadvantage vs. total damage from all overlapping cones rather than one save for each.
 

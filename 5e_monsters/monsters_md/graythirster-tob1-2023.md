@@ -18,10 +18,14 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** understands the languages it knew in life but can’t speak
+
 ### Special Abilities
+
 - **Thirst Aura:** A creature that starts its turn within 30 feet of the gray thirster must succeed on a DC 12 Constitution saving throw or suffer one level of exhaustion. On a successful saving throw, the creature is immune to the gray thirster’s Thirst Aura for the next 24 hours.
 - **Thirsting Dead Nature:** The gray thirster doesn’t require air, food, or sleep.
+
 ### Actions
+
 - **Multiattack:** The gray thirster makes two Claw attacks, or it makes one Claw attack and one Withering Turban attack.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
 - **Withering Turban:** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 7 (1d8 + 3) necrotic damage. The target must succeed on a DC 12 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. The target has disadvantage on this saving throw if it failed the saving throw against the thirster’s Thirst Aura. This reduction lasts until the target finishes a long rest with no levels of exhaustion. The target dies if this effect reduces its hp maximum to 0.

@@ -15,7 +15,9 @@
 - **Skills:** athletics +6, stealth +4, perception +3, survival +3
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Goblin
+
 ### Actions
+
 - **Multiattack:** The bugbear chief makes two attacks.
 - **Maul:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage  or 18 (4d6 + 4) bludgeoning damage if the target is a creature that is surprised or that can't see the bugbear.
 - **Javelin:** Melee or Ranged Weapon Attack: +6 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 7 (1d6 + 4) piercing damage  or 14 (3d6 + 4) piercing damage if the target is a creature that is surprised or that can't see the bugbear.

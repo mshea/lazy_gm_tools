@@ -19,11 +19,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120', passive Perception 15
 - **Languages:** understands Abyssal but can’t speak
+
 ### Special Abilities
+
 - **Fiery Blood:** When it takes damage each creature within 5 ft. of it: DC 15 Dex save or take 3 (1d6) fire. The fire ignites flammable objects within 5 ft. of ibexian that aren’t being worn or carried.
 - **Fiery Charge:** If it moves 20'+ straight toward a target and then hits it with Ram attack on the same turn target takes extra 7 (2d6) fire. If target is a creature it must make DC 15 Str save or be pushed up to 10 ft. away and knocked prone.
 - **Pack Tactics:** Advantage on attacks vs. creature if 1+ unincapacitated attacker ally is within 5 ft. of target.
+
 ### Actions
+
 - **Multiattack:** One Ram and one Hooves or two Spit Fires.
 - **Ram:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 13 (2d8+4) bludgeoning damage + 7 (2d6) fire.
 - **Hooves:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 9 (2d4+4) bludgeoning damage + 7 (2d6) fire.

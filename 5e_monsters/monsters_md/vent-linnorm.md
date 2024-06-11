@@ -18,10 +18,14 @@
 - **Damage Resistances:** fire
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 17
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Amphibious:** The linnorm can breathe air and water.
 - **Blood Scent:** The linnorm can smell blood in the water within 5 miles of it. It can determine whether the blood is fresh or old and what type of creature shed the blood. In addition, the linnorm has advantage on Wisdom (Perception) and Wisdom (Survival) checks to find or track a creature that doesn’t have all its hp.
+
 ### Actions
+
 - **Multiattack:** The linnorm can use its Frightful Presence. It then makes three attacks: one with its bite and two with its tail.
 - **Bite:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 14 (4d6) necrotic damage.
 - **Tail:** Melee Weapon Attack. +12 to hit, reach 20 ft., one target. Hit: 16 (2d8 + 7) bludgeoning damage. The target is grappled (escape DC 18) if it is a Large or smaller creature and the linnorm doesn’t have two other creatures grappled. Until this grapple ends, the target is restrained.

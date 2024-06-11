@@ -19,11 +19,15 @@
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, poisoned, stunned, unconscious
 - **Senses:** darkvision 60 ft., truesight 30 ft., passive Perception 13
 - **Languages:** Abyssal, Common, Infernal
+
 ### Special Abilities
+
 - **Necrotic Weapons:** The mask wight’s weapon attacks are magical. When the mask wight hits with any weapon, the weapon deals an extra 3d8 necrotic damage (included in the attack).
 - **Single-Minded Purpose:** The mask wight has advantage on attack rolls against fiends and creatures wielding fiendish power, such as tieflings or some sorcerers and warlocks.
 - **Undead Nature:** The mask wight doesn’t require air, food, drink, or sleep.
+
 ### Actions
+
 - **Multiattack:** The mask wight makes two Khopesh of Oblivion attacks and one Spiked Gauntlet attack. If both Khopesh of Oblivion attacks hit one creature, the target must succeed on a DC 17 Wisdom saving throw or forget cherished memories of one object or location until it interacts with that object or location again. The object or location can’t be an object on the target or a location within its sight when it fails this saving throw.
 - **Khopesh of Oblivion:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) slashing damage plus 13 (3d8) necrotic damage.
 - **Spiked Gauntlet:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) bludgeoning damage plus 13 (3d8) necrotic damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.

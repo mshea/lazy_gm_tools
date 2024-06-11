@@ -19,13 +19,17 @@
 - **Condition Immunities:** charmed, exhaustion, frightened
 - **Senses:** truesight 30 ft., passive Perception 19
 - **Languages:** all, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Magic Resistance:** The deva has advantage on saving throws against spells and magical effects.
 - **Aligned:** An angel radiates a Lawful aura. Most angels also radiate a Good aura, and a few radiate Evil.
 - **Celestial Dissolution:** When an angel dies, its body and equipment dissolve into motes of light.
 - **Detect Alignment:** An angel knows the alignment, if any, of each creature within 30 feet that it can see.
 - **Immortal Nature:** An angel doesnt require air, sustenance, or sleep.
+
 ### Actions
+
 - **Multiattack:** The deva makes two attacks.
 - **Celestial Hammer (Deva Form Only):** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 17 (5d6) radiant damage. On a hit  the target can't make opportunity attacks against the deva until the beginning of the targets next turn.
 - **Divine Blast:** Ranged Spell Attack: +8 to hit  range 60 ft.  one target. Hit: 22 (5d8) radiant damage.

@@ -18,10 +18,14 @@
 - **Condition Immunities:** paralyzed
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 16
 - **Languages:** Common, Darakhul, Draconic, Undercommon
+
 ### Special Abilities
+
 - **Magic Resistance:** The drake has advantage on saving throws against spells and other magical effects.
 - **Sunlight Sensitivity:** While in sunlight, the drake has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
 ### Actions
+
 - **Multiattack:** The drake makes one Bite attack, two Claw attacks, and one Stinger attack.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft, one target. Hit: 12 (2d6 + 5) slashing damage.

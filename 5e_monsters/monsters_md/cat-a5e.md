@@ -15,10 +15,14 @@
 - **Skills:** perception +3, stealth +4
 - **Senses:** darkvision 30 ft., passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Keen Smell:** The cat has advantage on Perception checks that rely on smell.
 - **Safe Landing:** The cat takes no falling damage from the first 10 feet that it falls.
+
 ### Actions
+
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 1 slashing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
 
 

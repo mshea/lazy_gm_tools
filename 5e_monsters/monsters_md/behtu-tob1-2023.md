@@ -17,7 +17,9 @@
 - **Damage Resistances:** cold, fire, lightning
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Behtu, Common, Infernal
+
 ### Actions
+
 - **Multiattack:** The behtu makes one Bite attack and one Spear attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Spear:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.

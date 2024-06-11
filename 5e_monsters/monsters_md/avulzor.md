@@ -19,7 +19,9 @@
 - **Condition Immunities:** paralyzed, stunned
 - **Senses:** darkvision 90 ft., passive Perception 16
 - **Languages:** Common, Deep Speech, Void Speech
+
 ### Special Abilities
+
 - **Bone Shaping:** The avulzor can shape bones with its touch, altering the appearance, function, size, and density of bone to match its needs. It can’t use this trait to alter the bones of a living creature, but it can otherwise alter any bone it touches that isn’t being worn or carried. In addition, as a bonus action, the avulzor can touch any skeleton it created with its Animate Bones action and grant the target one of the following benefits until the end of the target’s next turn: 
 * Armor Class increases by 2 
 * Reach increases by 5 feet 
@@ -27,7 +29,9 @@
 * Speed increases by 10 feet.
 - **Bone Kilt:** The avulzor wears a kilt made out of the bones of the many humanoids it has slain. The kilt increases the avulzor’s Armor Class by 3. If lost, the avulzor can create a new bone kilt with ample bones and 1 hour of work. The avulzor can use its Animate Bones as a bonus action if it targets the bone kilt. Doing so creates 1 skeleton of CR 2 or lower, but the avulzor subsequently reduces its Armor Class by 3.
 - **Turning Defiance:** Friendly undead within 30 feet of the avulzor have advantage on saving throws against effects that turn undead.
+
 ### Actions
+
 - **Multiattack:** The avulzor makes two claw attacks and two synchronized bite attacks.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
 - **Synchronized Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (4d4 + 4) piercing damage.

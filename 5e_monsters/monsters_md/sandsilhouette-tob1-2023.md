@@ -17,13 +17,17 @@
 - **Condition Immunities:** exhaustion, frightened, poisoned
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
 - **Languages:** the languages it knew in life
+
 ### Special Abilities
+
 - **Sand Camouflage:** The sand silhouette has advantage on Dexterity (Stealth) checks made to hide in desert terrain.
 - **Sand Form:** The sand silhouette can move through a space as narrow as 1 inch wide without squeezing.
 - **Sand Glide:** The sand silhouette can burrow through nonmagical, loose sand without disturbing the material it is moving through.
 - **Undead Nature:** The sand silhouette doesn’t require air, food, drink, or sleep.
 - **Water Hypersusceptibility:** For every 5 feet the sand silhouette moves in water, or for every gallon of water splashed on it, it takes 2 (1d4) cold damage. In addition, the silhouette takes 10 cold damage when it starts its turn at least partially submerged in water.
+
 ### Actions
+
 - **Multiattack:** The sand silhouette makes two Slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 15), and the silhouette uses its Engulf on the target.
 - **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage plus 3 (1d6) necrotic damage.
 - **Engulf:** The sand silhouette engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded and restrained, and it must succeed on a DC 15 Constitution saving throw at the start of each of the sand silhouette’s turns or take 10 (3d6) necrotic damage. If the sand silhouette moves, the engulfed target moves with it. The sand silhouette can have only one creature engulfed at a time.

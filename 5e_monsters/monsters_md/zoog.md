@@ -15,7 +15,9 @@
 - **Skills:** perception +2, stealth +5
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Deep Speech, Void Speech
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 
 

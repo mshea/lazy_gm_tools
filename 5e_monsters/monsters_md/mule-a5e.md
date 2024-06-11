@@ -16,9 +16,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** 
+
 ### Special Abilities
+
 - **Beast of Burden:** The mule is considered Large when calculating its carrying capacity.
+
 ### Actions
+
 - **Hooves:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4+1) bludgeoning damage.
 
 

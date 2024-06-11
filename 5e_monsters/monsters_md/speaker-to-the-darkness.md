@@ -18,9 +18,13 @@
 - **Condition Immunities:** frightened
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Abyssal, Deep Speech, Undercommon
+
 ### Special Abilities
+
 - **Boon of the Bat:** A creature struck by one of the speaker to the darkness' attacks must succeed on a DC 15 Wisdom saving throw or be frightened until the start of the speaker's next turn.
+
 ### Actions
+
 - **Multiattack:** The speaker to the darkness makes two quarterstaff attacks or two sling attacks.
 - **Quarterstaff:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands, plus 9 (2d8) necrotic damage.
 - **Sling:** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.

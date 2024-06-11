@@ -17,10 +17,14 @@
 - **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 8
 - **Languages:** 
+
 ### Special Abilities
+
 - **Swarm:** The swarm can occupy another creatures space and move through any opening large enough for a Tiny creature. It can't gain hit points or temporary hit points.
 - **Water Breathing:** The swarm breathes only water.
+
 ### Actions
+
 - **Bites:** Melee Weapon Attack: +5 to hit  reach 0 ft.  one target. Hit: 10 (4d4) piercing damage  or 5 (2d4) piercing damage if the swarm is bloodied. On a hit  the swarm can use a bonus action to make a second bites attack.
 
 

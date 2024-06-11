@@ -17,11 +17,15 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft., passive Perception 18
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Forest’s Defender:** Difficult terrain composed of nonmagical plants doesn’t cost the vila extra movement, and it can pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard. In addition, while in forested terrain, the vila has advantage on initiative rolls.
 - **Poisoned Weapons:** The vila’s weapons are coated with a magical poison harvest from the forest. When the vila hits with any weapon, the weapon deals an extra 2d6 poison damage (included in the attack).
 - **Speak with Beasts:** The vila can communicate with Beasts as if they shared a language.
+
 ### Actions
+
 - **Multiattack:** The vila can use its Song of the Forest. It then makes two Shortsword or Shortbow attacks.
 - **Shortsword:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage plus 7 (2d6) poison damage.
 - **Shortbow:** Ranged Weapon Attack: +8 to hit, range 80/320 ft., one target. Hit: 8 (1d6 + 5) piercing damage plus 7 (2d6) poison damage.

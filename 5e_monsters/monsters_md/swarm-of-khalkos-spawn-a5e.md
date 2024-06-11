@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** telepathy 120 ft.
+
 ### Actions
+
 - **Sting:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one creature. Hit: 13 (4d4+3) piercing damage plus 14 (4d6) poison damage  or 8 (2d4+3) piercing damage plus 7 (2d6) poison damage if the swarm is bloodied.
 - **Chaos Pheromones:** The swarm emits a cloud of pheromones in the air in a 10-foot-radius. The cloud spreads around corners. Each non-khalkos creature in the area makes a DC 12 Intelligence saving throw. On a failure  the creature is confused for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success. If the creature makes its saving throw or the condition ends for it  it is immune to the chaos pheromones of khalkos spawn for the next 24 hours.
 

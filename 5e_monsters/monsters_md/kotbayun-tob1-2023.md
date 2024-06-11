@@ -16,7 +16,9 @@
 - **Skills:** Stealth +5
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Sylvan
+
 ### Actions
+
 - **Multiattack:** The kot bayun can use its Slumbering Song. It then makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.

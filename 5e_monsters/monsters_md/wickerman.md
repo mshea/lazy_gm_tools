@@ -18,11 +18,15 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
+
 ### Special Abilities
+
 - **Berserk:** If the staff controlling the wickerman is broken or is not being worn or carried by a humanoid, the wickerman goes berserk. On each of its turns while berserk, the wickerman attacks the nearest creature it can see. If no creature is near enough to move to and attack, the wickerman attacks an object with preference for an object smaller than itself. Once the wickerman goes berserk, it continues to do so until it is destroyed, until a new staff is created, or until the staff is worn or carried by a humanoid.
 - **Blazing Fury:** A creature that touches the wickerman or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. If the wickerman's flame is ever doused, it is incapacitated until the flame is rekindled by dealing at least 10 fire damage to it.
 - **Water Susceptibility:** If the wickerman is on fire, it takes 1 cold damage for every 5 feet it moves in water or for every gallon of water splashed on it. If the wickerman takes at least 100 points of cold damage within a 1 minute period, its flame is doused.
+
 ### Actions
+
 - **Multiattack:** The wickerman makes two slam attacks.
 - **Blazing Ray:** Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 27 (5d10) fire damage.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage plus 5 (1d10) fire damage and the target is grappled (escape DC 16). The wickerman has two fists, each of which can grapple only one target.

@@ -16,10 +16,14 @@
 - **Damage Immunities:** cold
 - **Senses:** darkvision 60', passive Perception 11
 - **Languages:** Aquan, Common, Giant
+
 ### Special Abilities
+
 - **Amphibious:** Can breathe air and water.
 - **Ice Walk:** Can move across and climb icy surfaces with o ability check. Difficult terrain covered in ice or snow doesn’t cost her extra move.
+
 ### Actions
+
 - **Multiattack:** Two Claw attacks or three Ice Bolt attacks.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 8 (1d8+4) slashing damage + 10 (3d6) cold and target is grappled (escape DC 15) if hag doesn’t have another creature grappled.
 - **Ice Bolt:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 12 (3d6+2) cold.

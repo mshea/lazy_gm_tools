@@ -17,9 +17,13 @@
 - **Condition Immunities:** charmed, paralyzed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Celestial, Elvish, Sylvan, telepathy 60 ft.
+
 ### Special Abilities
+
 - **Magic Resistance:** The unicorn has advantage on saving throws against spells and magical effects.
+
 ### Actions
+
 - **Multiattack:** The unicorn attacks once with its hooves and once with its horn.
 - **Hooves:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 9 (1d8 + 5) bludgeoning damage.
 - **Horn:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 9 (1d8 + 5) piercing damage plus 10 (3d6) radiant damage. If the target is a creature and the unicorn moves at least 20 feet straight towards the target before the attack  the target takes an extra 9 (2d8) bludgeoning damage and makes a DC 16 Strength saving throw  falling prone on a failure.

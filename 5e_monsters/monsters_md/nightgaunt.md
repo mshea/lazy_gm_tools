@@ -18,12 +18,16 @@
 - **Condition Immunities:** blinded, frightened
 - **Senses:** blindsight 120 ft., passive Perception 17
 - **Languages:** understands Common, Abyssal, and Void Speech, but can't speak
+
 ### Special Abilities
+
 - **Flyby:** The nightgaunt doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 - **Pack Tactics:** The nightgaunt has advantage on attack rolls against a creature if at least one of the nightgaunt's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - **Magic Resistance:** The nightgaunt has advantage on saving throws against spells and other magical effects.
 - **Utterly Silent:** The nightgaunt doesn't make a sound and has advantage on Dexterity (Stealth) checks.
+
 ### Actions
+
 - **Multiattack:** The nightgaunt can use its Baneful Presence. It then makes three attacks: two with its clutching claws and one with its barbed tail. If the nightgaunt is grappling a creature, it can use its barbed tail one additional time.
 - **Clutching Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage, and the target is grappled (escape DC 16) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained. The nightgaunt has two claws, each of which can grapple only one target. While using a claw to grapple, the nightgaunt can't use that claw to attack.
 - **Barbed Tail:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 10 (3d6) poison damage.

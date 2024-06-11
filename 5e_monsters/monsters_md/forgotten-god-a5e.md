@@ -18,12 +18,16 @@
 - **Condition Immunities:** fatigue, frightened, poisoned
 - **Senses:** truesight 120 ft., passive Perception 19
 - **Languages:** All
+
 ### Special Abilities
+
 - **Aligned:** The forgotten god radiates a weak alignment aura, most often Lawful and Good, Chaotic and Good, Lawful and Evil, or Chaotic and Evil. Its behavior may not match its alignment.
 - **Flawed Spellcasting:** The gods innate spellcasting ability is Wisdom (save DC 17).The god can try to cast flame strike or spirit guardians at will with no material component. When the god tries to cast the spell, roll 1d6. On a 1, 2, or 3 on the die, the spell visibly fails and has no effect. The gods action for the turn is not wasted, but it can't be used to cast a spell.
 - **Legendary Resistance (3/Day):** When the god fails a saving throw, it can choose to succeed instead. When it does so, it seems to flicker and shrink, as if it is using up its essence.
 - **Divine Nature:** A forgotten god doesnt require air, sustenance, or sleep.
+
 ### Actions
+
 - **Divine Weapon:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 9 (1d8 + 5) damage (damage type based on the form of the weapon or implement) plus 3 (1d6) radiant damage.
 - **Stunning Gaze (Gaze):** The god targets a creature within 60 feet. The target makes a DC 17 Charisma saving throw. On a failure  the target takes 10 (3d6) radiant damage and is stunned until the end of its next turn. On a success  the target is immune to Stunning Gaze for 24 hours.
 - **Divine Wrath (1/Day, While Bloodied):** Each creature of the gods choice within 60 feet makes a DC 17 Constitution saving throw  taking 28 (8d6) radiant damage on a failure or half damage on a success.

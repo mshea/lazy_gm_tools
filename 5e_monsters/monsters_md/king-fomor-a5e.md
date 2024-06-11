@@ -17,21 +17,29 @@
 - **Damage Immunities:** radiant; damage from nonmagical weapons
 - **Senses:** truesight 120 ft., passive Perception 17
 - **Languages:** Celestial, Common, six more
+
 ### Special Abilities
+
 - **Divine Grace:** If the empyrean makes a saving throw against an effect that deals half damage on a success, it takes no damage on a success and half damage on a failure. Furthermore, while wearing medium armor, the empyrean adds its full Dexterity bonus to its Armor Class (already included).
 - **Innate Spellcasting:** The empyreans innate spellcasting ability is Charisma (spell save DC 23). It can innately cast the following spells, requiring no material components: At will: charm person, command, telekinesis, 3/day: flame strike, hold monster, lightning bolt, 1/day: commune, greater restoration, heroes feast, plane shift (self only, can't travel to or from the Material Plane)
+
 ### Actions
+
 - **Maul:** Melee Weapon Attack: +17 to hit  reach 10 ft.  one target. Hit: 38 (8d6 + 10) bludgeoning damage plus 14 (4d6) radiant damage  and the target makes a DC 25 Strength saving throw. On a failure  the target is pushed up to 30 feet away and knocked prone.
 - **Lightning Bolt (3rd-Level; V, S):** A bolt of lightning 5 feet wide and 100 feet long arcs from the empyrean. Each creature in the area makes a DC 23 Dexterity saving throw  taking 28 (8d6) lightning damage on a failure or half damage on a success.
 - **Flame Strike (5th-Level; V, S):** A column of divine flame fills a 10-foot-radius  40-foot-high cylinder within 60 feet. Creatures in the area make a DC 23 Dexterity saving throw  taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failure or half damage on a success.
 - **Hold Monster (5th-Level; V, S, Concentration):** One creature the empyrean can see within 60 feet makes a DC 23 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of each of its turns  ending the effect on a success.
+
 ### Bonus Actions
+
 - **Immortal Form:** The empyrean magically changes its size between Gargantuan and Medium. While Medium, the empyrean has disadvantage on Strength checks. Its statistics are otherwise unchanged.
 - **Burning Gaze:** A line of fire 5 feet wide and 60 feet long blasts from King Fomors eye. Each creature in the area makes a DC 23 Constitution saving throw, taking 35 (10d6) fire damage and 35 (10d6) radiant damage on a failure or half damage on a success. When King Fomor is bloodied, his Burning Gazes shape is a 60-foot cone instead of a line.
 - **Elite Recovery (While Bloodied):** King Fomor ends one negative effect currently affecting him. He can do so as long as he has at least 1 hit point, even while unconscious or incapacitated.
 
 
+
 ### Legendary Actions
+
 - **The empyrean can take 1 legendary action:** Only one legendary action can be used at a time and only at the end of another creatures turn. It regains spent legendary actions at the start of its turn.
 - **Attack:** The empyrean makes a weapon attack.
 - **Cast Spell:** The empyrean casts a spell. The empyrean can't use this option if it has cast a spell since the start of its last turn.

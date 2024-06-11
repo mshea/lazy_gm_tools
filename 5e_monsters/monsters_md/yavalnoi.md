@@ -17,12 +17,16 @@
 - **Damage Resistances:** cold
 - **Senses:** darkvision 90 ft., passive Perception 16
 - **Languages:** Aquan, Primordial
+
 ### Special Abilities
+
 - **Water Breathing:** The yavalnoi can breathe only underwater.
 - **Innate Spellcasting:** The yavalnoi’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.
 At will: ray of enfeeblement, silent image
 3/day: control water, slow
+
 ### Actions
+
 - **Multiattack:** The yavalnoi makes three attacks: one with its bite, one with its claw, and one with its tail.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.

@@ -17,12 +17,16 @@
 - **Condition Immunities:** charmed, frightened, poisoned
 - **Senses:** darkvision 120 ft., passive Perception 14
 - **Languages:** -
+
 ### Special Abilities
+
 - **Expansive:** A creature at least one size smaller than the goliath longlegs can travel through and finish its turn in the goliath longlegs' space.
 - **False Appearance:** While a goliath longlegs remains motionless, it is indistinguishable from other plants or trees.
 - **Forest Camouflage:** The goliath longlegs has advantage on Dexterity (Stealth) checks made to hide in forested terrain.
 - **Vulnerable Legs:** The goliath longlegs has eight legs. While it has more than four legs, the goliath longlegs is immune to being knocked prone or restrained. Whenever the goliath longlegs takes 20 or more damage in a single turn, one of its legs is destroyed. Each time a leg is destroyed after the fourth one, the goliath longlegs must succeed on a DC 13 Constitution saving throw or fall prone. Any creature in the goliath longlegs' space or within 5 feet of it when it falls prone must make a DC 15 Dexterity saving throw, taking 21 (6d6) bludgeoning damage on a failed save, or half as much damage on a successful one.
+
 ### Actions
+
 - **Multiattack:** The goliath longlegs makes one bite attack and then as many leg attacks as it has legs. It can use its Reel in place of two leg attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) piercing damage and the target must make a DC 15 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hp, the target is stable but poisoned for 1 hour, even after regaining hp, and is paralyzed while poisoned in this way.
 - **Leg:** Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 6 (1d4 + 4) piercing damage.

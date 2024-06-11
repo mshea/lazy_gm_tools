@@ -19,10 +19,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 90 ft., passive Perception 17
 - **Languages:** Abyssal, Common, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Magic Resistance:** The baliri has advantage on saving throws against spells and other magical effects.
 - **Praising Brays:** As a bonus action, the baliri brays praise to the demon lord that saved it from its previous life, channeling the demon lord’s might. The baliri chooses up to three demons within 30 feet of it. Each target has advantage on the first ability check or attack roll it makes before the start of the baliri’s next turn. In addition, the targets are unaffected by the baliri’s Blood Bray.
+
 ### Actions
+
 - **Multiattack:** The baliri demon makes three attacks: one with its bite and two with its pincers.
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 10 (3d6) necrotic damage.
 - **Pincers:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) slashing damage. If the baliri demon scores a critical hit against a creature, roll a d6. On a 1-3, it severs the target’s arm, and on a 4-6 it severs the target’s leg. A creature missing an arm can’t wield weapons that require two hands, and if a creature is missing a leg, its speed is halved. Creatures without limbs are unaffected.

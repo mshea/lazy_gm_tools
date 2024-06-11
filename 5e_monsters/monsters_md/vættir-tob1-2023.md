@@ -17,12 +17,16 @@
 - **Condition Immunities:** charmed, frightened, poisoned
 - **Senses:** truesight 30 ft., darkvision 60 ft., passive Perception 11
 - **Languages:** the languages it knew in life
+
 ### Special Abilities
+
 - **Grave Goods Sense:** The vættir can pinpoint the location of creatures wearing or carrying one of the vættir’s personal items or grave goods within 60 feet of it, and the vættir can sense the general direction of its personal items and grave goods within 1 mile of it.
 - **Rejuvenation:** A destroyed vættir gains a new body in 24 hours, regaining all its hp and becoming active again. The new body forms in a random unoccupied space within 100 feet of where it fell. This trait doesn’t function if the vættir is put to rest (typically by returning its remains to its burial mound).
 - **Sunlight Sensitivity:** While in sunlight, the vættir has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 - **Undead Nature:** The vættir doesn’t require air, food, drink, or sleep.
+
 ### Actions
+
 - **Multiattack:** The vættir can use its Disorienting Gaze. It then makes two Vættir’s Greataxe or Necrotic Bolt attacks.
 - **Vættir’s Greataxe:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (1d12 + 5) slashing damage plus 4 (1d8) necrotic damage.
 - **Necrotic Bolt:** Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 15 (3d8 + 2) necrotic damage.

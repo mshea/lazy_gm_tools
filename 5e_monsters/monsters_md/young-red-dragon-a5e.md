@@ -17,11 +17,15 @@
 - **Damage Immunities:** fire
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Searing Heat:** A creature that starts its turn touching the dragon, or touches it or hits it with a melee attack for the first time on a turn, takes 3 (1d6) fire damage.
 - **Volcanic Tyrant:** The dragon is immune to the effects of poisonous gases caused by volcanic environments. It also ignores difficult terrain caused by lava.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 16). It can innately cast the following spells, requiring no material components. 3/day each:command, hold person
+
 ### Actions
+
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) fire damage.
 - **Claw:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 15 (2d8 + 6) slashing damage.

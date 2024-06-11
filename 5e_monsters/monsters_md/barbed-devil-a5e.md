@@ -19,12 +19,16 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Infernal, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Barbed Hide:** A creature that grapples or is grappled by the devil takes 5 (1d10) piercing damage at the beginning of the devils turn.
 - **Devils Sight:** The devils darkvision penetrates magical darkness.
 - **Lawful Evil:** The devil radiates a Lawful and Evil aura.
 - **Magic Resistance:** The devil has advantage on saving throws against spells and magical effects.
+
 ### Actions
+
 - **Multiattack:** The devil makes two attacks with its claws and one with its tail. Alternatively  it uses Hurl Flame twice.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) piercing damage. If both claw attacks hit the same Medium or smaller creature  it is grappled (escape DC 15). While the target is grappled  this attack may be used only against the grappled creature and has advantage against that creature.
 - **Tail:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target the devil is not grappling. Hit: 10 (2d6 + 3) piercing damage.

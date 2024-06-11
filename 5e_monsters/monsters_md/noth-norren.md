@@ -19,10 +19,14 @@
 - **Condition Immunities:** deafened, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Auran
+
 ### Special Abilities
+
 - **Air Turbulence:** A flying creature that enters or starts its turn within 60 feet of the noth-norren must land at the end of its turn or fall. In addition, ranged attack rolls against the noth-norren have disadvantage.
 - **Magic Weapons:** The noth-norren’s weapon attacks are magical.
+
 ### Actions
+
 - **Multiattack:** The noth-norren makes two slam attacks. Alternatively, it uses Throw Debris twice.
 - **Slam:** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 27 (4d10 + 5) bludgeoning damage. A creature struck by the slam attack must succeed on a DC 16 Strength saving throw or be knocked prone.
 - **Throw Debris:** Ranged Weapon Attack: +8 to hit, range 60/180 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage.

@@ -16,9 +16,13 @@
 - **Skills:** athletics +6, intimidation +5, perception +5
 - **Senses:** passive Perception 15
 - **Languages:** any two
+
 ### Special Abilities
+
 - **Aura of Anger:** While the knight is conscious, allies within 10 feet gain a +2 bonus to melee weapon damage. A creature can benefit from only one Aura of Anger at a time.
+
 ### Actions
+
 - **Multiattack:** The knight attacks three times with their greatsword.
 - **Greatsword:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Lance (Mounted Only):** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 9 (1d12 + 3) piercing damage. If the knight moves at least 20 feet straight towards the target before the attack  they deal an extra 13 (2d12) piercing damage  and the target makes a DC 14 Strength saving throw  falling prone on a failure. This attack is made at disadvantage against targets within 5 feet.

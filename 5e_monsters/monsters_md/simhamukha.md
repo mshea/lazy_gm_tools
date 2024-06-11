@@ -19,14 +19,18 @@
 - **Condition Immunities:** poisoned
 - **Senses:** truesight 120 ft., passive Perception 16
 - **Languages:** all, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Magic Weapons:** The simhamukha's weapon attacks are magical.
 - **Magic Resistance:** The simhamukha has advantage on saving throws against spells and other magical effects.
 - **Smite (3/Day):** When the simhamukha hits a creature with a melee attack, it can choose to deal an additional 9 (2d8) radiant damage.
 - **Innate Spellcasting:** The simhamukha's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 At will: aid, guidance, spiritual weapon
 2/day each: confusion, searing smite, thunderous smite
+
 ### Actions
+
 - **Multiattack:** The simhamukha makes two attacks with its kartika, or one with its kartika and one with its bite.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage. If this damage reduces ha the target to 0 hit points, the simhamukha kills the target by decapitating it.
 - **Kartika:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) slashing damage.

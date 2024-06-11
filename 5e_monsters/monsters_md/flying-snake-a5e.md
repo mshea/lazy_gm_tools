@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** blindsight 10 ft., passive Perception 11
 - **Languages:** 
+
 ### Special Abilities
+
 - **Flyby:** The snake doesnt provoke opportunity attacks when it flies out of a creatures reach.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 1 piercing damage plus 3 (1d6) poison damage.
 
 

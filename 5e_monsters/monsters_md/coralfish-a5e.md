@@ -15,11 +15,17 @@
 - **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** 
+
 ### Special Abilities
+
 - **Aquatic:** The coralfish can only breathe underwater.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage  and the target makes a DC 11 Constitution saving throw against being petrified. On a failure  the target is restrained as it begins to turn to a brightly colored statue. A lesser restoration spell ends this effect. If still restrained  the creature must repeat the saving throw at the end of its next turn. On a success  the effect ends. On a failure  the creature is petrified for 24 hours.
+
 ### Reactions
+
 - **Frenzy (1/Day):** When attacked by a creature it can see within 20 feet, the cockatrice moves up to half its Speed and makes a bite attack against that creature.
 
 

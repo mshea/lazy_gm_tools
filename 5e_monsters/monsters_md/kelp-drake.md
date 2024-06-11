@@ -15,10 +15,14 @@
 - **Skills:** athletics +6, perception +3, stealth +4
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Aggressive:** As a bonus action, the drake can move up to its speed toward a hostile creature that it can see.
 - **Limited Amphibiousness:** The drake can breathe air and water, but it needs to be submerged at least once every 6 hours to avoid suffocation.
+
 ### Actions
+
 - **Multiattack:** The drake makes one bite attack and one claw attack. If both attacks hit the same target, the drake can use its Deathroll on the target.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.

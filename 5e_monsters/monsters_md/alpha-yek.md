@@ -19,10 +19,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** Abyssal, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Magic Resistance:** The yek has advantage on saving throws against spells and other magical effects.
 - **Pack Tactics:** The yek has advantage on attack rolls against a creature if at least one of the yek's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
 ### Actions
+
 - **Multiattack:** The alpha yek makes one bite attack and two claw attacks. It can make a bone shard attack in place of a claw attack if it has a bone shard available.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (4d4 + 3) slashing damage.

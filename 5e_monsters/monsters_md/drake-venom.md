@@ -18,11 +18,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120', passive Perception 16
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Aching Venom:** Produces a potent poison that causes its victims to feel pain from even the most benign contact (weight of their clothing simple sword swing etc.). When a creature that succumbs to this poison takes bludgeoning piercing or slashing it must make DC 16 Con save or be incapacitated until end of its next turn as pain fills its body. This potent poison remains within creature’s body until removed by the greater restoration spell or similar magic or until creature finishes a long rest.
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
 - **Shifting Camouflage:** Scales adapt to current surroundings. Advantage: Dex (Stealth) to hide in nonmagical natural terrain.
+
 ### Actions
+
 - **Multiattack:** One Bite and two Claws or three Spit Venoms. If drake hits one creature with two Spit Venom attacks target must make DC 16 Con save or succumb to venom (see above).
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 13 (2d8+4) piercing damage + 13 (3d8) poison and target: DC 16 Con save or succumb to drake’s venom (see above).
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.

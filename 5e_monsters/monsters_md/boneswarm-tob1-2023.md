@@ -20,10 +20,14 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Void Speech
+
 ### Special Abilities
+
 - **Swarm:** The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny human skull. The swarm can’t regain hp or gain temporary hp.
 - **Undead Nature:** The bone swarm doesn’t require air, food, drink, or sleep.
+
 ### Actions
+
 - **Multiattack:** The bone swarm makes two Swirling Bones attacks. It can replace one Swirling Bones attack with one Death’s Embrace attack, if available.
 - **Swirling Bones:** Melee Weapon Attack: +10 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 36 (8d8) bludgeoning, piercing, or slashing damage (the bone swarm’s choice), or 18 (4d8) bludgeoning, piercing, or slashing damage (the bone swarm’s choice) if the swarm has half of its hp or fewer.
 - **Death’s Embrace (Recharge 5–6):** Melee Weapon Attack: +10 to hit, reach 0 ft., one creature in the swarm’s space. Hit: The target is grappled (escape DC 16) if it is a Large or smaller creature. Until this grapple ends, the creature is restrained and any attack against the bone swarm has a 50 percent chance of hitting the grappled creature instead. The bone swarm can have only one creature grappled at a time. The grappled creature has advantage on ability checks made to escape the grapple when the bone swarm has half of its hp or fewer.

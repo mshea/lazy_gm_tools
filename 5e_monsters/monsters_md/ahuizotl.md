@@ -15,10 +15,14 @@
 - **Skills:** perception +3
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** -
+
 ### Special Abilities
+
 - **Amphibious:** The ahuizotl can breathe air and water.
 - **Spiky Coat:** A creature that touches the ahuizotl or hits it with a melee attack while within 5 feet of it must succeed on a DC 14 Dexterity saving throw or take 4 (1d8) piercing damage.
+
 ### Actions
+
 - **Multiattack:** The ahuizotl can use its Tail Grab. It then makes two attacks: one with its bite and one with its claw.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.

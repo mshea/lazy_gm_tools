@@ -17,10 +17,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** passive Perception 14
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Keen Smell:** The hebi-doku has advantage on Wisdom (Perception) checks that rely on smell.
 - **Serpentine Mind:** The hebi-doku can magically command any snake within 120 feet of it, using a limited form of telepathy.
+
 ### Actions
+
 - **Multiattack:** The hebi-doku can use its Transfixing Rattle. It then makes two attacks: one with its bite and one with its disabling sting, or two with its toxic spittle.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing plus 14 (4d6) poison damage.
 - **Disabling Sting:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (3d4 + 5) piercing damage, and the target must succeed on a DC 16 Constitution saving throw or be unable to use bonus actions and reactions until the end of its next turn.

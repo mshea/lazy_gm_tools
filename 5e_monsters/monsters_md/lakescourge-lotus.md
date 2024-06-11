@@ -19,11 +19,15 @@
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60', passive Perception 15
 - **Languages:** —
+
 ### Special Abilities
+
 - **Toxic Ichor:** While submerged in water it’s ichor taints water within 10 ft. of it. When a creature enters area for the 1st time on a turn or starts its turn there that creature must make DC 15 Con save or be poisoned while it remains in area and for 1 min after it leaves. A poisoned creature that is no longer in the water can re-save at end of each of its turns ending effect on itself on a success. If purify food and drink spell is cast on a space within 5 ft. of lotus or on space it occupies trait ceases to function for 1 min.
 - **Undead Nature:** Doesn't require air food drink or sleep.
 - **Waterwalker:** Can walk across surface of water as if it were solid ground. Otherwise works like water walk but isn’t itself magical.
+
 ### Actions
+
 - **Multiattack:** Two Tainted Claw or Poisonous Water Jet attacks.
 - **Tainted Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d6+3) slashing damage + 9 (2d8) poison and target poisoned 1 min (DC 15 Con negates poison). A poisoned creature can re-save at end of each of its turns success ends effect on itself.
 - **Poisonous Water Jet:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 15 (3d8+2) poison.

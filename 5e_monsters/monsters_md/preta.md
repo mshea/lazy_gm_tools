@@ -18,9 +18,13 @@
 - **Condition Immunities:** exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** the languages it knew in life
+
 ### Special Abilities
+
 - **Ethereal Sight:** The preta can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
+
 ### Actions
+
 - **Multiattack:** The preta uses its Blood Siphon. It then makes two attacks with its claws.
 - **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
 - **Blood Siphon:** The preta magically draws the blood from a target it can see within 30 feet into its ever-hungry mouth. The target must succeed on a DC 13 Constitution saving throw or take 7 (2d6) points of necrotic damage. The preta regains hp equal to half the necrotic damage dealt.

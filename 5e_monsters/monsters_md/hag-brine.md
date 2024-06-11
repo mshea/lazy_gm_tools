@@ -16,13 +16,17 @@
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 120', passive Perception 17
 - **Languages:** Aquan, Common, Sylvan
+
 ### Special Abilities
+
 - **Amphibious:** Can breathe air and water.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Polluted Aura:** Each creature in same water as hag and that starts its turn within 20' of hag: poisoned while within aura and for 1 min after it leaves (DC 16 Con not poisoned). A poisoned creature that starts its turn outside aura can re-save success ends effect on itself.
 - **Skilled Submariner:** Advantage on Wis (Perception) and Wis (Survival) checks to find creatures and objects underwater. Has advantage on Dex (Stealth) checks made to hide while underwater.
 - **Speak with Aquatic Creatures:** Communicate with Beasts and Monstrosities that have a swimming speed as if they shared a language.
+
 ### Actions
+
 - **Multiattack:** Two Claw attacks and one Tail Slap attack.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 12 (2d8+3) slashing damage + 7 (2d6) poison. Target incapacitated until the end of its next turn (DC 16 Con not incapacitated). If it fails the save by 5+ it is paralyzed instead.
 - **Tail Slap:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 16 (2d12 +3) bludgeoning damage and target must make DC 16 Str save or pushed up to 10 ft. away from the hag.

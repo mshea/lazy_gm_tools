@@ -15,9 +15,13 @@
 - **Skills:** perception +2
 - **Senses:** blindsight 30 ft., passive Perception 12
 - **Languages:** 
+
 ### Special Abilities
+
 - **Water Breathing:** The shark breathes only water.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6+4) piercing damage. On a hit  the shark can use a bonus action to make a second bite attack.
 
 

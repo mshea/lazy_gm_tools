@@ -18,11 +18,17 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Hearing and Smell:** The mongoose has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+
 ### Reactions
+
 - **Defensive Roll:** The mongoose adds its Athletics bonus to its AC against one attack that would hit it. To do so, the mongoose must see the attacker.
 
 

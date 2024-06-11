@@ -19,11 +19,15 @@
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** blindsight 60', darkvision 120', passive Perception 17
 - **Languages:** Darakhul, Giant, Undercommon
+
 ### Special Abilities
+
 - **Passage Guardian:** Can make an opportunity attack when a hostile creature moves within its reach as well as when a hostile creature moves out of its reach. It gets one extra reaction that be used only for opportunity attacks.
 - **Turn Immunity:** Is immune to effects that turn undead.
 - **Undead Nature:** Doesn't require air food drink or sleep.
+
 ### Actions
+
 - **Multiattack:** Two Scythe or Death Knell attacks.
 - **Scythe:** Melee Weapon Attack: +10 to hit, 15 ft., one target, 17 (2d10+6) slashing damage + 10 (3d6) necrotic.
 - **Death Knell:** Ranged Spell Attack: +7 to hit, 60 ft., one target, 16 (3d8+3) necrotic or 22 (3d12+3) necrotic if the target is missing any of its hp.

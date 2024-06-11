@@ -18,14 +18,18 @@
 - **Condition Immunities:** charmed, exhaustion, frightened
 - **Senses:** truesight 120', passive Perception 20
 - **Languages:** all, telepathy 120'
+
 ### Special Abilities
+
 - **Celestial Weapons:** Its weapon attacks are magical. When archon hits with its Trunk Maul weapon deals extra 5d8 force (included below).
 - **False Appearance:** While motionless indistinguishable from inanimate statue.
 - **Immortal Nature:** Doesn't require food drink or sleep
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Siege Monster:** Double damage to objects/structures.
 - **Trampling Charge:** If it moves 20'+ straight toward a creature and then hits it with trunk maul on same turn target: DC 19 Str save or be pushed up to 10 ft. and knocked prone. If target is prone archon can make one Stomp attack vs. it as a bonus action.
+
 ### Actions
+
 - **Multiattack:** Two Trunk Maul attacks or four Trumpeting Blasts.
 - **Trunk Maul:** Melee Weapon Attack: +11 to hit, 10 ft., one target, 20 (4d6+6) bludgeoning damage + 22 (5d8) force.
 - **Stomp:** Melee Weapon Attack: +11 to hit 10 ft. one prone creature. 22 (3d10+6) bludgeoning damage.

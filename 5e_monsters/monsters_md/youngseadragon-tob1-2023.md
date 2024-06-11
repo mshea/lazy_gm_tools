@@ -17,10 +17,14 @@
 - **Damage Immunities:** cold
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 - **Languages:** Common, Draconic, Primordial
+
 ### Special Abilities
+
 - **Amphibious:** The dragon can breathe air and water.
 - **Siege Monster:** The dragon deals double damage to objects and structures.
+
 ### Actions
+
 - **Multiattack:** The dragon makes one Bite attack and two Fin attacks.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage plus 7 (2d6) cold damage.
 - **Fin:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.

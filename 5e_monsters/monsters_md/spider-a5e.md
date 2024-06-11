@@ -15,11 +15,15 @@
 - **Skills:** stealth +4
 - **Senses:** darkvision 30 ft., passive Perception 10
 - **Languages:** 
+
 ### Special Abilities
+
 - **Spider Climb:** The spider can climb even on difficult surfaces and upside down on ceilings.
 - **Web Sense:** While touching a web, the spider knows the location of other creatures touching that web.
 - **Web Walker:** The spider ignores movement restrictions imposed by webs.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 1 piercing damage and the target makes a DC 9 Constitution saving throw  taking 2 (1d4) poison damage on a failure.
 
 

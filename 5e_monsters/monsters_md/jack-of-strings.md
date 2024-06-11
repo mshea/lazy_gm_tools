@@ -18,9 +18,13 @@
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Sylvan, Umbral
+
 ### Special Abilities
+
 - **Magic Resistance:** The jack of strings has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The jack of strings makes two mocking slap attacks.
 - **Mocking Slap:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 3 (1d6) psychic damage.
 - **Animate Puppet:** The jack of strings animates up to three wooden puppets it can see within 60 feet of it. This works like the animate objects spell, except the wooden puppet uses the statistics of a Small object, regardless of the puppet’s actual size. The jack can have no more than five puppets animated at one time.

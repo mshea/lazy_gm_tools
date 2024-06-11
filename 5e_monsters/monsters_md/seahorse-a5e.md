@@ -15,7 +15,9 @@
 - **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** 
+
 ### Special Abilities
+
 - **Water Breathing:** The seahorse breathes only water.
 
 

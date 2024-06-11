@@ -15,7 +15,9 @@
 - **Skills:** Athletics +7, Survival +5
 - **Senses:** passive Perception 12
 - **Languages:** Loxodan
+
 ### Actions
+
 - **Multiattack:** The loxoda makes one Slam attack and one Spear attack.
 - **Slam:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage.
 - **Spear:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 14 (3d6 + 4) piercing damage, or 17 (3d8 + 4) piercing damage if used with two hands to make a melee attack.

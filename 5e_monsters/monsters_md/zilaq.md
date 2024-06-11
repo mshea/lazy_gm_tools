@@ -17,10 +17,14 @@
 - **Damage Immunities:** thunder
 - **Senses:** passive Perception 10
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Eidetic Memory:** Remembers everything it hears or reads. It has advantage on Int (Arcana) and Int (History) checks.
 - **Two-Headed:** Advantage on Wis (Perception) checks and on saves vs. being blinded charmed deafened frightened stunned and knocked unconscious.
+
 ### Actions
+
 - **Multiattack:** Two Bite attacks.
 - **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 7 (2d4+2) piercing damage.
 - **Sonic Yelp (Recharge 5–6):** Each creature within 60' of it and can hear it: 21 (6d6) thunder (DC 13 Con half). 

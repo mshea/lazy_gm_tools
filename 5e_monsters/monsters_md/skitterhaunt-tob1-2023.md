@@ -16,11 +16,15 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages:** —
+
 ### Special Abilities
+
 - **Broken Shell:** A creature that hits the skitterhaunt with a melee attack while within 5 feet of it takes 4 (1d8) acid damage.
 - **Ooze Nature:** The skitterhaunt doesn’t require sleep.
 - **Vermin Encasement:** The creature within the vermin’s shell is a shapeless ooze protected by the vermin’s exoskeleton. When the skitterhaunt is reduced to 0 hp, the exoskeleton breaks, and the skitterhaunt ooze exits it. Once out of its exoskeleton, the ooze is Small, has an AC of 10, 10 hp, and a speed of 15 feet, and it can move through a space as narrow as 1 inch wide without squeezing. In addition, its only attack is a Slam that uses the same statistics as its Sting, except it deals bludgeoning damage instead of piercing damage. The skitterhaunt dies if it remains outside of a host for more than 24 hours. It can exit or enter a dead host’s exoskeleton as a bonus action.
+
 ### Actions
+
 - **Multiattack:** The skitterhaunt makes one Mandibles attack and one Sting attack, or it makes two Sting attacks.
 - **Mandibles:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 2) slashing damage plus 9 (2d8) acid damage, and the target is grappled (escape DC 12) if it is a Medium or smaller creature. Until this grapple ends, the creature is restrained, and the skitterhaunt can’t use its Mandibles on another target.
 - **Sting:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage plus 9 (2d8) acid damage.

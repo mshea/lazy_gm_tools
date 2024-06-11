@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 12
 - **Languages:** -
+
 ### Special Abilities
+
 - **Flyby:** The archaeopteryx doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+
 ### Actions
+
 - **Multiattack:** The archaeopteryx makes two attacks: one with its beak and one with its talons.
 - **Beak:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 - **Talons:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.

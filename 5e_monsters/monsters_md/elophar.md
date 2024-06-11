@@ -18,7 +18,9 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 6
 - **Languages:** Common, Giant, Infernal
+
 ### Special Abilities
+
 - **Ectoplasmic Spray:** When the elophar takes damage other than acid damage, corrosive ectoplasm bursts from its distended stomach. The elophar takes 7 (2d6) acid damage and all creatures within 10 feet of it must make a DC 13 Dexterity saving throw, taking 7 (2d6) acid damage on a failed save, or half as much damage on a successful one.
 - **Possessed by Ancestors:** The chaos of combat causes an elophar to swap between personalities at the start of each of its turns. To determine which spirit is in control, roll on the table below (it is possible for one spirit to remain in control for multiple rounds if it is rolled multiple rounds in a row):
 | 1d6 | Spirit |
@@ -33,7 +35,9 @@
 At will: acid splash, chill touch, poison spray
 3/day: grease, thunderwave
 1/day: enlarge/reduce
+
 ### Actions
+
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 
 

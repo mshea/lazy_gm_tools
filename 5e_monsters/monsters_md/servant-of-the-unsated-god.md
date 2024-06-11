@@ -18,7 +18,9 @@
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Darakhul
+
 ### Special Abilities
+
 - **Inescapable Hunger:** Necrotic damage dealt by the servant of the Unsated God ignores resistance to necrotic damage.
 - **Master of Disguise:** A servant in a prepared disguise has advantage on Charisma (Deception) checks made to pass as a living creature. While using this ability, it loses its stench.
 - **Stench:** Any creature that starts its turn within 5 feet of the servant must succeed on a DC 13 Constitution saving throw or be poisoned until the start of its next turn. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the servant’s Stench for the next 24 hours. A servant using this ability can’t also benefit from Master of Disguise.
@@ -28,7 +30,9 @@
 Cantrips (at will): guidance, mending, resistance, thaumaturgy
 1st level (4 slots): bane, command, inflict wounds, protection from evil and good
 2nd level (3 slots): blindness/deafness, hold person, spiritual weapon
+
 ### Actions
+
 - **Multiattack:** The servant of the Unsated God makes two attacks: one with its bite and one with its mace of the devourer.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or contract darakhul fever.
 - **Mace of the Devourer:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 9 (2d8) necrotic damage. The mace is magical and infused with the Unsated God’s power while in the servant’s hands.

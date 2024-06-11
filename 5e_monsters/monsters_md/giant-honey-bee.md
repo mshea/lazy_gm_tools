@@ -16,7 +16,9 @@
 - **Skills:** survival +3
 - **Senses:** blindsight 30 ft., passive Perception 11
 - **Languages:** Bee Dance
+
 ### Actions
+
 - **Sting:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hp, the target is stable but poisoned for 1 hour, even after regaining hp, and is paralyzed while poisoned in this way.
 
 

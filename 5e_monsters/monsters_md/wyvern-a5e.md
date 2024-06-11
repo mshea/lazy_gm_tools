@@ -15,9 +15,13 @@
 - **Skills:** perception +4
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** understands Draconic but can't speak
+
 ### Special Abilities
+
 - **Imperfect Flight:** While bloodied, the wyverns fly speed is halved, and it can't gain altitude.
+
 ### Actions
+
 - **Multiattack:** The wyvern attacks once with its bite and once with its stinger. While flying  it can use its claws in place of one other attack.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (2d4 + 4) slashing damage. If the wyvern is attacking from above  the target is grappled by the wyvern (escape DC 15). While grappling a target in this way  the wyverns Speed is reduced to 0  it can't use its claws to attack any other creature  and it has advantage on attacks against the target.

@@ -18,13 +18,17 @@
 - **Damage Resistances:** cold, fire, thunder
 - **Senses:** truesight 120 ft., passive Perception 14
 - **Languages:** understands Primordial but can't speak, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Immortal Nature:** The kraken doesnt require air, sustenance, or sleep.
 - **Legendary Resistance (3/Day):** If the kraken fails a saving throw, it can choose to succeed instead. When it does so, it can use its reaction, if available, to attack with its tentacle.
 - **Magic Resistance:** The kraken has advantage on saving throws against spells and magical effects.
 - **Siege Monster:** The kraken deals double damage to objects and structures.
 - **Bloodied Ichor:** While the Kraken is bloodied and in the water, black ichor leaks from it in a 60-foot radius, spreading around corners but not leaving the water. The area is lightly obscured to all creatures except the Kraken. A creature that starts its turn in the area takes 10 (3d6) acid damage.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +18 to hit  reach 5 ft.  one target. Hit: 36 (4d12 + 10) piercing damage. If the target is a Huge or smaller creature grappled by the kraken  the target is swallowed. A swallowed creature is blinded and restrained  its Speed is 0  it has total cover from attacks from outside the kraken  and it takes 42 (12d6) acid damage at the start of each of the krakens turns.
 - **If a swallowed creature deals 50 or more damage to the kraken in a single turn, or if the kraken dies, the kraken vomits up the creature:** 
 - **Ink Cloud:** While underwater  the kraken exudes a cloud of ink in a 90-foot-radius sphere. The ink extends around corners  and the area is heavily obscured until the end of the krakens next turn or until a strong current dissipates the cloud. Each non-kraken creature in the area when the cloud appears makes a DC 24 Constitution saving throw. On a failure  it takes 27 (5d10) poison damage and is poisoned for 1 minute. On a success  it takes half damage. A poisoned creature can repeat the saving throw at the end of each of its turns. ending the effect on a success.
@@ -34,7 +38,9 @@
 - **Fling:** One Large or smaller object or creature grappled by the kraken is thrown up to 60 feet in a straight line. The target lands prone and takes 21 (6d6) bludgeoning damage. If the kraken throws the target at another creature  that creature makes a DC 26 saving throw  taking the same damage on a failure.
 
 
+
 ### Legendary Actions
+
 - **The kraken can take 3 legendary actions:** Only one legendary action can be used at a time and only at the end of another creatures turn. It regains spent legendary actions at the start of its turn.
 - **Tentacle:** The kraken makes one tentacle attack.
 - **Fling:** The kraken uses Fling.

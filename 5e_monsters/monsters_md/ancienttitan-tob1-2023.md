@@ -17,10 +17,14 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Common, Giant, Primordial, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Amphibious:** The ancient titan can breathe air and water.
 - **Magic Resistance:** The ancient titan has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The ancient titan can use its Reality-Altering Words. It then makes two Greatsword attacks or three Word of Pain attacks.
 - **Greatsword:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 36 (8d6 + 8) slashing damage.
 - **Word of Pain:** Ranged Spell Attack:+9 to hit, range 120 ft., one target. Hit: 23 (4d8 + 5) force damage, and the target must succeed on a DC 17 Constitution saving throw or have disadvantage on attack rolls, ability checks, and saving throws until the end of its next turn as pain courses through its body.

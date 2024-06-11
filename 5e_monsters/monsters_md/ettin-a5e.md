@@ -16,11 +16,15 @@
 - **Skills:** perception +2
 - **Senses:** darkvision 60 ft., passive Perception 12 (17 with Two Heads)
 - **Languages:** Common, Giant, Orc
+
 ### Special Abilities
+
 - **Reactive Heads:** The ettin can take two reactions each round, but not more than one per turn.
 - **Two Heads:** While both heads are awake, the ettin has advantage on Perception checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious, and it can't be flanked.
 - **Wakeful:** When one of the ettins heads is asleep, the other is awake.
+
 ### Actions
+
 - **Multiattack:** The ettin makes a battleaxe attack and a club attack.
 - **Battleaxe:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) slashing damage.
 - **Club:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature and the ettin is bloodied  the target makes a DC 15 Strength check and is knocked prone on a failure.

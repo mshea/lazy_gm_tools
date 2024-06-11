@@ -15,9 +15,13 @@
 - **Skills:** acrobatics +4, nature +2
 - **Senses:** passive Perception 12
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Innate Spellcasting (3/Day):** The egret harpy can innately cast suggestion, requiring no material components. Its innate spellcasting ability is Charisma.
+
 ### Actions
+
 - **Multiattack:** The egret harpy makes two attacks: one with its spear and one with its talons.
 - **Spear:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.
 - **Talons:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.

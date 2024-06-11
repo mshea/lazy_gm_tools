@@ -16,7 +16,9 @@
 - **Skills:** medicine +6, perception +6, religion +3
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Cueyatl
+
 ### Special Abilities
+
 - **Amphibious:** The cueyatl can breathe air and water.
 - **Jungle Camouflage:** The cueyatl has advantage on Dexterity (Stealth) checks made to hide in jungle terrain.
 - **Slippery:** The cueyatl moon priest has advantage on saving throws and ability checks made to escape a grapple.
@@ -26,7 +28,9 @@ Cantrips (at will): guidance, resistance, sacred flame, spare the dying
 1st level (4 slots): bane, cure wounds, protection from evil and good
 2nd level (3 slots): hold person, silence, spiritual weapon
 3rd level (2 slots): bestow curse, spirit guardians
+
 ### Actions
+
 - **Morningstar:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) piercing damage plus 7 (2d6) poison damage.
 - **Night's Chill (Recharge 5-6):** The cueyatl moon priest harnesses moonlight, dispelling magical light in a 30-foot radius. In addition, each hostile creature within 30 feet must make a DC 13 Constitution saving throw, taking 16 (3d10) cold damage on a failed save, and half as much damage on a successful one. A creature that has total cover from the moon priest is not affected.
 

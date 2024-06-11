@@ -19,10 +19,14 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
+
 ### Special Abilities
+
 - **Immutable Form:** The golem is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The wood golem has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The wood golem makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
 

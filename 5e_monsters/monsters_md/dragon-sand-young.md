@@ -19,11 +19,15 @@
 - **Condition Immunities:** blinded
 - **Senses:** blindsight 30', darkvision 120', passive Perception 21
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Sand Camouflage:** The sand dragon has advantage on Dex (Stealth) checks made to hide in sandy terrain.
 - **Sandy Nature:** Is infused with elemental power and it requires only half the air food and drink that a typical dragon if its size needs.
 - **Stinging Sand:** The first time it hits a target with melee weapon attack target: DC 17 Con save or have disadvantage on attack rolls and ability checks until end of its next turn.
+
 ### Actions
+
 - **Multiattack:** One Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 16 (2d10+5) piercing damage.
 - **Claw:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 12 (2d6+5) slashing damage.

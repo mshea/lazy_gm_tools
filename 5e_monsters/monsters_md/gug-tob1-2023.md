@@ -18,9 +18,13 @@
 - **Condition Immunities:** exhaustion, paralyzed, poisoned
 - **Senses:** darkvision 240 ft., passive Perception 13
 - **Languages:** Deep Speech, Giant, Undercommon
+
 ### Special Abilities
+
 - **Towering Strength:** The gug is considered to be a Gargantuan giant for the purpose of determining its carrying capacity.
+
 ### Actions
+
 - **Multiattack:** The gug makes two four Grasping Claw attacks, or it makes two Grasping Claw attacks and two Stomp attacks. It can replace one Grasping Claw attack with a use of Fling or Swallow.
 - **Grasping Claw:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) bludgeoning damage, and the target is grappled (escape DC 17) if it is a Large or smaller creature. The gug has four Grasping Claws, each of which can grapple only one target.
 - **Stomp:** Melee Weapon Attack: +11 to hit, reach 10 ft. Hit: 20 (2d12 + 7) bludgeoning damage, and the target must succeed on a DC 17 Strength saving throw or be knocked prone.

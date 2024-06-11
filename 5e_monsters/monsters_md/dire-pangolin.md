@@ -16,10 +16,14 @@
 - **Damage Resistances:** poison
 - **Senses:** passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Edged Scales:** A creature that touches the pangolin or hits it with melee attack while within 5 ft. of it takes 4 (1d8) slashing damage.
 - **Keen Hearing and Smell:** The pangolin has advantage on Wis (Perception) checks that rely on hearing or smell.
+
 ### Actions
+
 - **Multiattack:** Two Claws attacks and one Tail Slap attack.
 - **Claws:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 10 (2d6+4) slashing damage.
 - **Tail Slap:** Melee Weapon Attack: +6 to hit, 10 ft., one target, 8 (1d8+4) piercing damage and the target must make DC 14 Str save or be knocked prone.

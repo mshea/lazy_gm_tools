@@ -15,10 +15,14 @@
 - **Skills:** perception +4, stealth +4
 - **Senses:** darkvision 120 ft., passive Perception 14
 - **Languages:** Giant Owl; understands but can't speak Common, Elvish, and Sylvan
+
 ### Special Abilities
+
 - **Flyby:** The owl doesnt provoke opportunity attacks when it flies out of a creatures reach.
 - **Keen Hearing and Sight:** The owl has advantage on Perception checks that rely on hearing and sight.
+
 ### Actions
+
 - **Talons:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6+1) slashing damage.
 
 

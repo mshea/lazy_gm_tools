@@ -17,10 +17,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Coastal Camouflage:** The serpopard has advantage on Dexterity (Stealth) checks made to hide in sandy, muddy, or swampy terrain.
 - **Sinuous Strikeback:** The serpopard gets two extra reactions that can be used only for opportunity attacks.
+
 ### Actions
+
 - **Multiattack:** The serpopard makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 12 (2d8 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.

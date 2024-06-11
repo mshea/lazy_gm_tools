@@ -16,12 +16,16 @@
 - **Condition Immunities:** blinded, charmed, deafened, poisoned, prone
 - **Senses:** tremorsense 60 ft., passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Touch:** The angler worm has advantage on Wisdom (Perception) checks that rely on vibrations.
 - **Snare Walker:** The angler worm ignores movement restrictions caused by its snares or the snares of other angler worms.
 - **Spider Climb:** The angler worm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 - **Transparent Trap:** With 10 minutes of work, the angler worm can create a web of nearly transparent snares in a 20-foot cube. The web must be anchored between two solid masses or layered across a floor, wall, or ceiling. A web of snares layered over a flat surface has a depth of 5 feet. The web is difficult terrain, and the snares forming it are nearly transparent, requiring a successful DC 15 Wisdom (Perception) check to notice them.
+
 ### Actions
+
 - **Multiattack:** The angler worm makes two Bite attacks or one Bite attack and one Coils attack.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage plus 3 (1d6) acid damage.
 - **Coils:** Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 12 (3d6 + 2) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained by the angler worm, it can’t breathe, it takes 10 (3d6) bludgeoning damage at the start of each of the angler worm’s turns, and the angler worm can’t use its Coils on another target.

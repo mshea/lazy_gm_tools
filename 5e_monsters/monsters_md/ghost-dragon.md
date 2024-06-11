@@ -19,10 +19,14 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** any languages it knew in life
+
 ### Special Abilities
+
 - **Ethereal Sight:** The ghost dragon can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
 - **Incorporeal Movement:** The ghost dragon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
 ### Actions
+
 - **Multiattack:** The ghost dragon makes one claw attack and one withering bite attack.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 - **Withering Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and the target must succeed on a DC 17 Constitution saving throw or take 18 (4d8) necrotic damage.

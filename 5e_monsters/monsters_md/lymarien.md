@@ -15,10 +15,14 @@
 - **Skills:** perception +3, stealth +5
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Sylvan
+
 ### Special Abilities
+
 - **Distracting Swoop:** If the lymarien moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 11 Wisdom saving throw or be distracted until the end of its next turn. A distracted creature has disadvantage on its next attack roll or ability check.
 - **Speak with Beasts:** The lymarien can communicate with beasts as if they shared a language.
+
 ### Actions
+
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
 
 

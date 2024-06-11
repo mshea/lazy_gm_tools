@@ -19,9 +19,13 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60ft., passive Perception 15
 - **Languages:** Abyssal, Common, Darakhul; telepathy 60 ft.
+
 ### Special Abilities
+
 - **Shapechanger:** The pishacha can use its action to polymorph into a tiger or a wolf, or back into its true form. Other than its size, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
 ### Actions
+
 - **Multiattack:** The pishacha makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.

@@ -17,11 +17,15 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 90 ft. (blind beyond this radius), passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Amorphous:** The sap demon can move through a space as narrow as 1 inch wide without squeezing.
 - **Ooze Nature:** The sap demon doesn’t require sleep.
 - **Season’s Change:** If the sap demon takes fire damage, its speed is increased by 10 feet until the end of its next turn. If it takes cold damage, its speed is reduced by 10 feet until the end of its next turn.
+
 ### Actions
+
 - **Multiattack:** The sap demon makes two Slam or Lob Sap attacks. If both Slam attacks hit a Medium or smaller creature, the creature is grappled (escape DC 12).
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage plus 7 (2d6) acid damage.
 - **Lob Sap:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 12 (3d6 + 2) bludgeoning damage, and the target’s speed is reduced by 10 feet until the end of its next turn.

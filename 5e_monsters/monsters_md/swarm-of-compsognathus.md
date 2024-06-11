@@ -17,10 +17,14 @@
 - **Condition Immunities:** charmed, frightened, grappled, prone, restrained, stunned
 - **Senses:** passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Grasslands Camouflage:** The compsognathus has advantage on Dexterity (Stealth) checks made to hide in tall grass.
 - **Swarm:** The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny compsognathus. The swarm can’t regain hp or gain temporary hp.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hp or fewer.
 
 

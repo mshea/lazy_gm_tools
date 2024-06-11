@@ -18,12 +18,16 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** understands the languages of its creator but can’t speak
+
 ### Special Abilities
+
 - **Immutable Form:** The thornheart guardian is immune to any spell or effect that would alter its form
 - **Magic Resistance:** The thornheart guardian has advantage on saving throws against spells and other magical effects.
 - **Magic Weapons:** The thornheart guardian’s weapon attacks are magical
 - **Woodland Walk:** Difficult terrain composed of nonmagical plants doesn’t cost the thornheart guardian extra movement. In addition, the thornheart guardian can pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+
 ### Actions
+
 - **Multiattack:** The thornheart guardian makes three attacks: two with its barbed greatsword and one with its thorny whip.
 - **Barbed Greatsword:** Melee Weapon Attack +8 to hit, reach 5 ft, one target. Hit: 13 (2d8 + 4) slashing damage plus 7 (2d6) piercing damage.
 - **Thorny Whip:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 16) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained, the guardian can automatically hit the target with its thorny whip, and the guardian can’t make thorny whip attacks against other targets.

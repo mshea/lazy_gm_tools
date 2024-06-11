@@ -16,9 +16,13 @@
 - **Skills:** athletics +5, history +0, perception +2
 - **Senses:** passive Perception 12
 - **Languages:** any two
+
 ### Special Abilities
+
 - **Brave:** The knight has advantage on saving throws against being frightened.
+
 ### Actions
+
 - **Multiattack:** The knight attacks twice with their greatsword.
 - **Greatsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Lance (Mounted Only):** Melee Weapon Attack: +5 to hit  reach 10 ft.  one target. Hit: 9 (1d12 + 3) piercing damage. If the knight moves at least 20 feet straight towards the target before the attack  they deal an extra 6 (1d12) piercing damage  and the target makes a DC 13 Strength saving throw  falling prone on a failure. This attack is made at disadvantage against targets within 5 feet.

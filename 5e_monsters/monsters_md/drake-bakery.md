@@ -18,10 +18,14 @@
 - **Condition Immunities:** paralyzed, unconscious
 - **Senses:** darkvision 60', passive Perception 12
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Fire Weakness:** If it takes fire it can’t use Yeast Slurry on its next turn. In addition if drake fails a save vs. a spell or magical effect that deals fire it becomes poisoned until end of its next turn.
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
+
 ### Actions
+
 - **Multiattack:** Makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) slashing damage.

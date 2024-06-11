@@ -16,9 +16,13 @@
 - **Condition Immunities:** exhaustion
 - **Senses:** passive Perception 11
 - **Languages:** —
+
 ### Special Abilities
+
 - **Siege Monster:** The ychen bannog deals double damage to objects and structures.
+
 ### Actions
+
 - **Multiattack:** The ychen bannog makes one Gore attack and two Stomp attacks.
 - **Gore:** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 25 (3d10 + 9) piercing damage. If the ychen bannog scores a critical hit, it rolls damage dice three times, instead of twice.
 - **Stomp:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.

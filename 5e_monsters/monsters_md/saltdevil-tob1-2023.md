@@ -19,11 +19,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Gnoll, Infernal, telepathy 120 ft.
+
 ### Special Abilities
+
 - **Devil’s Sight:** Magical darkness doesn’t impede the salt devil’s darkvision.
 - **Magic Resistance:** The salt devil has advantage on saving throws against spells and other magical effects.
 - **Salt-Encrusted Hide:** A creature that touches the salt devil or hits it with a melee attack while within 5 feet of it takes 3 (1d6) slashing damage.
+
 ### Actions
+
 - **Multiattack:** The salt devil makes two Scimitar attacks and one Water-Draining Claw attack.
 - **Scimitar:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 - **Water-Draining Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage. If the target is a creature that isn’t a Construct or Undead, it must make a DC 15 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one. Plants, Oozes, and creatures with the Amphibious, Water Breathing, or Water Form traits have disadvantage on this saving throw. If the saving throw fails by 5 or more, the target also suffers one level of exhaustion.

@@ -18,12 +18,16 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60', passive Perception 15
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Diving Pounce:** If flying and moves 20'+ straight toward a creature and then hits it with claw on the same turn target must make DC 13 Str save or be knocked prone. If target is prone drake can make one Bite vs. it as a bonus action.
 - **Gaseous Ascension:** Must regularly inhale swamp gases to maintain its flight. If it can’t breathe or isn’t in swampy terrain loses its fly speed. Also when it uses Poisonous Breath it loses its fly speed until Poisonous Breath recharges.
 - **Speak with Beasts:** Can communicate with Beasts native to swampland as if they shared a language.
 - **Swamp Camouflage:** Advantage on Dex (Stealth) checks made to hide in swampy terrain.
+
 ### Actions
+
 - **Multiattack:** One Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 13 (2d8+4) piercing damage and target must make DC 15 Con save or be poisoned for 1 min. Creature can re-save at end of each of its turns success ends effect on itself.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.

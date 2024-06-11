@@ -17,10 +17,14 @@
 - **Damage Immunities:** cold
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Cold Mastery:** The dragon is not hindered by cold, icy surfaces, snow, wind, or storms. Additionally, the dragon can choose to burrow through snow and ice without leaving a trace.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 13). It can innately cast the following spells, requiring no material components. 3/day each:animal friendship, sleet storm
+
 ### Actions
+
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) cold damage.
 - **Claw:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.

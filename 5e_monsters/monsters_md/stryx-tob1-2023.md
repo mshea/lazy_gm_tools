@@ -15,10 +15,14 @@
 - **Skills:** Perception +4, Stealth +6
 - **Senses:** darkvision 120 ft., passive Perception 14
 - **Languages:** Common, Elvish
+
 ### Special Abilities
+
 - **False Appearance:** While the stryx keeps its beak closed and doesn’t speak, it is indistinguishable from a normal owl.
 - **Flyby:** The stryx doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 - **Keen Hearing and Sight:** The stryx has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+
 ### Actions
+
 - **Talons:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 - **Spellcasting:** (3/Day)The stryx casts the comprehend languages spell, requiring no material components and using Wisdom as the spellcasting ability.

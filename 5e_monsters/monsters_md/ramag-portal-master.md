@@ -15,7 +15,9 @@
 - **Skills:** arcana +7, history +7, investigation +7
 - **Senses:** passive Perception 11
 - **Languages:** Abyssal, Celestial, Common, Giant, Infernal
+
 ### Special Abilities
+
 - **Magic Resistance:** The ramag has advantage on saving throws against spells and other magical effects.
 - **Spellcasting:** The ramag portal master is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:
 Cantrips (at will): fire bolt, light, prestidigitation, shocking grasp
@@ -23,7 +25,9 @@ Cantrips (at will): fire bolt, light, prestidigitation, shocking grasp
 2nd level (3 slots): arcane lock, hold person, levitate, misty step
 3rd level (3 slots): counterspell, dispel magic, fireball
 4th level (1 slot): banishment
+
 ### Actions
+
 - **Multiattack:** The ramag portal master makes two lightning stroke attacks.
 - **Gate Seal:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 14 (4d6) force damage.
 - **Lightning Stroke:** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 14 (4d6) lightning damage. If the target is a creature, it can't take reactions until the start of the ramag's next turn.

@@ -17,9 +17,13 @@
 - **Damage Immunities:** thunder
 - **Senses:** blindsight 60 ft., passive Perception 10
 - **Languages:** —
+
 ### Special Abilities
+
 - **Echolocation:** The shriekbat can’t use its blindsight while deafened.
+
 ### Actions
+
 - **Multiattack:** The shriekbat makes two attacks: one with its bite and one with its talons.
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) piercing damage.
 - **Talons:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (3d6 + 7) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the shriekbat can’t use its talons on another target.

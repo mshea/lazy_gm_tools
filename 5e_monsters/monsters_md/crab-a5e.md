@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** blindsight 30 ft., passive Perception 9
 - **Languages:** 
+
 ### Special Abilities
+
 - **Amphibious:** The crab can breathe air and water.
+
 ### Actions
+
 - **Claws:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 1 bludgeoning damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
 
 

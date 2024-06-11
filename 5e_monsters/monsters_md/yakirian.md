@@ -17,9 +17,13 @@
 - **Damage Resistances:** cold
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Yakirian, understands Void Speech but won't speak it
+
 ### Special Abilities
+
 - **Resilient Soul:** The yakirian has advantage on saving throws against being charmed, frightened, or confused, as well as against any effect that causes corruption or madness.
+
 ### Actions
+
 - **Multiattack:** The yakirian makes two attacks: one with its gore and one with its ritual knife.
 - **Gore:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Ritual Knife:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.

@@ -19,11 +19,15 @@
 - **Condition Immunities:** exhaustion
 - **Senses:** darkvision 90 ft., passive Perception 18
 - **Languages:** Deep Speech, telepathy 60 ft.
+
 ### Special Abilities
+
 - **Aura of Lassitude:** A creature that starts its turn within 30 feet of the galidroo must succeed on a DC 17 Constitution saving throw or feel lethargic until the start of its next turn. While lethargic, a creature can’t use reactions, its speed is halved, and it can’t make more than one melee or ranged attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. On a successful saving throw, the creature is immune to the galidroo’s Aura of Lassitude for the next 24 hours.
 - **Selective Precognition:** The galidroo can see into the past, present, and future simultaneously. It can innately cast divination and legend lore once per day each, requiring no material components. Its innate spellcasting ability is Wisdom. The galidroo can’t use these spells to gain information about itself or its personal future or past.
 - **Two-Headed:** The galidroo has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+
 ### Actions
+
 - **Multiattack:** The galidroo makes four attacks: two with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
 - **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.

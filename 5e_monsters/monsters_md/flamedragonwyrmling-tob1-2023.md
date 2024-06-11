@@ -17,8 +17,12 @@
 - **Damage Immunities:** fire
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Draconic, Ignan
+
 ### Special Abilities
+
 - **Heated Body:** A creature that touches the flame dragon or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10 + 1) piercing damage plus 3 (1d6) fire damage.
 - **Fire Breath (Recharge 5–6):** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 17 (5d6) fire damage on a failed save, or half as much damage on a successful one.

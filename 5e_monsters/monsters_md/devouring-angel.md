@@ -16,12 +16,16 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
 - **Senses:** blindsight 120' (blind beyond), passive Perception 17
 - **Languages:** understands Common and Celestial but can’t speak
+
 ### Special Abilities
+
 - **Assisted Leaping:** Can use its quasi-wings to fly up to 30' on its turn but it must start and end its move on a solid surface such as a roof or the ground. If it is flying at the end of its turn it falls to the ground and takes falling damage.
 - **Flexible Form:** Can twist its body into unnatural positions allowing it to easily move through any opening large enough for a Small creature. It can squeeze through any opening large enough for a Tiny creature. The angel’s destination must still have suitable room to accommodate its volume.
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
 - **Limited Telepathy:** Can magically communicate simple ideas emotions and images telepathically with any creature within 100' of it that can understand a language.
+
 ### Actions
+
 - **Multiattack:** 1 Bite and 4 Claws. Can replace 1 Claw with Spiked Tongue.
 - **Bite:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 16 (2d10+5) piercing damage + 10 (3d6) acid.
 - **Claw:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 12 (2d6+5) slashing damage.

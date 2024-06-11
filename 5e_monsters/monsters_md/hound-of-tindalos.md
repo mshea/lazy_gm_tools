@@ -19,13 +19,17 @@
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 120 ft., passive Perception 16
 - **Languages:** Void Speech
+
 ### Special Abilities
+
 - **Entrance by Corners:** The hound of Tindalos may only enter the Material Plane at a sharp intersection of surfaces. As a bonus action, the hound can teleport from one location to another within sight of the first, provided it travels from one sharp corner to another.
 - **Keen Smell:** The hound of Tindalos has advantage on Wisdom (Perception) checks that rely smell.
 - **Magic Resistance:** The hound of Tindalos has advantage on saving throws against spells and other magical effects.
 - **Pounce:** If the hound of Tindalos moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the hound of Tindalos can make one tongue attack against it as a bonus action.
 - **Slippery:** The hound of Tindalos has advantage on ability checks and saving throws made to escape a grapple.
+
 ### Actions
+
 - **Multiattack:** The hound of Tindalos makes two claw attacks and one bite attack. It can make one tongue attack in place of its two claw attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.

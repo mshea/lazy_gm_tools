@@ -17,10 +17,14 @@
 - **Damage Immunities:** fire
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Valor:** Creatures of the dragons choice within 30 feet gain a +1 bonus to saving throws and are immune to the charmed and frightened conditions.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 17). It can innately cast the following spells, requiring no material components. 3/day each:bless, healing word
+
 ### Actions
+
 - **Multiattack:** The dragon attacks with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) fire damage.
 - **Claws:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 15 (2d8 + 6) slashing damage.

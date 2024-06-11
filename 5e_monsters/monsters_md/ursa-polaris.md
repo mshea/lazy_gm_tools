@@ -17,10 +17,14 @@
 - **Damage Immunities:** cold
 - **Senses:** passive Perception 16
 - **Languages:** -
+
 ### Special Abilities
+
 - **Keen Smell:** The ursa polaris has advantage on Wisdom (Perception) checks that rely on smell.
 - **Snow Camouflage:** The ursa polaris has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+
 ### Actions
+
 - **Multiattack:** The ursa polaris makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) cold damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.

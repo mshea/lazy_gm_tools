@@ -16,9 +16,13 @@
 - **Damage Immunities:** cold
 - **Senses:** passive Perception 10
 - **Languages:** Sylvan
+
 ### Special Abilities
+
 - **Deft Snow Walk:** The fraughashar can move across icy surfaces without needing to make an ability check, and difficult terrain composed of ice and snow doesn’t cost it extra movement. In addition, the fraughashar has advantage on Strength and Dexterity saving throws made against effects that would knock it prone while in icy or snowy terrain.
+
 ### Actions
+
 - **Multiattack:** The fraughashar makes one Bite attack and one Dagger attack.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Dagger:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.

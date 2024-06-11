@@ -15,7 +15,9 @@
 - **Condition Immunities:** paralyzed
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** —
+
 ### Actions
+
 - **Multiattack:** The beetle makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft, one target. Hit: 10 (1d12 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slashing damage.

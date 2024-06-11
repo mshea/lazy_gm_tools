@@ -17,10 +17,14 @@
 - **Condition Immunities:** frightened
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Giant
+
 ### Special Abilities
+
 - **Indomitable:** Any spell or effect that would make the xing tian paralyzed, restrained, or stunned ends at the end of the xing tian’s next turn, regardless of the spell or effect’s normal duration.
 - **Sure-Footed:** The xing tian has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+
 ### Actions
+
 - **Multiattack:** The xing tian makes three attacks: one with its shield slam and two with its battleaxe. If both battleaxe attacks hit the same target, the target must succeed on a DC 16 Dexterity saving throw or take an extra 11 (2d10) piercing damage as the xing tian bites the target.
 - **Battleaxe:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) slashing damage, or 22 (3d10 + 6) slashing damage if used with two hands.
 - **Shield Slam:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.

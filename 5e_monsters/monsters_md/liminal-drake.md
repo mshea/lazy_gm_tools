@@ -19,13 +19,17 @@
 - **Condition Immunities:** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 - **Senses:** darkvision 120 ft., passive Perception 14
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Incorporeal Movement:** The drake can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 - **Nauseating Luminance:** When a creature that can see the drake starts its turn within 60 feet of the drake, the drake can force it to make a DC 16 Constitution saving throw if the drake isn’t incapacitated and can see the creature. On a failed save, the creature is incapacitated until the start of its next turn.
 
 Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can’t see the drake until the start of its next turn, when it can avert its eyes again. If the creature looks at the drake in the meantime, it must immediately make the save.
 - **Void Dweller:** When traveling through the void between stars, the liminal drake magically glides on solar winds, making the immense journey in an impossibly short time.
+
 ### Actions
+
 - **Multiattack:** The liminal drake makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 14 (2d10 + 3) piercing damage plus 18 (4d8) cold damage.
 - **Claw:** Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) slashing damage plus 9 (2d8) cold damage.

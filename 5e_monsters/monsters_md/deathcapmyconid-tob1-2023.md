@@ -14,9 +14,13 @@
 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** —
+
 ### Special Abilities
+
 - **Sunlight Hypersensitivity:** The deathcap takes 10 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+
 ### Actions
+
 - **Multiattack:** The myconid can use its Eject Spores. It then makes two Spore-Coated Fist attacks.
 - **Spore-Coated Fist:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 10 (3d6) poison damage.
 - **Eject Spores:** The myconid ejects one of the following types of spores at one creature it can see within 15 feet of it.

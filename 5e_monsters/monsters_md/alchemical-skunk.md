@@ -15,10 +15,14 @@
 - **Skills:** perception +3, stealth +5
 - **Senses:** blindsight 10 ft., passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Hearing and Smell:** The alchemical skunk has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 - **Magic Resistance:** The alchemical skunk has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The alchemical skunk uses its Alchemical Spray. It then makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.

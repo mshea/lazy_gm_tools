@@ -16,10 +16,14 @@
 - **Skills:** perception +3
 - **Senses:** passive Perception 16
 - **Languages:** Common, Sylvan
+
 ### Special Abilities
+
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Speak with Beasts:** Can communicate with Beasts as if they shared a language.
+
 ### Actions
+
 - **Multiattack:** Three Mystic Staff or Magical Blast attacks. Can replace one of the attacks with use of Spellcasting.
 - **Mystic Staff:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 7 (1d4+5) bludgeoning damage + 3 (1d6) psychic.
 - **Mystic Blast:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 10 (2d6+3) psychic.

@@ -15,9 +15,13 @@
 - **Skills:** perception +3
 - **Senses:** passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Mimicry:** The raven can imitate sounds it hears frequently, such as a simple phrase or an animal noise. Recognizing the sounds as imitation requires a DC 10 Insight check.
+
 ### Actions
+
 - **Beak:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 1 piercing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
 
 

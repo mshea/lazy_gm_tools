@@ -17,10 +17,14 @@
 - **Damage Immunities:** lightning, thunder
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 15
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Amphibious:** The dragon can breathe air and water.
 - **Innate Spellcasting (1/Day):** The dragon can innately cast fog cloud, requiring no material components. Its innate spellcasting ability is Charisma.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 

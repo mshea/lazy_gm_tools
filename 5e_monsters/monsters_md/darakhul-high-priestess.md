@@ -19,7 +19,9 @@
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Darakhul
+
 ### Special Abilities
+
 - **Frenzy:** The darakhul high priestess can make three extra bite attacks on her turn as a bonus action. If any of these attacks miss, all attacks against her have advantage until the end of her next turn.
 - **Master of Disguise:** A darakhul in a prepared disguise has advantage on Charisma (Deception) checks made to pass as a living creature. While using this ability, the darakhul loses her stench.
 - **Stench:** Any creature that starts its turn within 5 feet of the darakhul must succeed on a DC 15 Constitution saving throw or be poisoned until the start of its next turn. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the darakhul's Stench for the next 24 hours. A darakhul high priestess using this ability can't also benefit from Master of Disguise.
@@ -35,7 +37,9 @@ Cantrips (at will): guidance, mending, resistance, sacred flame, spare the dying
 6th level (1 slot): create undead
 7th level (1 slot): regenerate
 8th level (1 slot): antimagic field
+
 ### Actions
+
 - **Multiattack:** The darakhul high priestess makes two claw attacks and one bite attack.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage plus 9 (2d8) necrotic damage and, if the target is a humanoid, it must succeed on a DC 16 Constitution saving throw or contract darakhul fever.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a humanoid is paralyzed for more than 2 rounds, it contracts darakhul fever.

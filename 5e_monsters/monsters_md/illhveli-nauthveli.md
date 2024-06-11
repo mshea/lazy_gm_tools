@@ -18,11 +18,15 @@
 - **Condition Immunities:** frightened, prone
 - **Senses:** darkvision 60 ft., passive Perception 17
 - **Languages:** understands Common but can’t speak
+
 ### Special Abilities
+
 - **Hold Breath:** The nauthveli can hold its breath for 1 hour.
 - **Siege Monster:** The nauthveli deals double damage to objects and structures.
 - **Terror of the High Seas:** The nauthveli is surrounded by a supernatural aura of dread. Each creature that starts its turn within 60 feet of the nauthveli must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature immersed in water has disadvantage on this saving throw. A frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the nauthveli’s Terror of the High Seas for the next 24 hours.
+
 ### Actions
+
 - **Multiattack:** The nauthveli makes one bite attack and one tail attack.
 - **Bite:** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 31 (6d6 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the nauthveli can’t bite another target.
 - **Tail:** Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 28 (4d8 + 10) bludgeoning damage.

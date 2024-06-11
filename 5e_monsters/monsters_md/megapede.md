@@ -16,9 +16,13 @@
 - **Damage Immunities:** acid
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 8
 - **Languages:** -
+
 ### Special Abilities
+
 - **Metal Sense:** The megapede can sense any metal within 600 feet of it. It knows the direction to the metal and can identify the specific type of metal within the area.
+
 ### Actions
+
 - **Multiattack:** The megapede makes one stinger attack and one bite attack. It can use its Consume Metal in place of its bite attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the megapede has advantage on attacks against the grappled target, and it can't make bite attacks against another target.
 - **Stinger:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) piercing damage and the target must make a DC 13 Constitution saving throw or become poisoned for 1 minute.

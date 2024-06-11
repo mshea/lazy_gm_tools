@@ -18,11 +18,15 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, poisoned
 - **Senses:** truesight 60 ft., passive Perception 18
 - **Languages:** all
+
 ### Special Abilities
+
 - **Aura of Necromancy's Bane:** When an undead creature starts its turn within 30 feet of the ankou, the undead must make a DC 15 Constitution saving throw, taking 7 (2d6) radiant damage on a failed save, or half as much damage on a successful one.
 - **Cloak of Shadows:** As a bonus action while in dim light or darkness, the ankou becomes invisible. The cloak of shadows ends when the ankou chooses to end it as a bonus action, when the ankou dies, or if the ankou ends its turn in bright light.
 - **Death Ascended:** The ankou has the celestial type in addition to the dragon type.
+
 ### Actions
+
 - **Multiattack:** The ankou makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (2d10 + 3) piercing damage plus 4 (1d8) cold damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.

@@ -18,10 +18,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 14
 - **Languages:** -
+
 ### Special Abilities
+
 - **Foul Odor:** Any creature that starts its turn within 15 feet of the giant sloth must succeed on a DC 15 Constitution saving throw or have disadvantage on its next attack roll or ability check.
 - **Hunter's Dash (1/Day):** The giant sloth moves double its normal speed and has advantage on all of its attacks for 1 round.
+
 ### Actions
+
 - **Multiattack:** The giant sloth makes two attacks: one with its claw and one with its bite. If the giant sloth is grappling a creature, it can also use its Sloth's Embrace once.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) slashing damage. The target is grappled (escape DC 15) if it is a Large or smaller creature and the sloth doesn't have another creature grappled.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage.

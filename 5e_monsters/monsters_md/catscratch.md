@@ -17,11 +17,15 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Smell:** The catscratch has advantage on Wisdom (Perception) checks that rely on smell.
 - **Nine Lives (Recharges after a Short or Long Rest):** When the catscratch would be reduced to 0 hp, it instead drops to 9 hp.
 - **Pounce:** If the catscratch moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the catscratch can make one bite attack against it as a bonus action.
+
 ### Actions
+
 - **Multiattack:** The catscratch makes one bite attack and one claw attack.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. A felid or feline humanoid that fails this saving throw contracts catscratch fugue.
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage.

@@ -16,9 +16,13 @@
 - **Skills:** athletics +7, perception +5, survival +5
 - **Senses:** passive Perception 15
 - **Languages:** Centaur, Common, Sylvan
+
 ### Special Abilities
+
 - **Charge:** If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 14 (4d6) piercing damage.
+
 ### Actions
+
 - **Multiattack:** The centaur chieftain makes two attacks: one with its pike and one with its hooves or two with its longbow.
 - **Pike:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Hooves:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.

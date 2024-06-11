@@ -17,10 +17,14 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Celestial, Common; telepathy 100 ft.
+
 ### Special Abilities
+
 - **I'm Bigger That's Why:** As a bonus action, the ratatosk warlord commands one ratatosk within 30 feet of it to make one melee attack as a reaction.
 - **Warlord Skitter:** The ratatosk warlord can take the Dash or Disengage action as a bonus action on each of its turns.
+
 ### Actions
+
 - **Multiattack:** The ratatosk warlord makes two attacks: one with its gore and one with its ratatosk shortspear.
 - **Ratatosk Shortspear:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 - **Gore:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage plus 14 (4d6) psychic damage.

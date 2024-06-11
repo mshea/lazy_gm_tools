@@ -16,10 +16,14 @@
 - **Skills:** perception +4, stealth +4
 - **Senses:** darkvision 120 ft., passive Perception 14
 - **Languages:** Draconic
+
 ### Special Abilities
+
 - **Quill Regrowth:** The peluda has 24 large, spiny quills and dozens of smaller ones. It uses a large quill every time it makes a quill attack or a creature is successfully damaged by its Spiky Hide. Used quills regrow when it finishes a long rest.
 - **Spiky Hide:** A creature that touches the peluda or hits it with a melee attack while within 5 feet of it must succeed on a DC 13 Dexterity saving throw or take 4 (1d8) piercing damage and 3 (1d6) poison damage.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
 - **Tail:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 3 (1d6) poison damage.
 - **Quill:** Ranged Weapon Attack: +5 to hit, range 20/80 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 3 (1d6) poison damage.

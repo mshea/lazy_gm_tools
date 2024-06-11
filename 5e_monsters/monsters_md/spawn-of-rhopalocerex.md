@@ -19,9 +19,13 @@
 - **Condition Immunities:** poisoned, prone
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Infernal, telepathy 60 ft.
+
 ### Special Abilities
+
 - **Magic Resistance:** The spawn has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Multiattack:** The spawn of Rhopalocerex makes one bite attack and two claw attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft. or range 5 ft., one creature. Hit: 7 (1d6 + 4) slashing damage.

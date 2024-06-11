@@ -16,13 +16,17 @@
 - **Skills:** acrobatics +8, perception +1, stealth +8
 - **Senses:** darkvision 120 ft., passive Perception 11
 - **Languages:** Common, Dwarvish, Undercommon
+
 ### Special Abilities
+
 - **Erratic Movement:** The shadowseeker can take the Disengage or Hide action as a bonus action on each of its turns. In addition, opportunity attacks against the shadowseeker are made with disadvantage.
 - **Evasion:** If the shadowseeker is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the shadowseeker instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 - **Magic Resistance:** The shadowseeker has advantage on saving throws against spells and other magical effects.
 - **Sneak Attack (1/Turn):** The shadowseeker deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the shadowseeker that isn’t incapacitated and the shadowseeker doesn’t have disadvantage on the attack roll.
 - **Sunlight Sensitivity:** While in sunlight, the shadowseeker has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
 ### Actions
+
 - **Multiattack:** The derro shadowseeker makes three melee attacks.
 - **Dagger:** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing damage.
 - **Light Crossbow:** Ranged Weapon Attack: +8 to hit, range 80/320 ft., one target. Hit: 9 (1d8 + 5) piercing damage.

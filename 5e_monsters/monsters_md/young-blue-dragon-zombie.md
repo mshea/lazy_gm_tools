@@ -18,9 +18,13 @@
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 9
 - **Languages:** understands the languages it knew in life but can’t speak
+
 ### Special Abilities
+
 - **Undead Fortitude:** If damage reduces the zombie to 0 hp, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hp instead.
+
 ### Actions
+
 - **Multiattack:** The dragon zombie makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage plus 5 (1d10) necrotic damage.
 - **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.

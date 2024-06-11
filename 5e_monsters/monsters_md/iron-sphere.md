@@ -18,12 +18,16 @@
 - **Condition Immunities:** charmed, exhaustion, frightened, poisoned, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 13
 - **Languages:** understands the languages of its creator but can't speak
+
 ### Special Abilities
+
 - **Immutable Form:** The sphere is immune to any spell or effect that would alter its form.
 - **Siege Monster:** The sphere deals double damage to objects and structures.
 - **Standing Leap:** The sphere can launch itself into the air by extending the rods within it like pistons. The sphere's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
 - **Tunneler:** The sphere can burrow through solid rock at half its burrow speed and leaves a 5-foot-wide, 5-foot-high tunnel in its wake.
+
 ### Actions
+
 - **Multiattack:** The iron sphere makes three melee attacks.
 - **Blade:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 - **Piston:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage.

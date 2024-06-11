@@ -18,7 +18,9 @@
 - **Condition Immunities:** poisoned, restrained
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 13
 - **Languages:** Deep Speech, Elvish
+
 ### Special Abilities
+
 - **Spider Climb:** The lunarchidna can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 - **Sunlight Sensitivity:** While in sunlight, the lunarchidna has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 - **Web Walker:** The lunarchidna ignores movement restrictions caused by webbing.
@@ -26,7 +28,9 @@
 Cantrips (at will): minor illusion, mage hand, poison spray, ray of frost
 1st level (4 slots): detect magic, magic missile, shield
 2nd level (3 slots): alter self, suggestion
+
 ### Actions
+
 - **Multiattack:** The lunarchidna makes two attacks: one with its bite and one with its claws. If the lunarchidna hits a Medium or smaller target with both attacks on the same turn, the target is restrained by webbing and the lunarchidna uses Wrap Up.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.

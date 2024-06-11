@@ -16,9 +16,13 @@
 - **Damage Resistances:** bludgeoning
 - **Senses:** blindsight 60 ft., passive Perception 8
 - **Languages:** —
+
 ### Special Abilities
+
 - **Dual Brain:** The rock roach has two brains: one in its head and one in its abdomen. It can continue functioning normally, even if its head is removed or destroyed. While both its brains are intact, the rock roach uses its Constitution modifier instead of its Intelligence modifier when making Intelligence saving throws.
+
 ### Actions
+
 - **Multiattack:** The rock roach makes two bite attacks. Alternatively, it can use Acid Spit twice.
 - **Acid Spit:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) acid damage, and the target takes 3 (1d6) acid damage at the start of its next turn unless the target immediately uses its reaction to wipe off the spit.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.

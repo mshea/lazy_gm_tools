@@ -16,11 +16,15 @@
 - **Skills:** arcana +6, deception +6, insight +5, perception +5, stealth +5
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Abyssal, Common, Infernal
+
 ### Special Abilities
+
 - **Curse:** A creature touched by the hags claws is magically cursed for 30 days. While under this curse, the target has disadvantage on attack rolls made against the hag.
 - **Evil:** The hag radiates an Evil aura.
 - **Magic Resistance:** The hag has advantage on saving throws against spells and magical effects.
+
 ### Actions
+
 - **Claws:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one creature. Hit: 12 (2d8 + 3) slashing damage  and the target is subject to the hags Curse trait.
 - **Sleep Touch:** Melee Spell Attack: +5 to hit  reach 5 ft.  one creature. Hit: The target falls asleep for 4 hours or until it takes damage or is shaken awake. Once the hag successfully hits a target  it can't make this attack again until it finishes a long rest.
 - **Shapeshift:** The hag magically polymorphs into a Small or Medium humanoid. Equipment it is carrying isnt transformed. It retains its claws in any form. It has no true form and remains in its current form when it dies.

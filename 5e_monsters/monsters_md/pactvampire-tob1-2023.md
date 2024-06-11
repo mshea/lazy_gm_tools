@@ -19,14 +19,18 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** the languages it knew in life
+
 ### Special Abilities
+
 - **Blood Sense:** The pact vampire can pinpoint the location of creatures that aren’t Constructs or Undead within 60 feet of it and can sense the general direction of such creatures within 1 mile of it.
 - **Legendary Resistance (3/Day):** If the pact vampire fails a saving throw, it can choose to succeed instead.
 - **Poisonous Blood:** A creature that hits the pact vampire with a melee attack while within 5 feet of it takes 7 (2d6) poison damage.
 - **Regeneration:** The pact vampire regains 25 hp at the start of its turn if it has at least 1 hp and isn’t in sunlight. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn.
 - **Undead Nature:** The pact vampire doesn’t require air.
 - **Vampire Weaknesses:** The pact vampire has the following flaws:
+
 ### Actions
+
 - **Multiattack:** The pact vampire makes three Claw attacks.
 - **Claw:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 13 (3d8) poison damage.
 - **Call Blood:** The pact vampire draws the blood out of a bleeding creature’s body, where it flows through the air into the vampire’s mouth. One creature the vampire can see within 60 feet of it that doesn’t have all its hp and isn’t a Construct or Undead must succeed on a DC 18 Constitution saving throw or take 22 (4d10) necrotic damage, and its hp maximum is reduced by that amount. The vampire regains hp equal to half the damage dealt. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
@@ -34,7 +38,9 @@
 - **Children of the Lower Planes (1/Day):** The pact vampire magically calls 2d4 dretches, 1d4 imps, or 1 bearded devil. The called Fiends arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The Fiends remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
 The pact vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The vampire regains spent legendary actions at the start of its turn.
+
 ### Legendary Actions
+
 - **Move:** The pact vampire moves up to its speed without provoking opportunity attacks.
 - **Call Blood (Costs 2 Actions):** The pact vampire uses Call Blood.
 - **Spread Poison (Costs 2 Actions):** The pact vampire’s blood briefly turns into a mist around it. Each creature within 15 feet of the vampire must succeed on a DC 18 Constitution saving throw or take 14 (4d6) poison damage and be poisoned until the end of its next turn.

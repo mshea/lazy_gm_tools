@@ -17,10 +17,14 @@
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** -
+
 ### Special Abilities
+
 - **Amorphous:** The gulon can move through a space as narrow as 1 foot wide without squeezing. When it moves through an area smaller than its normal space, it excretes waste in a 5-foot cube. This waste is difficult terrain and creatures crossing through it must succeed on a DC 16 Constitution saving throw or become poisoned for 1 minute.
 - **Keen Smell:** The gulon has advantage on Wisdom (Perception) checks that rely on smell.
+
 ### Actions
+
 - **Multiattack:** The gulon makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.

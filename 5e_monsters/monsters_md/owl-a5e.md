@@ -15,10 +15,14 @@
 - **Skills:** perception +3, stealth +3
 - **Senses:** darkvision 120 ft., passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Flyby:** The owl doesnt provoke opportunity attacks when it flies out of a creatures reach.
 - **Keen Hearing and Sight:** The owl has advantage on Perception checks that rely on hearing and sight.
+
 ### Actions
+
 - **Talons:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 1 slashing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
 
 

@@ -17,7 +17,9 @@
 - **Damage Immunities:** cold, fire
 - **Senses:** passive Perception 16
 - **Languages:** Giant
+
 ### Actions
+
 - **Multiattack:** Two Obsidian Axe or Firestorm Bolt attacks.
 - **Obsidian Axe:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 19 (3d8+6) slashing damage + 3 (1d6) cold and 3 (1d6) fire.
 - **Firestorm Bolt:** Ranged Spell Attack: +6 to hit, 120 ft., one target, 13 (3d6+3) fire + 10 (3d6) cold.

@@ -16,7 +16,9 @@
 - **Skills:** arcana +5, athletics +13, perception +7, survival +7
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Common, Giant
+
 ### Special Abilities
+
 - **Sunlight Petrification:** If the cave giant shaman starts its turn in sunlight, it takes 20 radiant damage. While in sunlight, it moves at half speed and has disadvantage on attack rolls and ability checks. If the giant is reduced to 0 hp while in sunlight, it is petrified.
 - **Spellcasting:** The cave giant shaman is a 14th-level spellcaster. Its spellcasting ability is Charisma (save DC 18, +10 to hit with spell attacks). The shaman has the following wizard spells prepared:
 Cantrips (at will): acid splash, mage hand, mending, prestidigitation, shocking grasp
@@ -27,7 +29,9 @@ Cantrips (at will): acid splash, mage hand, mending, prestidigitation, shocking 
 5th level (2 slots): cloudkill, insect plague
 6th level (1 slots): disintegrate
 7th level (1 slots): reverse gravity
+
 ### Actions
+
 - **Multiattack:** The cave giant shaman makes two attacks: one with its club and one with its tusks.
 - **Club:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15 (3d4 + 8) bludgeoning damage.
 - **Tusks:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 22 (4d6 + 8) slashing damage, and, if the target is a Large or smaller creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.

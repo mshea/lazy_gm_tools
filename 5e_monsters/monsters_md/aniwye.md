@@ -15,10 +15,14 @@
 - **Skills:** perception +6, stealth +6
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Giant
+
 ### Special Abilities
+
 - **Shapechanger:** The aniwye can use its action to polymorph into a Large ogre or Huge hill giant, or back into its true form, which is a skunk-like monstrosity. Its statistics, other than its size, are the same in each form, with the exception that only the aniwye’s skunk form retains its burrowing and climbing speeds. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 - **Unstable Form:** If the aniwye takes 30 or more points of damage on a single turn while in ogre or giant form, it can immediately shift to its skunk form.
+
 ### Actions
+
 - **Multiattack:** In ogre or giant form, the aniwye makes two slam attacks. In skunk form, it makes three attacks: one with its bite and two with its claws.
 - **Slam (Giant or Ogre Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.
 - **Bite (Skunk Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.

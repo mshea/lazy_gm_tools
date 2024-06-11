@@ -15,9 +15,13 @@
 - **Skills:** perception +3
 - **Senses:** passive Perception 13
 - **Languages:** 
+
 ### Special Abilities
+
 - **Keen Hearing and Smell:** The jackal has advantage on Perception checks that rely on hearing and smell.
+
 ### Actions
+
 - **Bite:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 1 piercing damage.
 
 

@@ -17,9 +17,13 @@
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** understands Common, Giant, and Trollkin but can’t speak
+
 ### Special Abilities
+
 - **Charge:** If the goat-man moves at least 20 feet straight toward a target and then hits it with a Slam attack on the same turn, the target takes an extra 4 (1d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+
 ### Actions
+
 - **Multiattack:** The goat-man makes one Bite attack and two Slam attacks. If both Slam attacks hit the same target, the target must succeed on a DC 14 Constitution saving throw or be stunned until the end of its next turn.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.

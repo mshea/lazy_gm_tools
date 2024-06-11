@@ -17,9 +17,13 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 90 ft., passive Perception 16
 - **Languages:** —
+
 ### Special Abilities
+
 - **Keen Sight:** The graknork has advantage on Wisdom (Perception) checks that rely on sight.
+
 ### Actions
+
 - **Multiattack:** The graknork makes three attacks: one with its bite and two with its claws. Alternatively, it can use its Eye Ray twice. If both claw attacks hit a Large or smaller creature, the creature must succeed on a DC 18 Strength saving throw or take an additional 9 (2d8) slashing damage and be knocked prone.
 - **Bite:** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 23 (3d10 + 7) piercing damage.
 - **Claw:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) slashing damage.

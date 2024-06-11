@@ -17,9 +17,13 @@
 - **Damage Resistances:** bludgeoning, piercing
 - **Senses:** passive Perception 10
 - **Languages:** one language known by its creator
+
 ### Special Abilities
+
 - **False Appearance:** While motionless, the shrub is indistinguishable from a normal shrub.
+
 ### Actions
+
 - **Rake:** Melee Weapon Attack: +1 to hit  reach 5 ft.  one target. Hit: 1 slashing damage.
 
 

@@ -16,9 +16,13 @@
 - **Damage Resistances:** [++], Senses, &amp; [/++][++]Languages[/++] as Phoenixborn
 - **Senses:** xx, passive Perception xx
 - **Languages:** as Phoenixborn
+
 ### Special Abilities
+
 - **Fiery Feathers and Rebirth (1/Day):** As above but rebirth: 7 (2d6).
+
 ### Actions
+
 - **Multiattack:** Two Talon or Hurl
 - **Flame attacks:** It can replace one attack with use of Spellcasting.
 - **Talon:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) slashing damage + 3 (1d6) fire.

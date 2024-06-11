@@ -15,9 +15,13 @@
 - **Skills:** 
 - **Senses:** passive Perception 9
 - **Languages:** —
+
 ### Special Abilities
+
 - **Charge:** If the bull moves at least 30 feet in a straight line toward a target and then hits it with a gore attack on the same turn, the target takes an extra 3 (1d6) piercing damage.
+
 ### Actions
+
 - **Hooves:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
 - **Gore:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 

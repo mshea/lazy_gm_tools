@@ -18,11 +18,15 @@
 - **Damage Resistances:** fire
 - **Senses:** darkvision 60', passive Perception 12
 - **Languages:** —
+
 ### Special Abilities
+
 - **Amphibious:** Can breathe air and water.
 - **False Appearance:** While motionless indistinguishable from large rock formation.
 - **Lightning Leap:** Its long jump is 30' with or with o a running start. Creatures in the its path: 7 (2d6) bludgeoning damage and 7 (2d6) lightning and is knocked prone (DC 15 Dex half damage not prone).
+
 ### Actions
+
 - **Multiattack:** Two Bites or one Electric Tongue and uses Swallow.
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 11 (2d6+4) piercing damage + 7 (2d6) lightning.
 - **Electric Tongue:** Melee Weapon Attack: +7 to hit, 20 ft., one target, 9 (2d4+4) bludgeoning damage + 7 (2d6) lightning and target is grappled (escape DC 15). Until the grapple ends the target is restrained and amphibolt can’t make an Electric Tongue attack vs. another target.

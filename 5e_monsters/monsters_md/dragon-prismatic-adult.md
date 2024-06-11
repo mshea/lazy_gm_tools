@@ -18,9 +18,13 @@
 - **Condition Immunities:** blinded
 - **Senses:** blindsight 60', darkvision 120', passive Perception 22
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Legendary Resistance (3/Day):** Choose to succeed failed save.
+
 ### Actions
+
 - **Multiattack:** Uses its Frightful Presence then one Bite and two Claws.
 - **Bite:** Melee Weapon Attack: +11 to hit, 10 ft., one target, 17 (2d10+6) piercing damage.
 - **Claw:** Melee Weapon Attack: +11 to hit, 5 ft., one target, 13 (2d6+6) slashing damage.
@@ -30,7 +34,9 @@
 - **Spellcasting:** Int (DC 17) no material components: At will: charm person color spray dancing lights3/day: prismatic spray1/day: prismatic wall
 
 
+
 ### Legendary Actions
+
 - **Detect:** Makes a Wis (Perception) check.
 - **Tail Attack:** Makes a tail attack.
 - **Cast a Spell (2):** The prismatic dragon uses Spellcasting.

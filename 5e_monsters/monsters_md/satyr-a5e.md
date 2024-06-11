@@ -15,9 +15,13 @@
 - **Skills:** perception +2, performance +5, stealth +4
 - **Senses:** passive Perception 12
 - **Languages:** Common, Elvish, Sylvan
+
 ### Special Abilities
+
 - **Magic Resistance:** The satyr has advantage on saving throws against spells and other magical effects.
+
 ### Actions
+
 - **Ram:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) bludgeoning damage  or 8 (2d6 + 1) bludgeoning damage if the satyr moves at least 20 feet straight towards the target before the attack.
 - **Rapier:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Shortbow:** Ranged Weapon Attack: +4 to hit  range 80/320 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.

@@ -17,10 +17,14 @@
 - **Damage Immunities:** acid
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Flow Within the Mountain:** The dragon has advantage on Stealth checks made to hide in mountainous regions.
 - **Innate Spellcasting:** The dragons spellcasting ability is Charisma (save DC 15). It can innately cast the following spells, requiring no material components. 3/day each:hideous laughter, suggestion
+
 ### Actions
+
 - **Multiattack:** The dragon attacks with its bite and twice with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 15 (3d10 + 4) piercing damage plus 4 (1d8) acid damage.
 - **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.

@@ -17,11 +17,15 @@
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60' (blind beyond), passive Perception 7
 - **Languages:** —
+
 ### Special Abilities
+
 - **Antimagic Susceptibility:** Incapacitated while in the area of an antimagic field. If targeted by dispel magic instrument must succeed on a Con save vs. caster’s spell save DC or fall unconscious for 1 min.
 - **Construct Nature:** Doesn’t require air food drink or sleep.
 - **False:** [+]Appearance[/+] While motionless and isn't flying indistinguishable from normal musical instrument.
+
 ### Actions
+
 - **Trouble Clef:** Melee Weapon Attack: +3 to hit, 5 ft., one target, 4 (1d4+1) bludgeoning damage.
 - **Orchestra Hit:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 5 (1d6+2) thunder.
 - **Spirited Solo (Recharge 5–6):** Improvises a tune to draw listeners into entrancing thought. Each creature within 30' of it that can hear the song: creature is incapacitated until end of its next turn (DC 12 Wis creature has an epiphany and gains advantage on Cha (Performance) checks for 1 day).

@@ -17,10 +17,14 @@
 - **Damage Immunities:** thunder
 - **Senses:** darkvision 60 ft., passive Perception 20
 - **Languages:** Sylvan
+
 ### Special Abilities
+
 - **Hold Breath:** The bukavac can hold its breath for 20 minutes.
 - **Standing Leap:** A bukavac’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+
 ### Actions
+
 - **Multiattack:** The bukavac makes one Bite attack, one Gore attack, and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (1d12 + 5) slashing damage, and the target is grappled (escape DC 16) if it is a Medium or smaller creature. The bukavac can have no more than two creatures grappled at a time.

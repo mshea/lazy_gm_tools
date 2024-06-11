@@ -16,10 +16,14 @@
 - **Condition Immunities:** blinded, frightened
 - **Senses:** darkvision 60', tremorsense 30', passive Perception 13
 - **Languages:** —
+
 ### Special Abilities
+
 - **Blood Frenzy:** Has advantage on melee attack rolls vs. a creature that doesn’t have all its hp.
 - **Keen Sight and Smell:** Has advantage on Wis (Perception) checks that rely on sight or smell.
+
 ### Actions
+
 - **Multiattack:** One attack with its beak and one attack with its claws.
 - **Beak:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 10 (1d10+5) piercing damage.
 - **Claws:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 14 (2d8+5) slashing damage.

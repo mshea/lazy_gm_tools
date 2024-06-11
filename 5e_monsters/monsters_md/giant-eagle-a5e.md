@@ -15,11 +15,17 @@
 - **Skills:** perception +4
 - **Senses:** passive Perception 14
 - **Languages:** Giant Eagle, understands but can't speak Common and Auran
+
 ### Special Abilities
+
 - **Keen Sight:** The eagle has advantage on Perception checks that rely on sight.
+
 ### Actions
+
 - **Talons:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6+2) slashing damage and the target is grappled (escape DC 13). Until this grapple ends  the giant eagle can't attack a different target with its talons.
+
 ### Bonus Actions
+
 - **Beak:** Melee Weapon Attack: +4 to hit, reach 5 ft., one grappled creature. Hit: 5 (1d6+2) piercing damage.
 
 

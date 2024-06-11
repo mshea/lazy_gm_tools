@@ -18,7 +18,9 @@
 - **Condition Immunities:** poisoned
 - **Senses:** passive Perception 11
 - **Languages:** Common, Draconic
+
 ### Special Abilities
+
 - **Devastate (Recharge 5-6):** As a bonus action, the ouroban imbues its greatsword with dark power. All of its greatsword attacks do an additional 10 (3d6) necrotic damage per hit until the start of its next turn.
 - **Fire Absorption:** Whenever the ouroban is subjected to fire damage, it takes no damage and instead regains a number of hp equal to the fire damage dealt.
 - **Spellcasting:** The ouroban is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It has the following paladin spells prepared:
@@ -26,7 +28,9 @@
 2nd level (3 slots): branding smite, lesser restoration, zone of truth
 3rd level (3 slots): dispel magic, elemental weapon
 4th level (1 slot): banishment
+
 ### Actions
+
 - **Multiattack:** The ouroban makes three attacks with its greatsword.
 - **Greatsword:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 3 (1d6) fire damage.
 - **Heavy Crossbow:** Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
