@@ -27,6 +27,10 @@ output
   [lgm_cr_5_10_treasure] ^[generator_type == "lgm_cr_5_10_treasure"]
   [lgm_cr_11_16_treasure] ^[generator_type == "lgm_cr_11_16_treasure"]
   [lgm_cr_17plus_treasure] ^[generator_type == "lgm_cr_17plus_treasure"]
+  [lgm_tier_1] ^[generator_type == "lgm_tier_1"]
+  [lgm_tier_2] ^[generator_type == "lgm_tier_2"]
+  [lgm_tier_3] ^[generator_type == "lgm_tier_3"]
+  [lgm_tier_4] ^[generator_type == "lgm_tier_4"]
 
 unique_magic_weapon
   A [weapons] [spell]
@@ -4646,40 +4650,78 @@ lgm_cr_17plus__items
   [legendary_dmg_items.selectMany(d4).join(", ")],  ^2
   [very_rare_dmg_items.selectMany(d4).join(", ")], [legendary_dmg_items.selectMany(d2).join(", ")],  ^2
 
+
+// New Lazy GM treasure Generator
+
+lgm_tier_1
+  [lgm_tier_1_treasure], [uncommon_consumables], [uncommon_consumables], [uncommon_permanents]
+  
+lgm_tier_1_treasure
+  {175-225} GP
+  {100-150} GP, {2-8} x 10 GP [gemstones] gemstones
+  {50-100} GP, {2-8} x 10 GP [gemstones] gemstones, 50 GP [valuables.selectMany(d2).join(", 50 GP ")]
+
+lgm_tier_2
+  [lgm_tier_2_treasure], {[uncommon_consumables]|[rare_consumables]}, {[uncommon_consumables]|[rare_consumables]}, {[uncommon_permanents]|[rare_permanents]}
+  
+lgm_tier_2_treasure
+  {2750-3250} GP
+  {2250-2750} GP, {2-8} x 100 GP [gemstones] gemstones
+  {2200-2400} GP, {2-8} x 100 GP [gemstones] gemstones, 200 GP [valuables.selectMany(d2).join(", 200 GP ")]
+
+
+lgm_tier_3
+  [lgm_tier_3_treasure], {[uncommon_consumables]|[rare_consumables]|[very_rare_consumables]}, {[uncommon_consumables]|[rare_consumables]|[very_rare_consumables]}, {[uncommon_permanents]|[rare_permanents]|[very_rare_permanents]}
+  
+lgm_tier_3_treasure
+  {13000-18000} GP
+  {8000-12000} GP, {2-8} x 1000 GP [gemstones] gemstones
+  {6000-9000} GP, {2-8} x 1000 GP [gemstones] gemstones, 2000 GP [valuables.selectMany(d2).join(", 2000 GP ")]
+
+
+lgm_tier_4
+  [lgm_tier_4_treasure], {[rare_consumables]|[very_rare_consumables]}, {[rare_consumables]|[very_rare_consumables]}, {[rare_permanents]|[very_rare_permanents]|[legendary_permanents]}
+  
+lgm_tier_4_treasure
+  {90000-110000} GP
+  {70000-90000} GP, {15-25} x 1000 GP [gemstones] gemstones
+  {60000-80000} GP, {15-25} x 1000 GP  [gemstones] gemstones, 5000 GP [valuables.selectMany(d4).join(", 5000 GP ")]
+
+
 weapons
-  [condition] [origin] shortsword [setting_select] ^10
-  [condition] [origin] longsword [setting_select] ^9
-  [condition] [origin] battleaxe [setting_select] ^8
-  [condition] [origin] greatsword [setting_select] ^7
-  [condition] [origin] dagger [setting_select] ^10
-  [condition] [origin] spear [setting_select] ^6
-  [condition] [origin] mace [setting_select] ^5
-  [condition] [origin] warhammer [setting_select] ^4
-  [condition] [origin] rapier [setting_select] ^8
-  [condition] [origin] longbow [setting_select] ^7
-  [condition] [origin] crossbow [setting_select] ^6
-  [condition] [origin] scimitar [setting_select] ^5
-  [condition] [origin] flail [setting_select] ^4
-  [condition] [origin] halberd [setting_select] ^3
-  [condition] [origin] glaive [setting_select] ^2
-  [condition] [origin] quarterstaff [setting_select] ^5
-  [condition] [origin] morningstar [setting_select] ^4
-  [condition] [origin] trident [setting_select] ^3
-  [condition] [origin] net [setting_select] ^1
+  [condition] [origin] shortsword ^10
+  [condition] [origin] longsword ^9
+  [condition] [origin] battleaxe ^8
+  [condition] [origin] greatsword ^7
+  [condition] [origin] dagger ^10
+  [condition] [origin] spear ^6
+  [condition] [origin] mace ^5
+  [condition] [origin] warhammer ^4
+  [condition] [origin] rapier ^8
+  [condition] [origin] longbow ^7
+  [condition] [origin] crossbow ^6
+  [condition] [origin] scimitar ^5
+  [condition] [origin] flail ^4
+  [condition] [origin] halberd ^3
+  [condition] [origin] glaive ^2
+  [condition] [origin] quarterstaff ^5
+  [condition] [origin] morningstar ^4
+  [condition] [origin] trident ^3
+  [condition] [origin] net ^1
 
 armor
-  [condition] [origin] padded armor [setting_select] ^2
-  [condition] [origin] leather armor [setting_select] ^4
-  [condition] [origin] studded leather armor [setting_select] ^4
-  [condition] [origin] hide armor [setting_select] ^2
-  [condition] [origin] chain shirt armor [setting_select] ^2
-  [condition] [origin] scale mail armor [setting_select] ^2
-  [condition] [origin] breastplate armor [setting_select] ^2
-  [condition] [origin] half plate armor [setting_select] ^2
-  [condition] [origin] ring mail armor [setting_select] ^2
-  [condition] [origin] chain mail armor [setting_select] ^2
-  [condition] [origin] splint armor [setting_select] ^2
-  [condition] [origin] plate armor [setting_select]
+  [condition] [origin] padded armor ^2
+  [condition] [origin] leather armor ^4
+  [condition] [origin] studded leather armor ^4
+  [condition] [origin] hide armor ^2
+  [condition] [origin] chain shirt armor ^2
+  [condition] [origin] scale mail armor ^2
+  [condition] [origin] breastplate armor ^2
+  [condition] [origin] half plate armor ^2
+  [condition] [origin] ring mail armor ^2
+  [condition] [origin] chain mail armor ^2
+  [condition] [origin] splint armor ^2
+  [condition] [origin] plate armor
 
 
 ammunition
@@ -4719,6 +4761,134 @@ gemstones
   diamond
   jacinth
   ruby
+
+valuables
+  [origin] rapier
+  [origin] shortbow
+  [origin] armor
+  [origin] portrait
+  [origin] bronze torque
+  [origin] silver bangle earrings
+  [origin] fur-trimmed cloak
+  [origin] floppy feathered hat
+  [origin] silver and malachite pendant earrings
+  [origin] tiny gold skull earrings
+  [origin] dulcimer
+  [origin] navigator’s tools
+  [origin] copper pot
+  [origin] silver hatpin
+  [origin] nonmagical crystal ball
+  [origin] copper and garnet ring
+  [origin] plain gold band
+  [origin] stone elephant statuette
+  [origin] bolt of cloth
+  [origin] book
+  [origin] map
+  [origin] gold band set with a moonstone
+  [origin] lion-headed gold ring
+  [origin] electrum chain
+  [origin] silver and obsidian band
+  [origin] chalcedony pendants
+  [origin] small gold studs
+  [origin] silver studs
+  [origin] gold locket
+  [origin] thick silver chain
+  [origin] stylish cap
+  [origin] gloves
+  [origin] marble figurine
+  [origin] pair of bronze dragon bookends
+  [origin] watercolors
+  [origin] worn tapestry of rare plants
+  [origin] 5 pounds of saffron
+  [origin] fifteen 1-pound silver bars
+  [origin] concealable boot dagger
+  [origin] armor silver-hilted longsword
+  [origin] gold-framed mirror
+  [origin] silver
+  [origin] quartz chalice
+  [origin] silver snuff box
+  [origin] mithral band
+  [origin] pearl solitaire
+  [origin] gold armlet
+  [origin] silver and pearl bracelet
+  [origin] gold hoops
+  [origin] pearl pendants
+  [origin] dragontooth necklace
+  [origin] fine gold chain hung with gold leaves
+  [origin] pointy-toed shoes
+  [origin] stylish silk doublet
+  [origin] marble bust
+  [origin] small silver idol
+  [origin] excellent portrait
+  [origin] fine tapestry
+  [origin] 5 pinches of diamond dust
+  [origin] five 1-pound gold bars
+  [origin] gold-hilted sword
+  [origin] silver armor helmet
+  [origin] set of gold buttons
+  [origin] silver ewer
+  [origin] silver jewelry box
+  [origin] rare book
+  [origin] black pearl nose ring
+  [origin] peridot ring carved with a family crest
+  [origin] gold bangle
+  [origin] platinum chain
+  [origin] dangling platinum earrings
+  [origin] white and black pearl pendants
+  [origin] coral bead necklace
+  [origin] thick gold chain
+  [origin] gold tiara
+  [origin] silver scepter
+  [origin] gold-buckled belt
+  [origin] high fashion hat
+  [origin] gold idol
+  [origin] jade statuette
+  [origin] gold-threaded tapestry
+  [origin] masterpiece painting
+  [origin] bolt of fine silk
+  [origin] gold-handled sword stick
+  [origin] half plate
+  [origin] gold ewer
+  [origin] gold harp
+  [origin] gold incense burner
+  [origin] gold band set with a single emerald
+  [origin] dozen tiny opals
+  [origin] blue sapphire earrings
+  [origin] yellow sapphire earrings
+  [origin] ruby pendant
+  [origin] string of pearls
+  [origin] royal dress
+  [origin] robe
+  [origin] figurine carved from emerald
+  [origin] gold idol
+  [origin] gem-studded gold goblet
+  [origin] gold jewelry box
+  [origin] fine mithral-inlaid lute
+  [origin] platinum orb
+  [origin] silver and topaz crown
+  [origin] ceremonial gold-etched full plate armor
+  [origin] royal greatsword with gem-studded hilt
+  [origin] diamond solitaire
+  [origin] ruby and platinum ring
+  [origin] diamond studs
+  [origin] platinum and black sapphire earrings
+  [origin] flawless jacinth pendant
+  [origin] string of black pearls
+  [origin] life-sized silver statue
+  [origin] platinum statuette
+  [origin] bloodstone and jade chess set
+  [origin] gold and ruby warhorn
+  [origin] gold bejeweled ewer
+  [origin] gemmed gold crown
+  [origin] gold scepter
+  [origin] necklace of rubies
+  [origin] necklace of diamond
+  [origin] adamantine mask
+  [origin] platinum armlet studded with jacinths
+  [origin] gold statuette with ruby eyes
+  [origin] gemmed gold breastplate
+  [origin] mithral crown
+
 
 gems_10
   agate
@@ -5311,6 +5481,309 @@ level_9_spells
   <a href\="https://a5e.tools/spell/true-resurrection">True Resurrection</a>
   <a href\="https://a5e.tools/spell/weird">Weird</a>
   <a href\="https://a5e.tools/spell/wish">Wish</a>
+
+uncommon_consumables
+  <a href\="https://slyflourish.com/5e_items/html/ammunition-1-a5e.html">[(d6 + d6 + d6)] x +1 [ammunition]</a>
+  <a href\="https://slyflourish.com/5e_items/html/dust-of-disappearance-a5e.html">Dust of Disappearance</a>
+  <a href\="https://slyflourish.com/5e_items/html/dust-of-dryness-a5e.html">Dust of Dryness</a>
+  <a href\="https://slyflourish.com/5e_items/html/dust-of-sneezing-and-choking-a5e.html">Dust of Sneezing and Choking</a>
+  <a href\="https://slyflourish.com/5e_items/html/oil-of-slipperiness-a5e.html">Oil of Slipperiness</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-animal-friendship-a5e.html">Potion of Animal Friendship</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-giant-strength-a5e.html">Potion of Giant Strength</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-growth-a5e.html">Potion of Growth</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-poison-a5e.html">Potion of Poison</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-resistance-a5e.html">Potion of Resistance</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-water-breathing-a5e.html">Potion of Water Breathing</a>
+  <a href\="https://slyflourish.com/5e_items/html/restorative-ointment-a5e.html">Restorative Ointment</a>
+  <a href\="https://slyflourish.com/5e_items/html/feather-token-a5e.html">Feather Token (Cloud)</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-healing-a5e.html">Potion of Healing</a> ^5
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-healing-a5e.html">Potion of Greater Healing</a> ^2
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (cantrip, [level_0_spells])</a>
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (1st-level, [level_1_spells])</a>
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (2nd-level, [level_2_spells])</a>
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (3rd-level, [level_3_spells])</a>
+  [origin] [condition] [relic] that casts [a5e_spells] once ^10
+  
+uncommon_permanents
+  <a href\="https://slyflourish.com/5e_items/html/armor-1-2-or-3-a5e.html">+1 [armor]</a> ^5
+  <a href\="https://slyflourish.com/5e_items/html/bag-of-holding-a5e.html">Bag of Holding</a>
+  <a href\="https://slyflourish.com/5e_items/html/bag-of-tricks-a5e.html">Bag of Tricks</a>
+  <a href\="https://slyflourish.com/5e_items/html/boots-of-elvenkind-a5e.html">Boots of Elvenkind</a>
+  <a href\="https://slyflourish.com/5e_items/html/boots-of-striding-and-springing-a5e.html">Boots of Striding and Springing</a>
+  <a href\="https://slyflourish.com/5e_items/html/boots-of-the-winterlands-a5e.html">Boots of the Winterlands</a>
+  <a href\="https://slyflourish.com/5e_items/html/bracers-of-archery-a5e.html">Bracers of Archery</a>
+  <a href\="https://slyflourish.com/5e_items/html/brooch-of-shielding-a5e.html">Brooch of Shielding</a>
+  <a href\="https://slyflourish.com/5e_items/html/circlet-of-blasting-a5e.html">Circlet of Blasting</a>
+  <a href\="https://slyflourish.com/5e_items/html/cloak-of-elvenkind-a5e.html">Cloak of Elvenkind</a>
+  <a href\="https://slyflourish.com/5e_items/html/cloak-of-protection-a5e.html">Cloak of Protection</a>
+  <a href\="https://slyflourish.com/5e_items/html/cloak-of-the-manta-ray-a5e.html">Cloak of the Manta Ray</a>
+  <a href\="https://slyflourish.com/5e_items/html/decanter-of-endless-water-a5e.html">Decanter of Endless Water</a>
+  <a href\="https://slyflourish.com/5e_items/html/deck-of-illusions-a5e.html">Deck of Illusions</a>
+  <a href\="https://slyflourish.com/5e_items/html/efficient-quiver-a5e.html">Efficient Quiver</a>
+  <a href\="https://slyflourish.com/5e_items/html/elemental-gem-a5e.html">Elemental Gem</a>
+  <a href\="https://slyflourish.com/5e_items/html/eversmoking-bottle-a5e.html">Eversmoking Bottle</a>
+  <a href\="https://slyflourish.com/5e_items/html/eyes-of-charming-a5e.html">Eyes of Charming</a>
+  <a href\="https://slyflourish.com/5e_items/html/eyes-of-minute-seeing-a5e.html">Eyes of Minute Seeing</a>
+  <a href\="https://slyflourish.com/5e_items/html/eyes-of-the-eagle-a5e.html">Eyes of the Eagle</a>
+  <a href\="https://slyflourish.com/5e_items/html/gauntlets-of-ogre-power-a5e.html">Gauntlets of Ogre Power</a>
+  <a href\="https://slyflourish.com/5e_items/html/gloves-of-missile-snaring-a5e.html">Gloves of Missile Snaring</a>
+  <a href\="https://slyflourish.com/5e_items/html/gloves-of-swimming-and-climbing-a5e.html">Gloves of Swimming and Climbing</a>
+  <a href\="https://slyflourish.com/5e_items/html/goggles-of-night-a5e.html">Goggles of Night</a>
+  <a href\="https://slyflourish.com/5e_items/html/hat-of-disguise-a5e.html">Hat of Disguise</a>
+  <a href\="https://slyflourish.com/5e_items/html/headband-of-intellect-a5e.html">Headband of Intellect</a>
+  <a href\="https://slyflourish.com/5e_items/html/helm-of-comprehending-languages-a5e.html">Helm of Comprehending Languages</a>
+  <a href\="https://slyflourish.com/5e_items/html/immovable-rod-a5e.html">Immovable Rod</a>
+  <a href\="https://slyflourish.com/5e_items/html/javelin-of-lightning-a5e.html">Javelin of Lightning</a>
+  <a href\="https://slyflourish.com/5e_items/html/medallion-of-thoughts-a5e.html">Medallion of Thoughts</a>
+  <a href\="https://slyflourish.com/5e_items/html/necklace-of-adaptation-a5e.html">Necklace of Adaptation</a>
+  <a href\="https://slyflourish.com/5e_items/html/pearl-of-power-a5e.html">Pearl of Power</a>
+  <a href\="https://slyflourish.com/5e_items/html/periapt-of-health-a5e.html">Periapt of Health</a>
+  <a href\="https://slyflourish.com/5e_items/html/periapt-of-wound-closure-a5e.html">Periapt of Wound Closure</a>
+  <a href\="https://slyflourish.com/5e_items/html/philter-of-love-a5e.html">Philter of Love</a>
+  <a href\="https://slyflourish.com/5e_items/html/pipes-of-haunting-a5e.html">Pipes of Haunting</a>
+  <a href\="https://slyflourish.com/5e_items/html/pipes-of-the-sewers-a5e.html">Pipes of the Sewers</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-jumping-a5e.html">Ring of Jumping</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-mind-shielding-a5e.html">Ring of Mind Shielding</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-swimming-a5e.html">Ring of Swimming</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-warmth-a5e.html">Ring of Warmth</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-water-walking-a5e.html">Ring of Water Walking</a>
+  <a href\="https://slyflourish.com/5e_items/html/robe-of-useful-items-a5e.html">Robe of Useful Items</a>
+  <a href\="https://slyflourish.com/5e_items/html/rope-of-climbing-a5e.html">Rope of Climbing</a>
+  <a href\="https://slyflourish.com/5e_items/html/slippers-of-spider-climbing-a5e.html">Slippers of Spider Climbing</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-the-python-a5e.html">Staff of the Python</a>
+  <a href\="https://slyflourish.com/5e_items/html/stone-of-good-luck-luckstone-a5e.html">Stone of Good Luck (Luckstone)</a>
+  <a href\="https://slyflourish.com/5e_items/html/trident-of-fish-command-a5e.html">Trident of Fish Command</a>
+  <a href\="https://slyflourish.com/5e_items/html/vicious-weapon-a5e.html">Vicious [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-magic-detection-a5e.html">Wand of Magic Detection</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-secrets-a5e.html">Wand of Secrets</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-web-a5e.html">Wand of Web</a>
+  <a href\="https://slyflourish.com/5e_items/html/wind-fan-a5e.html">Wind Fan</a>
+  <a href\="https://slyflourish.com/5e_items/html/adamantine-armor-a5e.html">Adamantine Armor</a>
+  <a href\="https://slyflourish.com/5e_items/html/mithral-armor-a5e.html">Mithral Armor</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-magic-missiles-a5e.html">Wand of Magic Missiles</a>
+  <a href\="https://slyflourish.com/5e_items/html/weapon-1-a5e.html">+1 [weapons]</a> ^10
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-the-war-mage-1-2-or-3-a5e.html">Wand of the War Mage +1</a>
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power</a>
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (silver raven)</a> ^1
+
+rare_consumables
+  <a href\="https://slyflourish.com/5e_items/html/oil-of-etherealness-a5e.html">Oil of Etherealness</a>
+  <a href\="https://slyflourish.com/5e_items/html/ammunition-2-a5e.html">[(d6 + d6 + d6)] x +2 [ammunition]</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-clairvoyance-a5e.html">Potion of Clairvoyance</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-diminution-a5e.html">Potion of Diminution</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-gaseous-form-a5e.html">Potion of Gaseous Form</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-heroism-a5e.html">Potion of Heroism</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-mind-reading-a5e.html">Potion of Mind Reading</a>
+  <a href\="https://slyflourish.com/5e_items/html/feather-token-a5e.html">Feather Token (Dark Moon)</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-healing-a5e.html">Potion of Superior Healing</a> ^5
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (4th-level, [level_4_spells])</a>
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (5th-level, [level_5_spells])</a>
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (6th-level, [level_6_spells])</a>
+  [origin] [condition] [relic] that casts [a5e_spells] once ^10
+
+rare_permanents
+  <a href\="https://slyflourish.com/5e_items/html/armor-1-2-or-3-a5e.html">+2 [armor]</a> ^5
+  <a href\="https://slyflourish.com/5e_items/html/shield-1-a5e.html">+1 [condition] [origin] shield [setting_select]</a>
+  <a href\="https://slyflourish.com/5e_items/html/amulet-of-health-a5e.html">Amulet of Health</a>
+  <a href\="https://slyflourish.com/5e_items/html/amulet-of-proof-against-detection-and-location-a5e.html">Amulet of Proof against Detection and Location</a>
+  <a href\="https://slyflourish.com/5e_items/html/armor-of-resistance-a5e.html">Armor of Resistance</a>
+  <a href\="https://slyflourish.com/5e_items/html/armor-of-vulnerability-a5e.html">Armor of Vulnerability</a>
+  <a href\="https://slyflourish.com/5e_items/html/arrow-catching-shield-a5e.html">Arrow-Catching Shield</a>
+  <a href\="https://slyflourish.com/5e_items/html/bag-of-beans-a5e.html">Bag of Beans</a>
+  <a href\="https://slyflourish.com/5e_items/html/bead-of-force-a5e.html">Bead of Force</a>
+  <a href\="https://slyflourish.com/5e_items/html/belt-of-dwarvenkind-a5e.html">Belt of Dwarvenkind</a>
+  <a href\="https://slyflourish.com/5e_items/html/belt-of-giant-strength-a5e.html">Belt of Giant Strength</a>
+  <a href\="https://slyflourish.com/5e_items/html/berserker-axe-a5e.html">Berserker Axe</a>
+  <a href\="https://slyflourish.com/5e_items/html/boots-of-levitation-a5e.html">Boots of Levitation</a>
+  <a href\="https://slyflourish.com/5e_items/html/boots-of-speed-a5e.html">Boots of Speed</a>
+  <a href\="https://slyflourish.com/5e_items/html/bowl-of-commanding-water-elementals-a5e.html">Bowl of Commanding Water Elementals</a>
+  <a href\="https://slyflourish.com/5e_items/html/bracers-of-defense-a5e.html">Bracers of Defense</a>
+  <a href\="https://slyflourish.com/5e_items/html/brazier-of-commanding-fire-elementals-a5e.html">Brazier of Commanding Fire Elementals</a>
+  <a href\="https://slyflourish.com/5e_items/html/broom-of-flying-a5e.html">Broom of Flying</a>
+  <a href\="https://slyflourish.com/5e_items/html/cape-of-the-mountebank-a5e.html">Cape of the Mountebank</a>
+  <a href\="https://slyflourish.com/5e_items/html/censer-of-controlling-air-elementals-a5e.html">Censer of Controlling Air Elementals</a>
+  <a href\="https://slyflourish.com/5e_items/html/chime-of-opening-a5e.html">Chime of Opening</a>
+  <a href\="https://slyflourish.com/5e_items/html/cloak-of-displacement-a5e.html">Cloak of Displacement</a>
+  <a href\="https://slyflourish.com/5e_items/html/cloak-of-the-bat-a5e.html">Cloak of the Bat</a>
+  <a href\="https://slyflourish.com/5e_items/html/cube-of-force-a5e.html">Cube of Force</a>
+  <a href\="https://slyflourish.com/5e_items/html/dagger-of-venom-a5e.html">Dagger of Venom</a>
+  <a href\="https://slyflourish.com/5e_items/html/dimensional-shackles-a5e.html">Dimensional Shackles</a>
+  <a href\="https://slyflourish.com/5e_items/html/elven-chain-a5e.html">Elven Chain</a>
+  <a href\="https://slyflourish.com/5e_items/html/flame-tongue-a5e.html">Flame Tongue</a>
+  <a href\="https://slyflourish.com/5e_items/html/folding-boat-a5e.html">Folding Boat</a>
+  <a href\="https://slyflourish.com/5e_items/html/gem-of-brightness-a5e.html">Gem of Brightness</a>
+  <a href\="https://slyflourish.com/5e_items/html/gem-of-seeing-a5e.html">Gem of Seeing</a>
+  <a href\="https://slyflourish.com/5e_items/html/giant-slayer-a5e.html">Giant Slayer</a>
+  <a href\="https://slyflourish.com/5e_items/html/handy-haversack-a5e.html">Handy Haversack</a>
+  <a href\="https://slyflourish.com/5e_items/html/helm-of-telepathy-a5e.html">Helm of Telepathy</a>
+  <a href\="https://slyflourish.com/5e_items/html/horn-of-blasting-a5e.html">Horn of Blasting</a>
+  <a href\="https://slyflourish.com/5e_items/html/horn-of-valhalla-a5e.html">Horn of Valhalla</a>
+  <a href\="https://slyflourish.com/5e_items/html/horseshoes-of-speed-a5e.html">Horseshoes of Speed</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Awareness)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Protection)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Reserve)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Sustenance)</a>
+  <a href\="https://slyflourish.com/5e_items/html/iron-bands-of-binding-a5e.html">Iron Bands of Binding</a>
+  <a href\="https://slyflourish.com/5e_items/html/lantern-of-revealing-a5e.html">Lantern of Revealing</a>
+  <a href\="https://slyflourish.com/5e_items/html/mace-of-disruption-a5e.html">Mace of Disruption</a>
+  <a href\="https://slyflourish.com/5e_items/html/mace-of-smiting-a5e.html">Mace of Smiting</a>
+  <a href\="https://slyflourish.com/5e_items/html/mace-of-terror-a5e.html">Mace of Terror</a>
+  <a href\="https://slyflourish.com/5e_items/html/mantle-of-spell-resistance-a5e.html">Mantle of Spell Resistance</a>
+  <a href\="https://slyflourish.com/5e_items/html/necklace-of-fireballs-a5e.html">Necklace of Fireballs</a>
+  <a href\="https://slyflourish.com/5e_items/html/necklace-of-prayer-beads-a5e.html">Necklace of Prayer Beads</a>
+  <a href\="https://slyflourish.com/5e_items/html/periapt-of-proof-against-poison-a5e.html">Periapt of Proof Against Poison</a>
+  <a href\="https://slyflourish.com/5e_items/html/portable-hole-a5e.html">Portable Hole</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-animal-influence-a5e.html">Ring of Animal Influence</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-evasion-a5e.html">Ring of Evasion</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-feather-falling-a5e.html">Ring of Feather Falling</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-free-action-a5e.html">Ring of Free Action</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-protection-a5e.html">Ring of Protection</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-resistance-a5e.html">Ring of Resistance</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-spell-storing-a5e.html">Ring of Spell Storing</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-the-ram-a5e.html">Ring of the Ram</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-x-ray-vision-a5e.html">Ring of X-Ray Vision</a>
+  <a href\="https://slyflourish.com/5e_items/html/robe-of-eyes-a5e.html">Robe of Eyes</a>
+  <a href\="https://slyflourish.com/5e_items/html/rod-of-rulership-a5e.html">Rod of Rulership</a>
+  <a href\="https://slyflourish.com/5e_items/html/rope-of-entanglement-a5e.html">Rope of Entanglement</a>
+  <a href\="https://slyflourish.com/5e_items/html/shield-of-missile-attraction-a5e.html">Shield of Missile Attraction</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-charming-a5e.html">Staff of Charming</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-healing-a5e.html">Staff of Healing</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-swarming-insects-a5e.html">Staff of Swarming Insects</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-the-woodlands-a5e.html">Staff of the Woodlands</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-withering-a5e.html">Staff of Withering</a>
+  <a href\="https://slyflourish.com/5e_items/html/stone-of-controlling-earth-elementals-a5e.html">Stone of Controlling Earth Elementals</a>
+  <a href\="https://slyflourish.com/5e_items/html/sun-blade-a5e.html">Sun Blade</a>
+  <a href\="https://slyflourish.com/5e_items/html/sword-of-life-stealing-a5e.html">Sword of Life Stealing</a>
+  <a href\="https://slyflourish.com/5e_items/html/sword-of-wounding-a5e.html">Sword of Wounding</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-binding-a5e.html">Wand of Binding</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-enemy-detection-a5e.html">Wand of Enemy Detection</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-fear-a5e.html">Wand of Fear</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-fireballs-a5e.html">Wand of Fireballs</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-lightning-bolts-a5e.html">Wand of Lightning Bolts</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-paralysis-a5e.html">Wand of Paralysis</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-wonder-a5e.html">Wand of Wonder</a>
+  <a href\="https://slyflourish.com/5e_items/html/winged-boots-a5e.html">Winged Boots</a>
+  <a href\="https://slyflourish.com/5e_items/html/wings-of-flying-a5e.html">Wings of Flying</a>
+  <a href\="https://slyflourish.com/5e_items/html/glamoured-studded-leather-a5e.html">Glamoured Studded Leather</a>
+  <a href\="https://slyflourish.com/5e_items/html/weapon-2-a5e.html">+2 [weapons]</a> ^10
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-the-war-mage-1-2-or-3-a5e.html">Wand of the War Mage +2</a>
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power</a>
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (bronze griffin)</a>
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (ebony fly)</a>
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (gold lions)</a> ^1
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (ivory goats)</a> ^1
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (marble elephant)</a> ^1
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (onyx dog)</a> ^1
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (serpentine owl)</a> ^1
+
+very_rare_consumables
+  <a href\="https://slyflourish.com/5e_items/html/ammunition-3-a5e.html">[(d6 + d6 + d6)] x +3 [ammunition]</a>
+  <a href\="https://slyflourish.com/5e_items/html/arrow-of-slaying-a5e.html">Arrow of Slaying</a>
+  <a href\="https://slyflourish.com/5e_items/html/candle-of-invocation-a5e.html">Candle of Invocation</a>
+  <a href\="https://slyflourish.com/5e_items/html/oil-of-sharpness-a5e.html">Oil of Sharpness</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-flying-a5e.html">Potion of Flying</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-invisibility-a5e.html">Potion of Invisibility</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-speed-a5e.html">Potion of Speed</a>
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (7th-level, [level_7_spells])</a>
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (8th-level, [level_8_spells])</a>
+  <a href\="https://slyflourish.com/5e_items/html/spell-scroll-a5e.html">Spell Scroll (9th-level, [level_9_spells])</a>
+  [origin] [condition] [relic] that casts [a5e_spells] once ^10
+
+very_rare_permanents
+  <a href\="https://slyflourish.com/5e_items/html/armor-1-2-or-3-a5e.html">+3 [armor]</a> ^5
+  <a href\="https://slyflourish.com/5e_items/html/shield-2-a5e.html">+2 [condition] [origin] shield [setting_select]</a>
+  <a href\="https://slyflourish.com/5e_items/html/amulet-of-the-planes-a5e.html">Amulet of the Planes</a>
+  <a href\="https://slyflourish.com/5e_items/html/animated-shield-a5e.html">Animated Shield</a>
+  <a href\="https://slyflourish.com/5e_items/html/bag-of-devouring-a5e.html">Bag of Devouring</a>
+  <a href\="https://slyflourish.com/5e_items/html/carpet-of-flying-a5e.html">Carpet of Flying</a>
+  <a href\="https://slyflourish.com/5e_items/html/cloak-of-arachnida-a5e.html">Cloak of Arachnida</a>
+  <a href\="https://slyflourish.com/5e_items/html/crystal-ball-a5e.html">Crystal Ball</a>
+  <a href\="https://slyflourish.com/5e_items/html/dancing-sword-a5e.html">Dancing [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/demon-armor-a5e.html">Demon Armor</a>
+  <a href\="https://slyflourish.com/5e_items/html/dragon-scale-mail-a5e.html">Dragon Scale Mail</a>
+  <a href\="https://slyflourish.com/5e_items/html/dragon-slayer-a5e.html">Dragon Slayer [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/dwarven-plate-a5e.html">Dwarven Plate</a>
+  <a href\="https://slyflourish.com/5e_items/html/dwarven-thrower-a5e.html">Dwarven Thrower</a>
+  <a href\="https://slyflourish.com/5e_items/html/efreeti-bottle-a5e.html">Efreeti Bottle</a>
+  <a href\="https://slyflourish.com/5e_items/html/frost-brand-a5e.html">Frost Brand [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/helm-of-brilliance-a5e.html">Helm of Brilliance</a>
+  <a href\="https://slyflourish.com/5e_items/html/helm-of-teleportation-a5e.html">Helm of Teleportation</a>
+  <a href\="https://slyflourish.com/5e_items/html/horseshoes-of-a-zephyr-a5e.html">Horseshoes of a Zephyr</a>
+  <a href\="https://slyflourish.com/5e_items/html/instant-fortress-a5e.html">Instant Fortress</a>
+  <a href\="https://slyflourish.com/5e_items/html/manual-of-bodily-health-a5e.html">Manual of Bodily Health</a>
+  <a href\="https://slyflourish.com/5e_items/html/manual-of-gainful-exercise-a5e.html">Manual of Gainful Exercise</a>
+  <a href\="https://slyflourish.com/5e_items/html/manual-of-quickness-of-action-a5e.html">Manual of Quickness of Action</a>
+  <a href\="https://slyflourish.com/5e_items/html/marvelous-pigments-a5e.html">Marvelous Pigments</a>
+  <a href\="https://slyflourish.com/5e_items/html/mirror-of-life-trapping-a5e.html">Mirror of Life Trapping</a>
+  <a href\="https://slyflourish.com/5e_items/html/nine-lives-stealer-a5e.html">Nine Lives Stealer [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/oathbow-a5e.html">Oathbow</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-regeneration-a5e.html">Ring of Regeneration</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-shooting-stars-a5e.html">Ring of Shooting Stars</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-telekinesis-a5e.html">Ring of Telekinesis</a>
+  <a href\="https://slyflourish.com/5e_items/html/robe-of-scintillating-colors-a5e.html">Robe of Scintillating Colors</a>
+  <a href\="https://slyflourish.com/5e_items/html/robe-of-stars-a5e.html">Robe of Stars</a>
+  <a href\="https://slyflourish.com/5e_items/html/rod-of-absorption-a5e.html">Rod of Absorption</a>
+  <a href\="https://slyflourish.com/5e_items/html/rod-of-alertness-a5e.html">Rod of Alertness</a>
+  <a href\="https://slyflourish.com/5e_items/html/scimitar-of-speed-a5e.html">Scimitar of Speed</a>
+  <a href\="https://slyflourish.com/5e_items/html/spellguard-shield-a5e.html">Spellguard Shield</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-fire-a5e.html">Staff of Fire</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-frost-a5e.html">Staff of Frost</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-power-a5e.html">Staff of Power</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-striking-a5e.html">Staff of Striking</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-thunder-and-lightning-a5e.html">Staff of Thunder and Lightning</a>
+  <a href\="https://slyflourish.com/5e_items/html/sword-of-sharpness-a5e.html">Sword of Sharpness</a>
+  <a href\="https://slyflourish.com/5e_items/html/tome-of-clear-thought-a5e.html">Tome of Clear Thought</a>
+  <a href\="https://slyflourish.com/5e_items/html/tome-of-leadership-and-influence-a5e.html">Tome of Leadership and Influence</a>
+  <a href\="https://slyflourish.com/5e_items/html/tome-of-understanding-a5e.html">Tome of Understanding</a>
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-polymorph-a5e.html">Wand of Polymorph</a>
+  <a href\="https://slyflourish.com/5e_items/html/manual-of-golems-a5e.html">Manual of Golems</a>
+  <a href\="https://slyflourish.com/5e_items/html/feather-token-a5e.html">Feather Token (Held Heart)</a>
+  <a href\="https://slyflourish.com/5e_items/html/weapon-3-a5e.html">+3 [weapons]</a> ^10
+  <a href\="https://slyflourish.com/5e_items/html/wand-of-the-war-mage-1-2-or-3-a5e.html">Wand of the War Mage +3</a>
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power</a>
+  <a href\="https://slyflourish.com/5e_items/html/potion-of-healing-a5e.html">Potion of Supreme Healing</a> ^10
+  <a href\="https://slyflourish.com/5e_items/html/figurine-of-wondrous-power-a5e.html">Figurine of Wondrous Power (obsidian steed)</a> ^1
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Absorption)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Agility)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Fortitude)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Insight)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Intellect)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Leadership)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Strength)</a>
+
+legendary_permanents
+  <a href\="https://slyflourish.com/5e_items/html/sovereign-glue-a5e.html">Sovereign Glue</a>
+  <a href\="https://slyflourish.com/5e_items/html/universal-solvent-a5e.html">Universal Solvent</a>
+  <a href\="https://slyflourish.com/5e_items/html/shield-3-a5e.html">+3 [condition] [origin] shield [setting_select]</a>
+  <a href\="https://slyflourish.com/5e_items/html/apparatus-of-the-crab-a5e.html">Apparatus of the Crab</a>
+  <a href\="https://slyflourish.com/5e_items/html/armor-of-invulnerability-a5e.html">Armor of Invulnerability</a>
+  <a href\="https://slyflourish.com/5e_items/html/cubic-gate-a5e.html">Cubic Gate</a>
+  <a href\="https://slyflourish.com/5e_items/html/deck-of-many-things-a5e.html">Deck of Many Things</a>
+  <a href\="https://slyflourish.com/5e_items/html/defender-a5e.html">Defender [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/hammer-of-thunderbolts-a5e.html">Hammer of Thunderbolts</a>
+  <a href\="https://slyflourish.com/5e_items/html/holy-avenger-a5e.html">Holy Avenger [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/iron-flask-a5e.html">Iron Flask</a>
+  <a href\="https://slyflourish.com/5e_items/html/luck-blade-a5e.html">Luck Blade [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/plate-armor-of-etherealness-a5e.html">Plate Armor of Etherealness</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-djinni-summoning-a5e.html">Ring of Djinni Summoning</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-elemental-command-a5e.html">Ring of Elemental Command</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-invisibility-a5e.html">Ring of Invisibility</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-spell-turning-a5e.html">Ring of Spell Turning</a>
+  <a href\="https://slyflourish.com/5e_items/html/ring-of-three-wishes-a5e.html">Ring of Three Wishes</a>
+  <a href\="https://slyflourish.com/5e_items/html/robe-of-the-archmagi-a5e.html">Robe of the Archmagi</a>
+  <a href\="https://slyflourish.com/5e_items/html/rod-of-lordly-might-a5e.html">Rod of Lordly Might</a>
+  <a href\="https://slyflourish.com/5e_items/html/rod-of-security-a5e.html">Rod of Security</a>
+  <a href\="https://slyflourish.com/5e_items/html/scarab-of-protection-a5e.html">Scarab of Protection</a>
+  <a href\="https://slyflourish.com/5e_items/html/sphere-of-annihilation-a5e.html">Sphere of Annihilation</a>
+  <a href\="https://slyflourish.com/5e_items/html/staff-of-the-magi-a5e.html">Staff of the Magi</a>
+  <a href\="https://slyflourish.com/5e_items/html/talisman-of-pure-good-a5e.html">Talisman of Pure Good</a>
+  <a href\="https://slyflourish.com/5e_items/html/talisman-of-the-sphere-a5e.html">Talisman of the Sphere</a>
+  <a href\="https://slyflourish.com/5e_items/html/talisman-of-ultimate-evil-a5e.html">Talisman of Ultimate Evil</a>
+  <a href\="https://slyflourish.com/5e_items/html/vorpal-sword-a5e.html">Vorpal [weapons]</a>
+  <a href\="https://slyflourish.com/5e_items/html/well-of-many-worlds-a5e.html">Well of Many Worlds</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Greater Absorption)</a>
+  <a href\="https://slyflourish.com/5e_items/html/ioun-stone-a5e.html">Ioun Stone (Regeneration)</a>
+
 
 uncommon_dmg_items
   <a href\="https://slyflourish.com/5e_items/html/armor-1-2-or-3-a5e.html">+1 [armor]</a> ^5
