@@ -36,7 +36,7 @@ unique_magic_weapon
   A [weapons] [spell]
 
 unique_magic_armor
-  A suit of [armor] armor [spell]
+  A suit of [armor] [spell]
 
 monument_output
   [condition.selectUnique(2).joinItems(" ")] [monument] [setting_select] [spell]
@@ -1151,10 +1151,10 @@ eberron_faction
   Aundair (Feathers surrounding a griffin on blue – Nation of arcane might)
   Aureon (Open book – Sorverign of law and knowledge)
   Avassh, the Twister of Roots (Daelkyr of unnatural and deadly vegitation)
-  Balinor (Green antlers – Soverign of beasts and the hunt)
+  Balinor (Green antlers – Sovereign of beasts and the hunt)
   Belashyrra, Lord of Eyes (Daelkyr of all-seeing)
   the Blood of Vol (Fanged skull surrounding a drop of blood – Faith of immortality)
-  Boldrei (Fire in a stone hearth – Soverign of community and home)
+  Boldrei (Fire in a stone hearth – Sovereign of community and home)
   Boromar Clan (Powerful criminal organization of halflings)
   Breland (Two gold dragons flanking a bear's roaring head – Nation of pragmatism and independence)
   the Clifftop Adventurer's Guild (150 year old adventurer's guild)
@@ -1166,8 +1166,8 @@ eberron_faction
   Darguun (Land of goblins)
   the Demon Wastes (Former seat of the archfiends and home of the Carrion Tribes)
   Dhakaan (Wheel of blades – Fallen empire of the goblinoids)
-  Dol Arrah (Rising sun over a blue field – Soverign of sunlight)
-  Dol Dorn (Longsword crossed over a shield – Soverign of strength of arms)
+  Dol Arrah (Rising sun over a blue field – Sovereign of sunlight)
+  Dol Dorn (Longsword crossed over a shield – Sovereign of strength of arms)
   the Draconic Prophecy (Ever-evolving prophecy of the dragons)
   the Dragonborn (Children of Argonessen)
   the Dreaming Dark (Agency of the Dal Quor Quori to control the nations of the world)
@@ -1199,15 +1199,15 @@ eberron_faction
   Khyber (dragon below) (Black dragon skull formed of tentacles – Progenitor dragon, slayer of Siberys)
   Khyber (place) (Underworld demiplanes)
   the King's Dark Lanterns (Spies and assassins of Breland)
-  Kol Korran (Nine-sided gold coin – Soverign of trade and travel)
+  Kol Korran (Nine-sided gold coin – Sovereign of trade and travel)
   Kyrzin, the Prince of Slime (Daelkyr of gibbering beasts and sentient slimes)
   the Lord of Blades (Bladed gauntlet – Warlord establishing independence for Warforged and slaughter for the rest)
   the Lords of Dust (Fanged crown atop a skull crumbling to dust – Fiends born in the beginning of time with a dream of restoring their primordial dominion)
   Marguul (Infamous bugbear raiders of the Seawall Mountains)
   Morgrave University (Sharn university of lore and wisdom)
   the Mror Holds (Loose confederation of dwarven clans)
-  Olladra (Domino – Soverign of good fortune)
-  Onatar (Crossed hammer and tongs – Soverign of artifice and the forge)
+  Olladra (Domino – Sovereign of good fortune)
+  Onatar (Crossed hammer and tongs – Sovereign of artifice and the forge)
   the Order of the Emerald Claw (green flame-styled claw – Necromatic warriors and spies cast out from Karrnath in service to Lady Illmarrow)
   Orlassk, the Master of Stone (Daelkyr of petrifying beasts)
   Prince Oargev (Crown over a bell on a green shield – Leader of New Cyre)
@@ -4878,36 +4878,35 @@ rand_10000
 
 lgm_tier_1
   - [lgm_tier_1_treasure]<br>- [uncommon_consumables]<br>- [uncommon_consumables]<br>- [uncommon_permanents]
-  
+
 lgm_tier_1_treasure
-  {50-150} cp, {50-150} sp, {168-218} gp
-  {50-150} cp, {50-150} sp, {93-138} gp<br>- {2-8} × 10 gp [gemstones] gemstones
-  {50-150} cp, {50-150} sp, {43-93} gp<br>- {2-8} × 10 gp [gemstones] gemstones<br>- 50 gp [valuables.selectMany(d2).join("<br>- 50 gp ")]
+  {50-150} CP, {50-150} SP, {368-418} GP
+  {50-150} CP, {50-150} SP, {293-338} GP<br>- {2-8} × 10 GP [gemstones] gemstones
+  {50-150} CP, {50-150} SP, {243-293} GP<br>- {2-8} × 10 GP [gemstones] gemstones<br>- 50 GP [valuables.selectMany(d2).join("<br>- 50 GP ")]
 
 lgm_tier_2
   - [lgm_tier_2_treasure]<br>- {[uncommon_consumables]|[rare_consumables]}<br>- {[uncommon_consumables]|[rare_consumables]}<br>- {[uncommon_permanents]|[rare_permanents]}
   
 lgm_tier_2_treasure
-  {75-125} sp, {1740-2240} gp, {75-125} pp
-  {75-125} sp, {1240-1740} gp, {75-125} pp<br>- {2-8} × 100 gp [gemstones] gemstones
-  {75-125} sp, {1190-1390} gp, {75-125} pp<br>- {2-8} × 100 gp [gemstones] gemstones<br>- 200 gp [valuables.selectMany(d2).join("<br>- 200 gp ")]
+  {75-125} SP, {2740-3240} GP, {75-125} PP
+  {75-125} SP, {2240-2740} GP, {75-125} PP<br>- {2-8} × 100 GP [gemstones] gemstones
+  {75-125} SP, {2190-2390} GP, {75-125} PP<br>- {2-8} × 100 GP [gemstones] gemstones<br>- 200 GP [valuables.selectMany(d2).join("<br>- 200 GP ")]
 
 lgm_tier_3
   - [lgm_tier_3_treasure]<br>- {[uncommon_consumables]|[rare_consumables]|[very_rare_consumables]}<br>- {[uncommon_consumables]|[rare_consumables]|[very_rare_consumables]}<br>- {[uncommon_permanents]|[rare_permanents]|[very_rare_permanents]}
   
 lgm_tier_3_treasure
-  {11000-16000} gp, {175-225} pp
-  {6000-10000} gp, {175-225} pp<br>- {2-8} × 1000 gp [gemstones] gemstones
-  {4000-7000} gp, {175-225} pp<br>- {2-8} × 1000 gp [gemstones] gemstones<br>- 2000 gp [valuables.selectMany(d2).join("<br>- 2000 gp ")]
+  {15000-25000} GP, {900-1100} PP
+  {10000-20000} GP, {900-1100} PP<br>- {2-8} × 1000 GP [gemstones] gemstones
+  {10000-20000} GP, {600-800} PP<br>- {2-8} × 1000 GP [gemstones] gemstones<br>- 2000 GP [valuables.selectMany(d2).join("<br>- 2000 GP ")]
 
 lgm_tier_4
   - [lgm_tier_4_treasure]<br>- {[rare_consumables]|[very_rare_consumables]}<br>- {[rare_consumables]|[very_rare_consumables]}<br>- {[rare_permanents]|[very_rare_permanents]|[legendary_permanents]}
   
 lgm_tier_4_treasure
-  {85000-105000} gp, {475-525} pp
-  {65000-85000} gp, {475-525} pp<br>- {15-25} × 1000 gp [gemstones] gemstones
-  {55000-75000} gp, {475-525} pp<br>- {15-25} × 1000 gp  [gemstones] gemstones<br>- 5000 gp [valuables.selectMany(d4).join("<br>- 5000 gp ")]
-
+  {115000-135000} GP, {6750-7250} PP
+  {95000-115000} GP, {6750-7250} PP<br>- {15-25} × 1000 GP [gemstones] gemstones
+  {85000-105000} GP, {6750-7250} PP<br>- {15-25} × 1000 GP  [gemstones] gemstones<br>- 5000 GP [valuables.selectMany(d4).join("<br>- 5000 GP ")]
 
 weapons
   [condition] [origin] shortsword ^10
