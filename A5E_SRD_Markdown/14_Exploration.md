@@ -3,7 +3,7 @@
 # The Journey 
 
 At the heart of exploration is the journey, or the story that happens
-while the adventurers travel from origin to destination --- surviving
+while the adventurers travel from origin to destination – surviving
 the elements, discovering new places, and overcoming the obstacles
 presented by the environment.
 
@@ -22,7 +22,7 @@ to reach their destination, and the challenges that they face along the
 way. Without a map, adventurers always know which region (see below)
 they are in, but are not usually aware of adjacent regions (unless one
 of them takes the Scout journey activity). They can journey from region
-to region, making choices along the way --- for example, the party might
+to region, making choices along the way – for example, the party might
 be in Rolling Grasslands, and need to decide between hiking Lofty
 Mountains or chancing a Feywood as their next step before finally
 reaching some safe Open Roads leading to their destination.
@@ -72,7 +72,7 @@ travel faster than a crawl.
 - **Gallop**  
   - **MI/MINUTE:** 800 feet  
   - **MI/HOUR:** 8 miles\*  
-  - **MI/DAY:** ---  
+  - **MI/DAY:** –  
   - **Effect:** Disadvantage on Survival checks to track  
 
 A mount can only travel at gallop speed for 1 hour each day. Otherwise, it travels at the fast/mounted pace.
@@ -80,7 +80,7 @@ A mount can only travel at gallop speed for 1 hour each day. Otherwise, it trave
 ### Forced March 
 
 Adventurers on a journey can travel for up to 8 hours in a day before
-requiring a long rest to reinvigorate themselves and continue --- any
+requiring a long rest to reinvigorate themselves and continue – any
 further and they may exhaust themselves. For every additional hour of
 travel past 8 hours, an adventurer makes a Constitution saving throw at
 the end of the hour (DC 10 + the number of additional hours of travel),
@@ -161,7 +161,7 @@ ship can travel up to 24 hours a day.
 A region is an area of the world, defined geographically by its
 physical features. It might be a vast forest or a sandy desert; or it
 might be a snow-tipped mountain range or a stretch of underground
-caverns. Regions are often --- but not always --- named areas on the
+caverns. Regions are often – but not always – named areas on the
 map. Regions are important building blocks of the world, and each region
 has its own properties and encounter tables. Later in this chapter are
 some common regions for Narrators to use.
@@ -176,7 +176,7 @@ found there. Ultimately the types of terrain in a region are at the
 Narrator's discretion and the needs of the campaign.
 
 Regions and Tiers. Each region on the map is
-designated with a tier (from 0--4) which corresponds with the
+designated with a tier (from 0–4) which corresponds with the
 adventuring tiers of play. Any region can be any tier.
 
 A region's tier determines the difficulty of the challenges encountered
@@ -189,7 +189,7 @@ encounter.
 
 It should be noted that it is possible for a low-level party to wander
 into a region too dangerous for them. The Narrator should provide clues
-to the danger level and --- where appropriate --- allow for some means
+to the danger level and – where appropriate – allow for some means
 of escape should the adventurers find themselves in over their
 heads.
 
@@ -203,7 +203,7 @@ level.
 Each region contains a short list of randomly generated weather
 options. These are generally limited to non-extreme weather conditions,
 including clear, overcast, mist, rain, and snow, and are purely
-descriptive tools to help the Narrator set the scene --- they do not
+descriptive tools to help the Narrator set the scene – they do not
 affect the adventurers. More extreme weather events are treated as
 exploration challenges (see page 106) and include phenomena like
 blizzards, dense fogs, hail storms, sandstorms, tornados, thunderstorms,
@@ -239,7 +239,7 @@ has.
 
 Encounters include four categories: exploration challenges, monsters,
 social encounters, and scenery. It is important that the players do not
-know which type of encounter they've stumbled into --- it should be
+know which type of encounter they've stumbled into – it should be
 introduced to them narratively. That chill feeling might be mere
 scenery, but it might be the sign of some kind of undead spirit, or it
 might foreshadow a weather event.
@@ -260,9 +260,9 @@ Ultimately how many encounters adventurers have while traveling is at
 the discretion of the Narrator, but in general it's recommended that the
 party has at least one encounter (combat, exploration, or social) in
 every region they journey through to make it memorable. Some regions are
-going to have more encounters than other regions --- either because they
+going to have more encounters than other regions – either because they
 are tumultuous, the area plays an important part in the campaign, or
-they are large in size --- and the types of encounters the party might
+they are large in size – and the types of encounters the party might
 have in a given region are listed in its Exploring table. Depending on
 the needs of the game and campaign setting, the types of encounters,
 frequency of encounters, and difficulty of certain journey activities
@@ -453,7 +453,7 @@ the party gains a level of strife.
 
 Failure. The party is not entertained.
 
-Success.The first time the adventurer or an ally, up to a
+Success. The first time the adventurer or an ally, up to a
 number of creatures equal to the adventurer\'s proficiency bonus, would
 suffer a level of strife, they do not. When there is more than one
 member of the party that can benefit from this journey activity (like
@@ -658,7 +658,7 @@ swamp, temple, tomb.
 
 Tiers. Blasted Badlands tend to be tier 2 and above.
 
-Weather. 1--10 clear, 11--25 overcast.
+Weather. 1–10 clear, 11–25 overcast.
 
 Journey Activities. Adventurers gain advantage on checks made
 to Scout, but disadvantage on checks made to Befriend Animal, Gossip,
@@ -859,8 +859,8 @@ Tiers. Country Shires are usually tier 0 or tier 1 regions.
 Often used as the starting area in a campaign, it would be unusual to
 find tier 3 or 4 country shires.
 
-Weather. 1--8 clear, 9--12 overcast, 13--16 rain, 17--19 mist,
-20--25 snow.
+Weather. 1–8 clear, 9–12 overcast, 13–16 rain, 17–19 mist,
+20–25 snow.
 
 Friendly Locals. Adventurers gain an expertise die on Charisma checks made against people local to the region.
 
@@ -1017,7 +1017,7 @@ tier 1 Feywood presents little danger other than from wildlife and the
 occasional faeries, a tier 4 Feywood might be a dangerous plane like the
 Dreaming, or the domain of an ancient green dragon.
 
-Weather. 1--15 clear, 16--19 mist, 20--25
+Weather. 1–15 clear, 16–19 mist, 20–25
 rain.
 
 Fey Promises. When an adventurer breaks a promise
@@ -1428,8 +1428,8 @@ region into one or more other regions.
 Tiers. It's unusual (although not impossible) for rivers to be
 above tier 2.
 
-Weather. 1--8 clear, 9--12 overcast, 13--16 rain, 17--19 mist,
-20--25 snow.
+Weather. 1–8 clear, 9–12 overcast, 13–16 rain, 17–19 mist,
+20–25 snow.
 
 Vehicles. Adventurers move at the speed of their water
 vehicles.
@@ -1573,7 +1573,7 @@ temple, tomb, water.
 Tiers. Arctic-like tundra can range from tier 2 to tier 4
 depending on the severity of its climate.
 
-Weather. 1--6 clear, 7--12 overcast, 13--25 snow.
+Weather. 1–6 clear, 7–12 overcast, 13–25 snow.
 
 Chilly. Without the proper gear or magic to survive the cold
 temperatures (see Survival Gear), an adventurer suffers a level of
@@ -1738,7 +1738,7 @@ Tiers. Haunted lands are often higher tier areas. The corrupted
 realm surrounding a dread knight's castle or a county ruled over by a
 sinister vampire would likely be tier 3 or higher.
 
-Weather. 1--5 clear, 6--10 overcast, 11--15 foggy, 16--25
+Weather. 1–5 clear, 6–10 overcast, 11–15 foggy, 16–25
 rain.
 
 Bleak Light. All light sources illuminate only half the area
@@ -1967,8 +1967,8 @@ subterranean, temple, tomb.
 Tiers. Idyllic mountain ranges might be tier 1, while cliffs
 and crags ruled over by an ancient dragon would be tier 4.
 
-Weather. 1--8 clear, 9--12 overcast, 13--16 mist, 17--18 rain,
-19--25 snow.
+Weather. 1–8 clear, 9–12 overcast, 13–16 mist, 17–18 rain,
+19–25 snow.
 
 Climbable. The terrain offers numerous footholds and pitted
 surfaces. Adventurers gain an expertise die on checks made to
@@ -2200,8 +2200,8 @@ region into one or more other regions.
 Tiers. It's unusual (although not impossible) for open roads to
 be above tier 2.
 
-Weather. 1--8 clear, 9--12 overcast, 13--16 rain, 17--19 mist,
-20--25 snow.
+Weather. 1–8 clear, 9–12 overcast, 13–16 rain, 17–19 mist,
+20–25 snow.
 
 Fast Travel. Adventurers move one mile per hour faster when
 traveling along open roads.
@@ -2379,7 +2379,7 @@ settlement, subterranean, temple, tomb.
 Tiers. A desert region with numerous oases might be tier 1, but
 most are tier 2 or higher.
 
-Weather. 1--25 clear.
+Weather. 1–25 clear.
 
 Hot. Traveling at faster than a slow pace is dangerous in the
 region's hot temperatures, and adventurers that do so suffer a level of
@@ -2583,7 +2583,7 @@ Terrains. Coast, water.
 Tiers. Regions with calm waters might be tier 1, but most
 adventurous seas are tier 2 or tier 3.
 
-Weather. 1--7 clear, 8--11 overcast, 12--16 rain, 17--25
+Weather. 1–7 clear, 8–11 overcast, 12–16 rain, 17–25
 mist.
 
 Rolling Mists. Adventurers gain an expertise die on Stealth
@@ -2744,8 +2744,8 @@ temple, tomb.
 Tiers. These plains and hills tend to be tier 1 and 2 regions,
 with threats from bandits, goblin tribes, or wild animals.
 
-Weather. 1--8 clear, 9--12 overcast, 13--16 rain, 17--19 mist,
-20--25 snow.
+Weather. 1–8 clear, 9–12 overcast, 13–16 rain, 17–19 mist,
+20–25 snow.
 
 Journey Activities. Adventurers gain advantage on checks made
 to Chronicle, Gossip, Harvest, and Rob.
@@ -2939,7 +2939,7 @@ At tier 1, a Tangled Forest might be the forest home of a band of
 outlaws or bandits, while higher tiers might feature dinosaurs, dragons,
 giant insects, and ancient traps.
 
-Weather. 1--6 clear, 7--14 mist, 15--20 rain, 21--25
+Weather. 1–6 clear, 7–14 mist, 15–20 rain, 21–25
 snow.
 
 Heavy Undergrowth. Ranged attacks beyond 15 feet are made with
@@ -3094,7 +3094,7 @@ to Harvest or to Hunt and Gather.
 ## Urban Township 
 
 From mighty sprawling cities to smaller bustling towns, these areas are
-full of people---and more people means more accidents, more conflict,
+full of people–and more people means more accidents, more conflict,
 and more action. Adventurers journeying through urban areas have many
 social encounters, combat encounters against NPCs, and both circumstance
 and constructed terrain exploration challenges.
@@ -3104,8 +3104,8 @@ Terrains. Settlement, sewer, temple.
 Tiers. Metropolises can be as high as tier 4 and small towns as
 low as tier 1.
 
-Weather. 1--8 clear, 9--12 overcast, 13--16 rain, 17--19 mist,
-20--25 snow.
+Weather. 1–8 clear, 9–12 overcast, 13–16 rain, 17–19 mist,
+20–25 snow.
 
 Breakable Surroundings. A critical failure on a Strength or
 Dexterity check results in destruction of property, angering the owner
@@ -3276,8 +3276,8 @@ made to Busk or Rob.
 
 ## Underland Realm 
 
-There is no map---even among the subterranean cultures that dwell
-within---that accurately depicts all of these enormous tunnels, which
+There is no map–even among the subterranean cultures that dwell
+within–that accurately depicts all of these enormous tunnels, which
 range from natural caverns and dwarven mines to shadow elf cities.
 Adventurers journeying through this region have combat encounters, some
 social encounters, and many constructed terrain, natural terrain, and
@@ -3289,7 +3289,7 @@ subterranean, swamp, temple, tomb, water.
 Tiers. It's unusual for these regions to be less than tier
 2.
 
-Weather. 1--16 clear, 17--25 mist.
+Weather. 1–16 clear, 17–25 mist.
 
 Resonant. Adventurers gain an expertise die on sound-based
 Perception checks.
@@ -3498,7 +3498,7 @@ Tiers. Swamp regions with friendly inhabitants might be tier 1,
 but more hostile places (oft ruled over by ancient dragons or worse) can
 easily be tier 4.
 
-Weather. 1--5 clear, 6--8 overcast, 9--15 rain, 16--25
+Weather. 1–5 clear, 6–8 overcast, 9–15 rain, 16–25
 mist.
 
 Hard to Hoof. Mounts and pack animals are unable to travel at a
@@ -3671,8 +3671,8 @@ Tiers. Nascent counties skirmishing against one another might
 merit tier 1, but when larger nations take umbrage against one another
 they usually merit being tier 2 or even tier 3.
 
-Weather. 1--8 clear, 9--12 overcast, 13--16 rain, 17--19 mist,
-20--25 snow. The Narrator may substitute a weather roll based on the
+Weather. 1–8 clear, 9–12 overcast, 13–16 rain, 17–19 mist,
+20–25 snow. The Narrator may substitute a weather roll based on the
 terrain (like rolling a Lofty Mountains weather roll in a Wartorn
 Kingdom in a mountain range).
 
@@ -4251,7 +4251,7 @@ task they've left unfinished.
 13. A large fallen tree blocks passage across the road.  
 14. An ancient paved road from a civilization long before any in recorded history.  
 15. The inert bodies of a family that have been killed and gnawed upon.  
-16. A deserted farm whose owners clearly left in a hurry---there is still livestock there.  
+16. A deserted farm whose owners clearly left in a hurry–there is still livestock there.  
 17. A friendly stray dog accompanies the adventurers for a while.  
 18. A strange waterfall which flows upwards.  
 19. Unusual tracks indicate the passage of some rare monster.  
@@ -4278,8 +4278,8 @@ task they've left unfinished.
 40. An obelisk or stone pillar etched with eldritch runes.  
 41. A rare plant is found, though any herbal concoctions it might be used in are the purview of only expert alchemists.  
 42. The sounds of battle can be heard, but nothing can be seen and there are no recent signs of conflict.  
-43. An unusual quiet falls --- all is still, the animals remain silent, and no wind disturbs the air.  
-44. The adventurers discover the corpse of a powerful monster --- a dragon, giant, or similar.  
+43. An unusual quiet falls – all is still, the animals remain silent, and no wind disturbs the air.  
+44. The adventurers discover the corpse of a powerful monster – a dragon, giant, or similar.  
 45. The air becomes suddenly chill, even in the height of summer.  
 46. A giant eagle swoops down on some small woodland creature and carries it off into the distance.  
 47. The blackened and burned remnants of a roadside inn.  
@@ -4304,7 +4304,7 @@ task they've left unfinished.
 66. The outline of a door carved into a rock face.  
 67. A stone altar standing alone on a small hill.  
 68. An area of devastation caused by two huge monsters fighting. There is blood aplenty but no bodies.  
-69. A smooth circular crater --- the obvious result of a magical explosion --- with a broken staff at its center.  
+69. A smooth circular crater – the obvious result of a magical explosion – with a broken staff at its center.  
 70. An empty wooden chest clearly pulled from the hole in the ground next to it.  
 71. A collection of 17 trees that are perfectly identical in size and shape all the way down to their leaves.  
 72. A 100-foot-long perfectly straight groove in the ground, a few inches wide and several feet deep. It starts and ends abruptly.  
@@ -4333,7 +4333,7 @@ task they've left unfinished.
 95. The shredded remains of a snare that a creature has recently escaped from.  
 96. An ancient signpost by the road naming a couple towns and their distances.  
 97. Further down the road the air seems to waver as if from heat despite lacking the warmth necessary for such an effect.  
-98. A child's top spins on a boulder, sometimes dancing to here or there across the rocky surface --- but if left alone it never stops.  
+98. A child's top spins on a boulder, sometimes dancing to here or there across the rocky surface – but if left alone it never stops.  
 99. An almost absurdly long line of ferrets darts across the party's path and quickly scampers out of sight.  
 100. The skies high overhead rumble as if the gods were in violent conflict, but the clouds do not rain or strike with lightning.  
 
