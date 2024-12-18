@@ -75,7 +75,7 @@ travel faster than a crawl.
   - **MI/DAY:** ---  
   - **Effect:** Disadvantage on Survival checks to track  
 
-\* A mount can only travel at gallop speed for 1 hour each day. Otherwise, it travels at the fast/mounted pace.
+A mount can only travel at gallop speed for 1 hour each day. Otherwise, it travels at the fast/mounted pace.
 
 ### Forced March 
 
@@ -276,10 +276,15 @@ conditions of their journey, or learn more about the world around
 them.
 
 Difficulty Class. The DC of a journey activity is
-based on the region's tier: tier 0 --- DC 10, tier 1 --- DC 12, tier 2
---- DC 14, tier 3 --- DC 16, tier 4 --- DC 18. Depending on the region,
-some journey activities are made with either advantage or
-disadvantage
+based on the region's tier: 
+
+- tier 0 – DC 10
+- tier 1 – DC 12
+- tier 2 – DC 14
+- tier 3 – DC 16
+- tier 4 – DC 18
+
+Depending on the region, some journey activities are made with either advantage or disadvantage.
 
 Experienced Travelers. The Busk and Rob journey activities are
 most profitable for novice adventurers, but experienced travelers can
@@ -4066,497 +4071,159 @@ met on the road can be chosen or rolled randomly. The Narrator should
 embellish the encounters as needed, and should feel free to reject any
 which are not suitable for the current environment.
 
-  -------------------------------------- -------------  TABLE: RANDOM NPC NAMES   
-  D20                            NAME
-  1                               Athur
-  2                               Bacca
-  3                               Bertram
-  4                               Bozur
-  5                               Daro
-  6                               Dunk
-  7                               Erendel
-  8                               Galan
-  9                               Hodar
-  10                              Huebald
-  11                              Jasmine
-  12                              Jissard
-  13                              Kito
-  14                              Larion
-  15                              Mara
-  16                              Naphak
-  17                              Otto
-  18                              Perra
-  19                              Thorne
-  20                              Theodor
-  -------------------------------------- -------------
+### Random NPC Names
 
-+-----------------------------------+-----------------------------------+
-|                      |                                   |
-|                                   |                                   |
-|                      |                                   |
-|                                   |                                   |
-|                      |                                   |
-|                                   |                                   |
-|                      |                                   |
-|                                   |                                   |
-| TABLE: RANDOM NPC HERITAGE.c44 |                                   |
-| .c23                             |                                   |
-+-----------------------------------+-----------------------------------+
-| D20                       | HERITAGE                  |
-+-----------------------------------+-----------------------------------+
-| 1--2                       | Dragonborn                 |
-+-----------------------------------+-----------------------------------+
-| 3--5                       | Dwarf                      |
-+-----------------------------------+-----------------------------------+
-| 6--8                       | Elf                        |
-+-----------------------------------+-----------------------------------+
-| 9                          | Gnome                      |
-+-----------------------------------+-----------------------------------+
-| 10--11                     | Halfling                   |
-+-----------------------------------+-----------------------------------+
-| 12--14                     | Human                      |
-+-----------------------------------+-----------------------------------+
-| 15--16                     | Orc                        |
-+-----------------------------------+-----------------------------------+
-| 17                         | Planetouched               |
-+-----------------------------------+-----------------------------------+
-| 18--19                     | Mixed heritage (roll twice,      |
-|                                   | ignoring this result)       |
-+-----------------------------------+-----------------------------------+
-| 20                         | Roll on the Unusual NPC Heritage |
-|                                   | table                       |
-+-----------------------------------+-----------------------------------+
+1. Athur  
+2. Bacca  
+3. Bertram  
+4. Bozur  
+5. Daro  
+6. Dunk  
+7. Erendel  
+8. Galan  
+9. Hodar  
+10. Huebald  
+11. Jasmine  
+12. Jissard  
+13. Kito  
+14. Larion  
+15. Mara  
+16. Naphak  
+17. Otto  
+18. Perra  
+19. Thorne  
+20. Theodor  
 
-  ------------------------------------------ -----------------  TABLE: UNUSUAL NPC HERITAGE   
-  D12                                HERITAGE
-  1                                   Bugbear
-  2                                   Centaur
-  3                                   Faerie
-  4                                   Gnoll
-  5                                   Goblin
-  6                                   Hobgoblin
-  7                                   Kobold
-  8                                   Lizardfolk
-  9                                   Lycanthrope
-  10                                  Minotaur
-  11                                  Ogre
-  12                                  Satyr
-  ------------------------------------------ -----------------
+### Random NPC Heritage  
 
-TABLE: SOCIAL ENCOUNTER
+- 1–2. Dragonborn  
+- 3–5. Dwarf  
+- 6–8. Elf  
+- 9. Gnome  
+- 10–11. Halfling  
+- 12–14. Human  
+- 15–16. Orc  
+- 17. Planetouched  
+- 18–19. Mixed heritage (roll twice, ignoring this result)  
+- 20. Roll on the Unusual NPC Heritage table  
 
-+-----------------------------------+-----------------------------------+
-| D100                      | SOCIAL ENCOUNTER          |
-+-----------------------------------+-----------------------------------+
-| 1                          | An escaped convict looking for   |
-|                                   | refuge.                     |
-+-----------------------------------+-----------------------------------+
-| 2                          | A knight looking for her lost    |
-|                                   | love.                       |
-+-----------------------------------+-----------------------------------+
-| 3                          | A squad of guards who think that |
-|                                   | the adventurers are evil or       |
-|                                   | ne'er-do-wells.             |
-+-----------------------------------+-----------------------------------+
-| 4                          | A noble retinue which demands    |
-|                                   | the party stand aside.      |
-+-----------------------------------+-----------------------------------+
-| 5                          | A stranded merchant with a badly |
-|                                   | damaged wagon they need help      |
-|                                   | repairing.                  |
-+-----------------------------------+-----------------------------------+
-| 6                          | A dying warrior with a dire      |
-|                                   | warning.                    |
-+-----------------------------------+-----------------------------------+
-| 7                          | A group of children curious      |
-|                                   | about the way the adventurers     |
-|                                   | look.                       |
-+-----------------------------------+-----------------------------------+
-| 8                          | A shepherd whose flock is        |
-|                                   | blocking the way.           |
-+-----------------------------------+-----------------------------------+
-| 9                          | An apprentice wizard seeking     |
-|                                   | willing participants for testing  |
-|                                   | spells.                     |
-+-----------------------------------+-----------------------------------+
-| 10                         | A doomsayer preaching an         |
-|                                   | impending apocalypse.       |
-+-----------------------------------+-----------------------------------+
-| 11                         | A boastful young squire keen to  |
-|                                   | join the party.             |
-+-----------------------------------+-----------------------------------+
-| 12                         | An angry farmer who claims the   |
-|                                   | adventurers are                   |
-|                                   | trespassing.                |
-+-----------------------------------+-----------------------------------+
-| 13                         | A circus wagon headed to the     |
-|                                   | nearest town.               |
-+-----------------------------------+-----------------------------------+
-| 14                         | A wineseller drunk on his own    |
-|                                   | wares.                      |
-+-----------------------------------+-----------------------------------+
-| 15                         | A procession bearing the corpse  |
-|                                   | of a famous knight home.    |
-+-----------------------------------+-----------------------------------+
-| 16                         | A ranger who demands to know the |
-|                                   | party's identities.         |
-+-----------------------------------+-----------------------------------+
-| 17                         | A royal messenger with an urgent |
-|                                   | missive.                    |
-+-----------------------------------+-----------------------------------+
-| 18                         | A child who has run away from    |
-|                                   | home.                       |
-+-----------------------------------+-----------------------------------+
-| 19                         | A bounty hunter tracking elusive |
-|                                   | prey.                       |
-+-----------------------------------+-----------------------------------+
-| 20                         | A cheerful bard who won't be     |
-|                                   | quiet.                      |
-+-----------------------------------+-----------------------------------+
-| 21                         | A noble who takes easy offense   |
-|                                   | and settles things with           |
-|                                   | duels.                      |
-+-----------------------------------+-----------------------------------+
-| 22                         | A cleric who tries to convert    |
-|                                   | the adventurers to their          |
-|                                   | religion.                   |
-+-----------------------------------+-----------------------------------+
-| 23                         | A toll station which charges 1   |
-|                                   | gold per traveler.          |
-+-----------------------------------+-----------------------------------+
-| 24                         | A pair of halflings on their own |
-|                                   | epic quest.                 |
-+-----------------------------------+-----------------------------------+
-| 25                         | An elderly wizard traveling to a |
-|                                   | fair where they can display their |
-|                                   | fireworks.                  |
-+-----------------------------------+-----------------------------------+
-| 26                         | An elderly villager who has lost |
-|                                   | something valuable and is         |
-|                                   | desperately searching for         |
-|                                   | it.                         |
-+-----------------------------------+-----------------------------------+
-| 27                         | A marching army column on its    |
-|                                   | way to or from a battle.    |
-+-----------------------------------+-----------------------------------+
-| 28                         | A down-on-their-luck adventurer  |
-|                                   | who tries to sell the party some  |
-|                                   | of their gear.              |
-+-----------------------------------+-----------------------------------+
-| 29                         | An adventurer with a cursed item |
-|                                   | which can only be passed on       |
-|                                   | willingly.                  |
-+-----------------------------------+-----------------------------------+
-| 30                         | An old acquaintance of one of    |
-|                                   | the adventurers. Are they enemy   |
-|                                   | or ally?                    |
-+-----------------------------------+-----------------------------------+
-| 31                         | A lone traveler who has lost     |
-|                                   | their memory.               |
-+-----------------------------------+-----------------------------------+
-| 32                         | An archeologist digging for lost |
-|                                   | treasure.                   |
-+-----------------------------------+-----------------------------------+
-| 33                         | A friendly group who offer to    |
-|                                   | share a campsite.           |
-+-----------------------------------+-----------------------------------+
-| 34                         | A group of monks on a pilgrimage |
-|                                   | to a holy shrine.           |
-+-----------------------------------+-----------------------------------+
-| 35                         | An adventurer full of arrows,    |
-|                                   | badly wounded by a bandit         |
-|                                   | raid.                       |
-+-----------------------------------+-----------------------------------+
-| 36                         | A mercenary company looking for  |
-|                                   | work.                       |
-+-----------------------------------+-----------------------------------+
-| 37                         | A hungry beggar offering         |
-|                                   | information in exchange for       |
-|                                   | food.                       |
-+-----------------------------------+-----------------------------------+
-| 38                         | A party of refugees from a war   |
-|                                   | or battle.                  |
-+-----------------------------------+-----------------------------------+
-| 39                         | A saddled horse with a few       |
-|                                   | crossbow bolts stuck in its hide  |
-|                                   | and harness, its rider nowhere to |
-|                                   | be seen.                    |
-+-----------------------------------+-----------------------------------+
-| 40                         | A chain gang overseen by a stern |
-|                                   | guard.                      |
-+-----------------------------------+-----------------------------------+
-| 41                         | A young, fresh-faced adventurer  |
-|                                   | determined to return a hero on    |
-|                                   | their first journey.        |
-+-----------------------------------+-----------------------------------+
-| 42                         | A merchant selling dubious       |
-|                                   | potions.                    |
-+-----------------------------------+-----------------------------------+
-| 43                         | A drunken man on the road        |
-|                                   | mistakes one of the adventurers   |
-|                                   | for a long-lost son or            |
-|                                   | daughter.                   |
-+-----------------------------------+-----------------------------------+
-| 44                         | A bandit whose gang has been     |
-|                                   | killed --- they have escaped with |
-|                                   | their lives and some small        |
-|                                   | treasures.                  |
-+-----------------------------------+-----------------------------------+
-| 45                         | An alchemist searching for a     |
-|                                   | rare component.             |
-+-----------------------------------+-----------------------------------+
-| 46                         | An animal-trainer leading a huge |
-|                                   | beast.                      |
-+-----------------------------------+-----------------------------------+
-| 47                         | A group of low-level bandits who |
-|                                   | know better than to mess with the |
-|                                   | party.                      |
-+-----------------------------------+-----------------------------------+
-| 48                         | A band of dwarven workers        |
-|                                   | singing a jaunty song.      |
-+-----------------------------------+-----------------------------------+
-| 49                         | A farmer seeking his strayed     |
-|                                   | livestock.                  |
-+-----------------------------------+-----------------------------------+
-| 50                         | A group of adventurers on a      |
-|                                   | different quest.            |
-+-----------------------------------+-----------------------------------+
-| 51                         | An adventurer solemnly burying a |
-|                                   | fallen companion.           |
-+-----------------------------------+-----------------------------------+
-| 52                         | A doomed plague victim with only |
-|                                   | hours to live.              |
-+-----------------------------------+-----------------------------------+
-| 53                         | A truly heroic and noble knight  |
-|                                   | that ardently follows the ideals  |
-|                                   | of chivalry.                |
-+-----------------------------------+-----------------------------------+
-| 54                         | A foppish and condescending      |
-|                                   | noble who looks down his nose at  |
-|                                   | adventurers.                |
-+-----------------------------------+-----------------------------------+
-| 55                         | A docile, intelligent Monster or |
-|                                   | giant sitting by the side of the  |
-|                                   | road.                       |
-+-----------------------------------+-----------------------------------+
-| 56                         | A frantic fortune-teller         |
-|                                   | approaches to say they saw the    |
-|                                   | adventurers in their              |
-|                                   | dreams.                     |
-+-----------------------------------+-----------------------------------+
-| 57                         | A cryptic merchant peddling      |
-|                                   | bizarre wares in exchange for     |
-|                                   | secrets.                    |
-+-----------------------------------+-----------------------------------+
-| 58                         | A guide warning of danger ahead  |
-|                                   | that might be easily avoided ---  |
-|                                   | for a fee.                  |
-+-----------------------------------+-----------------------------------+
-| 59                         | A gnome putting their finishing  |
-|                                   | touches on some construction of   |
-|                                   | esoteric and frightening          |
-|                                   | design.                     |
-+-----------------------------------+-----------------------------------+
-| 60                         | A rainstorm blows in, but a      |
-|                                   | circle of dry calm surrounds a    |
-|                                   | hooded traveler as they           |
-|                                   | pass.                       |
-+-----------------------------------+-----------------------------------+
-| 61                         | A robed man waves at the party   |
-|                                   | from a tower in the distance, a   |
-|                                   | structure that does not appear on |
-|                                   | any maps or recollections of      |
-|                                   | recent travel nearby.       |
-+-----------------------------------+-----------------------------------+
-| 62                         | A knight jousting at a windmill  |
-|                                   | who is convinced the structure is |
-|                                   | a mimic in disguise.        |
-+-----------------------------------+-----------------------------------+
-| 63                         | A confused and bloody man        |
-|                                   | staggers towards the party from a |
-|                                   | scuffed arcane circle marked out  |
-|                                   | for a recently completed          |
-|                                   | ritual.                     |
-+-----------------------------------+-----------------------------------+
-| 64                         | A starving family begs the party |
-|                                   | for money or food.          |
-+-----------------------------------+-----------------------------------+
-| 65                         | A lone knight keen to test their |
-|                                   | mettle seeks directions to the    |
-|                                   | nearest monster of ill            |
-|                                   | repute.                     |
-+-----------------------------------+-----------------------------------+
-| 66                         | A small woodland creature        |
-|                                   | wearing a tiny golden crown       |
-|                                   | stares at the party imploringly   |
-|                                   | from the oddly lush flora that    |
-|                                   | surrounds it.               |
-+-----------------------------------+-----------------------------------+
-| 67                         | A noble's richly appointed       |
-|                                   | carriage imperiously passes       |
-|                                   | by.                         |
-+-----------------------------------+-----------------------------------+
-| 68                         | An upset merchant insists that   |
-|                                   | one of the adventurers has stolen |
-|                                   | from them.                  |
-+-----------------------------------+-----------------------------------+
-| 69                         | A child with an injured animal   |
-|                                   | in their arms frantically looking |
-|                                   | for help.                   |
-+-----------------------------------+-----------------------------------+
-| 70                         | A con artist presents a          |
-|                                   | lucrative investment        |
-|                                   |                                   |
-|                                   | opportunity.               |
-+-----------------------------------+-----------------------------------+
-| 71                         | A funeral procession moves       |
-|                                   | solemnly down the road.     |
-+-----------------------------------+-----------------------------------+
-| 72                         | A novelist traveling in hopes of |
-|                                   | finding the                 |
-|                                   |                                   |
-|                                   | perfect inspiration        |
-+-----------------------------------+-----------------------------------+
-| 73                         | A friendly dragon who just awoke |
-|                                   | from a lengthy slumber and is     |
-|                                   | curious about current             |
-|                                   | events.                     |
-+-----------------------------------+-----------------------------------+
-| 74                         | A group of adventurers looking   |
-|                                   | for the cure to a plague ravaging |
-|                                   | another part of the world.  |
-+-----------------------------------+-----------------------------------+
-| 75                         | A group of bounty hunters        |
-|                                   | looking for a target and          |
-|                                   | convinced the party must know     |
-|                                   | something.                  |
-+-----------------------------------+-----------------------------------+
-| 76                         | A forester argues animatedly     |
-|                                   | with a druid.               |
-+-----------------------------------+-----------------------------------+
-| 77                         | Settlers on their way to or just |
-|                                   | starting out on a new claim ask   |
-|                                   | for directions, help, or          |
-|                                   | information about the local       |
-|                                   | culture.                    |
-+-----------------------------------+-----------------------------------+
-| 78                         | A friendly, eager, old peddler   |
-|                                   | with a colorful and overfull cart |
-|                                   | of bizarre goods for sale.  |
-+-----------------------------------+-----------------------------------+
-| 79                         | A group of knights and priests   |
-|                                   | on the hunt for some supernatural |
-|                                   | evil ask passersby for            |
-|                                   | information.                |
-+-----------------------------------+-----------------------------------+
-| 80                         | A local vintner giving away      |
-|                                   | samples of their latest           |
-|                                   | (mediocre) wine in an attempt to  |
-|                                   | drum up business.           |
-+-----------------------------------+-----------------------------------+
-| 81                         | A very conscientious troll       |
-|                                   | working to do maintenance on his  |
-|                                   | bridge.                     |
-+-----------------------------------+-----------------------------------+
-| 82                         | A group of faeries that invite   |
-|                                   | the adventurers to come dance     |
-|                                   | with them.                  |
-+-----------------------------------+-----------------------------------+
-| 83                         | A disguised young nobleman,      |
-|                                   | slumming it with some local       |
-|                                   | toughs, looks to fit in with the  |
-|                                   | lower classes and may try to      |
-|                                   | intimidate or schmooze the        |
-|                                   | party.                      |
-+-----------------------------------+-----------------------------------+
-| 84                         | A child is crying by the side of |
-|                                   | the road because their kitty      |
-|                                   | Muffles is stuck in the wall of   |
-|                                   | their house.                |
-+-----------------------------------+-----------------------------------+
-| 85                         | An extremely cheerful old lady   |
-|                                   | enthusiastically greets the       |
-|                                   | adventurers and tries to sell     |
-|                                   | them her apples.            |
-+-----------------------------------+-----------------------------------+
-| 86                         | A cart has gone into a pothole   |
-|                                   | and seems to be firmly stuck. The |
-|                                   | carter and their spouse are       |
-|                                   | having a raging argument as to    |
-|                                   | whose fault it was.         |
-+-----------------------------------+-----------------------------------+
-| 87                         | A pair of boots can be seen      |
-|                                   | sticking out from under a         |
-|                                   | hedgerow just off the road, and   |
-|                                   | the sounds of snoring nearby are  |
-|                                   | very, very loud.            |
-+-----------------------------------+-----------------------------------+
-| 88                         | At a crossroads a disheveled     |
-|                                   | youth paces back and forth,       |
-|                                   | clutching a fiddle and muttering  |
-|                                   | to themself.                |
-+-----------------------------------+-----------------------------------+
-| 89                         | A dog races up to the            |
-|                                   | adventurers and barks furiously,  |
-|                                   | then runs off before coming back  |
-|                                   | and barking some more. This       |
-|                                   | pattern repeats several           |
-|                                   | times.                      |
-+-----------------------------------+-----------------------------------+
-| 90                         | From a ditch at the side of the  |
-|                                   | road the party hears a groan.     |
-|                                   | Looking more closely they can     |
-|                                   | spot a bloodied and battered      |
-|                                   | figure lying in the bottom of the |
-|                                   | ditch.                      |
-+-----------------------------------+-----------------------------------+
-| 91                         | A couple of artists debating     |
-|                                   | over how to approach a new        |
-|                                   | project and roping in passersby   |
-|                                   | to weigh in.                |
-+-----------------------------------+-----------------------------------+
-| 92                         | A pair of hopelessly lost planar |
-|                                   | travelers looking for directions. |
-|                                   | They don't speak Common.    |
-+-----------------------------------+-----------------------------------+
-| 93                         | Food vendor aggressively hawking |
-|                                   | something unusual and             |
-|                                   | delicious.                  |
-+-----------------------------------+-----------------------------------+
-| 94                         | Parents frantically searching    |
-|                                   | for a lost child.           |
-+-----------------------------------+-----------------------------------+
-| 95                         | Work crew holding together       |
-|                                   | something that broke unexpectedly |
-|                                   | and in desperate need of some     |
-|                                   | extra pairs of hands.       |
-+-----------------------------------+-----------------------------------+
-| 96                         | A festival that's in full swing  |
-|                                   | --- tipsy locals may try to rope  |
-|                                   | the party into celebratory        |
-|                                   | events, push local cuisine on     |
-|                                   | them, or prank them.        |
-+-----------------------------------+-----------------------------------+
-| 97                         | People search the site of a      |
-|                                   | recent battle for survivors and   |
-|                                   | possibly loot.              |
-+-----------------------------------+-----------------------------------+
-| 98                         | A crier loudly proclaims an      |
-|                                   | unpopular new decree to much      |
-|                                   | grumbling and heckling.     |
-+-----------------------------------+-----------------------------------+
-| 99                         | A group of traveling minstrels   |
-|                                   | offer to share their campsite and |
-|                                   | entertain the adventurers while   |
-|                                   | passing on news and rumors. |
-+-----------------------------------+-----------------------------------+
-| 100                        | A river can only be crossed by   |
-|                                   | way of the ferryman who asks each |
-|                                   | traveler for a single silver      |
-|                                   | coin.                       |
-+-----------------------------------+-----------------------------------+
+### Unusual NPC Heritage  
 
----------------------------------------------------------------------
+1. Bugbear  
+2. Centaur  
+3. Faerie  
+4. Gnoll  
+5. Goblin  
+6. Hobgoblin  
+7. Kobold  
+8. Lizardfolk  
+9. Lycanthrope  
+10. Minotaur  
+11. Ogre  
+12. Satyr  
+
+## TABLE: SOCIAL ENCOUNTER
+
+1. An escaped convict looking for refuge.  
+2. A knight looking for her lost love.  
+3. A squad of guards who think that the adventurers are evil or ne'er-do-wells.  
+4. A noble retinue which demands the party stand aside.  
+5. A stranded merchant with a badly damaged wagon they need help repairing.  
+6. A dying warrior with a dire warning.  
+7. A group of children curious about the way the adventurers look.  
+8. A shepherd whose flock is blocking the way.  
+9. An apprentice wizard seeking willing participants for testing spells.  
+10. A doomsayer preaching an impending apocalypse.  
+11. A boastful young squire keen to join the party.  
+12. An angry farmer who claims the adventurers are trespassing.  
+13. A circus wagon headed to the nearest town.  
+14. A wineseller drunk on his own wares.  
+15. A procession bearing the corpse of a famous knight home.  
+16. A ranger who demands to know the party's identities.  
+17. A royal messenger with an urgent missive.  
+18. A child who has run away from home.  
+19. A bounty hunter tracking elusive prey.  
+20. A cheerful bard who won't be quiet.  
+21. A noble who takes easy offense and settles things with duels.  
+22. A cleric who tries to convert the adventurers to their religion.  
+23. A toll station which charges 1 gold per traveler.  
+24. A pair of halflings on their own epic quest.  
+25. An elderly wizard traveling to a fair where they can display their fireworks.  
+26. An elderly villager who has lost something valuable and is desperately searching for it.  
+27. A marching army column on its way to or from a battle.  
+28. A down-on-their-luck adventurer who tries to sell the party some of their gear.  
+29. An adventurer with a cursed item which can only be passed on willingly.  
+30. An old acquaintance of one of the adventurers. Are they enemy or ally?  
+31. A lone traveler who has lost their memory.  
+32. An archeologist digging for lost treasure.  
+33. A friendly group who offer to share a campsite.  
+34. A group of monks on a pilgrimage to a holy shrine.  
+35. An adventurer full of arrows, badly wounded by a bandit raid.  
+36. A mercenary company looking for work.  
+37. A hungry beggar offering information in exchange for food.  
+38. A party of refugees from a war or battle.  
+39. A saddled horse with a few crossbow bolts stuck in its hide and harness, its rider nowhere to be seen.  
+40. A chain gang overseen by a stern guard.  
+41. A young, fresh-faced adventurer determined to return a hero on their first journey.  
+42. A merchant selling dubious potions.  
+43. A drunken man on the road mistakes one of the adventurers for a long-lost son or daughter.  
+44. A bandit whose gang has been killed — they have escaped with their lives and some small treasures.  
+45. An alchemist searching for a rare component.  
+46. An animal-trainer leading a huge beast.  
+47. A group of low-level bandits who know better than to mess with the party.  
+48. A band of dwarven workers singing a jaunty song.  
+49. A farmer seeking his strayed livestock.  
+50. A group of adventurers on a different quest.   
+51. An adventurer solemnly burying a fallen companion.  
+52. A doomed plague victim with only hours to live.  
+53. A truly heroic and noble knight that ardently follows the ideals of chivalry.  
+54. A foppish and condescending noble who looks down his nose at adventurers.  
+55. A docile, intelligent monster or giant sitting by the side of the road.  
+56. A frantic fortune-teller approaches to say they saw the adventurers in their dreams.  
+57. A cryptic merchant peddling bizarre wares in exchange for secrets.  
+58. A guide warning of danger ahead that might be easily avoided—for a fee.  
+59. A gnome putting their finishing touches on some construction of esoteric and frightening design.  
+60. A rainstorm blows in, but a circle of dry calm surrounds a hooded traveler as they pass.  
+61. A robed man waves at the party from a tower in the distance, a structure not on any maps.  
+62. A knight jousting at a windmill who is convinced the structure is a mimic in disguise.  
+63. A confused and bloody man staggers toward the party from a scuffed arcane circle marked out for a recently completed ritual.  
+64. A starving family begs the party for money or food.  
+65. A lone knight keen to test their mettle seeks directions to the nearest monster of ill repute.  
+66. A small woodland creature wearing a tiny golden crown stares at the party imploringly from the oddly lush flora that surrounds it.  
+67. A noble's richly appointed carriage imperiously passes by.  
+68. An upset merchant insists that one of the adventurers has stolen from them.  
+69. A child with an injured animal in their arms frantically looking for help.  
+70. A con artist presents a lucrative investment opportunity.  
+71. A funeral procession moves solemnly down the road.  
+72. A novelist traveling in hopes of finding the perfect inspiration.  
+73. A friendly dragon who just awoke from a lengthy slumber and is curious about current events.  
+74. A group of adventurers looking for the cure to a plague ravaging another part of the world.  
+75. A group of bounty hunters looking for a target and convinced the party must know something.  
+76. A forester argues animatedly with a druid.  
+77. Settlers on their way to or just starting out on a new claim ask for directions, help, or information about the local culture.  
+78. A friendly, eager old peddler with a colorful and overfull cart of bizarre goods for sale.  
+79. A group of knights and priests on the hunt for some supernatural evil ask passersby for information.  
+80. A local vintner giving away samples of their latest (mediocre) wine in an attempt to drum up business.  
+81. A very conscientious troll working to do maintenance on his bridge.  
+82. A group of faeries that invite the adventurers to come dance with them.  
+83. A disguised young nobleman, slumming it with local toughs, looks to fit in and may try to intimidate or schmooze the party.  
+84. A child crying by the side of the road because their kitty Muffles is stuck in the wall of their house.  
+85. An extremely cheerful old lady enthusiastically greets the adventurers and tries to sell them her apples.  
+86. A cart has gone into a pothole and seems firmly stuck. The carter and their spouse are having a raging argument as to whose fault it was.  
+87. A pair of boots can be seen sticking out from under a hedgerow just off the road, with very loud snoring nearby.  
+88. At a crossroads, a disheveled youth paces back and forth, clutching a fiddle and muttering to themself.  
+89. A dog races up to the adventurers, barks furiously, runs off, and repeats this several times.  
+90. From a ditch at the side of the road, the party hears a groan and spots a bloodied, battered figure lying at the bottom.  
+91. A couple of artists debating a new project and roping in passersby to weigh in.  
+92. A pair of hopelessly lost planar travelers looking for directions. They don’t speak Common.  
+93. A food vendor aggressively hawking something unusual and delicious.  
+94. Parents frantically searching for a lost child.  
+95. A work crew holding together something that broke unexpectedly and desperately needing extra pairs of hands.  
+96. A festival in full swing—tipsy locals may try to rope the party into celebratory events, push local cuisine, or prank them.  
+97. People search the site of a recent battle for survivors and possibly loot.  
+98. A crier loudly proclaims an unpopular new decree to much grumbling and heckling.  
+99. A group of traveling minstrels offers to share their campsite, entertain the adventurers, and pass on news and rumors.  
+100. A river can only be crossed by way of the ferryman, who asks each traveler for a single silver coin.   
 
 ## Travel Scenery 
 
@@ -4567,147 +4234,138 @@ scenery to heighten the sense of adventure and mystery, introduce new
 quests, or tweak them to help guide a wayward party back to an important
 task they've left unfinished.
 
-TABLE: TRAVEL SCENERY
+### TABLE: TRAVEL SCENERY
 
-  -------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------  D100   TRAVEL SCENERY
-  1       A flock of birds wheels and dives in the air, staying within sight for most of the day.
-  2       The ground shakes as some kind of burrowing creature passes beneath.
-  3       An old battlefield littered with skeletons and rusty weapons.
-  4       A giant tree, towering above those around it, stands lifeless and dead, charred and burned.
-  5       A great flying creature such as a dragon or wyvern passes overhead.
-  6       Strange voices are heard overnight while at camp, but no sign of anyone is discovered.
-  7       An eclipse takes pace, plunging the adventurers into darkness for several minutes.
-  8       A stone circle, some remnant of an ancient religion.
-  9       A ruined keep covered in ivy stands at the side of the road.
-  10      A corpse hangs from a tree, clearly having been hanged for some reason.
-  11      A beautiful waterfall cascades in a picturesque scene.
-  12      Barrow mounds where ancient warriors were laid to rest spread sense of unease.
-  13      A large fallen tree blocks passage across the road.
-  14      An ancient paved road from a civilization long before any in recorded history.
-  15      The inert bodies of a family that have been killed and gnawed upon.
-  16      A deserted farm whose owners clearly left in a hurry---there is still livestock there.
-  17      A friendly stray dog accompanies the adventurers for a while.
-  18      A strange waterfall which flows upwards.
-  19      Unusual tracks indicate the passage of some rare monster.
-  20      A bridge crosses a chasm with a sign that reads, "Beware of the troll." There is no troll.
-  21      An overturned wagon contains spoiled provisions and there are no owners in sight.
-  22      An area of trees and bushes clearly ravaged by some kind of disease.
-  23      A ranger stands in a clearing, clearly having been turned to stone.
-  24      A tree decorated with humanoid skulls.
-  25      A majestic white falcon leads the PCs through a shortcut and then vanishes.
-  26      The corpse of a well-equipped adventurer still in their armor with a sword in hand.
-  27      A great skull of some kind of massive giant, covered with moss and home to small critters.
-  28      A shallow grave with notice atop it which reads, "This is the fate of thieves and liars."
-  29      Wolves howl in the distance all throughout the night.
-  30      The remains of a campsite that was clearly recently used.
-  31      An oversized rusted greatsword embedded in a stone.
-  32      Ornate spires made of magically-hardened ice rise from the ground.
-  33      A great face carved into the side of a cliff.
-  34      A wooden stick clearly marks the site of a buried object.
-  35      A large statue of a well-known god or hero overlooks the route.
-  36      A hot spring provides an opportunity for a bath.
-  37      A riderless horse, still saddled, walks down the road.
-  38      A swarm of insects, dense enough to be almost opaque, hovers for no apparent reason.
-  39      Distant and strange lights flash and move in the sky.
-  40      An obelisk or stone pillar etched with eldritch runes.
-  41      A rare plant is found, though any herbal concoctions it might be used in are the purvey of only expert alchemists.
-  42      The sounds of battle can be heard, but nothing can be seen and there are no recent signs of conflict.
-  43      An unusual quiet falls --- all is still, the animals remain silent, and no wind disturbs the air.
-  44      The adventurers discover the corpse of a powerful monster --- a dragon, giant, or similar.
-  45      The air becomes suddenly chill, even in the height of summer.
-  46      A giant eagle swoops down on some small woodland creature and carries it off into the distance.
-  47      The blackened and burned remnants of a roadside inn.
-  48      A massive fallen tree riddled with fungal growths of unusual size.
-  49      A moldering shipwreck paradoxically hangs in the treetops far from any body of water.
-  50      Several low hills that look suspiciously like giant tortoises overgrown with bush and bracken.
-  51      A thunderstorm in the distance that seems strangely unmoving and persists longer than usual.
-  52      A boulder-sized obsidian sphere floats a few yards above low and scattered ruins.
-  53      A massive, 100 foot tall iron colossus lies almost peacefully against a mountain.
-  54      A hilltop graveyard covered in colorful flowering vines. Cheerful ravens squawk from atop the ancient headstones in the noonday sun.
-  55      The current of a turbulent river creates numerous tiny rainbows in the spray.
-  56      A half-finished cathedral to a forgotten god sits covered in moss.
-  57      An angelic being appears, loudly blesses a holy site, and disappears.
-  58      Ghostly spirits go about ancient daily routines in silence.
-  59      Water is paradoxically drawn up from a lake into a cloud overhead.
-  60      An ancient roadside inn that is immaculately maintained yet oddly empty.
-  61      Two castles on adjacent hilltops stand watch over a river running between them.
-  62      Vividly-colored fish swim in a nearby body of water.
-  63      A child's joyous laughter echoes from the bottom of a well.
-  64      A herd of massive herbivores slowly ambles across an open field, grazing as they go.
-  65      An old windmill sits atop a hill outside a town, its blades slowly turning even when there is no breeze.
-  66      The outline of a door carved into a rock face.
-  67      A stone altar standing alone on a small hill.
-  68      An area of devastation caused by two huge monsters fighting. There is blood aplenty but no bodies.
-  69      A smooth circular crater --- the obvious result of a magical explosion --- with a broken staff at its center.
-  70      An empty wooden chest clearly pulled from the hole in the ground next to it.
-  71      A collection of 17 trees that are perfectly identical in size and shape all the way down to their leaves.
-  72      A 100 foot long perfectly straight groove in the ground, a few inches wide and several feet deep. It starts and ends abruptly.
-  73      A monument to an ancient battle honoring the dead. The monument is clean though the battleground is long overgrown.
-  74      A set of wards constructed at a crossroads purporting to keep fiends away.
-  75      A carved statue of such exquisite quality that it looks as though it was a living person turned to wood. If removed it becomes brittle and quickly loses its details.
-  76      A stand of trees burning endlessly without being consumed.
-  77      A deep well which appears to be bottomless.
-  78      A pool of water which seems to be impossibly clean and clear.
-  79      Disused ancient roads lie partially overgrown.
-  80      A strange grove where all sound seems to be muted and a sense of peace pervades.
-  81      A tall, narrow stone tower, 100 feet high, seemingly empty and standing alone on the landscape.
-  82      A 30 foot wide eldritch rune burned into the ground.
-  83      A herd of pegasi flies overhead.
-  84      Ambulatory plant creatures slowly trudge along a well-worn route, following the change of seasons.
-  85      Clouds that bear an uncanny resemblance to monsters float overhead.
-  86      Ancient monument commemorating an armistice that combines the aesthetics of two different peoples.
-  87      An abandoned carriage gutted of everything that might have value.
-  88      A luxurious inn purporting pleasurable company, though no other customers seem to have been enticed inside.
-  89      A talking and interactive figment that flamboyantly points the way to a magical shop.
-  90      A shrubbery.
-  91      A fortified bridge that spans a chasm over a river of lava.
-  92      An empty cart firmly stuck in a pothole. Removing the cart breaks its axle.
-  93      The ground nearby is littered with scores of small holes the size of a person's fist.
-  94      A perfectly square stone as big as a cauldron.
-  95      The shredded remains of a snare that a creature has recently escaped from.
-  96      An ancient signpost by the road naming a couple towns and their distances.
-  97      Further down the road the air seems to waver as if from heat despite lacking the warmth necessary for such an effect.
-  98      A child's top spins on a boulder, sometimes dancing to here or there across the rocky surface --- but if left alone it never stops.
-  99      An almost absurdly long line of ferrets darts across the party's path and quickly scampers out of sight.
-  100     The skies high overhead rumble as if the gods were in violent conflict, but the clouds do not rain or strike with lightning.
-  -------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. A flock of birds wheels and dives in the air, staying within sight for most of the day.  
+2. The ground shakes as some kind of burrowing creature passes beneath.  
+3. An old battlefield littered with skeletons and rusty weapons.  
+4. A giant tree, towering above those around it, stands lifeless and dead, charred and burned.  
+5. A great flying creature such as a dragon or wyvern passes overhead.  
+6. Strange voices are heard overnight while at camp, but no sign of anyone is discovered.  
+7. An eclipse takes place, plunging the adventurers into darkness for several minutes.  
+8. A stone circle, some remnant of an ancient religion.  
+9. A ruined keep covered in ivy stands at the side of the road.  
+10. A corpse hangs from a tree, clearly having been hanged for some reason.  
+11. A beautiful waterfall cascades in a picturesque scene.  
+12. Barrow mounds where ancient warriors were laid to rest spread sense of unease.  
+13. A large fallen tree blocks passage across the road.  
+14. An ancient paved road from a civilization long before any in recorded history.  
+15. The inert bodies of a family that have been killed and gnawed upon.  
+16. A deserted farm whose owners clearly left in a hurry---there is still livestock there.  
+17. A friendly stray dog accompanies the adventurers for a while.  
+18. A strange waterfall which flows upwards.  
+19. Unusual tracks indicate the passage of some rare monster.  
+20. A bridge crosses a chasm with a sign that reads, "Beware of the troll." There is no troll.  
+21. An overturned wagon contains spoiled provisions and there are no owners in sight.  
+22. An area of trees and bushes clearly ravaged by some kind of disease.  
+23. A ranger stands in a clearing, clearly having been turned to stone.  
+24. A tree decorated with humanoid skulls.  
+25. A majestic white falcon leads the PCs through a shortcut and then vanishes.  
+26. The corpse of a well-equipped adventurer still in their armor with a sword in hand.  
+27. A great skull of some kind of massive giant, covered with moss and home to small critters.  
+28. A shallow grave with notice atop it which reads, "This is the fate of thieves and liars."  
+29. Wolves howl in the distance all throughout the night.  
+30. The remains of a campsite that was clearly recently used.  
+31. An oversized rusted greatsword embedded in a stone.  
+32. Ornate spires made of magically-hardened ice rise from the ground.  
+33. A great face carved into the side of a cliff.  
+34. A wooden stick clearly marks the site of a buried object.  
+35. A large statue of a well-known god or hero overlooks the route.  
+36. A hot spring provides an opportunity for a bath.  
+37. A riderless horse, still saddled, walks down the road.  
+38. A swarm of insects, dense enough to be almost opaque, hovers for no apparent reason.  
+39. Distant and strange lights flash and move in the sky.  
+40. An obelisk or stone pillar etched with eldritch runes.  
+41. A rare plant is found, though any herbal concoctions it might be used in are the purview of only expert alchemists.  
+42. The sounds of battle can be heard, but nothing can be seen and there are no recent signs of conflict.  
+43. An unusual quiet falls --- all is still, the animals remain silent, and no wind disturbs the air.  
+44. The adventurers discover the corpse of a powerful monster --- a dragon, giant, or similar.  
+45. The air becomes suddenly chill, even in the height of summer.  
+46. A giant eagle swoops down on some small woodland creature and carries it off into the distance.  
+47. The blackened and burned remnants of a roadside inn.  
+48. A massive fallen tree riddled with fungal growths of unusual size.  
+49. A moldering shipwreck paradoxically hangs in the treetops far from any body of water.  
+50. Several low hills that look suspiciously like giant tortoises overgrown with bush and bracken.  
+51. A thunderstorm in the distance that seems strangely unmoving and persists longer than usual.  
+52. A boulder-sized obsidian sphere floats a few yards above low and scattered ruins.  
+53. A massive, 100-foot-tall iron colossus lies almost peacefully against a mountain.  
+54. A hilltop graveyard covered in colorful flowering vines. Cheerful ravens squawk from atop the ancient headstones in the noonday sun.  
+55. The current of a turbulent river creates numerous tiny rainbows in the spray.  
+56. A half-finished cathedral to a forgotten god sits covered in moss.  
+57. An angelic being appears, loudly blesses a holy site, and disappears.  
+58. Ghostly spirits go about ancient daily routines in silence.  
+59. Water is paradoxically drawn up from a lake into a cloud overhead.  
+60. An ancient roadside inn that is immaculately maintained yet oddly empty.  
+61. Two castles on adjacent hilltops stand watch over a river running between them.  
+62. Vividly-colored fish swim in a nearby body of water.  
+63. A child's joyous laughter echoes from the bottom of a well.  
+64. A herd of massive herbivores slowly ambles across an open field, grazing as they go.  
+65. An old windmill sits atop a hill outside a town, its blades slowly turning even when there is no breeze.  
+66. The outline of a door carved into a rock face.  
+67. A stone altar standing alone on a small hill.  
+68. An area of devastation caused by two huge monsters fighting. There is blood aplenty but no bodies.  
+69. A smooth circular crater --- the obvious result of a magical explosion --- with a broken staff at its center.  
+70. An empty wooden chest clearly pulled from the hole in the ground next to it.  
+71. A collection of 17 trees that are perfectly identical in size and shape all the way down to their leaves.  
+72. A 100-foot-long perfectly straight groove in the ground, a few inches wide and several feet deep. It starts and ends abruptly.  
+73. A monument to an ancient battle honoring the dead. The monument is clean though the battleground is long overgrown.  
+74. A set of wards constructed at a crossroads purporting to keep fiends away.  
+75. A carved statue of such exquisite quality that it looks as though it was a living person turned to wood. If removed it becomes brittle and quickly loses its details.  
+76. A stand of trees burning endlessly without being consumed.  
+77. A deep well which appears to be bottomless.  
+78. A pool of water which seems to be impossibly clean and clear.  
+79. Disused ancient roads lie partially overgrown.  
+80. A strange grove where all sound seems to be muted and a sense of peace pervades.  
+81. A tall, narrow stone tower, 100 feet high, seemingly empty and standing alone on the landscape.  
+82. A 30-foot-wide eldritch rune burned into the ground.  
+83. A herd of pegasi flies overhead.  
+84. Ambulatory plant creatures slowly trudge along a well-worn route, following the change of seasons.  
+85. Clouds that bear an uncanny resemblance to monsters float overhead.  
+86. Ancient monument commemorating an armistice that combines the aesthetics of two different peoples.  
+87. An abandoned carriage gutted of everything that might have value.  
+88. A luxurious inn purporting pleasurable company, though no other customers seem to have been enticed inside.  
+89. A talking and interactive figment that flamboyantly points the way to a magical shop.  
+90. A shrubbery.  
+91. A fortified bridge that spans a chasm over a river of lava.  
+92. An empty cart firmly stuck in a pothole. Removing the cart breaks its axle.  
+93. The ground nearby is littered with scores of small holes the size of a person's fist.  
+94. A perfectly square stone as big as a cauldron.  
+95. The shredded remains of a snare that a creature has recently escaped from.  
+96. An ancient signpost by the road naming a couple towns and their distances.  
+97. Further down the road the air seems to waver as if from heat despite lacking the warmth necessary for such an effect.  
+98. A child's top spins on a boulder, sometimes dancing to here or there across the rocky surface --- but if left alone it never stops.  
+99. An almost absurdly long line of ferrets darts across the party's path and quickly scampers out of sight.  
+100. The skies high overhead rumble as if the gods were in violent conflict, but the clouds do not rain or strike with lightning.  
 
-  ------------------------------------- -------------------------------  TABLE: EXAMPLE REGIONS   
-  REGION                        REGION TYPE
-  Blackford                      Tier 1 Urban Township
-  Crawley Hills                  Tier 1 Rolling Grasslands
-  Deepcrest Chasm                Tier 2 Blasted Wastes
-  Deephall Point                 Tier 2 Underland Realm
-  Dellgate Pass                  Tier 2 Lofty Mountains
-  Fogmoor                        Tier 1 Unrelenting Marsh
-  Greendell Forest               Tier 3 Feywood
-  Greyfell Forest                Tier 2 Feywood
-  Halfpoint                      Tier 1 Urban Township
-  Hengistbury                    Tier 0 Urban Township
-  Holdenshire                    Tier 0 Country Shire
-  Lintown                        Tier 2 Urban Township
-  Lanickshire                    Tier 1 Country Shire
-  Last Chance                    Tier 2 Country Shire
-  Northbeach Woods               Tier 2 Feywood
-  Northern Ocean                 Tier 2 Restless Sea
-  Northminster                   Tier 2 Urban Township
-  North Riding                   Tier 1 Rolling Grasslands
-  Oldshade Woods                 Tier 3 Feywood
-  Queenswood                     Tier 1 Feywood
-  Redcliff                       Tier 2 Urban Township
-  Ringwood                       Tier 1 Urban Township
-  Roads                          Tier 0 Open Roads
-  Skull Mountain                 Tier 3 Lofty Mountains
-  Southmoreland                  Tier 2 Rolling Grasslands
-  The Desolation                 Tier 3 Blasted Wastes
-  Thornbury                      Tier 0 Urban Township
-  Weirwood                       Tier 1 Feywood
-  Whitehollow                    Tier 2 Country Shire
-  Wintercliff                    Tier 2 Urban Township
-  ------------------------------------- -------------------------------
+### Example Regions
 
-<div>
-
-A5E System Reference Document
-
-</div>
+- **Blackford**: Tier 1 Urban Township  
+- **Crawley Hills**: Tier 1 Rolling Grasslands  
+- **Deepcrest Chasm**: Tier 2 Blasted Wastes  
+- **Deephall Point**: Tier 2 Underland Realm  
+- **Dellgate Pass**: Tier 2 Lofty Mountains  
+- **Fogmoor**: Tier 1 Unrelenting Marsh  
+- **Greendell Forest**: Tier 3 Feywood  
+- **Greyfell Forest**: Tier 2 Feywood  
+- **Halfpoint**: Tier 1 Urban Township  
+- **Hengistbury**: Tier 0 Urban Township  
+- **Holdenshire**: Tier 0 Country Shire  
+- **Lintown**: Tier 2 Urban Township  
+- **Lanickshire**: Tier 1 Country Shire  
+- **Last Chance**: Tier 2 Country Shire  
+- **Northbeach Woods**: Tier 2 Feywood  
+- **Northern Ocean**: Tier 2 Restless Sea  
+- **Northminster**: Tier 2 Urban Township  
+- **North Riding**: Tier 1 Rolling Grasslands  
+- **Oldshade Woods**: Tier 3 Feywood  
+- **Queenswood**: Tier 1 Feywood  
+- **Redcliff**: Tier 2 Urban Township  
+- **Ringwood**: Tier 1 Urban Township  
+- **Roads**: Tier 0 Open Roads  
+- **Skull Mountain**: Tier 3 Lofty Mountains  
+- **Southmoreland**: Tier 2 Rolling Grasslands  
+- **The Desolation**: Tier 3 Blasted Wastes  
+- **Thornbury**: Tier 0 Urban Township  
+- **Weirwood**: Tier 1 Feywood  
+- **Whitehollow**: Tier 2 Country Shire  
+- **Wintercliff**: Tier 2 Urban Township  
