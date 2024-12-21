@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Dice Roller</title>
+  <style>
+  
+body {
+	font-family: Arial, sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	touch-action: manipulation;
+	margin: 0;
+}
+.input-form {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-bottom: 10px;
+	width: 100%;
+	max-width: 300px;
+}
+.input-form label,.input-form input {
+	flex: 1;
+	margin: 5px;
+	padding: 10px;
+	font-size: 1.2em;
+	width: 100%;
+}
+.input-form input {
+	text-align: center;
+}
+.dice-roller {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.dice {
+	margin: 10px;
+	padding: 20px;
+	font-size: 1.5em;
+	cursor: pointer;
+}
+.history {
+	width: 90%;
+	max-width: 400px;
+	margin: 20px 0;
+	padding: 10px;
+	border: 1px solid #000;
+	background-color: #fff;
+	max-height: 300px;
+	overflow-y: auto;
+	font-size: 1.5em;
+}
+.clear-history {
+	margin-top: 10px;
+	font-size: 1.2em;
+	padding: 10px;
+	font-size: 1.5em;
+	width: 100%;
+	font-weight: normal;
+}
+p {
+	text-align: center;
+	width: 95%;
+	max-width: 400px;
+	font-size: 1.2em;
+}
+.custom-roll {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top: 10px;
+}
+.custom-roll input,.custom-roll button {
+	margin: 5px;
+	padding: 10px;
+	font-size: 1.2em;
+	width: 100%;
+}
+
+  </style>
+  <style type="text/css">
+  div.c1 {display: flex; flex-direction: row; align-items: center;}
+  </style>
+</head>
+<body>
+  <h1>Dice Roller</h1>
+  <form class="input-form">
+    <div class="c1">
+      <label for="dice">Dice</label> <input type="number" id="dice" name="dice" value="1">
+    </div>
+    <div class="c1">
+      <label for="modifier">Mod</label> <input type="number" id="modifier" name="modifier" value="0">
+    </div>
+  </form>
+  <div class="dice-roller">
+    <button class="dice" data-sides="4">D4</button> <button class="dice" data-sides="6">D6</button> <button class="dice" data-sides="8">D8</button> <button class="dice" data-sides="10">D10</button> <button class="dice" data-sides="12">D12</button> <button class="dice" data-sides="20">D20</button> <button class="dice" data-sides="100">D100</button>
+  </div>
+  <div class="custom-roll">
+    <input type="number" id="custom-sides" name="custom-sides" value="3" min="2"> <button type="button" class="roll-custom-dice">Custom</button>
+  </div>
+  <form class="input-form">
+    <button type="submit" class="clear-history">Clear</button>
+  </form>
+  <div class="history" id="history">
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const diceButtons = document.querySelectorAll('.dice');
+      const history = document.getElementById('history');
+      const diceForm = document.querySelector('.input-form');
+      const clearHistoryBtn = document.querySelector('.clear-history');
+      const rollCustomDiceBtn = document.querySelector('.roll-custom-dice');
+      const customSidesInput = document.getElementById('custom-sides');
+      const diceSidesInput = document.querySelector('[name="dice"]');
+
+      diceButtons.forEach(button => {
+        button.addEventListener('click', () => {
+          const sides = parseInt(button.dataset.sides);
+          let rolls = diceForm.elements.dice.value;
+          let modifier = diceForm.elements.modifier.value;
+          rolls = parseInt(rolls) || 1;
+          modifier = parseInt(modifier) || 0;
+          let total = 0;
+          for (let i = 0; i < rolls; i++) {
+            total += Math.floor(Math.random() * sides) + 1;
+          }
+          total += modifier;
+          let rollStr = `${rolls}d${sides}`;
+          if (modifier !== 0) {
+            rollStr += ` + ${modifier}`;
+          }
+          rollStr += ` = ${total}<br>`;
+	      history.innerHTML = rollStr + history.innerHTML;
+    	  history.scrollTop = 0;
+        });
+      });
+
+      clearHistoryBtn.addEventListener('click', () => {
+        history.innerHTML = '';
+      });
+
+      rollCustomDiceBtn.addEventListener('click', () => {
+        let rolls = diceForm.elements.dice.value;
+        let modifier = diceForm.elements.modifier.value;
+        let sides = customSidesInput.value;
+        rolls = parseInt(rolls) || 1;
+        modifier = parseInt(modifier) || 0;
+        sides = parseInt(sides) || 10;
+        let total = 0;
+        for (let i = 0; i < rolls; i++) {
+          total += Math.floor(Math.random() * sides) + 1;
+        }
+        total += modifier;
+        let rollStr = `${rolls}d${sides}`;
+        if (modifier !== 0) {
+          rollStr += ` + ${modifier}`;
+        }
+        rollStr += ` = ${total}<br>`;
+        history.innerHTML += rollStr;
+        history.scrollTop = history.scrollHeight;
+      });
+    });
+  </script>
+  <p>This tool is released under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission. <a href="dice_roller.zip">Download this tool</a>.</p>
+</body>
+</html>
