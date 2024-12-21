@@ -101,7 +101,7 @@ p {
     <button class="dice" data-sides="4">D4</button> <button class="dice" data-sides="6">D6</button> <button class="dice" data-sides="8">D8</button> <button class="dice" data-sides="10">D10</button> <button class="dice" data-sides="12">D12</button> <button class="dice" data-sides="20">D20</button> <button class="dice" data-sides="100">D100</button>
   </div>
   <div class="custom-roll">
-    <input type="number" id="custom-sides" name="custom-sides" value="3" min="2"> <button type="button" class="roll-custom-dice">Custom</button>
+    <input type="number" id="custom-sides" name="custom-sides" value="3" min="2"><button type="button" class="roll-custom-dice">Custom</button>
   </div>
   <form class="input-form">
     <button type="submit" class="clear-history">Clear</button>
@@ -161,8 +161,8 @@ p {
           rollStr += ` + ${modifier}`;
         }
         rollStr += ` = ${total}<br>`;
-        history.innerHTML += rollStr;
-        history.scrollTop = history.scrollHeight;
+        history.innerHTML = rollStr + history.innerHTML;
+        history.scrollTop = 0;
       });
     });
   </script>
