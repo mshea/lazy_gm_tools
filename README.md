@@ -18,4 +18,12 @@ In this repository you'll find:
 
 **Forge of Foes Stats for Espanso (forge_of_foes_for_espanso.yml)**. A set of YAML instructions compatible with [espanso](https://espanso.org/).
 
+**Dice Roller App**. Inspired by the dice roller WOTC used to host on their site but threw away along with everything else on their website; this dice roller is self-hostable, executable in any browser, hostable on any website, and released under a CC0 license so you're free to do whatever you want with it without asking permission.
+
+**wotc_5-1_srd_cc.md**. The original WOTC 5.1 SRD containing all the rules for D&D 5th Edition released in the Creative Commons. This is formatted in Markdown so you can use it directly in Obsidian.
+
+**A5e SRD Markdown**. A Markdown conversion of the [Level Up Advanced 5e System Reference Document](https://a5esrd.com/a5esrd) so you can drop it right into Obsidian.
+
+**black_flag_monsters.md**. All of the Kobold Press Black Flag monsters in a single markdown file so you can drop it right into Obisidian.
+
 All of these fine tools are made possible by the generous support of the [Sly Flourish Patreon](https://www.patreon.com/slyflourish). If you are not a patron, please consider joining!
