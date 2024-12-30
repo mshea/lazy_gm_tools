@@ -129,71 +129,72 @@
   <div class="history" id="history"></div>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-      const diceButtons = document.querySelectorAll('.dice');
-      const history = document.getElementById('history');
-      const diceForm = document.querySelector('.input-form');
-      const clearHistoryBtn = document.querySelector('.clear-history');
-      const rollCustomDiceBtn = document.querySelector('.roll-custom-dice');
-      const customSidesInput = document.getElementById('custom-sides');
-      const diceSidesInput = document.querySelector('[name="dice"]');
+        const diceButtons = document.querySelectorAll('.dice');
+        const history = document.getElementById('history');
+        const diceForm = document.querySelector('.input-form');
+        const clearHistoryBtn = document.querySelector('.clear-history');
+        const rollCustomDiceBtn = document.querySelector('.roll-custom-dice');
+        const customSidesInput = document.getElementById('custom-sides');
+        const diceSidesInput = document.querySelector('[name="dice"]');
 
-      diceButtons.forEach(button => {
-        button.addEventListener('click', () => {
-          const sides = parseInt(button.dataset.sides);
-          let rolls = diceForm.elements.dice.value;
-          let modifier = diceForm.elements.modifier.value;
-          rolls = parseInt(rolls) || 1;
-          modifier = parseInt(modifier) || 0;
-          let rollsArray = [];
-          let total = 0;
-          for (let i = 0; i < rolls; i++) {
-            let roll = Math.floor(Math.random() * sides) + 1;
-            rollsArray.push(roll);
-            total += roll;
-          }
-          total += modifier;
-          let rollStr = `${rolls}d${sides}`;
-          if (rolls > 1) {
-            rollStr += ` (${rollsArray.join(', ')})`;
-          }
-          if (modifier !== 0) {
-            rollStr += ` + ${modifier}`;
-          }
-          rollStr += ` = ${total}`;
-          rollStr += `<br>`;
-          history.innerHTML = rollStr + history.innerHTML;
-          history.scrollTop = 0;
+        diceButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                const sides = parseInt(button.dataset.sides);
+                let rolls = diceForm.elements.dice.value;
+                let modifier = diceForm.elements.modifier.value;
+                rolls = parseInt(rolls) || 1;
+                modifier = parseInt(modifier) || 0;
+                let rollsArray = [];
+                let total = 0;
+                for (let i = 0; i < rolls; i++) {
+                    let roll = Math.floor(Math.random() * sides) + 1;
+                    rollsArray.push(roll);
+                    total += roll;
+                }
+                total += modifier;
+                let rollStr = `${rolls}d${sides}`;
+                if (rolls > 1) {
+                    rollStr += ` (${rollsArray.join(', ')})`;
+                }
+                if (modifier !== 0) {
+                    rollStr += ` + ${modifier}`;
+                }
+                rollStr += ` = ${total}`;
+                rollStr += `<br>`;
+                history.innerHTML = rollStr + history.innerHTML;
+                history.scrollTop = 0;
+            });
         });
-      });
 
-      clearHistoryBtn.addEventListener('click', () => {
-        history.innerHTML = '';
-      });
+        clearHistoryBtn.addEventListener('click', () => {
+            history.innerHTML = '';
+        });
 
-      rollCustomDiceBtn.addEventListener('click', () => {
-        let rolls = diceForm.elements.dice.value;
-        let modifier = diceForm.elements.modifier.value;
-        let sides = customSidesInput.value;
-        rolls = parseInt(rolls) || 1;
-        modifier = parseInt(modifier) || 0;
-        sides = parseInt(sides) || 10;
-        let total = 0;
-        for (let i = 0; i < rolls; i++) {
-          total += Math.floor(Math.random() * sides) + 1;
-        }
-        total += modifier;
-        let rollStr = `${rolls}d${sides}`;
-        if (modifier !== 0) {
-          rollStr += ` + ${modifier}`;
-        }
-        rollStr += ` = ${total}`;
-        if (rolls > 1) {
-          rollStr += ` (${total - modifier})`;
-        }
-        rollStr += `<br>`;
-        history.innerHTML = rollStr + history.innerHTML;
-        history.scrollTop = 0;
-      });
+        rollCustomDiceBtn.addEventListener('click', () => {
+            let rolls = parseInt(diceForm.elements.dice.value) || 1;
+            let modifier = parseInt(diceForm.elements.modifier.value) || 0;
+            let sides = parseInt(customSidesInput.value) || 10;
+            let rollsArray = [];
+            let total = 0;
+            for (let i = 0; i < rolls; i++) {
+                let roll = Math.floor(Math.random() * sides) + 1;
+                rollsArray.push(roll);
+                total += roll;
+            }
+            total += modifier;
+            let rollStr = `${rolls}d${sides}`;
+            rollStr += ` (${rollsArray.join(', ')})`;
+            if (modifier !== 0) {
+                rollStr += ` + ${modifier}`;
+            }
+            rollStr += ` = ${total}`;
+            if (rolls > 1) {
+                rollStr += ` (${total - modifier})`;
+            }
+            rollStr += `<br>`;
+            history.innerHTML = rollStr + history.innerHTML;
+            history.scrollTop = 0;
+        });
     });
   </script>
   <p>This tool is released under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission. <a href="dice_roller.zip">Download this tool</a> or <a href="https://github.com/mshea/lazy_gm_tools/tree/main/dice_roller">fork it on Github</a>.</p>
