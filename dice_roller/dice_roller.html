@@ -183,7 +183,9 @@
             }
             total += modifier;
             let rollStr = `${rolls}d${sides}`;
-            rollStr += ` (${rollsArray.join(', ')})`;
+            if (rolls > 1) {
+                rollStr += ` (${rollsArray.join(', ')})`;
+            }
             if (modifier !== 0) {
                 rollStr += ` + ${modifier}`;
             }
