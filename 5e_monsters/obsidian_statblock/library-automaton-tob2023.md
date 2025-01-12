@@ -13,6 +13,7 @@ aliases: ["libraryautomaton-tob1-2023", "Library Automaton-tob2023"]
 *Source: Tome of Beasts 2023 Page 252*
 
 ```statblock
+"dice": false
 "name": "Library Automaton Tob2023"
 "size": "Small"
 "type": "Construct"

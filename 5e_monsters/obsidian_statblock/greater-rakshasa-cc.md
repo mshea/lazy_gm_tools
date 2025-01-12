@@ -13,6 +13,7 @@ aliases: ["greater-rakshasa", "Greater Rakshasa-cc"]
 *Source: Creature Codex Page 0*
 
 ```statblock
+"dice": false
 "name": "Greater Rakshasa Cc"
 "size": "Medium"
 "type": "Fiend"

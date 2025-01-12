@@ -13,6 +13,7 @@ aliases: ["swarm-of-ravens-a5e", "Swarm of Ravens-a5emm"]
 *Source: A5e Monstrous Menagerie Page 461*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Ravens A5Emm"
 "size": "Medium"
 "type": "Beast"

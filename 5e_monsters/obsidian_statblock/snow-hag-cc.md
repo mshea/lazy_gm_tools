@@ -13,6 +13,7 @@ aliases: ["snow-hag", "Snow Hag-cc"]
 *Source: Creature Codex Page 346*
 
 ```statblock
+"dice": false
 "name": "Snow Hag Cc"
 "size": "Medium"
 "type": "Fey"

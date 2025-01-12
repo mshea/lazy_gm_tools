@@ -13,6 +13,7 @@ aliases: ["grimmlet", "Grimmlet-tob2"]
 *Source: Tome of Beasts 2 Page 186*
 
 ```statblock
+"dice": false
 "name": "Grimmlet Tob2"
 "size": "Tiny"
 "type": "Monstrosity"

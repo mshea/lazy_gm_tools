@@ -13,6 +13,7 @@ aliases: ["far-wanderer", "Far Wanderer-cc"]
 *Source: Creature Codex Page 151*
 
 ```statblock
+"dice": false
 "name": "Far Wanderer Cc"
 "size": "Medium"
 "type": "Aberration"

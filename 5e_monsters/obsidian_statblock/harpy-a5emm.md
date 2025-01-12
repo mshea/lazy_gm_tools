@@ -13,6 +13,7 @@ aliases: ["harpy-a5e", "Harpy-a5emm"]
 *Source: A5e Monstrous Menagerie Page 276*
 
 ```statblock
+"dice": false
 "name": "Harpy A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

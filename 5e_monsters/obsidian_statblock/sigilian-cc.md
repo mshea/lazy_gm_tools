@@ -13,6 +13,7 @@ aliases: ["sigilian", "Sigilian-cc"]
 *Source: Creature Codex Page 335*
 
 ```statblock
+"dice": false
 "name": "Sigilian Cc"
 "size": "Medium"
 "type": "Construct"

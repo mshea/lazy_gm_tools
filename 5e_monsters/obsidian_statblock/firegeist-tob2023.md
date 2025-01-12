@@ -13,6 +13,7 @@ aliases: ["firegeist-tob1-2023", "Firegeist-tob2023"]
 *Source: Tome of Beasts 2023 Page 188*
 
 ```statblock
+"dice": false
 "name": "Firegeist Tob2023"
 "size": "Small"
 "type": "Elemental"

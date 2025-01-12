@@ -13,6 +13,7 @@ aliases: ["alseid-woad-warrior", "Alseid, Woad Warrior-tob3"]
 *Source: Tome of Beasts 3 Page 20*
 
 ```statblock
+"dice": false
 "name": "Alseid, Woad Warrior Tob3"
 "size": "Medium"
 "type": "Monstrosity"

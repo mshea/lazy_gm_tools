@@ -13,6 +13,7 @@ aliases: ["ghostknight-tob1-2023", "Ghost Knight-tob2023"]
 *Source: Tome of Beasts 2023 Page 199*
 
 ```statblock
+"dice": false
 "name": "Ghost Knight Tob2023"
 "size": "Medium"
 "type": "Undead"

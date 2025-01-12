@@ -13,6 +13,7 @@ aliases: ["clockworkhound-tob1-2023", "Clockwork Hound-tob2023"]
 *Source: Tome of Beasts 2023 Page 61*
 
 ```statblock
+"dice": false
 "name": "Clockwork Hound Tob2023"
 "size": "Medium"
 "type": "Construct"

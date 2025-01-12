@@ -13,6 +13,7 @@ aliases: ["young-blue-dragon-zombie", "Young Blue Dragon Zombie-tob2"]
 *Source: Tome of Beasts 2 Page 180*
 
 ```statblock
+"dice": false
 "name": "Young Blue Dragon Zombie Tob2"
 "size": "Large"
 "type": "Undead"

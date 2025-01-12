@@ -13,6 +13,7 @@ aliases: ["midnight-sun", "Midnight Sun-tob3"]
 *Source: Tome of Beasts 3 Page 270*
 
 ```statblock
+"dice": false
 "name": "Midnight Sun Tob3"
 "size": "Large"
 "type": "Aberration"

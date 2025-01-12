@@ -13,6 +13,7 @@ aliases: ["swampadder-tob1-2023", "Swamp Adder-tob2023"]
 *Source: Tome of Beasts 2023 Page 334*
 
 ```statblock
+"dice": false
 "name": "Swamp Adder Tob2023"
 "size": "Small"
 "type": "Beast"

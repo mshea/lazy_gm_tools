@@ -13,6 +13,7 @@ aliases: ["musk-deer", "Musk Deer-tob3"]
 *Source: Tome of Beasts 3 Page 282*
 
 ```statblock
+"dice": false
 "name": "Musk Deer Tob3"
 "size": "Tiny"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["div", "Div-tob3"]
 *Source: Tome of Beasts 3 Page 135*
 
 ```statblock
+"dice": false
 "name": "Div Tob3"
 "size": "Small"
 "type": "Elemental"

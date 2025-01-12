@@ -13,6 +13,7 @@ aliases: ["imperial-dragon-wyrmling", "Imperial Dragon Wyrmling-tob2"]
 *Source: Tome of Beasts 2 Page 117*
 
 ```statblock
+"dice": false
 "name": "Imperial Dragon Wyrmling Tob2"
 "size": "Medium"
 "type": "Dragon"

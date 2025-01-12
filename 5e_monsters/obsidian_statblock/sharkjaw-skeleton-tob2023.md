@@ -13,6 +13,7 @@ aliases: ["sharkjawskeleton-tob1-2023", "Sharkjaw Skeleton-tob2023"]
 *Source: Tome of Beasts 2023 Page 329*
 
 ```statblock
+"dice": false
 "name": "Sharkjaw Skeleton Tob2023"
 "size": "Large"
 "type": "Undead"

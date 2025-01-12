@@ -13,6 +13,7 @@ aliases: ["drownedmaiden-tob1-2023", "Drowned Maiden-tob2023"]
 *Source: Tome of Beasts 2023 Page 149*
 
 ```statblock
+"dice": false
 "name": "Drowned Maiden Tob2023"
 "size": "Medium"
 "type": "Undead"

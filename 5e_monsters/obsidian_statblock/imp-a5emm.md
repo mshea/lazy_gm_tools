@@ -13,6 +13,7 @@ aliases: ["imp-a5e", "Imp-a5emm"]
 *Source: A5e Monstrous Menagerie Page 85*
 
 ```statblock
+"dice": false
 "name": "Imp A5Emm"
 "size": "Tiny"
 "type": "Fiend"

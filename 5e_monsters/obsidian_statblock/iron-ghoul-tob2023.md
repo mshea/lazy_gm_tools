@@ -13,6 +13,7 @@ aliases: ["ironghoul-tob1-2023", "Iron Ghoul-tob2023"]
 *Source: Tome of Beasts 2023 Page 204*
 
 ```statblock
+"dice": false
 "name": "Iron Ghoul Tob2023"
 "size": "Medium"
 "type": "Undead"

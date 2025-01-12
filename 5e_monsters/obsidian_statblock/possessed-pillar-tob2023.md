@@ -13,6 +13,7 @@ aliases: ["possessedpillar-tob1-2023", "Possessed Pillar-tob2023"]
 *Source: Tome of Beasts 2023 Page 295*
 
 ```statblock
+"dice": false
 "name": "Possessed Pillar Tob2023"
 "size": "Large"
 "type": "Construct"

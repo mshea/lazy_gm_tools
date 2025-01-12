@@ -13,6 +13,7 @@ aliases: ["zombie-knight-a5e", "Zombie Knight-a5emm"]
 *Source: A5e Monstrous Menagerie Page 437*
 
 ```statblock
+"dice": false
 "name": "Zombie Knight A5Emm"
 "size": "Medium"
 "type": "Undead"

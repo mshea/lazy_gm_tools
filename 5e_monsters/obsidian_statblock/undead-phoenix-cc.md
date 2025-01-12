@@ -13,6 +13,7 @@ aliases: ["undead-phoenix", "Undead Phoenix-cc"]
 *Source: Creature Codex Page 361*
 
 ```statblock
+"dice": false
 "name": "Undead Phoenix Cc"
 "size": "Huge"
 "type": "Undead"

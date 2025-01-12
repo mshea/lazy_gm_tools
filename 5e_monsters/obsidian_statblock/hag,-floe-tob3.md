@@ -13,6 +13,7 @@ aliases: ["hag-floe", "Hag, Floe-tob3"]
 *Source: Tome of Beasts 3 Page 226*
 
 ```statblock
+"dice": false
 "name": "Hag, Floe Tob3"
 "size": "Medium"
 "type": "Fey"

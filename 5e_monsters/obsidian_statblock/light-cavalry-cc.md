@@ -13,6 +13,7 @@ aliases: ["light-cavalry", "Light Cavalry-cc"]
 *Source: Creature Codex Page 256*
 
 ```statblock
+"dice": false
 "name": "Light Cavalry Cc"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["moonlitking-tob1-2023", "Moonlit King-tob2023"]
 *Source: Tome of Beasts 2023 Page 176*
 
 ```statblock
+"dice": false
 "name": "Moonlit King Tob2023"
 "size": "Medium"
 "type": "Fey"

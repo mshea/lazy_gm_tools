@@ -13,6 +13,7 @@ aliases: ["bookkeeper", "Bookkeeper-cc"]
 *Source: Creature Codex Page 55*
 
 ```statblock
+"dice": false
 "name": "Bookkeeper Cc"
 "size": "Tiny"
 "type": "Construct"

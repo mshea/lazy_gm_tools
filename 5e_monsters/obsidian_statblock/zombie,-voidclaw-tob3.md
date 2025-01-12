@@ -13,6 +13,7 @@ aliases: ["zombie-voidclaw", "Zombie, Voidclaw-tob3"]
 *Source: Tome of Beasts 3 Page 401*
 
 ```statblock
+"dice": false
 "name": "Zombie, Voidclaw Tob3"
 "size": "Small"
 "type": "Undead"

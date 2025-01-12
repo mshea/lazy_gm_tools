@@ -13,6 +13,7 @@ aliases: ["cauldronborn", "Cauldronborn-cc"]
 *Source: Creature Codex Page 59*
 
 ```statblock
+"dice": false
 "name": "Cauldronborn Cc"
 "size": "Small"
 "type": "Construct"

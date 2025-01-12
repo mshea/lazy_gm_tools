@@ -13,6 +13,7 @@ aliases: ["acolyte-a5e", "Acolyte-a5emm"]
 *Source: A5e Monstrous Menagerie Page 486*
 
 ```statblock
+"dice": false
 "name": "Acolyte A5Emm"
 "size": "Medium"
 "type": "Humanoid"

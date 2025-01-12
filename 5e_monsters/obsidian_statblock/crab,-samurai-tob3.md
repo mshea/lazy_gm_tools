@@ -13,6 +13,7 @@ aliases: ["crab-samurai", "Crab, Samurai-tob3"]
 *Source: Tome of Beasts 3 Page 99*
 
 ```statblock
+"dice": false
 "name": "Crab, Samurai Tob3"
 "size": "Medium"
 "type": "Beast"

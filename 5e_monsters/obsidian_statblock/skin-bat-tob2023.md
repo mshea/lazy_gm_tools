@@ -13,6 +13,7 @@ aliases: ["skinbat-tob1-2023", "Skin Bat-tob2023"]
 *Source: Tome of Beasts 2023 Page 331*
 
 ```statblock
+"dice": false
 "name": "Skin Bat Tob2023"
 "size": "Small"
 "type": "Undead"

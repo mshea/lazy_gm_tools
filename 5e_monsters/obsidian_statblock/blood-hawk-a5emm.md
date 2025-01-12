@@ -13,6 +13,7 @@ aliases: ["blood-hawk-a5e", "Blood Hawk-a5emm"]
 *Source: A5e Monstrous Menagerie Page 440*
 
 ```statblock
+"dice": false
 "name": "Blood Hawk A5Emm"
 "size": "Small"
 "type": "Beast"

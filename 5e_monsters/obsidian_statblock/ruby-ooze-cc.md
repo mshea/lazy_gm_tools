@@ -13,6 +13,7 @@ aliases: ["ruby-ooze", "Ruby Ooze-cc"]
 *Source: Creature Codex Page 286*
 
 ```statblock
+"dice": false
 "name": "Ruby Ooze Cc"
 "size": "Medium"
 "type": "Ooze"

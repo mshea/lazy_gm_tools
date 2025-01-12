@@ -13,6 +13,7 @@ aliases: ["erina-tob1-2023", "Erina-tob2023"]
 *Source: Tome of Beasts 2023 Page 166*
 
 ```statblock
+"dice": false
 "name": "Erina Tob2023"
 "size": "Small"
 "type": "Humanoid"

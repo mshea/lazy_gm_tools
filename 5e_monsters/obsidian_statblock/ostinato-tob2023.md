@@ -13,6 +13,7 @@ aliases: ["ostinato-tob1-2023", "Ostinato-tob2023"]
 *Source: Tome of Beasts 2023 Page 292*
 
 ```statblock
+"dice": false
 "name": "Ostinato Tob2023"
 "size": "Medium"
 "type": "Aberration"

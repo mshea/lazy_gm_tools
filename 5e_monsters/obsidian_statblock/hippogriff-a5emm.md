@@ -13,6 +13,7 @@ aliases: ["hippogriff-a5e", "Hippogriff-a5emm"]
 *Source: A5e Monstrous Menagerie Page 279*
 
 ```statblock
+"dice": false
 "name": "Hippogriff A5Emm"
 "size": "Large"
 "type": "Monstrosity"

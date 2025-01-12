@@ -13,6 +13,7 @@ aliases: ["hill-giant-a5e", "Hill Giant-a5emm"]
 *Source: A5e Monstrous Menagerie Page 238*
 
 ```statblock
+"dice": false
 "name": "Hill Giant A5Emm"
 "size": "Huge"
 "type": "Giant"

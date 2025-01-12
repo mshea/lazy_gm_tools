@@ -13,6 +13,7 @@ aliases: ["holy-knight-a5e", "Holy Knight-a5emm"]
 *Source: A5e Monstrous Menagerie Page 476*
 
 ```statblock
+"dice": false
 "name": "Holy Knight A5Emm"
 "size": "Medium"
 "type": "Humanoid"

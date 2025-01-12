@@ -13,6 +13,7 @@ aliases: ["golem-origami", "Golem, Origami-tob3"]
 *Source: Tome of Beasts 3 Page 217*
 
 ```statblock
+"dice": false
 "name": "Golem, Origami Tob3"
 "size": "Large"
 "type": "Construct"

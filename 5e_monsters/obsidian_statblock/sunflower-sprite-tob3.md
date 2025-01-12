@@ -13,6 +13,7 @@ aliases: ["sunflower-sprite", "Sunflower Sprite-tob3"]
 *Source: Tome of Beasts 3 Page 358*
 
 ```statblock
+"dice": false
 "name": "Sunflower Sprite Tob3"
 "size": "Small"
 "type": "Fey"

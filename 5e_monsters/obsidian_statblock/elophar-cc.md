@@ -13,6 +13,7 @@ aliases: ["elophar", "Elophar-cc"]
 *Source: Creature Codex Page 149*
 
 ```statblock
+"dice": false
 "name": "Elophar Cc"
 "size": "Large"
 "type": "Undead"

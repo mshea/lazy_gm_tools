@@ -13,6 +13,7 @@ aliases: ["khamaseen", "Khamaseen-tob3"]
 *Source: Tome of Beasts 3 Page 250*
 
 ```statblock
+"dice": false
 "name": "Khamaseen Tob3"
 "size": "Tiny"
 "type": "Elemental"

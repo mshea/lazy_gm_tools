@@ -13,6 +13,7 @@ aliases: ["derro-guard", "Derro Guard-tob2"]
 *Source: Tome of Beasts 2 Page 97*
 
 ```statblock
+"dice": false
 "name": "Derro Guard Tob2"
 "size": "Small"
 "type": "Humanoid"

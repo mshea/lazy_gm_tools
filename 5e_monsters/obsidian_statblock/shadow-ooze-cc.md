@@ -13,6 +13,7 @@ aliases: ["shadow-ooze", "Shadow Ooze-cc"]
 *Source: Creature Codex Page 287*
 
 ```statblock
+"dice": false
 "name": "Shadow Ooze Cc"
 "size": "Medium"
 "type": "Ooze"

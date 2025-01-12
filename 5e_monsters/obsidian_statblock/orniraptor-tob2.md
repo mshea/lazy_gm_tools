@@ -13,6 +13,7 @@ aliases: ["orniraptor", "Orniraptor-tob2"]
 *Source: Tome of Beasts 2 Page 285*
 
 ```statblock
+"dice": false
 "name": "Orniraptor Tob2"
 "size": "Small"
 "type": "Monstrosity"

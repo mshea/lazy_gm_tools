@@ -13,6 +13,7 @@ aliases: ["adult-blue-dragon-a5e", "Adult Blue Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 107*
 
 ```statblock
+"dice": false
 "name": "Adult Blue Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

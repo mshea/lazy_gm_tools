@@ -13,6 +13,7 @@ aliases: ["polar-bear-a5e", "Polar Bear-a5emm"]
 *Source: A5e Monstrous Menagerie Page 456*
 
 ```statblock
+"dice": false
 "name": "Polar Bear A5Emm"
 "size": "Large"
 "type": "Beast"

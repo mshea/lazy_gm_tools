@@ -13,6 +13,7 @@ aliases: ["magnetic-elemental", "Magnetic Elemental-tob2"]
 *Source: Tome of Beasts 2 Page 133*
 
 ```statblock
+"dice": false
 "name": "Magnetic Elemental Tob2"
 "size": "Large"
 "type": "Elemental"

@@ -13,6 +13,7 @@ aliases: ["nkosipridelord-tob1-2023", "Nkosi Pridelord-tob2023"]
 *Source: Tome of Beasts 2023 Page 286*
 
 ```statblock
+"dice": false
 "name": "Nkosi Pridelord Tob2023"
 "size": "Medium"
 "type": "Humanoid"

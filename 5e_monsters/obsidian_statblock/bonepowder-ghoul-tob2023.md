@@ -13,6 +13,7 @@ aliases: ["bonepowderghoul-tob1-2023", "Bonepowder Ghoul-tob2023"]
 *Source: Tome of Beasts 2023 Page 201*
 
 ```statblock
+"dice": false
 "name": "Bonepowder Ghoul Tob2023"
 "size": "Small"
 "type": "Undead"

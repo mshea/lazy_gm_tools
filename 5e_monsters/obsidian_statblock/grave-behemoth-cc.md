@@ -13,6 +13,7 @@ aliases: ["grave-behemoth", "Grave Behemoth-cc"]
 *Source: Creature Codex Page 208*
 
 ```statblock
+"dice": false
 "name": "Grave Behemoth Cc"
 "size": "Huge"
 "type": "Undead"

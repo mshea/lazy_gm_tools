@@ -13,6 +13,7 @@ aliases: ["chaos-creeper", "Chaos Creeper-tob3"]
 *Source: Tome of Beasts 3 Page 80*
 
 ```statblock
+"dice": false
 "name": "Chaos Creeper Tob3"
 "size": "Medium"
 "type": "Plant"

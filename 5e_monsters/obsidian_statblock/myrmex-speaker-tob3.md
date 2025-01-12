@@ -13,6 +13,7 @@ aliases: ["myrmex-speaker", "Myrmex Speaker-tob3"]
 *Source: Tome of Beasts 3 Page 283*
 
 ```statblock
+"dice": false
 "name": "Myrmex Speaker Tob3"
 "size": "Large"
 "type": "Elemental"

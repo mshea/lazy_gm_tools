@@ -13,6 +13,7 @@ aliases: ["vampiric-vanguard", "Vampiric Vanguard-tob3"]
 *Source: Tome of Beasts 3 Page 383*
 
 ```statblock
+"dice": false
 "name": "Vampiric Vanguard Tob3"
 "size": "Medium"
 "type": "Undead"

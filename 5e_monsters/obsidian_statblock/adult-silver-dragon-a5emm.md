@@ -13,6 +13,7 @@ aliases: ["adult-silver-dragon-a5e", "Adult Silver Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 178*
 
 ```statblock
+"dice": false
 "name": "Adult Silver Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

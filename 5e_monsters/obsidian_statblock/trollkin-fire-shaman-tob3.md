@@ -13,6 +13,7 @@ aliases: ["trollkin-fire-shaman", "Trollkin Fire Shaman-tob3"]
 *Source: Tome of Beasts 3 Page 376*
 
 ```statblock
+"dice": false
 "name": "Trollkin Fire Shaman Tob3"
 "size": "Medium"
 "type": "Humanoid"

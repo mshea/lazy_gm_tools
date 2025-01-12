@@ -13,6 +13,7 @@ aliases: ["chatterlome", "Chatterlome-tob2"]
 *Source: Tome of Beasts 2 Page 60*
 
 ```statblock
+"dice": false
 "name": "Chatterlome Tob2"
 "size": "Medium"
 "type": "Fiend"

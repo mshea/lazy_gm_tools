@@ -13,6 +13,7 @@ aliases: ["faux-garou", "Faux-Garou-tob3"]
 *Source: Tome of Beasts 3 Page 174*
 
 ```statblock
+"dice": false
 "name": "Faux Garou Tob3"
 "size": "Medium"
 "type": "Construct"

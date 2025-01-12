@@ -13,6 +13,7 @@ aliases: ["angel-pelagic-deva", "Angel, Pelagic Deva-tob3"]
 *Source: Tome of Beasts 3 Page 27*
 
 ```statblock
+"dice": false
 "name": "Angel, Pelagic Deva Tob3"
 "size": "Medium"
 "type": "Celestial"

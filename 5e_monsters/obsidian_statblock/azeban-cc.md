@@ -13,6 +13,7 @@ aliases: ["azeban", "Azeban-cc"]
 *Source: Creature Codex Page 44*
 
 ```statblock
+"dice": false
 "name": "Azeban Cc"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["sporous-crab", "Sporous Crab-tob2"]
 *Source: Tome of Beasts 2 Page 398*
 
 ```statblock
+"dice": false
 "name": "Sporous Crab Tob2"
 "size": "Small"
 "type": "Beast"

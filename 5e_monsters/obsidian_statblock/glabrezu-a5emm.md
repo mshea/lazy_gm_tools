@@ -13,6 +13,7 @@ aliases: ["glabrezu-a5e", "Glabrezu-a5emm"]
 *Source: A5e Monstrous Menagerie Page 68*
 
 ```statblock
+"dice": false
 "name": "Glabrezu A5Emm"
 "size": "Large"
 "type": "Fiend"

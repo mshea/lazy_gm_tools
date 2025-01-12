@@ -13,6 +13,7 @@ aliases: ["spawn-of-alquam", "Spawn of Alquam-tob2"]
 *Source: Tome of Beasts 2 Page 95*
 
 ```statblock
+"dice": false
 "name": "Spawn Of Alquam Tob2"
 "size": "Large"
 "type": "Fiend"

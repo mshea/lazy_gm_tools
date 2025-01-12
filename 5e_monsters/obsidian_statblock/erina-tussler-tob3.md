@@ -13,6 +13,7 @@ aliases: ["erina-tussler", "Erina Tussler-tob3"]
 *Source: Tome of Beasts 3 Page 172*
 
 ```statblock
+"dice": false
 "name": "Erina Tussler Tob3"
 "size": "Small"
 "type": "Humanoid"

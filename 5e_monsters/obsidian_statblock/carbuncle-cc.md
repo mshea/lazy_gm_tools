@@ -13,6 +13,7 @@ aliases: ["carbuncle", "Carbuncle-cc"]
 *Source: Creature Codex Page 57*
 
 ```statblock
+"dice": false
 "name": "Carbuncle Cc"
 "size": "Small"
 "type": "Monstrosity"

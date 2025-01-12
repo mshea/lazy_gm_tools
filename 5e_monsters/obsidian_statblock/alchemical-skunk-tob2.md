@@ -13,6 +13,7 @@ aliases: ["alchemical-skunk", "Alchemical Skunk-tob2"]
 *Source: Tome of Beasts 2 Page 13*
 
 ```statblock
+"dice": false
 "name": "Alchemical Skunk Tob2"
 "size": "Small"
 "type": "Monstrosity"

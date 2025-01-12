@@ -13,6 +13,7 @@ aliases: ["faerie-noble-a5e", "Faerie Noble-a5emm"]
 *Source: A5e Monstrous Menagerie Page 200*
 
 ```statblock
+"dice": false
 "name": "Faerie Noble A5Emm"
 "size": "Medium"
 "type": "Fey"

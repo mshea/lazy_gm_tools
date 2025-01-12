@@ -13,6 +13,7 @@ aliases: ["cave-sovereign", "Cave Sovereign-tob3"]
 *Source: Tome of Beasts 3 Page 78*
 
 ```statblock
+"dice": false
 "name": "Cave Sovereign Tob3"
 "size": "Huge"
 "type": "Aberration"

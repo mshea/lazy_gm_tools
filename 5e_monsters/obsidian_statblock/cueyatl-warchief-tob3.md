@@ -13,6 +13,7 @@ aliases: ["cueyatl-warchief", "Cueyatl Warchief-tob3"]
 *Source: Tome of Beasts 3 Page 101*
 
 ```statblock
+"dice": false
 "name": "Cueyatl Warchief Tob3"
 "size": "Small"
 "type": "Humanoid"

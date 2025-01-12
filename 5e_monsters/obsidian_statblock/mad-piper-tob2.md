@@ -13,6 +13,7 @@ aliases: ["mad-piper", "Mad Piper-tob2"]
 *Source: Tome of Beasts 2 Page 250*
 
 ```statblock
+"dice": false
 "name": "Mad Piper Tob2"
 "size": "Large"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["clockwork-soldier", "Clockwork Soldier-cc"]
 *Source: Creature Codex Page 65*
 
 ```statblock
+"dice": false
 "name": "Clockwork Soldier Cc"
 "size": "Medium"
 "type": "Construct"

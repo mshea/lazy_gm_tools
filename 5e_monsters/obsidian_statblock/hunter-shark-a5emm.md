@@ -13,6 +13,7 @@ aliases: ["hunter-shark-a5e", "Hunter Shark-a5emm"]
 *Source: A5e Monstrous Menagerie Page 452*
 
 ```statblock
+"dice": false
 "name": "Hunter Shark A5Emm"
 "size": "Large"
 "type": "Beast"

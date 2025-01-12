@@ -13,6 +13,7 @@ aliases: ["hag-pesta", "Hag, Pesta-tob3"]
 *Source: Tome of Beasts 3 Page 227*
 
 ```statblock
+"dice": false
 "name": "Hag, Pesta Tob3"
 "size": "Medium"
 "type": "Fey"

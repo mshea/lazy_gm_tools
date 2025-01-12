@@ -13,6 +13,7 @@ aliases: ["planewatcher-tob1-2023", "Planewatcher-tob2023"]
 *Source: Tome of Beasts 2023 Page 293*
 
 ```statblock
+"dice": false
 "name": "Planewatcher Tob2023"
 "size": "Medium"
 "type": "Celestial"

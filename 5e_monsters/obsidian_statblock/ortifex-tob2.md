@@ -13,6 +13,7 @@ aliases: ["ortifex", "Ortifex-tob2"]
 *Source: Tome of Beasts 2 Page 287*
 
 ```statblock
+"dice": false
 "name": "Ortifex Tob2"
 "size": "Medium"
 "type": "Undead"

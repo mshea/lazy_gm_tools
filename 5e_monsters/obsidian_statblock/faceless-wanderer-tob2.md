@@ -13,6 +13,7 @@ aliases: ["faceless-wanderer", "Faceless Wanderer-tob2"]
 *Source: Tome of Beasts 2 Page 139*
 
 ```statblock
+"dice": false
 "name": "Faceless Wanderer Tob2"
 "size": "Medium"
 "type": "Aberration"

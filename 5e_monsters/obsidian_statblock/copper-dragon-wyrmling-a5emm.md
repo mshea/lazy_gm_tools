@@ -13,6 +13,7 @@ aliases: ["copper-dragon-wyrmling-a5e", "Copper Dragon Wyrmling-a5emm"]
 *Source: A5e Monstrous Menagerie Page 168*
 
 ```statblock
+"dice": false
 "name": "Copper Dragon Wyrmling A5Emm"
 "size": "Medium"
 "type": "Dragon"

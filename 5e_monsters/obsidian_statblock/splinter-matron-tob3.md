@@ -13,6 +13,7 @@ aliases: ["splinter-matron", "Splinter Matron-tob3"]
 *Source: Tome of Beasts 3 Page 352*
 
 ```statblock
+"dice": false
 "name": "Splinter Matron Tob3"
 "size": "Medium"
 "type": "Fey"

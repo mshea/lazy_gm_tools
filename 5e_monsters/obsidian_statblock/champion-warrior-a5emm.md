@@ -13,6 +13,7 @@ aliases: ["champion-warrior-a5e", "Champion Warrior-a5emm"]
 *Source: A5e Monstrous Menagerie Page 497*
 
 ```statblock
+"dice": false
 "name": "Champion Warrior A5Emm"
 "size": "Medium"
 "type": "Humanoid"

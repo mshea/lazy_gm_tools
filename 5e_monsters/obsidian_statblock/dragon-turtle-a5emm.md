@@ -13,6 +13,7 @@ aliases: ["dragon-turtle-a5e", "Dragon Turtle-a5emm"]
 *Source: A5e Monstrous Menagerie Page 181*
 
 ```statblock
+"dice": false
 "name": "Dragon Turtle A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

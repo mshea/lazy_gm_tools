@@ -13,6 +13,7 @@ aliases: ["clockwork-armadillo", "Clockwork Armadillo-tob3"]
 *Source: Tome of Beasts 3 Page 86*
 
 ```statblock
+"dice": false
 "name": "Clockwork Armadillo Tob3"
 "size": "Small"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["pombero-tob1-2023", "Pombero-tob2023"]
 *Source: Tome of Beasts 2023 Page 294*
 
 ```statblock
+"dice": false
 "name": "Pombero Tob2023"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["gearforgedtemplar-tob1-2023", "Gearforged Templar-tob2023"]
 *Source: Tome of Beasts 2023 Page 195*
 
 ```statblock
+"dice": false
 "name": "Gearforged Templar Tob2023"
 "size": "Medium"
 "type": "Construct"

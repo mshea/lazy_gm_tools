@@ -13,6 +13,7 @@ aliases: ["shadow-blight", "Shadow Blight-cc"]
 *Source: Creature Codex Page 326*
 
 ```statblock
+"dice": false
 "name": "Shadow Blight Cc"
 "size": "Small"
 "type": "Plant"

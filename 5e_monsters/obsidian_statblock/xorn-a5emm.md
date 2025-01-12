@@ -13,6 +13,7 @@ aliases: ["xorn-a5e", "Xorn-a5emm"]
 *Source: A5e Monstrous Menagerie Page 431*
 
 ```statblock
+"dice": false
 "name": "Xorn A5Emm"
 "size": "Medium"
 "type": "Elemental"

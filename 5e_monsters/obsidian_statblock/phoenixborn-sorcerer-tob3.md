@@ -13,6 +13,7 @@ aliases: ["phoenixborn-sorcerer", "Phoenixborn Sorcerer-tob3"]
 *Source: Tome of Beasts 3 Page 316*
 
 ```statblock
+"dice": false
 "name": "Phoenixborn Sorcerer Tob3"
 "size": "Medium"
 "type": "Humanoid"

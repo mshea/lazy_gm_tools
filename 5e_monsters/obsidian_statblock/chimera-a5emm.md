@@ -13,6 +13,7 @@ aliases: ["chimera-a5e", "Chimera-a5emm"]
 *Source: A5e Monstrous Menagerie Page 45*
 
 ```statblock
+"dice": false
 "name": "Chimera A5Emm"
 "size": "Large"
 "type": "Monstrosity"

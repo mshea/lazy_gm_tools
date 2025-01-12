@@ -13,6 +13,7 @@ aliases: ["rust-monster-a5e", "Rust Monster-a5emm"]
 *Source: A5e Monstrous Menagerie Page 375*
 
 ```statblock
+"dice": false
 "name": "Rust Monster A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

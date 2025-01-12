@@ -13,6 +13,7 @@ aliases: ["cueyatl-sea-priest", "Cueyatl Sea Priest-cc"]
 *Source: Creature Codex Page 69*
 
 ```statblock
+"dice": false
 "name": "Cueyatl Sea Priest Cc"
 "size": "Small"
 "type": "Humanoid"

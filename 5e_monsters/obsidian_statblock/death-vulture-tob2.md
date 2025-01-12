@@ -13,6 +13,7 @@ aliases: ["death-vulture", "Death Vulture-tob2"]
 *Source: Tome of Beasts 2 Page 81*
 
 ```statblock
+"dice": false
 "name": "Death Vulture Tob2"
 "size": "Large"
 "type": "Monstrosity"

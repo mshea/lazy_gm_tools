@@ -13,6 +13,7 @@ aliases: ["alazai", "Alazai-tob3"]
 *Source: Tome of Beasts 3 Page 15*
 
 ```statblock
+"dice": false
 "name": "Alazai Tob3"
 "size": "Large"
 "type": "Elemental"

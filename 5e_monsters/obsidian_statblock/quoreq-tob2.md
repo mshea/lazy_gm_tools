@@ -13,6 +13,7 @@ aliases: ["quoreq", "Quoreq-tob2"]
 *Source: Tome of Beasts 2 Page 304*
 
 ```statblock
+"dice": false
 "name": "Quoreq Tob2"
 "size": "Medium"
 "type": "Aberration"

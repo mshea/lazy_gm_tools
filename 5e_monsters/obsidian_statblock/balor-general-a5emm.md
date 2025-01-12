@@ -13,6 +13,7 @@ aliases: ["balor-general-a5e", "Balor General-a5emm"]
 *Source: A5e Monstrous Menagerie Page 66*
 
 ```statblock
+"dice": false
 "name": "Balor General A5Emm"
 "size": "Huge"
 "type": "Fiend"

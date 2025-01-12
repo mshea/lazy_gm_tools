@@ -13,6 +13,7 @@ aliases: ["nariphon", "Nariphon-tob3"]
 *Source: Tome of Beasts 3 Page 285*
 
 ```statblock
+"dice": false
 "name": "Nariphon Tob3"
 "size": "Huge"
 "type": "Plant"

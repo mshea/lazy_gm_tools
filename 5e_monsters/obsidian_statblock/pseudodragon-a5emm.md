@@ -13,6 +13,7 @@ aliases: ["pseudodragon-a5e", "Pseudodragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 363*
 
 ```statblock
+"dice": false
 "name": "Pseudodragon A5Emm"
 "size": "Tiny"
 "type": "Dragon"

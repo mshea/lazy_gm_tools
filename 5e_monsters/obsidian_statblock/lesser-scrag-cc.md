@@ -13,6 +13,7 @@ aliases: ["lesser-scrag", "Lesser Scrag-cc"]
 *Source: Creature Codex Page 200*
 
 ```statblock
+"dice": false
 "name": "Lesser Scrag Cc"
 "size": "Medium"
 "type": "Monstrosity"

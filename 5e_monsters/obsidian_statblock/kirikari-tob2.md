@@ -13,6 +13,7 @@ aliases: ["kirikari", "Kirikari-tob2"]
 *Source: Tome of Beasts 2 Page 230*
 
 ```statblock
+"dice": false
 "name": "Kirikari Tob2"
 "size": "Huge"
 "type": "Monstrosity"

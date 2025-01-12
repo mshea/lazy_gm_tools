@@ -13,6 +13,7 @@ aliases: ["warhordling-orc-eye-a5e", "Warhordling Orc Eye-a5emm"]
 *Source: A5e Monstrous Menagerie Page 488*
 
 ```statblock
+"dice": false
 "name": "Warhordling Orc Eye A5Emm"
 "size": "Medium"
 "type": "Humanoid"

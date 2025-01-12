@@ -13,6 +13,7 @@ aliases: ["idolicdeity-tob1-2023", "Idolic Deity-tob2023"]
 *Source: Tome of Beasts 2023 Page 239*
 
 ```statblock
+"dice": false
 "name": "Idolic Deity Tob2023"
 "size": "Small"
 "type": "Construct"

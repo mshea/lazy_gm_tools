@@ -13,6 +13,7 @@ aliases: ["cave-mimic", "Cave Mimic-tob3"]
 *Source: Tome of Beasts 3 Page 77*
 
 ```statblock
+"dice": false
 "name": "Cave Mimic Tob3"
 "size": "Gargantuan"
 "type": "Monstrosity"

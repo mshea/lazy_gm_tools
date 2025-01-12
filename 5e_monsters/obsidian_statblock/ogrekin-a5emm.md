@@ -13,6 +13,7 @@ aliases: ["ogrekin-a5e", "Ogrekin-a5emm"]
 *Source: A5e Monstrous Menagerie Page 347*
 
 ```statblock
+"dice": false
 "name": "Ogrekin A5Emm"
 "size": "Medium"
 "type": "Humanoid"

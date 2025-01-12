@@ -13,6 +13,7 @@ aliases: ["kachlian", "Kachlian-tob2"]
 *Source: Tome of Beasts 2 Page 219*
 
 ```statblock
+"dice": false
 "name": "Kachlian Tob2"
 "size": "Huge"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["sarsaok", "Sarsaok-tob2"]
 *Source: Tome of Beasts 2 Page 313*
 
 ```statblock
+"dice": false
 "name": "Sarsaok Tob2"
 "size": "Huge"
 "type": "Monstrosity"

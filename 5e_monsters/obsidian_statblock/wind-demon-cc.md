@@ -13,6 +13,7 @@ aliases: ["wind-demon", "Wind Demon-cc"]
 *Source: Creature Codex Page 381*
 
 ```statblock
+"dice": false
 "name": "Wind Demon Cc"
 "size": "Small"
 "type": "Fiend"

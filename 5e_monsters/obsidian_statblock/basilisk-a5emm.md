@@ -13,6 +13,7 @@ aliases: ["basilisk-a5e", "Basilisk-a5emm"]
 *Source: A5e Monstrous Menagerie Page 32*
 
 ```statblock
+"dice": false
 "name": "Basilisk A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

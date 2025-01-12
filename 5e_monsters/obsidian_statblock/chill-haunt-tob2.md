@@ -13,6 +13,7 @@ aliases: ["chill-haunt", "Chill Haunt-tob2"]
 *Source: Tome of Beasts 2 Page 62*
 
 ```statblock
+"dice": false
 "name": "Chill Haunt Tob2"
 "size": "Medium"
 "type": "Undead"

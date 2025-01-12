@@ -13,6 +13,7 @@ aliases: ["kinnara", "Kinnara-cc"]
 *Source: Creature Codex Page 17*
 
 ```statblock
+"dice": false
 "name": "Kinnara Cc"
 "size": "Medium"
 "type": "Celestial"

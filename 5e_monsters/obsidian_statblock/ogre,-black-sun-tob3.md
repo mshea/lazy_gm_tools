@@ -13,6 +13,7 @@ aliases: ["ogre-black-sun", "Ogre, Black Sun-tob3"]
 *Source: Tome of Beasts 3 Page 298*
 
 ```statblock
+"dice": false
 "name": "Ogre, Black Sun Tob3"
 "size": "Large"
 "type": "Giant"

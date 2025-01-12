@@ -13,6 +13,7 @@ aliases: ["fire-giant-a5e", "Fire Giant-a5emm"]
 *Source: A5e Monstrous Menagerie Page 234*
 
 ```statblock
+"dice": false
 "name": "Fire Giant A5Emm"
 "size": "Huge"
 "type": "Giant"

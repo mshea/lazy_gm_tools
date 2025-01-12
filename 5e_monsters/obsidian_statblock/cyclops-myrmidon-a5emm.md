@@ -13,6 +13,7 @@ aliases: ["cyclops-myrmidon-a5e", "Cyclops Myrmidon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 58*
 
 ```statblock
+"dice": false
 "name": "Cyclops Myrmidon A5Emm"
 "size": "Huge"
 "type": "Giant"

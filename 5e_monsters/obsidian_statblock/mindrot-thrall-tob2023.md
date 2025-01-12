@@ -13,6 +13,7 @@ aliases: ["mindrotthrall-tob1-2023", "Mindrot Thrall-tob2023"]
 *Source: Tome of Beasts 2023 Page 270*
 
 ```statblock
+"dice": false
 "name": "Mindrot Thrall Tob2023"
 "size": "Medium"
 "type": "Plant"

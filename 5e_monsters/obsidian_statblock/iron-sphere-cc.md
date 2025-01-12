@@ -13,6 +13,7 @@ aliases: ["iron-sphere", "Iron Sphere-cc"]
 *Source: Creature Codex Page 228*
 
 ```statblock
+"dice": false
 "name": "Iron Sphere Cc"
 "size": "Small"
 "type": "Construct"

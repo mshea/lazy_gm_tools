@@ -13,6 +13,7 @@ aliases: ["dread-walker-excavator", "Dread Walker Excavator-tob2"]
 *Source: Tome of Beasts 2 Page 129*
 
 ```statblock
+"dice": false
 "name": "Dread Walker Excavator Tob2"
 "size": "Large"
 "type": "Construct"

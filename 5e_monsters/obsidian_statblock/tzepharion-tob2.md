@@ -13,6 +13,7 @@ aliases: ["tzepharion", "Tzepharion-tob2"]
 *Source: Tome of Beasts 2 Page 106*
 
 ```statblock
+"dice": false
 "name": "Tzepharion Tob2"
 "size": "Large"
 "type": "Fiend"

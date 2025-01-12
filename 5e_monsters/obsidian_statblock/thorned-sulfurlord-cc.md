@@ -13,6 +13,7 @@ aliases: ["thorned-sulfurlord", "Thorned Sulfurlord-cc"]
 *Source: Creature Codex Page 306*
 
 ```statblock
+"dice": false
 "name": "Thorned Sulfurlord Cc"
 "size": "Huge"
 "type": "Fiend"

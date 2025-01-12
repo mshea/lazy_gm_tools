@@ -13,6 +13,7 @@ aliases: ["banditlord-tob1-2023", "Bandit Lord-tob2023"]
 *Source: Tome of Beasts 2023 Page 406*
 
 ```statblock
+"dice": false
 "name": "Bandit Lord Tob2023"
 "size": "Medium"
 "type": "Humanoid"

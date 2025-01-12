@@ -13,6 +13,7 @@ aliases: ["inkdevil-tob1-2023", "Ink Devil-tob2023"]
 *Source: Tome of Beasts 2023 Page 96*
 
 ```statblock
+"dice": false
 "name": "Ink Devil Tob2023"
 "size": "Small"
 "type": "Fiend"

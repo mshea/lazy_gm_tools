@@ -13,6 +13,7 @@ aliases: ["oth", "Oth-cc"]
 *Source: Creature Codex Page 292*
 
 ```statblock
+"dice": false
 "name": "Oth Cc"
 "size": "Large"
 "type": "Aberration"

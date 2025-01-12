@@ -13,6 +13,7 @@ aliases: ["ratatosk-warlord", "Ratatosk Warlord-cc"]
 *Source: Creature Codex Page 314*
 
 ```statblock
+"dice": false
 "name": "Ratatosk Warlord Cc"
 "size": "Small"
 "type": "Celestial"

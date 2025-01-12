@@ -13,6 +13,7 @@ aliases: ["spirit-naga-a5e", "Spirit Naga-a5emm"]
 *Source: A5e Monstrous Menagerie Page 343*
 
 ```statblock
+"dice": false
 "name": "Spirit Naga A5Emm"
 "size": "Large"
 "type": "Monstrosity"

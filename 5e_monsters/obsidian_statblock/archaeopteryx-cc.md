@@ -13,6 +13,7 @@ aliases: ["archaeopteryx", "Archaeopteryx-cc"]
 *Source: Creature Codex Page 25*
 
 ```statblock
+"dice": false
 "name": "Archaeopteryx Cc"
 "size": "Tiny"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["wood-elf-sharpshooter-a5e", "Wood Elf Sharpshooter-a5emm"]
 *Source: A5e Monstrous Menagerie Page 491*
 
 ```statblock
+"dice": false
 "name": "Wood Elf Sharpshooter A5Emm"
 "size": "Medium"
 "type": "Humanoid"

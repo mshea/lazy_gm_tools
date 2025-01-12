@@ -13,6 +13,7 @@ aliases: ["blemmyes-tob1-2023", "Blemmyes-tob2023"]
 *Source: Tome of Beasts 2023 Page 37*
 
 ```statblock
+"dice": false
 "name": "Blemmyes Tob2023"
 "size": "Large"
 "type": "Monstrosity"

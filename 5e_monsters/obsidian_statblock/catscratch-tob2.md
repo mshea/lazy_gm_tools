@@ -13,6 +13,7 @@ aliases: ["catscratch", "Catscratch-tob2"]
 *Source: Tome of Beasts 2 Page 58*
 
 ```statblock
+"dice": false
 "name": "Catscratch Tob2"
 "size": "Huge"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["master-thief-a5e", "Master Thief-a5emm"]
 *Source: A5e Monstrous Menagerie Page 469*
 
 ```statblock
+"dice": false
 "name": "Master Thief A5Emm"
 "size": "Medium"
 "type": "Humanoid"

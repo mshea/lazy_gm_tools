@@ -13,6 +13,7 @@ aliases: ["cikavak-tob1-2023", "Cikavak-tob2023"]
 *Source: Tome of Beasts 2023 Page 57*
 
 ```statblock
+"dice": false
 "name": "Cikavak Tob2023"
 "size": "Tiny"
 "type": "Fey"

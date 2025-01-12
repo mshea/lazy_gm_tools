@@ -13,6 +13,7 @@ aliases: ["dau-tob1-2023", "Dau-tob2023"]
 *Source: Tome of Beasts 2023 Page 69*
 
 ```statblock
+"dice": false
 "name": "Dau Tob2023"
 "size": "Small"
 "type": "Fey"

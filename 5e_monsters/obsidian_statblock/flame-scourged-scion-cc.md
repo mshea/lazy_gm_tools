@@ -13,6 +13,7 @@ aliases: ["flame-scourged-scion", "Flame-Scourged Scion-cc"]
 *Source: Creature Codex Page 159*
 
 ```statblock
+"dice": false
 "name": "Flame Scourged Scion Cc"
 "size": "Huge"
 "type": "Aberration"

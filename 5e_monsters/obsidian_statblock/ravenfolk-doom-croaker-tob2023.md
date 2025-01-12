@@ -13,6 +13,7 @@ aliases: ["ravenfolkdoomcroaker-tob1-2023", "Ravenfolk Doom Croaker-tob2023"]
 *Source: Tome of Beasts 2023 Page 305*
 
 ```statblock
+"dice": false
 "name": "Ravenfolk Doom Croaker Tob2023"
 "size": "Medium"
 "type": "Humanoid"

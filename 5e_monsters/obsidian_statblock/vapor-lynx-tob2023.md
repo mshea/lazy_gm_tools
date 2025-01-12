@@ -13,6 +13,7 @@ aliases: ["vaporlynx-tob1-2023", "Vapor Lynx-tob2023"]
 *Source: Tome of Beasts 2023 Page 383*
 
 ```statblock
+"dice": false
 "name": "Vapor Lynx Tob2023"
 "size": "Large"
 "type": "Monstrosity"

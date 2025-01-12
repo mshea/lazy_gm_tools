@@ -13,6 +13,7 @@ aliases: ["shadow-goblin", "Shadow Goblin-cc"]
 *Source: Creature Codex Page 326*
 
 ```statblock
+"dice": false
 "name": "Shadow Goblin Cc"
 "size": "Small"
 "type": "Humanoid"

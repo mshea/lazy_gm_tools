@@ -13,6 +13,7 @@ aliases: ["violet-fungus-a5e", "Violet Fungus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 212*
 
 ```statblock
+"dice": false
 "name": "Violet Fungus A5Emm"
 "size": "Medium"
 "type": "Plant"

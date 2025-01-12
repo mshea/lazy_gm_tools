@@ -13,6 +13,7 @@ aliases: ["shadow-elf-spellcaster-drider-a5e", "Shadow Elf Spellcaster Drider-a5
 *Source: A5e Monstrous Menagerie Page 187*
 
 ```statblock
+"dice": false
 "name": "Shadow Elf Spellcaster Drider A5Emm"
 "size": "Large"
 "type": "Monstrosity"

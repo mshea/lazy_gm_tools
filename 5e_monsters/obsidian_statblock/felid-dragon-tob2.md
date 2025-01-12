@@ -13,6 +13,7 @@ aliases: ["felid-dragon", "Felid Dragon-tob2"]
 *Source: Tome of Beasts 2 Page 143*
 
 ```statblock
+"dice": false
 "name": "Felid Dragon Tob2"
 "size": "Huge"
 "type": "Dragon"

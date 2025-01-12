@@ -13,6 +13,7 @@ aliases: ["forest-emperor", "Forest Emperor-tob2"]
 *Source: Tome of Beasts 2 Page 155*
 
 ```statblock
+"dice": false
 "name": "Forest Emperor Tob2"
 "size": "Huge"
 "type": "Aberration"

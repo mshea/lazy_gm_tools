@@ -13,6 +13,7 @@ aliases: ["exploding-toad", "Exploding Toad-cc"]
 *Source: Creature Codex Page 150*
 
 ```statblock
+"dice": false
 "name": "Exploding Toad Cc"
 "size": "Tiny"
 "type": "Monstrosity"

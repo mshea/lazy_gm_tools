@@ -13,6 +13,7 @@ aliases: ["camel-a5e", "Camel-a5emm"]
 *Source: A5e Monstrous Menagerie Page 441*
 
 ```statblock
+"dice": false
 "name": "Camel A5Emm"
 "size": "Medium"
 "type": "Beast"

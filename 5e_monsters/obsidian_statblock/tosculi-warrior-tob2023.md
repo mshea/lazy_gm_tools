@@ -13,6 +13,7 @@ aliases: ["tosculiwarrior-tob1-2023", "Tosculi Warrior-tob2023"]
 *Source: Tome of Beasts 2023 Page 367*
 
 ```statblock
+"dice": false
 "name": "Tosculi Warrior Tob2023"
 "size": "Small"
 "type": "Humanoid"

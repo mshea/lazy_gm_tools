@@ -13,6 +13,7 @@ aliases: ["pelagic-blush-worm", "Pelagic Blush Worm-tob3"]
 *Source: Tome of Beasts 3 Page 313*
 
 ```statblock
+"dice": false
 "name": "Pelagic Blush Worm Tob3"
 "size": "Gargantuan"
 "type": "Monstrosity"

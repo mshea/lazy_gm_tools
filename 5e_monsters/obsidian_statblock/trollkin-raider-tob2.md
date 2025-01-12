@@ -13,6 +13,7 @@ aliases: ["trollkin-raider", "Trollkin Raider-tob2"]
 *Source: Tome of Beasts 2 Page 353*
 
 ```statblock
+"dice": false
 "name": "Trollkin Raider Tob2"
 "size": "Medium"
 "type": "Humanoid"

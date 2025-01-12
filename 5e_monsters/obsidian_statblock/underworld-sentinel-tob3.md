@@ -13,6 +13,7 @@ aliases: ["underworld-sentinel", "Underworld Sentinel-tob3"]
 *Source: Tome of Beasts 3 Page 381*
 
 ```statblock
+"dice": false
 "name": "Underworld Sentinel Tob3"
 "size": "Huge"
 "type": "Undead"

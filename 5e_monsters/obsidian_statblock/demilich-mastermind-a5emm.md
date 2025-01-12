@@ -13,6 +13,7 @@ aliases: ["demilich-mastermind-a5e", "Demilich Mastermind-a5emm"]
 *Source: A5e Monstrous Menagerie Page 63*
 
 ```statblock
+"dice": false
 "name": "Demilich Mastermind A5Emm"
 "size": "Tiny"
 "type": "Undead"

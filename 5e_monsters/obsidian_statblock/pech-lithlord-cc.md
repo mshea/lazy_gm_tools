@@ -13,6 +13,7 @@ aliases: ["pech-lithlord", "Pech Lithlord-cc"]
 *Source: Creature Codex Page 295*
 
 ```statblock
+"dice": false
 "name": "Pech Lithlord Cc"
 "size": "Small"
 "type": "Elemental"

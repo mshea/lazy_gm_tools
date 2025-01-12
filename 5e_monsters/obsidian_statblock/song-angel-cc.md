@@ -13,6 +13,7 @@ aliases: ["song-angel", "Song Angel-cc"]
 *Source: Creature Codex Page 320*
 
 ```statblock
+"dice": false
 "name": "Song Angel Cc"
 "size": "Large"
 "type": "Celestial"

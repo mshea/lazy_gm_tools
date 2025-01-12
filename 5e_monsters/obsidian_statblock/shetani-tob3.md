@@ -13,6 +13,7 @@ aliases: ["shetani", "Shetani-tob3"]
 *Source: Tome of Beasts 3 Page 343*
 
 ```statblock
+"dice": false
 "name": "Shetani Tob3"
 "size": "Medium"
 "type": "Fiend"

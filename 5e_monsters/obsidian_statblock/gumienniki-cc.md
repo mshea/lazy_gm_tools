@@ -13,6 +13,7 @@ aliases: ["gumienniki", "Gumienniki-cc"]
 *Source: Creature Codex Page 213*
 
 ```statblock
+"dice": false
 "name": "Gumienniki Cc"
 "size": "Small"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["deer-a5e", "Deer-a5emm"]
 *Source: A5e Monstrous Menagerie Page 442*
 
 ```statblock
+"dice": false
 "name": "Deer A5Emm"
 "size": "Medium"
 "type": "Beast"

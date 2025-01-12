@@ -13,6 +13,7 @@ aliases: ["lycanthrope-werecrocodile", "Lycanthrope, Werecrocodile-tob3"]
 *Source: Tome of Beasts 3 Page 265*
 
 ```statblock
+"dice": false
 "name": "Lycanthrope, Werecrocodile Tob3"
 "size": "Medium"
 "type": "Humanoid"

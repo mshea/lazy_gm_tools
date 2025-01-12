@@ -13,6 +13,7 @@ aliases: ["barong", "Barong-cc"]
 *Source: Creature Codex Page 49*
 
 ```statblock
+"dice": false
 "name": "Barong Cc"
 "size": "Large"
 "type": "Celestial"

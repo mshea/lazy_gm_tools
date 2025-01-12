@@ -13,6 +13,7 @@ aliases: ["cosmic-symphony", "Cosmic Symphony-tob3"]
 *Source: Tome of Beasts 3 Page 96*
 
 ```statblock
+"dice": false
 "name": "Cosmic Symphony Tob3"
 "size": "Large"
 "type": "Celestial"

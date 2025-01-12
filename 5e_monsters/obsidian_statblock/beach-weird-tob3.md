@@ -13,6 +13,7 @@ aliases: ["beach-weird", "Beach Weird-tob3"]
 *Source: Tome of Beasts 3 Page 52*
 
 ```statblock
+"dice": false
 "name": "Beach Weird Tob3"
 "size": "Large"
 "type": "Elemental"

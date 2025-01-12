@@ -13,6 +13,7 @@ aliases: ["quasit-a5e", "Quasit-a5emm"]
 *Source: A5e Monstrous Menagerie Page 73*
 
 ```statblock
+"dice": false
 "name": "Quasit A5Emm"
 "size": "Tiny"
 "type": "Fiend"

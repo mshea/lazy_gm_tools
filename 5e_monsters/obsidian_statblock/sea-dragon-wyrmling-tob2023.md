@@ -13,6 +13,7 @@ aliases: ["seadragonwyrmling-tob1-2023", "Sea Dragon Wyrmling-tob2023"]
 *Source: Tome of Beasts 2023 Page 127*
 
 ```statblock
+"dice": false
 "name": "Sea Dragon Wyrmling Tob2023"
 "size": "Medium"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["cambion-a5e", "Cambion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 42*
 
 ```statblock
+"dice": false
 "name": "Cambion A5Emm"
 "size": "Medium"
 "type": "Fiend"

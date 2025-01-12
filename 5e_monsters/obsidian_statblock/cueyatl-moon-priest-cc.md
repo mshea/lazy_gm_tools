@@ -13,6 +13,7 @@ aliases: ["cueyatl-moon-priest", "Cueyatl Moon Priest-cc"]
 *Source: Creature Codex Page 68*
 
 ```statblock
+"dice": false
 "name": "Cueyatl Moon Priest Cc"
 "size": "Small"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["demilich-a5e", "Demilich-a5emm"]
 *Source: A5e Monstrous Menagerie Page 62*
 
 ```statblock
+"dice": false
 "name": "Demilich A5Emm"
 "size": "Tiny"
 "type": "Undead"

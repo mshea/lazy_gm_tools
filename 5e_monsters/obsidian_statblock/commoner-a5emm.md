@@ -13,6 +13,7 @@ aliases: ["commoner-a5e", "Commoner-a5emm"]
 *Source: A5e Monstrous Menagerie Page 471*
 
 ```statblock
+"dice": false
 "name": "Commoner A5Emm"
 "size": "Medium"
 "type": "Humanoid"

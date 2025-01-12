@@ -13,6 +13,7 @@ aliases: ["roper-a5e", "Roper-a5emm"]
 *Source: A5e Monstrous Menagerie Page 373*
 
 ```statblock
+"dice": false
 "name": "Roper A5Emm"
 "size": "Large"
 "type": "Monstrosity"

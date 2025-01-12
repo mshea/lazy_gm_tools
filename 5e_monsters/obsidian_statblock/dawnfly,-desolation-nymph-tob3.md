@@ -13,6 +13,7 @@ aliases: ["dawnfly-desolation-nymph", "Dawnfly, Desolation Nymph-tob3"]
 *Source: Tome of Beasts 3 Page 104*
 
 ```statblock
+"dice": false
 "name": "Dawnfly, Desolation Nymph Tob3"
 "size": "Large"
 "type": "Beast"

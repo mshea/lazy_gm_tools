@@ -13,6 +13,7 @@ aliases: ["compsognathus", "Compsognathus-tob2"]
 *Source: Tome of Beasts 2 Page 108*
 
 ```statblock
+"dice": false
 "name": "Compsognathus Tob2"
 "size": "Tiny"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["servant-of-the-unsated-god", "Servant of the Unsated God-tob2"]
 *Source: Tome of Beasts 2 Page 321*
 
 ```statblock
+"dice": false
 "name": "Servant Of The Unsated God Tob2"
 "size": "Medium"
 "type": "Undead"

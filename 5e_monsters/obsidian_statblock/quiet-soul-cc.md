@@ -13,6 +13,7 @@ aliases: ["quiet-soul", "Quiet Soul-cc"]
 *Source: Creature Codex Page 309*
 
 ```statblock
+"dice": false
 "name": "Quiet Soul Cc"
 "size": "Medium"
 "type": "Undead"

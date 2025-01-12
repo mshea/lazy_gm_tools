@@ -13,6 +13,7 @@ aliases: ["planetar-a5e", "Planetar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 20*
 
 ```statblock
+"dice": false
 "name": "Planetar A5Emm"
 "size": "Large"
 "type": "Celestial"

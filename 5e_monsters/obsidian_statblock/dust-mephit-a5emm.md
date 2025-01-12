@@ -13,6 +13,7 @@ aliases: ["dust-mephit-a5e", "Dust Mephit-a5emm"]
 *Source: A5e Monstrous Menagerie Page 325*
 
 ```statblock
+"dice": false
 "name": "Dust Mephit A5Emm"
 "size": "Small"
 "type": "Elemental"

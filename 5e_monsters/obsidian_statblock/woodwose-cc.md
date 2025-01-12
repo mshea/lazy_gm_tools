@@ -13,6 +13,7 @@ aliases: ["woodwose", "Woodwose-cc"]
 *Source: Creature Codex Page 383*
 
 ```statblock
+"dice": false
 "name": "Woodwose Cc"
 "size": "Medium"
 "type": "Humanoid"

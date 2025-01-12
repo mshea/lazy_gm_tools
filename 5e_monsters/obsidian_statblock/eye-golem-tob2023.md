@@ -13,6 +13,7 @@ aliases: ["eyegolem-tob1-2023", "Eye Golem-tob2023"]
 *Source: Tome of Beasts 2023 Page 216*
 
 ```statblock
+"dice": false
 "name": "Eye Golem Tob2023"
 "size": "Large"
 "type": "Construct"

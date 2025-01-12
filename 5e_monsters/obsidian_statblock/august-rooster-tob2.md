@@ -13,6 +13,7 @@ aliases: ["august-rooster", "August Rooster-tob2"]
 *Source: Tome of Beasts 2 Page 33*
 
 ```statblock
+"dice": false
 "name": "August Rooster Tob2"
 "size": "Medium"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["hallowed-reed", "Hallowed Reed-cc"]
 *Source: Creature Codex Page 305*
 
 ```statblock
+"dice": false
 "name": "Hallowed Reed Cc"
 "size": "Medium"
 "type": "Celestial"

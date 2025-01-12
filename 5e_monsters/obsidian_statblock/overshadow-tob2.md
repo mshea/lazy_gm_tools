@@ -13,6 +13,7 @@ aliases: ["overshadow", "Overshadow-tob2"]
 *Source: Tome of Beasts 2 Page 289*
 
 ```statblock
+"dice": false
 "name": "Overshadow Tob2"
 "size": "Large"
 "type": "Undead"

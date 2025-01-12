@@ -13,6 +13,7 @@ aliases: ["repository", "Repository-tob2"]
 *Source: Tome of Beasts 2 Page 306*
 
 ```statblock
+"dice": false
 "name": "Repository Tob2"
 "size": "Medium"
 "type": "Construct"

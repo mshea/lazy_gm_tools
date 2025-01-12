@@ -13,6 +13,7 @@ aliases: ["light-eater", "Light Eater-tob3"]
 *Source: Tome of Beasts 3 Page 262*
 
 ```statblock
+"dice": false
 "name": "Light Eater Tob3"
 "size": "Small"
 "type": "Aberration"

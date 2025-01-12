@@ -13,6 +13,7 @@ aliases: ["dire-lionfish", "Dire Lionfish-tob3"]
 *Source: Tome of Beasts 3 Page 131*
 
 ```statblock
+"dice": false
 "name": "Dire Lionfish Tob3"
 "size": "Large"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["necrotech-reaver", "Necrotech Reaver-tob3"]
 *Source: Tome of Beasts 3 Page 287*
 
 ```statblock
+"dice": false
 "name": "Necrotech Reaver Tob3"
 "size": "Huge"
 "type": "Undead"

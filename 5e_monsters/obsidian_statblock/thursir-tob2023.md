@@ -13,6 +13,7 @@ aliases: ["thursir-tob1-2023", "Thursir-tob2023"]
 *Source: Tome of Beasts 2023 Page 210*
 
 ```statblock
+"dice": false
 "name": "Thursir Tob2023"
 "size": "Large"
 "type": "Giant"

@@ -13,6 +13,7 @@ aliases: ["vine-golem", "Vine Golem-tob2"]
 *Source: Tome of Beasts 2 Page 181*
 
 ```statblock
+"dice": false
 "name": "Vine Golem Tob2"
 "size": "Medium"
 "type": "Construct"

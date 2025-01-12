@@ -13,6 +13,7 @@ aliases: ["orcish-wildling-minstrel-a5e", "Orcish Wildling Minstrel-a5emm"]
 *Source: A5e Monstrous Menagerie Page 484*
 
 ```statblock
+"dice": false
 "name": "Orcish Wildling Minstrel A5Emm"
 "size": "Medium"
 "type": "Humanoid"

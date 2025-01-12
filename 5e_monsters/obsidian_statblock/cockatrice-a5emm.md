@@ -13,6 +13,7 @@ aliases: ["cockatrice-a5e", "Cockatrice-a5emm"]
 *Source: A5e Monstrous Menagerie Page 55*
 
 ```statblock
+"dice": false
 "name": "Cockatrice A5Emm"
 "size": "Small"
 "type": "Monstrosity"

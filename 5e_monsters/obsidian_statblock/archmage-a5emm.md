@@ -13,6 +13,7 @@ aliases: ["archmage-a5e", "Archmage-a5emm"]
 *Source: A5e Monstrous Menagerie Page 480*
 
 ```statblock
+"dice": false
 "name": "Archmage A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["tidehunter", "Tidehunter-tob2"]
 *Source: Tome of Beasts 2 Page 348*
 
 ```statblock
+"dice": false
 "name": "Tidehunter Tob2"
 "size": "Huge"
 "type": "Monstrosity"

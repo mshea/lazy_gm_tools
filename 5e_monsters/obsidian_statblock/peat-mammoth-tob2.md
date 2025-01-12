@@ -13,6 +13,7 @@ aliases: ["peat-mammoth", "Peat Mammoth-tob2"]
 *Source: Tome of Beasts 2 Page 293*
 
 ```statblock
+"dice": false
 "name": "Peat Mammoth Tob2"
 "size": "Huge"
 "type": "Plant"

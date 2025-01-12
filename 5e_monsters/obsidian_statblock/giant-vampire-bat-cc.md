@@ -13,6 +13,7 @@ aliases: ["giant-vampire-bat", "Giant Vampire Bat-cc"]
 *Source: Creature Codex Page 50*
 
 ```statblock
+"dice": false
 "name": "Giant Vampire Bat Cc"
 "size": "Large"
 "type": "Beast"

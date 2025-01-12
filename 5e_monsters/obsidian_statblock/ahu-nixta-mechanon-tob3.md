@@ -13,6 +13,7 @@ aliases: ["ahu-nixta-mechanon", "Ahu-Nixta Mechanon-tob3"]
 *Source: Tome of Beasts 3 Page 9*
 
 ```statblock
+"dice": false
 "name": "Ahu Nixta Mechanon Tob3"
 "size": "Medium"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["lazavik", "Lazavik-tob2"]
 *Source: Tome of Beasts 2 Page 236*
 
 ```statblock
+"dice": false
 "name": "Lazavik Tob2"
 "size": "Tiny"
 "type": "Fey"

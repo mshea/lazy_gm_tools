@@ -13,6 +13,7 @@ aliases: ["ghost-dwarf", "Ghost Dwarf-cc"]
 *Source: Creature Codex Page 171*
 
 ```statblock
+"dice": false
 "name": "Ghost Dwarf Cc"
 "size": "Medium"
 "type": "Undead"

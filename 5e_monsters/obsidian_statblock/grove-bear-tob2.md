@@ -13,6 +13,7 @@ aliases: ["grove-bear", "Grove Bear-tob2"]
 *Source: Tome of Beasts 2 Page 178*
 
 ```statblock
+"dice": false
 "name": "Grove Bear Tob2"
 "size": "Medium"
 "type": "Beast"

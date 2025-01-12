@@ -13,6 +13,7 @@ aliases: ["wood-golem", "Wood Golem-cc"]
 *Source: Creature Codex Page 201*
 
 ```statblock
+"dice": false
 "name": "Wood Golem Cc"
 "size": "Medium"
 "type": "Construct"

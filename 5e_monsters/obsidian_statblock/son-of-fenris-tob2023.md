@@ -13,6 +13,7 @@ aliases: ["sonoffenris-tob1-2023", "Son of Fenris-tob2023"]
 *Source: Tome of Beasts 2023 Page 335*
 
 ```statblock
+"dice": false
 "name": "Son Of Fenris Tob2023"
 "size": "Huge"
 "type": "Monstrosity"

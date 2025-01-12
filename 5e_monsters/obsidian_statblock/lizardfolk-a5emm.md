@@ -13,6 +13,7 @@ aliases: ["lizardfolk-a5e", "Lizardfolk-a5emm"]
 *Source: A5e Monstrous Menagerie Page 309*
 
 ```statblock
+"dice": false
 "name": "Lizardfolk A5Emm"
 "size": "Medium"
 "type": "Humanoid"

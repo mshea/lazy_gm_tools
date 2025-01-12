@@ -13,6 +13,7 @@ aliases: ["fungi-void-fungus", "Fungi, Void Fungus-tob3"]
 *Source: Tome of Beasts 3 Page 193*
 
 ```statblock
+"dice": false
 "name": "Fungi, Void Fungus Tob3"
 "size": "Medium"
 "type": "Plant"

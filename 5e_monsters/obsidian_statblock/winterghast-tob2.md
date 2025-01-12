@@ -13,6 +13,7 @@ aliases: ["winterghast", "Winterghast-tob2"]
 *Source: Tome of Beasts 2 Page 371*
 
 ```statblock
+"dice": false
 "name": "Winterghast Tob2"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["porcellina", "Porcellina-tob3"]
 *Source: Tome of Beasts 3 Page 317*
 
 ```statblock
+"dice": false
 "name": "Porcellina Tob3"
 "size": "Tiny"
 "type": "Beast"

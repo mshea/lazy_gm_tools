@@ -13,6 +13,7 @@ aliases: ["serpopard-tob1-2023", "Serpopard-tob2023"]
 *Source: Tome of Beasts 2023 Page 322*
 
 ```statblock
+"dice": false
 "name": "Serpopard Tob2023"
 "size": "Large"
 "type": "Monstrosity"

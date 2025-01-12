@@ -13,6 +13,7 @@ aliases: ["giant-water-elemental-a5e", "Giant Water Elemental-a5emm"]
 *Source: A5e Monstrous Menagerie Page 194*
 
 ```statblock
+"dice": false
 "name": "Giant Water Elemental A5Emm"
 "size": "Huge"
 "type": "Elemental"

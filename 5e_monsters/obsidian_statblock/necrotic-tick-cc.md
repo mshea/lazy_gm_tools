@@ -13,6 +13,7 @@ aliases: ["necrotic-tick", "Necrotic Tick-cc"]
 *Source: Creature Codex Page 275*
 
 ```statblock
+"dice": false
 "name": "Necrotic Tick Cc"
 "size": "Tiny"
 "type": "Beast"

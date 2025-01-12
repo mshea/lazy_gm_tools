@@ -13,6 +13,7 @@ aliases: ["bearking-tob1-2023", "Bear King-tob2023"]
 *Source: Tome of Beasts 2023 Page 172*
 
 ```statblock
+"dice": false
 "name": "Bear King Tob2023"
 "size": "Medium"
 "type": "Fey"

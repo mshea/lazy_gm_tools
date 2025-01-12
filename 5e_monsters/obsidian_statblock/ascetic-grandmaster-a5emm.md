@@ -13,6 +13,7 @@ aliases: ["ascetic-grandmaster-a5e", "Ascetic Grandmaster-a5emm"]
 *Source: A5e Monstrous Menagerie Page 465*
 
 ```statblock
+"dice": false
 "name": "Ascetic Grandmaster A5Emm"
 "size": "Medium"
 "type": "Humanoid"

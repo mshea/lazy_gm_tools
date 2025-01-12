@@ -13,6 +13,7 @@ aliases: ["giant-crab-a5e", "Giant Crab-a5emm"]
 *Source: A5e Monstrous Menagerie Page 446*
 
 ```statblock
+"dice": false
 "name": "Giant Crab A5Emm"
 "size": "Medium"
 "type": "Beast"

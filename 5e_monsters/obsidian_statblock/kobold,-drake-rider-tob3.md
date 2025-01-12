@@ -13,6 +13,7 @@ aliases: ["kobold-drake-rider", "Kobold, Drake Rider-tob3"]
 *Source: Tome of Beasts 3 Page 252*
 
 ```statblock
+"dice": false
 "name": "Kobold, Drake Rider Tob3"
 "size": "Small"
 "type": "Humanoid"

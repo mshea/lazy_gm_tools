@@ -13,6 +13,7 @@ aliases: ["kamaitachi", "Kamaitachi-tob2"]
 *Source: Tome of Beasts 2 Page 220*
 
 ```statblock
+"dice": false
 "name": "Kamaitachi Tob2"
 "size": "Small"
 "type": "Monstrosity"

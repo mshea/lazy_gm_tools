@@ -13,6 +13,7 @@ aliases: ["blackguard-a5e", "Blackguard-a5emm"]
 *Source: A5e Monstrous Menagerie Page 475*
 
 ```statblock
+"dice": false
 "name": "Blackguard A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["ice-willow", "Ice Willow-tob3"]
 *Source: Tome of Beasts 3 Page 240*
 
 ```statblock
+"dice": false
 "name": "Ice Willow Tob3"
 "size": "Large"
 "type": "Plant"

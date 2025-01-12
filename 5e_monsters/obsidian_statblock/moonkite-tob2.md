@@ -13,6 +13,7 @@ aliases: ["moonkite", "Moonkite-tob2"]
 *Source: Tome of Beasts 2 Page 260*
 
 ```statblock
+"dice": false
 "name": "Moonkite Tob2"
 "size": "Large"
 "type": "Celestial"

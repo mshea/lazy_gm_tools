@@ -13,6 +13,7 @@ aliases: ["skeletal-tyrannosaurus-rex-a5e", "Skeletal Tyrannosaurus Rex-a5emm"]
 *Source: A5e Monstrous Menagerie Page 394*
 
 ```statblock
+"dice": false
 "name": "Skeletal Tyrannosaurus Rex A5Emm"
 "size": "Huge"
 "type": "Undead"

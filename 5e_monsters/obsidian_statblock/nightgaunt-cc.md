@@ -13,6 +13,7 @@ aliases: ["nightgaunt", "Nightgaunt-cc"]
 *Source: Creature Codex Page 277*
 
 ```statblock
+"dice": false
 "name": "Nightgaunt Cc"
 "size": "Large"
 "type": "Aberration"

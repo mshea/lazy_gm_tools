@@ -13,6 +13,7 @@ aliases: ["tar-ooze", "Tar Ooze-tob2"]
 *Source: Tome of Beasts 2 Page 280*
 
 ```statblock
+"dice": false
 "name": "Tar Ooze Tob2"
 "size": "Large"
 "type": "Ooze"

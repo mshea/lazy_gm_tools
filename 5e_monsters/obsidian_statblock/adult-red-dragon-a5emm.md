@@ -13,6 +13,7 @@ aliases: ["adult-red-dragon-a5e", "Adult Red Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 118*
 
 ```statblock
+"dice": false
 "name": "Adult Red Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

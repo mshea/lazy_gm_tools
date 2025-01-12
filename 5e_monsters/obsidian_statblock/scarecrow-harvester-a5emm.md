@@ -13,6 +13,7 @@ aliases: ["scarecrow-harvester-a5e", "Scarecrow Harvester-a5emm"]
 *Source: A5e Monstrous Menagerie Page 383*
 
 ```statblock
+"dice": false
 "name": "Scarecrow Harvester A5Emm"
 "size": "Medium"
 "type": "Construct"

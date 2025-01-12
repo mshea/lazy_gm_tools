@@ -13,6 +13,7 @@ aliases: ["camazotz-tob1-2023", "Camazotz-tob2023"]
 *Source: Tome of Beasts 2023 Page 76*
 
 ```statblock
+"dice": false
 "name": "Camazotz Tob2023"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["diving-gel", "Diving Gel-tob3"]
 *Source: Tome of Beasts 3 Page 136*
 
 ```statblock
+"dice": false
 "name": "Diving Gel Tob3"
 "size": "Tiny"
 "type": "Ooze"

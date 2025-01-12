@@ -13,6 +13,7 @@ aliases: ["alchemist-tob1-2023", "Alchemist-tob2023"]
 *Source: Tome of Beasts 2023 Page 244*
 
 ```statblock
+"dice": false
 "name": "Alchemist Tob2023"
 "size": "Small"
 "type": "Humanoid"

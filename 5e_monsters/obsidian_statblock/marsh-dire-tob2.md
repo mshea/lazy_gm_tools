@@ -13,6 +13,7 @@ aliases: ["marsh-dire", "Marsh Dire-tob2"]
 *Source: Tome of Beasts 2 Page 258*
 
 ```statblock
+"dice": false
 "name": "Marsh Dire Tob2"
 "size": "Medium"
 "type": "Undead"

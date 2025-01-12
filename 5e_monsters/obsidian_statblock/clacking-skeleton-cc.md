@@ -13,6 +13,7 @@ aliases: ["clacking-skeleton", "Clacking Skeleton-cc"]
 *Source: Creature Codex Page 319*
 
 ```statblock
+"dice": false
 "name": "Clacking Skeleton Cc"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["cave-goat", "Cave Goat-tob2"]
 *Source: Tome of Beasts 2 Page 389*
 
 ```statblock
+"dice": false
 "name": "Cave Goat Tob2"
 "size": "Small"
 "type": "Beast"

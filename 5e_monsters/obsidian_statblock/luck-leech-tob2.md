@@ -13,6 +13,7 @@ aliases: ["luck-leech", "Luck Leech-tob2"]
 *Source: Tome of Beasts 2 Page 241*
 
 ```statblock
+"dice": false
 "name": "Luck Leech Tob2"
 "size": "Medium"
 "type": "Fey"

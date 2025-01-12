@@ -13,6 +13,7 @@ aliases: ["foresthunter-tob1-2023", "Forest Hunter-tob2023"]
 *Source: Tome of Beasts 2023 Page 161*
 
 ```statblock
+"dice": false
 "name": "Forest Hunter Tob2023"
 "size": "Medium"
 "type": "Humanoid"

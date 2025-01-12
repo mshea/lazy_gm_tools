@@ -13,6 +13,7 @@ aliases: ["giant-shire", "Giant, Shire-tob3"]
 *Source: Tome of Beasts 3 Page 205*
 
 ```statblock
+"dice": false
 "name": "Giant, Shire Tob3"
 "size": "Huge"
 "type": "Giant"

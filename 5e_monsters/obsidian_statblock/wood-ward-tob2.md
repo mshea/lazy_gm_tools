@@ -13,6 +13,7 @@ aliases: ["wood-ward", "Wood Ward-tob2"]
 *Source: Tome of Beasts 2 Page 374*
 
 ```statblock
+"dice": false
 "name": "Wood Ward Tob2"
 "size": "Medium"
 "type": "Construct"

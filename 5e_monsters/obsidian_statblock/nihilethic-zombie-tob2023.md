@@ -13,6 +13,7 @@ aliases: ["nihilethiczombie-tob1-2023", "Nihilethic Zombie-tob2023"]
 *Source: Tome of Beasts 2023 Page 9*
 
 ```statblock
+"dice": false
 "name": "Nihilethic Zombie Tob2023"
 "size": "Medium"
 "type": "Undead"

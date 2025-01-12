@@ -13,6 +13,7 @@ aliases: ["swarm-of-poisonous-snakes-a5e", "Swarm of Poisonous Snakes-a5emm"]
 *Source: A5e Monstrous Menagerie Page 461*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Poisonous Snakes A5Emm"
 "size": "Medium"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["kelp-drake", "Kelp Drake-tob2"]
 *Source: Tome of Beasts 2 Page 227*
 
 ```statblock
+"dice": false
 "name": "Kelp Drake Tob2"
 "size": "Medium"
 "type": "Dragon"

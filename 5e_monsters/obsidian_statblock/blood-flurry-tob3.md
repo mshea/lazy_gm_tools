@@ -13,6 +13,7 @@ aliases: ["blood-flurry", "Blood Flurry-tob3"]
 *Source: Tome of Beasts 3 Page 63*
 
 ```statblock
+"dice": false
 "name": "Blood Flurry Tob3"
 "size": "Medium"
 "type": "Aberration"

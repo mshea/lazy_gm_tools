@@ -13,6 +13,7 @@ aliases: ["axe-beak-a5e", "Axe Beak-a5emm"]
 *Source: A5e Monstrous Menagerie Page 438*
 
 ```statblock
+"dice": false
 "name": "Axe Beak A5Emm"
 "size": "Large"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["clockwork-leech", "Clockwork Leech-tob2"]
 *Source: Tome of Beasts 2 Page 66*
 
 ```statblock
+"dice": false
 "name": "Clockwork Leech Tob2"
 "size": "Medium"
 "type": "Construct"

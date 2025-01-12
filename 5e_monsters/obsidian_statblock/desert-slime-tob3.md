@@ -13,6 +13,7 @@ aliases: ["desert-slime", "Desert Slime-tob3"]
 *Source: Tome of Beasts 3 Page 115*
 
 ```statblock
+"dice": false
 "name": "Desert Slime Tob3"
 "size": "Large"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["puffinfolk", "Puffinfolk-tob3"]
 *Source: Tome of Beasts 3 Page 322*
 
 ```statblock
+"dice": false
 "name": "Puffinfolk Tob3"
 "size": "Small"
 "type": "Humanoid"

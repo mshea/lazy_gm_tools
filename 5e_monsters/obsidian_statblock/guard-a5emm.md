@@ -13,6 +13,7 @@ aliases: ["guard-a5e", "Guard-a5emm"]
 *Source: A5e Monstrous Menagerie Page 492*
 
 ```statblock
+"dice": false
 "name": "Guard A5Emm"
 "size": "Medium"
 "type": "Humanoid"

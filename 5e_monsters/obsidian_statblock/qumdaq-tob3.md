@@ -13,6 +13,7 @@ aliases: ["qumdaq", "Qumdaq-tob3"]
 *Source: Tome of Beasts 3 Page 326*
 
 ```statblock
+"dice": false
 "name": "Qumdaq Tob3"
 "size": "Small"
 "type": "Elemental"

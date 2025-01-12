@@ -13,6 +13,7 @@ aliases: ["morko", "Morko-cc"]
 *Source: Creature Codex Page 270*
 
 ```statblock
+"dice": false
 "name": "Morko Cc"
 "size": "Small"
 "type": "Fey"

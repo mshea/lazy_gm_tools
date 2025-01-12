@@ -13,6 +13,7 @@ aliases: ["rubezahl-tob1-2023", "Rubezahl-tob2023"]
 *Source: Tome of Beasts 2023 Page 87*
 
 ```statblock
+"dice": false
 "name": "Rubezahl Tob2023"
 "size": "Medium"
 "type": "Fiend"

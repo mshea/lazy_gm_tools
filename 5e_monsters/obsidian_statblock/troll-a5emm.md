@@ -13,6 +13,7 @@ aliases: ["troll-a5e", "Troll-a5emm"]
 *Source: A5e Monstrous Menagerie Page 412*
 
 ```statblock
+"dice": false
 "name": "Troll A5Emm"
 "size": "Large"
 "type": "Giant"

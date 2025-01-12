@@ -13,6 +13,7 @@ aliases: ["blood-barnacle", "Blood Barnacle-tob3"]
 *Source: Tome of Beasts 3 Page 62*
 
 ```statblock
+"dice": false
 "name": "Blood Barnacle Tob3"
 "size": "Tiny"
 "type": "Beast"

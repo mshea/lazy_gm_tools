@@ -13,6 +13,7 @@ aliases: ["ettin-a5e", "Ettin-a5emm"]
 *Source: A5e Monstrous Menagerie Page 197*
 
 ```statblock
+"dice": false
 "name": "Ettin A5Emm"
 "size": "Large"
 "type": "Giant"

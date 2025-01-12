@@ -13,6 +13,7 @@ aliases: ["dhampir-commander", "Dhampir Commander-cc"]
 *Source: Creature Codex Page 107*
 
 ```statblock
+"dice": false
 "name": "Dhampir Commander Cc"
 "size": "Medium"
 "type": "Humanoid"

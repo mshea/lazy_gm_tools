@@ -13,6 +13,7 @@ aliases: ["crinaea", "Crinaea-tob2"]
 *Source: Tome of Beasts 2 Page 74*
 
 ```statblock
+"dice": false
 "name": "Crinaea Tob2"
 "size": "Medium"
 "type": "Fey"

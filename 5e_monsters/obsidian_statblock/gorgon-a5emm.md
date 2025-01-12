@@ -13,6 +13,7 @@ aliases: ["gorgon-a5e", "Gorgon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 253*
 
 ```statblock
+"dice": false
 "name": "Gorgon A5Emm"
 "size": "Large"
 "type": "Monstrosity"

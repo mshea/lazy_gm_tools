@@ -13,6 +13,7 @@ aliases: ["cave-giant-shaman", "Cave Giant Shaman-tob2"]
 *Source: Tome of Beasts 2 Page 171*
 
 ```statblock
+"dice": false
 "name": "Cave Giant Shaman Tob2"
 "size": "Huge"
 "type": "Giant"

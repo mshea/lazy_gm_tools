@@ -13,6 +13,7 @@ aliases: ["vine-drake", "Vine Drake-tob2"]
 *Source: Tome of Beasts 2 Page 181*
 
 ```statblock
+"dice": false
 "name": "Vine Drake Tob2"
 "size": "Medium"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["lamassu", "Lamassu-cc"]
 *Source: Creature Codex Page 247*
 
 ```statblock
+"dice": false
 "name": "Lamassu Cc"
 "size": "Large"
 "type": "Celestial"

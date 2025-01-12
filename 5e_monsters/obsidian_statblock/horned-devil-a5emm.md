@@ -13,6 +13,7 @@ aliases: ["horned-devil-a5e", "Horned Devil-a5emm"]
 *Source: A5e Monstrous Menagerie Page 83*
 
 ```statblock
+"dice": false
 "name": "Horned Devil A5Emm"
 "size": "Large"
 "type": "Fiend"

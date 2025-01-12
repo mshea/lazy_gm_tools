@@ -13,6 +13,7 @@ aliases: ["backup-holler-spider", "Backup Holler Spider-tob2"]
 *Source: Tome of Beasts 2 Page 395*
 
 ```statblock
+"dice": false
 "name": "Backup Holler Spider Tob2"
 "size": "Tiny"
 "type": "Beast"

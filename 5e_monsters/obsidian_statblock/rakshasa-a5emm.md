@@ -13,6 +13,7 @@ aliases: ["rakshasa-a5e", "Rakshasa-a5emm"]
 *Source: A5e Monstrous Menagerie Page 367*
 
 ```statblock
+"dice": false
 "name": "Rakshasa A5Emm"
 "size": "Medium"
 "type": "Fiend"

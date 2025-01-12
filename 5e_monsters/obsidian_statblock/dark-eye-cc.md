@@ -13,6 +13,7 @@ aliases: ["dark-eye", "Dark Eye-cc"]
 *Source: Creature Codex Page 72*
 
 ```statblock
+"dice": false
 "name": "Dark Eye Cc"
 "size": "Medium"
 "type": "Humanoid"

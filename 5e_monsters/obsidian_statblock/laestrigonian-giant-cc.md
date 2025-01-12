@@ -13,6 +13,7 @@ aliases: ["laestrigonian-giant", "Laestrigonian Giant-cc"]
 *Source: Creature Codex Page 184*
 
 ```statblock
+"dice": false
 "name": "Laestrigonian Giant Cc"
 "size": "Large"
 "type": "Giant"

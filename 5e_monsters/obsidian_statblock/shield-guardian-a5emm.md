@@ -13,6 +13,7 @@ aliases: ["shield-guardian-a5e", "Shield Guardian-a5emm"]
 *Source: A5e Monstrous Menagerie Page 264*
 
 ```statblock
+"dice": false
 "name": "Shield Guardian A5Emm"
 "size": "Large"
 "type": "Construct"

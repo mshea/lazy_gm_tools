@@ -13,6 +13,7 @@ aliases: ["soldier-squad-a5e", "Soldier Squad-a5emm"]
 *Source: A5e Monstrous Menagerie Page 494*
 
 ```statblock
+"dice": false
 "name": "Soldier Squad A5Emm"
 "size": "Large"
 "type": "Humanoid"

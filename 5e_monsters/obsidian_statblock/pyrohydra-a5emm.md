@@ -13,6 +13,7 @@ aliases: ["pyrohydra-a5e", "Pyrohydra-a5emm"]
 *Source: A5e Monstrous Menagerie Page 285*
 
 ```statblock
+"dice": false
 "name": "Pyrohydra A5Emm"
 "size": "Huge"
 "type": "Monstrosity"

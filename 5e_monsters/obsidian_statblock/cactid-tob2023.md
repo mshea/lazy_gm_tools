@@ -13,6 +13,7 @@ aliases: ["cactid-tob1-2023", "Cactid-tob2023"]
 *Source: Tome of Beasts 2023 Page 48*
 
 ```statblock
+"dice": false
 "name": "Cactid Tob2023"
 "size": "Large"
 "type": "Plant"

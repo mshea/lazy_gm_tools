@@ -13,6 +13,7 @@ aliases: ["catterball", "Catterball-tob3"]
 *Source: Tome of Beasts 3 Page 76*
 
 ```statblock
+"dice": false
 "name": "Catterball Tob3"
 "size": "Small"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["monkey-king", "Monkey King-cc"]
 *Source: Creature Codex Page 337*
 
 ```statblock
+"dice": false
 "name": "Monkey King Cc"
 "size": "Medium"
 "type": "Celestial"

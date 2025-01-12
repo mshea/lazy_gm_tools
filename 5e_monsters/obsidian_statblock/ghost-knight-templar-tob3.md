@@ -13,6 +13,7 @@ aliases: ["ghost-knight-templar", "Ghost Knight Templar-tob3"]
 *Source: Tome of Beasts 3 Page 196*
 
 ```statblock
+"dice": false
 "name": "Ghost Knight Templar Tob3"
 "size": "Medium"
 "type": "Undead"

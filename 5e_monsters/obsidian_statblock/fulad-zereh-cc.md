@@ -13,6 +13,7 @@ aliases: ["fulad-zereh", "Fulad-Zereh-cc"]
 *Source: Creature Codex Page 85*
 
 ```statblock
+"dice": false
 "name": "Fulad Zereh Cc"
 "size": "Huge"
 "type": "Fiend"

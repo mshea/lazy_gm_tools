@@ -13,6 +13,7 @@ aliases: ["kraken-a5e", "Kraken-a5emm"]
 *Source: A5e Monstrous Menagerie Page 300*
 
 ```statblock
+"dice": false
 "name": "Kraken A5Emm"
 "size": "Gargantuan"
 "type": "Monstrosity"

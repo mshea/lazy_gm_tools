@@ -13,6 +13,7 @@ aliases: ["zalikum", "Zalikum-tob2"]
 *Source: Tome of Beasts 2 Page 382*
 
 ```statblock
+"dice": false
 "name": "Zalikum Tob2"
 "size": "Huge"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["mirager-tob1-2023", "Mirager-tob2023"]
 *Source: Tome of Beasts 2023 Page 271*
 
 ```statblock
+"dice": false
 "name": "Mirager Tob2023"
 "size": "Medium"
 "type": "Fey"

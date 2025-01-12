@@ -13,6 +13,7 @@ aliases: ["abominablebeauty-tob1-2023", "Abominable Beauty-tob2023"]
 *Source: Tome of Beasts 2023 Page 11*
 
 ```statblock
+"dice": false
 "name": "Abominable Beauty Tob2023"
 "size": "Medium"
 "type": "Fey"

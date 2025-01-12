@@ -13,6 +13,7 @@ aliases: ["cueyatl", "Cueyatl-cc"]
 *Source: Creature Codex Page 68*
 
 ```statblock
+"dice": false
 "name": "Cueyatl Cc"
 "size": "Small"
 "type": "Humanoid"

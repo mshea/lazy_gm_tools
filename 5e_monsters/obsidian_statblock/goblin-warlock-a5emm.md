@@ -13,6 +13,7 @@ aliases: ["goblin-warlock-a5e", "Goblin Warlock-a5emm"]
 *Source: A5e Monstrous Menagerie Page 251*
 
 ```statblock
+"dice": false
 "name": "Goblin Warlock A5Emm"
 "size": "Small"
 "type": "Humanoid"

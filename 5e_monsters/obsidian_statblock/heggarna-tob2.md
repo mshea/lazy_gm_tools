@@ -13,6 +13,7 @@ aliases: ["heggarna", "Heggarna-tob2"]
 *Source: Tome of Beasts 2 Page 196*
 
 ```statblock
+"dice": false
 "name": "Heggarna Tob2"
 "size": "Tiny"
 "type": "Aberration"

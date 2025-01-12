@@ -13,6 +13,7 @@ aliases: ["fleshpod-hornet", "Fleshpod Hornet-cc"]
 *Source: Creature Codex Page 161*
 
 ```statblock
+"dice": false
 "name": "Fleshpod Hornet Cc"
 "size": "Large"
 "type": "Beast"

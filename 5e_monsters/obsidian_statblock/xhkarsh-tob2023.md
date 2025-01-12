@@ -13,6 +13,7 @@ aliases: ["xhkarsh-tob1-2023", "Xhkarsh-tob2023"]
 *Source: Tome of Beasts 2023 Page 400*
 
 ```statblock
+"dice": false
 "name": "Xhkarsh Tob2023"
 "size": "Large"
 "type": "Aberration"

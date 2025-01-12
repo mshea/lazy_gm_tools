@@ -13,6 +13,7 @@ aliases: ["kobold-empyrean", "Kobold, Empyrean-tob3"]
 *Source: Tome of Beasts 3 Page 253*
 
 ```statblock
+"dice": false
 "name": "Kobold, Empyrean Tob3"
 "size": "Small"
 "type": "Celestial"

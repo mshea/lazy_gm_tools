@@ -13,6 +13,7 @@ aliases: ["knight-a5e", "Knight-a5emm"]
 *Source: A5e Monstrous Menagerie Page 476*
 
 ```statblock
+"dice": false
 "name": "Knight A5Emm"
 "size": "Medium"
 "type": "Humanoid"

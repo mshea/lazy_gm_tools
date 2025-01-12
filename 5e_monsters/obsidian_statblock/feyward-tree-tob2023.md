@@ -13,6 +13,7 @@ aliases: ["feywardtree-tob1-2023", "Feyward Tree-tob2023"]
 *Source: Tome of Beasts 2023 Page 186*
 
 ```statblock
+"dice": false
 "name": "Feyward Tree Tob2023"
 "size": "Huge"
 "type": "Construct"

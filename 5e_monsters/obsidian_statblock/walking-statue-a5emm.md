@@ -13,6 +13,7 @@ aliases: ["walking-statue-a5e", "Walking Statue-a5emm"]
 *Source: A5e Monstrous Menagerie Page 24*
 
 ```statblock
+"dice": false
 "name": "Walking Statue A5Emm"
 "size": "Large"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["vilebarber-tob1-2023", "Vile Barber-tob2023"]
 *Source: Tome of Beasts 2023 Page 387*
 
 ```statblock
+"dice": false
 "name": "Vile Barber Tob2023"
 "size": "Small"
 "type": "Fey"

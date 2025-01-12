@@ -13,6 +13,7 @@ aliases: ["angel-kalkydra", "Angel, Kalkydra-tob3"]
 *Source: Tome of Beasts 3 Page 26*
 
 ```statblock
+"dice": false
 "name": "Angel, Kalkydra Tob3"
 "size": "Huge"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["unhatched", "Unhatched-cc"]
 *Source: Creature Codex Page 363*
 
 ```statblock
+"dice": false
 "name": "Unhatched Cc"
 "size": "Small"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["greed-swarm", "Greed Swarm-tob2"]
 *Source: Tome of Beasts 2 Page 184*
 
 ```statblock
+"dice": false
 "name": "Greed Swarm Tob2"
 "size": "Medium"
 "type": "Construct"

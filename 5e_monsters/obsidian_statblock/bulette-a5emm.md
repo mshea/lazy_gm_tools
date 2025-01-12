@@ -13,6 +13,7 @@ aliases: ["bulette-a5e", "Bulette-a5emm"]
 *Source: A5e Monstrous Menagerie Page 40*
 
 ```statblock
+"dice": false
 "name": "Bulette A5Emm"
 "size": "Large"
 "type": "Monstrosity"

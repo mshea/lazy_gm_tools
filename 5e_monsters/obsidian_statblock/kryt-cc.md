@@ -13,6 +13,7 @@ aliases: ["kryt", "Kryt-cc"]
 *Source: Creature Codex Page 243*
 
 ```statblock
+"dice": false
 "name": "Kryt Cc"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["primordial-matriarch", "Primordial Matriarch-tob3"]
 *Source: Tome of Beasts 3 Page 318*
 
 ```statblock
+"dice": false
 "name": "Primordial Matriarch Tob3"
 "size": "Gargantuan"
 "type": "Elemental"

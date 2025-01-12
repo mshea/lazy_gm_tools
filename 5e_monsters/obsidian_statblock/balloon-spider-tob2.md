@@ -13,6 +13,7 @@ aliases: ["balloon-spider", "Balloon Spider-tob2"]
 *Source: Tome of Beasts 2 Page 387*
 
 ```statblock
+"dice": false
 "name": "Balloon Spider Tob2"
 "size": "Medium"
 "type": "Beast"

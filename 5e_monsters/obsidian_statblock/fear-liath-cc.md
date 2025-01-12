@@ -13,6 +13,7 @@ aliases: ["fear-liath", "Fear Liath-cc"]
 *Source: Creature Codex Page 152*
 
 ```statblock
+"dice": false
 "name": "Fear Liath Cc"
 "size": "Large"
 "type": "Undead"

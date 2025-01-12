@@ -13,6 +13,7 @@ aliases: ["venom-maw-hydra", "Venom Maw Hydra-cc"]
 *Source: Creature Codex Page 370*
 
 ```statblock
+"dice": false
 "name": "Venom Maw Hydra Cc"
 "size": "Huge"
 "type": "Monstrosity"

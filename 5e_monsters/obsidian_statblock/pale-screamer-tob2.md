@@ -13,6 +13,7 @@ aliases: ["pale-screamer", "Pale Screamer-tob2"]
 *Source: Tome of Beasts 2 Page 290*
 
 ```statblock
+"dice": false
 "name": "Pale Screamer Tob2"
 "size": "Medium"
 "type": "Aberration"

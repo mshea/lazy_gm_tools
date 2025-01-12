@@ -13,6 +13,7 @@ aliases: ["mei-jiao-shou", "Mei Jiao Shou-tob2"]
 *Source: Tome of Beasts 2 Page 259*
 
 ```statblock
+"dice": false
 "name": "Mei Jiao Shou Tob2"
 "size": "Gargantuan"
 "type": "Beast"

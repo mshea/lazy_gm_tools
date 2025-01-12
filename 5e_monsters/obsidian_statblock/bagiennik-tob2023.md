@@ -13,6 +13,7 @@ aliases: ["bagiennik-tob1-2023", "Bagiennik-tob2023"]
 *Source: Tome of Beasts 2023 Page 31*
 
 ```statblock
+"dice": false
 "name": "Bagiennik Tob2023"
 "size": "Medium"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["necrophage-ghast", "Necrophage Ghast-cc"]
 *Source: Creature Codex Page 175*
 
 ```statblock
+"dice": false
 "name": "Necrophage Ghast Cc"
 "size": "Medium"
 "type": "Undead"

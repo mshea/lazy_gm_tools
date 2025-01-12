@@ -13,6 +13,7 @@ aliases: ["dire-pangolin", "Dire Pangolin-tob3"]
 *Source: Tome of Beasts 3 Page 133*
 
 ```statblock
+"dice": false
 "name": "Dire Pangolin Tob3"
 "size": "Large"
 "type": "Beast"

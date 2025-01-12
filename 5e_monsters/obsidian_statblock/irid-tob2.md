@@ -13,6 +13,7 @@ aliases: ["irid", "Irid-tob2"]
 *Source: Tome of Beasts 2 Page 217*
 
 ```statblock
+"dice": false
 "name": "Irid Tob2"
 "size": "Tiny"
 "type": "Celestial"

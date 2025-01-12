@@ -13,6 +13,7 @@ aliases: ["elite-kobold", "Elite Kobold-cc"]
 *Source: Creature Codex Page 239*
 
 ```statblock
+"dice": false
 "name": "Elite Kobold Cc"
 "size": "Small"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["monolithchampion-tob1-2023", "Monolith Champion-tob2023"]
 *Source: Tome of Beasts 2023 Page 274*
 
 ```statblock
+"dice": false
 "name": "Monolith Champion Tob2023"
 "size": "Large"
 "type": "Construct"

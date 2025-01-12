@@ -13,6 +13,7 @@ aliases: ["dipsa-tob1-2023", "Dipsa-tob2023"]
 *Source: Tome of Beasts 2023 Page 105*
 
 ```statblock
+"dice": false
 "name": "Dipsa Tob2023"
 "size": "Tiny"
 "type": "Ooze"

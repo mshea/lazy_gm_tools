@@ -13,6 +13,7 @@ aliases: ["swarm-ice-borers", "Swarm, Ice Borers-tob3"]
 *Source: Tome of Beasts 3 Page 362*
 
 ```statblock
+"dice": false
 "name": "Swarm, Ice Borers Tob3"
 "size": "Medium"
 "type": "Elemental"

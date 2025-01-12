@@ -13,6 +13,7 @@ aliases: ["spurred-water-skate", "Spurred Water Skate-tob2"]
 *Source: Tome of Beasts 2 Page 399*
 
 ```statblock
+"dice": false
 "name": "Spurred Water Skate Tob2"
 "size": "Large"
 "type": "Beast"

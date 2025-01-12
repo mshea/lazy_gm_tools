@@ -13,6 +13,7 @@ aliases: ["shriekbat", "Shriekbat-tob2"]
 *Source: Tome of Beasts 2 Page 325*
 
 ```statblock
+"dice": false
 "name": "Shriekbat Tob2"
 "size": "Huge"
 "type": "Monstrosity"

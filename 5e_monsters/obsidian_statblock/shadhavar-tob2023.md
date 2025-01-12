@@ -13,6 +13,7 @@ aliases: ["shadhavar-tob1-2023", "Shadhavar-tob2023"]
 *Source: Tome of Beasts 2023 Page 323*
 
 ```statblock
+"dice": false
 "name": "Shadhavar Tob2023"
 "size": "Large"
 "type": "Monstrosity"

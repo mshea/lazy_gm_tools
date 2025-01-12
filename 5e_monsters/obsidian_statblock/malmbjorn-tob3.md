@@ -13,6 +13,7 @@ aliases: ["malmbjorn", "Malmbjorn-tob3"]
 *Source: Tome of Beasts 3 Page 267*
 
 ```statblock
+"dice": false
 "name": "Malmbjorn Tob3"
 "size": "Huge"
 "type": "Monstrosity"

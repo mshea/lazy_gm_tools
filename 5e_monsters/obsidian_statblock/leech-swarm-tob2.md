@@ -13,6 +13,7 @@ aliases: ["leech-swarm", "Leech Swarm-tob2"]
 *Source: Tome of Beasts 2 Page 396*
 
 ```statblock
+"dice": false
 "name": "Leech Swarm Tob2"
 "size": "Medium"
 "type": "Beast"

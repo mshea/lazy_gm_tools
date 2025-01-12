@@ -13,6 +13,7 @@ aliases: ["baboon-a5e", "Baboon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 438*
 
 ```statblock
+"dice": false
 "name": "Baboon A5Emm"
 "size": "Small"
 "type": "Beast"

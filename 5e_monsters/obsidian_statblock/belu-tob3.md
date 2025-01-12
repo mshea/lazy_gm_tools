@@ -13,6 +13,7 @@ aliases: ["belu", "Belu-tob3"]
 *Source: Tome of Beasts 3 Page 55*
 
 ```statblock
+"dice": false
 "name": "Belu Tob3"
 "size": "Huge"
 "type": "Giant"

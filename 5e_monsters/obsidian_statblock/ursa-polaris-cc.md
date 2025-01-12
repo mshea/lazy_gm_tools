@@ -13,6 +13,7 @@ aliases: ["ursa-polaris", "Ursa Polaris-cc"]
 *Source: Creature Codex Page 364*
 
 ```statblock
+"dice": false
 "name": "Ursa Polaris Cc"
 "size": "Large"
 "type": "Monstrosity"

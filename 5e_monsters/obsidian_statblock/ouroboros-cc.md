@@ -13,6 +13,7 @@ aliases: ["ouroboros", "Ouroboros-cc"]
 *Source: Creature Codex Page 293*
 
 ```statblock
+"dice": false
 "name": "Ouroboros Cc"
 "size": "Huge"
 "type": "Dragon"

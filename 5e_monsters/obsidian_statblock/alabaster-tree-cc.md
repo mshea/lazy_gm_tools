@@ -13,6 +13,7 @@ aliases: ["alabaster-tree", "Alabaster Tree-cc"]
 *Source: Creature Codex Page 302*
 
 ```statblock
+"dice": false
 "name": "Alabaster Tree Cc"
 "size": "Huge"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["adult-gold-dragon-a5e", "Adult Gold Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 172*
 
 ```statblock
+"dice": false
 "name": "Adult Gold Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

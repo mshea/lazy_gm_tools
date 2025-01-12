@@ -13,6 +13,7 @@ aliases: ["half-red-dragon-veteran-a5e", "Half-Red Dragon Veteran-a5emm"]
 *Source: A5e Monstrous Menagerie Page 274*
 
 ```statblock
+"dice": false
 "name": "Half Red Dragon Veteran A5Emm"
 "size": "Medium"
 "type": "Humanoid"

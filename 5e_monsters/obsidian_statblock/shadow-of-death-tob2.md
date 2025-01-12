@@ -13,6 +13,7 @@ aliases: ["shadow-of-death", "Shadow of Death-tob2"]
 *Source: Tome of Beasts 2 Page 323*
 
 ```statblock
+"dice": false
 "name": "Shadow Of Death Tob2"
 "size": "Large"
 "type": "Celestial"

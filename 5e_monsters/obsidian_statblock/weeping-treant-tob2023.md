@@ -13,6 +13,7 @@ aliases: ["weepingtreant-tob1-2023", "Weeping Treant-tob2023"]
 *Source: Tome of Beasts 2023 Page 369*
 
 ```statblock
+"dice": false
 "name": "Weeping Treant Tob2023"
 "size": "Huge"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["living-star", "Living Star-cc"]
 *Source: Creature Codex Page 256*
 
 ```statblock
+"dice": false
 "name": "Living Star Cc"
 "size": "Huge"
 "type": "Celestial"

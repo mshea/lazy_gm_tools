@@ -13,6 +13,7 @@ aliases: ["painted-phantasm", "Painted Phantasm-tob3"]
 *Source: Tome of Beasts 3 Page 312*
 
 ```statblock
+"dice": false
 "name": "Painted Phantasm Tob3"
 "size": "Medium"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["bearing-golem", "Bearing Golem-tob2"]
 *Source: Tome of Beasts 2 Page 181*
 
 ```statblock
+"dice": false
 "name": "Bearing Golem Tob2"
 "size": "Medium"
 "type": "Construct"

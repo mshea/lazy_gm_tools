@@ -13,6 +13,7 @@ aliases: ["wolf-a5e", "Wolf-a5emm"]
 *Source: A5e Monstrous Menagerie Page 463*
 
 ```statblock
+"dice": false
 "name": "Wolf A5Emm"
 "size": "Medium"
 "type": "Beast"

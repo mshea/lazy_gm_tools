@@ -13,6 +13,7 @@ aliases: ["forest-gnome-illusionist-a5e", "Forest Gnome Illusionist-a5emm"]
 *Source: A5e Monstrous Menagerie Page 482*
 
 ```statblock
+"dice": false
 "name": "Forest Gnome Illusionist A5Emm"
 "size": "Medium"
 "type": "Humanoid"

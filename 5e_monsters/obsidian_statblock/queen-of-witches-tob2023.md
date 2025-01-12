@@ -13,6 +13,7 @@ aliases: ["queenofwitches-tob1-2023", "Queen of Witches-tob2023"]
 *Source: Tome of Beasts 2023 Page 180*
 
 ```statblock
+"dice": false
 "name": "Queen Of Witches Tob2023"
 "size": "Large"
 "type": "Fey"

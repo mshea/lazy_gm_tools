@@ -13,6 +13,7 @@ aliases: ["ancientflamedragon-tob1-2023", "Ancient Flame Dragon-tob2023"]
 *Source: Tome of Beasts 2023 Page 117*
 
 ```statblock
+"dice": false
 "name": "Ancient Flame Dragon Tob2023"
 "size": "Gargantuan"
 "type": "Dragon"

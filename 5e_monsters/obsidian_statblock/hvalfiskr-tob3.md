@@ -13,6 +13,7 @@ aliases: ["hvalfiskr", "Hvalfiskr-tob3"]
 *Source: Tome of Beasts 3 Page 237*
 
 ```statblock
+"dice": false
 "name": "Hvalfiskr Tob3"
 "size": "Huge"
 "type": "Giant"

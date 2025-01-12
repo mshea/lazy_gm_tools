@@ -13,6 +13,7 @@ aliases: ["dretch-a5e", "Dretch-a5emm"]
 *Source: A5e Monstrous Menagerie Page 67*
 
 ```statblock
+"dice": false
 "name": "Dretch A5Emm"
 "size": "Small"
 "type": "Fiend"

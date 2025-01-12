@@ -13,6 +13,7 @@ aliases: ["lava-keeper", "Lava Keeper-tob2"]
 *Source: Tome of Beasts 2 Page 235*
 
 ```statblock
+"dice": false
 "name": "Lava Keeper Tob2"
 "size": "Huge"
 "type": "Elemental"

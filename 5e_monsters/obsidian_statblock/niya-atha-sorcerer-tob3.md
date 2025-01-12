@@ -13,6 +13,7 @@ aliases: ["niya-atha-sorcerer", "Niya-Atha Sorcerer-tob3"]
 *Source: Tome of Beasts 3 Page 290*
 
 ```statblock
+"dice": false
 "name": "Niya Atha Sorcerer Tob3"
 "size": "Medium"
 "type": "Fey"

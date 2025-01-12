@@ -13,6 +13,7 @@ aliases: ["arcamag", "Arcamag-cc"]
 *Source: Creature Codex Page 41*
 
 ```statblock
+"dice": false
 "name": "Arcamag Cc"
 "size": "Tiny"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["wrackwraith", "Wrackwraith-tob3"]
 *Source: Tome of Beasts 3 Page 395*
 
 ```statblock
+"dice": false
 "name": "Wrackwraith Tob3"
 "size": "Medium"
 "type": "Undead"

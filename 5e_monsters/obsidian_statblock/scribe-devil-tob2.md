@@ -13,6 +13,7 @@ aliases: ["scribe-devil", "Scribe Devil-tob2"]
 *Source: Tome of Beasts 2 Page 318*
 
 ```statblock
+"dice": false
 "name": "Scribe Devil Tob2"
 "size": "Medium"
 "type": "Fiend"

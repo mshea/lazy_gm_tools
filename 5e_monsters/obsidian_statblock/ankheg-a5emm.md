@@ -13,6 +13,7 @@ aliases: ["ankheg-a5e", "Ankheg-a5emm"]
 *Source: A5e Monstrous Menagerie Page 26*
 
 ```statblock
+"dice": false
 "name": "Ankheg A5Emm"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["alligator", "Alligator-tob2"]
 *Source: Tome of Beasts 2 Page 387*
 
 ```statblock
+"dice": false
 "name": "Alligator Tob2"
 "size": "Medium"
 "type": "Beast"

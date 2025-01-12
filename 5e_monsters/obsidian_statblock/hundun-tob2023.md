@@ -13,6 +13,7 @@ aliases: ["hundun-tob1-2023", "Hundun-tob2023"]
 *Source: Tome of Beasts 2023 Page 237*
 
 ```statblock
+"dice": false
 "name": "Hundun Tob2023"
 "size": "Large"
 "type": "Celestial"

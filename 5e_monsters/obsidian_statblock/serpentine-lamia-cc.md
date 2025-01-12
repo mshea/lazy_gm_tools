@@ -13,6 +13,7 @@ aliases: ["serpentine-lamia", "Serpentine Lamia-cc"]
 *Source: Creature Codex Page 249*
 
 ```statblock
+"dice": false
 "name": "Serpentine Lamia Cc"
 "size": "Medium"
 "type": "Monstrosity"

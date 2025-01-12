@@ -13,6 +13,7 @@ aliases: ["great-mandrake", "Great Mandrake-cc"]
 *Source: Creature Codex Page 260*
 
 ```statblock
+"dice": false
 "name": "Great Mandrake Cc"
 "size": "Tiny"
 "type": "Plant"

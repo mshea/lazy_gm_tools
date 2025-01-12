@@ -13,6 +13,7 @@ aliases: ["naiad-a5e", "Naiad-a5emm"]
 *Source: A5e Monstrous Menagerie Page 189*
 
 ```statblock
+"dice": false
 "name": "Naiad A5Emm"
 "size": "Medium"
 "type": "Fey"

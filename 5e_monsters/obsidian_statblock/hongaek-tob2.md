@@ -13,6 +13,7 @@ aliases: ["hongaek", "Hongaek-tob2"]
 *Source: Tome of Beasts 2 Page 201*
 
 ```statblock
+"dice": false
 "name": "Hongaek Tob2"
 "size": "Large"
 "type": "Elemental"

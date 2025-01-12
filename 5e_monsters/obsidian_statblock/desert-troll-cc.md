@@ -13,6 +13,7 @@ aliases: ["desert-troll", "Desert Troll-cc"]
 *Source: Creature Codex Page 356*
 
 ```statblock
+"dice": false
 "name": "Desert Troll Cc"
 "size": "Large"
 "type": "Giant"

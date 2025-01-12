@@ -13,6 +13,7 @@ aliases: ["garlicle", "Garlicle-tob2"]
 *Source: Tome of Beasts 2 Page 162*
 
 ```statblock
+"dice": false
 "name": "Garlicle Tob2"
 "size": "Small"
 "type": "Plant"

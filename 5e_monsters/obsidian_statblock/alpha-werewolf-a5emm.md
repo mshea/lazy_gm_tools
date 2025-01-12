@@ -13,6 +13,7 @@ aliases: ["alpha-werewolf-a5e", "Alpha Werewolf-a5emm"]
 *Source: A5e Monstrous Menagerie Page 315*
 
 ```statblock
+"dice": false
 "name": "Alpha Werewolf A5Emm"
 "size": "Medium"
 "type": "Humanoid"

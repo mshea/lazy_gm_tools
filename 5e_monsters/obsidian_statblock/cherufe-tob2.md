@@ -13,6 +13,7 @@ aliases: ["cherufe", "Cherufe-tob2"]
 *Source: Tome of Beasts 2 Page 61*
 
 ```statblock
+"dice": false
 "name": "Cherufe Tob2"
 "size": "Huge"
 "type": "Elemental"

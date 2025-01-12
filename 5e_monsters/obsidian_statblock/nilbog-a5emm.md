@@ -13,6 +13,7 @@ aliases: ["nilbog-a5e", "Nilbog-a5emm"]
 *Source: A5e Monstrous Menagerie Page None*
 
 ```statblock
+"dice": false
 "name": "Nilbog A5Emm"
 "size": "Small"
 "type": "Humanoid"

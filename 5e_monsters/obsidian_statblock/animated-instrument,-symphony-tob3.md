@@ -13,6 +13,7 @@ aliases: ["animated-instrument-symphony", "Animated Instrument, Symphony-tob3"]
 *Source: Tome of Beasts 3 Page 34*
 
 ```statblock
+"dice": false
 "name": "Animated Instrument, Symphony Tob3"
 "size": "Gargantuan"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["ratfolk-warlock", "Ratfolk Warlock-cc"]
 *Source: Creature Codex Page 314*
 
 ```statblock
+"dice": false
 "name": "Ratfolk Warlock Cc"
 "size": "Small"
 "type": "Humanoid"

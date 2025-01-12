@@ -13,6 +13,7 @@ aliases: ["flayed-wraith", "Flayed Wraith-tob2"]
 *Source: Tome of Beasts 2 Page 151*
 
 ```statblock
+"dice": false
 "name": "Flayed Wraith Tob2"
 "size": "Medium"
 "type": "Undead"

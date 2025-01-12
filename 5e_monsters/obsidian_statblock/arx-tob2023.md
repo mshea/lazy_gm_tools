@@ -13,6 +13,7 @@ aliases: ["arx-tob1-2023", "Arx-tob2023"]
 *Source: Tome of Beasts 2023 Page 26*
 
 ```statblock
+"dice": false
 "name": "Arx Tob2023"
 "size": "Large"
 "type": "Fiend"

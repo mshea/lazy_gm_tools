@@ -13,6 +13,7 @@ aliases: ["gearmass", "Gearmass-tob3"]
 *Source: Tome of Beasts 3 Page 195*
 
 ```statblock
+"dice": false
 "name": "Gearmass Tob3"
 "size": "Large"
 "type": "Ooze"

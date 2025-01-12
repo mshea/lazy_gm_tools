@@ -13,6 +13,7 @@ aliases: ["spawn-of-hriggala", "Spawn of Hriggala-tob2"]
 *Source: Tome of Beasts 2 Page 89*
 
 ```statblock
+"dice": false
 "name": "Spawn Of Hriggala Tob2"
 "size": "Huge"
 "type": "Fiend"

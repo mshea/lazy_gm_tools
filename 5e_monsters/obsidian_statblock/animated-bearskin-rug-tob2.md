@@ -13,6 +13,7 @@ aliases: ["animated-bearskin-rug", "Animated Bearskin Rug-tob2"]
 *Source: Tome of Beasts 2 Page 24*
 
 ```statblock
+"dice": false
 "name": "Animated Bearskin Rug Tob2"
 "size": "Large"
 "type": "Construct"

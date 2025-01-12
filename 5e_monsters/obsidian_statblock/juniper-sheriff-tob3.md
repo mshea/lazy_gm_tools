@@ -13,6 +13,7 @@ aliases: ["juniper-sheriff", "Juniper Sheriff-tob3"]
 *Source: Tome of Beasts 3 Page 248*
 
 ```statblock
+"dice": false
 "name": "Juniper Sheriff Tob3"
 "size": "Small"
 "type": "Fey"

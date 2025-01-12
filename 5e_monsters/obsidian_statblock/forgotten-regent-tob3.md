@@ -13,6 +13,7 @@ aliases: ["forgotten-regent", "Forgotten Regent-tob3"]
 *Source: Tome of Beasts 3 Page 187*
 
 ```statblock
+"dice": false
 "name": "Forgotten Regent Tob3"
 "size": "Medium"
 "type": "Undead"

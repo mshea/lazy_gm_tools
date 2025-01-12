@@ -13,6 +13,7 @@ aliases: ["great-gray-owl", "Great Gray Owl-tob2"]
 *Source: Tome of Beasts 2 Page 284*
 
 ```statblock
+"dice": false
 "name": "Great Gray Owl Tob2"
 "size": "Small"
 "type": "Beast"

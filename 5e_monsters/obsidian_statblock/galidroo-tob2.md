@@ -13,6 +13,7 @@ aliases: ["galidroo", "Galidroo-tob2"]
 *Source: Tome of Beasts 2 Page 161*
 
 ```statblock
+"dice": false
 "name": "Galidroo Tob2"
 "size": "Huge"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["hantu-penanggal", "Hantu Penanggal-tob2"]
 *Source: Tome of Beasts 2 Page 192*
 
 ```statblock
+"dice": false
 "name": "Hantu Penanggal Tob2"
 "size": "Medium"
 "type": "Fiend"

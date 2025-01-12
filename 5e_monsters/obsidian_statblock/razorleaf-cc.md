@@ -13,6 +13,7 @@ aliases: ["razorleaf", "Razorleaf-cc"]
 *Source: Creature Codex Page 317*
 
 ```statblock
+"dice": false
 "name": "Razorleaf Cc"
 "size": "Medium"
 "type": "Plant"

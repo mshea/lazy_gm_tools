@@ -13,6 +13,7 @@ aliases: ["akaasit", "Akaasit-tob2"]
 *Source: Tome of Beasts 2 Page 11*
 
 ```statblock
+"dice": false
 "name": "Akaasit Tob2"
 "size": "Medium"
 "type": "Construct"

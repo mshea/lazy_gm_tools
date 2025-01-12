@@ -13,6 +13,7 @@ aliases: ["whiteape-tob1-2023", "White Ape-tob2023"]
 *Source: Tome of Beasts 2023 Page 396*
 
 ```statblock
+"dice": false
 "name": "White Ape Tob2023"
 "size": "Large"
 "type": "Monstrosity"

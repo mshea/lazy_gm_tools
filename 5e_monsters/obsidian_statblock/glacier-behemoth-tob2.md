@@ -13,6 +13,7 @@ aliases: ["glacier-behemoth", "Glacier Behemoth-tob2"]
 *Source: Tome of Beasts 2 Page 177*
 
 ```statblock
+"dice": false
 "name": "Glacier Behemoth Tob2"
 "size": "Huge"
 "type": "Beast"

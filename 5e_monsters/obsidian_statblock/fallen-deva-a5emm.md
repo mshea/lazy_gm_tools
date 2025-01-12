@@ -13,6 +13,7 @@ aliases: ["fallen-deva-a5e", "Fallen Deva-a5emm"]
 *Source: A5e Monstrous Menagerie Page 19*
 
 ```statblock
+"dice": false
 "name": "Fallen Deva A5Emm"
 "size": "Medium"
 "type": "Celestial"

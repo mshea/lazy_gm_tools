@@ -13,6 +13,7 @@ aliases: ["jinmenju", "Jinmenju-cc"]
 *Source: Creature Codex Page 232*
 
 ```statblock
+"dice": false
 "name": "Jinmenju Cc"
 "size": "Huge"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["flabgiant-tob1-2023", "Flab Giant-tob2023"]
 *Source: Tome of Beasts 2023 Page 206*
 
 ```statblock
+"dice": false
 "name": "Flab Giant Tob2023"
 "size": "Large"
 "type": "Giant"

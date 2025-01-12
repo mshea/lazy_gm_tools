@@ -13,6 +13,7 @@ aliases: ["black-bear-a5e", "Black Bear-a5emm"]
 *Source: A5e Monstrous Menagerie Page 439*
 
 ```statblock
+"dice": false
 "name": "Black Bear A5Emm"
 "size": "Medium"
 "type": "Beast"

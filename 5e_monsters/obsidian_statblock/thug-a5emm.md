@@ -13,6 +13,7 @@ aliases: ["thug-a5e", "Thug-a5emm"]
 *Source: A5e Monstrous Menagerie Page 495*
 
 ```statblock
+"dice": false
 "name": "Thug A5Emm"
 "size": "Medium"
 "type": "Humanoid"

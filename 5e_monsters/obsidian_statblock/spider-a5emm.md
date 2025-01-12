@@ -13,6 +13,7 @@ aliases: ["spider-a5e", "Spider-a5emm"]
 *Source: A5e Monstrous Menagerie Page 460*
 
 ```statblock
+"dice": false
 "name": "Spider A5Emm"
 "size": "Tiny"
 "type": "Beast"

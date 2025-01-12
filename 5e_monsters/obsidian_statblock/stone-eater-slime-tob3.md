@@ -13,6 +13,7 @@ aliases: ["stone-eater-slime", "Stone-Eater Slime-tob3"]
 *Source: Tome of Beasts 3 Page 357*
 
 ```statblock
+"dice": false
 "name": "Stone Eater Slime Tob3"
 "size": "Small"
 "type": "Ooze"

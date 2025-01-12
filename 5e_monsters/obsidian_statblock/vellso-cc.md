@@ -13,6 +13,7 @@ aliases: ["vellso", "Vellso-cc"]
 *Source: Creature Codex Page 92*
 
 ```statblock
+"dice": false
 "name": "Vellso Cc"
 "size": "Medium"
 "type": "Fiend"

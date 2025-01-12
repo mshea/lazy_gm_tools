@@ -13,6 +13,7 @@ aliases: ["waterleaper-tob1-2023", "Water Leaper-tob2023"]
 *Source: Tome of Beasts 2023 Page 394*
 
 ```statblock
+"dice": false
 "name": "Water Leaper Tob2023"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["lantern-beetle", "Lantern Beetle-tob2"]
 *Source: Tome of Beasts 2 Page 392*
 
 ```statblock
+"dice": false
 "name": "Lantern Beetle Tob2"
 "size": "Tiny"
 "type": "Beast"

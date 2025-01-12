@@ -13,6 +13,7 @@ aliases: ["shadow-giant", "Shadow Giant-tob2"]
 *Source: Tome of Beasts 2 Page 173*
 
 ```statblock
+"dice": false
 "name": "Shadow Giant Tob2"
 "size": "Huge"
 "type": "Giant"

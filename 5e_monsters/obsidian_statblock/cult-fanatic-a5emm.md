@@ -13,6 +13,7 @@ aliases: ["cult-fanatic-a5e", "Cult Fanatic-a5emm"]
 *Source: A5e Monstrous Menagerie Page 472*
 
 ```statblock
+"dice": false
 "name": "Cult Fanatic A5Emm"
 "size": "Medium"
 "type": "Humanoid"

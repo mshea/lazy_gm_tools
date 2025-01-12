@@ -13,6 +13,7 @@ aliases: ["heavy-cavalry", "Heavy Cavalry-cc"]
 *Source: Creature Codex Page 0*
 
 ```statblock
+"dice": false
 "name": "Heavy Cavalry Cc"
 "size": "Medium"
 "type": "Humanoid"

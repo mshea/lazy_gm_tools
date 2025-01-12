@@ -13,6 +13,7 @@ aliases: ["ancientseadragon-tob1-2023", "Ancient Sea Dragon-tob2023"]
 *Source: Tome of Beasts 2023 Page 125*
 
 ```statblock
+"dice": false
 "name": "Ancient Sea Dragon Tob2023"
 "size": "Gargantuan"
 "type": "Dragon"

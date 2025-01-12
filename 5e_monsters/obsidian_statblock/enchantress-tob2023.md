@@ -13,6 +13,7 @@ aliases: ["enchantress-tob1-2023", "Enchantress-tob2023"]
 *Source: Tome of Beasts 2023 Page 160*
 
 ```statblock
+"dice": false
 "name": "Enchantress Tob2023"
 "size": "Medium"
 "type": "Humanoid"

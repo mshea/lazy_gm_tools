@@ -13,6 +13,7 @@ aliases: ["nyctli-swarm", "Nyctli Swarm-tob2"]
 *Source: Tome of Beasts 2 Page 271*
 
 ```statblock
+"dice": false
 "name": "Nyctli Swarm Tob2"
 "size": "Large"
 "type": "Fey"

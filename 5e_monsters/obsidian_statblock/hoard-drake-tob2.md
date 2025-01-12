@@ -13,6 +13,7 @@ aliases: ["hoard-drake", "Hoard Drake-tob2"]
 *Source: Tome of Beasts 2 Page 258*
 
 ```statblock
+"dice": false
 "name": "Hoard Drake Tob2"
 "size": "Large"
 "type": "Dragon"

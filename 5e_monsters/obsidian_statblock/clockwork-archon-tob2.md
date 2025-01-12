@@ -13,6 +13,7 @@ aliases: ["clockwork-archon", "Clockwork Archon-tob2"]
 *Source: Tome of Beasts 2 Page 65*
 
 ```statblock
+"dice": false
 "name": "Clockwork Archon Tob2"
 "size": "Gargantuan"
 "type": "Construct"

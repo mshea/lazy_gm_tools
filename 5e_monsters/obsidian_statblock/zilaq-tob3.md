@@ -13,6 +13,7 @@ aliases: ["zilaq", "Zilaq-tob3"]
 *Source: Tome of Beasts 3 Page 399*
 
 ```statblock
+"dice": false
 "name": "Zilaq Tob3"
 "size": "Tiny"
 "type": "Dragon"

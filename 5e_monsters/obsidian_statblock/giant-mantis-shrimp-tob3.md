@@ -13,6 +13,7 @@ aliases: ["giant-mantis-shrimp", "Giant Mantis Shrimp-tob3"]
 *Source: Tome of Beasts 3 Page 198*
 
 ```statblock
+"dice": false
 "name": "Giant Mantis Shrimp Tob3"
 "size": "Large"
 "type": "Beast"

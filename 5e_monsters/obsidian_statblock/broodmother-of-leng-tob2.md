@@ -13,6 +13,7 @@ aliases: ["broodmother-of-leng", "Broodmother of Leng-tob2"]
 *Source: Tome of Beasts 2 Page 52*
 
 ```statblock
+"dice": false
 "name": "Broodmother Of Leng Tob2"
 "size": "Huge"
 "type": "Aberration"

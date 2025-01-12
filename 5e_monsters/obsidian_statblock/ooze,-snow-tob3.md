@@ -13,6 +13,7 @@ aliases: ["ooze-snow", "Ooze, Snow-tob3"]
 *Source: Tome of Beasts 3 Page 311*
 
 ```statblock
+"dice": false
 "name": "Ooze, Snow Tob3"
 "size": "Huge"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["amber-ooze", "Amber Ooze-tob2"]
 *Source: Tome of Beasts 2 Page 277*
 
 ```statblock
+"dice": false
 "name": "Amber Ooze Tob2"
 "size": "Large"
 "type": "Ooze"

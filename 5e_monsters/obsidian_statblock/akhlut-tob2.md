@@ -13,6 +13,7 @@ aliases: ["akhlut", "Akhlut-tob2"]
 *Source: Tome of Beasts 2 Page 0*
 
 ```statblock
+"dice": false
 "name": "Akhlut Tob2"
 "size": "Large"
 "type": "Beast"

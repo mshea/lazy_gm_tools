@@ -13,6 +13,7 @@ aliases: ["snow-giant", "Snow Giant-tob2"]
 *Source: Tome of Beasts 2 Page 174*
 
 ```statblock
+"dice": false
 "name": "Snow Giant Tob2"
 "size": "Huge"
 "type": "Giant"

@@ -13,6 +13,7 @@ aliases: ["spiderofleng-tob1-2023", "Spider of Leng-tob2023"]
 *Source: Tome of Beasts 2023 Page 341*
 
 ```statblock
+"dice": false
 "name": "Spider Of Leng Tob2023"
 "size": "Large"
 "type": "Aberration"

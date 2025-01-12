@@ -13,6 +13,7 @@ aliases: ["wampuscat-tob1-2023", "Wampus Cat-tob2023"]
 *Source: Tome of Beasts 2023 Page 392*
 
 ```statblock
+"dice": false
 "name": "Wampus Cat Tob2023"
 "size": "Medium"
 "type": "Monstrosity"

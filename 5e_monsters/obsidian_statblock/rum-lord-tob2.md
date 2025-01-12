@@ -13,6 +13,7 @@ aliases: ["rum-lord", "Rum Lord-tob2"]
 *Source: Tome of Beasts 2 Page 185*
 
 ```statblock
+"dice": false
 "name": "Rum Lord Tob2"
 "size": "Small"
 "type": "Fey"

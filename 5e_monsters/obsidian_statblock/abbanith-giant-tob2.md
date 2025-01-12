@@ -13,6 +13,7 @@ aliases: ["abbanith-giant", "Abbanith Giant-tob2"]
 *Source: Tome of Beasts 2 Page 170*
 
 ```statblock
+"dice": false
 "name": "Abbanith Giant Tob2"
 "size": "Large"
 "type": "Giant"

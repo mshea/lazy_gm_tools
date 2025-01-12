@@ -13,6 +13,7 @@ aliases: ["myling-tob1-2023", "Myling-tob2023"]
 *Source: Tome of Beasts 2023 Page 281*
 
 ```statblock
+"dice": false
 "name": "Myling Tob2023"
 "size": "Small"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["ur-otyugh-a5e", "Ur-Otyugh-a5emm"]
 *Source: A5e Monstrous Menagerie Page 354*
 
 ```statblock
+"dice": false
 "name": "Ur Otyugh A5Emm"
 "size": "Large"
 "type": "Aberration"

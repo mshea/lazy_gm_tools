@@ -13,6 +13,7 @@ aliases: ["eelhound-tob1-2023", "Eel Hound-tob2023"]
 *Source: Tome of Beasts 2023 Page 155*
 
 ```statblock
+"dice": false
 "name": "Eel Hound Tob2023"
 "size": "Medium"
 "type": "Fey"

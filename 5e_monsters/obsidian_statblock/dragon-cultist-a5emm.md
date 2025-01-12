@@ -13,6 +13,7 @@ aliases: ["dragon-cultist-a5e", "Dragon Cultist-a5emm"]
 *Source: A5e Monstrous Menagerie Page 473*
 
 ```statblock
+"dice": false
 "name": "Dragon Cultist A5Emm"
 "size": "Medium"
 "type": "Humanoid"

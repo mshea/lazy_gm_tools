@@ -13,6 +13,7 @@ aliases: ["swarmofwolfspirits-tob1-2023", "Swarm of Wolf Spirits-tob2023"]
 *Source: Tome of Beasts 2023 Page 358*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Wolf Spirits Tob2023"
 "size": "Large"
 "type": "Swarm"

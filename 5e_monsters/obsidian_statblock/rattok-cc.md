@@ -13,6 +13,7 @@ aliases: ["rattok", "Rattok-cc"]
 *Source: Creature Codex Page 90*
 
 ```statblock
+"dice": false
 "name": "Rattok Cc"
 "size": "Small"
 "type": "Fiend"

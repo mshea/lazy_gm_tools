@@ -13,6 +13,7 @@ aliases: ["vampire-warrior-a5e", "Vampire Warrior-a5emm"]
 *Source: A5e Monstrous Menagerie Page 421*
 
 ```statblock
+"dice": false
 "name": "Vampire Warrior A5Emm"
 "size": "Medium"
 "type": "Undead"

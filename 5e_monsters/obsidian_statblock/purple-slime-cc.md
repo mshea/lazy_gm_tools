@@ -13,6 +13,7 @@ aliases: ["purple-slime", "Purple Slime-cc"]
 *Source: Creature Codex Page 307*
 
 ```statblock
+"dice": false
 "name": "Purple Slime Cc"
 "size": "Large"
 "type": "Ooze"

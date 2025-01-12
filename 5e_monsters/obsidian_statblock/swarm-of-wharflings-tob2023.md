@@ -13,6 +13,7 @@ aliases: ["swarmofwharflings-tob1-2023", "Swarm of Wharflings-tob2023"]
 *Source: Tome of Beasts 2023 Page 395*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Wharflings Tob2023"
 "size": "Large"
 "type": "Swarm"

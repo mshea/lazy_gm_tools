@@ -13,6 +13,7 @@ aliases: ["eldershadowdrake-tob1-2023", "Elder Shadow Drake-tob2023"]
 *Source: Tome of Beasts 2023 Page 143*
 
 ```statblock
+"dice": false
 "name": "Elder Shadow Drake Tob2023"
 "size": "Large"
 "type": "Dragon"

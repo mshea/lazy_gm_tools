@@ -13,6 +13,7 @@ aliases: ["minotaur-ravening", "Minotaur, Ravening-tob3"]
 *Source: Tome of Beasts 3 Page 272*
 
 ```statblock
+"dice": false
 "name": "Minotaur, Ravening Tob3"
 "size": "Large"
 "type": "Monstrosity"

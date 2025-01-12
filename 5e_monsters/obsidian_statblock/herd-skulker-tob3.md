@@ -13,6 +13,7 @@ aliases: ["herd-skulker", "Herd Skulker-tob3"]
 *Source: Tome of Beasts 3 Page 231*
 
 ```statblock
+"dice": false
 "name": "Herd Skulker Tob3"
 "size": "Medium"
 "type": "Monstrosity"

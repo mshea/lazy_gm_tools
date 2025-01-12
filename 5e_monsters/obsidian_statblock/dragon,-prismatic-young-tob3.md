@@ -13,6 +13,7 @@ aliases: ["dragon-prismatic-young", "Dragon, Prismatic Young-tob3"]
 *Source: Tome of Beasts 3 Page 140*
 
 ```statblock
+"dice": false
 "name": "Dragon, Prismatic Young Tob3"
 "size": "Large"
 "type": "Dragon"

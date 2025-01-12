@@ -13,6 +13,7 @@ aliases: ["anzu", "Anzu-tob2"]
 *Source: Tome of Beasts 2 Page 26*
 
 ```statblock
+"dice": false
 "name": "Anzu Tob2"
 "size": "Large"
 "type": "Monstrosity"

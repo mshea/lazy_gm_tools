@@ -13,6 +13,7 @@ aliases: ["oozasis-tob1-2023", "Oozasis-tob2023"]
 *Source: Tome of Beasts 2023 Page 290*
 
 ```statblock
+"dice": false
 "name": "Oozasis Tob2023"
 "size": "Gargantuan"
 "type": "Ooze"

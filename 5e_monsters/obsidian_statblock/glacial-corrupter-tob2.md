@@ -13,6 +13,7 @@ aliases: ["glacial-corrupter", "Glacial Corrupter-tob2"]
 *Source: Tome of Beasts 2 Page 176*
 
 ```statblock
+"dice": false
 "name": "Glacial Corrupter Tob2"
 "size": "Medium"
 "type": "Undead"

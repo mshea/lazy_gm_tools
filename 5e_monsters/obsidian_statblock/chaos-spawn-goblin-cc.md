@@ -13,6 +13,7 @@ aliases: ["chaos-spawn-goblin", "Chaos-Spawn Goblin-cc"]
 *Source: Creature Codex Page 190*
 
 ```statblock
+"dice": false
 "name": "Chaos Spawn Goblin Cc"
 "size": "Small"
 "type": "Humanoid"

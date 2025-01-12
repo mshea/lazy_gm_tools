@@ -13,6 +13,7 @@ aliases: ["anophiloi", "Anophiloi-cc"]
 *Source: Creature Codex Page 39*
 
 ```statblock
+"dice": false
 "name": "Anophiloi Cc"
 "size": "Small"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["magmin-a5e", "Magmin-a5emm"]
 *Source: A5e Monstrous Menagerie Page 316*
 
 ```statblock
+"dice": false
 "name": "Magmin A5Emm"
 "size": "Small"
 "type": "Elemental"

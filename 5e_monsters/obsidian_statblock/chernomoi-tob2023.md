@@ -13,6 +13,7 @@ aliases: ["chernomoi-tob1-2023", "Chernomoi-tob2023"]
 *Source: Tome of Beasts 2023 Page 54*
 
 ```statblock
+"dice": false
 "name": "Chernomoi Tob2023"
 "size": "Tiny"
 "type": "Fey"

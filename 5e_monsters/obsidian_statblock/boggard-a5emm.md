@@ -13,6 +13,7 @@ aliases: ["boggard-a5e", "Boggard-a5emm"]
 *Source: A5e Monstrous Menagerie Page 36*
 
 ```statblock
+"dice": false
 "name": "Boggard A5Emm"
 "size": "Medium"
 "type": "Humanoid"

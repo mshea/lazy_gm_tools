@@ -13,6 +13,7 @@ aliases: ["gray-orc", "Gray Orc-tob2"]
 *Source: Tome of Beasts 2 Page 162*
 
 ```statblock
+"dice": false
 "name": "Gray Orc Tob2"
 "size": "Medium"
 "type": "Humanoid"

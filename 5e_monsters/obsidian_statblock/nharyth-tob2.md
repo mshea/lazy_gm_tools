@@ -13,6 +13,7 @@ aliases: ["nharyth", "Nharyth-tob2"]
 *Source: Tome of Beasts 2 Page 269*
 
 ```statblock
+"dice": false
 "name": "Nharyth Tob2"
 "size": "Huge"
 "type": "Aberration"

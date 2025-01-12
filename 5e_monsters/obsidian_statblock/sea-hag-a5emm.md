@@ -13,6 +13,7 @@ aliases: ["sea-hag-a5e", "Sea Hag-a5emm"]
 *Source: A5e Monstrous Menagerie Page 271*
 
 ```statblock
+"dice": false
 "name": "Sea Hag A5Emm"
 "size": "Medium"
 "type": "Fey"

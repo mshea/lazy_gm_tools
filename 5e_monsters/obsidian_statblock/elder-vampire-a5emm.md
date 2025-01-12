@@ -13,6 +13,7 @@ aliases: ["elder-vampire-a5e", "Elder Vampire-a5emm"]
 *Source: A5e Monstrous Menagerie Page 420*
 
 ```statblock
+"dice": false
 "name": "Elder Vampire A5Emm"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["xenabsorber", "Xenabsorber-cc"]
 *Source: Creature Codex Page 387*
 
 ```statblock
+"dice": false
 "name": "Xenabsorber Cc"
 "size": "Medium"
 "type": "Aberration"

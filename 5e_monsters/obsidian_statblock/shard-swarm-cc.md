@@ -13,6 +13,7 @@ aliases: ["shard-swarm", "Shard Swarm-cc"]
 *Source: Creature Codex Page 329*
 
 ```statblock
+"dice": false
 "name": "Shard Swarm Cc"
 "size": "Medium"
 "type": "Construct"

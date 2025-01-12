@@ -13,6 +13,7 @@ aliases: ["rustdrake-tob1-2023", "Rust Drake-tob2023"]
 *Source: Tome of Beasts 2023 Page 145*
 
 ```statblock
+"dice": false
 "name": "Rust Drake Tob2023"
 "size": "Medium"
 "type": "Dragon"

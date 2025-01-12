@@ -13,6 +13,7 @@ aliases: ["titanic-dragon-turtle-a5e", "Titanic Dragon Turtle-a5emm"]
 *Source: A5e Monstrous Menagerie Page 182*
 
 ```statblock
+"dice": false
 "name": "Titanic Dragon Turtle A5Emm"
 "size": "Titanic"
 "type": "Dragon"

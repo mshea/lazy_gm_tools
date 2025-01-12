@@ -13,6 +13,7 @@ aliases: ["goblin-skulker-a5e", "Goblin Skulker-a5emm"]
 *Source: A5e Monstrous Menagerie Page 250*
 
 ```statblock
+"dice": false
 "name": "Goblin Skulker A5Emm"
 "size": "Small"
 "type": "Humanoid"

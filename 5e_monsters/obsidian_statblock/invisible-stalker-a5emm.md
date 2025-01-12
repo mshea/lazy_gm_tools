@@ -13,6 +13,7 @@ aliases: ["invisible-stalker-a5e", "Invisible Stalker-a5emm"]
 *Source: A5e Monstrous Menagerie Page 289*
 
 ```statblock
+"dice": false
 "name": "Invisible Stalker A5Emm"
 "size": "Medium"
 "type": "Elemental"

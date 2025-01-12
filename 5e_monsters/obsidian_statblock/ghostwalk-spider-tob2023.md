@@ -13,6 +13,7 @@ aliases: ["ghostwalkspider-tob1-2023", "Ghostwalk Spider-tob2023"]
 *Source: Tome of Beasts 2023 Page 343*
 
 ```statblock
+"dice": false
 "name": "Ghostwalk Spider Tob2023"
 "size": "Large"
 "type": "Monstrosity"

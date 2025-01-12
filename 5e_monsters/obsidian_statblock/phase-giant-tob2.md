@@ -13,6 +13,7 @@ aliases: ["phase-giant", "Phase Giant-tob2"]
 *Source: Tome of Beasts 2 Page 172*
 
 ```statblock
+"dice": false
 "name": "Phase Giant Tob2"
 "size": "Huge"
 "type": "Giant"

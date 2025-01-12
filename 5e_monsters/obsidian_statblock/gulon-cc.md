@@ -13,6 +13,7 @@ aliases: ["gulon", "Gulon-cc"]
 *Source: Creature Codex Page 212*
 
 ```statblock
+"dice": false
 "name": "Gulon Cc"
 "size": "Large"
 "type": "Monstrosity"

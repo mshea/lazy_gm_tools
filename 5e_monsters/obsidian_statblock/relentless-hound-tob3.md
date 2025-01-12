@@ -13,6 +13,7 @@ aliases: ["relentless-hound", "Relentless Hound-tob3"]
 *Source: Tome of Beasts 3 Page 331*
 
 ```statblock
+"dice": false
 "name": "Relentless Hound Tob3"
 "size": "Medium"
 "type": "Undead"

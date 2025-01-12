@@ -13,6 +13,7 @@ aliases: ["dire-owlbear", "Dire Owlbear-tob3"]
 *Source: Tome of Beasts 3 Page 132*
 
 ```statblock
+"dice": false
 "name": "Dire Owlbear Tob3"
 "size": "Large"
 "type": "Monstrosity"

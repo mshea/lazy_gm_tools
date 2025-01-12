@@ -13,6 +13,7 @@ aliases: ["crystallite", "Crystallite-tob3"]
 *Source: Tome of Beasts 3 Page 100*
 
 ```statblock
+"dice": false
 "name": "Crystallite Tob3"
 "size": "Large"
 "type": "Giant"

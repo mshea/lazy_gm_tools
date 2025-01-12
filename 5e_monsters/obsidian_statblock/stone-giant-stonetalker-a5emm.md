@@ -13,6 +13,7 @@ aliases: ["stone-giant-stonetalker-a5e", "Stone Giant Stonetalker-a5emm"]
 *Source: A5e Monstrous Menagerie Page 241*
 
 ```statblock
+"dice": false
 "name": "Stone Giant Stonetalker A5Emm"
 "size": "Huge"
 "type": "Giant"

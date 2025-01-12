@@ -13,6 +13,7 @@ aliases: ["deathwisp-tob1-2023", "Deathwisp-tob2023"]
 *Source: Tome of Beasts 2023 Page 71*
 
 ```statblock
+"dice": false
 "name": "Deathwisp Tob2023"
 "size": "Medium"
 "type": "Undead"

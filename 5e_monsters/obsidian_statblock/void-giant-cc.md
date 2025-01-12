@@ -13,6 +13,7 @@ aliases: ["void-giant", "Void Giant-cc"]
 *Source: Creature Codex Page 187*
 
 ```statblock
+"dice": false
 "name": "Void Giant Cc"
 "size": "Huge"
 "type": "Giant"

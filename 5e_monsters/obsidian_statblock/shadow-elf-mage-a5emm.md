@@ -13,6 +13,7 @@ aliases: ["shadow-elf-mage-a5e", "Shadow Elf Mage-a5emm"]
 *Source: A5e Monstrous Menagerie Page 483*
 
 ```statblock
+"dice": false
 "name": "Shadow Elf Mage A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["broodiken-tob1-2023", "Broodiken-tob2023"]
 *Source: Tome of Beasts 2023 Page 43*
 
 ```statblock
+"dice": false
 "name": "Broodiken Tob2023"
 "size": "Tiny"
 "type": "Construct"

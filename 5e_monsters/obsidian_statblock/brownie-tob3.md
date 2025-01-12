@@ -13,6 +13,7 @@ aliases: ["brownie", "Brownie-tob3"]
 *Source: Tome of Beasts 3 Page 68*
 
 ```statblock
+"dice": false
 "name": "Brownie Tob3"
 "size": "Tiny"
 "type": "Fey"

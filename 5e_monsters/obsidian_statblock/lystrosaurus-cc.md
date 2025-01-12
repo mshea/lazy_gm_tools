@@ -13,6 +13,7 @@ aliases: ["lystrosaurus", "Lystrosaurus-cc"]
 *Source: Creature Codex Page 108*
 
 ```statblock
+"dice": false
 "name": "Lystrosaurus Cc"
 "size": "Medium"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["reef-shark-a5e", "Reef Shark-a5emm"]
 *Source: A5e Monstrous Menagerie Page 458*
 
 ```statblock
+"dice": false
 "name": "Reef Shark A5Emm"
 "size": "Medium"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["fleshdreg", "Fleshdreg-tob2"]
 *Source: Tome of Beasts 2 Page 152*
 
 ```statblock
+"dice": false
 "name": "Fleshdreg Tob2"
 "size": "Huge"
 "type": "Plant"

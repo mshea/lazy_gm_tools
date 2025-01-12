@@ -13,6 +13,7 @@ aliases: ["chimera-royal", "Chimera, Royal-tob3"]
 *Source: Tome of Beasts 3 Page 83*
 
 ```statblock
+"dice": false
 "name": "Chimera, Royal Tob3"
 "size": "Huge"
 "type": "Monstrosity"

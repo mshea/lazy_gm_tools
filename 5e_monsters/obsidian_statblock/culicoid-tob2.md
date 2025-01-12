@@ -13,6 +13,7 @@ aliases: ["culicoid", "Culicoid-tob2"]
 *Source: Tome of Beasts 2 Page 94*
 
 ```statblock
+"dice": false
 "name": "Culicoid Tob2"
 "size": "Large"
 "type": "Fiend"

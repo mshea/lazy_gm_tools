@@ -13,6 +13,7 @@ aliases: ["slithy-tove", "Slithy Tove-tob3"]
 *Source: Tome of Beasts 3 Page 347*
 
 ```statblock
+"dice": false
 "name": "Slithy Tove Tob3"
 "size": "Small"
 "type": "Monstrosity"

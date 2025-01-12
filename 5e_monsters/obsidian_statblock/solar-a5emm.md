@@ -13,6 +13,7 @@ aliases: ["solar-a5e", "Solar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 20*
 
 ```statblock
+"dice": false
 "name": "Solar A5Emm"
 "size": "Large"
 "type": "Celestial"

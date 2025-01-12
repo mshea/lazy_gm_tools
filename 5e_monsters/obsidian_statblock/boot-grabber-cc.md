@@ -13,6 +13,7 @@ aliases: ["boot-grabber", "Boot Grabber-cc"]
 *Source: Creature Codex Page 56*
 
 ```statblock
+"dice": false
 "name": "Boot Grabber Cc"
 "size": "Small"
 "type": "Aberration"

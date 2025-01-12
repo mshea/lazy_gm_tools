@@ -13,6 +13,7 @@ aliases: ["dubius", "Dubius-tob3"]
 *Source: Tome of Beasts 3 Page 162*
 
 ```statblock
+"dice": false
 "name": "Dubius Tob3"
 "size": "Small"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["wakwak", "Wakwak-tob3"]
 *Source: Tome of Beasts 3 Page 388*
 
 ```statblock
+"dice": false
 "name": "Wakwak Tob3"
 "size": "Large"
 "type": "Beast"

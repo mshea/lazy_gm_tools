@@ -13,6 +13,7 @@ aliases: ["spawn-of-chernobog", "Spawn of Chernobog-cc"]
 *Source: Creature Codex Page 347*
 
 ```statblock
+"dice": false
 "name": "Spawn Of Chernobog Cc"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["khargi", "Khargi-tob3"]
 *Source: Tome of Beasts 3 Page 251*
 
 ```statblock
+"dice": false
 "name": "Khargi Tob3"
 "size": "Huge"
 "type": "Fiend"

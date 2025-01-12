@@ -13,6 +13,7 @@ aliases: ["abaasy", "Abaasy-tob3"]
 *Source: Tome of Beasts 3 Page 8*
 
 ```statblock
+"dice": false
 "name": "Abaasy Tob3"
 "size": "Huge"
 "type": "Giant"

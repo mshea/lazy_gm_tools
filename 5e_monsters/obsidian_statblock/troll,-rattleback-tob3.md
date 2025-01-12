@@ -13,6 +13,7 @@ aliases: ["troll-rattleback", "Troll, Rattleback-tob3"]
 *Source: Tome of Beasts 3 Page 374*
 
 ```statblock
+"dice": false
 "name": "Troll, Rattleback Tob3"
 "size": "Large"
 "type": "Giant"

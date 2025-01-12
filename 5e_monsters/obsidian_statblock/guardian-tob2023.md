@@ -13,6 +13,7 @@ aliases: ["guardian-tob1-2023", "Guardian-tob2023"]
 *Source: Tome of Beasts 2023 Page 162*
 
 ```statblock
+"dice": false
 "name": "Guardian Tob2023"
 "size": "Large"
 "type": "Humanoid"

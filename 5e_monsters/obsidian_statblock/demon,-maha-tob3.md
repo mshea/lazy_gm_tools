@@ -13,6 +13,7 @@ aliases: ["demon-maha", "Demon, Maha-tob3"]
 *Source: Tome of Beasts 3 Page 111*
 
 ```statblock
+"dice": false
 "name": "Demon, Maha Tob3"
 "size": "Medium"
 "type": "Fiend"

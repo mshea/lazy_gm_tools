@@ -13,6 +13,7 @@ aliases: ["suturefly-tob1-2023", "Suturefly-tob2023"]
 *Source: Tome of Beasts 2023 Page 353*
 
 ```statblock
+"dice": false
 "name": "Suturefly Tob2023"
 "size": "Tiny"
 "type": "Beast"

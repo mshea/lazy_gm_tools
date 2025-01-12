@@ -13,6 +13,7 @@ aliases: ["azer-a5e", "Azer-a5emm"]
 *Source: A5e Monstrous Menagerie Page 28*
 
 ```statblock
+"dice": false
 "name": "Azer A5Emm"
 "size": "Medium"
 "type": "Elemental"

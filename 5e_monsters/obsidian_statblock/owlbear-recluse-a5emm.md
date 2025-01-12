@@ -13,6 +13,7 @@ aliases: ["owlbear-recluse-a5e", "Owlbear Recluse-a5emm"]
 *Source: A5e Monstrous Menagerie Page 356*
 
 ```statblock
+"dice": false
 "name": "Owlbear Recluse A5Emm"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["fraughashar-tob1-2023", "Fraughashar-tob2023"]
 *Source: Tome of Beasts 2023 Page 192*
 
 ```statblock
+"dice": false
 "name": "Fraughashar Tob2023"
 "size": "Small"
 "type": "Fey"

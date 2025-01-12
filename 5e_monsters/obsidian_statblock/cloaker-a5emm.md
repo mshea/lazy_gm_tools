@@ -13,6 +13,7 @@ aliases: ["cloaker-a5e", "Cloaker-a5emm"]
 *Source: A5e Monstrous Menagerie Page 50*
 
 ```statblock
+"dice": false
 "name": "Cloaker A5Emm"
 "size": "Large"
 "type": "Aberration"

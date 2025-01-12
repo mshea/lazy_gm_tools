@@ -13,6 +13,7 @@ aliases: ["blood-zombie", "Blood Zombie-cc"]
 *Source: Creature Codex Page 282*
 
 ```statblock
+"dice": false
 "name": "Blood Zombie Cc"
 "size": "Medium"
 "type": "Undead"

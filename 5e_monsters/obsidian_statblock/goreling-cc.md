@@ -13,6 +13,7 @@ aliases: ["goreling", "Goreling-cc"]
 *Source: Creature Codex Page 207*
 
 ```statblock
+"dice": false
 "name": "Goreling Cc"
 "size": "Small"
 "type": "Undead"

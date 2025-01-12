@@ -13,6 +13,7 @@ aliases: ["werebear-a5e", "Werebear-a5emm"]
 *Source: A5e Monstrous Menagerie Page 312*
 
 ```statblock
+"dice": false
 "name": "Werebear A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["bronze-golem", "Bronze Golem-cc"]
 *Source: Creature Codex Page 201*
 
 ```statblock
+"dice": false
 "name": "Bronze Golem Cc"
 "size": "Large"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["paper-golem", "Paper Golem-cc"]
 *Source: Creature Codex Page 176*
 
 ```statblock
+"dice": false
 "name": "Paper Golem Cc"
 "size": "Tiny"
 "type": "Construct"

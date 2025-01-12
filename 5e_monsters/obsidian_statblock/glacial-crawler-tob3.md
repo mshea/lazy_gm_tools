@@ -13,6 +13,7 @@ aliases: ["glacial-crawler", "Glacial Crawler-tob3"]
 *Source: Tome of Beasts 3 Page 209*
 
 ```statblock
+"dice": false
 "name": "Glacial Crawler Tob3"
 "size": "Huge"
 "type": "Aberration"

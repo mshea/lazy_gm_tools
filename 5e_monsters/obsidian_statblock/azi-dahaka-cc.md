@@ -13,6 +13,7 @@ aliases: ["azi-dahaka", "Azi Dahaka-cc"]
 *Source: Creature Codex Page 45*
 
 ```statblock
+"dice": false
 "name": "Azi Dahaka Cc"
 "size": "Huge"
 "type": "Dragon"

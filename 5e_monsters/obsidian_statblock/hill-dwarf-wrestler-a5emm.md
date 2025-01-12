@@ -13,6 +13,7 @@ aliases: ["hill-dwarf-wrestler-a5e", "Hill Dwarf Wrestler-a5emm"]
 *Source: A5e Monstrous Menagerie Page 495*
 
 ```statblock
+"dice": false
 "name": "Hill Dwarf Wrestler A5Emm"
 "size": "Medium"
 "type": "Humanoid"

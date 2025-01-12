@@ -13,6 +13,7 @@ aliases: ["lymarien-swarm", "Lymarien Swarm-tob2"]
 *Source: Tome of Beasts 2 Page 248*
 
 ```statblock
+"dice": false
 "name": "Lymarien Swarm Tob2"
 "size": "Large"
 "type": "Fey"

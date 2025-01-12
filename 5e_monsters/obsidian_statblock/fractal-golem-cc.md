@@ -13,6 +13,7 @@ aliases: ["fractal-golem", "Fractal Golem-cc"]
 *Source: Creature Codex Page 200*
 
 ```statblock
+"dice": false
 "name": "Fractal Golem Cc"
 "size": "Large"
 "type": "Construct"

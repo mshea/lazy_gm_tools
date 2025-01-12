@@ -13,6 +13,7 @@ aliases: ["ahu-nixta", "Ahu-Nixta-cc"]
 *Source: Creature Codex Page 11*
 
 ```statblock
+"dice": false
 "name": "Ahu Nixta Cc"
 "size": "Large"
 "type": "Aberration"

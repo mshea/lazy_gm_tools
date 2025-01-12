@@ -13,6 +13,7 @@ aliases: ["yowler", "Yowler-tob2"]
 *Source: Tome of Beasts 2 Page 380*
 
 ```statblock
+"dice": false
 "name": "Yowler Tob2"
 "size": "Tiny"
 "type": "Undead"

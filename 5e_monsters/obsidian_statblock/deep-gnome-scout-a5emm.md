@@ -13,6 +13,7 @@ aliases: ["deep-gnome-scout-a5e", "Deep Gnome Scout-a5emm"]
 *Source: A5e Monstrous Menagerie Page 491*
 
 ```statblock
+"dice": false
 "name": "Deep Gnome Scout A5Emm"
 "size": "Medium"
 "type": "Humanoid"

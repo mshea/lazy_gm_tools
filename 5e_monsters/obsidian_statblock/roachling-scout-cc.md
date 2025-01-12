@@ -13,6 +13,7 @@ aliases: ["roachling-scout", "Roachling Scout-cc"]
 *Source: Creature Codex Page 319*
 
 ```statblock
+"dice": false
 "name": "Roachling Scout Cc"
 "size": "Small"
 "type": "Humanoid"

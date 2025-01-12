@@ -13,6 +13,7 @@ aliases: ["emperors-hyena", "Emperor’s Hyena-tob2"]
 *Source: Tome of Beasts 2 Page 135*
 
 ```statblock
+"dice": false
 "name": "Emperor’S Hyena Tob2"
 "size": "Medium"
 "type": "Undead"

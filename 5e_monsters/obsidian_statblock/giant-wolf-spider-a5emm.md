@@ -13,6 +13,7 @@ aliases: ["giant-wolf-spider-a5e", "Giant Wolf Spider-a5emm"]
 *Source: A5e Monstrous Menagerie Page 451*
 
 ```statblock
+"dice": false
 "name": "Giant Wolf Spider A5Emm"
 "size": "Medium"
 "type": "Beast"

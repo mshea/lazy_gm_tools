@@ -13,6 +13,7 @@ aliases: ["keyhole-dragonette", "Keyhole Dragonette-tob2"]
 *Source: Tome of Beasts 2 Page 180*
 
 ```statblock
+"dice": false
 "name": "Keyhole Dragonette Tob2"
 "size": "Tiny"
 "type": "Dragon"

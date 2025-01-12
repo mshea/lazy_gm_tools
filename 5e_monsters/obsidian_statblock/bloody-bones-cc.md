@@ -13,6 +13,7 @@ aliases: ["bloody-bones", "Bloody Bones-cc"]
 *Source: Creature Codex Page 54*
 
 ```statblock
+"dice": false
 "name": "Bloody Bones Cc"
 "size": "Medium"
 "type": "Monstrosity"

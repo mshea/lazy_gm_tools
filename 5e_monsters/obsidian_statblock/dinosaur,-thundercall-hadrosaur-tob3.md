@@ -13,6 +13,7 @@ aliases: ["dinosaur-thundercall-hadrosaur", "Dinosaur, Thundercall Hadrosaur-tob
 *Source: Tome of Beasts 3 Page 126*
 
 ```statblock
+"dice": false
 "name": "Dinosaur, Thundercall Hadrosaur Tob3"
 "size": "Huge"
 "type": "Monstrosity"

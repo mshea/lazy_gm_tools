@@ -13,6 +13,7 @@ aliases: ["adult-boreal-dragon", "Adult Boreal Dragon-tob2"]
 *Source: Tome of Beasts 2 Page 143*
 
 ```statblock
+"dice": false
 "name": "Adult Boreal Dragon Tob2"
 "size": "Huge"
 "type": "Dragon"

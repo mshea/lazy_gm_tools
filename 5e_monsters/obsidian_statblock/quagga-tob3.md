@@ -13,6 +13,7 @@ aliases: ["quagga", "Quagga-tob3"]
 *Source: Tome of Beasts 3 Page 325*
 
 ```statblock
+"dice": false
 "name": "Quagga Tob3"
 "size": "Medium"
 "type": "Monstrosity"

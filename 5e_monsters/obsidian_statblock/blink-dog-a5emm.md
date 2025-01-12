@@ -13,6 +13,7 @@ aliases: ["blink-dog-a5e", "Blink Dog-a5emm"]
 *Source: A5e Monstrous Menagerie Page 440*
 
 ```statblock
+"dice": false
 "name": "Blink Dog A5Emm"
 "size": "Medium"
 "type": "Fey"

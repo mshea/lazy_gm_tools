@@ -13,6 +13,7 @@ aliases: ["warostrich-tob1-2023", "War Ostrich-tob2023"]
 *Source: Tome of Beasts 2023 Page 393*
 
 ```statblock
+"dice": false
 "name": "War Ostrich Tob2023"
 "size": "Large"
 "type": "Beast"

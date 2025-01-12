@@ -13,6 +13,7 @@ aliases: ["salamander-nymph-a5e", "Salamander Nymph-a5emm"]
 *Source: A5e Monstrous Menagerie Page 379*
 
 ```statblock
+"dice": false
 "name": "Salamander Nymph A5Emm"
 "size": "Medium"
 "type": "Elemental"

@@ -13,6 +13,7 @@ aliases: ["karakura", "Karakura-cc"]
 *Source: Creature Codex Page 235*
 
 ```statblock
+"dice": false
 "name": "Karakura Cc"
 "size": "Medium"
 "type": "Fiend"

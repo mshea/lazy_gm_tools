@@ -13,6 +13,7 @@ aliases: ["virtuoso-lich", "Virtuoso Lich-tob2"]
 *Source: Tome of Beasts 2 Page 237*
 
 ```statblock
+"dice": false
 "name": "Virtuoso Lich Tob2"
 "size": "Medium"
 "type": "Undead"

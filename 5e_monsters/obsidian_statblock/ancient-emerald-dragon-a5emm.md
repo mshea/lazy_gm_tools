@@ -13,6 +13,7 @@ aliases: ["ancient-emerald-dragon-a5e", "Ancient Emerald Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 144*
 
 ```statblock
+"dice": false
 "name": "Ancient Emerald Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

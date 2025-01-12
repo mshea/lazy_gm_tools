@@ -13,6 +13,7 @@ aliases: ["huecambra", "Huecambra-tob2"]
 *Source: Tome of Beasts 2 Page 203*
 
 ```statblock
+"dice": false
 "name": "Huecambra Tob2"
 "size": "Large"
 "type": "Monstrosity"

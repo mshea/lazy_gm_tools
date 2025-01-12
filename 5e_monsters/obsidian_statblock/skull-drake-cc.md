@@ -13,6 +13,7 @@ aliases: ["skull-drake", "Skull Drake-cc"]
 *Source: Creature Codex Page 343*
 
 ```statblock
+"dice": false
 "name": "Skull Drake Cc"
 "size": "Medium"
 "type": "Dragon"

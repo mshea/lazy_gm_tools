@@ -13,6 +13,7 @@ aliases: ["ramag-portal-master", "Ramag Portal Master-cc"]
 *Source: Creature Codex Page 313*
 
 ```statblock
+"dice": false
 "name": "Ramag Portal Master Cc"
 "size": "Medium"
 "type": "Humanoid"

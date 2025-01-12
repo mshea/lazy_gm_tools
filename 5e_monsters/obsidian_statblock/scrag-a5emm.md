@@ -13,6 +13,7 @@ aliases: ["scrag-a5e", "Scrag-a5emm"]
 *Source: A5e Monstrous Menagerie Page 413*
 
 ```statblock
+"dice": false
 "name": "Scrag A5Emm"
 "size": "Large"
 "type": "Giant"

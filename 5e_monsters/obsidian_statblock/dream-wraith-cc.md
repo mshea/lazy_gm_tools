@@ -13,6 +13,7 @@ aliases: ["dream-wraith", "Dream Wraith-cc"]
 *Source: Creature Codex Page 135*
 
 ```statblock
+"dice": false
 "name": "Dream Wraith Cc"
 "size": "Medium"
 "type": "Undead"

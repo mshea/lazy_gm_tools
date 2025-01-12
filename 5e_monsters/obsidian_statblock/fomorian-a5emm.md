@@ -13,6 +13,7 @@ aliases: ["fomorian-a5e", "Fomorian-a5emm"]
 *Source: A5e Monstrous Menagerie Page 406*
 
 ```statblock
+"dice": false
 "name": "Fomorian A5Emm"
 "size": "Huge"
 "type": "Fey"

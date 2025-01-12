@@ -13,6 +13,7 @@ aliases: ["mirrorhag-tob1-2023", "Mirror Hag-tob2023"]
 *Source: Tome of Beasts 2023 Page 227*
 
 ```statblock
+"dice": false
 "name": "Mirror Hag Tob2023"
 "size": "Medium"
 "type": "Fey"

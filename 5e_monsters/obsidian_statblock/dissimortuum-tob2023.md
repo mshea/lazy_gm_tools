@@ -13,6 +13,7 @@ aliases: ["dissimortuum-tob1-2023", "Dissimortuum-tob2023"]
 *Source: Tome of Beasts 2023 Page 106*
 
 ```statblock
+"dice": false
 "name": "Dissimortuum Tob2023"
 "size": "Medium"
 "type": "Undead"

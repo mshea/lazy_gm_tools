@@ -13,6 +13,7 @@ aliases: ["flame-eater-swarm", "Flame Eater Swarm-cc"]
 *Source: Creature Codex Page 204*
 
 ```statblock
+"dice": false
 "name": "Flame Eater Swarm Cc"
 "size": "Medium"
 "type": "Beast"

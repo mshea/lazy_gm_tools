@@ -13,6 +13,7 @@ aliases: ["ophinix", "Ophinix-tob2"]
 *Source: Tome of Beasts 2 Page 283*
 
 ```statblock
+"dice": false
 "name": "Ophinix Tob2"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["trollkin-ragecaster", "Trollkin Ragecaster-tob3"]
 *Source: Tome of Beasts 3 Page 377*
 
 ```statblock
+"dice": false
 "name": "Trollkin Ragecaster Tob3"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["carnivorous-sod", "Carnivorous Sod-tob2"]
 *Source: Tome of Beasts 2 Page 57*
 
 ```statblock
+"dice": false
 "name": "Carnivorous Sod Tob2"
 "size": "Medium"
 "type": "Plant"

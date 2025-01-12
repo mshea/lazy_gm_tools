@@ -13,6 +13,7 @@ aliases: ["shadow-dragon-wyrmling-a5e", "Shadow Dragon Wyrmling-a5emm"]
 *Source: A5e Monstrous Menagerie Page 137*
 
 ```statblock
+"dice": false
 "name": "Shadow Dragon Wyrmling A5Emm"
 "size": "Medium"
 "type": "Dragon"

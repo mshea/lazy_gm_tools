@@ -13,6 +13,7 @@ aliases: ["torch-mimic", "Torch Mimic-tob3"]
 *Source: Tome of Beasts 3 Page 370*
 
 ```statblock
+"dice": false
 "name": "Torch Mimic Tob3"
 "size": "Tiny"
 "type": "Monstrosity"

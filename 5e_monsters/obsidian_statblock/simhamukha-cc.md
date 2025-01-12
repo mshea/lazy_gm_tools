@@ -13,6 +13,7 @@ aliases: ["simhamukha", "Simhamukha-cc"]
 *Source: Creature Codex Page 70*
 
 ```statblock
+"dice": false
 "name": "Simhamukha Cc"
 "size": "Huge"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["godslayer", "Godslayer-tob3"]
 *Source: Tome of Beasts 3 Page 212*
 
 ```statblock
+"dice": false
 "name": "Godslayer Tob3"
 "size": "Huge"
 "type": "Construct"

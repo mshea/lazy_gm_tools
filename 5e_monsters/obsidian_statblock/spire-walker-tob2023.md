@@ -13,6 +13,7 @@ aliases: ["spirewalker-tob1-2023", "Spire Walker-tob2023"]
 *Source: Tome of Beasts 2023 Page 347*
 
 ```statblock
+"dice": false
 "name": "Spire Walker Tob2023"
 "size": "Tiny"
 "type": "Fey"

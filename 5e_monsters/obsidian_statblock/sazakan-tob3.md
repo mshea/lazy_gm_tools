@@ -13,6 +13,7 @@ aliases: ["sazakan", "Sazakan-tob3"]
 *Source: Tome of Beasts 3 Page 336*
 
 ```statblock
+"dice": false
 "name": "Sazakan Tob3"
 "size": "Medium"
 "type": "Elemental"

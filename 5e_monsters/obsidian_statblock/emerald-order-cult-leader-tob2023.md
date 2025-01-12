@@ -13,6 +13,7 @@ aliases: ["emeraldordercultleader-tob1-2023", "Emerald Order Cult Leader-tob2023
 *Source: Tome of Beasts 2023 Page 410*
 
 ```statblock
+"dice": false
 "name": "Emerald Order Cult Leader Tob2023"
 "size": "Medium"
 "type": "Humanoid"

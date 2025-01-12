@@ -13,6 +13,7 @@ aliases: ["killer-whale-a5e", "Killer Whale-a5emm"]
 *Source: A5e Monstrous Menagerie Page 453*
 
 ```statblock
+"dice": false
 "name": "Killer Whale A5Emm"
 "size": "Huge"
 "type": "Beast"

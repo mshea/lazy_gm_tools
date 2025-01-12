@@ -13,6 +13,7 @@ aliases: ["young-river-dragon-a5e", "Young River Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 132*
 
 ```statblock
+"dice": false
 "name": "Young River Dragon A5Emm"
 "size": "Large"
 "type": "Dragon"

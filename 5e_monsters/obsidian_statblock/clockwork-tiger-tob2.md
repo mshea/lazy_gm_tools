@@ -13,6 +13,7 @@ aliases: ["clockwork-tiger", "Clockwork Tiger-tob2"]
 *Source: Tome of Beasts 2 Page 68*
 
 ```statblock
+"dice": false
 "name": "Clockwork Tiger Tob2"
 "size": "Large"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["saltdevil-tob1-2023", "Salt Devil-tob2023"]
 *Source: Tome of Beasts 2023 Page 100*
 
 ```statblock
+"dice": false
 "name": "Salt Devil Tob2023"
 "size": "Medium"
 "type": "Fiend"

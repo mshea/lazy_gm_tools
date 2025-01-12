@@ -13,6 +13,7 @@ aliases: ["zimwi-tob1-2023", "Zimwi-tob2023"]
 *Source: Tome of Beasts 2023 Page 402*
 
 ```statblock
+"dice": false
 "name": "Zimwi Tob2023"
 "size": "Medium"
 "type": "Giant"

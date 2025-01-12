@@ -13,6 +13,7 @@ aliases: ["goblin-shieldbearer-a5e", "Goblin Shieldbearer-a5emm"]
 *Source: A5e Monstrous Menagerie Page 250*
 
 ```statblock
+"dice": false
 "name": "Goblin Shieldbearer A5Emm"
 "size": "Small"
 "type": "Humanoid"

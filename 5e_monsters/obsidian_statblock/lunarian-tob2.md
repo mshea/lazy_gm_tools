@@ -13,6 +13,7 @@ aliases: ["lunarian", "Lunarian-tob2"]
 *Source: Tome of Beasts 2 Page 245*
 
 ```statblock
+"dice": false
 "name": "Lunarian Tob2"
 "size": "Medium"
 "type": "Fey"

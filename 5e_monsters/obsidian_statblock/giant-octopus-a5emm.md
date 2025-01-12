@@ -13,6 +13,7 @@ aliases: ["giant-octopus-a5e", "Giant Octopus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 448*
 
 ```statblock
+"dice": false
 "name": "Giant Octopus A5Emm"
 "size": "Large"
 "type": "Beast"

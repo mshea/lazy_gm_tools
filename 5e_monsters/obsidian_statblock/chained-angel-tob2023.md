@@ -13,6 +13,7 @@ aliases: ["chainedangel-tob1-2023", "Chained Angel-tob2023"]
 *Source: Tome of Beasts 2023 Page 18*
 
 ```statblock
+"dice": false
 "name": "Chained Angel Tob2023"
 "size": "Medium"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["crystalline-monolith", "Crystalline Monolith-tob2"]
 *Source: Tome of Beasts 2 Page 77*
 
 ```statblock
+"dice": false
 "name": "Crystalline Monolith Tob2"
 "size": "Huge"
 "type": "Aberration"

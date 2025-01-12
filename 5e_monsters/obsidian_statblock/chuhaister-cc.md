@@ -13,6 +13,7 @@ aliases: ["chuhaister", "Chuhaister-cc"]
 *Source: Creature Codex Page 62*
 
 ```statblock
+"dice": false
 "name": "Chuhaister Cc"
 "size": "Large"
 "type": "Giant"

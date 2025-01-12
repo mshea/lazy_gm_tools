@@ -13,6 +13,7 @@ aliases: ["ancient-river-dragon-a5e", "Ancient River Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 131*
 
 ```statblock
+"dice": false
 "name": "Ancient River Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

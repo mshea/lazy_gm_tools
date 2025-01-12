@@ -13,6 +13,7 @@ aliases: ["young-light-dragon", "Young Light Dragon-cc"]
 *Source: Creature Codex Page 170*
 
 ```statblock
+"dice": false
 "name": "Young Light Dragon Cc"
 "size": "Large"
 "type": "Dragon"

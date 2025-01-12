@@ -13,6 +13,7 @@ aliases: ["dust-grazer", "Dust Grazer-tob3"]
 *Source: Tome of Beasts 3 Page 163*
 
 ```statblock
+"dice": false
 "name": "Dust Grazer Tob3"
 "size": "Large"
 "type": "Aberration"

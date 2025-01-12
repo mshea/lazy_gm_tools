@@ -13,6 +13,7 @@ aliases: ["giant-water-scorpion", "Giant Water Scorpion-tob2"]
 *Source: Tome of Beasts 2 Page 393*
 
 ```statblock
+"dice": false
 "name": "Giant Water Scorpion Tob2"
 "size": "Large"
 "type": "Beast"

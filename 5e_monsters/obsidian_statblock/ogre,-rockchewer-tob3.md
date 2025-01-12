@@ -13,6 +13,7 @@ aliases: ["ogre-rockchewer", "Ogre, Rockchewer-tob3"]
 *Source: Tome of Beasts 3 Page 302*
 
 ```statblock
+"dice": false
 "name": "Ogre, Rockchewer Tob3"
 "size": "Huge"
 "type": "Giant"

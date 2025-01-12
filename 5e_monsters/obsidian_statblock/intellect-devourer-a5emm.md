@@ -13,6 +13,7 @@ aliases: ["intellect-devourer-a5e", "Intellect Devourer-a5emm"]
 *Source: A5e Monstrous Menagerie Page 287*
 
 ```statblock
+"dice": false
 "name": "Intellect Devourer A5Emm"
 "size": "Tiny"
 "type": "Aberration"

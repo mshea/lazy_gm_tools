@@ -13,6 +13,7 @@ aliases: ["giant-sloth", "Giant Sloth-cc"]
 *Source: Creature Codex Page 178*
 
 ```statblock
+"dice": false
 "name": "Giant Sloth Cc"
 "size": "Large"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["quickstep", "Quickstep-cc"]
 *Source: Creature Codex Page 308*
 
 ```statblock
+"dice": false
 "name": "Quickstep Cc"
 "size": "Small"
 "type": "Fey"

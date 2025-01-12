@@ -13,6 +13,7 @@ aliases: ["coven-green-hag-a5e", "Coven Green Hag-a5emm"]
 *Source: A5e Monstrous Menagerie Page 269*
 
 ```statblock
+"dice": false
 "name": "Coven Green Hag A5Emm"
 "size": "Medium"
 "type": "Fey"

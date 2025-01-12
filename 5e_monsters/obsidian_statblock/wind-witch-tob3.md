@@ -13,6 +13,7 @@ aliases: ["wind-witch", "Wind Witch-tob3"]
 *Source: Tome of Beasts 3 Page 393*
 
 ```statblock
+"dice": false
 "name": "Wind Witch Tob3"
 "size": "Large"
 "type": "Plant"

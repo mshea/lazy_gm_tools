@@ -13,6 +13,7 @@ aliases: ["devil-rimepacted", "Devil, Rimepacted-tob3"]
 *Source: Tome of Beasts 3 Page 124*
 
 ```statblock
+"dice": false
 "name": "Devil, Rimepacted Tob3"
 "size": "Medium"
 "type": "Fiend"

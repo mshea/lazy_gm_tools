@@ -13,6 +13,7 @@ aliases: ["cave-ogre-a5e", "Cave Ogre-a5emm"]
 *Source: A5e Monstrous Menagerie Page 347*
 
 ```statblock
+"dice": false
 "name": "Cave Ogre A5Emm"
 "size": "Large"
 "type": "Giant"

@@ -13,6 +13,7 @@ aliases: ["caltrop-golem", "Caltrop Golem-tob2"]
 *Source: Tome of Beasts 2 Page 390*
 
 ```statblock
+"dice": false
 "name": "Caltrop Golem Tob2"
 "size": "Medium"
 "type": "Construct"

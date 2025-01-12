@@ -13,6 +13,7 @@ aliases: ["sinstar", "Sinstar-tob3"]
 *Source: Tome of Beasts 3 Page 345*
 
 ```statblock
+"dice": false
 "name": "Sinstar Tob3"
 "size": "Tiny"
 "type": "Plant"

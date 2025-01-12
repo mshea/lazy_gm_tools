@@ -13,6 +13,7 @@ aliases: ["miremal-tob1-2023", "Miremal-tob2023"]
 *Source: Tome of Beasts 2023 Page 272*
 
 ```statblock
+"dice": false
 "name": "Miremal Tob2023"
 "size": "Small"
 "type": "Fey"

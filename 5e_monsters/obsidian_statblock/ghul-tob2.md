@@ -13,6 +13,7 @@ aliases: ["ghul", "Ghul-tob2"]
 *Source: Tome of Beasts 2 Page 169*
 
 ```statblock
+"dice": false
 "name": "Ghul Tob2"
 "size": "Medium"
 "type": "Undead"

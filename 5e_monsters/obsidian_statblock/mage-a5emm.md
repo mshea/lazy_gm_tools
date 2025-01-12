@@ -13,6 +13,7 @@ aliases: ["mage-a5e", "Mage-a5emm"]
 *Source: A5e Monstrous Menagerie Page 482*
 
 ```statblock
+"dice": false
 "name": "Mage A5Emm"
 "size": "Medium"
 "type": "Humanoid"

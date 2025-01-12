@@ -13,6 +13,7 @@ aliases: ["deva-a5e", "Deva-a5emm"]
 *Source: A5e Monstrous Menagerie Page 19*
 
 ```statblock
+"dice": false
 "name": "Deva A5Emm"
 "size": "Medium"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["psychic-vampire", "Psychic Vampire-tob2"]
 *Source: Tome of Beasts 2 Page 0*
 
 ```statblock
+"dice": false
 "name": "Psychic Vampire Tob2"
 "size": "Medium"
 "type": "Undead"

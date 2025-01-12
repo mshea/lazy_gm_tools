@@ -13,6 +13,7 @@ aliases: ["titanoboa-tob1-2023", "Titanoboa-tob2023"]
 *Source: Tome of Beasts 2023 Page 363*
 
 ```statblock
+"dice": false
 "name": "Titanoboa Tob2023"
 "size": "Gargantuan"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["duskthorndryad-tob1-2023", "Duskthorn Dryad-tob2023"]
 *Source: Tome of Beasts 2023 Page 150*
 
 ```statblock
+"dice": false
 "name": "Duskthorn Dryad Tob2023"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["accurseddefiler-tob1-2023", "Accursed Defiler-tob2023"]
 *Source: Tome of Beasts 2023 Page 12*
 
 ```statblock
+"dice": false
 "name": "Accursed Defiler Tob2023"
 "size": "Medium"
 "type": "Undead"

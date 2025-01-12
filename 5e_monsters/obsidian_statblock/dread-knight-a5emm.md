@@ -13,6 +13,7 @@ aliases: ["dread-knight-a5e", "Dread Knight-a5emm"]
 *Source: A5e Monstrous Menagerie Page 184*
 
 ```statblock
+"dice": false
 "name": "Dread Knight A5Emm"
 "size": "Medium"
 "type": "Undead"

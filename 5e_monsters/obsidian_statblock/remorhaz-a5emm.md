@@ -13,6 +13,7 @@ aliases: ["remorhaz-a5e", "Remorhaz-a5emm"]
 *Source: A5e Monstrous Menagerie Page 368*
 
 ```statblock
+"dice": false
 "name": "Remorhaz A5Emm"
 "size": "Huge"
 "type": "Monstrosity"

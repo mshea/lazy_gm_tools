@@ -13,6 +13,7 @@ aliases: ["fang-of-the-great-wolf", "Fang of the Great Wolf-cc"]
 *Source: Creature Codex Page 384*
 
 ```statblock
+"dice": false
 "name": "Fang Of The Great Wolf Cc"
 "size": "Large"
 "type": "Monstrosity"

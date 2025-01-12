@@ -13,6 +13,7 @@ aliases: ["ancient-black-dragon-a5e", "Ancient Black Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 100*
 
 ```statblock
+"dice": false
 "name": "Ancient Black Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

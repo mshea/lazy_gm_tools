@@ -13,6 +13,7 @@ aliases: ["wyvern-a5e", "Wyvern-a5emm"]
 *Source: A5e Monstrous Menagerie Page 430*
 
 ```statblock
+"dice": false
 "name": "Wyvern A5Emm"
 "size": "Large"
 "type": "Dragon"

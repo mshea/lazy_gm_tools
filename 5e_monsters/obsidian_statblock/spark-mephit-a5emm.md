@@ -13,6 +13,7 @@ aliases: ["spark-mephit-a5e", "Spark Mephit-a5emm"]
 *Source: A5e Monstrous Menagerie Page 327*
 
 ```statblock
+"dice": false
 "name": "Spark Mephit A5Emm"
 "size": "Small"
 "type": "Elemental"

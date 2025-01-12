@@ -13,6 +13,7 @@ aliases: ["redhag-tob1-2023", "Red Hag-tob2023"]
 *Source: Tome of Beasts 2023 Page 228*
 
 ```statblock
+"dice": false
 "name": "Red Hag Tob2023"
 "size": "Medium"
 "type": "Fey"

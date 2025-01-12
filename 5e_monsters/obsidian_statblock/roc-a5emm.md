@@ -13,6 +13,7 @@ aliases: ["roc-a5e", "Roc-a5emm"]
 *Source: A5e Monstrous Menagerie Page 458*
 
 ```statblock
+"dice": false
 "name": "Roc A5Emm"
 "size": "Gargantuan"
 "type": "Beast"

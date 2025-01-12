@@ -13,6 +13,7 @@ aliases: ["parzzval", "Parzz’val-tob2"]
 *Source: Tome of Beasts 2 Page 292*
 
 ```statblock
+"dice": false
 "name": "Parzz’Val Tob2"
 "size": "Large"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["dwarvenringmage-tob1-2023", "Dwarven Ringmage-tob2023"]
 *Source: Tome of Beasts 2023 Page 409*
 
 ```statblock
+"dice": false
 "name": "Dwarven Ringmage Tob2023"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["bone-lord", "Bone Lord-tob3"]
 *Source: Tome of Beasts 3 Page 65*
 
 ```statblock
+"dice": false
 "name": "Bone Lord Tob3"
 "size": "Huge"
 "type": "Undead"

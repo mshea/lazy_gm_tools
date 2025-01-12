@@ -13,6 +13,7 @@ aliases: ["cloudhoof-assassin", "Cloudhoof Assassin-tob3"]
 *Source: Tome of Beasts 3 Page 91*
 
 ```statblock
+"dice": false
 "name": "Cloudhoof Assassin Tob3"
 "size": "Medium"
 "type": "Beast"

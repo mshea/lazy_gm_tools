@@ -13,6 +13,7 @@ aliases: ["scarsupial", "Scarsupial-tob3"]
 *Source: Tome of Beasts 3 Page 339*
 
 ```statblock
+"dice": false
 "name": "Scarsupial Tob3"
 "size": "Small"
 "type": "Beast"

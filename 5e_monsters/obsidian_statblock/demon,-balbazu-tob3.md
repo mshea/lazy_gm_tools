@@ -13,6 +13,7 @@ aliases: ["demon-balbazu", "Demon, Balbazu-tob3"]
 *Source: Tome of Beasts 3 Page 107*
 
 ```statblock
+"dice": false
 "name": "Demon, Balbazu Tob3"
 "size": "Tiny"
 "type": "Fiend"

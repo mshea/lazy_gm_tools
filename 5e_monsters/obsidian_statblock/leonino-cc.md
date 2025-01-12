@@ -13,6 +13,7 @@ aliases: ["leonino", "Leonino-cc"]
 *Source: Creature Codex Page 250*
 
 ```statblock
+"dice": false
 "name": "Leonino Cc"
 "size": "Tiny"
 "type": "Beast"

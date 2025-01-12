@@ -13,6 +13,7 @@ aliases: ["windy-wailer", "Windy Wailer-tob2"]
 *Source: Tome of Beasts 2 Page 370*
 
 ```statblock
+"dice": false
 "name": "Windy Wailer Tob2"
 "size": "Large"
 "type": "Undead"

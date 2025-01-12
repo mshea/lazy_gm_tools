@@ -13,6 +13,7 @@ aliases: ["brass-dragon-wyrmling-a5e", "Brass Dragon Wyrmling-a5emm"]
 *Source: A5e Monstrous Menagerie Page 157*
 
 ```statblock
+"dice": false
 "name": "Brass Dragon Wyrmling A5Emm"
 "size": "Medium"
 "type": "Dragon"

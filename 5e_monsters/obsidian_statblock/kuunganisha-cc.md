@@ -13,6 +13,7 @@ aliases: ["kuunganisha", "Kuunganisha-cc"]
 *Source: Creature Codex Page 245*
 
 ```statblock
+"dice": false
 "name": "Kuunganisha Cc"
 "size": "Small"
 "type": "Fiend"

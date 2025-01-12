@@ -13,6 +13,7 @@ aliases: ["nephirron-devil", "Nephirron Devil-tob2"]
 *Source: Tome of Beasts 2 Page 104*
 
 ```statblock
+"dice": false
 "name": "Nephirron Devil Tob2"
 "size": "Huge"
 "type": "Fiend"

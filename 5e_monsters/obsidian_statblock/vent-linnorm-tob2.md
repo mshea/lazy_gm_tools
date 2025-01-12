@@ -13,6 +13,7 @@ aliases: ["vent-linnorm", "Vent Linnorm-tob2"]
 *Source: Tome of Beasts 2 Page 239*
 
 ```statblock
+"dice": false
 "name": "Vent Linnorm Tob2"
 "size": "Gargantuan"
 "type": "Dragon"

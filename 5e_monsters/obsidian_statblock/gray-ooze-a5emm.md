@@ -13,6 +13,7 @@ aliases: ["gray-ooze-a5e", "Gray Ooze-a5emm"]
 *Source: A5e Monstrous Menagerie Page 352*
 
 ```statblock
+"dice": false
 "name": "Gray Ooze A5Emm"
 "size": "Medium"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["shoggoth-tob1-2023", "Shoggoth-tob2023"]
 *Source: Tome of Beasts 2023 Page 326*
 
 ```statblock
+"dice": false
 "name": "Shoggoth Tob2023"
 "size": "Huge"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["salamander-monarch", "Salamander Monarch-tob2"]
 *Source: Tome of Beasts 2 Page 311*
 
 ```statblock
+"dice": false
 "name": "Salamander Monarch Tob2"
 "size": "Large"
 "type": "Elemental"

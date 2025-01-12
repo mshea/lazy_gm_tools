@@ -13,6 +13,7 @@ aliases: ["zeitgeist", "Zeitgeist-tob2"]
 *Source: Tome of Beasts 2 Page 383*
 
 ```statblock
+"dice": false
 "name": "Zeitgeist Tob2"
 "size": "Medium"
 "type": "Humanoid"

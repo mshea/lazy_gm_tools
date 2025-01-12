@@ -13,6 +13,7 @@ aliases: ["spectralguardian-tob1-2023", "Spectral Guardian-tob2023"]
 *Source: Tome of Beasts 2023 Page 338*
 
 ```statblock
+"dice": false
 "name": "Spectral Guardian Tob2023"
 "size": "Medium"
 "type": "Undead"

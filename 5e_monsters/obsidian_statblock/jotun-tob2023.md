@@ -13,6 +13,7 @@ aliases: ["jotun-tob1-2023", "Jotun-tob2023"]
 *Source: Tome of Beasts 2023 Page 209*
 
 ```statblock
+"dice": false
 "name": "Jotun Tob2023"
 "size": "Gargantuan"
 "type": "Giant"

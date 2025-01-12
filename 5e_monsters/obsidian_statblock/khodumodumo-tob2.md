@@ -13,6 +13,7 @@ aliases: ["khodumodumo", "Khodumodumo-tob2"]
 *Source: Tome of Beasts 2 Page 229*
 
 ```statblock
+"dice": false
 "name": "Khodumodumo Tob2"
 "size": "Gargantuan"
 "type": "Monstrosity"

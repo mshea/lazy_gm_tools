@@ -13,6 +13,7 @@ aliases: ["corpse-worm", "Corpse Worm-tob2"]
 *Source: Tome of Beasts 2 Page 71*
 
 ```statblock
+"dice": false
 "name": "Corpse Worm Tob2"
 "size": "Large"
 "type": "Monstrosity"

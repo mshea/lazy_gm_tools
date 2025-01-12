@@ -13,6 +13,7 @@ aliases: ["locksmith", "Locksmith-tob2"]
 *Source: Tome of Beasts 2 Page 240*
 
 ```statblock
+"dice": false
 "name": "Locksmith Tob2"
 "size": "Medium"
 "type": "Construct"

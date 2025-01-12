@@ -13,6 +13,7 @@ aliases: ["serpentfolk-of-yig", "Serpentfolk of Yig-cc"]
 *Source: Creature Codex Page 324*
 
 ```statblock
+"dice": false
 "name": "Serpentfolk Of Yig Cc"
 "size": "Medium"
 "type": "Humanoid"

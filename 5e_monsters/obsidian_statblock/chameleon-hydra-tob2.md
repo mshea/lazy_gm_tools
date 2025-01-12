@@ -13,6 +13,7 @@ aliases: ["chameleon-hydra", "Chameleon Hydra-tob2"]
 *Source: Tome of Beasts 2 Page 207*
 
 ```statblock
+"dice": false
 "name": "Chameleon Hydra Tob2"
 "size": "Huge"
 "type": "Monstrosity"

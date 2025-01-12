@@ -13,6 +13,7 @@ aliases: ["moonchild-naga", "Moonchild Naga-cc"]
 *Source: Creature Codex Page 273*
 
 ```statblock
+"dice": false
 "name": "Moonchild Naga Cc"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["quasit-familiar-a5e", "Quasit Familiar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 74*
 
 ```statblock
+"dice": false
 "name": "Quasit Familiar A5Emm"
 "size": "Tiny"
 "type": "Fiend"

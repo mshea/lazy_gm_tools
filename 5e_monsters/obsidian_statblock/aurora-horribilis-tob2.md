@@ -13,6 +13,7 @@ aliases: ["aurora-horribilis", "Aurora Horribilis-tob2"]
 *Source: Tome of Beasts 2 Page 34*
 
 ```statblock
+"dice": false
 "name": "Aurora Horribilis Tob2"
 "size": "Large"
 "type": "Aberration"

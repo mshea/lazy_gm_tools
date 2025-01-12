@@ -13,6 +13,7 @@ aliases: ["giant-shark-bowl", "Giant Shark Bowl-cc"]
 *Source: Creature Codex Page 284*
 
 ```statblock
+"dice": false
 "name": "Giant Shark Bowl Cc"
 "size": "Huge"
 "type": "Ooze"

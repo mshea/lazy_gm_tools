@@ -13,6 +13,7 @@ aliases: ["guard-squad-a5e", "Guard Squad-a5emm"]
 *Source: A5e Monstrous Menagerie Page 492*
 
 ```statblock
+"dice": false
 "name": "Guard Squad A5Emm"
 "size": "Large"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["major-malleable", "Major Malleable-tob2"]
 *Source: Tome of Beasts 2 Page 254*
 
 ```statblock
+"dice": false
 "name": "Major Malleable Tob2"
 "size": "Huge"
 "type": "Aberration"

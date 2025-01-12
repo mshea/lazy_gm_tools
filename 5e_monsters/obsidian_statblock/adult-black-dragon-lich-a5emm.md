@@ -13,6 +13,7 @@ aliases: ["adult-black-dragon-lich-a5e", "Adult Black Dragon Lich-a5emm"]
 *Source: A5e Monstrous Menagerie Page 96*
 
 ```statblock
+"dice": false
 "name": "Adult Black Dragon Lich A5Emm"
 "size": "Huge"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["giant-mole-lizard", "Giant Mole Lizard-tob3"]
 *Source: Tome of Beasts 3 Page 199*
 
 ```statblock
+"dice": false
 "name": "Giant Mole Lizard Tob3"
 "size": "Large"
 "type": "Beast"

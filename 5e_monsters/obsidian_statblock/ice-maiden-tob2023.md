@@ -13,6 +13,7 @@ aliases: ["icemaiden-tob1-2023", "Ice Maiden-tob2023"]
 *Source: Tome of Beasts 2023 Page 238*
 
 ```statblock
+"dice": false
 "name": "Ice Maiden Tob2023"
 "size": "Medium"
 "type": "Fey"

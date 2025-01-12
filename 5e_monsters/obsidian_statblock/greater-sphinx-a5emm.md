@@ -13,6 +13,7 @@ aliases: ["greater-sphinx-a5e", "Greater Sphinx-a5emm"]
 *Source: A5e Monstrous Menagerie Page 399*
 
 ```statblock
+"dice": false
 "name": "Greater Sphinx A5Emm"
 "size": "Huge"
 "type": "Monstrosity"

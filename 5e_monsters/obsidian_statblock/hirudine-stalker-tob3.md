@@ -13,6 +13,7 @@ aliases: ["hirudine-stalker", "Hirudine Stalker-tob3"]
 *Source: Tome of Beasts 3 Page 235*
 
 ```statblock
+"dice": false
 "name": "Hirudine Stalker Tob3"
 "size": "Medium"
 "type": "Monstrosity"

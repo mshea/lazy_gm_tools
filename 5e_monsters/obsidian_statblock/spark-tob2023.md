@@ -13,6 +13,7 @@ aliases: ["spark-tob1-2023", "Spark-tob2023"]
 *Source: Tome of Beasts 2023 Page 337*
 
 ```statblock
+"dice": false
 "name": "Spark Tob2023"
 "size": "Tiny"
 "type": "Elemental"

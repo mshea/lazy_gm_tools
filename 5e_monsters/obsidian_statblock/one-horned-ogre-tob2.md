@@ -13,6 +13,7 @@ aliases: ["one-horned-ogre", "One-Horned Ogre-tob2"]
 *Source: Tome of Beasts 2 Page 274*
 
 ```statblock
+"dice": false
 "name": "One Horned Ogre Tob2"
 "size": "Large"
 "type": "Giant"

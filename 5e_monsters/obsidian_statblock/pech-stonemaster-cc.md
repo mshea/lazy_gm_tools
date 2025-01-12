@@ -13,6 +13,7 @@ aliases: ["pech-stonemaster", "Pech Stonemaster-cc"]
 *Source: Creature Codex Page 295*
 
 ```statblock
+"dice": false
 "name": "Pech Stonemaster Cc"
 "size": "Small"
 "type": "Elemental"

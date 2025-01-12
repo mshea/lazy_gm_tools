@@ -13,6 +13,7 @@ aliases: ["clockworkabomination-tob1-2023", "Clockwork Abomination-tob2023"]
 *Source: Tome of Beasts 2023 Page 59*
 
 ```statblock
+"dice": false
 "name": "Clockwork Abomination Tob2023"
 "size": "Large"
 "type": "Construct"

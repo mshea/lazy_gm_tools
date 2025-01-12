@@ -13,6 +13,7 @@ aliases: ["swarmofmanabanescarabs-tob1-2023", "Swarm of Manabane Scarabs-tob2023
 *Source: Tome of Beasts 2023 Page 355*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Manabane Scarabs Tob2023"
 "size": "Medium"
 "type": "Swarm"

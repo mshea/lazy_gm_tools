@@ -13,6 +13,7 @@ aliases: ["wormheartedsuffragan-tob1-2023", "Wormhearted Suffragan-tob2023"]
 *Source: Tome of Beasts 2023 Page 398*
 
 ```statblock
+"dice": false
 "name": "Wormhearted Suffragan Tob2023"
 "size": "Medium"
 "type": "Undead"

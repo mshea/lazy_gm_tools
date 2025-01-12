@@ -13,6 +13,7 @@ aliases: ["white-stag", "White Stag-cc"]
 *Source: Creature Codex Page 379*
 
 ```statblock
+"dice": false
 "name": "White Stag Cc"
 "size": "Large"
 "type": "Celestial"

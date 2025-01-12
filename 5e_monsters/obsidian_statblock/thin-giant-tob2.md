@@ -13,6 +13,7 @@ aliases: ["thin-giant", "Thin Giant-tob2"]
 *Source: Tome of Beasts 2 Page 175*
 
 ```statblock
+"dice": false
 "name": "Thin Giant Tob2"
 "size": "Huge"
 "type": "Giant"

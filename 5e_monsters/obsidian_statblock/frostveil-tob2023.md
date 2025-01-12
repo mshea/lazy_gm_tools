@@ -13,6 +13,7 @@ aliases: ["frostveil-tob1-2023", "Frostveil-tob2023"]
 *Source: Tome of Beasts 2023 Page 193*
 
 ```statblock
+"dice": false
 "name": "Frostveil Tob2023"
 "size": "Medium"
 "type": "Plant"

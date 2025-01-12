@@ -13,6 +13,7 @@ aliases: ["devil-shark", "Devil Shark-cc"]
 *Source: Creature Codex Page 98*
 
 ```statblock
+"dice": false
 "name": "Devil Shark Cc"
 "size": "Gargantuan"
 "type": "Monstrosity"

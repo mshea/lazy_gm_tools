@@ -13,6 +13,7 @@ aliases: ["gug-tob1-2023", "Gug-tob2023"]
 *Source: Tome of Beasts 2023 Page 225*
 
 ```statblock
+"dice": false
 "name": "Gug Tob2023"
 "size": "Huge"
 "type": "Giant"

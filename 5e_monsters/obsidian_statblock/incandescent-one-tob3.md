@@ -13,6 +13,7 @@ aliases: ["incandescent-one", "Incandescent One-tob3"]
 *Source: Tome of Beasts 3 Page 244*
 
 ```statblock
+"dice": false
 "name": "Incandescent One Tob3"
 "size": "Medium"
 "type": "Celestial"

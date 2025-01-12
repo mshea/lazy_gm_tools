@@ -13,6 +13,7 @@ aliases: ["tiger-a5e", "Tiger-a5emm"]
 *Source: A5e Monstrous Menagerie Page 462*
 
 ```statblock
+"dice": false
 "name": "Tiger A5Emm"
 "size": "Large"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["cultist-a5e", "Cultist-a5emm"]
 *Source: A5e Monstrous Menagerie Page 472*
 
 ```statblock
+"dice": false
 "name": "Cultist A5Emm"
 "size": "Medium"
 "type": "Humanoid"

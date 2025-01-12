@@ -13,6 +13,7 @@ aliases: ["mule-a5e", "Mule-a5emm"]
 *Source: A5e Monstrous Menagerie Page 455*
 
 ```statblock
+"dice": false
 "name": "Mule A5Emm"
 "size": "Medium"
 "type": "Beast"

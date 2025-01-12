@@ -13,6 +13,7 @@ aliases: ["ion-slime", "Ion Slime-tob3"]
 *Source: Tome of Beasts 3 Page 245*
 
 ```statblock
+"dice": false
 "name": "Ion Slime Tob3"
 "size": "Small"
 "type": "Ooze"

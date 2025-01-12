@@ -13,6 +13,7 @@ aliases: ["nichny-tob1-2023", "Nichny-tob2023"]
 *Source: Tome of Beasts 2023 Page 284*
 
 ```statblock
+"dice": false
 "name": "Nichny Tob2023"
 "size": "Medium"
 "type": "Fey"

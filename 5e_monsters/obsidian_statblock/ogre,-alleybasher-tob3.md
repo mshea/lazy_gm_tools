@@ -13,6 +13,7 @@ aliases: ["ogre-alleybasher", "Ogre, Alleybasher-tob3"]
 *Source: Tome of Beasts 3 Page 297*
 
 ```statblock
+"dice": false
 "name": "Ogre, Alleybasher Tob3"
 "size": "Large"
 "type": "Giant"

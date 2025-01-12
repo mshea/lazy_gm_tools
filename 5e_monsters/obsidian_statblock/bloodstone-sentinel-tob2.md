@@ -13,6 +13,7 @@ aliases: ["bloodstone-sentinel", "Bloodstone Sentinel-tob2"]
 *Source: Tome of Beasts 2 Page 45*
 
 ```statblock
+"dice": false
 "name": "Bloodstone Sentinel Tob2"
 "size": "Large"
 "type": "Construct"

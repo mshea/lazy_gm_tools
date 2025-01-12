@@ -13,6 +13,7 @@ aliases: ["dwarf-pike-guard-captain", "Dwarf, Pike Guard Captain-tob3"]
 *Source: Tome of Beasts 3 Page 166*
 
 ```statblock
+"dice": false
 "name": "Dwarf, Pike Guard Captain Tob3"
 "size": "Medium"
 "type": "Humanoid"

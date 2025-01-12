@@ -13,6 +13,7 @@ aliases: ["vampire-mage-a5e", "Vampire Mage-a5emm"]
 *Source: A5e Monstrous Menagerie Page 420*
 
 ```statblock
+"dice": false
 "name": "Vampire Mage A5Emm"
 "size": "Medium"
 "type": "Undead"

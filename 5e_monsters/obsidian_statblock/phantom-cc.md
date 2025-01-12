@@ -13,6 +13,7 @@ aliases: ["phantom", "Phantom-cc"]
 *Source: Creature Codex Page 296*
 
 ```statblock
+"dice": false
 "name": "Phantom Cc"
 "size": "Medium"
 "type": "Undead"

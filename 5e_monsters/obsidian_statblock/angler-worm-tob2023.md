@@ -13,6 +13,7 @@ aliases: ["anglerworm-tob1-2023", "Angler Worm-tob2023"]
 *Source: Tome of Beasts 2023 Page 20*
 
 ```statblock
+"dice": false
 "name": "Angler Worm Tob2023"
 "size": "Huge"
 "type": "Monstrosity"

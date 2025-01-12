@@ -13,6 +13,7 @@ aliases: ["soil-snake", "Soil Snake-tob3"]
 *Source: Tome of Beasts 3 Page 351*
 
 ```statblock
+"dice": false
 "name": "Soil Snake Tob3"
 "size": "Huge"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["alabroza-bloodfiend", "Alabroza, Bloodfiend-tob3"]
 *Source: Tome of Beasts 3 Page 13*
 
 ```statblock
+"dice": false
 "name": "Alabroza, Bloodfiend Tob3"
 "size": "Small"
 "type": "Fiend"

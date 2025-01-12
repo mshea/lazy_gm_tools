@@ -13,6 +13,7 @@ aliases: ["destroyer", "Destroyer-tob2"]
 *Source: Tome of Beasts 2 Page 315*
 
 ```statblock
+"dice": false
 "name": "Destroyer Tob2"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["otterfolk", "Otterfolk-tob2"]
 *Source: Tome of Beasts 2 Page 288*
 
 ```statblock
+"dice": false
 "name": "Otterfolk Tob2"
 "size": "Small"
 "type": "Humanoid"

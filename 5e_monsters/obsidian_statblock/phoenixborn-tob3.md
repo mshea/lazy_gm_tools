@@ -13,6 +13,7 @@ aliases: ["phoenixborn", "Phoenixborn-tob3"]
 *Source: Tome of Beasts 3 Page 316*
 
 ```statblock
+"dice": false
 "name": "Phoenixborn Tob3"
 "size": "Medium"
 "type": "Humanoid"

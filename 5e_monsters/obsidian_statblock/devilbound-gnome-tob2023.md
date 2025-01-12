@@ -13,6 +13,7 @@ aliases: ["devilboundgnome-tob1-2023", "Devilbound Gnome-tob2023"]
 *Source: Tome of Beasts 2023 Page 408*
 
 ```statblock
+"dice": false
 "name": "Devilbound Gnome Tob2023"
 "size": "Small"
 "type": "Humanoid"

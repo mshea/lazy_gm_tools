@@ -13,6 +13,7 @@ aliases: ["peri", "Peri-tob3"]
 *Source: Tome of Beasts 3 Page 314*
 
 ```statblock
+"dice": false
 "name": "Peri Tob3"
 "size": "Small"
 "type": "Elemental"

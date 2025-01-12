@@ -13,6 +13,7 @@ aliases: ["ink-guardian", "Ink Guardian-cc"]
 *Source: Creature Codex Page 285*
 
 ```statblock
+"dice": false
 "name": "Ink Guardian Cc"
 "size": "Large"
 "type": "Ooze"

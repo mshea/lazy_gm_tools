@@ -13,6 +13,7 @@ aliases: ["orobasdevil-tob1-2023", "Orobas Devil-tob2023"]
 *Source: Tome of Beasts 2023 Page 99*
 
 ```statblock
+"dice": false
 "name": "Orobas Devil Tob2023"
 "size": "Large"
 "type": "Fiend"

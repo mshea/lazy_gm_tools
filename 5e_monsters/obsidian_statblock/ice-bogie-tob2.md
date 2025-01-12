@@ -13,6 +13,7 @@ aliases: ["ice-bogie", "Ice Bogie-tob2"]
 *Source: Tome of Beasts 2 Page 209*
 
 ```statblock
+"dice": false
 "name": "Ice Bogie Tob2"
 "size": "Small"
 "type": "Fey"

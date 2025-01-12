@@ -13,6 +13,7 @@ aliases: ["herald-of-slaughter", "Herald of Slaughter-tob2"]
 *Source: Tome of Beasts 2 Page 198*
 
 ```statblock
+"dice": false
 "name": "Herald Of Slaughter Tob2"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["putridhaunt-tob1-2023", "Putrid Haunt-tob2023"]
 *Source: Tome of Beasts 2023 Page 296*
 
 ```statblock
+"dice": false
 "name": "Putrid Haunt Tob2023"
 "size": "Medium"
 "type": "Undead"

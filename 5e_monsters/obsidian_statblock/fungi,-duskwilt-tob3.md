@@ -13,6 +13,7 @@ aliases: ["fungi-duskwilt", "Fungi, Duskwilt-tob3"]
 *Source: Tome of Beasts 3 Page 190*
 
 ```statblock
+"dice": false
 "name": "Fungi, Duskwilt Tob3"
 "size": "Small"
 "type": "Plant"

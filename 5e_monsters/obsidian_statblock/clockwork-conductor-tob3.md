@@ -13,6 +13,7 @@ aliases: ["clockwork-conductor", "Clockwork Conductor-tob3"]
 *Source: Tome of Beasts 3 Page 87*
 
 ```statblock
+"dice": false
 "name": "Clockwork Conductor Tob3"
 "size": "Small"
 "type": "Construct"

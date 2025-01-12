@@ -13,6 +13,7 @@ aliases: ["ancient-aboleth-a5e", "Ancient Aboleth-a5emm"]
 *Source: A5e Monstrous Menagerie Page 17*
 
 ```statblock
+"dice": false
 "name": "Ancient Aboleth A5Emm"
 "size": "Huge"
 "type": "Aberration"

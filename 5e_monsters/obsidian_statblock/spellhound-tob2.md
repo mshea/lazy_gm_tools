@@ -13,6 +13,7 @@ aliases: ["spellhound", "Spellhound-tob2"]
 *Source: Tome of Beasts 2 Page 336*
 
 ```statblock
+"dice": false
 "name": "Spellhound Tob2"
 "size": "Large"
 "type": "Monstrosity"

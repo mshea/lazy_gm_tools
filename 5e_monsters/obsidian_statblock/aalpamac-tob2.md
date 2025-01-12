@@ -13,6 +13,7 @@ aliases: ["aalpamac", "Aalpamac-tob2"]
 *Source: Tome of Beasts 2 Page 8*
 
 ```statblock
+"dice": false
 "name": "Aalpamac Tob2"
 "size": "Huge"
 "type": "Monstrosity"

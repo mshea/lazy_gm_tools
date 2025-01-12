@@ -13,6 +13,7 @@ aliases: ["owl-a5e", "Owl-a5emm"]
 *Source: A5e Monstrous Menagerie Page 455*
 
 ```statblock
+"dice": false
 "name": "Owl A5Emm"
 "size": "Tiny"
 "type": "Beast"

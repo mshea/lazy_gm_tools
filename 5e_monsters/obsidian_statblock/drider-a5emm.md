@@ -13,6 +13,7 @@ aliases: ["drider-a5e", "Drider-a5emm"]
 *Source: A5e Monstrous Menagerie Page 187*
 
 ```statblock
+"dice": false
 "name": "Drider A5Emm"
 "size": "Large"
 "type": "Monstrosity"

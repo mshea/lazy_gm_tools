@@ -13,6 +13,7 @@ aliases: ["dogmolejuggernaut-tob1-2023", "Dogmole Juggernaut-tob2023"]
 *Source: Tome of Beasts 2023 Page 107*
 
 ```statblock
+"dice": false
 "name": "Dogmole Juggernaut Tob2023"
 "size": "Large"
 "type": "Monstrosity"

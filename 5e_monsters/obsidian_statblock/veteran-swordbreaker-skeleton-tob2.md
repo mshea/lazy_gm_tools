@@ -13,6 +13,7 @@ aliases: ["veteran-swordbreaker-skeleton", "Veteran Swordbreaker Skeleton-tob2"]
 *Source: Tome of Beasts 2 Page 332*
 
 ```statblock
+"dice": false
 "name": "Veteran Swordbreaker Skeleton Tob2"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["stargazer", "Stargazer-tob3"]
 *Source: Tome of Beasts 3 Page 354*
 
 ```statblock
+"dice": false
 "name": "Stargazer Tob3"
 "size": "Huge"
 "type": "Monstrosity"

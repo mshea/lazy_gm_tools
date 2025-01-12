@@ -13,6 +13,7 @@ aliases: ["infernal-swarm", "Infernal Swarm-tob2"]
 *Source: Tome of Beasts 2 Page 215*
 
 ```statblock
+"dice": false
 "name": "Infernal Swarm Tob2"
 "size": "Huge"
 "type": "Fiend"

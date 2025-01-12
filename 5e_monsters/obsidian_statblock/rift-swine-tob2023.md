@@ -13,6 +13,7 @@ aliases: ["riftswine-tob1-2023", "Rift Swine-tob2023"]
 *Source: Tome of Beasts 2023 Page 307*
 
 ```statblock
+"dice": false
 "name": "Rift Swine Tob2023"
 "size": "Large"
 "type": "Aberration"

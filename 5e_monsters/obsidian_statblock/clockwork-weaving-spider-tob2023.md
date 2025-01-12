@@ -13,6 +13,7 @@ aliases: ["clockworkweavingspider-tob1-2023", "Clockwork Weaving Spider-tob2023"
 *Source: Tome of Beasts 2023 Page 65*
 
 ```statblock
+"dice": false
 "name": "Clockwork Weaving Spider Tob2023"
 "size": "Tiny"
 "type": "Construct"

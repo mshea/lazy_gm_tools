@@ -13,6 +13,7 @@ aliases: ["elemental-permafrost", "Elemental, Permafrost-tob3"]
 *Source: Tome of Beasts 3 Page 167*
 
 ```statblock
+"dice": false
 "name": "Elemental, Permafrost Tob3"
 "size": "Large"
 "type": "Elemental"

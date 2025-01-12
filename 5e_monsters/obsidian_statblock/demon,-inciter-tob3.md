@@ -13,6 +13,7 @@ aliases: ["demon-inciter", "Demon, Inciter-tob3"]
 *Source: Tome of Beasts 3 Page 108*
 
 ```statblock
+"dice": false
 "name": "Demon, Inciter Tob3"
 "size": "Medium"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["pillar-of-the-lost-magocracy", "Pillar of the Lost Magocracy-cc"]
 *Source: Creature Codex Page 299*
 
 ```statblock
+"dice": false
 "name": "Pillar Of The Lost Magocracy Cc"
 "size": "Huge"
 "type": "Construct"

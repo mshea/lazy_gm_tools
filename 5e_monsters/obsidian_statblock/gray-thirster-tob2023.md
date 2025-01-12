@@ -13,6 +13,7 @@ aliases: ["graythirster-tob1-2023", "Gray Thirster-tob2023"]
 *Source: Tome of Beasts 2023 Page 221*
 
 ```statblock
+"dice": false
 "name": "Gray Thirster Tob2023"
 "size": "Medium"
 "type": "Undead"

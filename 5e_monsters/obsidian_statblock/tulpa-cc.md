@@ -13,6 +13,7 @@ aliases: ["tulpa", "Tulpa-cc"]
 *Source: Creature Codex Page 358*
 
 ```statblock
+"dice": false
 "name": "Tulpa Cc"
 "size": "Medium"
 "type": "Undead"

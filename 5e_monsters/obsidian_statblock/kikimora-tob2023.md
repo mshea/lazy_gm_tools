@@ -13,6 +13,7 @@ aliases: ["kikimora-tob1-2023", "Kikimora-tob2023"]
 *Source: Tome of Beasts 2023 Page 243*
 
 ```statblock
+"dice": false
 "name": "Kikimora Tob2023"
 "size": "Medium"
 "type": "Fey"

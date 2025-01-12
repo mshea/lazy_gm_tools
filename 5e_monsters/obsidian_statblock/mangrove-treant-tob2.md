@@ -13,6 +13,7 @@ aliases: ["mangrove-treant", "Mangrove Treant-tob2"]
 *Source: Tome of Beasts 2 Page 350*
 
 ```statblock
+"dice": false
 "name": "Mangrove Treant Tob2"
 "size": "Huge"
 "type": "Plant"

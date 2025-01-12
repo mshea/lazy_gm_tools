@@ -13,6 +13,7 @@ aliases: ["stormboar", "Stormboar-tob2"]
 *Source: Tome of Beasts 2 Page 341*
 
 ```statblock
+"dice": false
 "name": "Stormboar Tob2"
 "size": "Large"
 "type": "Monstrosity"

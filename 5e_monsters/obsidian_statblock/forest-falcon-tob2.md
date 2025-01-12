@@ -13,6 +13,7 @@ aliases: ["forest-falcon", "Forest Falcon-tob2"]
 *Source: Tome of Beasts 2 Page 390*
 
 ```statblock
+"dice": false
 "name": "Forest Falcon Tob2"
 "size": "Medium"
 "type": "Beast"

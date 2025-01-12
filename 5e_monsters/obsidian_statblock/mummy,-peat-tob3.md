@@ -13,6 +13,7 @@ aliases: ["mummy-peat", "Mummy, Peat-tob3"]
 *Source: Tome of Beasts 3 Page 280*
 
 ```statblock
+"dice": false
 "name": "Mummy, Peat Tob3"
 "size": "Medium"
 "type": "Undead"

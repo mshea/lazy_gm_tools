@@ -13,6 +13,7 @@ aliases: ["bearfolk-thunderstomper", "Bearfolk Thunderstomper-tob3"]
 *Source: Tome of Beasts 3 Page 53*
 
 ```statblock
+"dice": false
 "name": "Bearfolk Thunderstomper Tob3"
 "size": "Medium"
 "type": "Humanoid"

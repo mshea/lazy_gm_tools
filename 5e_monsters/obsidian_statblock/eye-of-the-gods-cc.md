@@ -13,6 +13,7 @@ aliases: ["eye-of-the-gods", "Eye of the Gods-cc"]
 *Source: Creature Codex Page 16*
 
 ```statblock
+"dice": false
 "name": "Eye Of The Gods Cc"
 "size": "Small"
 "type": "Celestial"

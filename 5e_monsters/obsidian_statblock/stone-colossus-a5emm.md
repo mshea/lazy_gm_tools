@@ -13,6 +13,7 @@ aliases: ["stone-colossus-a5e", "Stone Colossus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 266*
 
 ```statblock
+"dice": false
 "name": "Stone Colossus A5Emm"
 "size": "Gargantuan"
 "type": "Construct"

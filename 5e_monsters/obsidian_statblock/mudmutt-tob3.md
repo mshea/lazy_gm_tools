@@ -13,6 +13,7 @@ aliases: ["mudmutt", "Mudmutt-tob3"]
 *Source: Tome of Beasts 3 Page 279*
 
 ```statblock
+"dice": false
 "name": "Mudmutt Tob3"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["ratking-tob1-2023", "Rat King-tob2023"]
 *Source: Tome of Beasts 2023 Page 300*
 
 ```statblock
+"dice": false
 "name": "Rat King Tob2023"
 "size": "Medium"
 "type": "Monstrosity"

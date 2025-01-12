@@ -13,6 +13,7 @@ aliases: ["seahorse-a5e", "Seahorse-a5emm"]
 *Source: A5e Monstrous Menagerie Page 459*
 
 ```statblock
+"dice": false
 "name": "Seahorse A5Emm"
 "size": "Tiny"
 "type": "Beast"

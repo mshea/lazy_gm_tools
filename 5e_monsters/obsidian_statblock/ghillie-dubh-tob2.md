@@ -13,6 +13,7 @@ aliases: ["ghillie-dubh", "Ghillie Dubh-tob2"]
 *Source: Tome of Beasts 2 Page 165*
 
 ```statblock
+"dice": false
 "name": "Ghillie Dubh Tob2"
 "size": "Medium"
 "type": "Celestial"

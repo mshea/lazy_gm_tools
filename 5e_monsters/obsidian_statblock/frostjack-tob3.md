@@ -13,6 +13,7 @@ aliases: ["frostjack", "Frostjack-tob3"]
 *Source: Tome of Beasts 3 Page 189*
 
 ```statblock
+"dice": false
 "name": "Frostjack Tob3"
 "size": "Medium"
 "type": "Fey"

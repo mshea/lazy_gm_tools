@@ -13,6 +13,7 @@ aliases: ["truant-devourer", "Truant Devourer-tob3"]
 *Source: Tome of Beasts 3 Page 378*
 
 ```statblock
+"dice": false
 "name": "Truant Devourer Tob3"
 "size": "Medium"
 "type": "Undead"

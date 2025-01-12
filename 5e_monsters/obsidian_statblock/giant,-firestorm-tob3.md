@@ -13,6 +13,7 @@ aliases: ["giant-firestorm", "Giant, Firestorm-tob3"]
 *Source: Tome of Beasts 3 Page 202*
 
 ```statblock
+"dice": false
 "name": "Giant, Firestorm Tob3"
 "size": "Huge"
 "type": "Giant"

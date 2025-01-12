@@ -13,6 +13,7 @@ aliases: ["oaken-sentinel", "Oaken Sentinel-tob3"]
 *Source: Tome of Beasts 3 Page 293*
 
 ```statblock
+"dice": false
 "name": "Oaken Sentinel Tob3"
 "size": "Huge"
 "type": "Plant"

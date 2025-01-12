@@ -13,6 +13,7 @@ aliases: ["nalfeshnee-a5e", "Nalfeshnee-a5emm"]
 *Source: A5e Monstrous Menagerie Page 72*
 
 ```statblock
+"dice": false
 "name": "Nalfeshnee A5Emm"
 "size": "Large"
 "type": "Fiend"

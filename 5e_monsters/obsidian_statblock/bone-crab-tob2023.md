@@ -13,6 +13,7 @@ aliases: ["bonecrab-tob1-2023", "Bone Crab-tob2023"]
 *Source: Tome of Beasts 2023 Page 40*
 
 ```statblock
+"dice": false
 "name": "Bone Crab Tob2023"
 "size": "Small"
 "type": "Beast"

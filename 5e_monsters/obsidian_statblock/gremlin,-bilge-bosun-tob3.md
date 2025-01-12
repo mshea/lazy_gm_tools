@@ -13,6 +13,7 @@ aliases: ["gremlin-bilge-bosun", "Gremlin, Bilge Bosun-tob3"]
 *Source: Tome of Beasts 3 Page 219*
 
 ```statblock
+"dice": false
 "name": "Gremlin, Bilge Bosun Tob3"
 "size": "Small"
 "type": "Fey"

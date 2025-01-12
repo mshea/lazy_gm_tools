@@ -13,6 +13,7 @@ aliases: ["giant-thursir-hearth-priestess", "Giant, Thursir Hearth Priestess-tob
 *Source: Tome of Beasts 3 Page 207*
 
 ```statblock
+"dice": false
 "name": "Giant, Thursir Hearth Priestess Tob3"
 "size": "Large"
 "type": "Giant"

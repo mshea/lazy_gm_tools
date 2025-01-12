@@ -13,6 +13,7 @@ aliases: ["horde-of-shadows-a5e", "Horde of Shadows-a5emm"]
 *Source: A5e Monstrous Menagerie Page None*
 
 ```statblock
+"dice": false
 "name": "Horde Of Shadows A5Emm"
 "size": "Large"
 "type": "Undead"

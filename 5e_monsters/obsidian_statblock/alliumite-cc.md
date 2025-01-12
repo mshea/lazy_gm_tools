@@ -13,6 +13,7 @@ aliases: ["alliumite", "Alliumite-cc"]
 *Source: Creature Codex Page 13*
 
 ```statblock
+"dice": false
 "name": "Alliumite Cc"
 "size": "Small"
 "type": "Plant"

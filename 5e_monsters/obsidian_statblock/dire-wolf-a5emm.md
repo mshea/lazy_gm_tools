@@ -13,6 +13,7 @@ aliases: ["dire-wolf-a5e", "Dire Wolf-a5emm"]
 *Source: A5e Monstrous Menagerie Page 443*
 
 ```statblock
+"dice": false
 "name": "Dire Wolf A5Emm"
 "size": "Large"
 "type": "Beast"

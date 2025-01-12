@@ -13,6 +13,7 @@ aliases: ["vampire-assassin-a5e", "Vampire Assassin-a5emm"]
 *Source: A5e Monstrous Menagerie Page 420*
 
 ```statblock
+"dice": false
 "name": "Vampire Assassin A5Emm"
 "size": "Medium"
 "type": "Undead"

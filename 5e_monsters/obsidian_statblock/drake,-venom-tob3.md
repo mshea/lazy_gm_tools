@@ -13,6 +13,7 @@ aliases: ["drake-venom", "Drake, Venom-tob3"]
 *Source: Tome of Beasts 3 Page 158*
 
 ```statblock
+"dice": false
 "name": "Drake, Venom Tob3"
 "size": "Large"
 "type": "Dragon"

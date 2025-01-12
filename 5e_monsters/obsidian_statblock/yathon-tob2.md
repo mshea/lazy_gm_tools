@@ -13,6 +13,7 @@ aliases: ["yathon", "Yathon-tob2"]
 *Source: Tome of Beasts 2 Page 378*
 
 ```statblock
+"dice": false
 "name": "Yathon Tob2"
 "size": "Large"
 "type": "Humanoid"

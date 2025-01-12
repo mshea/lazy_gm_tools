@@ -13,6 +13,7 @@ aliases: ["ogre-a5e", "Ogre-a5emm"]
 *Source: A5e Monstrous Menagerie Page 346*
 
 ```statblock
+"dice": false
 "name": "Ogre A5Emm"
 "size": "Large"
 "type": "Giant"

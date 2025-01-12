@@ -13,6 +13,7 @@ aliases: ["sapdemon-tob1-2023", "Sap Demon-tob2023"]
 *Source: Tome of Beasts 2023 Page 315*
 
 ```statblock
+"dice": false
 "name": "Sap Demon Tob2023"
 "size": "Small"
 "type": "Ooze"

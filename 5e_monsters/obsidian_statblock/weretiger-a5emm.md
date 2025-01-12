@@ -13,6 +13,7 @@ aliases: ["weretiger-a5e", "Weretiger-a5emm"]
 *Source: A5e Monstrous Menagerie Page 314*
 
 ```statblock
+"dice": false
 "name": "Weretiger A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["ice-devil-a5e", "Ice Devil-a5emm"]
 *Source: A5e Monstrous Menagerie Page 84*
 
 ```statblock
+"dice": false
 "name": "Ice Devil A5Emm"
 "size": "Large"
 "type": "Fiend"

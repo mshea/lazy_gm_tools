@@ -13,6 +13,7 @@ aliases: ["boggard-bravo-a5e", "Boggard Bravo-a5emm"]
 *Source: A5e Monstrous Menagerie Page 36*
 
 ```statblock
+"dice": false
 "name": "Boggard Bravo A5Emm"
 "size": "Medium"
 "type": "Humanoid"

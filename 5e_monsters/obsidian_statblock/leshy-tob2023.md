@@ -13,6 +13,7 @@ aliases: ["leshy-tob1-2023", "Leshy-tob2023"]
 *Source: Tome of Beasts 2023 Page 251*
 
 ```statblock
+"dice": false
 "name": "Leshy Tob2023"
 "size": "Medium"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["corrupted-unicorn-a5e", "Corrupted Unicorn-a5emm"]
 *Source: A5e Monstrous Menagerie Page 416*
 
 ```statblock
+"dice": false
 "name": "Corrupted Unicorn A5Emm"
 "size": "Large"
 "type": "Celestial"

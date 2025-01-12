@@ -13,6 +13,7 @@ aliases: ["talus-flow", "Talus Flow-tob3"]
 *Source: Tome of Beasts 3 Page 365*
 
 ```statblock
+"dice": false
 "name": "Talus Flow Tob3"
 "size": "Large"
 "type": "Elemental"

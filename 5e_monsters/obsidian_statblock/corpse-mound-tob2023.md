@@ -13,6 +13,7 @@ aliases: ["corpsemound-tob1-2023", "Corpse Mound-tob2023"]
 *Source: Tome of Beasts 2023 Page 68*
 
 ```statblock
+"dice": false
 "name": "Corpse Mound Tob2023"
 "size": "Huge"
 "type": "Undead"

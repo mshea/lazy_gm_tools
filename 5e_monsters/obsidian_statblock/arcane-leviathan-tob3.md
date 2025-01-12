@@ -13,6 +13,7 @@ aliases: ["arcane-leviathan", "Arcane Leviathan-tob3"]
 *Source: Tome of Beasts 3 Page 40*
 
 ```statblock
+"dice": false
 "name": "Arcane Leviathan Tob3"
 "size": "Gargantuan"
 "type": "Construct"

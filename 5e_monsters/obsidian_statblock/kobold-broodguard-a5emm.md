@@ -13,6 +13,7 @@ aliases: ["kobold-broodguard-a5e", "Kobold Broodguard-a5emm"]
 *Source: A5e Monstrous Menagerie Page 298*
 
 ```statblock
+"dice": false
 "name": "Kobold Broodguard A5Emm"
 "size": "Small"
 "type": "Humanoid"

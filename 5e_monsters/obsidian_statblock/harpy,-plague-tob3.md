@@ -13,6 +13,7 @@ aliases: ["harpy-plague", "Harpy, Plague-tob3"]
 *Source: Tome of Beasts 3 Page 229*
 
 ```statblock
+"dice": false
 "name": "Harpy, Plague Tob3"
 "size": "Medium"
 "type": "Monstrosity"

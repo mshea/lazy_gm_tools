@@ -13,6 +13,7 @@ aliases: ["mbielu-tob1-2023", "Mbielu-tob2023"]
 *Source: Tome of Beasts 2023 Page 101*
 
 ```statblock
+"dice": false
 "name": "Mbielu Tob2023"
 "size": "Huge"
 "type": "Beast"

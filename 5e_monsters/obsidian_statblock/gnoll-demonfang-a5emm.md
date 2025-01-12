@@ -13,6 +13,7 @@ aliases: ["gnoll-demonfang-a5e", "Gnoll Demonfang-a5emm"]
 *Source: A5e Monstrous Menagerie Page 247*
 
 ```statblock
+"dice": false
 "name": "Gnoll Demonfang A5Emm"
 "size": "Medium"
 "type": "Humanoid"

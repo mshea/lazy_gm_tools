@@ -13,6 +13,7 @@ aliases: ["lakescourge-lotus", "Lakescourge Lotus-tob3"]
 *Source: Tome of Beasts 3 Page 258*
 
 ```statblock
+"dice": false
 "name": "Lakescourge Lotus Tob3"
 "size": "Medium"
 "type": "Undead"

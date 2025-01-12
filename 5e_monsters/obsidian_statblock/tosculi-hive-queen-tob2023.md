@@ -13,6 +13,7 @@ aliases: ["tosculihivequeen-tob1-2023", "Tosculi Hive Queen-tob2023"]
 *Source: Tome of Beasts 2023 Page 366*
 
 ```statblock
+"dice": false
 "name": "Tosculi Hive Queen Tob2023"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["ooze-scintillating", "Ooze, Scintillating-tob3"]
 *Source: Tome of Beasts 3 Page 307*
 
 ```statblock
+"dice": false
 "name": "Ooze, Scintillating Tob3"
 "size": "Large"
 "type": "Ooze"

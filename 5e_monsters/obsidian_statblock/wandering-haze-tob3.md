@@ -13,6 +13,7 @@ aliases: ["wandering-haze", "Wandering Haze-tob3"]
 *Source: Tome of Beasts 3 Page 389*
 
 ```statblock
+"dice": false
 "name": "Wandering Haze Tob3"
 "size": "Gargantuan"
 "type": "Ooze"

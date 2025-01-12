@@ -13,6 +13,7 @@ aliases: ["darkmantle-a5e", "Darkmantle-a5emm"]
 *Source: A5e Monstrous Menagerie Page 60*
 
 ```statblock
+"dice": false
 "name": "Darkmantle A5Emm"
 "size": "Small"
 "type": "Monstrosity"

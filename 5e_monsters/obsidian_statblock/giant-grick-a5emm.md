@@ -13,6 +13,7 @@ aliases: ["giant-grick-a5e", "Giant Grick-a5emm"]
 *Source: A5e Monstrous Menagerie Page 255*
 
 ```statblock
+"dice": false
 "name": "Giant Grick A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["hobgoblin-captain-a5e", "Hobgoblin Captain-a5emm"]
 *Source: A5e Monstrous Menagerie Page 281*
 
 ```statblock
+"dice": false
 "name": "Hobgoblin Captain A5Emm"
 "size": "Medium"
 "type": "Humanoid"

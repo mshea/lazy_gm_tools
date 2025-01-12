@@ -13,6 +13,7 @@ aliases: ["mahoru-tob1-2023", "Mahoru-tob2023"]
 *Source: Tome of Beasts 2023 Page 260*
 
 ```statblock
+"dice": false
 "name": "Mahoru Tob2023"
 "size": "Large"
 "type": "Monstrosity"

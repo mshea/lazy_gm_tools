@@ -13,6 +13,7 @@ aliases: ["attercroppe", "Attercroppe-tob2"]
 *Source: Tome of Beasts 2 Page 32*
 
 ```statblock
+"dice": false
 "name": "Attercroppe Tob2"
 "size": "Tiny"
 "type": "Fey"

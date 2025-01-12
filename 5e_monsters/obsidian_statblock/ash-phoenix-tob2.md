@@ -13,6 +13,7 @@ aliases: ["ash-phoenix", "Ash Phoenix-tob2"]
 *Source: Tome of Beasts 2 Page 28*
 
 ```statblock
+"dice": false
 "name": "Ash Phoenix Tob2"
 "size": "Large"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["chronalmental-tob1-2023", "Chronalmental-tob2023"]
 *Source: Tome of Beasts 2023 Page 56*
 
 ```statblock
+"dice": false
 "name": "Chronalmental Tob2023"
 "size": "Large"
 "type": "Elemental"

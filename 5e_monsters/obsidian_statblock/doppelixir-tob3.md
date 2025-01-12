@@ -13,6 +13,7 @@ aliases: ["doppelixir", "Doppelixir-tob3"]
 *Source: Tome of Beasts 3 Page 139*
 
 ```statblock
+"dice": false
 "name": "Doppelixir Tob3"
 "size": "Tiny"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["baliri-demon", "Baliri Demon-tob2"]
 *Source: Tome of Beasts 2 Page 140*
 
 ```statblock
+"dice": false
 "name": "Baliri Demon Tob2"
 "size": "Medium"
 "type": "Fiend"

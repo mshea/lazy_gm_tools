@@ -13,6 +13,7 @@ aliases: ["mead-archon", "Mead Archon-tob2"]
 *Source: Tome of Beasts 2 Page 18*
 
 ```statblock
+"dice": false
 "name": "Mead Archon Tob2"
 "size": "Medium"
 "type": "Celestial"

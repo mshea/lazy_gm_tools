@@ -13,6 +13,7 @@ aliases: ["merfolk-a5e", "Merfolk-a5emm"]
 *Source: A5e Monstrous Menagerie Page 329*
 
 ```statblock
+"dice": false
 "name": "Merfolk A5Emm"
 "size": "Medium"
 "type": "Humanoid"

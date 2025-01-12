@@ -13,6 +13,7 @@ aliases: ["remorhaz-spawn-a5e", "Remorhaz Spawn-a5emm"]
 *Source: A5e Monstrous Menagerie Page 369*
 
 ```statblock
+"dice": false
 "name": "Remorhaz Spawn A5Emm"
 "size": "Large"
 "type": "Monstrosity"

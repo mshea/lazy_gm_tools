@@ -13,6 +13,7 @@ aliases: ["fey-drake", "Fey Drake-cc"]
 *Source: Creature Codex Page 130*
 
 ```statblock
+"dice": false
 "name": "Fey Drake Cc"
 "size": "Small"
 "type": "Dragon"

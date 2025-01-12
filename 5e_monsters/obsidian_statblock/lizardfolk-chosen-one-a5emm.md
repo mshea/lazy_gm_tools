@@ -13,6 +13,7 @@ aliases: ["lizardfolk-chosen-one-a5e", "Lizardfolk Chosen One-a5emm"]
 *Source: A5e Monstrous Menagerie Page 310*
 
 ```statblock
+"dice": false
 "name": "Lizardfolk Chosen One A5Emm"
 "size": "Medium"
 "type": "Humanoid"

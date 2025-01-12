@@ -13,6 +13,7 @@ aliases: ["glass-golem", "Glass Golem-cc"]
 *Source: Creature Codex Page 200*
 
 ```statblock
+"dice": false
 "name": "Glass Golem Cc"
 "size": "Small"
 "type": "Construct"

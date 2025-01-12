@@ -13,6 +13,7 @@ aliases: ["dryad-a5e", "Dryad-a5emm"]
 *Source: A5e Monstrous Menagerie Page 188*
 
 ```statblock
+"dice": false
 "name": "Dryad A5Emm"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["swarmoffiredancers-tob1-2023", "Swarm of Fire Dancers-tob2023"]
 *Source: Tome of Beasts 2023 Page 354*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Fire Dancers Tob2023"
 "size": "Medium"
 "type": "Swarm"

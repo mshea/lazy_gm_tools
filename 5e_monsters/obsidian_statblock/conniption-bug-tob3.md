@@ -13,6 +13,7 @@ aliases: ["conniption-bug", "Conniption Bug-tob3"]
 *Source: Tome of Beasts 3 Page 93*
 
 ```statblock
+"dice": false
 "name": "Conniption Bug Tob3"
 "size": "Small"
 "type": "Beast"

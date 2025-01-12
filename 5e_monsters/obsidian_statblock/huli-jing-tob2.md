@@ -13,6 +13,7 @@ aliases: ["huli-jing", "Huli Jing-tob2"]
 *Source: Tome of Beasts 2 Page 204*
 
 ```statblock
+"dice": false
 "name": "Huli Jing Tob2"
 "size": "Medium"
 "type": "Fey"

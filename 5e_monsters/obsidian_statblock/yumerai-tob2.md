@@ -13,6 +13,7 @@ aliases: ["yumerai", "Yumerai-tob2"]
 *Source: Tome of Beasts 2 Page 381*
 
 ```statblock
+"dice": false
 "name": "Yumerai Tob2"
 "size": "Medium"
 "type": "Fey"

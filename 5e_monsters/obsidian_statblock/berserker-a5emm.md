@@ -13,6 +13,7 @@ aliases: ["berserker-a5e", "Berserker-a5emm"]
 *Source: A5e Monstrous Menagerie Page 497*
 
 ```statblock
+"dice": false
 "name": "Berserker A5Emm"
 "size": "Medium"
 "type": "Humanoid"

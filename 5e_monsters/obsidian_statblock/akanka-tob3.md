@@ -13,6 +13,7 @@ aliases: ["akanka", "Akanka-tob3"]
 *Source: Tome of Beasts 3 Page 10*
 
 ```statblock
+"dice": false
 "name": "Akanka Tob3"
 "size": "Medium"
 "type": "Fey"

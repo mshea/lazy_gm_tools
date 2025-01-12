@@ -13,6 +13,7 @@ aliases: ["lambent-witchfyre", "Lambent Witchfyre-tob2"]
 *Source: Tome of Beasts 2 Page 234*
 
 ```statblock
+"dice": false
 "name": "Lambent Witchfyre Tob2"
 "size": "Large"
 "type": "Aberration"

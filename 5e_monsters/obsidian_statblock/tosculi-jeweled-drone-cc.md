@@ -13,6 +13,7 @@ aliases: ["tosculi-jeweled-drone", "Tosculi Jeweled Drone-cc"]
 *Source: Creature Codex Page 355*
 
 ```statblock
+"dice": false
 "name": "Tosculi Jeweled Drone Cc"
 "size": "Small"
 "type": "Humanoid"

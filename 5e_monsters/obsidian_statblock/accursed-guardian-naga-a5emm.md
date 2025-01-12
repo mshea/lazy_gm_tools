@@ -13,6 +13,7 @@ aliases: ["accursed-guardian-naga-a5e", "Accursed Guardian Naga-a5emm"]
 *Source: A5e Monstrous Menagerie Page 343*
 
 ```statblock
+"dice": false
 "name": "Accursed Guardian Naga A5Emm"
 "size": "Large"
 "type": "Monstrosity"

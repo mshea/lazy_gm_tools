@@ -13,6 +13,7 @@ aliases: ["yaga-goo", "Yaga Goo-cc"]
 *Source: Creature Codex Page 389*
 
 ```statblock
+"dice": false
 "name": "Yaga Goo Cc"
 "size": "Small"
 "type": "Ooze"

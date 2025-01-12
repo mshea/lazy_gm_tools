@@ -13,6 +13,7 @@ aliases: ["elvishveteranarcher-tob1-2023", "Elvish Veteran Archer-tob2023"]
 *Source: Tome of Beasts 2023 Page 410*
 
 ```statblock
+"dice": false
 "name": "Elvish Veteran Archer Tob2023"
 "size": "Medium"
 "type": "Humanoid"

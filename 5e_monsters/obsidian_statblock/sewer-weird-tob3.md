@@ -13,6 +13,7 @@ aliases: ["sewer-weird", "Sewer Weird-tob3"]
 *Source: Tome of Beasts 3 Page 341*
 
 ```statblock
+"dice": false
 "name": "Sewer Weird Tob3"
 "size": "Large"
 "type": "Elemental"

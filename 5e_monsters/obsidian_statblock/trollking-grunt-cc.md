@@ -13,6 +13,7 @@ aliases: ["trollking-grunt", "Trollking Grunt-cc"]
 *Source: Creature Codex Page 357*
 
 ```statblock
+"dice": false
 "name": "Trollking Grunt Cc"
 "size": "Medium"
 "type": "Humanoid"

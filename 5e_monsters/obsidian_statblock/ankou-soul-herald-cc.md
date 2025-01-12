@@ -13,6 +13,7 @@ aliases: ["ankou-soul-herald", "Ankou Soul Herald-cc"]
 *Source: Creature Codex Page 37*
 
 ```statblock
+"dice": false
 "name": "Ankou Soul Herald Cc"
 "size": "Gargantuan"
 "type": "Dragon"

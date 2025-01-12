@@ -13,6 +13,7 @@ aliases: ["kobold-broodguard-dragon-servitor-a5e", "Kobold Broodguard Dragon Ser
 *Source: A5e Monstrous Menagerie Page 298*
 
 ```statblock
+"dice": false
 "name": "Kobold Broodguard Dragon Servitor A5Emm"
 "size": "Small"
 "type": "Humanoid"

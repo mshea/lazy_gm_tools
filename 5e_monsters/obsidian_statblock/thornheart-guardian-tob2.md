@@ -13,6 +13,7 @@ aliases: ["thornheart-guardian", "Thornheart Guardian-tob2"]
 *Source: Tome of Beasts 2 Page 346*
 
 ```statblock
+"dice": false
 "name": "Thornheart Guardian Tob2"
 "size": "Large"
 "type": "Construct"

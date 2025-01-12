@@ -13,6 +13,7 @@ aliases: ["dark-servant", "Dark Servant-cc"]
 *Source: Creature Codex Page 72*
 
 ```statblock
+"dice": false
 "name": "Dark Servant Cc"
 "size": "Medium"
 "type": "Humanoid"

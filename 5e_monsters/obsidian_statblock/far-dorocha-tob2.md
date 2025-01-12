@@ -13,6 +13,7 @@ aliases: ["far-dorocha", "Far Dorocha-tob2"]
 *Source: Tome of Beasts 2 Page 142*
 
 ```statblock
+"dice": false
 "name": "Far Dorocha Tob2"
 "size": "Medium"
 "type": "Fey"

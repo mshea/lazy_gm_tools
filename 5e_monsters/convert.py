@@ -1,5 +1,6 @@
 import re
 import json
+from bs4 import BeautifulSoup
 
 book_regex = re.compile('(?<=-).*')
 
@@ -33,7 +34,7 @@ def parse_abilities(md_file, ability_json, name):
 
 def parse_cr(cr):
     if cr >= 1 or cr == 0:
-        return str(cr)
+        return str(int(cr))
     elif cr == 0.5:
         return '1/2'
     elif cr == 0.25:
@@ -42,12 +43,25 @@ def parse_cr(cr):
         return '1/8'
     else:
         ValueError
+
+def add_link(slug, url):
+    with open(f'monsters_html/{slug}.html', "r", encoding='utf-8') as file:
+        contents = file.read() 
+    soup = BeautifulSoup(contents, 'html.parser')
+    paragraph = soup.find_all('p')[-1]
+    paragraph.append(' - ')
+    link_tag = soup.new_tag(name='a', attrs=dict(href=url))
+    link_tag.string = 'Obsidian statblock'
+    paragraph.append(link_tag)
+    with open(f'monsters_html/{slug}.html', "w", encoding='utf-8') as file:
+        file.write(str(soup))
         
 def generate_mdfile(monster):
     if monster['document__title'] == 'Black Flag':
         return
     name_doc = f'{monster["name"]}-{doc_shorthand(monster['document__title'])}'
-    with open(f"obsidian_statblock/{re.sub(r' ','-', name_doc).lower()}.md", 'w', encoding="utf-8") as md_file:
+    filename = f'obsidian_statblock/{re.sub(r' ','-', name_doc).lower()}.md'
+    with open(filename, 'w', encoding="utf-8") as md_file:
         md_file.write('---\n')
         md_file.write('obsidianUIMode: preview\n')
         md_file.write('cssclasses: json5e-monster\n')
@@ -63,6 +77,7 @@ def generate_mdfile(monster):
         md_file.write(f'*Source: {monster['document__title']} Page {monster['page_no']}*\n')
         md_file.write('\n')
         md_file.write('```statblock\n')
+        md_file.write(f'"dice": false\n')
         md_file.write(f'"name": "{name_doc.replace('-',' ').title()}"\n')
         md_file.write(f'"size": "{monster['size']}"\n')
         md_file.write(f'"type": "{monster['type']}"\n')
@@ -123,17 +138,12 @@ def generate_mdfile(monster):
         md_file.write('source:\n')
         md_file.write(f'- [{monster["document__title"]}]({monster["document__url"]})\n')
         md_file.write('```\n')
-
+    add_link(monster['slug'], f'../{filename}')
 
 with open("monsters.json", 'r', encoding='utf-8',
                      errors='ignore') as f:
     monsters = json.load(f)
     print(f'Starting Monster statblock generation')
     for monster in monsters:
+        # print(f'Generating: {monster['name']}')
         generate_mdfile(monster)
-
-
-# directory = os.fsencode("monsters_html")
-# for file in os.listdir(directory):
-#     filename = os.fsdecode(file)
-    # use BeautifulSoup to edit html and add link

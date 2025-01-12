@@ -13,6 +13,7 @@ aliases: ["alabroza", "Alabroza-tob3"]
 *Source: Tome of Beasts 3 Page 13*
 
 ```statblock
+"dice": false
 "name": "Alabroza Tob3"
 "size": "Small"
 "type": "Monstrosity"

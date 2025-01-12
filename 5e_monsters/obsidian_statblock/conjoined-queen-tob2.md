@@ -13,6 +13,7 @@ aliases: ["conjoined-queen", "Conjoined Queen-tob2"]
 *Source: Tome of Beasts 2 Page 70*
 
 ```statblock
+"dice": false
 "name": "Conjoined Queen Tob2"
 "size": "Large"
 "type": "Monstrosity"

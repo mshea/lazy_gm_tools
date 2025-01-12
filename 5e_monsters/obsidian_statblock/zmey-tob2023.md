@@ -13,6 +13,7 @@ aliases: ["zmey-tob1-2023", "Zmey-tob2023"]
 *Source: Tome of Beasts 2023 Page 403*
 
 ```statblock
+"dice": false
 "name": "Zmey Tob2023"
 "size": "Huge"
 "type": "Dragon"

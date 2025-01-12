@@ -13,6 +13,7 @@ aliases: ["bolt-thrower-a5e", "Bolt-Thrower-a5emm"]
 *Source: A5e Monstrous Menagerie Page 52*
 
 ```statblock
+"dice": false
 "name": "Bolt Thrower A5Emm"
 "size": "Small"
 "type": "Construct"

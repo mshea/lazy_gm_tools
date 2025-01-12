@@ -13,6 +13,7 @@ aliases: ["tigebra", "Tigebra-tob3"]
 *Source: Tome of Beasts 3 Page 369*
 
 ```statblock
+"dice": false
 "name": "Tigebra Tob3"
 "size": "Large"
 "type": "Monstrosity"

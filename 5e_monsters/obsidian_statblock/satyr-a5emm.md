@@ -13,6 +13,7 @@ aliases: ["satyr-a5e", "Satyr-a5emm"]
 *Source: A5e Monstrous Menagerie Page 380*
 
 ```statblock
+"dice": false
 "name": "Satyr A5Emm"
 "size": "Medium"
 "type": "Fey"

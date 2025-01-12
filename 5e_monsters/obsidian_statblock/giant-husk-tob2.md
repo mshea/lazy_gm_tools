@@ -13,6 +13,7 @@ aliases: ["giant-husk", "Giant Husk-tob2"]
 *Source: Tome of Beasts 2 Page 393*
 
 ```statblock
+"dice": false
 "name": "Giant Husk Tob2"
 "size": "Huge"
 "type": "Undead"

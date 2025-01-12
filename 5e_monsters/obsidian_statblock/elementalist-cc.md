@@ -13,6 +13,7 @@ aliases: ["elementalist", "Elementalist-cc"]
 *Source: Creature Codex Page 121*
 
 ```statblock
+"dice": false
 "name": "Elementalist Cc"
 "size": "Medium"
 "type": "Humanoid"

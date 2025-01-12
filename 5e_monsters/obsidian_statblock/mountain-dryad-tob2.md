@@ -13,6 +13,7 @@ aliases: ["mountain-dryad", "Mountain Dryad-tob2"]
 *Source: Tome of Beasts 2 Page 261*
 
 ```statblock
+"dice": false
 "name": "Mountain Dryad Tob2"
 "size": "Huge"
 "type": "Fey"

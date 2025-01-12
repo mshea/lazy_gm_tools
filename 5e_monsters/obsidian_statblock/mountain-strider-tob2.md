@@ -13,6 +13,7 @@ aliases: ["mountain-strider", "Mountain Strider-tob2"]
 *Source: Tome of Beasts 2 Page 261*
 
 ```statblock
+"dice": false
 "name": "Mountain Strider Tob2"
 "size": "Large"
 "type": "Monstrosity"

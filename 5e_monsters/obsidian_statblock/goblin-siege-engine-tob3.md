@@ -13,6 +13,7 @@ aliases: ["goblin-siege-engine", "Goblin Siege Engine-tob3"]
 *Source: Tome of Beasts 3 Page 211*
 
 ```statblock
+"dice": false
 "name": "Goblin Siege Engine Tob3"
 "size": "Huge"
 "type": "Construct"

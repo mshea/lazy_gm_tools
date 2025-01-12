@@ -13,6 +13,7 @@ aliases: ["skeletal-warhorse-a5e", "Skeletal Warhorse-a5emm"]
 *Source: A5e Monstrous Menagerie Page 394*
 
 ```statblock
+"dice": false
 "name": "Skeletal Warhorse A5Emm"
 "size": "Large"
 "type": "Undead"

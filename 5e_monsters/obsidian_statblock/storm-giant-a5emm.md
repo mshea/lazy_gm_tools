@@ -13,6 +13,7 @@ aliases: ["storm-giant-a5e", "Storm Giant-a5emm"]
 *Source: A5e Monstrous Menagerie Page 242*
 
 ```statblock
+"dice": false
 "name": "Storm Giant A5Emm"
 "size": "Huge"
 "type": "Giant"

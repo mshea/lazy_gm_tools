@@ -13,6 +13,7 @@ aliases: ["avatar-of-shoth", "Avatar of Shoth-cc"]
 *Source: Creature Codex Page 332*
 
 ```statblock
+"dice": false
 "name": "Avatar Of Shoth Cc"
 "size": "Gargantuan"
 "type": "Aberration"

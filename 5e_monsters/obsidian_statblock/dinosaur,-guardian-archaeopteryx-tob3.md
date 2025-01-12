@@ -13,6 +13,7 @@ aliases: ["dinosaur-guardian-archaeopteryx", "Dinosaur, Guardian Archaeopteryx-t
 *Source: Tome of Beasts 3 Page 126*
 
 ```statblock
+"dice": false
 "name": "Dinosaur, Guardian Archaeopteryx Tob3"
 "size": "Small"
 "type": "Beast"

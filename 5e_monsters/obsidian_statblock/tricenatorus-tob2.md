@@ -13,6 +13,7 @@ aliases: ["tricenatorus", "Tricenatorus-tob2"]
 *Source: Tome of Beasts 2 Page 109*
 
 ```statblock
+"dice": false
 "name": "Tricenatorus Tob2"
 "size": "Huge"
 "type": "Monstrosity"

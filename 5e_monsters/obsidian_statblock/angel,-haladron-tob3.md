@@ -13,6 +13,7 @@ aliases: ["angel-haladron", "Angel, Haladron-tob3"]
 *Source: Tome of Beasts 3 Page 23*
 
 ```statblock
+"dice": false
 "name": "Angel, Haladron Tob3"
 "size": "Tiny"
 "type": "Celestial"

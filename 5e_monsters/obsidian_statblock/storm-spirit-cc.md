@@ -13,6 +13,7 @@ aliases: ["storm-spirit", "Storm Spirit-cc"]
 *Source: Creature Codex Page 350*
 
 ```statblock
+"dice": false
 "name": "Storm Spirit Cc"
 "size": "Medium"
 "type": "Elemental"

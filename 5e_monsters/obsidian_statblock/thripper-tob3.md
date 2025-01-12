@@ -13,6 +13,7 @@ aliases: ["thripper", "Thripper-tob3"]
 *Source: Tome of Beasts 3 Page 368*
 
 ```statblock
+"dice": false
 "name": "Thripper Tob3"
 "size": "Medium"
 "type": "Humanoid"

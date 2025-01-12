@@ -13,6 +13,7 @@ aliases: ["fierstjerren", "Fierstjerren-cc"]
 *Source: Creature Codex Page 157*
 
 ```statblock
+"dice": false
 "name": "Fierstjerren Cc"
 "size": "Medium"
 "type": "Undead"

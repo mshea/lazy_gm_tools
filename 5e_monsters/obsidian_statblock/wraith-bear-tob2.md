@@ -13,6 +13,7 @@ aliases: ["wraith-bear", "Wraith Bear-tob2"]
 *Source: Tome of Beasts 2 Page 375*
 
 ```statblock
+"dice": false
 "name": "Wraith Bear Tob2"
 "size": "Large"
 "type": "Undead"

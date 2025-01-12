@@ -13,6 +13,7 @@ aliases: ["derro-hellforged", "Derro, Hellforged-tob3"]
 *Source: Tome of Beasts 3 Page 113*
 
 ```statblock
+"dice": false
 "name": "Derro, Hellforged Tob3"
 "size": "Small"
 "type": "Humanoid"

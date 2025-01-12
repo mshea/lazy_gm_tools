@@ -13,6 +13,7 @@ aliases: ["collais", "Colláis-tob2"]
 *Source: Tome of Beasts 2 Page 69*
 
 ```statblock
+"dice": false
 "name": "Colláis Tob2"
 "size": "Large"
 "type": "Monstrosity"

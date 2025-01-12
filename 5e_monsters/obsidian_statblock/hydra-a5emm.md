@@ -13,6 +13,7 @@ aliases: ["hydra-a5e", "Hydra-a5emm"]
 *Source: A5e Monstrous Menagerie Page 284*
 
 ```statblock
+"dice": false
 "name": "Hydra A5Emm"
 "size": "Huge"
 "type": "Monstrosity"

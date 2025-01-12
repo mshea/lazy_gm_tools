@@ -13,6 +13,7 @@ aliases: ["enchanter", "Enchanter-cc"]
 *Source: Creature Codex Page 143*
 
 ```statblock
+"dice": false
 "name": "Enchanter Cc"
 "size": "Medium"
 "type": "Humanoid"

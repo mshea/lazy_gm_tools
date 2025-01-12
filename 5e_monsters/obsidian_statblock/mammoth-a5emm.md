@@ -13,6 +13,7 @@ aliases: ["mammoth-a5e", "Mammoth-a5emm"]
 *Source: A5e Monstrous Menagerie Page 454*
 
 ```statblock
+"dice": false
 "name": "Mammoth A5Emm"
 "size": "Huge"
 "type": "Beast"

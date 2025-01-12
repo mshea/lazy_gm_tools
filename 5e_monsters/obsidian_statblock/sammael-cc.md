@@ -13,6 +13,7 @@ aliases: ["sammael", "Sammael-cc"]
 *Source: Creature Codex Page 19*
 
 ```statblock
+"dice": false
 "name": "Sammael Cc"
 "size": "Medium"
 "type": "Celestial"

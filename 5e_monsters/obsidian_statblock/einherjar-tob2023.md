@@ -13,6 +13,7 @@ aliases: ["einherjar-tob1-2023", "Einherjar-tob2023"]
 *Source: Tome of Beasts 2023 Page 156*
 
 ```statblock
+"dice": false
 "name": "Einherjar Tob2023"
 "size": "Medium"
 "type": "Humanoid"

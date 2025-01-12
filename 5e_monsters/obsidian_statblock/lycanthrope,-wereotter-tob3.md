@@ -13,6 +13,7 @@ aliases: ["lycanthrope-wereotter", "Lycanthrope, Wereotter-tob3"]
 *Source: Tome of Beasts 3 Page 266*
 
 ```statblock
+"dice": false
 "name": "Lycanthrope, Wereotter Tob3"
 "size": "Medium"
 "type": "Humanoid"

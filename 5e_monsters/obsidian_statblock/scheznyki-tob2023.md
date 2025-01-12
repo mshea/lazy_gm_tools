@@ -13,6 +13,7 @@ aliases: ["scheznyki-tob1-2023", "Scheznyki-tob2023"]
 *Source: Tome of Beasts 2023 Page 319*
 
 ```statblock
+"dice": false
 "name": "Scheznyki Tob2023"
 "size": "Small"
 "type": "Fey"

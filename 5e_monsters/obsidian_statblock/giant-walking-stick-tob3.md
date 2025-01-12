@@ -13,6 +13,7 @@ aliases: ["giant-walking-stick", "Giant Walking Stick-tob3"]
 *Source: Tome of Beasts 3 Page 201*
 
 ```statblock
+"dice": false
 "name": "Giant Walking Stick Tob3"
 "size": "Large"
 "type": "Beast"

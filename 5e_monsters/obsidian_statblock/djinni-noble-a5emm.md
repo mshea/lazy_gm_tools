@@ -13,6 +13,7 @@ aliases: ["djinni-noble-a5e", "Djinni Noble-a5emm"]
 *Source: A5e Monstrous Menagerie Page 220*
 
 ```statblock
+"dice": false
 "name": "Djinni Noble A5Emm"
 "size": "Large"
 "type": "Elemental"

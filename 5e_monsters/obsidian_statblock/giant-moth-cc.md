@@ -13,6 +13,7 @@ aliases: ["giant-moth", "Giant Moth-cc"]
 *Source: Creature Codex Page 178*
 
 ```statblock
+"dice": false
 "name": "Giant Moth Cc"
 "size": "Small"
 "type": "Beast"

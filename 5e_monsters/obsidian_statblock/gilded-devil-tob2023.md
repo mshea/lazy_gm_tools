@@ -13,6 +13,7 @@ aliases: ["gildeddevil-tob1-2023", "Gilded Devil-tob2023"]
 *Source: Tome of Beasts 2023 Page 95*
 
 ```statblock
+"dice": false
 "name": "Gilded Devil Tob2023"
 "size": "Medium"
 "type": "Fiend"

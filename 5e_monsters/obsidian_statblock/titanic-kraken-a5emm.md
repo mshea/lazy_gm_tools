@@ -13,6 +13,7 @@ aliases: ["titanic-kraken-a5e", "Titanic Kraken-a5emm"]
 *Source: A5e Monstrous Menagerie Page 301*
 
 ```statblock
+"dice": false
 "name": "Titanic Kraken A5Emm"
 "size": "Titanic"
 "type": "Monstrosity"

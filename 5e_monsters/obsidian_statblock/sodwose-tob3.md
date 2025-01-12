@@ -13,6 +13,7 @@ aliases: ["sodwose", "Sodwose-tob3"]
 *Source: Tome of Beasts 3 Page 350*
 
 ```statblock
+"dice": false
 "name": "Sodwose Tob3"
 "size": "Medium"
 "type": "Plant"

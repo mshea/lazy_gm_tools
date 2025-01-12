@@ -13,6 +13,7 @@ aliases: ["alliumite-rapscallion", "Alliumite, Rapscallion-tob3"]
 *Source: Tome of Beasts 3 Page 17*
 
 ```statblock
+"dice": false
 "name": "Alliumite, Rapscallion Tob3"
 "size": "Small"
 "type": "Plant"

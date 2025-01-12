@@ -13,6 +13,7 @@ aliases: ["trickster-priest-a5e", "Trickster Priest-a5emm"]
 *Source: A5e Monstrous Menagerie Page 488*
 
 ```statblock
+"dice": false
 "name": "Trickster Priest A5Emm"
 "size": "Medium"
 "type": "Humanoid"

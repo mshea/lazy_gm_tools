@@ -13,6 +13,7 @@ aliases: ["ooze-sinoper", "Ooze, Sinoper-tob3"]
 *Source: Tome of Beasts 3 Page 310*
 
 ```statblock
+"dice": false
 "name": "Ooze, Sinoper Tob3"
 "size": "Medium"
 "type": "Ooze"

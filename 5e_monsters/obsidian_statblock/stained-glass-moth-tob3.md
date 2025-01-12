@@ -13,6 +13,7 @@ aliases: ["stained-glass-moth", "Stained-Glass Moth-tob3"]
 *Source: Tome of Beasts 3 Page 353*
 
 ```statblock
+"dice": false
 "name": "Stained Glass Moth Tob3"
 "size": "Small"
 "type": "Construct"

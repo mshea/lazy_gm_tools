@@ -13,6 +13,7 @@ aliases: ["gnoll-pack-leader-a5e", "Gnoll Pack Leader-a5emm"]
 *Source: A5e Monstrous Menagerie Page 247*
 
 ```statblock
+"dice": false
 "name": "Gnoll Pack Leader A5Emm"
 "size": "Medium"
 "type": "Humanoid"

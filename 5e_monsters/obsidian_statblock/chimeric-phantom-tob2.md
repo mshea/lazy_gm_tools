@@ -13,6 +13,7 @@ aliases: ["chimeric-phantom", "Chimeric Phantom-tob2"]
 *Source: Tome of Beasts 2 Page 62*
 
 ```statblock
+"dice": false
 "name": "Chimeric Phantom Tob2"
 "size": "Medium"
 "type": "Undead"

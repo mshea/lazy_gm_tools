@@ -13,6 +13,7 @@ aliases: ["queenofnightandmagic-tob1-2023", "Queen of Night and Magic-tob2023"]
 *Source: Tome of Beasts 2023 Page 178*
 
 ```statblock
+"dice": false
 "name": "Queen Of Night And Magic Tob2023"
 "size": "Medium"
 "type": "Fey"

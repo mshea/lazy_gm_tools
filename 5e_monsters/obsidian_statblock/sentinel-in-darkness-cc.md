@@ -13,6 +13,7 @@ aliases: ["sentinel-in-darkness", "Sentinel in Darkness-cc"]
 *Source: Creature Codex Page 323*
 
 ```statblock
+"dice": false
 "name": "Sentinel In Darkness Cc"
 "size": "Large"
 "type": "Construct"

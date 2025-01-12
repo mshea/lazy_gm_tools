@@ -13,6 +13,7 @@ aliases: ["mountain-dwarf-lord-a5e", "Mountain Dwarf Lord-a5emm"]
 *Source: A5e Monstrous Menagerie Page 477*
 
 ```statblock
+"dice": false
 "name": "Mountain Dwarf Lord A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["dream-squire", "Dream Squire-cc"]
 *Source: Creature Codex Page 134*
 
 ```statblock
+"dice": false
 "name": "Dream Squire Cc"
 "size": "Medium"
 "type": "Fey"

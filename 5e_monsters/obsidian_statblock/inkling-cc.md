@@ -13,6 +13,7 @@ aliases: ["inkling", "Inkling-cc"]
 *Source: Creature Codex Page 227*
 
 ```statblock
+"dice": false
 "name": "Inkling Cc"
 "size": "Tiny"
 "type": "Construct"

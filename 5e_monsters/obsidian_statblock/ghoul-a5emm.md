@@ -13,6 +13,7 @@ aliases: ["ghoul-a5e", "Ghoul-a5emm"]
 *Source: A5e Monstrous Menagerie Page 229*
 
 ```statblock
+"dice": false
 "name": "Ghoul A5Emm"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["skeleton-horde-a5e", "Skeleton Horde-a5emm"]
 *Source: A5e Monstrous Menagerie Page 394*
 
 ```statblock
+"dice": false
 "name": "Skeleton Horde A5Emm"
 "size": "Large"
 "type": "Undead"

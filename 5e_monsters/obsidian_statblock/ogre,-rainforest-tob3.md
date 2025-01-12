@@ -13,6 +13,7 @@ aliases: ["ogre-rainforest", "Ogre, Rainforest-tob3"]
 *Source: Tome of Beasts 3 Page 301*
 
 ```statblock
+"dice": false
 "name": "Ogre, Rainforest Tob3"
 "size": "Large"
 "type": "Giant"

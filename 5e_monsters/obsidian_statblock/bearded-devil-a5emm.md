@@ -13,6 +13,7 @@ aliases: ["bearded-devil-a5e", "Bearded Devil-a5emm"]
 *Source: A5e Monstrous Menagerie Page 79*
 
 ```statblock
+"dice": false
 "name": "Bearded Devil A5Emm"
 "size": "Medium"
 "type": "Fiend"

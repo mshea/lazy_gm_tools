@@ -13,6 +13,7 @@ aliases: ["massive-malleable", "Massive Malleable-tob2"]
 *Source: Tome of Beasts 2 Page 254*
 
 ```statblock
+"dice": false
 "name": "Massive Malleable Tob2"
 "size": "Gargantuan"
 "type": "Aberration"

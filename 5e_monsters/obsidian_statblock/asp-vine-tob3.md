@@ -13,6 +13,7 @@ aliases: ["asp-vine", "Asp Vine-tob3"]
 *Source: Tome of Beasts 3 Page 45*
 
 ```statblock
+"dice": false
 "name": "Asp Vine Tob3"
 "size": "Medium"
 "type": "Plant"

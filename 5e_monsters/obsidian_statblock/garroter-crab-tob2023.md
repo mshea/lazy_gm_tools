@@ -13,6 +13,7 @@ aliases: ["garrotercrab-tob1-2023", "Garroter Crab-tob2023"]
 *Source: Tome of Beasts 2023 Page 194*
 
 ```statblock
+"dice": false
 "name": "Garroter Crab Tob2023"
 "size": "Tiny"
 "type": "Beast"

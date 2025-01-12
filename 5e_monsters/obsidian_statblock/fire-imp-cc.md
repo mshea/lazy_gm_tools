@@ -13,6 +13,7 @@ aliases: ["fire-imp", "Fire Imp-cc"]
 *Source: Creature Codex Page 103*
 
 ```statblock
+"dice": false
 "name": "Fire Imp Cc"
 "size": "Tiny"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["dinosaur-therizinosaurus", "Dinosaur, Therizinosaurus-tob3"]
 *Source: Tome of Beasts 3 Page 126*
 
 ```statblock
+"dice": false
 "name": "Dinosaur, Therizinosaurus Tob3"
 "size": "Huge"
 "type": "Beast"

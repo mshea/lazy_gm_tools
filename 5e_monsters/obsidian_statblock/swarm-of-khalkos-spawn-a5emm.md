@@ -13,6 +13,7 @@ aliases: ["swarm-of-khalkos-spawn-a5e", "Swarm of Khalkos Spawn-a5emm"]
 *Source: A5e Monstrous Menagerie Page 295*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Khalkos Spawn A5Emm"
 "size": "Medium"
 "type": "Aberration"

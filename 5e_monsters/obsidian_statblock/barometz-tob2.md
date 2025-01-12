@@ -13,6 +13,7 @@ aliases: ["barometz", "Barometz-tob2"]
 *Source: Tome of Beasts 2 Page 38*
 
 ```statblock
+"dice": false
 "name": "Barometz Tob2"
 "size": "Large"
 "type": "Plant"

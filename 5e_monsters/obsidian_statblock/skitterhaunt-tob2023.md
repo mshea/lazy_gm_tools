@@ -13,6 +13,7 @@ aliases: ["skitterhaunt-tob1-2023", "Skitterhaunt-tob2023"]
 *Source: Tome of Beasts 2023 Page 332*
 
 ```statblock
+"dice": false
 "name": "Skitterhaunt Tob2023"
 "size": "Large"
 "type": "Ooze"

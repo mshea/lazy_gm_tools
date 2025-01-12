@@ -13,6 +13,7 @@ aliases: ["cutthroat-a5e", "Cutthroat-a5emm"]
 *Source: A5e Monstrous Menagerie Page 468*
 
 ```statblock
+"dice": false
 "name": "Cutthroat A5Emm"
 "size": "Medium"
 "type": "Humanoid"

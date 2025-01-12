@@ -13,6 +13,7 @@ aliases: ["magma-octopus", "Magma Octopus-tob2"]
 *Source: Tome of Beasts 2 Page 251*
 
 ```statblock
+"dice": false
 "name": "Magma Octopus Tob2"
 "size": "Large"
 "type": "Elemental"

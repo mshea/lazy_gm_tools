@@ -13,6 +13,7 @@ aliases: ["chieftain-tob1-2023", "Chieftain-tob2023"]
 *Source: Tome of Beasts 2023 Page 245*
 
 ```statblock
+"dice": false
 "name": "Chieftain Tob2023"
 "size": "Small"
 "type": "Humanoid"

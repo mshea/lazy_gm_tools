@@ -13,6 +13,7 @@ aliases: ["crimsondrake-tob1-2023", "Crimson Drake-tob2023"]
 *Source: Tome of Beasts 2023 Page 141*
 
 ```statblock
+"dice": false
 "name": "Crimson Drake Tob2023"
 "size": "Tiny"
 "type": "Dragon"

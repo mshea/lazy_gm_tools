@@ -13,6 +13,7 @@ aliases: ["riverking-tob1-2023", "River King-tob2023"]
 *Source: Tome of Beasts 2023 Page 182*
 
 ```statblock
+"dice": false
 "name": "River King Tob2023"
 "size": "Medium"
 "type": "Fey"

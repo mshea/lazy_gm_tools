@@ -13,6 +13,7 @@ aliases: ["tetomatli", "Tetomatli-tob2"]
 *Source: Tome of Beasts 2 Page 345*
 
 ```statblock
+"dice": false
 "name": "Tetomatli Tob2"
 "size": "Large"
 "type": "Construct"

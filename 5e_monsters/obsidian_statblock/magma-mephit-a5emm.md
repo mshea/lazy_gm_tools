@@ -13,6 +13,7 @@ aliases: ["magma-mephit-a5e", "Magma Mephit-a5emm"]
 *Source: A5e Monstrous Menagerie Page 326*
 
 ```statblock
+"dice": false
 "name": "Magma Mephit A5Emm"
 "size": "Small"
 "type": "Elemental"

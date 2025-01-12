@@ -13,6 +13,7 @@ aliases: ["somberweave", "Somberweave-tob2"]
 *Source: Tome of Beasts 2 Page 335*
 
 ```statblock
+"dice": false
 "name": "Somberweave Tob2"
 "size": "Medium"
 "type": "Fey"

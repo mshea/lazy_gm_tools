@@ -13,6 +13,7 @@ aliases: ["alchemical-golem", "Alchemical Golem-cc"]
 *Source: Creature Codex Page 192*
 
 ```statblock
+"dice": false
 "name": "Alchemical Golem Cc"
 "size": "Large"
 "type": "Construct"

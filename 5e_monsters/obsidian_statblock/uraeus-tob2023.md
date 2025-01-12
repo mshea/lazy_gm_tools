@@ -13,6 +13,7 @@ aliases: ["uraeus-tob1-2023", "Uraeus-tob2023"]
 *Source: Tome of Beasts 2023 Page 373*
 
 ```statblock
+"dice": false
 "name": "Uraeus Tob2023"
 "size": "Tiny"
 "type": "Celestial"

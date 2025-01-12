@@ -13,6 +13,7 @@ aliases: ["aziza", "Aziza-tob3"]
 *Source: Tome of Beasts 3 Page 49*
 
 ```statblock
+"dice": false
 "name": "Aziza Tob3"
 "size": "Tiny"
 "type": "Fey"

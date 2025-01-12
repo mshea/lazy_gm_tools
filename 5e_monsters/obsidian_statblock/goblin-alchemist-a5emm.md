@@ -13,6 +13,7 @@ aliases: ["goblin-alchemist-a5e", "Goblin Alchemist-a5emm"]
 *Source: A5e Monstrous Menagerie Page 250*
 
 ```statblock
+"dice": false
 "name": "Goblin Alchemist A5Emm"
 "size": "Small"
 "type": "Humanoid"

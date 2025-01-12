@@ -13,6 +13,7 @@ aliases: ["echo", "Echo-cc"]
 *Source: Creature Codex Page 84*
 
 ```statblock
+"dice": false
 "name": "Echo Cc"
 "size": "Medium"
 "type": "Fiend"

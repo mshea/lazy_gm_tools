@@ -13,6 +13,7 @@ aliases: ["fideleangel-tob1-2023", "Fidele Angel-tob2023"]
 *Source: Tome of Beasts 2023 Page 19*
 
 ```statblock
+"dice": false
 "name": "Fidele Angel Tob2023"
 "size": "Medium"
 "type": "Celestial"

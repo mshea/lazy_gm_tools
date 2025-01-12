@@ -13,6 +13,7 @@ aliases: ["hound-of-tindalos", "Hound of Tindalos-cc"]
 *Source: Creature Codex Page 221*
 
 ```statblock
+"dice": false
 "name": "Hound Of Tindalos Cc"
 "size": "Medium"
 "type": "Aberration"

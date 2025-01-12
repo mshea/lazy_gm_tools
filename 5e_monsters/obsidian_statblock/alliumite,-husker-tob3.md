@@ -13,6 +13,7 @@ aliases: ["alliumite-husker", "Alliumite, Husker-tob3"]
 *Source: Tome of Beasts 3 Page 17*
 
 ```statblock
+"dice": false
 "name": "Alliumite, Husker Tob3"
 "size": "Medium"
 "type": "Plant"

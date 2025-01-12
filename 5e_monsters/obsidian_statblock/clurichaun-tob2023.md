@@ -13,6 +13,7 @@ aliases: ["clurichaun-tob1-2023", "Clurichaun-tob2023"]
 *Source: Tome of Beasts 2023 Page 66*
 
 ```statblock
+"dice": false
 "name": "Clurichaun Tob2023"
 "size": "Tiny"
 "type": "Fey"

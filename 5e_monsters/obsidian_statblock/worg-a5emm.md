@@ -13,6 +13,7 @@ aliases: ["worg-a5e", "Worg-a5emm"]
 *Source: A5e Monstrous Menagerie Page 463*
 
 ```statblock
+"dice": false
 "name": "Worg A5Emm"
 "size": "Large"
 "type": "Monstrosity"

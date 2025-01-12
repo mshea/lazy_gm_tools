@@ -13,6 +13,7 @@ aliases: ["knight-ab-errant", "Knight Ab-errant-tob2"]
 *Source: Tome of Beasts 2 Page 231*
 
 ```statblock
+"dice": false
 "name": "Knight Ab Errant Tob2"
 "size": "Large"
 "type": "Humanoid"

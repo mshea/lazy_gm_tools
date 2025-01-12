@@ -13,6 +13,7 @@ aliases: ["hoardgolem-tob1-2023", "Hoard Golem-tob2023"]
 *Source: Tome of Beasts 2023 Page 217*
 
 ```statblock
+"dice": false
 "name": "Hoard Golem Tob2023"
 "size": "Huge"
 "type": "Construct"

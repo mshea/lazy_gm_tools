@@ -13,6 +13,7 @@ aliases: ["green-abyss-orc", "Green Abyss Orc-cc"]
 *Source: Creature Codex Page 291*
 
 ```statblock
+"dice": false
 "name": "Green Abyss Orc Cc"
 "size": "Medium"
 "type": "Humanoid"

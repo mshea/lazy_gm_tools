@@ -13,6 +13,7 @@ aliases: ["servant-of-yig", "Servant of Yig-cc"]
 *Source: Creature Codex Page 325*
 
 ```statblock
+"dice": false
 "name": "Servant Of Yig Cc"
 "size": "Medium"
 "type": "Aberration"

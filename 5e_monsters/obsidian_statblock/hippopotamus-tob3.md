@@ -13,6 +13,7 @@ aliases: ["hippopotamus", "Hippopotamus-tob3"]
 *Source: Tome of Beasts 3 Page 233*
 
 ```statblock
+"dice": false
 "name": "Hippopotamus Tob3"
 "size": "Large"
 "type": "Beast"

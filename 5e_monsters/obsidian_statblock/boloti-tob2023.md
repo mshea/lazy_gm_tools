@@ -13,6 +13,7 @@ aliases: ["boloti-tob1-2023", "Boloti-tob2023"]
 *Source: Tome of Beasts 2023 Page 38*
 
 ```statblock
+"dice": false
 "name": "Boloti Tob2023"
 "size": "Tiny"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["storm-lord", "Storm Lord-cc"]
 *Source: Creature Codex Page 139*
 
 ```statblock
+"dice": false
 "name": "Storm Lord Cc"
 "size": "Huge"
 "type": "Elemental"

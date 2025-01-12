@@ -13,6 +13,7 @@ aliases: ["hair-golem", "Hair Golem-cc"]
 *Source: Creature Codex Page 200*
 
 ```statblock
+"dice": false
 "name": "Hair Golem Cc"
 "size": "Small"
 "type": "Construct"

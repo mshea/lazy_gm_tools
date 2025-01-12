@@ -13,6 +13,7 @@ aliases: ["rageipede", "Rageipede-cc"]
 *Source: Creature Codex Page 310*
 
 ```statblock
+"dice": false
 "name": "Rageipede Cc"
 "size": "Small"
 "type": "Beast"

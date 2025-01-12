@@ -13,6 +13,7 @@ aliases: ["coraldrake-tob1-2023", "Coral Drake-tob2023"]
 *Source: Tome of Beasts 2023 Page 140*
 
 ```statblock
+"dice": false
 "name": "Coral Drake Tob2023"
 "size": "Medium"
 "type": "Dragon"

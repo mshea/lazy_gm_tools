@@ -13,6 +13,7 @@ aliases: ["ooze-manure", "Ooze, Manure-tob3"]
 *Source: Tome of Beasts 3 Page 306*
 
 ```statblock
+"dice": false
 "name": "Ooze, Manure Tob3"
 "size": "Medium"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["ankylosaurus-a5e", "Ankylosaurus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 90*
 
 ```statblock
+"dice": false
 "name": "Ankylosaurus A5Emm"
 "size": "Huge"
 "type": "Beast"

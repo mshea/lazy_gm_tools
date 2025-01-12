@@ -13,6 +13,7 @@ aliases: ["rotsam", "Rotsam-tob2"]
 *Source: Tome of Beasts 2 Page 309*
 
 ```statblock
+"dice": false
 "name": "Rotsam Tob2"
 "size": "Tiny"
 "type": "Ooze"

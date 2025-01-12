@@ -13,6 +13,7 @@ aliases: ["shadowfey-tob1-2023", "Shadow Fey-tob2023"]
 *Source: Tome of Beasts 2023 Page 158*
 
 ```statblock
+"dice": false
 "name": "Shadow Fey Tob2023"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["ravenfolkscout-tob1-2023", "Ravenfolk Scout-tob2023"]
 *Source: Tome of Beasts 2023 Page 304*
 
 ```statblock
+"dice": false
 "name": "Ravenfolk Scout Tob2023"
 "size": "Medium"
 "type": "Humanoid"

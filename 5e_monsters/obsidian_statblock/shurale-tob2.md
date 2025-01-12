@@ -13,6 +13,7 @@ aliases: ["shurale", "Shurale-tob2"]
 *Source: Tome of Beasts 2 Page 327*
 
 ```statblock
+"dice": false
 "name": "Shurale Tob2"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["resinous-frog", "Resinous Frog-tob2"]
 *Source: Tome of Beasts 2 Page 397*
 
 ```statblock
+"dice": false
 "name": "Resinous Frog Tob2"
 "size": "Small"
 "type": "Beast"

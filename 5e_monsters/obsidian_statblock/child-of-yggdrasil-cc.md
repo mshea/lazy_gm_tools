@@ -13,6 +13,7 @@ aliases: ["child-of-yggdrasil", "Child of Yggdrasil-cc"]
 *Source: Creature Codex Page 61*
 
 ```statblock
+"dice": false
 "name": "Child Of Yggdrasil Cc"
 "size": "Large"
 "type": "Aberration"

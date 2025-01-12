@@ -13,6 +13,7 @@ aliases: ["greater-ghast-of-leng", "Greater Ghast of Leng-tob2"]
 *Source: Tome of Beasts 2 Page 52*
 
 ```statblock
+"dice": false
 "name": "Greater Ghast Of Leng Tob2"
 "size": "Large"
 "type": "Aberration"

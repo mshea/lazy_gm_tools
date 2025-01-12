@@ -13,6 +13,7 @@ aliases: ["hierophant-lich", "Hierophant Lich-cc"]
 *Source: Creature Codex Page 252*
 
 ```statblock
+"dice": false
 "name": "Hierophant Lich Cc"
 "size": "Medium"
 "type": "Undead"

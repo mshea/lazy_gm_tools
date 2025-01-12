@@ -13,6 +13,7 @@ aliases: ["ancient-bronze-dragon-a5e", "Ancient Bronze Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 160*
 
 ```statblock
+"dice": false
 "name": "Ancient Bronze Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

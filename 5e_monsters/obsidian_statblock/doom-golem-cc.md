@@ -13,6 +13,7 @@ aliases: ["doom-golem", "Doom Golem-cc"]
 *Source: Creature Codex Page 201*
 
 ```statblock
+"dice": false
 "name": "Doom Golem Cc"
 "size": "Large"
 "type": "Construct"

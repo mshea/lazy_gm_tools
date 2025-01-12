@@ -13,6 +13,7 @@ aliases: ["venomousmummy-tob1-2023", "Venomous Mummy-tob2023"]
 *Source: Tome of Beasts 2023 Page 279*
 
 ```statblock
+"dice": false
 "name": "Venomous Mummy Tob2023"
 "size": "Medium"
 "type": "Undead"

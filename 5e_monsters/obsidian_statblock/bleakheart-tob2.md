@@ -13,6 +13,7 @@ aliases: ["bleakheart", "Bleakheart-tob2"]
 *Source: Tome of Beasts 2 Page 43*
 
 ```statblock
+"dice": false
 "name": "Bleakheart Tob2"
 "size": "Medium"
 "type": "Undead"

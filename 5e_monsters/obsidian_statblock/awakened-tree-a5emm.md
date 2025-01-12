@@ -13,6 +13,7 @@ aliases: ["awakened-tree-a5e", "Awakened Tree-a5emm"]
 *Source: A5e Monstrous Menagerie Page 438*
 
 ```statblock
+"dice": false
 "name": "Awakened Tree A5Emm"
 "size": "Huge"
 "type": "Plant"

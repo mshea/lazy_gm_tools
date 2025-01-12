@@ -13,6 +13,7 @@ aliases: ["voidling-tob1-2023", "Voidling-tob2023"]
 *Source: Tome of Beasts 2023 Page 390*
 
 ```statblock
+"dice": false
 "name": "Voidling Tob2023"
 "size": "Large"
 "type": "Aberration"

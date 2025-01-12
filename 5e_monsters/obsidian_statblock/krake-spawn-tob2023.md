@@ -13,6 +13,7 @@ aliases: ["krakespawn-tob1-2023", "Krake Spawn-tob2023"]
 *Source: Tome of Beasts 2023 Page 249*
 
 ```statblock
+"dice": false
 "name": "Krake Spawn Tob2023"
 "size": "Huge"
 "type": "Monstrosity"

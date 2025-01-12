@@ -13,6 +13,7 @@ aliases: ["minotaur-a5e", "Minotaur-a5emm"]
 *Source: A5e Monstrous Menagerie Page 335*
 
 ```statblock
+"dice": false
 "name": "Minotaur A5Emm"
 "size": "Large"
 "type": "Monstrosity"

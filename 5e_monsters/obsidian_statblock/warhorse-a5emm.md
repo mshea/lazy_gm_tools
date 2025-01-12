@@ -13,6 +13,7 @@ aliases: ["warhorse-a5e", "Warhorse-a5emm"]
 *Source: A5e Monstrous Menagerie Page 462*
 
 ```statblock
+"dice": false
 "name": "Warhorse A5Emm"
 "size": "Large"
 "type": "Beast"

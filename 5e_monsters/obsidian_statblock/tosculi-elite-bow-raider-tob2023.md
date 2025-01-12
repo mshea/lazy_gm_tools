@@ -13,6 +13,7 @@ aliases: ["tosculielitebowraider-tob1-2023", "Tosculi Elite Bow Raider-tob2023"]
 *Source: Tome of Beasts 2023 Page 366*
 
 ```statblock
+"dice": false
 "name": "Tosculi Elite Bow Raider Tob2023"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["nihilethicdominator-tob1-2023", "Nihilethic Dominator-tob2023"]
 *Source: Tome of Beasts 2023 Page 10*
 
 ```statblock
+"dice": false
 "name": "Nihilethic Dominator Tob2023"
 "size": "Large"
 "type": "Undead"

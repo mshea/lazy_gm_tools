@@ -13,6 +13,7 @@ aliases: ["rhinoceros-a5e", "Rhinoceros-a5emm"]
 *Source: A5e Monstrous Menagerie Page 458*
 
 ```statblock
+"dice": false
 "name": "Rhinoceros A5Emm"
 "size": "Large"
 "type": "Beast"

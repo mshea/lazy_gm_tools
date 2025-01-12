@@ -13,6 +13,7 @@ aliases: ["fey-revenant", "Fey Revenant-tob2"]
 *Source: Tome of Beasts 2 Page 150*
 
 ```statblock
+"dice": false
 "name": "Fey Revenant Tob2"
 "size": "Large"
 "type": "Fey"

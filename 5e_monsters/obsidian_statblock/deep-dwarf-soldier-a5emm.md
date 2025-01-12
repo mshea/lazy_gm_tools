@@ -13,6 +13,7 @@ aliases: ["deep-dwarf-soldier-a5e", "Deep Dwarf Soldier-a5emm"]
 *Source: A5e Monstrous Menagerie Page 493*
 
 ```statblock
+"dice": false
 "name": "Deep Dwarf Soldier A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["myrmex", "Myrmex-tob3"]
 *Source: Tome of Beasts 3 Page 283*
 
 ```statblock
+"dice": false
 "name": "Myrmex Tob3"
 "size": "Medium"
 "type": "Elemental"

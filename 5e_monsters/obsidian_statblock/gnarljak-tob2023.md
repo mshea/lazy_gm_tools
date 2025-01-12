@@ -13,6 +13,7 @@ aliases: ["gnarljak-tob1-2023", "Gnarljak-tob2023"]
 *Source: Tome of Beasts 2023 Page 212*
 
 ```statblock
+"dice": false
 "name": "Gnarljak Tob2023"
 "size": "Small"
 "type": "Construct"

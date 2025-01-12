@@ -13,6 +13,7 @@ aliases: ["flumph-a5e", "Flumph-a5emm"]
 *Source: A5e Monstrous Menagerie Page 207*
 
 ```statblock
+"dice": false
 "name": "Flumph A5Emm"
 "size": "Small"
 "type": "Aberration"

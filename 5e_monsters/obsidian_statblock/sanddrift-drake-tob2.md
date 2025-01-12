@@ -13,6 +13,7 @@ aliases: ["sanddrift-drake", "Sanddrift Drake-tob2"]
 *Source: Tome of Beasts 2 Page 127*
 
 ```statblock
+"dice": false
 "name": "Sanddrift Drake Tob2"
 "size": "Large"
 "type": "Dragon"

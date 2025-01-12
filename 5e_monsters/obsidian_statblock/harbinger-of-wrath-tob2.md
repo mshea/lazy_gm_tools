@@ -13,6 +13,7 @@ aliases: ["harbinger-of-wrath", "Harbinger of Wrath-tob2"]
 *Source: Tome of Beasts 2 Page 193*
 
 ```statblock
+"dice": false
 "name": "Harbinger Of Wrath Tob2"
 "size": "Gargantuan"
 "type": "Construct"

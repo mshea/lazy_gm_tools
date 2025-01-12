@@ -13,6 +13,7 @@ aliases: ["vallowex", "Vallowex-tob2"]
 *Source: Tome of Beasts 2 Page 356*
 
 ```statblock
+"dice": false
 "name": "Vallowex Tob2"
 "size": "Large"
 "type": "Aberration"

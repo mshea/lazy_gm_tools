@@ -13,6 +13,7 @@ aliases: ["empyrean-a5e", "Empyrean-a5emm"]
 *Source: A5e Monstrous Menagerie Page 405*
 
 ```statblock
+"dice": false
 "name": "Empyrean A5Emm"
 "size": "Gargantuan"
 "type": "Celestial"

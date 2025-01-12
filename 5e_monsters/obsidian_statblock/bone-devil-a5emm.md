@@ -13,6 +13,7 @@ aliases: ["bone-devil-a5e", "Bone Devil-a5emm"]
 *Source: A5e Monstrous Menagerie Page 80*
 
 ```statblock
+"dice": false
 "name": "Bone Devil A5Emm"
 "size": "Large"
 "type": "Fiend"

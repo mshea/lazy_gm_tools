@@ -13,6 +13,7 @@ aliases: ["drake-reef", "Drake, Reef-tob3"]
 *Source: Tome of Beasts 3 Page 154*
 
 ```statblock
+"dice": false
 "name": "Drake, Reef Tob3"
 "size": "Huge"
 "type": "Dragon"

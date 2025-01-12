@@ -13,6 +13,7 @@ aliases: ["great-wyrm-black-dragon-a5e", "Great Wyrm Black Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 101*
 
 ```statblock
+"dice": false
 "name": "Great Wyrm Black Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

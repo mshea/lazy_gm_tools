@@ -13,6 +13,7 @@ aliases: ["kaveph", "Kaveph-tob2"]
 *Source: Tome of Beasts 2 Page 225*
 
 ```statblock
+"dice": false
 "name": "Kaveph Tob2"
 "size": "Huge"
 "type": "Aberration"

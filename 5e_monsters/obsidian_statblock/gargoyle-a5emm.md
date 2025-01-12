@@ -13,6 +13,7 @@ aliases: ["gargoyle-a5e", "Gargoyle-a5emm"]
 *Source: A5e Monstrous Menagerie Page 214*
 
 ```statblock
+"dice": false
 "name": "Gargoyle A5Emm"
 "size": "Medium"
 "type": "Elemental"

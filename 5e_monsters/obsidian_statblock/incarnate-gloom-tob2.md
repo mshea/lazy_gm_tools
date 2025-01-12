@@ -13,6 +13,7 @@ aliases: ["incarnate-gloom", "Incarnate Gloom-tob2"]
 *Source: Tome of Beasts 2 Page 213*
 
 ```statblock
+"dice": false
 "name": "Incarnate Gloom Tob2"
 "size": "Gargantuan"
 "type": "Undead"

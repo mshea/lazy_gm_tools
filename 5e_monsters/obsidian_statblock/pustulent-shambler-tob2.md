@@ -13,6 +13,7 @@ aliases: ["pustulent-shambler", "Pustulent Shambler-tob2"]
 *Source: Tome of Beasts 2 Page 299*
 
 ```statblock
+"dice": false
 "name": "Pustulent Shambler Tob2"
 "size": "Gargantuan"
 "type": "Ooze"

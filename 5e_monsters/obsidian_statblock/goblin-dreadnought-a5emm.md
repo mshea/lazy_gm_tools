@@ -13,6 +13,7 @@ aliases: ["goblin-dreadnought-a5e", "Goblin Dreadnought-a5emm"]
 *Source: A5e Monstrous Menagerie Page 250*
 
 ```statblock
+"dice": false
 "name": "Goblin Dreadnought A5Emm"
 "size": "Small"
 "type": "Humanoid"

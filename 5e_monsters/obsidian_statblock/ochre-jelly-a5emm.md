@@ -13,6 +13,7 @@ aliases: ["ochre-jelly-a5e", "Ochre Jelly-a5emm"]
 *Source: A5e Monstrous Menagerie Page 352*
 
 ```statblock
+"dice": false
 "name": "Ochre Jelly A5Emm"
 "size": "Large"
 "type": "Ooze"

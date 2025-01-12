@@ -13,6 +13,7 @@ aliases: ["philosophers-ghost", "Philosopher's Ghost-cc"]
 *Source: Creature Codex Page 297*
 
 ```statblock
+"dice": false
 "name": "Philosopher'S Ghost Cc"
 "size": "Medium"
 "type": "Ooze"

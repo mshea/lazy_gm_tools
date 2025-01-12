@@ -13,6 +13,7 @@ aliases: ["treacle-tob1-2023", "Treacle-tob2023"]
 *Source: Tome of Beasts 2023 Page 368*
 
 ```statblock
+"dice": false
 "name": "Treacle Tob2023"
 "size": "Tiny"
 "type": "Ooze"

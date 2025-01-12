@@ -13,6 +13,7 @@ aliases: ["primal-oozer", "Primal Oozer-tob2"]
 *Source: Tome of Beasts 2 Page 297*
 
 ```statblock
+"dice": false
 "name": "Primal Oozer Tob2"
 "size": "Medium"
 "type": "Aberration"

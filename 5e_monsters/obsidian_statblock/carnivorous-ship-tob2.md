@@ -13,6 +13,7 @@ aliases: ["carnivorous-ship", "Carnivorous Ship-tob2"]
 *Source: Tome of Beasts 2 Page 56*
 
 ```statblock
+"dice": false
 "name": "Carnivorous Ship Tob2"
 "size": "Gargantuan"
 "type": "Monstrosity"

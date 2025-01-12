@@ -13,6 +13,7 @@ aliases: ["triceratops-a5e", "Triceratops-a5emm"]
 *Source: A5e Monstrous Menagerie Page 91*
 
 ```statblock
+"dice": false
 "name": "Triceratops A5Emm"
 "size": "Huge"
 "type": "Beast"

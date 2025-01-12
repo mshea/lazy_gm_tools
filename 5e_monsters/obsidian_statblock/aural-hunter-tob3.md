@@ -13,6 +13,7 @@ aliases: ["aural-hunter", "Aural Hunter-tob3"]
 *Source: Tome of Beasts 3 Page 47*
 
 ```statblock
+"dice": false
 "name": "Aural Hunter Tob3"
 "size": "Large"
 "type": "Aberration"

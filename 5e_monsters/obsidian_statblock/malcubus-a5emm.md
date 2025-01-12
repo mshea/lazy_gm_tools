@@ -13,6 +13,7 @@ aliases: ["malcubus-a5e", "Malcubus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 319*
 
 ```statblock
+"dice": false
 "name": "Malcubus A5Emm"
 "size": "Medium"
 "type": "Fiend"

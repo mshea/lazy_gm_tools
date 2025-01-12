@@ -13,6 +13,7 @@ aliases: ["fennec-fox", "Fennec Fox-tob2"]
 *Source: Tome of Beasts 2 Page 0*
 
 ```statblock
+"dice": false
 "name": "Fennec Fox Tob2"
 "size": "Tiny"
 "type": "Beast"

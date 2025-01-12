@@ -13,6 +13,7 @@ aliases: ["jinnborn-air-pirate", "Jinnborn Air Pirate-tob3"]
 *Source: Tome of Beasts 3 Page 246*
 
 ```statblock
+"dice": false
 "name": "Jinnborn Air Pirate Tob3"
 "size": "Medium"
 "type": "Humanoid"

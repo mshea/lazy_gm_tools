@@ -13,6 +13,7 @@ aliases: ["vila-tob1-2023", "Vila-tob2023"]
 *Source: Tome of Beasts 2023 Page 386*
 
 ```statblock
+"dice": false
 "name": "Vila Tob2023"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["pixies-umbrella", "Pixie’s Umbrella-tob2"]
 *Source: Tome of Beasts 2 Page 158*
 
 ```statblock
+"dice": false
 "name": "Pixie’S Umbrella Tob2"
 "size": "Small"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["bucca-tob1-2023", "Bucca-tob2023"]
 *Source: Tome of Beasts 2023 Page 44*
 
 ```statblock
+"dice": false
 "name": "Bucca Tob2023"
 "size": "Tiny"
 "type": "Fey"

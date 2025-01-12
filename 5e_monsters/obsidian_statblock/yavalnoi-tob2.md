@@ -13,6 +13,7 @@ aliases: ["yavalnoi", "Yavalnoi-tob2"]
 *Source: Tome of Beasts 2 Page 379*
 
 ```statblock
+"dice": false
 "name": "Yavalnoi Tob2"
 "size": "Large"
 "type": "Aberration"

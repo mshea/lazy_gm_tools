@@ -13,6 +13,7 @@ aliases: ["rock-salamander", "Rock Salamander-tob3"]
 *Source: Tome of Beasts 3 Page 333*
 
 ```statblock
+"dice": false
 "name": "Rock Salamander Tob3"
 "size": "Tiny"
 "type": "Elemental"

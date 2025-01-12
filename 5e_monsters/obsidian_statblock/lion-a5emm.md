@@ -13,6 +13,7 @@ aliases: ["lion-a5e", "Lion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 454*
 
 ```statblock
+"dice": false
 "name": "Lion A5Emm"
 "size": "Large"
 "type": "Beast"

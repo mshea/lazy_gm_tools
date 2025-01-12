@@ -13,6 +13,7 @@ aliases: ["one-headed-clockwork-dragon", "One-Headed Clockwork Dragon-cc"]
 *Source: Creature Codex Page 111*
 
 ```statblock
+"dice": false
 "name": "One Headed Clockwork Dragon Cc"
 "size": "Large"
 "type": "Construct"

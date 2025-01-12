@@ -13,6 +13,7 @@ aliases: ["gerridae-tob1-2023", "Gerridae-tob2023"]
 *Source: Tome of Beasts 2023 Page 198*
 
 ```statblock
+"dice": false
 "name": "Gerridae Tob2023"
 "size": "Large"
 "type": "Fey"

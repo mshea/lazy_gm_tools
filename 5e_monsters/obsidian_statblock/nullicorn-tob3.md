@@ -13,6 +13,7 @@ aliases: ["nullicorn", "Nullicorn-tob3"]
 *Source: Tome of Beasts 3 Page 292*
 
 ```statblock
+"dice": false
 "name": "Nullicorn Tob3"
 "size": "Large"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["catonoctrix", "Catonoctrix-tob3"]
 *Source: Tome of Beasts 3 Page 75*
 
 ```statblock
+"dice": false
 "name": "Catonoctrix Tob3"
 "size": "Large"
 "type": "Aberration"

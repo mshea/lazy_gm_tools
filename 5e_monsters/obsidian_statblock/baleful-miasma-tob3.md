@@ -13,6 +13,7 @@ aliases: ["baleful-miasma", "Baleful Miasma-tob3"]
 *Source: Tome of Beasts 3 Page 50*
 
 ```statblock
+"dice": false
 "name": "Baleful Miasma Tob3"
 "size": "Medium"
 "type": "Elemental"

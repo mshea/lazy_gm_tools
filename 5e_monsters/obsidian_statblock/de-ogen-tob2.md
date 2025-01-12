@@ -13,6 +13,7 @@ aliases: ["de-ogen", "De Ogen-tob2"]
 *Source: Tome of Beasts 2 Page 80*
 
 ```statblock
+"dice": false
 "name": "De Ogen Tob2"
 "size": "Medium"
 "type": "Undead"

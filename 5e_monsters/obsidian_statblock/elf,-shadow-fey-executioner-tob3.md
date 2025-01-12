@@ -13,6 +13,7 @@ aliases: ["elf-shadow-fey-executioner", "Elf, Shadow Fey Executioner-tob3"]
 *Source: Tome of Beasts 3 Page 169*
 
 ```statblock
+"dice": false
 "name": "Elf, Shadow Fey Executioner Tob3"
 "size": "Medium"
 "type": "Humanoid"

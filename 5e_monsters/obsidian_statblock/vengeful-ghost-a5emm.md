@@ -13,6 +13,7 @@ aliases: ["vengeful-ghost-a5e", "Vengeful Ghost-a5emm"]
 *Source: A5e Monstrous Menagerie Page 227*
 
 ```statblock
+"dice": false
 "name": "Vengeful Ghost A5Emm"
 "size": "Medium"
 "type": "Undead"

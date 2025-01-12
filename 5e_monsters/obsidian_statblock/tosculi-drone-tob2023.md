@@ -13,6 +13,7 @@ aliases: ["tosculidrone-tob1-2023", "Tosculi Drone-tob2023"]
 *Source: Tome of Beasts 2023 Page 367*
 
 ```statblock
+"dice": false
 "name": "Tosculi Drone Tob2023"
 "size": "Small"
 "type": "Humanoid"

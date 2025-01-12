@@ -13,6 +13,7 @@ aliases: ["werynax", "Werynax-tob2"]
 *Source: Tome of Beasts 2 Page 367*
 
 ```statblock
+"dice": false
 "name": "Werynax Tob2"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["righteous-sentinel", "Righteous Sentinel-tob2"]
 *Source: Tome of Beasts 2 Page 307*
 
 ```statblock
+"dice": false
 "name": "Righteous Sentinel Tob2"
 "size": "Large"
 "type": "Construct"

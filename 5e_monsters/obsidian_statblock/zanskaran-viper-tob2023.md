@@ -13,6 +13,7 @@ aliases: ["zanskaranviper-tob1-2023", "Zanskaran Viper-tob2023"]
 *Source: Tome of Beasts 2023 Page 334*
 
 ```statblock
+"dice": false
 "name": "Zanskaran Viper Tob2023"
 "size": "Large"
 "type": "Beast"

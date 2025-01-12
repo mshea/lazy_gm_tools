@@ -13,6 +13,7 @@ aliases: ["warlocks-trumpetbloom", "Warlock's Trumpetbloom-cc"]
 *Source: Creature Codex Page 372*
 
 ```statblock
+"dice": false
 "name": "Warlock'S Trumpetbloom Cc"
 "size": "Large"
 "type": "Plant"

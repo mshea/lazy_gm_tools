@@ -13,6 +13,7 @@ aliases: ["muraenid", "Muraenid-tob3"]
 *Source: Tome of Beasts 3 Page 281*
 
 ```statblock
+"dice": false
 "name": "Muraenid Tob3"
 "size": "Large"
 "type": "Monstrosity"

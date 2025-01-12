@@ -13,6 +13,7 @@ aliases: ["pal-rai-yuk", "Pal-Rai-Yuk-tob2"]
 *Source: Tome of Beasts 2 Page 291*
 
 ```statblock
+"dice": false
 "name": "Pal Rai Yuk Tob2"
 "size": "Huge"
 "type": "Monstrosity"

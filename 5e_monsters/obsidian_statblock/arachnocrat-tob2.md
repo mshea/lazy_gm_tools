@@ -13,6 +13,7 @@ aliases: ["arachnocrat", "Arachnocrat-tob2"]
 *Source: Tome of Beasts 2 Page 102*
 
 ```statblock
+"dice": false
 "name": "Arachnocrat Tob2"
 "size": "Medium"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["necrotech-thunderer", "Necrotech Thunderer-tob3"]
 *Source: Tome of Beasts 3 Page 287*
 
 ```statblock
+"dice": false
 "name": "Necrotech Thunderer Tob3"
 "size": "Huge"
 "type": "Undead"

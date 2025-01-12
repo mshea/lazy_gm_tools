@@ -13,6 +13,7 @@ aliases: ["gullkin", "Gullkin-tob3"]
 *Source: Tome of Beasts 3 Page 223*
 
 ```statblock
+"dice": false
 "name": "Gullkin Tob3"
 "size": "Medium"
 "type": "Humanoid"

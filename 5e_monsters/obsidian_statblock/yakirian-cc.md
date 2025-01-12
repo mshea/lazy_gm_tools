@@ -13,6 +13,7 @@ aliases: ["yakirian", "Yakirian-cc"]
 *Source: Creature Codex Page 390*
 
 ```statblock
+"dice": false
 "name": "Yakirian Cc"
 "size": "Medium"
 "type": "Humanoid"

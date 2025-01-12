@@ -13,6 +13,7 @@ aliases: ["flying-polyp", "Flying Polyp-cc"]
 *Source: Creature Codex Page 162*
 
 ```statblock
+"dice": false
 "name": "Flying Polyp Cc"
 "size": "Huge"
 "type": "Aberration"

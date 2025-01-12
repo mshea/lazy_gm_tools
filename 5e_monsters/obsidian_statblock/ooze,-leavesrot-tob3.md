@@ -13,6 +13,7 @@ aliases: ["ooze-leavesrot", "Ooze, Leavesrot-tob3"]
 *Source: Tome of Beasts 3 Page 305*
 
 ```statblock
+"dice": false
 "name": "Ooze, Leavesrot Tob3"
 "size": "Large"
 "type": "Ooze"

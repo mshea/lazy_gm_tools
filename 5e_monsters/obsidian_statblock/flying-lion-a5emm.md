@@ -13,6 +13,7 @@ aliases: ["flying-lion-a5e", "Flying Lion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 256*
 
 ```statblock
+"dice": false
 "name": "Flying Lion A5Emm"
 "size": "Large"
 "type": "Monstrosity"

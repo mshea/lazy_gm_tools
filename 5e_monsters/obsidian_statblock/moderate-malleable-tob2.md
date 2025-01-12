@@ -13,6 +13,7 @@ aliases: ["moderate-malleable", "Moderate Malleable-tob2"]
 *Source: Tome of Beasts 2 Page 254*
 
 ```statblock
+"dice": false
 "name": "Moderate Malleable Tob2"
 "size": "Large"
 "type": "Aberration"

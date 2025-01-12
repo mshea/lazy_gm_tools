@@ -13,6 +13,7 @@ aliases: ["neophron", "Neophron-cc"]
 *Source: Creature Codex Page 87*
 
 ```statblock
+"dice": false
 "name": "Neophron Cc"
 "size": "Medium"
 "type": "Fiend"

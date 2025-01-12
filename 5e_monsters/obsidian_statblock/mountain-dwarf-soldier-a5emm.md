@@ -13,6 +13,7 @@ aliases: ["mountain-dwarf-soldier-a5e", "Mountain Dwarf Soldier-a5emm"]
 *Source: A5e Monstrous Menagerie Page 493*
 
 ```statblock
+"dice": false
 "name": "Mountain Dwarf Soldier A5Emm"
 "size": "Medium"
 "type": "Humanoid"

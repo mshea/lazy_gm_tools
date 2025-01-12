@@ -13,6 +13,7 @@ aliases: ["kongamato-tob1-2023", "Kongamato-tob2023"]
 *Source: Tome of Beasts 2023 Page 247*
 
 ```statblock
+"dice": false
 "name": "Kongamato Tob2023"
 "size": "Large"
 "type": "Beast"

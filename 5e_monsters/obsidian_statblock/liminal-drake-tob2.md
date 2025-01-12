@@ -13,6 +13,7 @@ aliases: ["liminal-drake", "Liminal Drake-tob2"]
 *Source: Tome of Beasts 2 Page 107*
 
 ```statblock
+"dice": false
 "name": "Liminal Drake Tob2"
 "size": "Large"
 "type": "Dragon"

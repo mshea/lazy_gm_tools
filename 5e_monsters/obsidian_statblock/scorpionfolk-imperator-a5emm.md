@@ -13,6 +13,7 @@ aliases: ["scorpionfolk-imperator-a5e", "Scorpionfolk Imperator-a5emm"]
 *Source: A5e Monstrous Menagerie Page 385*
 
 ```statblock
+"dice": false
 "name": "Scorpionfolk Imperator A5Emm"
 "size": "Large"
 "type": "Monstrosity"

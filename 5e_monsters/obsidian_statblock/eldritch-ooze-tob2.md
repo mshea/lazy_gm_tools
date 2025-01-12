@@ -13,6 +13,7 @@ aliases: ["eldritch-ooze", "Eldritch Ooze-tob2"]
 *Source: Tome of Beasts 2 Page 278*
 
 ```statblock
+"dice": false
 "name": "Eldritch Ooze Tob2"
 "size": "Large"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["berstuc-tob1-2023", "Berstuc-tob2023"]
 *Source: Tome of Beasts 2023 Page 83*
 
 ```statblock
+"dice": false
 "name": "Berstuc Tob2023"
 "size": "Large"
 "type": "Fiend"

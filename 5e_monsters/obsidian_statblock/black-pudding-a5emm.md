@@ -13,6 +13,7 @@ aliases: ["black-pudding-a5e", "Black Pudding-a5emm"]
 *Source: A5e Monstrous Menagerie Page 350*
 
 ```statblock
+"dice": false
 "name": "Black Pudding A5Emm"
 "size": "Large"
 "type": "Ooze"

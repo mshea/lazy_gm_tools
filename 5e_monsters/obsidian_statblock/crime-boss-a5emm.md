@@ -13,6 +13,7 @@ aliases: ["crime-boss-a5e", "Crime Boss-a5emm"]
 *Source: A5e Monstrous Menagerie Page 496*
 
 ```statblock
+"dice": false
 "name": "Crime Boss A5Emm"
 "size": "Medium"
 "type": "Humanoid"

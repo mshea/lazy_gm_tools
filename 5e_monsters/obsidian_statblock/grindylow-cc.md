@@ -13,6 +13,7 @@ aliases: ["grindylow", "Grindylow-cc"]
 *Source: Creature Codex Page 210*
 
 ```statblock
+"dice": false
 "name": "Grindylow Cc"
 "size": "Medium"
 "type": "Aberration"

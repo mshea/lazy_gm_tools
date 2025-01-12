@@ -13,6 +13,7 @@ aliases: ["angel-of-judgment", "Angel of Judgment-tob2"]
 *Source: Tome of Beasts 2 Page 16*
 
 ```statblock
+"dice": false
 "name": "Angel Of Judgment Tob2"
 "size": "Huge"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["shroud-ray-a5e", "Shroud Ray-a5emm"]
 *Source: A5e Monstrous Menagerie Page 50*
 
 ```statblock
+"dice": false
 "name": "Shroud Ray A5Emm"
 "size": "Large"
 "type": "Aberration"

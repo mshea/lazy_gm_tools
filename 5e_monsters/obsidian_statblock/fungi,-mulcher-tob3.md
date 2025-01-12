@@ -13,6 +13,7 @@ aliases: ["fungi-mulcher", "Fungi, Mulcher-tob3"]
 *Source: Tome of Beasts 3 Page 191*
 
 ```statblock
+"dice": false
 "name": "Fungi, Mulcher Tob3"
 "size": "Gargantuan"
 "type": "Plant"

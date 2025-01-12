@@ -13,6 +13,7 @@ aliases: ["wight-a5e", "Wight-a5emm"]
 *Source: A5e Monstrous Menagerie Page 423*
 
 ```statblock
+"dice": false
 "name": "Wight A5Emm"
 "size": "Medium"
 "type": "Undead"

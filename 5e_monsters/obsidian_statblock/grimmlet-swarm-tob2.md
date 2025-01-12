@@ -13,6 +13,7 @@ aliases: ["grimmlet-swarm", "Grimmlet Swarm-tob2"]
 *Source: Tome of Beasts 2 Page 187*
 
 ```statblock
+"dice": false
 "name": "Grimmlet Swarm Tob2"
 "size": "Large"
 "type": "Monstrosity"

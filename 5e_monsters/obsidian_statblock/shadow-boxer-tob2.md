@@ -13,6 +13,7 @@ aliases: ["shadow-boxer", "Shadow Boxer-tob2"]
 *Source: Tome of Beasts 2 Page 322*
 
 ```statblock
+"dice": false
 "name": "Shadow Boxer Tob2"
 "size": "Small"
 "type": "Fey"

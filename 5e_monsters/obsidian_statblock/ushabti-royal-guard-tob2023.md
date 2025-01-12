@@ -13,6 +13,7 @@ aliases: ["ushabtiroyalguard-tob1-2023", "Ushabti Royal Guard-tob2023"]
 *Source: Tome of Beasts 2023 Page 377*
 
 ```statblock
+"dice": false
 "name": "Ushabti Royal Guard Tob2023"
 "size": "Large"
 "type": "Construct"

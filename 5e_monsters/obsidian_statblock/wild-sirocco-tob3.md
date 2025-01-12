@@ -13,6 +13,7 @@ aliases: ["wild-sirocco", "Wild Sirocco-tob3"]
 *Source: Tome of Beasts 3 Page 391*
 
 ```statblock
+"dice": false
 "name": "Wild Sirocco Tob3"
 "size": "Large"
 "type": "Elemental"

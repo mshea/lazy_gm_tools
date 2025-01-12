@@ -13,6 +13,7 @@ aliases: ["brain-hood", "Brain Hood-tob2"]
 *Source: Tome of Beasts 2 Page 50*
 
 ```statblock
+"dice": false
 "name": "Brain Hood Tob2"
 "size": "Tiny"
 "type": "Aberration"

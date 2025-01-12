@@ -13,6 +13,7 @@ aliases: ["death-dog-a5e", "Death Dog-a5emm"]
 *Source: A5e Monstrous Menagerie Page 442*
 
 ```statblock
+"dice": false
 "name": "Death Dog A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

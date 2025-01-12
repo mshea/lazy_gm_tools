@@ -13,6 +13,7 @@ aliases: ["animated-armor-a5e", "Animated Armor-a5emm"]
 *Source: A5e Monstrous Menagerie Page 23*
 
 ```statblock
+"dice": false
 "name": "Animated Armor A5Emm"
 "size": "Medium"
 "type": "Construct"

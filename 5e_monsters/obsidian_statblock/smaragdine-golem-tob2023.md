@@ -13,6 +13,7 @@ aliases: ["smaragdinegolem-tob1-2023", "Smaragdine Golem-tob2023"]
 *Source: Tome of Beasts 2023 Page 219*
 
 ```statblock
+"dice": false
 "name": "Smaragdine Golem Tob2023"
 "size": "Large"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["beli-tob1-2023", "Beli-tob2023"]
 *Source: Tome of Beasts 2023 Page 35*
 
 ```statblock
+"dice": false
 "name": "Beli Tob2023"
 "size": "Small"
 "type": "Fey"

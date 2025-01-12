@@ -13,6 +13,7 @@ aliases: ["devil-bough", "Devil Bough-cc"]
 *Source: Creature Codex Page 302*
 
 ```statblock
+"dice": false
 "name": "Devil Bough Cc"
 "size": "Huge"
 "type": "Fiend"

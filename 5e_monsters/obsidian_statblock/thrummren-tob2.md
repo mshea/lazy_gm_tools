@@ -13,6 +13,7 @@ aliases: ["thrummren", "Thrummren-tob2"]
 *Source: Tome of Beasts 2 Page 347*
 
 ```statblock
+"dice": false
 "name": "Thrummren Tob2"
 "size": "Gargantuan"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["giant-frilled-lizard", "Giant Frilled Lizard-tob2"]
 *Source: Tome of Beasts 2 Page 392*
 
 ```statblock
+"dice": false
 "name": "Giant Frilled Lizard Tob2"
 "size": "Large"
 "type": "Beast"

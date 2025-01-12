@@ -13,6 +13,7 @@ aliases: ["purple-worm-a5e", "Purple Worm-a5emm"]
 *Source: A5e Monstrous Menagerie Page 365*
 
 ```statblock
+"dice": false
 "name": "Purple Worm A5Emm"
 "size": "Gargantuan"
 "type": "Monstrosity"

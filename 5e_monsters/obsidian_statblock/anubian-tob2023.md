@@ -13,6 +13,7 @@ aliases: ["anubian-tob1-2023", "Anubian-tob2023"]
 *Source: Tome of Beasts 2023 Page 23*
 
 ```statblock
+"dice": false
 "name": "Anubian Tob2023"
 "size": "Medium"
 "type": "Elemental"

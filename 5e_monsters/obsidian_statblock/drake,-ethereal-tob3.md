@@ -13,6 +13,7 @@ aliases: ["drake-ethereal", "Drake, Ethereal-tob3"]
 *Source: Tome of Beasts 3 Page 153*
 
 ```statblock
+"dice": false
 "name": "Drake, Ethereal Tob3"
 "size": "Large"
 "type": "Dragon"

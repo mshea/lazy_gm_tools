@@ -13,6 +13,7 @@ aliases: ["mandriano", "Mandriano-cc"]
 *Source: Creature Codex Page 261*
 
 ```statblock
+"dice": false
 "name": "Mandriano Cc"
 "size": "Large"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["demon-leech", "Demon, Leech-tob3"]
 *Source: Tome of Beasts 3 Page 110*
 
 ```statblock
+"dice": false
 "name": "Demon, Leech Tob3"
 "size": "Large"
 "type": "Fiend"

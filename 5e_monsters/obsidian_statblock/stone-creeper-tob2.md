@@ -13,6 +13,7 @@ aliases: ["stone-creeper", "Stone Creeper-tob2"]
 *Source: Tome of Beasts 2 Page 339*
 
 ```statblock
+"dice": false
 "name": "Stone Creeper Tob2"
 "size": "Medium"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["two-headed-eagle", "Two-Headed Eagle-cc"]
 *Source: Creature Codex Page 360*
 
 ```statblock
+"dice": false
 "name": "Two Headed Eagle Cc"
 "size": "Huge"
 "type": "Monstrosity"

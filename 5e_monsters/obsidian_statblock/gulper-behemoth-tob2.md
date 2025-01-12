@@ -13,6 +13,7 @@ aliases: ["gulper-behemoth", "Gulper Behemoth-tob2"]
 *Source: Tome of Beasts 2 Page 190*
 
 ```statblock
+"dice": false
 "name": "Gulper Behemoth Tob2"
 "size": "Gargantuan"
 "type": "Monstrosity"

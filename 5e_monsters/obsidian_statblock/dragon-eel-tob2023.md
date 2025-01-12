@@ -13,6 +13,7 @@ aliases: ["dragoneel-tob1-2023", "Dragon Eel-tob2023"]
 *Source: Tome of Beasts 2023 Page 111*
 
 ```statblock
+"dice": false
 "name": "Dragon Eel Tob2023"
 "size": "Huge"
 "type": "Dragon"

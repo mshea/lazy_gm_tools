@@ -13,6 +13,7 @@ aliases: ["derro-voidwarped", "Derro, Voidwarped-tob3"]
 *Source: Tome of Beasts 3 Page 113*
 
 ```statblock
+"dice": false
 "name": "Derro, Voidwarped Tob3"
 "size": "Small"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["ogrepede", "Ogrepede-tob2"]
 *Source: Tome of Beasts 2 Page 275*
 
 ```statblock
+"dice": false
 "name": "Ogrepede Tob2"
 "size": "Huge"
 "type": "Undead"

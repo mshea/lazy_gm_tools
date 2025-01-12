@@ -13,6 +13,7 @@ aliases: ["vampiric-knight", "Vampiric Knight-cc"]
 *Source: Creature Codex Page 369*
 
 ```statblock
+"dice": false
 "name": "Vampiric Knight Cc"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["bathhouse-drake", "Bathhouse Drake-cc"]
 *Source: Creature Codex Page 130*
 
 ```statblock
+"dice": false
 "name": "Bathhouse Drake Cc"
 "size": "Medium"
 "type": "Dragon"

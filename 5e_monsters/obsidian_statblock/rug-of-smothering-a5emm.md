@@ -13,6 +13,7 @@ aliases: ["rug-of-smothering-a5e", "Rug of Smothering-a5emm"]
 *Source: A5e Monstrous Menagerie Page 24*
 
 ```statblock
+"dice": false
 "name": "Rug Of Smothering A5Emm"
 "size": "Large"
 "type": "Construct"

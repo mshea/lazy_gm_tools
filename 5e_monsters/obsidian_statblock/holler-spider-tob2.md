@@ -13,6 +13,7 @@ aliases: ["holler-spider", "Holler Spider-tob2"]
 *Source: Tome of Beasts 2 Page 395*
 
 ```statblock
+"dice": false
 "name": "Holler Spider Tob2"
 "size": "Tiny"
 "type": "Beast"

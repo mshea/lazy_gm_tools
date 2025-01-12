@@ -13,6 +13,7 @@ aliases: ["kallikantzaros", "Kallikantzaros-cc"]
 *Source: Creature Codex Page 233*
 
 ```statblock
+"dice": false
 "name": "Kallikantzaros Cc"
 "size": "Small"
 "type": "Fey"

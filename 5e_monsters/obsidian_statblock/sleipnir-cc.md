@@ -13,6 +13,7 @@ aliases: ["sleipnir", "Sleipnir-cc"]
 *Source: Creature Codex Page 344*
 
 ```statblock
+"dice": false
 "name": "Sleipnir Cc"
 "size": "Large"
 "type": "Monstrosity"

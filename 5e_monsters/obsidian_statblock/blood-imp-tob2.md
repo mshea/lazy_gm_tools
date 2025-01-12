@@ -13,6 +13,7 @@ aliases: ["blood-imp", "Blood Imp-tob2"]
 *Source: Tome of Beasts 2 Page 103*
 
 ```statblock
+"dice": false
 "name": "Blood Imp Tob2"
 "size": "Tiny"
 "type": "Fiend"

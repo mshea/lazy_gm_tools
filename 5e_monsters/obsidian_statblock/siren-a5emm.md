@@ -13,6 +13,7 @@ aliases: ["siren-a5e", "Siren-a5emm"]
 *Source: A5e Monstrous Menagerie Page 276*
 
 ```statblock
+"dice": false
 "name": "Siren A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

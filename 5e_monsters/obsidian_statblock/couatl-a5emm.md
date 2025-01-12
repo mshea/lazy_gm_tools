@@ -13,6 +13,7 @@ aliases: ["couatl-a5e", "Couatl-a5emm"]
 *Source: A5e Monstrous Menagerie Page 56*
 
 ```statblock
+"dice": false
 "name": "Couatl A5Emm"
 "size": "Medium"
 "type": "Celestial"

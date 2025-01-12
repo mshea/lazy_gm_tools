@@ -13,6 +13,7 @@ aliases: ["dread-troll-a5e", "Dread Troll-a5emm"]
 *Source: A5e Monstrous Menagerie Page 413*
 
 ```statblock
+"dice": false
 "name": "Dread Troll A5Emm"
 "size": "Large"
 "type": "Giant"

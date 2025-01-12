@@ -13,6 +13,7 @@ aliases: ["scorchrunner-jackal", "Scorchrunner Jackal-tob3"]
 *Source: Tome of Beasts 3 Page 340*
 
 ```statblock
+"dice": false
 "name": "Scorchrunner Jackal Tob3"
 "size": "Medium"
 "type": "Monstrosity"

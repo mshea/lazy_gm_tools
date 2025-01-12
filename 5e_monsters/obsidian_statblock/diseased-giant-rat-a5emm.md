@@ -13,6 +13,7 @@ aliases: ["diseased-giant-rat-a5e", "Diseased Giant Rat-a5emm"]
 *Source: A5e Monstrous Menagerie Page 449*
 
 ```statblock
+"dice": false
 "name": "Diseased Giant Rat A5Emm"
 "size": "Small"
 "type": "Beast"

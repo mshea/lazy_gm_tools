@@ -13,6 +13,7 @@ aliases: ["goliath-longlegs", "Goliath Longlegs-cc"]
 *Source: Creature Codex Page 206*
 
 ```statblock
+"dice": false
 "name": "Goliath Longlegs Cc"
 "size": "Gargantuan"
 "type": "Monstrosity"

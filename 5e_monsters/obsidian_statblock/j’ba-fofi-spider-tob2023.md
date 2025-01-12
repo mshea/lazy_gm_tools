@@ -13,6 +13,7 @@ aliases: ["jbafofispider-tob1-2023", "J’ba Fofi Spider-tob2023"]
 *Source: Tome of Beasts 2023 Page 344*
 
 ```statblock
+"dice": false
 "name": "J’Ba Fofi Spider Tob2023"
 "size": "Large"
 "type": "Beast"

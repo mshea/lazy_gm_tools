@@ -13,6 +13,7 @@ aliases: ["wind-eater", "Wind Eater-cc"]
 *Source: Creature Codex Page 381*
 
 ```statblock
+"dice": false
 "name": "Wind Eater Cc"
 "size": "Medium"
 "type": "Undead"

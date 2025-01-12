@@ -13,6 +13,7 @@ aliases: ["lemure-a5e", "Lemure-a5emm"]
 *Source: A5e Monstrous Menagerie Page 86*
 
 ```statblock
+"dice": false
 "name": "Lemure A5Emm"
 "size": "Medium"
 "type": "Fiend"

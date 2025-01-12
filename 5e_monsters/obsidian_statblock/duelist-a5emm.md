@@ -13,6 +13,7 @@ aliases: ["duelist-a5e", "Duelist-a5emm"]
 *Source: A5e Monstrous Menagerie Page 497*
 
 ```statblock
+"dice": false
 "name": "Duelist A5Emm"
 "size": "Medium"
 "type": "Humanoid"

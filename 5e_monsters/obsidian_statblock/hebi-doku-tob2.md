@@ -13,6 +13,7 @@ aliases: ["hebi-doku", "Hebi-Doku-tob2"]
 *Source: Tome of Beasts 2 Page 222*
 
 ```statblock
+"dice": false
 "name": "Hebi Doku Tob2"
 "size": "Medium"
 "type": "Fey"

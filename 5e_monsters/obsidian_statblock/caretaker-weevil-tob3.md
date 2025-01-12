@@ -13,6 +13,7 @@ aliases: ["caretaker-weevil", "Caretaker Weevil-tob3"]
 *Source: Tome of Beasts 3 Page 73*
 
 ```statblock
+"dice": false
 "name": "Caretaker Weevil Tob3"
 "size": "Medium"
 "type": "Beast"

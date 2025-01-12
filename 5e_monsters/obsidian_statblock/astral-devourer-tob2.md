@@ -13,6 +13,7 @@ aliases: ["astral-devourer", "Astral Devourer-tob2"]
 *Source: Tome of Beasts 2 Page 30*
 
 ```statblock
+"dice": false
 "name": "Astral Devourer Tob2"
 "size": "Medium"
 "type": "Aberration"

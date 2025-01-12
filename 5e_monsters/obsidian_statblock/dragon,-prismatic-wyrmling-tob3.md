@@ -13,6 +13,7 @@ aliases: ["dragon-prismatic-wyrmling", "Dragon, Prismatic Wyrmling-tob3"]
 *Source: Tome of Beasts 3 Page 140*
 
 ```statblock
+"dice": false
 "name": "Dragon, Prismatic Wyrmling Tob3"
 "size": "Medium"
 "type": "Dragon"

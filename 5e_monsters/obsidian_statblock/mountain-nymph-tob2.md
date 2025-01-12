@@ -13,6 +13,7 @@ aliases: ["mountain-nymph", "Mountain Nymph-tob2"]
 *Source: Tome of Beasts 2 Page 261*
 
 ```statblock
+"dice": false
 "name": "Mountain Nymph Tob2"
 "size": "Medium"
 "type": "Fey"

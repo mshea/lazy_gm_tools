@@ -13,6 +13,7 @@ aliases: ["nightmare-a5e", "Nightmare-a5emm"]
 *Source: A5e Monstrous Menagerie Page 344*
 
 ```statblock
+"dice": false
 "name": "Nightmare A5Emm"
 "size": "Large"
 "type": "Fiend"

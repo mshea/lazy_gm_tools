@@ -13,6 +13,7 @@ aliases: ["starspawnofcthulhu-tob1-2023", "Star Spawn of Cthulhu-tob2023"]
 *Source: Tome of Beasts 2023 Page 348*
 
 ```statblock
+"dice": false
 "name": "Star Spawn Of Cthulhu Tob2023"
 "size": "Large"
 "type": "Fiend"

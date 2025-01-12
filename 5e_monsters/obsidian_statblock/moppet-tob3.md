@@ -13,6 +13,7 @@ aliases: ["moppet", "Moppet-tob3"]
 *Source: Tome of Beasts 3 Page 277*
 
 ```statblock
+"dice": false
 "name": "Moppet Tob3"
 "size": "Tiny"
 "type": "Construct"

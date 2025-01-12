@@ -13,6 +13,7 @@ aliases: ["goat-man-tob1-2023", "Goat-Man-tob2023"]
 *Source: Tome of Beasts 2023 Page 214*
 
 ```statblock
+"dice": false
 "name": "Goat Man Tob2023"
 "size": "Medium"
 "type": "Monstrosity"

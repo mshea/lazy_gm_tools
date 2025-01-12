@@ -13,6 +13,7 @@ aliases: ["elephant-a5e", "Elephant-a5emm"]
 *Source: A5e Monstrous Menagerie Page 443*
 
 ```statblock
+"dice": false
 "name": "Elephant A5Emm"
 "size": "Huge"
 "type": "Beast"

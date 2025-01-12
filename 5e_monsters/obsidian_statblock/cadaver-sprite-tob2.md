@@ -13,6 +13,7 @@ aliases: ["cadaver-sprite", "Cadaver Sprite-tob2"]
 *Source: Tome of Beasts 2 Page 55*
 
 ```statblock
+"dice": false
 "name": "Cadaver Sprite Tob2"
 "size": "Tiny"
 "type": "Undead"

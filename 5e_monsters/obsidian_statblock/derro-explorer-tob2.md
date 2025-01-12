@@ -13,6 +13,7 @@ aliases: ["derro-explorer", "Derro Explorer-tob2"]
 *Source: Tome of Beasts 2 Page 97*
 
 ```statblock
+"dice": false
 "name": "Derro Explorer Tob2"
 "size": "Small"
 "type": "Humanoid"

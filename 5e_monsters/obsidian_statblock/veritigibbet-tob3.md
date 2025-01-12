@@ -13,6 +13,7 @@ aliases: ["veritigibbet", "Veritigibbet-tob3"]
 *Source: Tome of Beasts 3 Page 384*
 
 ```statblock
+"dice": false
 "name": "Veritigibbet Tob3"
 "size": "Small"
 "type": "Fey"

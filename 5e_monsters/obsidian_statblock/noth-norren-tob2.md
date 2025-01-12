@@ -13,6 +13,7 @@ aliases: ["noth-norren", "Noth-norren-tob2"]
 *Source: Tome of Beasts 2 Page 270*
 
 ```statblock
+"dice": false
 "name": "Noth Norren Tob2"
 "size": "Gargantuan"
 "type": "Elemental"

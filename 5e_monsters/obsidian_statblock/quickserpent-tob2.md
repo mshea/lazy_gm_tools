@@ -13,6 +13,7 @@ aliases: ["quickserpent", "Quickserpent-tob2"]
 *Source: Tome of Beasts 2 Page 303*
 
 ```statblock
+"dice": false
 "name": "Quickserpent Tob2"
 "size": "Large"
 "type": "Beast"

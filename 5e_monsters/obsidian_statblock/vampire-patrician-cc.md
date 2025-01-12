@@ -13,6 +13,7 @@ aliases: ["vampire-patrician", "Vampire Patrician-cc"]
 *Source: Creature Codex Page 365*
 
 ```statblock
+"dice": false
 "name": "Vampire Patrician Cc"
 "size": "Medium"
 "type": "Undead"

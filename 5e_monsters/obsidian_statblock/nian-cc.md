@@ -13,6 +13,7 @@ aliases: ["nian", "Nian-cc"]
 *Source: Creature Codex Page 276*
 
 ```statblock
+"dice": false
 "name": "Nian Cc"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["oasis-keeper", "Oasis Keeper-tob2"]
 *Source: Tome of Beasts 2 Page 273*
 
 ```statblock
+"dice": false
 "name": "Oasis Keeper Tob2"
 "size": "Huge"
 "type": "Monstrosity"

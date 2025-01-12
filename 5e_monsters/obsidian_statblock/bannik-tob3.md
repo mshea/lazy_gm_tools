@@ -13,6 +13,7 @@ aliases: ["bannik", "Bannik-tob3"]
 *Source: Tome of Beasts 3 Page 51*
 
 ```statblock
+"dice": false
 "name": "Bannik Tob3"
 "size": "Medium"
 "type": "Fey"

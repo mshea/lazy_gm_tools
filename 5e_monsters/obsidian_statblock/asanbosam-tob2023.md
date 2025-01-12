@@ -13,6 +13,7 @@ aliases: ["asanbosam-tob1-2023", "Asanbosam-tob2023"]
 *Source: Tome of Beasts 2023 Page 27*
 
 ```statblock
+"dice": false
 "name": "Asanbosam Tob2023"
 "size": "Large"
 "type": "Aberration"

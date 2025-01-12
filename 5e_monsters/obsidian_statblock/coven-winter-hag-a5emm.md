@@ -13,6 +13,7 @@ aliases: ["coven-winter-hag-a5e", "Coven Winter Hag-a5emm"]
 *Source: A5e Monstrous Menagerie Page 272*
 
 ```statblock
+"dice": false
 "name": "Coven Winter Hag A5Emm"
 "size": "Medium"
 "type": "Fey"

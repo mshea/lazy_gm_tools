@@ -13,6 +13,7 @@ aliases: ["archfey-a5e", "Archfey-a5emm"]
 *Source: A5e Monstrous Menagerie Page 200*
 
 ```statblock
+"dice": false
 "name": "Archfey A5Emm"
 "size": "Medium"
 "type": "Fey"

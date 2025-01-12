@@ -13,6 +13,7 @@ aliases: ["pony-a5e", "Pony-a5emm"]
 *Source: A5e Monstrous Menagerie Page 457*
 
 ```statblock
+"dice": false
 "name": "Pony A5Emm"
 "size": "Medium"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["wood-elf-scout-a5e", "Wood Elf Scout-a5emm"]
 *Source: A5e Monstrous Menagerie Page 491*
 
 ```statblock
+"dice": false
 "name": "Wood Elf Scout A5Emm"
 "size": "Medium"
 "type": "Humanoid"

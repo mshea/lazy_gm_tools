@@ -13,6 +13,7 @@ aliases: ["akyishigal-tob1-2023", "Akyishigal-tob2023"]
 *Source: Tome of Beasts 2023 Page 75*
 
 ```statblock
+"dice": false
 "name": "Akyishigal Tob2023"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["black-sun-priestess", "Black Sun Priestess-cc"]
 *Source: Creature Codex Page 290*
 
 ```statblock
+"dice": false
 "name": "Black Sun Priestess Cc"
 "size": "Medium"
 "type": "Humanoid"

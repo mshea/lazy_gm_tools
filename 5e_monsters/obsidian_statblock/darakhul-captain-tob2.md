@@ -13,6 +13,7 @@ aliases: ["darakhul-captain", "Darakhul Captain-tob2"]
 *Source: Tome of Beasts 2 Page 166*
 
 ```statblock
+"dice": false
 "name": "Darakhul Captain Tob2"
 "size": "Medium"
 "type": "Undead"

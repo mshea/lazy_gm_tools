@@ -13,6 +13,7 @@ aliases: ["bilwis", "Bilwis-cc"]
 *Source: Creature Codex Page 53*
 
 ```statblock
+"dice": false
 "name": "Bilwis Cc"
 "size": "Medium"
 "type": "Elemental"

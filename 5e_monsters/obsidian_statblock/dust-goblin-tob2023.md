@@ -13,6 +13,7 @@ aliases: ["dustgoblin-tob1-2023", "Dust Goblin-tob2023"]
 *Source: Tome of Beasts 2023 Page 215*
 
 ```statblock
+"dice": false
 "name": "Dust Goblin Tob2023"
 "size": "Small"
 "type": "Humanoid"

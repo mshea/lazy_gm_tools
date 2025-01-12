@@ -13,6 +13,7 @@ aliases: ["angel-psychopomp", "Angel, Psychopomp-tob3"]
 *Source: Tome of Beasts 3 Page 28*
 
 ```statblock
+"dice": false
 "name": "Angel, Psychopomp Tob3"
 "size": "Medium"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["soldier-a5e", "Soldier-a5emm"]
 *Source: A5e Monstrous Menagerie Page 493*
 
 ```statblock
+"dice": false
 "name": "Soldier A5Emm"
 "size": "Medium"
 "type": "Humanoid"

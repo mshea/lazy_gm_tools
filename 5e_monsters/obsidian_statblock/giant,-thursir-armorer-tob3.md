@@ -13,6 +13,7 @@ aliases: ["giant-thursir-armorer", "Giant, Thursir Armorer-tob3"]
 *Source: Tome of Beasts 3 Page 206*
 
 ```statblock
+"dice": false
 "name": "Giant, Thursir Armorer Tob3"
 "size": "Large"
 "type": "Giant"

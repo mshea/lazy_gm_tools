@@ -13,6 +13,7 @@ aliases: ["obeleric", "Obeleric-tob3"]
 *Source: Tome of Beasts 3 Page 294*
 
 ```statblock
+"dice": false
 "name": "Obeleric Tob3"
 "size": "Medium"
 "type": "Aberration"

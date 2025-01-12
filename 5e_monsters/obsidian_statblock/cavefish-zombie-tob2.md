@@ -13,6 +13,7 @@ aliases: ["cavefish-zombie", "Cavefish Zombie-tob2"]
 *Source: Tome of Beasts 2 Page 384*
 
 ```statblock
+"dice": false
 "name": "Cavefish Zombie Tob2"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["shoreline-scrapper", "Shoreline Scrapper-cc"]
 *Source: Creature Codex Page 43*
 
 ```statblock
+"dice": false
 "name": "Shoreline Scrapper Cc"
 "size": "Large"
 "type": "Beast"

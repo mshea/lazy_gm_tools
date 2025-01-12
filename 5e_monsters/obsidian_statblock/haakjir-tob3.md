@@ -13,6 +13,7 @@ aliases: ["haakjir", "Haakjir-tob3"]
 *Source: Tome of Beasts 3 Page 224*
 
 ```statblock
+"dice": false
 "name": "Haakjir Tob3"
 "size": "Medium"
 "type": "Monstrosity"

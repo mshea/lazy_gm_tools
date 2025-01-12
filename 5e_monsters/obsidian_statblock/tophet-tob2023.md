@@ -13,6 +13,7 @@ aliases: ["tophet-tob1-2023", "Tophet-tob2023"]
 *Source: Tome of Beasts 2023 Page 364*
 
 ```statblock
+"dice": false
 "name": "Tophet Tob2023"
 "size": "Huge"
 "type": "Construct"

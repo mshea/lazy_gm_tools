@@ -13,6 +13,7 @@ aliases: ["strife-tob1-2023", "Strife-tob2023"]
 *Source: Tome of Beasts 2023 Page 349*
 
 ```statblock
+"dice": false
 "name": "Strife Tob2023"
 "size": "Small"
 "type": "Fey"

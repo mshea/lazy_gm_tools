@@ -13,6 +13,7 @@ aliases: ["corrupted-pixie", "Corrupted Pixie-tob2"]
 *Source: Tome of Beasts 2 Page 72*
 
 ```statblock
+"dice": false
 "name": "Corrupted Pixie Tob2"
 "size": "Tiny"
 "type": "Fiend"

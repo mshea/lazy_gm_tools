@@ -13,6 +13,7 @@ aliases: ["haugbui-tob1-2023", "Haugbui-tob2023"]
 *Source: Tome of Beasts 2023 Page 231*
 
 ```statblock
+"dice": false
 "name": "Haugbui Tob2023"
 "size": "Medium"
 "type": "Undead"

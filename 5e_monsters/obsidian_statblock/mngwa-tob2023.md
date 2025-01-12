@@ -13,6 +13,7 @@ aliases: ["mngwa-tob1-2023", "Mngwa-tob2023"]
 *Source: Tome of Beasts 2023 Page 273*
 
 ```statblock
+"dice": false
 "name": "Mngwa Tob2023"
 "size": "Medium"
 "type": "Aberration"

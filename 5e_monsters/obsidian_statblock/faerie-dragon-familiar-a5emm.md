@@ -13,6 +13,7 @@ aliases: ["faerie-dragon-familiar-a5e", "Faerie Dragon Familiar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 205*
 
 ```statblock
+"dice": false
 "name": "Faerie Dragon Familiar A5Emm"
 "size": "Tiny"
 "type": "Dragon"

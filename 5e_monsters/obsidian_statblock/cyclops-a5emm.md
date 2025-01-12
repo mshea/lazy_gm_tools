@@ -13,6 +13,7 @@ aliases: ["cyclops-a5e", "Cyclops-a5emm"]
 *Source: A5e Monstrous Menagerie Page 58*
 
 ```statblock
+"dice": false
 "name": "Cyclops A5Emm"
 "size": "Huge"
 "type": "Giant"

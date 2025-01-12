@@ -13,6 +13,7 @@ aliases: ["vanara", "Vanara-cc"]
 *Source: Creature Codex Page 235*
 
 ```statblock
+"dice": false
 "name": "Vanara Cc"
 "size": "Medium"
 "type": "Humanoid"

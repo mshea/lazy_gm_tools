@@ -13,6 +13,7 @@ aliases: ["trollkinreaver-tob1-2023", "Trollkin Reaver-tob2023"]
 *Source: Tome of Beasts 2023 Page 371*
 
 ```statblock
+"dice": false
 "name": "Trollkin Reaver Tob2023"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["swamp-lily", "Swamp Lily-tob2"]
 *Source: Tome of Beasts 2 Page 342*
 
 ```statblock
+"dice": false
 "name": "Swamp Lily Tob2"
 "size": "Medium"
 "type": "Plant"

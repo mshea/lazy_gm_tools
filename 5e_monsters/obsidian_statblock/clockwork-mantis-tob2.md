@@ -13,6 +13,7 @@ aliases: ["clockwork-mantis", "Clockwork Mantis-tob2"]
 *Source: Tome of Beasts 2 Page 67*
 
 ```statblock
+"dice": false
 "name": "Clockwork Mantis Tob2"
 "size": "Large"
 "type": "Construct"

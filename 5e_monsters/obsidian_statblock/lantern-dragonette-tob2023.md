@@ -13,6 +13,7 @@ aliases: ["lanterndragonette-tob1-2023", "Lantern Dragonette-tob2023"]
 *Source: Tome of Beasts 2023 Page 136*
 
 ```statblock
+"dice": false
 "name": "Lantern Dragonette Tob2023"
 "size": "Tiny"
 "type": "Dragon"

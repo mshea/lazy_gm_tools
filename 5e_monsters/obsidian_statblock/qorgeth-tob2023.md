@@ -13,6 +13,7 @@ aliases: ["qorgeth-tob1-2023", "Qorgeth-tob2023"]
 *Source: Tome of Beasts 2023 Page 80*
 
 ```statblock
+"dice": false
 "name": "Qorgeth Tob2023"
 "size": "Gargantuan"
 "type": "Fiend"

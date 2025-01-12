@@ -13,6 +13,7 @@ aliases: ["troll-gutter", "Troll, Gutter-tob3"]
 *Source: Tome of Beasts 3 Page 373*
 
 ```statblock
+"dice": false
 "name": "Troll, Gutter Tob3"
 "size": "Medium"
 "type": "Giant"

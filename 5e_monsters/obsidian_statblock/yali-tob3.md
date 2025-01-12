@@ -13,6 +13,7 @@ aliases: ["yali", "Yali-tob3"]
 *Source: Tome of Beasts 3 Page 398*
 
 ```statblock
+"dice": false
 "name": "Yali Tob3"
 "size": "Medium"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["horned-serpent", "Horned Serpent-cc"]
 *Source: Creature Codex Page 220*
 
 ```statblock
+"dice": false
 "name": "Horned Serpent Cc"
 "size": "Large"
 "type": "Monstrosity"

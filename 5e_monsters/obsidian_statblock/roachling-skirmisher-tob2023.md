@@ -13,6 +13,7 @@ aliases: ["roachlingskirmisher-tob1-2023", "Roachling Skirmisher-tob2023"]
 *Source: Tome of Beasts 2023 Page 310*
 
 ```statblock
+"dice": false
 "name": "Roachling Skirmisher Tob2023"
 "size": "Small"
 "type": "Humanoid"

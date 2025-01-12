@@ -13,6 +13,7 @@ aliases: ["revilock-a5e", "Revilock-a5emm"]
 *Source: A5e Monstrous Menagerie Page 259*
 
 ```statblock
+"dice": false
 "name": "Revilock A5Emm"
 "size": "Medium"
 "type": "Humanoid"

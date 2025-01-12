@@ -13,6 +13,7 @@ aliases: ["warlords-ghost-a5e", "Warlords Ghost-a5emm"]
 *Source: A5e Monstrous Menagerie Page 30*
 
 ```statblock
+"dice": false
 "name": "Warlords Ghost A5Emm"
 "size": "Medium"
 "type": "Undead"

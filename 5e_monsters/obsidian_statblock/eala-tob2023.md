@@ -13,6 +13,7 @@ aliases: ["eala-tob1-2023", "Eala-tob2023"]
 *Source: Tome of Beasts 2023 Page 152*
 
 ```statblock
+"dice": false
 "name": "Eala Tob2023"
 "size": "Small"
 "type": "Monstrosity"

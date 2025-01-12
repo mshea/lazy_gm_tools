@@ -13,6 +13,7 @@ aliases: ["winds-harp", "Wind's Harp-cc"]
 *Source: Creature Codex Page 105*
 
 ```statblock
+"dice": false
 "name": "Wind'S Harp Cc"
 "size": "Medium"
 "type": "Fiend"

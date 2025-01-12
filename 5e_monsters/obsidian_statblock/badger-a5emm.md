@@ -13,6 +13,7 @@ aliases: ["badger-a5e", "Badger-a5emm"]
 *Source: A5e Monstrous Menagerie Page 439*
 
 ```statblock
+"dice": false
 "name": "Badger A5Emm"
 "size": "Tiny"
 "type": "Beast"

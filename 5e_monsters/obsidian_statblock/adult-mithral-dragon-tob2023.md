@@ -13,6 +13,7 @@ aliases: ["adultmithraldragon-tob1-2023", "Adult Mithral Dragon-tob2023"]
 *Source: Tome of Beasts 2023 Page 122*
 
 ```statblock
+"dice": false
 "name": "Adult Mithral Dragon Tob2023"
 "size": "Huge"
 "type": "Dragon"

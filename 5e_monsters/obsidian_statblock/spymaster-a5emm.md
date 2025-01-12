@@ -13,6 +13,7 @@ aliases: ["spymaster-a5e", "Spymaster-a5emm"]
 *Source: A5e Monstrous Menagerie Page 468*
 
 ```statblock
+"dice": false
 "name": "Spymaster A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["grolar-bear-alpha", "Grolar Bear Alpha-tob3"]
 *Source: Tome of Beasts 3 Page 222*
 
 ```statblock
+"dice": false
 "name": "Grolar Bear Alpha Tob3"
 "size": "Large"
 "type": "Monstrosity"

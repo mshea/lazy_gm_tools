@@ -13,6 +13,7 @@ aliases: ["apprentice-mage-a5e", "Apprentice Mage-a5emm"]
 *Source: A5e Monstrous Menagerie Page 478*
 
 ```statblock
+"dice": false
 "name": "Apprentice Mage A5Emm"
 "size": "Medium"
 "type": "Humanoid"

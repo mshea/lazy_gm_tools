@@ -13,6 +13,7 @@ aliases: ["gaunt-one", "Gaunt One-tob2"]
 *Source: Tome of Beasts 2 Page 163*
 
 ```statblock
+"dice": false
 "name": "Gaunt One Tob2"
 "size": "Medium"
 "type": "Aberration"

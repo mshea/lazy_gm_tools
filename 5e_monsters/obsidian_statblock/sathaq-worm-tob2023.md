@@ -13,6 +13,7 @@ aliases: ["sathaqworm-tob1-2023", "Sathaq Worm-tob2023"]
 *Source: Tome of Beasts 2023 Page 317*
 
 ```statblock
+"dice": false
 "name": "Sathaq Worm Tob2023"
 "size": "Huge"
 "type": "Elemental"

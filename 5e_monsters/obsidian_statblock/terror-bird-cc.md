@@ -13,6 +13,7 @@ aliases: ["terror-bird", "Terror Bird-cc"]
 *Source: Creature Codex Page 352*
 
 ```statblock
+"dice": false
 "name": "Terror Bird Cc"
 "size": "Large"
 "type": "Beast"

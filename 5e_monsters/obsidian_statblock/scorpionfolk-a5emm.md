@@ -13,6 +13,7 @@ aliases: ["scorpionfolk-a5e", "Scorpionfolk-a5emm"]
 *Source: A5e Monstrous Menagerie Page 385*
 
 ```statblock
+"dice": false
 "name": "Scorpionfolk A5Emm"
 "size": "Large"
 "type": "Monstrosity"

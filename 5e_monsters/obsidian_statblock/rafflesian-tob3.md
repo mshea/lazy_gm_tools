@@ -13,6 +13,7 @@ aliases: ["rafflesian", "Rafflesian-tob3"]
 *Source: Tome of Beasts 3 Page 327*
 
 ```statblock
+"dice": false
 "name": "Rafflesian Tob3"
 "size": "Small"
 "type": "Plant"

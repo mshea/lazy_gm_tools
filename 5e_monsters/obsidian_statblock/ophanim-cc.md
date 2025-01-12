@@ -13,6 +13,7 @@ aliases: ["ophanim", "Ophanim-cc"]
 *Source: Creature Codex Page 18*
 
 ```statblock
+"dice": false
 "name": "Ophanim Cc"
 "size": "Large"
 "type": "Celestial"

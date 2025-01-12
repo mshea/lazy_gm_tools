@@ -13,6 +13,7 @@ aliases: ["necrotech-bonecage-constrictor", "Necrotech Bonecage Constrictor-tob3
 *Source: Tome of Beasts 3 Page 287*
 
 ```statblock
+"dice": false
 "name": "Necrotech Bonecage Constrictor Tob3"
 "size": "Huge"
 "type": "Undead"

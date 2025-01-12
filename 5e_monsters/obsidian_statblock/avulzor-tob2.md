@@ -13,6 +13,7 @@ aliases: ["avulzor", "Avulzor-tob2"]
 *Source: Tome of Beasts 2 Page 37*
 
 ```statblock
+"dice": false
 "name": "Avulzor Tob2"
 "size": "Large"
 "type": "Aberration"

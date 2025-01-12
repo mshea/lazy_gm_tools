@@ -13,6 +13,7 @@ aliases: ["cambium-tob1-2023", "Cambium-tob2023"]
 *Source: Tome of Beasts 2023 Page 49*
 
 ```statblock
+"dice": false
 "name": "Cambium Tob2023"
 "size": "Large"
 "type": "Fiend"

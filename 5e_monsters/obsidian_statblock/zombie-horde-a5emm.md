@@ -13,6 +13,7 @@ aliases: ["zombie-horde-a5e", "Zombie Horde-a5emm"]
 *Source: A5e Monstrous Menagerie Page 437*
 
 ```statblock
+"dice": false
 "name": "Zombie Horde A5Emm"
 "size": "Large"
 "type": "Undead"

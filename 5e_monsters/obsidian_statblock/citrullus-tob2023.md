@@ -13,6 +13,7 @@ aliases: ["citrullus-tob1-2023", "Citrullus-tob2023"]
 *Source: Tome of Beasts 2023 Page 58*
 
 ```statblock
+"dice": false
 "name": "Citrullus Tob2023"
 "size": "Medium"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["alp", "Alp-cc"]
 *Source: Creature Codex Page 14*
 
 ```statblock
+"dice": false
 "name": "Alp Cc"
 "size": "Small"
 "type": "Fey"

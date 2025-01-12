@@ -13,6 +13,7 @@ aliases: ["fardarrig-tob1-2023", "Far Darrig-tob2023"]
 *Source: Tome of Beasts 2023 Page 167*
 
 ```statblock
+"dice": false
 "name": "Far Darrig Tob2023"
 "size": "Small"
 "type": "Fey"

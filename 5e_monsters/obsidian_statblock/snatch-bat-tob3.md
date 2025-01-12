@@ -13,6 +13,7 @@ aliases: ["snatch-bat", "Snatch Bat-tob3"]
 *Source: Tome of Beasts 3 Page 349*
 
 ```statblock
+"dice": false
 "name": "Snatch Bat Tob3"
 "size": "Medium"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["aboleth-thrall-a5e", "Aboleth Thrall-a5emm"]
 *Source: A5e Monstrous Menagerie Page 17*
 
 ```statblock
+"dice": false
 "name": "Aboleth Thrall A5Emm"
 "size": "Medium"
 "type": "Humanoid"

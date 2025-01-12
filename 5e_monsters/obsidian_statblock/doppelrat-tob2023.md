@@ -13,6 +13,7 @@ aliases: ["doppelrat-tob1-2023", "Doppelrat-tob2023"]
 *Source: Tome of Beasts 2023 Page 109*
 
 ```statblock
+"dice": false
 "name": "Doppelrat Tob2023"
 "size": "Tiny"
 "type": "Monstrosity"

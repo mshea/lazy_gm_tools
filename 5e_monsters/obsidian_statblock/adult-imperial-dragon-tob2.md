@@ -13,6 +13,7 @@ aliases: ["adult-imperial-dragon", "Adult Imperial Dragon-tob2"]
 *Source: Tome of Beasts 2 Page 117*
 
 ```statblock
+"dice": false
 "name": "Adult Imperial Dragon Tob2"
 "size": "Huge"
 "type": "Dragon"

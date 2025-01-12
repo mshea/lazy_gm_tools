@@ -13,6 +13,7 @@ aliases: ["adult-copper-dragon-a5e", "Adult Copper Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 166*
 
 ```statblock
+"dice": false
 "name": "Adult Copper Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

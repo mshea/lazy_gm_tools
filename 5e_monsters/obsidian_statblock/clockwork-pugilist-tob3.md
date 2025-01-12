@@ -13,6 +13,7 @@ aliases: ["clockwork-pugilist", "Clockwork Pugilist-tob3"]
 *Source: Tome of Beasts 3 Page 88*
 
 ```statblock
+"dice": false
 "name": "Clockwork Pugilist Tob3"
 "size": "Medium"
 "type": "Construct"

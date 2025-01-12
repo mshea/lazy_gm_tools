@@ -13,6 +13,7 @@ aliases: ["adult-shadow-dragon-a5e", "Adult Shadow Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 136*
 
 ```statblock
+"dice": false
 "name": "Adult Shadow Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

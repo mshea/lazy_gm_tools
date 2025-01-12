@@ -13,6 +13,7 @@ aliases: ["centaur-a5e", "Centaur-a5emm"]
 *Source: A5e Monstrous Menagerie Page 44*
 
 ```statblock
+"dice": false
 "name": "Centaur A5Emm"
 "size": "Large"
 "type": "Fey"

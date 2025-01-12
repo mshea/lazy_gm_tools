@@ -13,6 +13,7 @@ aliases: ["tembril", "Tembril-tob2"]
 *Source: Tome of Beasts 2 Page 344*
 
 ```statblock
+"dice": false
 "name": "Tembril Tob2"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["cave-giant", "Cave Giant-cc"]
 *Source: Creature Codex Page 182*
 
 ```statblock
+"dice": false
 "name": "Cave Giant Cc"
 "size": "Huge"
 "type": "Giant"

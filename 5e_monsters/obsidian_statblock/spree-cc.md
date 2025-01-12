@@ -13,6 +13,7 @@ aliases: ["spree", "Spree-cc"]
 *Source: Creature Codex Page 91*
 
 ```statblock
+"dice": false
 "name": "Spree Cc"
 "size": "Small"
 "type": "Fiend"

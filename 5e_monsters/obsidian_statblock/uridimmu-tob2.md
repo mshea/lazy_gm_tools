@@ -13,6 +13,7 @@ aliases: ["uridimmu", "Uridimmu-tob2"]
 *Source: Tome of Beasts 2 Page 19*
 
 ```statblock
+"dice": false
 "name": "Uridimmu Tob2"
 "size": "Large"
 "type": "Celestial"

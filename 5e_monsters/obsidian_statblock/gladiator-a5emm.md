@@ -13,6 +13,7 @@ aliases: ["gladiator-a5e", "Gladiator-a5emm"]
 *Source: A5e Monstrous Menagerie Page 474*
 
 ```statblock
+"dice": false
 "name": "Gladiator A5Emm"
 "size": "Medium"
 "type": "Humanoid"

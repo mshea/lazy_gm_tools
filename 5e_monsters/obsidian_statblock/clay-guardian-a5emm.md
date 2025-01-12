@@ -13,6 +13,7 @@ aliases: ["clay-guardian-a5e", "Clay Guardian-a5emm"]
 *Source: A5e Monstrous Menagerie Page 261*
 
 ```statblock
+"dice": false
 "name": "Clay Guardian A5Emm"
 "size": "Large"
 "type": "Construct"

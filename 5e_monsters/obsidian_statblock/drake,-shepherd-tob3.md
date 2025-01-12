@@ -13,6 +13,7 @@ aliases: ["drake-shepherd", "Drake, Shepherd-tob3"]
 *Source: Tome of Beasts 3 Page 156*
 
 ```statblock
+"dice": false
 "name": "Drake, Shepherd Tob3"
 "size": "Medium"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["deeponepriest-tob1-2023", "Deep One Priest-tob2023"]
 *Source: Tome of Beasts 2023 Page 72*
 
 ```statblock
+"dice": false
 "name": "Deep One Priest Tob2023"
 "size": "Medium"
 "type": "Humanoid"

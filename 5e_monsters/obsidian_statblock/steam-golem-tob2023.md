@@ -13,6 +13,7 @@ aliases: ["steamgolem-tob1-2023", "Steam Golem-tob2023"]
 *Source: Tome of Beasts 2023 Page 220*
 
 ```statblock
+"dice": false
 "name": "Steam Golem Tob2023"
 "size": "Large"
 "type": "Construct"

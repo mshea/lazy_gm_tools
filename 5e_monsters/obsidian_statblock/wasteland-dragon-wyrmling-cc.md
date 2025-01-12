@@ -13,6 +13,7 @@ aliases: ["wasteland-dragon-wyrmling", "Wasteland Dragon Wyrmling-cc"]
 *Source: Creature Codex Page 118*
 
 ```statblock
+"dice": false
 "name": "Wasteland Dragon Wyrmling Cc"
 "size": "Medium"
 "type": "Dragon"

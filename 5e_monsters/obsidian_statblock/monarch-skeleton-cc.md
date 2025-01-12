@@ -13,6 +13,7 @@ aliases: ["monarch-skeleton", "Monarch Skeleton-cc"]
 *Source: Creature Codex Page 249*
 
 ```statblock
+"dice": false
 "name": "Monarch Skeleton Cc"
 "size": "Medium"
 "type": "Undead"

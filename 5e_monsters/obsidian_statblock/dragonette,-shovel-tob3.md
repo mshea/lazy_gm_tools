@@ -13,6 +13,7 @@ aliases: ["dragonette-shovel", "Dragonette, Shovel-tob3"]
 *Source: Tome of Beasts 3 Page 150*
 
 ```statblock
+"dice": false
 "name": "Dragonette, Shovel Tob3"
 "size": "Tiny"
 "type": "Dragon"

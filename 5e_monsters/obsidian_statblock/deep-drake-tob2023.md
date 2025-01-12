@@ -13,6 +13,7 @@ aliases: ["deepdrake-tob1-2023", "Deep Drake-tob2023"]
 *Source: Tome of Beasts 2023 Page 142*
 
 ```statblock
+"dice": false
 "name": "Deep Drake Tob2023"
 "size": "Large"
 "type": "Dragon"

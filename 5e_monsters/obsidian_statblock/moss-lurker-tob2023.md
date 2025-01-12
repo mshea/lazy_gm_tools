@@ -13,6 +13,7 @@ aliases: ["mosslurker-tob1-2023", "Moss Lurker-tob2023"]
 *Source: Tome of Beasts 2023 Page 278*
 
 ```statblock
+"dice": false
 "name": "Moss Lurker Tob2023"
 "size": "Small"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["witch-queen", "Witch Queen-cc"]
 *Source: Creature Codex Page 97*
 
 ```statblock
+"dice": false
 "name": "Witch Queen Cc"
 "size": "Small"
 "type": "Humanoid"

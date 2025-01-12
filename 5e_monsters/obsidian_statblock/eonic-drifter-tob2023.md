@@ -13,6 +13,7 @@ aliases: ["eonicdrifter-tob1-2023", "Eonic Drifter-tob2023"]
 *Source: Tome of Beasts 2023 Page 165*
 
 ```statblock
+"dice": false
 "name": "Eonic Drifter Tob2023"
 "size": "Medium"
 "type": "Humanoid"

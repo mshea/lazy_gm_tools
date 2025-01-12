@@ -13,6 +13,7 @@ aliases: ["lindwurm-tob1-2023", "Lindwurm-tob2023"]
 *Source: Tome of Beasts 2023 Page 255*
 
 ```statblock
+"dice": false
 "name": "Lindwurm Tob2023"
 "size": "Large"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["hell-hound-a5e", "Hell Hound-a5emm"]
 *Source: A5e Monstrous Menagerie Page 278*
 
 ```statblock
+"dice": false
 "name": "Hell Hound A5Emm"
 "size": "Medium"
 "type": "Fiend"

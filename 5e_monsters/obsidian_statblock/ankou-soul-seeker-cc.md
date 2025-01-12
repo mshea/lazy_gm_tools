@@ -13,6 +13,7 @@ aliases: ["ankou-soul-seeker", "Ankou Soul Seeker-cc"]
 *Source: Creature Codex Page 38*
 
 ```statblock
+"dice": false
 "name": "Ankou Soul Seeker Cc"
 "size": "Large"
 "type": "Dragon"

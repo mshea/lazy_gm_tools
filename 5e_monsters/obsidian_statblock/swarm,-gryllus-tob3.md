@@ -13,6 +13,7 @@ aliases: ["swarm-gryllus", "Swarm, Gryllus-tob3"]
 *Source: Tome of Beasts 3 Page 361*
 
 ```statblock
+"dice": false
 "name": "Swarm, Gryllus Tob3"
 "size": "Large"
 "type": "Construct"

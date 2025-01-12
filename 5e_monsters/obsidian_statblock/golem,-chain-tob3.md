@@ -13,6 +13,7 @@ aliases: ["golem-chain", "Golem, Chain-tob3"]
 *Source: Tome of Beasts 3 Page 215*
 
 ```statblock
+"dice": false
 "name": "Golem, Chain Tob3"
 "size": "Large"
 "type": "Construct"

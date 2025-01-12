@@ -13,6 +13,7 @@ aliases: ["arborcyte", "Arborcyte-cc"]
 *Source: Creature Codex Page 40*
 
 ```statblock
+"dice": false
 "name": "Arborcyte Cc"
 "size": "Large"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["giant-crocodile-a5e", "Giant Crocodile-a5emm"]
 *Source: A5e Monstrous Menagerie Page 446*
 
 ```statblock
+"dice": false
 "name": "Giant Crocodile A5Emm"
 "size": "Huge"
 "type": "Beast"

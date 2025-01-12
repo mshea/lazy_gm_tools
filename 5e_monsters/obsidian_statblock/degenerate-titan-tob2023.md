@@ -13,6 +13,7 @@ aliases: ["degeneratetitan-tob1-2023", "Degenerate Titan-tob2023"]
 *Source: Tome of Beasts 2023 Page 362*
 
 ```statblock
+"dice": false
 "name": "Degenerate Titan Tob2023"
 "size": "Huge"
 "type": "Giant"

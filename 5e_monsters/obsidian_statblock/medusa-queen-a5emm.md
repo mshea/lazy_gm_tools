@@ -13,6 +13,7 @@ aliases: ["medusa-queen-a5e", "Medusa Queen-a5emm"]
 *Source: A5e Monstrous Menagerie Page 323*
 
 ```statblock
+"dice": false
 "name": "Medusa Queen A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

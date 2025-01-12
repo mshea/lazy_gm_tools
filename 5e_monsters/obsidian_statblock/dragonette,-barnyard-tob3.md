@@ -13,6 +13,7 @@ aliases: ["dragonette-barnyard", "Dragonette, Barnyard-tob3"]
 *Source: Tome of Beasts 3 Page 148*
 
 ```statblock
+"dice": false
 "name": "Dragonette, Barnyard Tob3"
 "size": "Tiny"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["knight-of-the-road", "Knight of the Road-cc"]
 *Source: Creature Codex Page 58*
 
 ```statblock
+"dice": false
 "name": "Knight Of The Road Cc"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["tuberkith", "Tuberkith-tob3"]
 *Source: Tome of Beasts 3 Page 379*
 
 ```statblock
+"dice": false
 "name": "Tuberkith Tob3"
 "size": "Small"
 "type": "Plant"

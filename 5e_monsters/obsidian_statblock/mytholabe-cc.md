@@ -13,6 +13,7 @@ aliases: ["mytholabe", "Mytholabe-cc"]
 *Source: Creature Codex Page 271*
 
 ```statblock
+"dice": false
 "name": "Mytholabe Cc"
 "size": "Large"
 "type": "Construct"

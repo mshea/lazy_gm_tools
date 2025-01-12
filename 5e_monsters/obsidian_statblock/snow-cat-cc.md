@@ -13,6 +13,7 @@ aliases: ["snow-cat", "Snow Cat-cc"]
 *Source: Creature Codex Page 346*
 
 ```statblock
+"dice": false
 "name": "Snow Cat Cc"
 "size": "Medium"
 "type": "Beast"

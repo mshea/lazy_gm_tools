@@ -13,6 +13,7 @@ aliases: ["copperkill-slime", "Copperkill Slime-tob3"]
 *Source: Tome of Beasts 3 Page 94*
 
 ```statblock
+"dice": false
 "name": "Copperkill Slime Tob3"
 "size": "Huge"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["crystallinedevil-tob1-2023", "Crystalline Devil-tob2023"]
 *Source: Tome of Beasts 2023 Page 94*
 
 ```statblock
+"dice": false
 "name": "Crystalline Devil Tob2023"
 "size": "Medium"
 "type": "Fiend"

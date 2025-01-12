@@ -13,6 +13,7 @@ aliases: ["giant-poisonous-snake-a5e", "Giant Poisonous Snake-a5emm"]
 *Source: A5e Monstrous Menagerie Page 448*
 
 ```statblock
+"dice": false
 "name": "Giant Poisonous Snake A5Emm"
 "size": "Medium"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["chupacabra", "Chupacabra-cc"]
 *Source: Creature Codex Page 63*
 
 ```statblock
+"dice": false
 "name": "Chupacabra Cc"
 "size": "Small"
 "type": "Monstrosity"

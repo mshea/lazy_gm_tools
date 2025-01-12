@@ -13,6 +13,7 @@ aliases: ["rakshasa-pustakam", "Rakshasa, Pustakam-tob3"]
 *Source: Tome of Beasts 3 Page 328*
 
 ```statblock
+"dice": false
 "name": "Rakshasa, Pustakam Tob3"
 "size": "Small"
 "type": "Fiend"

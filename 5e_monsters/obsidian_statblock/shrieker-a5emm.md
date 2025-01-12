@@ -13,6 +13,7 @@ aliases: ["shrieker-a5e", "Shrieker-a5emm"]
 *Source: A5e Monstrous Menagerie Page 212*
 
 ```statblock
+"dice": false
 "name": "Shrieker A5Emm"
 "size": "Medium"
 "type": "Plant"

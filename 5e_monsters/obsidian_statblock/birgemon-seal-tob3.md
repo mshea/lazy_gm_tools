@@ -13,6 +13,7 @@ aliases: ["birgemon-seal", "Birgemon Seal-tob3"]
 *Source: Tome of Beasts 3 Page 57*
 
 ```statblock
+"dice": false
 "name": "Birgemon Seal Tob3"
 "size": "Medium"
 "type": "Aberration"

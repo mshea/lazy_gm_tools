@@ -13,6 +13,7 @@ aliases: ["lich-a5e", "Lich-a5emm"]
 *Source: A5e Monstrous Menagerie Page 306*
 
 ```statblock
+"dice": false
 "name": "Lich A5Emm"
 "size": "Medium"
 "type": "Undead"

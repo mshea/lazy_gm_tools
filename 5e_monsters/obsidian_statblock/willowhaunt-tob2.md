@@ -13,6 +13,7 @@ aliases: ["willowhaunt", "Willowhaunt-tob2"]
 *Source: Tome of Beasts 2 Page 369*
 
 ```statblock
+"dice": false
 "name": "Willowhaunt Tob2"
 "size": "Huge"
 "type": "Undead"

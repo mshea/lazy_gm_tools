@@ -13,6 +13,7 @@ aliases: ["pugilist-a5e", "Pugilist-a5emm"]
 *Source: A5e Monstrous Menagerie Page 495*
 
 ```statblock
+"dice": false
 "name": "Pugilist A5Emm"
 "size": "Medium"
 "type": "Humanoid"

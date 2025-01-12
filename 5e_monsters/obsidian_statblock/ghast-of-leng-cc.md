@@ -13,6 +13,7 @@ aliases: ["ghast-of-leng", "Ghast of Leng-cc"]
 *Source: Creature Codex Page 168*
 
 ```statblock
+"dice": false
 "name": "Ghast Of Leng Cc"
 "size": "Large"
 "type": "Aberration"

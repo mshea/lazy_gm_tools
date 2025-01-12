@@ -13,6 +13,7 @@ aliases: ["weirding-scroll", "Weirding Scroll-cc"]
 *Source: Creature Codex Page 376*
 
 ```statblock
+"dice": false
 "name": "Weirding Scroll Cc"
 "size": "Tiny"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["aviere", "Aviere-tob2"]
 *Source: Tome of Beasts 2 Page 36*
 
 ```statblock
+"dice": false
 "name": "Aviere Tob2"
 "size": "Tiny"
 "type": "Celestial"

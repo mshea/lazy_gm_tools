@@ -13,6 +13,7 @@ aliases: ["shadow-elf-high-priest-a5e", "Shadow Elf High Priest-a5emm"]
 *Source: A5e Monstrous Menagerie Page 489*
 
 ```statblock
+"dice": false
 "name": "Shadow Elf High Priest A5Emm"
 "size": "Medium"
 "type": "Humanoid"

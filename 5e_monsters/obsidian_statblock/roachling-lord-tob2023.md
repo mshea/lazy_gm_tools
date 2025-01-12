@@ -13,6 +13,7 @@ aliases: ["roachlinglord-tob1-2023", "Roachling Lord-tob2023"]
 *Source: Tome of Beasts 2023 Page 310*
 
 ```statblock
+"dice": false
 "name": "Roachling Lord Tob2023"
 "size": "Small"
 "type": "Humanoid"

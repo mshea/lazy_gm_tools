@@ -13,6 +13,7 @@ aliases: ["void-knight", "Void Knight-tob3"]
 *Source: Tome of Beasts 3 Page 386*
 
 ```statblock
+"dice": false
 "name": "Void Knight Tob3"
 "size": "Medium"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["ogre-kadag", "Ogre, Kadag-tob3"]
 *Source: Tome of Beasts 3 Page 300*
 
 ```statblock
+"dice": false
 "name": "Ogre, Kadag Tob3"
 "size": "Large"
 "type": "Giant"

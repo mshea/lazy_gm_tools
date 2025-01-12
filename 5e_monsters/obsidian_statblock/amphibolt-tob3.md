@@ -13,6 +13,7 @@ aliases: ["amphibolt", "Amphibolt-tob3"]
 *Source: Tome of Beasts 3 Page 21*
 
 ```statblock
+"dice": false
 "name": "Amphibolt Tob3"
 "size": "Large"
 "type": "Monstrosity"

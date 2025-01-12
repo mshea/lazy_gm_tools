@@ -13,6 +13,7 @@ aliases: ["darakhul-tob1-2023", "Darakhul-tob2023"]
 *Source: Tome of Beasts 2023 Page 202*
 
 ```statblock
+"dice": false
 "name": "Darakhul Tob2023"
 "size": "Medium"
 "type": "Undead"

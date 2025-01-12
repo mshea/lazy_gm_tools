@@ -13,6 +13,7 @@ aliases: ["foxin", "Foxin-cc"]
 *Source: Creature Codex Page 163*
 
 ```statblock
+"dice": false
 "name": "Foxin Cc"
 "size": "Small"
 "type": "Fey"

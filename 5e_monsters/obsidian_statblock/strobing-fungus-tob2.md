@@ -13,6 +13,7 @@ aliases: ["strobing-fungus", "Strobing Fungus-tob2"]
 *Source: Tome of Beasts 2 Page 160*
 
 ```statblock
+"dice": false
 "name": "Strobing Fungus Tob2"
 "size": "Medium"
 "type": "Plant"

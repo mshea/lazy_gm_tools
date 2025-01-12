@@ -13,6 +13,7 @@ aliases: ["bulbous-violet", "Bulbous Violet-tob2"]
 *Source: Tome of Beasts 2 Page 53*
 
 ```statblock
+"dice": false
 "name": "Bulbous Violet Tob2"
 "size": "Medium"
 "type": "Plant"

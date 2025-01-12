@@ -13,6 +13,7 @@ aliases: ["phase-spider-a5e", "Phase Spider-a5emm"]
 *Source: A5e Monstrous Menagerie Page 456*
 
 ```statblock
+"dice": false
 "name": "Phase Spider A5Emm"
 "size": "Large"
 "type": "Monstrosity"

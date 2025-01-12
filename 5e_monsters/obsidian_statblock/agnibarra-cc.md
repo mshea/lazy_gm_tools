@@ -13,6 +13,7 @@ aliases: ["agnibarra", "Agnibarra-cc"]
 *Source: Creature Codex Page 9*
 
 ```statblock
+"dice": false
 "name": "Agnibarra Cc"
 "size": "Small"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["silenal", "Silenal-tob2"]
 *Source: Tome of Beasts 2 Page 328*
 
 ```statblock
+"dice": false
 "name": "Silenal Tob2"
 "size": "Small"
 "type": "Fey"

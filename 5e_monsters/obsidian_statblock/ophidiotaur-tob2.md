@@ -13,6 +13,7 @@ aliases: ["ophidiotaur", "Ophidiotaur-tob2"]
 *Source: Tome of Beasts 2 Page 282*
 
 ```statblock
+"dice": false
 "name": "Ophidiotaur Tob2"
 "size": "Large"
 "type": "Monstrosity"

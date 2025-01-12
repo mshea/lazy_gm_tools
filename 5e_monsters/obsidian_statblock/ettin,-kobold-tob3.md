@@ -13,6 +13,7 @@ aliases: ["ettin-kobold", "Ettin, Kobold-tob3"]
 *Source: Tome of Beasts 3 Page 173*
 
 ```statblock
+"dice": false
 "name": "Ettin, Kobold Tob3"
 "size": "Medium"
 "type": "Giant"

@@ -13,6 +13,7 @@ aliases: ["pattern-dancer", "Pattern Dancer-cc"]
 *Source: Creature Codex Page 130*
 
 ```statblock
+"dice": false
 "name": "Pattern Dancer Cc"
 "size": "Medium"
 "type": "Humanoid"

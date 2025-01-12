@@ -13,6 +13,7 @@ aliases: ["saber-toothed-tiger-a5e", "Saber-Toothed Tiger-a5emm"]
 *Source: A5e Monstrous Menagerie Page 459*
 
 ```statblock
+"dice": false
 "name": "Saber Toothed Tiger A5Emm"
 "size": "Large"
 "type": "Beast"

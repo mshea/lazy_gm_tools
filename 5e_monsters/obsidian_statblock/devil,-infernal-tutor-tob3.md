@@ -13,6 +13,7 @@ aliases: ["devil-infernal-tutor", "Devil, Infernal Tutor-tob3"]
 *Source: Tome of Beasts 3 Page 120*
 
 ```statblock
+"dice": false
 "name": "Devil, Infernal Tutor Tob3"
 "size": "Medium"
 "type": "Fiend"

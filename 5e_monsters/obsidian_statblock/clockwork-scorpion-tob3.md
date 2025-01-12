@@ -13,6 +13,7 @@ aliases: ["clockwork-scorpion", "Clockwork Scorpion-tob3"]
 *Source: Tome of Beasts 3 Page 89*
 
 ```statblock
+"dice": false
 "name": "Clockwork Scorpion Tob3"
 "size": "Large"
 "type": "Construct"

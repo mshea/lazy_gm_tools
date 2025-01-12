@@ -13,6 +13,7 @@ aliases: ["ijiraq", "Ijiraq-cc"]
 *Source: Creature Codex Page 225*
 
 ```statblock
+"dice": false
 "name": "Ijiraq Cc"
 "size": "Medium"
 "type": "Fey"

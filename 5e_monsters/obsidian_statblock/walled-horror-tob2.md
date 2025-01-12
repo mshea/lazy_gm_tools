@@ -13,6 +13,7 @@ aliases: ["walled-horror", "Walled Horror-tob2"]
 *Source: Tome of Beasts 2 Page 363*
 
 ```statblock
+"dice": false
 "name": "Walled Horror Tob2"
 "size": "Large"
 "type": "Undead"

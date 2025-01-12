@@ -13,6 +13,7 @@ aliases: ["leashed-lesion", "Leashed Lesion-tob3"]
 *Source: Tome of Beasts 3 Page 259*
 
 ```statblock
+"dice": false
 "name": "Leashed Lesion Tob3"
 "size": "Large"
 "type": "Aberration"

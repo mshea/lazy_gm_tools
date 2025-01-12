@@ -13,6 +13,7 @@ aliases: ["angel-zirnitran", "Angel, Zirnitran-tob3"]
 *Source: Tome of Beasts 3 Page 30*
 
 ```statblock
+"dice": false
 "name": "Angel, Zirnitran Tob3"
 "size": "Huge"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["void-constructor", "Void Constructor-tob3"]
 *Source: Tome of Beasts 3 Page 385*
 
 ```statblock
+"dice": false
 "name": "Void Constructor Tob3"
 "size": "Medium"
 "type": "Construct"

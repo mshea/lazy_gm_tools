@@ -13,6 +13,7 @@ aliases: ["mummy-lord-a5e", "Mummy Lord-a5emm"]
 *Source: A5e Monstrous Menagerie Page 339*
 
 ```statblock
+"dice": false
 "name": "Mummy Lord A5Emm"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["desertgiant-tob1-2023", "Desert Giant-tob2023"]
 *Source: Tome of Beasts 2023 Page 205*
 
 ```statblock
+"dice": false
 "name": "Desert Giant Tob2023"
 "size": "Huge"
 "type": "Giant"

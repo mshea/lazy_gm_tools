@@ -13,6 +13,7 @@ aliases: ["great-wyrm-gold-dragon-a5e", "Great Wyrm Gold Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 171*
 
 ```statblock
+"dice": false
 "name": "Great Wyrm Gold Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

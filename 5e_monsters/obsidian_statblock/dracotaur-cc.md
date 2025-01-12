@@ -13,6 +13,7 @@ aliases: ["dracotaur", "Dracotaur-cc"]
 *Source: Creature Codex Page 110*
 
 ```statblock
+"dice": false
 "name": "Dracotaur Cc"
 "size": "Large"
 "type": "Dragon"

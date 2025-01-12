@@ -13,6 +13,7 @@ aliases: ["sandwyrm-tob1-2023", "Sandwyrm-tob2023"]
 *Source: Tome of Beasts 2023 Page 314*
 
 ```statblock
+"dice": false
 "name": "Sandwyrm Tob2023"
 "size": "Large"
 "type": "Dragon"

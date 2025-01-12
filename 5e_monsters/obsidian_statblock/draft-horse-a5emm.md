@@ -13,6 +13,7 @@ aliases: ["draft-horse-a5e", "Draft Horse-a5emm"]
 *Source: A5e Monstrous Menagerie Page 443*
 
 ```statblock
+"dice": false
 "name": "Draft Horse A5Emm"
 "size": "Large"
 "type": "Beast"

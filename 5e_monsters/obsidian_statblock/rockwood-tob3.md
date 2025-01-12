@@ -13,6 +13,7 @@ aliases: ["rockwood", "Rockwood-tob3"]
 *Source: Tome of Beasts 3 Page 334*
 
 ```statblock
+"dice": false
 "name": "Rockwood Tob3"
 "size": "Huge"
 "type": "Elemental"

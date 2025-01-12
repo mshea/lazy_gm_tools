@@ -13,6 +13,7 @@ aliases: ["laketroll-tob1-2023", "Lake Troll-tob2023"]
 *Source: Tome of Beasts 2023 Page 370*
 
 ```statblock
+"dice": false
 "name": "Lake Troll Tob2023"
 "size": "Large"
 "type": "Giant"

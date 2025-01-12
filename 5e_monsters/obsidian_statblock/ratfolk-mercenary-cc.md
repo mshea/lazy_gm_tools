@@ -13,6 +13,7 @@ aliases: ["ratfolk-mercenary", "Ratfolk Mercenary-cc"]
 *Source: Creature Codex Page 315*
 
 ```statblock
+"dice": false
 "name": "Ratfolk Mercenary Cc"
 "size": "Small"
 "type": "Humanoid"

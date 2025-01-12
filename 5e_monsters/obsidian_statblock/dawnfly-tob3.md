@@ -13,6 +13,7 @@ aliases: ["dawnfly", "Dawnfly-tob3"]
 *Source: Tome of Beasts 3 Page 104*
 
 ```statblock
+"dice": false
 "name": "Dawnfly Tob3"
 "size": "Gargantuan"
 "type": "Beast"

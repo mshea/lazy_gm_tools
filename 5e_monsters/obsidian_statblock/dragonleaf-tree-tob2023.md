@@ -13,6 +13,7 @@ aliases: ["dragonleaftree-tob1-2023", "Dragonleaf Tree-tob2023"]
 *Source: Tome of Beasts 2023 Page 137*
 
 ```statblock
+"dice": false
 "name": "Dragonleaf Tree Tob2023"
 "size": "Large"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["shimmer-seal", "Shimmer Seal-tob2"]
 *Source: Tome of Beasts 2 Page 324*
 
 ```statblock
+"dice": false
 "name": "Shimmer Seal Tob2"
 "size": "Medium"
 "type": "Beast"

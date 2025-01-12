@@ -13,6 +13,7 @@ aliases: ["stellar-rorqual", "Stellar Rorqual-tob2"]
 *Source: Tome of Beasts 2 Page 338*
 
 ```statblock
+"dice": false
 "name": "Stellar Rorqual Tob2"
 "size": "Gargantuan"
 "type": "Aberration"

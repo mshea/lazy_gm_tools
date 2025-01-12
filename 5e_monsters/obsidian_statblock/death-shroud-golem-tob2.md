@@ -13,6 +13,7 @@ aliases: ["death-shroud-golem", "Death Shroud Golem-tob2"]
 *Source: Tome of Beasts 2 Page 179*
 
 ```statblock
+"dice": false
 "name": "Death Shroud Golem Tob2"
 "size": "Large"
 "type": "Construct"

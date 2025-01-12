@@ -13,6 +13,7 @@ aliases: ["nalusa-falaya", "Nalusa Falaya-cc"]
 *Source: Creature Codex Page 274*
 
 ```statblock
+"dice": false
 "name": "Nalusa Falaya Cc"
 "size": "Medium"
 "type": "Aberration"

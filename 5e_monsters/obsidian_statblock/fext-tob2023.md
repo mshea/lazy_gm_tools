@@ -13,6 +13,7 @@ aliases: ["fext-tob1-2023", "Fext-tob2023"]
 *Source: Tome of Beasts 2023 Page 171*
 
 ```statblock
+"dice": false
 "name": "Fext Tob2023"
 "size": "Medium"
 "type": "Undead"

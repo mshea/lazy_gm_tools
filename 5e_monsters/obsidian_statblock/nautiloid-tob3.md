@@ -13,6 +13,7 @@ aliases: ["nautiloid", "Nautiloid-tob3"]
 *Source: Tome of Beasts 3 Page 286*
 
 ```statblock
+"dice": false
 "name": "Nautiloid Tob3"
 "size": "Gargantuan"
 "type": "Elemental"

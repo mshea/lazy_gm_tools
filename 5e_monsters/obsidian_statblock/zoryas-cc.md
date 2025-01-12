@@ -13,6 +13,7 @@ aliases: ["zoryas", "Zoryas-cc"]
 *Source: Creature Codex Page 21*
 
 ```statblock
+"dice": false
 "name": "Zoryas Cc"
 "size": "Medium"
 "type": "Celestial"

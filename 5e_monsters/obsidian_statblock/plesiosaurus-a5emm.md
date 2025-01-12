@@ -13,6 +13,7 @@ aliases: ["plesiosaurus-a5e", "Plesiosaurus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 90*
 
 ```statblock
+"dice": false
 "name": "Plesiosaurus A5Emm"
 "size": "Large"
 "type": "Beast"

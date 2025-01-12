@@ -13,6 +13,7 @@ aliases: ["domovoi-tob1-2023", "Domovoi-tob2023"]
 *Source: Tome of Beasts 2023 Page 108*
 
 ```statblock
+"dice": false
 "name": "Domovoi Tob2023"
 "size": "Medium"
 "type": "Fey"

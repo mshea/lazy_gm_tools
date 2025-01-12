@@ -13,6 +13,7 @@ aliases: ["young-sapphire-dragon-a5e", "Young Sapphire Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 151*
 
 ```statblock
+"dice": false
 "name": "Young Sapphire Dragon A5Emm"
 "size": "Large"
 "type": "Dragon"

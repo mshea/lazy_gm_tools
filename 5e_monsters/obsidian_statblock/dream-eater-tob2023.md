@@ -13,6 +13,7 @@ aliases: ["dreameater-tob1-2023", "Dream Eater-tob2023"]
 *Source: Tome of Beasts 2023 Page 148*
 
 ```statblock
+"dice": false
 "name": "Dream Eater Tob2023"
 "size": "Medium"
 "type": "Fiend"

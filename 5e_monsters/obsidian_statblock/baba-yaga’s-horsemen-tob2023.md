@@ -13,6 +13,7 @@ aliases: ["babayagashorsemen-tob1-2023", "Baba Yaga’s Horsemen-tob2023"]
 *Source: Tome of Beasts 2023 Page 30*
 
 ```statblock
+"dice": false
 "name": "Baba Yaga’S Horsemen Tob2023"
 "size": "Medium"
 "type": "Fey"

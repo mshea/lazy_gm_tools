@@ -13,6 +13,7 @@ aliases: ["demon-kogukhpak", "Demon, Kogukhpak-tob3"]
 *Source: Tome of Beasts 3 Page 109*
 
 ```statblock
+"dice": false
 "name": "Demon, Kogukhpak Tob3"
 "size": "Huge"
 "type": "Fiend"

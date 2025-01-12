@@ -13,6 +13,7 @@ aliases: ["fey-knight-a5e", "Fey Knight-a5emm"]
 *Source: A5e Monstrous Menagerie Page 201*
 
 ```statblock
+"dice": false
 "name": "Fey Knight A5Emm"
 "size": "Medium"
 "type": "Fey"

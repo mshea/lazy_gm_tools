@@ -13,6 +13,7 @@ aliases: ["sinstar-thrall", "Sinstar Thrall-tob3"]
 *Source: Tome of Beasts 3 Page 345*
 
 ```statblock
+"dice": false
 "name": "Sinstar Thrall Tob3"
 "size": "Medium"
 "type": "Plant"

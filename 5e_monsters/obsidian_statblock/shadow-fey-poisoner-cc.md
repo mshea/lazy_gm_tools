@@ -13,6 +13,7 @@ aliases: ["shadow-fey-poisoner", "Shadow Fey Poisoner-cc"]
 *Source: Creature Codex Page 148*
 
 ```statblock
+"dice": false
 "name": "Shadow Fey Poisoner Cc"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["mortifera", "Mortifera-tob3"]
 *Source: Tome of Beasts 3 Page 278*
 
 ```statblock
+"dice": false
 "name": "Mortifera Tob3"
 "size": "Large"
 "type": "Aberration"

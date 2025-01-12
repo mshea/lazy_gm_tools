@@ -13,6 +13,7 @@ aliases: ["tusked-crimson-ogre", "Tusked Crimson Ogre-cc"]
 *Source: Creature Codex Page 279*
 
 ```statblock
+"dice": false
 "name": "Tusked Crimson Ogre Cc"
 "size": "Large"
 "type": "Giant"

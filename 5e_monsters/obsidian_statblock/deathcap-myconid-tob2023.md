@@ -13,6 +13,7 @@ aliases: ["deathcapmyconid-tob1-2023", "Deathcap Myconid-tob2023"]
 *Source: Tome of Beasts 2023 Page 280*
 
 ```statblock
+"dice": false
 "name": "Deathcap Myconid Tob2023"
 "size": "Medium"
 "type": "Plant"

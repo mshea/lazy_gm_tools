@@ -13,6 +13,7 @@ aliases: ["nodosaurus", "Nodosaurus-cc"]
 *Source: Creature Codex Page 109*
 
 ```statblock
+"dice": false
 "name": "Nodosaurus Cc"
 "size": "Large"
 "type": "Beast"

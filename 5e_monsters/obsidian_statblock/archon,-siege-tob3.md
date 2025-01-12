@@ -13,6 +13,7 @@ aliases: ["archon-siege", "Archon, Siege-tob3"]
 *Source: Tome of Beasts 3 Page 42*
 
 ```statblock
+"dice": false
 "name": "Archon, Siege Tob3"
 "size": "Huge"
 "type": "Celestial"

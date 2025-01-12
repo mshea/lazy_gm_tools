@@ -13,6 +13,7 @@ aliases: ["lou-carcolh", "Lou Carcolh-cc"]
 *Source: Creature Codex Page 257*
 
 ```statblock
+"dice": false
 "name": "Lou Carcolh Cc"
 "size": "Medium"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["wallflower-a5e", "Wallflower-a5emm"]
 *Source: A5e Monstrous Menagerie Page 254*
 
 ```statblock
+"dice": false
 "name": "Wallflower A5Emm"
 "size": "Medium"
 "type": "Plant"

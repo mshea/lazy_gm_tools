@@ -13,6 +13,7 @@ aliases: ["nightgarm-tob1-2023", "Nightgarm-tob2023"]
 *Source: Tome of Beasts 2023 Page 285*
 
 ```statblock
+"dice": false
 "name": "Nightgarm Tob2023"
 "size": "Large"
 "type": "Monstrosity"

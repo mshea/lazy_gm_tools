@@ -13,6 +13,7 @@ aliases: ["earth-dragon-wyrmling-a5e", "Earth Dragon Wyrmling-a5emm"]
 *Source: A5e Monstrous Menagerie Page 128*
 
 ```statblock
+"dice": false
 "name": "Earth Dragon Wyrmling A5Emm"
 "size": "Medium"
 "type": "Dragon"

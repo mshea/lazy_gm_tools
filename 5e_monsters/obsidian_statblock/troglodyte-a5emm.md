@@ -13,6 +13,7 @@ aliases: ["troglodyte-a5e", "Troglodyte-a5emm"]
 *Source: A5e Monstrous Menagerie Page 410*
 
 ```statblock
+"dice": false
 "name": "Troglodyte A5Emm"
 "size": "Medium"
 "type": "Humanoid"

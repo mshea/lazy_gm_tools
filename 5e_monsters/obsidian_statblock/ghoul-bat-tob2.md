@@ -13,6 +13,7 @@ aliases: ["ghoul-bat", "Ghoul Bat-tob2"]
 *Source: Tome of Beasts 2 Page 391*
 
 ```statblock
+"dice": false
 "name": "Ghoul Bat Tob2"
 "size": "Small"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["alchemist-archer", "Alchemist Archer-cc"]
 *Source: Creature Codex Page 141*
 
 ```statblock
+"dice": false
 "name": "Alchemist Archer Cc"
 "size": "Medium"
 "type": "Humanoid"

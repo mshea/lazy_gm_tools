@@ -13,6 +13,7 @@ aliases: ["apauperape-tob1-2023", "Apau Perape-tob2023"]
 *Source: Tome of Beasts 2023 Page 82*
 
 ```statblock
+"dice": false
 "name": "Apau Perape Tob2023"
 "size": "Large"
 "type": "Fiend"

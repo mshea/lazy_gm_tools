@@ -13,6 +13,7 @@ aliases: ["pactvampire-tob1-2023", "Pact Vampire-tob2023"]
 *Source: Tome of Beasts 2023 Page 380*
 
 ```statblock
+"dice": false
 "name": "Pact Vampire Tob2023"
 "size": "Medium"
 "type": "Undead"

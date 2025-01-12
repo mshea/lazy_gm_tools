@@ -13,6 +13,7 @@ aliases: ["young-copper-dragon-a5e", "Young Copper Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 167*
 
 ```statblock
+"dice": false
 "name": "Young Copper Dragon A5Emm"
 "size": "Large"
 "type": "Dragon"

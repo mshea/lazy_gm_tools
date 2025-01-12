@@ -13,6 +13,7 @@ aliases: ["sandman-tob1-2023", "Sandman-tob2023"]
 *Source: Tome of Beasts 2023 Page 313*
 
 ```statblock
+"dice": false
 "name": "Sandman Tob2023"
 "size": "Medium"
 "type": "Celestial"

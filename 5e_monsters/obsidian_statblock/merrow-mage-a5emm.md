@@ -13,6 +13,7 @@ aliases: ["merrow-mage-a5e", "Merrow Mage-a5emm"]
 *Source: A5e Monstrous Menagerie Page 331*
 
 ```statblock
+"dice": false
 "name": "Merrow Mage A5Emm"
 "size": "Large"
 "type": "Monstrosity"

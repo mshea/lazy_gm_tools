@@ -13,6 +13,7 @@ aliases: ["fearsmith-tob1-2023", "Fear Smith-tob2023"]
 *Source: Tome of Beasts 2023 Page 169*
 
 ```statblock
+"dice": false
 "name": "Fear Smith Tob2023"
 "size": "Medium"
 "type": "Fey"

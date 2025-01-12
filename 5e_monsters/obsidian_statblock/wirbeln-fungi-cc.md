@@ -13,6 +13,7 @@ aliases: ["wirbeln-fungi", "Wirbeln Fungi-cc"]
 *Source: Creature Codex Page 166*
 
 ```statblock
+"dice": false
 "name": "Wirbeln Fungi Cc"
 "size": "Small"
 "type": "Plant"

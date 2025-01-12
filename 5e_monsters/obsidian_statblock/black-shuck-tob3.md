@@ -13,6 +13,7 @@ aliases: ["black-shuck", "Black Shuck-tob3"]
 *Source: Tome of Beasts 3 Page 59*
 
 ```statblock
+"dice": false
 "name": "Black Shuck Tob3"
 "size": "Large"
 "type": "Fiend"

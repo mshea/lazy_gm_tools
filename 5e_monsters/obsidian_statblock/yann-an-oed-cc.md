@@ -13,6 +13,7 @@ aliases: ["yann-an-oed", "Yann-An-Oed-cc"]
 *Source: Creature Codex Page 391*
 
 ```statblock
+"dice": false
 "name": "Yann An Oed Cc"
 "size": "Huge"
 "type": "Aberration"

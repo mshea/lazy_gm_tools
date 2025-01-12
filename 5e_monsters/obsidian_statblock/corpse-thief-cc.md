@@ -13,6 +13,7 @@ aliases: ["corpse-thief", "Corpse Thief-cc"]
 *Source: Creature Codex Page 66*
 
 ```statblock
+"dice": false
 "name": "Corpse Thief Cc"
 "size": "Medium"
 "type": "Humanoid"

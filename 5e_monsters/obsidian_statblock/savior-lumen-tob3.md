@@ -13,6 +13,7 @@ aliases: ["savior-lumen", "Savior Lumen-tob3"]
 *Source: Tome of Beasts 3 Page 335*
 
 ```statblock
+"dice": false
 "name": "Savior Lumen Tob3"
 "size": "Large"
 "type": "Celestial"

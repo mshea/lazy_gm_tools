@@ -13,6 +13,7 @@ aliases: ["automatadevil-tob1-2023", "Automata Devil-tob2023"]
 *Source: Tome of Beasts 2023 Page 92*
 
 ```statblock
+"dice": false
 "name": "Automata Devil Tob2023"
 "size": "Large"
 "type": "Fiend"

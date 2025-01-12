@@ -13,6 +13,7 @@ aliases: ["fetalsavant-tob1-2023", "Fetal Savant-tob2023"]
 *Source: Tome of Beasts 2023 Page 88*
 
 ```statblock
+"dice": false
 "name": "Fetal Savant Tob2023"
 "size": "Tiny"
 "type": "Humanoid"

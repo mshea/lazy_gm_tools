@@ -13,6 +13,7 @@ aliases: ["scarlet-ibis", "Scarlet Ibis-tob2"]
 *Source: Tome of Beasts 2 Page 318*
 
 ```statblock
+"dice": false
 "name": "Scarlet Ibis Tob2"
 "size": "Medium"
 "type": "Monstrosity"

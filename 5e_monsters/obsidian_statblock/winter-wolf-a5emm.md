@@ -13,6 +13,7 @@ aliases: ["winter-wolf-a5e", "Winter Wolf-a5emm"]
 *Source: A5e Monstrous Menagerie Page 463*
 
 ```statblock
+"dice": false
 "name": "Winter Wolf A5Emm"
 "size": "Large"
 "type": "Monstrosity"

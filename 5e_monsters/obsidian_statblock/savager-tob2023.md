@@ -13,6 +13,7 @@ aliases: ["savager-tob1-2023", "Savager-tob2023"]
 *Source: Tome of Beasts 2023 Page 318*
 
 ```statblock
+"dice": false
 "name": "Savager Tob2023"
 "size": "Large"
 "type": "Beast"

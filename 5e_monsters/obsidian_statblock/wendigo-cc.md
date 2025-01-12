@@ -13,6 +13,7 @@ aliases: ["wendigo", "Wendigo-cc"]
 *Source: Creature Codex Page 377*
 
 ```statblock
+"dice": false
 "name": "Wendigo Cc"
 "size": "Medium"
 "type": "Monstrosity"

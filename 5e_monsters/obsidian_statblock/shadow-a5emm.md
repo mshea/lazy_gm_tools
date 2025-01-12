@@ -13,6 +13,7 @@ aliases: ["shadow-a5e", "Shadow-a5emm"]
 *Source: A5e Monstrous Menagerie Page 388*
 
 ```statblock
+"dice": false
 "name": "Shadow A5Emm"
 "size": "Medium"
 "type": "Undead"

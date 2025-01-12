@@ -13,6 +13,7 @@ aliases: ["labyrinth-keeper", "Labyrinth Keeper-cc"]
 *Source: Creature Codex Page 267*
 
 ```statblock
+"dice": false
 "name": "Labyrinth Keeper Cc"
 "size": "Large"
 "type": "Monstrosity"

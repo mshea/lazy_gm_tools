@@ -13,6 +13,7 @@ aliases: ["giant-goat-a5e", "Giant Goat-a5emm"]
 *Source: A5e Monstrous Menagerie Page 447*
 
 ```statblock
+"dice": false
 "name": "Giant Goat A5Emm"
 "size": "Large"
 "type": "Beast"

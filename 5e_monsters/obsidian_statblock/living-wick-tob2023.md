@@ -13,6 +13,7 @@ aliases: ["livingwick-tob1-2023", "Living Wick-tob2023"]
 *Source: Tome of Beasts 2023 Page 257*
 
 ```statblock
+"dice": false
 "name": "Living Wick Tob2023"
 "size": "Small"
 "type": "Construct"

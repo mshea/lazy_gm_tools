@@ -13,6 +13,7 @@ aliases: ["nachzehrer", "Nachzehrer-cc"]
 *Source: Creature Codex Page 272*
 
 ```statblock
+"dice": false
 "name": "Nachzehrer Cc"
 "size": "Medium"
 "type": "Undead"

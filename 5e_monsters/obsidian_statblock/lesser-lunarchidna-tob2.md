@@ -13,6 +13,7 @@ aliases: ["lesser-lunarchidna", "Lesser Lunarchidna-tob2"]
 *Source: Tome of Beasts 2 Page 242*
 
 ```statblock
+"dice": false
 "name": "Lesser Lunarchidna Tob2"
 "size": "Medium"
 "type": "Aberration"

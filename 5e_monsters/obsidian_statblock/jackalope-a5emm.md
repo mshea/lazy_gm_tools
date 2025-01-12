@@ -13,6 +13,7 @@ aliases: ["jackalope-a5e", "Jackalope-a5emm"]
 *Source: A5e Monstrous Menagerie Page 453*
 
 ```statblock
+"dice": false
 "name": "Jackalope A5Emm"
 "size": "Tiny"
 "type": "Beast"

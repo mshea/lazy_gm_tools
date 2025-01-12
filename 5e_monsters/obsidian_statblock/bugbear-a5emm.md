@@ -13,6 +13,7 @@ aliases: ["bugbear-a5e", "Bugbear-a5emm"]
 *Source: A5e Monstrous Menagerie Page 38*
 
 ```statblock
+"dice": false
 "name": "Bugbear A5Emm"
 "size": "Medium"
 "type": "Humanoid"

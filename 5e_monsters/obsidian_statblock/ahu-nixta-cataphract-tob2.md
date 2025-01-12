@@ -13,6 +13,7 @@ aliases: ["ahu-nixta-cataphract", "Ahu-Nixta Cataphract-tob2"]
 *Source: Tome of Beasts 2 Page 9*
 
 ```statblock
+"dice": false
 "name": "Ahu Nixta Cataphract Tob2"
 "size": "Large"
 "type": "Aberration"

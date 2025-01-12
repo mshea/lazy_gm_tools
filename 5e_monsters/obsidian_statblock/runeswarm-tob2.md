@@ -13,6 +13,7 @@ aliases: ["runeswarm", "Runeswarm-tob2"]
 *Source: Tome of Beasts 2 Page 310*
 
 ```statblock
+"dice": false
 "name": "Runeswarm Tob2"
 "size": "Large"
 "type": "Construct"

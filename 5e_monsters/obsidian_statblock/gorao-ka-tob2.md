@@ -13,6 +13,7 @@ aliases: ["gorao-ka", "Gorao-Ka-tob2"]
 *Source: Tome of Beasts 2 Page 221*
 
 ```statblock
+"dice": false
 "name": "Gorao Ka Tob2"
 "size": "Tiny"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["bull", "Bull-tob2"]
 *Source: Tome of Beasts 2 Page 169*
 
 ```statblock
+"dice": false
 "name": "Bull Tob2"
 "size": "Large"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["boggard-sovereign-a5e", "Boggard Sovereign-a5emm"]
 *Source: A5e Monstrous Menagerie Page 36*
 
 ```statblock
+"dice": false
 "name": "Boggard Sovereign A5Emm"
 "size": "Large"
 "type": "Humanoid"

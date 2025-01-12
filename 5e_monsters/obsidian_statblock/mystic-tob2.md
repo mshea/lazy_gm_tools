@@ -13,6 +13,7 @@ aliases: ["mystic", "Mystic-tob2"]
 *Source: Tome of Beasts 2 Page 316*
 
 ```statblock
+"dice": false
 "name": "Mystic Tob2"
 "size": "Medium"
 "type": "Humanoid"

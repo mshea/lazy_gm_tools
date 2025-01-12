@@ -13,6 +13,7 @@ aliases: ["miremuck-goblin-king-a5e", "Miremuck Goblin King-a5emm"]
 *Source: A5e Monstrous Menagerie Page None*
 
 ```statblock
+"dice": false
 "name": "Miremuck Goblin King A5Emm"
 "size": "Medium"
 "type": "Humanoid"

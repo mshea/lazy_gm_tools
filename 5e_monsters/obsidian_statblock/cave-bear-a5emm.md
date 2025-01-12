@@ -13,6 +13,7 @@ aliases: ["cave-bear-a5e", "Cave Bear-a5emm"]
 *Source: A5e Monstrous Menagerie Page 456*
 
 ```statblock
+"dice": false
 "name": "Cave Bear A5Emm"
 "size": "Large"
 "type": "Beast"

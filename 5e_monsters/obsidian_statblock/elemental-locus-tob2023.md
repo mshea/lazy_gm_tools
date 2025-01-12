@@ -13,6 +13,7 @@ aliases: ["elementallocus-tob1-2023", "Elemental Locus-tob2023"]
 *Source: Tome of Beasts 2023 Page 157*
 
 ```statblock
+"dice": false
 "name": "Elemental Locus Tob2023"
 "size": "Gargantuan"
 "type": "Elemental"

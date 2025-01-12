@@ -13,6 +13,7 @@ aliases: ["giant-lantern", "Giant, Lantern-tob3"]
 *Source: Tome of Beasts 3 Page 204*
 
 ```statblock
+"dice": false
 "name": "Giant, Lantern Tob3"
 "size": "Huge"
 "type": "Giant"

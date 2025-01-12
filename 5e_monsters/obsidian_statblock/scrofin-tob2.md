@@ -13,6 +13,7 @@ aliases: ["scrofin", "Scrofin-tob2"]
 *Source: Tome of Beasts 2 Page 319*
 
 ```statblock
+"dice": false
 "name": "Scrofin Tob2"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["wilderness-crone", "Wilderness Crone-tob3"]
 *Source: Tome of Beasts 3 Page 392*
 
 ```statblock
+"dice": false
 "name": "Wilderness Crone Tob3"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["shellycoat-tob1-2023", "Shellycoat-tob2023"]
 *Source: Tome of Beasts 2023 Page 325*
 
 ```statblock
+"dice": false
 "name": "Shellycoat Tob2023"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["wizard-kobold", "Wizard Kobold-cc"]
 *Source: Creature Codex Page 376*
 
 ```statblock
+"dice": false
 "name": "Wizard Kobold Cc"
 "size": "Small"
 "type": "Humanoid"

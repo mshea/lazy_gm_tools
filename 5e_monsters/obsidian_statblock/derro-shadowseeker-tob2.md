@@ -13,6 +13,7 @@ aliases: ["derro-shadowseeker", "Derro Shadowseeker-tob2"]
 *Source: Tome of Beasts 2 Page 98*
 
 ```statblock
+"dice": false
 "name": "Derro Shadowseeker Tob2"
 "size": "Small"
 "type": "Humanoid"

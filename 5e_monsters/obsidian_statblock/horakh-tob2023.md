@@ -13,6 +13,7 @@ aliases: ["horakh-tob1-2023", "Horakh-tob2023"]
 *Source: Tome of Beasts 2023 Page 234*
 
 ```statblock
+"dice": false
 "name": "Horakh Tob2023"
 "size": "Medium"
 "type": "Monstrosity"

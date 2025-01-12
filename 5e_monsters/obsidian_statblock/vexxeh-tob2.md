@@ -13,6 +13,7 @@ aliases: ["vexxeh", "Vexxeh-tob2"]
 *Source: Tome of Beasts 2 Page 360*
 
 ```statblock
+"dice": false
 "name": "Vexxeh Tob2"
 "size": "Huge"
 "type": "Fiend"

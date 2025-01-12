@@ -13,6 +13,7 @@ aliases: ["sprite-a5e", "Sprite-a5emm"]
 *Source: A5e Monstrous Menagerie Page 203*
 
 ```statblock
+"dice": false
 "name": "Sprite A5Emm"
 "size": "Tiny"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["dullahan-tob1-2023", "Dullahan-tob2023"]
 *Source: Tome of Beasts 2023 Page 151*
 
 ```statblock
+"dice": false
 "name": "Dullahan Tob2023"
 "size": "Large"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["paper-golem-swarm", "Paper Golem Swarm-cc"]
 *Source: Creature Codex Page 204*
 
 ```statblock
+"dice": false
 "name": "Paper Golem Swarm Cc"
 "size": "Medium"
 "type": "Construct"

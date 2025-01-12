@@ -13,6 +13,7 @@ aliases: ["equitox", "Equitox-tob3"]
 *Source: Tome of Beasts 3 Page 171*
 
 ```statblock
+"dice": false
 "name": "Equitox Tob3"
 "size": "Large"
 "type": "Fiend"

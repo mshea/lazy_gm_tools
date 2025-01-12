@@ -13,6 +13,7 @@ aliases: ["causticcharger-tob1-2023", "Caustic Charger-tob2023"]
 *Source: Tome of Beasts 2023 Page 51*
 
 ```statblock
+"dice": false
 "name": "Caustic Charger Tob2023"
 "size": "Huge"
 "type": "Monstrosity"

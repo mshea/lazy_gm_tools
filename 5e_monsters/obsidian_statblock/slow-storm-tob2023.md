@@ -13,6 +13,7 @@ aliases: ["slowstorm-tob1-2023", "Slow Storm-tob2023"]
 *Source: Tome of Beasts 2023 Page 333*
 
 ```statblock
+"dice": false
 "name": "Slow Storm Tob2023"
 "size": "Medium"
 "type": "Elemental"

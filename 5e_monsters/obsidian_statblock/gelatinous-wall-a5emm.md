@@ -13,6 +13,7 @@ aliases: ["gelatinous-wall-a5e", "Gelatinous Wall-a5emm"]
 *Source: A5e Monstrous Menagerie Page 351*
 
 ```statblock
+"dice": false
 "name": "Gelatinous Wall A5Emm"
 "size": "Huge"
 "type": "Ooze"

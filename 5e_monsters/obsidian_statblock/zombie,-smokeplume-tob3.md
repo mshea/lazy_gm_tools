@@ -13,6 +13,7 @@ aliases: ["zombie-smokeplume", "Zombie, Smokeplume-tob3"]
 *Source: Tome of Beasts 3 Page 400*
 
 ```statblock
+"dice": false
 "name": "Zombie, Smokeplume Tob3"
 "size": "Large"
 "type": "Undead"

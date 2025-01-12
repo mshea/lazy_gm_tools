@@ -13,6 +13,7 @@ aliases: ["green-knight-of-the-woods", "Green Knight of the Woods-cc"]
 *Source: Creature Codex Page 209*
 
 ```statblock
+"dice": false
 "name": "Green Knight Of The Woods Cc"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["young-white-dragon-a5e", "Young White Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 123*
 
 ```statblock
+"dice": false
 "name": "Young White Dragon A5Emm"
 "size": "Large"
 "type": "Dragon"

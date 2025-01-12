@@ -13,6 +13,7 @@ aliases: ["heraldofdarkness-tob1-2023", "Herald of Darkness-tob2023"]
 *Source: Tome of Beasts 2023 Page 233*
 
 ```statblock
+"dice": false
 "name": "Herald Of Darkness Tob2023"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["helashruu", "Helashruu-tob2"]
 *Source: Tome of Beasts 2 Page 197*
 
 ```statblock
+"dice": false
 "name": "Helashruu Tob2"
 "size": "Huge"
 "type": "Aberration"

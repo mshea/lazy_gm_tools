@@ -13,6 +13,7 @@ aliases: ["swarm-of-bats-a5e", "Swarm of Bats-a5emm"]
 *Source: A5e Monstrous Menagerie Page 460*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Bats A5Emm"
 "size": "Medium"
 "type": "Beast"

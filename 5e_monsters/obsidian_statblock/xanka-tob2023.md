@@ -13,6 +13,7 @@ aliases: ["xanka-tob1-2023", "Xanka-tob2023"]
 *Source: Tome of Beasts 2023 Page 399*
 
 ```statblock
+"dice": false
 "name": "Xanka Tob2023"
 "size": "Small"
 "type": "Construct"

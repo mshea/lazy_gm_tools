@@ -13,6 +13,7 @@ aliases: ["kobold-planes-hunter", "Kobold, Planes Hunter-tob3"]
 *Source: Tome of Beasts 3 Page 254*
 
 ```statblock
+"dice": false
 "name": "Kobold, Planes Hunter Tob3"
 "size": "Small"
 "type": "Humanoid"

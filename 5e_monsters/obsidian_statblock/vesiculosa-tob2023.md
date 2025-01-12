@@ -13,6 +13,7 @@ aliases: ["vesiculosa-tob1-2023", "Vesiculosa-tob2023"]
 *Source: Tome of Beasts 2023 Page 385*
 
 ```statblock
+"dice": false
 "name": "Vesiculosa Tob2023"
 "size": "Gargantuan"
 "type": "Plant"

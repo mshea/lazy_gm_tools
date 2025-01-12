@@ -13,6 +13,7 @@ aliases: ["forest-drake", "Forest Drake-cc"]
 *Source: Creature Codex Page 130*
 
 ```statblock
+"dice": false
 "name": "Forest Drake Cc"
 "size": "Small"
 "type": "Dragon"

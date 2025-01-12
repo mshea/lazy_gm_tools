@@ -13,6 +13,7 @@ aliases: ["warmth-thief", "Warmth Thief-tob2"]
 *Source: Tome of Beasts 2 Page 366*
 
 ```statblock
+"dice": false
 "name": "Warmth Thief Tob2"
 "size": "Tiny"
 "type": "Fey"

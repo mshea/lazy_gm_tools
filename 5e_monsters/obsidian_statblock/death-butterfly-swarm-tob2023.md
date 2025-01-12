@@ -13,6 +13,7 @@ aliases: ["deathbutterflyswarm-tob1-2023", "Death Butterfly Swarm-tob2023"]
 *Source: Tome of Beasts 2023 Page 70*
 
 ```statblock
+"dice": false
 "name": "Death Butterfly Swarm Tob2023"
 "size": "Large"
 "type": "Swarm"

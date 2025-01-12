@@ -13,6 +13,7 @@ aliases: ["giant-hyena-a5e", "Giant Hyena-a5emm"]
 *Source: A5e Monstrous Menagerie Page 447*
 
 ```statblock
+"dice": false
 "name": "Giant Hyena A5Emm"
 "size": "Large"
 "type": "Beast"

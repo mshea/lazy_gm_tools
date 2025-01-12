@@ -13,6 +13,7 @@ aliases: ["fleshspurned", "Fleshspurned-tob2"]
 *Source: Tome of Beasts 2 Page 153*
 
 ```statblock
+"dice": false
 "name": "Fleshspurned Tob2"
 "size": "Medium"
 "type": "Undead"

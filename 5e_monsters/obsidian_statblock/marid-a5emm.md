@@ -13,6 +13,7 @@ aliases: ["marid-a5e", "Marid-a5emm"]
 *Source: A5e Monstrous Menagerie Page 224*
 
 ```statblock
+"dice": false
 "name": "Marid A5Emm"
 "size": "Large"
 "type": "Elemental"

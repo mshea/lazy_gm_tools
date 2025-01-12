@@ -13,6 +13,7 @@ aliases: ["snake-lamia-a5e", "Snake Lamia-a5emm"]
 *Source: A5e Monstrous Menagerie Page 303*
 
 ```statblock
+"dice": false
 "name": "Snake Lamia A5Emm"
 "size": "Large"
 "type": "Monstrosity"

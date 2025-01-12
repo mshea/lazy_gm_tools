@@ -13,6 +13,7 @@ aliases: ["ecstatic-bloom", "Ecstatic Bloom-cc"]
 *Source: Creature Codex Page 303*
 
 ```statblock
+"dice": false
 "name": "Ecstatic Bloom Cc"
 "size": "Huge"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["dimensional-shambler", "Dimensional Shambler-tob2"]
 *Source: Tome of Beasts 2 Page 107*
 
 ```statblock
+"dice": false
 "name": "Dimensional Shambler Tob2"
 "size": "Large"
 "type": "Aberration"

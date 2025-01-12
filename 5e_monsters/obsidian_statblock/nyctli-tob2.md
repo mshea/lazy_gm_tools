@@ -13,6 +13,7 @@ aliases: ["nyctli", "Nyctli-tob2"]
 *Source: Tome of Beasts 2 Page 271*
 
 ```statblock
+"dice": false
 "name": "Nyctli Tob2"
 "size": "Tiny"
 "type": "Fey"

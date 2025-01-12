@@ -13,6 +13,7 @@ aliases: ["sand-worm-a5e", "Sand Worm-a5emm"]
 *Source: A5e Monstrous Menagerie Page 365*
 
 ```statblock
+"dice": false
 "name": "Sand Worm A5Emm"
 "size": "Gargantuan"
 "type": "Monstrosity"

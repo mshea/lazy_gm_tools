@@ -13,6 +13,7 @@ aliases: ["ogre-flesh-heap-a5e", "Ogre Flesh Heap-a5emm"]
 *Source: A5e Monstrous Menagerie Page 436*
 
 ```statblock
+"dice": false
 "name": "Ogre Flesh Heap A5Emm"
 "size": "Large"
 "type": "Undead"

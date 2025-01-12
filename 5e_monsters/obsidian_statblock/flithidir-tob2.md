@@ -13,6 +13,7 @@ aliases: ["flithidir", "Flithidir-tob2"]
 *Source: Tome of Beasts 2 Page 154*
 
 ```statblock
+"dice": false
 "name": "Flithidir Tob2"
 "size": "Small"
 "type": "Fey"

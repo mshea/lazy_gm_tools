@@ -13,6 +13,7 @@ aliases: ["ring-servant", "Ring Servant-cc"]
 *Source: Creature Codex Page 318*
 
 ```statblock
+"dice": false
 "name": "Ring Servant Cc"
 "size": "Large"
 "type": "Construct"

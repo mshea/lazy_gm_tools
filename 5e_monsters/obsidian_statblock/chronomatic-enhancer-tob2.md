@@ -13,6 +13,7 @@ aliases: ["chronomatic-enhancer", "Chronomatic Enhancer-tob2"]
 *Source: Tome of Beasts 2 Page 64*
 
 ```statblock
+"dice": false
 "name": "Chronomatic Enhancer Tob2"
 "size": "Large"
 "type": "Construct"

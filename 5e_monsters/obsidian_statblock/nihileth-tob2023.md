@@ -13,6 +13,7 @@ aliases: ["nihileth-tob1-2023", "Nihileth-tob2023"]
 *Source: Tome of Beasts 2023 Page 9*
 
 ```statblock
+"dice": false
 "name": "Nihileth Tob2023"
 "size": "Large"
 "type": "Undead"

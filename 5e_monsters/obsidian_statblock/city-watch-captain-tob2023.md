@@ -13,6 +13,7 @@ aliases: ["citywatchcaptain-tob1-2023", "City Watch Captain-tob2023"]
 *Source: Tome of Beasts 2023 Page 407*
 
 ```statblock
+"dice": false
 "name": "City Watch Captain Tob2023"
 "size": "Medium"
 "type": "Humanoid"

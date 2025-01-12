@@ -13,6 +13,7 @@ aliases: ["war-machine-golem", "War Machine Golem-cc"]
 *Source: Creature Codex Page 205*
 
 ```statblock
+"dice": false
 "name": "War Machine Golem Cc"
 "size": "Gargantuan"
 "type": "Construct"

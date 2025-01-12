@@ -13,6 +13,7 @@ aliases: ["plague-spirit", "Plague Spirit-tob2"]
 *Source: Tome of Beasts 2 Page 296*
 
 ```statblock
+"dice": false
 "name": "Plague Spirit Tob2"
 "size": "Medium"
 "type": "Fey"

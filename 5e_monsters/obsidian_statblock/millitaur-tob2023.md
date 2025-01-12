@@ -13,6 +13,7 @@ aliases: ["millitaur-tob1-2023", "Millitaur-tob2023"]
 *Source: Tome of Beasts 2023 Page 267*
 
 ```statblock
+"dice": false
 "name": "Millitaur Tob2023"
 "size": "Large"
 "type": "Monstrosity"

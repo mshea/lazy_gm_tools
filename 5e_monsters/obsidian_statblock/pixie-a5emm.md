@@ -13,6 +13,7 @@ aliases: ["pixie-a5e", "Pixie-a5emm"]
 *Source: A5e Monstrous Menagerie Page 202*
 
 ```statblock
+"dice": false
 "name": "Pixie A5Emm"
 "size": "Tiny"
 "type": "Fey"

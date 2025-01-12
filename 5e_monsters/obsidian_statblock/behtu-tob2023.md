@@ -13,6 +13,7 @@ aliases: ["behtu-tob1-2023", "Behtu-tob2023"]
 *Source: Tome of Beasts 2023 Page 34*
 
 ```statblock
+"dice": false
 "name": "Behtu Tob2023"
 "size": "Small"
 "type": "Humanoid"

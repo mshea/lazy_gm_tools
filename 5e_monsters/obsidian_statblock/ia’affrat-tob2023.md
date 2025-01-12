@@ -13,6 +13,7 @@ aliases: ["iaaffrat-tob1-2023", "Ia’Affrat-tob2023"]
 *Source: Tome of Beasts 2023 Page 91*
 
 ```statblock
+"dice": false
 "name": "Ia’Affrat Tob2023"
 "size": "Large"
 "type": "Swarm"

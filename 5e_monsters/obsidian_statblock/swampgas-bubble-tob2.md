@@ -13,6 +13,7 @@ aliases: ["swampgas-bubble", "Swampgas Bubble-tob2"]
 *Source: Tome of Beasts 2 Page 343*
 
 ```statblock
+"dice": false
 "name": "Swampgas Bubble Tob2"
 "size": "Medium"
 "type": "Ooze"

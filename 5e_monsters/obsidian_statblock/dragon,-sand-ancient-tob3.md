@@ -13,6 +13,7 @@ aliases: ["dragon-sand-ancient", "Dragon, Sand Ancient-tob3"]
 *Source: Tome of Beasts 3 Page 144*
 
 ```statblock
+"dice": false
 "name": "Dragon, Sand Ancient Tob3"
 "size": "Gargantuan"
 "type": "Dragon"

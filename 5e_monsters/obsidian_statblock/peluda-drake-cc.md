@@ -13,6 +13,7 @@ aliases: ["peluda-drake", "Peluda Drake-cc"]
 *Source: Creature Codex Page 130*
 
 ```statblock
+"dice": false
 "name": "Peluda Drake Cc"
 "size": "Large"
 "type": "Dragon"

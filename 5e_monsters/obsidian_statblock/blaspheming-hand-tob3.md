@@ -13,6 +13,7 @@ aliases: ["blaspheming-hand", "Blaspheming Hand-tob3"]
 *Source: Tome of Beasts 3 Page 60*
 
 ```statblock
+"dice": false
 "name": "Blaspheming Hand Tob3"
 "size": "Large"
 "type": "Fiend"

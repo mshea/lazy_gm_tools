@@ -13,6 +13,7 @@ aliases: ["avalanche-screamer", "Avalanche Screamer-tob2"]
 *Source: Tome of Beasts 2 Page 35*
 
 ```statblock
+"dice": false
 "name": "Avalanche Screamer Tob2"
 "size": "Large"
 "type": "Aberration"

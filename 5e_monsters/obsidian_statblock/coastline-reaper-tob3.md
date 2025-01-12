@@ -13,6 +13,7 @@ aliases: ["coastline-reaper", "Coastline Reaper-tob3"]
 *Source: Tome of Beasts 3 Page 92*
 
 ```statblock
+"dice": false
 "name": "Coastline Reaper Tob3"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["thunderbird-a5e", "Thunderbird-a5emm"]
 *Source: A5e Monstrous Menagerie Page None*
 
 ```statblock
+"dice": false
 "name": "Thunderbird A5Emm"
 "size": "Large"
 "type": "Monstrosity"

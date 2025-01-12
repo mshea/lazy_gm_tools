@@ -13,6 +13,7 @@ aliases: ["orphan-of-the-black", "Orphan of the Black-tob2"]
 *Source: Tome of Beasts 2 Page 286*
 
 ```statblock
+"dice": false
 "name": "Orphan Of The Black Tob2"
 "size": "Small"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["pishacha", "Pishacha-cc"]
 *Source: Creature Codex Page 88*
 
 ```statblock
+"dice": false
 "name": "Pishacha Cc"
 "size": "Medium"
 "type": "Fiend"

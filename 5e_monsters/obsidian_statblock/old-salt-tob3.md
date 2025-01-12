@@ -13,6 +13,7 @@ aliases: ["old-salt", "Old Salt-tob3"]
 *Source: Tome of Beasts 3 Page 304*
 
 ```statblock
+"dice": false
 "name": "Old Salt Tob3"
 "size": "Medium"
 "type": "Undead"

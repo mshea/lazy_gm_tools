@@ -13,6 +13,7 @@ aliases: ["iceworm", "Iceworm-tob3"]
 *Source: Tome of Beasts 3 Page 241*
 
 ```statblock
+"dice": false
 "name": "Iceworm Tob3"
 "size": "Small"
 "type": "Monstrosity"

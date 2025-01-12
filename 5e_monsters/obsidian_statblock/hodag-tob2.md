@@ -13,6 +13,7 @@ aliases: ["hodag", "Hodag-tob2"]
 *Source: Tome of Beasts 2 Page 200*
 
 ```statblock
+"dice": false
 "name": "Hodag Tob2"
 "size": "Large"
 "type": "Beast"

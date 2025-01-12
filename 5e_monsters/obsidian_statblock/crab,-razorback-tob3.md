@@ -13,6 +13,7 @@ aliases: ["crab-razorback", "Crab, Razorback-tob3"]
 *Source: Tome of Beasts 3 Page 98*
 
 ```statblock
+"dice": false
 "name": "Crab, Razorback Tob3"
 "size": "Medium"
 "type": "Beast"

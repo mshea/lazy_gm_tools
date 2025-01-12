@@ -13,6 +13,7 @@ aliases: ["cavelightmoss-tob1-2023", "Cavelight Moss-tob2023"]
 *Source: Tome of Beasts 2023 Page 52*
 
 ```statblock
+"dice": false
 "name": "Cavelight Moss Tob2023"
 "size": "Large"
 "type": "Plant"

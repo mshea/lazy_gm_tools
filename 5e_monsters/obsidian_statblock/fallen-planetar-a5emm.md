@@ -13,6 +13,7 @@ aliases: ["fallen-planetar-a5e", "Fallen Planetar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 19*
 
 ```statblock
+"dice": false
 "name": "Fallen Planetar A5Emm"
 "size": "Large"
 "type": "Celestial"

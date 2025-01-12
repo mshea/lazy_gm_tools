@@ -13,6 +13,7 @@ aliases: ["mountain-giant", "Mountain Giant-cc"]
 *Source: Creature Codex Page 185*
 
 ```statblock
+"dice": false
 "name": "Mountain Giant Cc"
 "size": "Gargantuan"
 "type": "Giant"

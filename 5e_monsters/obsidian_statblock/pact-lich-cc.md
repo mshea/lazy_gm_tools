@@ -13,6 +13,7 @@ aliases: ["pact-lich", "Pact Lich-cc"]
 *Source: Creature Codex Page 152*
 
 ```statblock
+"dice": false
 "name": "Pact Lich Cc"
 "size": "Medium"
 "type": "Undead"

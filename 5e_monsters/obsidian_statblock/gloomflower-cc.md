@@ -13,6 +13,7 @@ aliases: ["gloomflower", "Gloomflower-cc"]
 *Source: Creature Codex Page 188*
 
 ```statblock
+"dice": false
 "name": "Gloomflower Cc"
 "size": "Tiny"
 "type": "Plant"

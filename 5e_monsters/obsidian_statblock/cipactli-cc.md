@@ -13,6 +13,7 @@ aliases: ["cipactli", "Cipactli-cc"]
 *Source: Creature Codex Page 83*
 
 ```statblock
+"dice": false
 "name": "Cipactli Cc"
 "size": "Medium"
 "type": "Fiend"

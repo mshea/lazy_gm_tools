@@ -13,6 +13,7 @@ aliases: ["kitsune", "Kitsune-cc"]
 *Source: Creature Codex Page 236*
 
 ```statblock
+"dice": false
 "name": "Kitsune Cc"
 "size": "Small"
 "type": "Fey"

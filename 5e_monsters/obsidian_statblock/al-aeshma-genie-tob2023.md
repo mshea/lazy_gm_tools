@@ -13,6 +13,7 @@ aliases: ["al-aeshmagenie-tob1-2023", "Al-Aeshma Genie-tob2023"]
 *Source: Tome of Beasts 2023 Page 197*
 
 ```statblock
+"dice": false
 "name": "Al Aeshma Genie Tob2023"
 "size": "Large"
 "type": "Elemental"

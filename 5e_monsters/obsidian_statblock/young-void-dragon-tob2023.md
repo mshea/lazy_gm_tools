@@ -13,6 +13,7 @@ aliases: ["youngvoiddragon-tob1-2023", "Young Void Dragon-tob2023"]
 *Source: Tome of Beasts 2023 Page 130*
 
 ```statblock
+"dice": false
 "name": "Young Void Dragon Tob2023"
 "size": "Large"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["frost-giant-jarl-a5e", "Frost Giant Jarl-a5emm"]
 *Source: A5e Monstrous Menagerie Page 237*
 
 ```statblock
+"dice": false
 "name": "Frost Giant Jarl A5Emm"
 "size": "Huge"
 "type": "Giant"

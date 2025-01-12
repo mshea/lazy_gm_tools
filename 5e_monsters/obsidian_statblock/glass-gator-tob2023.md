@@ -13,6 +13,7 @@ aliases: ["glassgator-tob1-2023", "Glass Gator-tob2023"]
 *Source: Tome of Beasts 2023 Page 211*
 
 ```statblock
+"dice": false
 "name": "Glass Gator Tob2023"
 "size": "Large"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["lemure-band-a5e", "Lemure Band-a5emm"]
 *Source: A5e Monstrous Menagerie Page 86*
 
 ```statblock
+"dice": false
 "name": "Lemure Band A5Emm"
 "size": "Large"
 "type": "Fiend"

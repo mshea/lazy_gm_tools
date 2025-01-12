@@ -13,6 +13,7 @@ aliases: ["bar-brawl", "Bar Brawl-cc"]
 *Source: Creature Codex Page 48*
 
 ```statblock
+"dice": false
 "name": "Bar Brawl Cc"
 "size": "Huge"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["meerkat", "Meerkat-tob3"]
 *Source: Tome of Beasts 3 Page 268*
 
 ```statblock
+"dice": false
 "name": "Meerkat Tob3"
 "size": "Tiny"
 "type": "Beast"

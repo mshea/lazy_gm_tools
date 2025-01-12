@@ -13,6 +13,7 @@ aliases: ["ahu-nixta-drudge", "Ahu-Nixta Drudge-tob2"]
 *Source: Tome of Beasts 2 Page 10*
 
 ```statblock
+"dice": false
 "name": "Ahu Nixta Drudge Tob2"
 "size": "Medium"
 "type": "Aberration"

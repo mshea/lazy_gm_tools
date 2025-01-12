@@ -13,6 +13,7 @@ aliases: ["giant-rat-a5e", "Giant Rat-a5emm"]
 *Source: A5e Monstrous Menagerie Page 449*
 
 ```statblock
+"dice": false
 "name": "Giant Rat A5Emm"
 "size": "Small"
 "type": "Beast"

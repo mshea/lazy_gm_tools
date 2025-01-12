@@ -13,6 +13,7 @@ aliases: ["akkorokamui", "Akkorokamui-tob3"]
 *Source: Tome of Beasts 3 Page 11*
 
 ```statblock
+"dice": false
 "name": "Akkorokamui Tob3"
 "size": "Gargantuan"
 "type": "Celestial"

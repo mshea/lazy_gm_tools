@@ -13,6 +13,7 @@ aliases: ["dhampir", "Dhampir-cc"]
 *Source: Creature Codex Page 106*
 
 ```statblock
+"dice": false
 "name": "Dhampir Cc"
 "size": "Medium"
 "type": "Humanoid"

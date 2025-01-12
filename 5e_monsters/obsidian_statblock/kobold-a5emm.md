@@ -13,6 +13,7 @@ aliases: ["kobold-a5e", "Kobold-a5emm"]
 *Source: A5e Monstrous Menagerie Page 297*
 
 ```statblock
+"dice": false
 "name": "Kobold A5Emm"
 "size": "Small"
 "type": "Humanoid"

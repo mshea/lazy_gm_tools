@@ -13,6 +13,7 @@ aliases: ["ancient-earth-dragon-a5e", "Ancient Earth Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 126*
 
 ```statblock
+"dice": false
 "name": "Ancient Earth Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

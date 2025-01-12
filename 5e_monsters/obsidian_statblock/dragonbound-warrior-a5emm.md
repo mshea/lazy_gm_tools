@@ -13,6 +13,7 @@ aliases: ["dragonbound-warrior-a5e", "Dragonbound Warrior-a5emm"]
 *Source: A5e Monstrous Menagerie Page 498*
 
 ```statblock
+"dice": false
 "name": "Dragonbound Warrior A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["chaos-raptor", "Chaos Raptor-tob3"]
 *Source: Tome of Beasts 3 Page 81*
 
 ```statblock
+"dice": false
 "name": "Chaos Raptor Tob3"
 "size": "Gargantuan"
 "type": "Monstrosity"

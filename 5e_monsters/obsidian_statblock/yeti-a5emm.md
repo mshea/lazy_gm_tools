@@ -13,6 +13,7 @@ aliases: ["yeti-a5e", "Yeti-a5emm"]
 *Source: A5e Monstrous Menagerie Page 433*
 
 ```statblock
+"dice": false
 "name": "Yeti A5Emm"
 "size": "Large"
 "type": "Monstrosity"

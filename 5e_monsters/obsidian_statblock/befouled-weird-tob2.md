@@ -13,6 +13,7 @@ aliases: ["befouled-weird", "Befouled Weird-tob2"]
 *Source: Tome of Beasts 2 Page 41*
 
 ```statblock
+"dice": false
 "name": "Befouled Weird Tob2"
 "size": "Medium"
 "type": "Elemental"

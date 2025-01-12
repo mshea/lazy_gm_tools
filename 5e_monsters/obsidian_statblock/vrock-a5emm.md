@@ -13,6 +13,7 @@ aliases: ["vrock-a5e", "Vrock-a5emm"]
 *Source: A5e Monstrous Menagerie Page 76*
 
 ```statblock
+"dice": false
 "name": "Vrock A5Emm"
 "size": "Large"
 "type": "Fiend"

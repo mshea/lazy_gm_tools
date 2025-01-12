@@ -13,6 +13,7 @@ aliases: ["giant-earth-elemental-a5e", "Giant Earth Elemental-a5emm"]
 *Source: A5e Monstrous Menagerie Page 194*
 
 ```statblock
+"dice": false
 "name": "Giant Earth Elemental A5Emm"
 "size": "Large"
 "type": "Elemental"

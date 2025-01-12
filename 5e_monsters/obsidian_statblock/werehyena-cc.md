@@ -13,6 +13,7 @@ aliases: ["werehyena", "Werehyena-cc"]
 *Source: Creature Codex Page 259*
 
 ```statblock
+"dice": false
 "name": "Werehyena Cc"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["ettercap-a5e", "Ettercap-a5emm"]
 *Source: A5e Monstrous Menagerie Page 196*
 
 ```statblock
+"dice": false
 "name": "Ettercap A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

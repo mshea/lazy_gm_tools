@@ -13,6 +13,7 @@ aliases: ["arborealgrappler-tob1-2023", "Arboreal Grappler-tob2023"]
 *Source: Tome of Beasts 2023 Page 24*
 
 ```statblock
+"dice": false
 "name": "Arboreal Grappler Tob2023"
 "size": "Medium"
 "type": "Aberration"

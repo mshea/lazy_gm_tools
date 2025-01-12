@@ -13,6 +13,7 @@ aliases: ["sunset-raptor", "Sunset Raptor-cc"]
 *Source: Creature Codex Page 351*
 
 ```statblock
+"dice": false
 "name": "Sunset Raptor Cc"
 "size": "Medium"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["piercer-a5e", "Piercer-a5emm"]
 *Source: A5e Monstrous Menagerie Page 373*
 
 ```statblock
+"dice": false
 "name": "Piercer A5Emm"
 "size": "Small"
 "type": "Monstrosity"

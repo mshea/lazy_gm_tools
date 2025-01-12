@@ -13,6 +13,7 @@ aliases: ["kalke-tob1-2023", "Kalke-tob2023"]
 *Source: Tome of Beasts 2023 Page 242*
 
 ```statblock
+"dice": false
 "name": "Kalke Tob2023"
 "size": "Small"
 "type": "Fiend"

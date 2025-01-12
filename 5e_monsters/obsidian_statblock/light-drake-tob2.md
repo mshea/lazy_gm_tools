@@ -13,6 +13,7 @@ aliases: ["light-drake", "Light Drake-tob2"]
 *Source: Tome of Beasts 2 Page 231*
 
 ```statblock
+"dice": false
 "name": "Light Drake Tob2"
 "size": "Tiny"
 "type": "Dragon"

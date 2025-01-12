@@ -13,6 +13,7 @@ aliases: ["bunyip-a5e", "Bunyip-a5emm"]
 *Source: A5e Monstrous Menagerie Page 441*
 
 ```statblock
+"dice": false
 "name": "Bunyip A5Emm"
 "size": "Huge"
 "type": "Beast"

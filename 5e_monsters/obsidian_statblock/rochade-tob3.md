@@ -13,6 +13,7 @@ aliases: ["rochade", "Rochade-tob3"]
 *Source: Tome of Beasts 3 Page 332*
 
 ```statblock
+"dice": false
 "name": "Rochade Tob3"
 "size": "Small"
 "type": "Fey"

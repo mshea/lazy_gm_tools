@@ -13,6 +13,7 @@ aliases: ["alke", "Alke-tob3"]
 *Source: Tome of Beasts 3 Page 16*
 
 ```statblock
+"dice": false
 "name": "Alke Tob3"
 "size": "Large"
 "type": "Monstrosity"

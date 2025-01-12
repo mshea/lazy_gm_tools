@@ -13,6 +13,7 @@ aliases: ["owlharpy-tob1-2023", "Owl Harpy-tob2023"]
 *Source: Tome of Beasts 2023 Page 230*
 
 ```statblock
+"dice": false
 "name": "Owl Harpy Tob2023"
 "size": "Medium"
 "type": "monstrosity"

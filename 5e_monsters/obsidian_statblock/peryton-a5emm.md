@@ -13,6 +13,7 @@ aliases: ["peryton-a5e", "Peryton-a5emm"]
 *Source: A5e Monstrous Menagerie Page 359*
 
 ```statblock
+"dice": false
 "name": "Peryton A5Emm"
 "size": "Large"
 "type": "Monstrosity"

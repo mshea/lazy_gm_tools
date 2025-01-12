@@ -13,6 +13,7 @@ aliases: ["lichhound-tob1-2023", "Lich Hound-tob2023"]
 *Source: Tome of Beasts 2023 Page 253*
 
 ```statblock
+"dice": false
 "name": "Lich Hound Tob2023"
 "size": "Medium"
 "type": "Undead"

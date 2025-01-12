@@ -13,6 +13,7 @@ aliases: ["winter-hag-a5e", "Winter Hag-a5emm"]
 *Source: A5e Monstrous Menagerie Page 272*
 
 ```statblock
+"dice": false
 "name": "Winter Hag A5Emm"
 "size": "Medium"
 "type": "Fey"

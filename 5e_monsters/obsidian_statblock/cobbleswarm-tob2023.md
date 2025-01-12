@@ -13,6 +13,7 @@ aliases: ["cobbleswarm-tob1-2023", "Cobbleswarm-tob2023"]
 *Source: Tome of Beasts 2023 Page 67*
 
 ```statblock
+"dice": false
 "name": "Cobbleswarm Tob2023"
 "size": "Medium"
 "type": "Swarm"

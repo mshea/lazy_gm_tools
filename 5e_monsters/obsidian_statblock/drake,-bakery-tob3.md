@@ -13,6 +13,7 @@ aliases: ["drake-bakery", "Drake, Bakery-tob3"]
 *Source: Tome of Beasts 3 Page 151*
 
 ```statblock
+"dice": false
 "name": "Drake, Bakery Tob3"
 "size": "Small"
 "type": "Dragon"

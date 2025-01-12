@@ -13,6 +13,7 @@ aliases: ["ashen-custodian", "Ashen Custodian-tob2"]
 *Source: Tome of Beasts 2 Page 29*
 
 ```statblock
+"dice": false
 "name": "Ashen Custodian Tob2"
 "size": "Medium"
 "type": "Fey"

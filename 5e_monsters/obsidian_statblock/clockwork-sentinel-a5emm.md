@@ -13,6 +13,7 @@ aliases: ["clockwork-sentinel-a5e", "Clockwork Sentinel-a5emm"]
 *Source: A5e Monstrous Menagerie Page 52*
 
 ```statblock
+"dice": false
 "name": "Clockwork Sentinel A5Emm"
 "size": "Medium"
 "type": "Construct"

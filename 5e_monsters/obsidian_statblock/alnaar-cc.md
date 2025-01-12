@@ -13,6 +13,7 @@ aliases: ["alnaar", "Alnaar-cc"]
 *Source: Creature Codex Page 82*
 
 ```statblock
+"dice": false
 "name": "Alnaar Cc"
 "size": "Large"
 "type": "Fiend"

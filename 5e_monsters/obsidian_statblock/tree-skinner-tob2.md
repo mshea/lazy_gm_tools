@@ -13,6 +13,7 @@ aliases: ["tree-skinner", "Tree Skinner-tob2"]
 *Source: Tome of Beasts 2 Page 351*
 
 ```statblock
+"dice": false
 "name": "Tree Skinner Tob2"
 "size": "Medium"
 "type": "Fiend"

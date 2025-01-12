@@ -13,6 +13,7 @@ aliases: ["volguloth-tob1-2023", "Volguloth-tob2023"]
 *Source: Tome of Beasts 2023 Page 391*
 
 ```statblock
+"dice": false
 "name": "Volguloth Tob2023"
 "size": "Medium"
 "type": "Fiend"

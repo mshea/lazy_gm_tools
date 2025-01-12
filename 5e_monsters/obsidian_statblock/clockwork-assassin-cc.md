@@ -13,6 +13,7 @@ aliases: ["clockwork-assassin", "Clockwork Assassin-cc"]
 *Source: Creature Codex Page 64*
 
 ```statblock
+"dice": false
 "name": "Clockwork Assassin Cc"
 "size": "Medium"
 "type": "Construct"

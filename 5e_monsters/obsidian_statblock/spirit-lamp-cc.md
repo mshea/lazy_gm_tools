@@ -13,6 +13,7 @@ aliases: ["spirit-lamp", "Spirit Lamp-cc"]
 *Source: Creature Codex Page 349*
 
 ```statblock
+"dice": false
 "name": "Spirit Lamp Cc"
 "size": "Medium"
 "type": "Undead"

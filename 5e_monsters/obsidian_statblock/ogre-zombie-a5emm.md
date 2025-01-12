@@ -13,6 +13,7 @@ aliases: ["ogre-zombie-a5e", "Ogre Zombie-a5emm"]
 *Source: A5e Monstrous Menagerie Page 436*
 
 ```statblock
+"dice": false
 "name": "Ogre Zombie A5Emm"
 "size": "Large"
 "type": "Undead"

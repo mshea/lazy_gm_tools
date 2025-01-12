@@ -13,6 +13,7 @@ aliases: ["flamedragonwyrmling-tob1-2023", "Flame Dragon Wyrmling-tob2023"]
 *Source: Tome of Beasts 2023 Page 119*
 
 ```statblock
+"dice": false
 "name": "Flame Dragon Wyrmling Tob2023"
 "size": "Medium"
 "type": "Dragon"

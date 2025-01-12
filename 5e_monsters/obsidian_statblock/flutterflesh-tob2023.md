@@ -13,6 +13,7 @@ aliases: ["flutterflesh-tob1-2023", "Flutterflesh-tob2023"]
 *Source: Tome of Beasts 2023 Page 189*
 
 ```statblock
+"dice": false
 "name": "Flutterflesh Tob2023"
 "size": "Large"
 "type": "Undead"

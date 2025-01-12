@@ -13,6 +13,7 @@ aliases: ["voiddragonwyrmling-tob1-2023", "Void Dragon Wyrmling-tob2023"]
 *Source: Tome of Beasts 2023 Page 131*
 
 ```statblock
+"dice": false
 "name": "Void Dragon Wyrmling Tob2023"
 "size": "Medium"
 "type": "Dragon"

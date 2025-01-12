@@ -13,6 +13,7 @@ aliases: ["alkonost", "Alkonost-cc"]
 *Source: Creature Codex Page 12*
 
 ```statblock
+"dice": false
 "name": "Alkonost Cc"
 "size": "Small"
 "type": "Monstrosity"

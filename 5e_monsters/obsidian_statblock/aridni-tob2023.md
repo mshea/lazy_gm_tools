@@ -13,6 +13,7 @@ aliases: ["aridni-tob1-2023", "Aridni-tob2023"]
 *Source: Tome of Beasts 2023 Page 25*
 
 ```statblock
+"dice": false
 "name": "Aridni Tob2023"
 "size": "Small"
 "type": "Fey"

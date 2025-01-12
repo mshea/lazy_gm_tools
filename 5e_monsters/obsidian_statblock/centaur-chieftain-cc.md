@@ -13,6 +13,7 @@ aliases: ["centaur-chieftain", "Centaur Chieftain-cc"]
 *Source: Creature Codex Page 60*
 
 ```statblock
+"dice": false
 "name": "Centaur Chieftain Cc"
 "size": "Large"
 "type": "Monstrosity"

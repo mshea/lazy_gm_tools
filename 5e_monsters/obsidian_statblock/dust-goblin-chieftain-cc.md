@@ -13,6 +13,7 @@ aliases: ["dust-goblin-chieftain", "Dust Goblin Chieftain-cc"]
 *Source: Creature Codex Page 136*
 
 ```statblock
+"dice": false
 "name": "Dust Goblin Chieftain Cc"
 "size": "Small"
 "type": "Humanoid"

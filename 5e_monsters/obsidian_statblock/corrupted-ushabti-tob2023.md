@@ -13,6 +13,7 @@ aliases: ["corruptedushabti-tob1-2023", "Corrupted Ushabti-tob2023"]
 *Source: Tome of Beasts 2023 Page 375*
 
 ```statblock
+"dice": false
 "name": "Corrupted Ushabti Tob2023"
 "size": "Medium"
 "type": "Undead"

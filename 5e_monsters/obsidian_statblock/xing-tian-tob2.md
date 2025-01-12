@@ -13,6 +13,7 @@ aliases: ["xing-tian", "Xing Tian-tob2"]
 *Source: Tome of Beasts 2 Page 376*
 
 ```statblock
+"dice": false
 "name": "Xing Tian Tob2"
 "size": "Huge"
 "type": "Giant"

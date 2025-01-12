@@ -13,6 +13,7 @@ aliases: ["fire-infused-water-elemental", "Fire-Infused Water Elemental-tob2"]
 *Source: Tome of Beasts 2 Page 216*
 
 ```statblock
+"dice": false
 "name": "Fire Infused Water Elemental Tob2"
 "size": "Huge"
 "type": "Elemental"

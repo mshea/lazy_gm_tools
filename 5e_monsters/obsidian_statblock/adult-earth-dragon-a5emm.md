@@ -13,6 +13,7 @@ aliases: ["adult-earth-dragon-a5e", "Adult Earth Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 127*
 
 ```statblock
+"dice": false
 "name": "Adult Earth Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

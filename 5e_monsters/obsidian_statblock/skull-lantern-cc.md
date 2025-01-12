@@ -13,6 +13,7 @@ aliases: ["skull-lantern", "Skull Lantern-cc"]
 *Source: Creature Codex Page 343*
 
 ```statblock
+"dice": false
 "name": "Skull Lantern Cc"
 "size": "Tiny"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["chelicerae-tob1-2023", "Chelicerae-tob2023"]
 *Source: Tome of Beasts 2023 Page 53*
 
 ```statblock
+"dice": false
 "name": "Chelicerae Tob2023"
 "size": "Large"
 "type": "Aberration"

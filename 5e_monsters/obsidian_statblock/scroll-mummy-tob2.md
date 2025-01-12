@@ -13,6 +13,7 @@ aliases: ["scroll-mummy", "Scroll Mummy-tob2"]
 *Source: Tome of Beasts 2 Page 0*
 
 ```statblock
+"dice": false
 "name": "Scroll Mummy Tob2"
 "size": "Medium"
 "type": "Undead"

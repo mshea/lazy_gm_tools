@@ -13,6 +13,7 @@ aliases: ["giant-bombardier-beetle", "Giant Bombardier Beetle-tob2"]
 *Source: Tome of Beasts 2 Page 39*
 
 ```statblock
+"dice": false
 "name": "Giant Bombardier Beetle Tob2"
 "size": "Medium"
 "type": "Beast"

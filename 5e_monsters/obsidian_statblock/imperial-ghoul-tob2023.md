@@ -13,6 +13,7 @@ aliases: ["imperialghoul-tob1-2023", "Imperial Ghoul-tob2023"]
 *Source: Tome of Beasts 2023 Page 203*
 
 ```statblock
+"dice": false
 "name": "Imperial Ghoul Tob2023"
 "size": "Medium"
 "type": "Undead"

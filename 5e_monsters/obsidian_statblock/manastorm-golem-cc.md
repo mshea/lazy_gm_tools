@@ -13,6 +13,7 @@ aliases: ["manastorm-golem", "Manastorm Golem-cc"]
 *Source: Creature Codex Page 203*
 
 ```statblock
+"dice": false
 "name": "Manastorm Golem Cc"
 "size": "Medium"
 "type": "Construct"

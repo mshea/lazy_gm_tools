@@ -13,6 +13,7 @@ aliases: ["gbahali-tob1-2023", "Gbahali-tob2023"]
 *Source: Tome of Beasts 2023 Page 195*
 
 ```statblock
+"dice": false
 "name": "Gbahali Tob2023"
 "size": "Huge"
 "type": "Beast"

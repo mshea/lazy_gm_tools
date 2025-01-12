@@ -13,6 +13,7 @@ aliases: ["ley-wanderer", "Ley Wanderer-tob3"]
 *Source: Tome of Beasts 3 Page 260*
 
 ```statblock
+"dice": false
 "name": "Ley Wanderer Tob3"
 "size": "Huge"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["cacus-giant", "Cacus Giant-cc"]
 *Source: Creature Codex Page 181*
 
 ```statblock
+"dice": false
 "name": "Cacus Giant Cc"
 "size": "Huge"
 "type": "Giant"

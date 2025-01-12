@@ -13,6 +13,7 @@ aliases: ["pit-fiend-general-a5e", "Pit Fiend General-a5emm"]
 *Source: A5e Monstrous Menagerie Page 88*
 
 ```statblock
+"dice": false
 "name": "Pit Fiend General A5Emm"
 "size": "Huge"
 "type": "Fiend"

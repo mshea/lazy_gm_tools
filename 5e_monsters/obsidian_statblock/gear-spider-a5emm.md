@@ -13,6 +13,7 @@ aliases: ["gear-spider-a5e", "Gear Spider-a5emm"]
 *Source: A5e Monstrous Menagerie Page 53*
 
 ```statblock
+"dice": false
 "name": "Gear Spider A5Emm"
 "size": "Tiny"
 "type": "Construct"

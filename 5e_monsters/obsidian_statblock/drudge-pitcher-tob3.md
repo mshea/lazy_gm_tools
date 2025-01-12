@@ -13,6 +13,7 @@ aliases: ["drudge-pitcher", "Drudge Pitcher-tob3"]
 *Source: Tome of Beasts 3 Page 161*
 
 ```statblock
+"dice": false
 "name": "Drudge Pitcher Tob3"
 "size": "Huge"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["gnoll-slaver", "Gnoll Slaver-cc"]
 *Source: Creature Codex Page 189*
 
 ```statblock
+"dice": false
 "name": "Gnoll Slaver Cc"
 "size": "Medium"
 "type": "Humanoid"

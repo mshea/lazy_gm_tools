@@ -13,6 +13,7 @@ aliases: ["cave-drake", "Cave Drake-tob2"]
 *Source: Tome of Beasts 2 Page 55*
 
 ```statblock
+"dice": false
 "name": "Cave Drake Tob2"
 "size": "Large"
 "type": "Dragon"

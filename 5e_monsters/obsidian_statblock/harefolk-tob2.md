@@ -13,6 +13,7 @@ aliases: ["harefolk", "Harefolk-tob2"]
 *Source: Tome of Beasts 2 Page 194*
 
 ```statblock
+"dice": false
 "name": "Harefolk Tob2"
 "size": "Small"
 "type": "Humanoid"

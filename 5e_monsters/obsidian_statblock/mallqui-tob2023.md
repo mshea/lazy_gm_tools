@@ -13,6 +13,7 @@ aliases: ["mallqui-tob1-2023", "Mallqui-tob2023"]
 *Source: Tome of Beasts 2023 Page 261*
 
 ```statblock
+"dice": false
 "name": "Mallqui Tob2023"
 "size": "Medium"
 "type": "Undead"

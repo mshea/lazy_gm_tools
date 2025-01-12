@@ -13,6 +13,7 @@ aliases: ["giant-fire-elemental-a5e", "Giant Fire Elemental-a5emm"]
 *Source: A5e Monstrous Menagerie Page 194*
 
 ```statblock
+"dice": false
 "name": "Giant Fire Elemental A5Emm"
 "size": "Huge"
 "type": "Elemental"

@@ -13,6 +13,7 @@ aliases: ["ammut", "Ammut-cc"]
 *Source: Creature Codex Page 15*
 
 ```statblock
+"dice": false
 "name": "Ammut Cc"
 "size": "Large"
 "type": "Celestial"

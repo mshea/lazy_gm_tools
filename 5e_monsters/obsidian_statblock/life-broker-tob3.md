@@ -13,6 +13,7 @@ aliases: ["life-broker", "Life Broker-tob3"]
 *Source: Tome of Beasts 3 Page 261*
 
 ```statblock
+"dice": false
 "name": "Life Broker Tob3"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["giant-vulture-a5e", "Giant Vulture-a5emm"]
 *Source: A5e Monstrous Menagerie Page 451*
 
 ```statblock
+"dice": false
 "name": "Giant Vulture A5Emm"
 "size": "Large"
 "type": "Beast"

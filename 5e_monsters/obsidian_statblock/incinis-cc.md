@@ -13,6 +13,7 @@ aliases: ["incinis", "Incinis-cc"]
 *Source: Creature Codex Page 226*
 
 ```statblock
+"dice": false
 "name": "Incinis Cc"
 "size": "Large"
 "type": "Elemental"

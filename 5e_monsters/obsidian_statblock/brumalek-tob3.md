@@ -13,6 +13,7 @@ aliases: ["brumalek", "Brumalek-tob3"]
 *Source: Tome of Beasts 3 Page 70*
 
 ```statblock
+"dice": false
 "name": "Brumalek Tob3"
 "size": "Small"
 "type": "Beast"

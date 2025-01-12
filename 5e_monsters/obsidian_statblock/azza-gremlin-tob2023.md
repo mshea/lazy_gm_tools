@@ -13,6 +13,7 @@ aliases: ["azzagremlin-tob1-2023", "Azza Gremlin-tob2023"]
 *Source: Tome of Beasts 2023 Page 222*
 
 ```statblock
+"dice": false
 "name": "Azza Gremlin Tob2023"
 "size": "Small"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["wraith-lord-a5e", "Wraith Lord-a5emm"]
 *Source: A5e Monstrous Menagerie Page 428*
 
 ```statblock
+"dice": false
 "name": "Wraith Lord A5Emm"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["murgrik", "Murgrik-tob2"]
 *Source: Tome of Beasts 2 Page 263*
 
 ```statblock
+"dice": false
 "name": "Murgrik Tob2"
 "size": "Large"
 "type": "Aberration"

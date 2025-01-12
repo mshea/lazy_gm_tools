@@ -13,6 +13,7 @@ aliases: ["crab-duffel", "Crab, Duffel-tob3"]
 *Source: Tome of Beasts 3 Page 97*
 
 ```statblock
+"dice": false
 "name": "Crab, Duffel Tob3"
 "size": "Large"
 "type": "Monstrosity"

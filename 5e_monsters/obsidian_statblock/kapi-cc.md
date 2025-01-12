@@ -13,6 +13,7 @@ aliases: ["kapi", "Kapi-cc"]
 *Source: Creature Codex Page 234*
 
 ```statblock
+"dice": false
 "name": "Kapi Cc"
 "size": "Medium"
 "type": "Humanoid"

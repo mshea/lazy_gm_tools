@@ -13,6 +13,7 @@ aliases: ["gnollhavocrunner-tob1-2023", "Gnoll Havoc Runner-tob2023"]
 *Source: Tome of Beasts 2023 Page 213*
 
 ```statblock
+"dice": false
 "name": "Gnoll Havoc Runner Tob2023"
 "size": "Medium"
 "type": "Humanoid"

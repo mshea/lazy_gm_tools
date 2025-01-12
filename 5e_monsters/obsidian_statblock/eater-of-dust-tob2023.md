@@ -13,6 +13,7 @@ aliases: ["eaterofdust-tob1-2023", "Eater of Dust-tob2023"]
 *Source: Tome of Beasts 2023 Page 153*
 
 ```statblock
+"dice": false
 "name": "Eater Of Dust Tob2023"
 "size": "Medium"
 "type": "Aberration"

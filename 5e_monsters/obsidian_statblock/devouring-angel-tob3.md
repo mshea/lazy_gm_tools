@@ -13,6 +13,7 @@ aliases: ["devouring-angel", "Devouring Angel-tob3"]
 *Source: Tome of Beasts 3 Page 125*
 
 ```statblock
+"dice": false
 "name": "Devouring Angel Tob3"
 "size": "Large"
 "type": "Aberration"

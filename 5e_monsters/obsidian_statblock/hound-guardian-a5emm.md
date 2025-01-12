@@ -13,6 +13,7 @@ aliases: ["hound-guardian-a5e", "Hound Guardian-a5emm"]
 *Source: A5e Monstrous Menagerie Page 262*
 
 ```statblock
+"dice": false
 "name": "Hound Guardian A5Emm"
 "size": "Medium"
 "type": "Construct"

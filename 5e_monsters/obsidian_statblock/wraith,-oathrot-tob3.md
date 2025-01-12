@@ -13,6 +13,7 @@ aliases: ["wraith-oathrot", "Wraith, Oathrot-tob3"]
 *Source: Tome of Beasts 3 Page 396*
 
 ```statblock
+"dice": false
 "name": "Wraith, Oathrot Tob3"
 "size": "Medium"
 "type": "Undead"

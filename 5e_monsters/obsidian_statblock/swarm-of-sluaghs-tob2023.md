@@ -13,6 +13,7 @@ aliases: ["swarmofsluaghs-tob1-2023", "Swarm of Sluaghs-tob2023"]
 *Source: Tome of Beasts 2023 Page 357*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Sluaghs Tob2023"
 "size": "Medium"
 "type": "Swarm"

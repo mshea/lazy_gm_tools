@@ -13,6 +13,7 @@ aliases: ["pegasus-a5e", "Pegasus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 358*
 
 ```statblock
+"dice": false
 "name": "Pegasus A5Emm"
 "size": "Large"
 "type": "Celestial"

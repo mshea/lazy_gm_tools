@@ -13,6 +13,7 @@ aliases: ["rakshasa-myrmidon", "Rakshasa, Myrmidon-tob3"]
 *Source: Tome of Beasts 3 Page 328*
 
 ```statblock
+"dice": false
 "name": "Rakshasa, Myrmidon Tob3"
 "size": "Medium"
 "type": "Fiend"

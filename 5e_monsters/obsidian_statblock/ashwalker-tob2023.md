@@ -13,6 +13,7 @@ aliases: ["ashwalker-tob1-2023", "Ashwalker-tob2023"]
 *Source: Tome of Beasts 2023 Page 28*
 
 ```statblock
+"dice": false
 "name": "Ashwalker Tob2023"
 "size": "Medium"
 "type": "Undead"

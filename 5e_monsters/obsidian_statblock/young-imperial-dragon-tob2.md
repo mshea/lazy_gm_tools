@@ -13,6 +13,7 @@ aliases: ["young-imperial-dragon", "Young Imperial Dragon-tob2"]
 *Source: Tome of Beasts 2 Page 117*
 
 ```statblock
+"dice": false
 "name": "Young Imperial Dragon Tob2"
 "size": "Large"
 "type": "Dragon"

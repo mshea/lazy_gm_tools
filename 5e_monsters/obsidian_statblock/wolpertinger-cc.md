@@ -13,6 +13,7 @@ aliases: ["wolpertinger", "Wolpertinger-cc"]
 *Source: Creature Codex Page 382*
 
 ```statblock
+"dice": false
 "name": "Wolpertinger Cc"
 "size": "Tiny"
 "type": "Monstrosity"

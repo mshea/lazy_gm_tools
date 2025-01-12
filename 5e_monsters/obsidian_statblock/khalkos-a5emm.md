@@ -13,6 +13,7 @@ aliases: ["khalkos-a5e", "Khalkos-a5emm"]
 *Source: A5e Monstrous Menagerie Page 294*
 
 ```statblock
+"dice": false
 "name": "Khalkos A5Emm"
 "size": "Medium"
 "type": "Aberration"

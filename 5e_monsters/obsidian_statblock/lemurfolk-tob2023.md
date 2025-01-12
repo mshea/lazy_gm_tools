@@ -13,6 +13,7 @@ aliases: ["lemurfolk-tob1-2023", "Lemurfolk-tob2023"]
 *Source: Tome of Beasts 2023 Page 250*
 
 ```statblock
+"dice": false
 "name": "Lemurfolk Tob2023"
 "size": "Small"
 "type": "Humanoid"

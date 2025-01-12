@@ -13,6 +13,7 @@ aliases: ["giant-flea", "Giant Flea-tob3"]
 *Source: Tome of Beasts 3 Page 197*
 
 ```statblock
+"dice": false
 "name": "Giant Flea Tob3"
 "size": "Small"
 "type": "Beast"

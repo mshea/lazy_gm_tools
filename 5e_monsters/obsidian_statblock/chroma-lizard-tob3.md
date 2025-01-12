@@ -13,6 +13,7 @@ aliases: ["chroma-lizard", "Chroma Lizard-tob3"]
 *Source: Tome of Beasts 3 Page 84*
 
 ```statblock
+"dice": false
 "name": "Chroma Lizard Tob3"
 "size": "Large"
 "type": "Beast"

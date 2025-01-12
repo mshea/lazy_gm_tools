@@ -13,6 +13,7 @@ aliases: ["myrmex-young", "Myrmex, Young-tob3"]
 *Source: Tome of Beasts 3 Page 283*
 
 ```statblock
+"dice": false
 "name": "Myrmex, Young Tob3"
 "size": "Small"
 "type": "Elemental"

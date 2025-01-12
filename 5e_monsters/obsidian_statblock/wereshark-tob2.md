@@ -13,6 +13,7 @@ aliases: ["wereshark", "Wereshark-tob2"]
 *Source: Tome of Beasts 2 Page 266*
 
 ```statblock
+"dice": false
 "name": "Wereshark Tob2"
 "size": "Large"
 "type": "Humanoid"

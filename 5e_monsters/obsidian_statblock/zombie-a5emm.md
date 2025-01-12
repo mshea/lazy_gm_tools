@@ -13,6 +13,7 @@ aliases: ["zombie-a5e", "Zombie-a5emm"]
 *Source: A5e Monstrous Menagerie Page 434*
 
 ```statblock
+"dice": false
 "name": "Zombie A5Emm"
 "size": "Medium"
 "type": "Undead"

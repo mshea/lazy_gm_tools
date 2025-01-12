@@ -13,6 +13,7 @@ aliases: ["snake-with-a-hundred-mage-hands", "Snake with a Hundred Mage Hands-to
 *Source: Tome of Beasts 2 Page 333*
 
 ```statblock
+"dice": false
 "name": "Snake With A Hundred Mage Hands Tob2"
 "size": "Small"
 "type": "Monstrosity"

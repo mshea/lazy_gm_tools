@@ -13,6 +13,7 @@ aliases: ["apaxrusl", "Apaxrusl-tob2"]
 *Source: Tome of Beasts 2 Page 27*
 
 ```statblock
+"dice": false
 "name": "Apaxrusl Tob2"
 "size": "Medium"
 "type": "Construct"

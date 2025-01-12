@@ -13,6 +13,7 @@ aliases: ["spiderthief-tob1-2023", "Spider Thief-tob2023"]
 *Source: Tome of Beasts 2023 Page 342*
 
 ```statblock
+"dice": false
 "name": "Spider Thief Tob2023"
 "size": "Small"
 "type": "Construct"

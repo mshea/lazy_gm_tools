@@ -13,6 +13,7 @@ aliases: ["stout-halfling-guard-a5e", "Stout Halfling Guard-a5emm"]
 *Source: A5e Monstrous Menagerie Page 492*
 
 ```statblock
+"dice": false
 "name": "Stout Halfling Guard A5Emm"
 "size": "Small"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["silver-dragon-wyrmling-a5e", "Silver Dragon Wyrmling-a5emm"]
 *Source: A5e Monstrous Menagerie Page 179*
 
 ```statblock
+"dice": false
 "name": "Silver Dragon Wyrmling A5Emm"
 "size": "Medium"
 "type": "Dragon"

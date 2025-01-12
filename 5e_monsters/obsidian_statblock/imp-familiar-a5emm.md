@@ -13,6 +13,7 @@ aliases: ["imp-familiar-a5e", "Imp Familiar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 85*
 
 ```statblock
+"dice": false
 "name": "Imp Familiar A5Emm"
 "size": "Tiny"
 "type": "Fiend"

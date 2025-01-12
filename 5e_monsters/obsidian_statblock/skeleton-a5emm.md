@@ -13,6 +13,7 @@ aliases: ["skeleton-a5e", "Skeleton-a5emm"]
 *Source: A5e Monstrous Menagerie Page 393*
 
 ```statblock
+"dice": false
 "name": "Skeleton A5Emm"
 "size": "Medium"
 "type": "Undead"

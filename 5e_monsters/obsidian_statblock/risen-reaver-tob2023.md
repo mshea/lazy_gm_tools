@@ -13,6 +13,7 @@ aliases: ["risenreaver-tob1-2023", "Risen Reaver-tob2023"]
 *Source: Tome of Beasts 2023 Page 309*
 
 ```statblock
+"dice": false
 "name": "Risen Reaver Tob2023"
 "size": "Large"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["hraesvelgr-tob1-2023", "Hraesvelgr-tob2023"]
 *Source: Tome of Beasts 2023 Page 207*
 
 ```statblock
+"dice": false
 "name": "Hraesvelgr Tob2023"
 "size": "Huge"
 "type": "Giant"

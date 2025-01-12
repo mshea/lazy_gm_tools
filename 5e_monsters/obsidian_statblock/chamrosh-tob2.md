@@ -13,6 +13,7 @@ aliases: ["chamrosh", "Chamrosh-tob2"]
 *Source: Tome of Beasts 2 Page 59*
 
 ```statblock
+"dice": false
 "name": "Chamrosh Tob2"
 "size": "Medium"
 "type": "Celestial"

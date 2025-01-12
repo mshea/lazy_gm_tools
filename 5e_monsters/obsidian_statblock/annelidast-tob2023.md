@@ -13,6 +13,7 @@ aliases: ["annelidast-tob1-2023", "Annelidast-tob2023"]
 *Source: Tome of Beasts 2023 Page 21*
 
 ```statblock
+"dice": false
 "name": "Annelidast Tob2023"
 "size": "Huge"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["brain-coral", "Brain Coral-tob3"]
 *Source: Tome of Beasts 3 Page 67*
 
 ```statblock
+"dice": false
 "name": "Brain Coral Tob3"
 "size": "Huge"
 "type": "Aberration"

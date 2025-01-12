@@ -13,6 +13,7 @@ aliases: ["alehousedrake-tob1-2023", "Alehouse Drake-tob2023"]
 *Source: Tome of Beasts 2023 Page 138*
 
 ```statblock
+"dice": false
 "name": "Alehouse Drake Tob2023"
 "size": "Tiny"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["fateeater-tob1-2023", "Fate Eater-tob2023"]
 *Source: Tome of Beasts 2023 Page 168*
 
 ```statblock
+"dice": false
 "name": "Fate Eater Tob2023"
 "size": "Medium"
 "type": "Aberration"

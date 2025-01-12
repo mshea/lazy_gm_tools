@@ -13,6 +13,7 @@ aliases: ["viiret", "Viiret-tob2"]
 *Source: Tome of Beasts 2 Page 361*
 
 ```statblock
+"dice": false
 "name": "Viiret Tob2"
 "size": "Large"
 "type": "Plant"

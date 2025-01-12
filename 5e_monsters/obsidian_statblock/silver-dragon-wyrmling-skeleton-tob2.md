@@ -13,6 +13,7 @@ aliases: ["silver-dragon-wyrmling-skeleton", "Silver Dragon Wyrmling Skeleton-to
 *Source: Tome of Beasts 2 Page 113*
 
 ```statblock
+"dice": false
 "name": "Silver Dragon Wyrmling Skeleton Tob2"
 "size": "Medium"
 "type": "Undead"

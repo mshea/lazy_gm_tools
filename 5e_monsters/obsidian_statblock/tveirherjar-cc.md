@@ -13,6 +13,7 @@ aliases: ["tveirherjar", "Tveirherjar-cc"]
 *Source: Creature Codex Page 359*
 
 ```statblock
+"dice": false
 "name": "Tveirherjar Cc"
 "size": "Medium"
 "type": "Undead"

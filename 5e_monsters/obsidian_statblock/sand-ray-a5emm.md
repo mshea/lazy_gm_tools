@@ -13,6 +13,7 @@ aliases: ["sand-ray-a5e", "Sand Ray-a5emm"]
 *Source: A5e Monstrous Menagerie Page 50*
 
 ```statblock
+"dice": false
 "name": "Sand Ray A5Emm"
 "size": "Large"
 "type": "Aberration"

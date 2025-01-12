@@ -13,6 +13,7 @@ aliases: ["morphoi-tob1-2023", "Morphoi-tob2023"]
 *Source: Tome of Beasts 2023 Page 277*
 
 ```statblock
+"dice": false
 "name": "Morphoi Tob2023"
 "size": "Medium"
 "type": "Plant"

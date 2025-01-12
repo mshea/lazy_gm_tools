@@ -13,6 +13,7 @@ aliases: ["animal-lord-mammoth-queen", "Animal Lord, Mammoth Queen-tob3"]
 *Source: Tome of Beasts 3 Page 32*
 
 ```statblock
+"dice": false
 "name": "Animal Lord, Mammoth Queen Tob3"
 "size": "Huge"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["bronze-dragon-wyrmling-a5e", "Bronze Dragon Wyrmling-a5emm"]
 *Source: A5e Monstrous Menagerie Page 162*
 
 ```statblock
+"dice": false
 "name": "Bronze Dragon Wyrmling A5Emm"
 "size": "Medium"
 "type": "Dragon"

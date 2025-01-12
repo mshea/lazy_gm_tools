@@ -13,6 +13,7 @@ aliases: ["graknork", "Graknork-tob2"]
 *Source: Tome of Beasts 2 Page 182*
 
 ```statblock
+"dice": false
 "name": "Graknork Tob2"
 "size": "Gargantuan"
 "type": "Monstrosity"

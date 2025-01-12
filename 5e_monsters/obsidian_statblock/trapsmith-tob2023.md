@@ -13,6 +13,7 @@ aliases: ["trapsmith-tob1-2023", "Trapsmith-tob2023"]
 *Source: Tome of Beasts 2023 Page 246*
 
 ```statblock
+"dice": false
 "name": "Trapsmith Tob2023"
 "size": "Small"
 "type": "Humanoid"

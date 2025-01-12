@@ -13,6 +13,7 @@ aliases: ["ravenala-tob1-2023", "Ravenala-tob2023"]
 *Source: Tome of Beasts 2023 Page 303*
 
 ```statblock
+"dice": false
 "name": "Ravenala Tob2023"
 "size": "Large"
 "type": "Plant"

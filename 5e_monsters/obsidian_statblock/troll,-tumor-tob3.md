@@ -13,6 +13,7 @@ aliases: ["troll-tumor", "Troll, Tumor-tob3"]
 *Source: Tome of Beasts 3 Page 375*
 
 ```statblock
+"dice": false
 "name": "Troll, Tumor Tob3"
 "size": "Large"
 "type": "Giant"

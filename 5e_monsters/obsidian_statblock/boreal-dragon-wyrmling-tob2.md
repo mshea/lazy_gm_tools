@@ -13,6 +13,7 @@ aliases: ["boreal-dragon-wyrmling", "Boreal Dragon Wyrmling-tob2"]
 *Source: Tome of Beasts 2 Page 113*
 
 ```statblock
+"dice": false
 "name": "Boreal Dragon Wyrmling Tob2"
 "size": "Medium"
 "type": "Dragon"

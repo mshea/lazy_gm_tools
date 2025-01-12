@@ -13,6 +13,7 @@ aliases: ["bone-collector", "Bone Collector-tob3"]
 *Source: Tome of Beasts 3 Page 64*
 
 ```statblock
+"dice": false
 "name": "Bone Collector Tob3"
 "size": "Small"
 "type": "Undead"

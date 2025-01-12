@@ -13,6 +13,7 @@ aliases: ["redcap-tob1-2023", "Redcap-tob2023"]
 *Source: Tome of Beasts 2023 Page 306*
 
 ```statblock
+"dice": false
 "name": "Redcap Tob2023"
 "size": "Medium"
 "type": "Fey"

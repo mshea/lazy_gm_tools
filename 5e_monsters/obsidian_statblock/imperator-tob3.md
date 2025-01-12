@@ -13,6 +13,7 @@ aliases: ["imperator", "Imperator-tob3"]
 *Source: Tome of Beasts 3 Page 242*
 
 ```statblock
+"dice": false
 "name": "Imperator Tob3"
 "size": "Huge"
 "type": "Monstrosity"

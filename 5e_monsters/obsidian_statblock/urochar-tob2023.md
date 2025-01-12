@@ -13,6 +13,7 @@ aliases: ["urochar-tob1-2023", "Urochar-tob2023"]
 *Source: Tome of Beasts 2023 Page 374*
 
 ```statblock
+"dice": false
 "name": "Urochar Tob2023"
 "size": "Huge"
 "type": "Aberration"

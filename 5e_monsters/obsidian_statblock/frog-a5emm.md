@@ -13,6 +13,7 @@ aliases: ["frog-a5e", "Frog-a5emm"]
 *Source: A5e Monstrous Menagerie Page 444*
 
 ```statblock
+"dice": false
 "name": "Frog A5Emm"
 "size": "Tiny"
 "type": "Beast"

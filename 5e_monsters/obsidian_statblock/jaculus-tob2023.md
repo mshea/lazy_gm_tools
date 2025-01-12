@@ -13,6 +13,7 @@ aliases: ["jaculus-tob1-2023", "Jaculus-tob2023"]
 *Source: Tome of Beasts 2023 Page 241*
 
 ```statblock
+"dice": false
 "name": "Jaculus Tob2023"
 "size": "Small"
 "type": "Dragon"

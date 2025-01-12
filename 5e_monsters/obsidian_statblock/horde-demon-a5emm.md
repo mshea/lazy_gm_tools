@@ -13,6 +13,7 @@ aliases: ["horde-demon-a5e", "Horde Demon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 70*
 
 ```statblock
+"dice": false
 "name": "Horde Demon A5Emm"
 "size": "Medium"
 "type": "Fiend"

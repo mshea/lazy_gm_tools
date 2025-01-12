@@ -13,6 +13,7 @@ aliases: ["king-kobold", "King Kobold-cc"]
 *Source: Creature Codex Page 162*
 
 ```statblock
+"dice": false
 "name": "King Kobold Cc"
 "size": "Small"
 "type": "Humanoid"

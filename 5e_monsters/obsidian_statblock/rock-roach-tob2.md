@@ -13,6 +13,7 @@ aliases: ["rock-roach", "Rock Roach-tob2"]
 *Source: Tome of Beasts 2 Page 308*
 
 ```statblock
+"dice": false
 "name": "Rock Roach Tob2"
 "size": "Medium"
 "type": "Beast"

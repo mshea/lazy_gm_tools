@@ -13,6 +13,7 @@ aliases: ["strider-a5e", "Strider-a5emm"]
 *Source: A5e Monstrous Menagerie Page 491*
 
 ```statblock
+"dice": false
 "name": "Strider A5Emm"
 "size": "Medium"
 "type": "Humanoid"

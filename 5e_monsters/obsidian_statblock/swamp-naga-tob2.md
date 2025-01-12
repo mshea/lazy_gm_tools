@@ -13,6 +13,7 @@ aliases: ["swamp-naga", "Swamp Naga-tob2"]
 *Source: Tome of Beasts 2 Page 342*
 
 ```statblock
+"dice": false
 "name": "Swamp Naga Tob2"
 "size": "Large"
 "type": "Monstrosity"

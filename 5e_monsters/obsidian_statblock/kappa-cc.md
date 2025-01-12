@@ -13,6 +13,7 @@ aliases: ["kappa", "Kappa-cc"]
 *Source: Creature Codex Page 234*
 
 ```statblock
+"dice": false
 "name": "Kappa Cc"
 "size": "Small"
 "type": "Fey"

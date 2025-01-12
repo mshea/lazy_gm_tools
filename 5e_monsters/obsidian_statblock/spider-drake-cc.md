@@ -13,6 +13,7 @@ aliases: ["spider-drake", "Spider Drake-cc"]
 *Source: Creature Codex Page 348*
 
 ```statblock
+"dice": false
 "name": "Spider Drake Cc"
 "size": "Large"
 "type": "Dragon"

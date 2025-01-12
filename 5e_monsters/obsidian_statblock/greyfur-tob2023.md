@@ -13,6 +13,7 @@ aliases: ["greyfur-tob1-2023", "Greyfur-tob2023"]
 *Source: Tome of Beasts 2023 Page 250*
 
 ```statblock
+"dice": false
 "name": "Greyfur Tob2023"
 "size": "Small"
 "type": "Humanoid"

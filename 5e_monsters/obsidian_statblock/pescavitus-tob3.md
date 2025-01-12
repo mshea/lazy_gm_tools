@@ -13,6 +13,7 @@ aliases: ["pescavitus", "Pescavitus-tob3"]
 *Source: Tome of Beasts 3 Page 315*
 
 ```statblock
+"dice": false
 "name": "Pescavitus Tob3"
 "size": "Small"
 "type": "Celestial"

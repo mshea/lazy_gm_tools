@@ -13,6 +13,7 @@ aliases: ["grimalkin-a5e", "Grimalkin-a5emm"]
 *Source: A5e Monstrous Menagerie Page 452*
 
 ```statblock
+"dice": false
 "name": "Grimalkin A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

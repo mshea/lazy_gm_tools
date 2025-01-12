@@ -13,6 +13,7 @@ aliases: ["giant-bat-a5e", "Giant Bat-a5emm"]
 *Source: A5e Monstrous Menagerie Page 445*
 
 ```statblock
+"dice": false
 "name": "Giant Bat A5Emm"
 "size": "Large"
 "type": "Beast"

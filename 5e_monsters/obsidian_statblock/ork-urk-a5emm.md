@@ -13,6 +13,7 @@ aliases: ["ork-urk-a5e", "Ork Urk-a5emm"]
 *Source: A5e Monstrous Menagerie Page 497*
 
 ```statblock
+"dice": false
 "name": "Ork Urk A5Emm"
 "size": "Medium"
 "type": "Humanoid"

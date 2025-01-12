@@ -13,6 +13,7 @@ aliases: ["will-o-wisp-a5e", "Will-o-Wisp-a5emm"]
 *Source: A5e Monstrous Menagerie Page 425*
 
 ```statblock
+"dice": false
 "name": "Will O Wisp A5Emm"
 "size": "Small"
 "type": "Undead"

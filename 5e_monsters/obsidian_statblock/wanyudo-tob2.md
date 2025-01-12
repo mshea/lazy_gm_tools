@@ -13,6 +13,7 @@ aliases: ["wanyudo", "Wanyudo-tob2"]
 *Source: Tome of Beasts 2 Page 364*
 
 ```statblock
+"dice": false
 "name": "Wanyudo Tob2"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["simurg", "Simurg-cc"]
 *Source: Creature Codex Page 339*
 
 ```statblock
+"dice": false
 "name": "Simurg Cc"
 "size": "Gargantuan"
 "type": "Celestial"

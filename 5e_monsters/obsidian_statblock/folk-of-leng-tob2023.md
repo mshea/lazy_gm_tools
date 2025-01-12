@@ -13,6 +13,7 @@ aliases: ["folkofleng-tob1-2023", "Folk of Leng-tob2023"]
 *Source: Tome of Beasts 2023 Page 190*
 
 ```statblock
+"dice": false
 "name": "Folk Of Leng Tob2023"
 "size": "Medium"
 "type": "Humanoid"

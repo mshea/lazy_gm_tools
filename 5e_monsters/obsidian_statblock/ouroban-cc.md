@@ -13,6 +13,7 @@ aliases: ["ouroban", "Ouroban-cc"]
 *Source: Creature Codex Page 293*
 
 ```statblock
+"dice": false
 "name": "Ouroban Cc"
 "size": "Medium"
 "type": "Humanoid"

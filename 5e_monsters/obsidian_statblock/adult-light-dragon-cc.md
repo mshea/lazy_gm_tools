@@ -13,6 +13,7 @@ aliases: ["adult-light-dragon", "Adult Light Dragon-cc"]
 *Source: Creature Codex Page 170*
 
 ```statblock
+"dice": false
 "name": "Adult Light Dragon Cc"
 "size": "Huge"
 "type": "Dragon"

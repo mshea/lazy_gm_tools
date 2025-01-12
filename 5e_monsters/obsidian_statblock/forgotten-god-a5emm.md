@@ -13,6 +13,7 @@ aliases: ["forgotten-god-a5e", "Forgotten God-a5emm"]
 *Source: A5e Monstrous Menagerie Page 209*
 
 ```statblock
+"dice": false
 "name": "Forgotten God A5Emm"
 "size": "Large"
 "type": "Celestial"

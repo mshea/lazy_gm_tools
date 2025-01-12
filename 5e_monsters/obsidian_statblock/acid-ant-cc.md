@@ -13,6 +13,7 @@ aliases: ["acid-ant", "Acid Ant-cc"]
 *Source: Creature Codex Page 8*
 
 ```statblock
+"dice": false
 "name": "Acid Ant Cc"
 "size": "Small"
 "type": "Monstrosity"

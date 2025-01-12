@@ -13,6 +13,7 @@ aliases: ["trollkin-shaman", "Trollkin Shaman-cc"]
 *Source: Creature Codex Page 357*
 
 ```statblock
+"dice": false
 "name": "Trollkin Shaman Cc"
 "size": "Medium"
 "type": "Humanoid"

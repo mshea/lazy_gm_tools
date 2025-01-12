@@ -13,6 +13,7 @@ aliases: ["swarm-of-esteron", "Swarm of Esteron-tob2"]
 *Source: Tome of Beasts 2 Page 400*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Esteron Tob2"
 "size": "Medium"
 "type": "Beast"

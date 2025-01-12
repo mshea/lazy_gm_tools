@@ -13,6 +13,7 @@ aliases: ["moonweb", "Moonweb-tob3"]
 *Source: Tome of Beasts 3 Page 276*
 
 ```statblock
+"dice": false
 "name": "Moonweb Tob3"
 "size": "Medium"
 "type": "Aberration"

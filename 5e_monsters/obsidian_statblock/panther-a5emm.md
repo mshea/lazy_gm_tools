@@ -13,6 +13,7 @@ aliases: ["panther-a5e", "Panther-a5emm"]
 *Source: A5e Monstrous Menagerie Page 455*
 
 ```statblock
+"dice": false
 "name": "Panther A5Emm"
 "size": "Medium"
 "type": "Beast"

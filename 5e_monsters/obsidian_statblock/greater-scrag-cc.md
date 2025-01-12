@@ -13,6 +13,7 @@ aliases: ["greater-scrag", "Greater Scrag-cc"]
 *Source: Creature Codex Page 401*
 
 ```statblock
+"dice": false
 "name": "Greater Scrag Cc"
 "size": "Large"
 "type": "Monstrosity"

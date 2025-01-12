@@ -13,6 +13,7 @@ aliases: ["voidpool", "Voidpool-tob2"]
 *Source: Tome of Beasts 2 Page 362*
 
 ```statblock
+"dice": false
 "name": "Voidpool Tob2"
 "size": "Large"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["deathspeaker", "Deathspeaker-tob2"]
 *Source: Tome of Beasts 2 Page 82*
 
 ```statblock
+"dice": false
 "name": "Deathspeaker Tob2"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["mineral-ooze", "Mineral Ooze-tob2"]
 *Source: Tome of Beasts 2 Page 280*
 
 ```statblock
+"dice": false
 "name": "Mineral Ooze Tob2"
 "size": "Large"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["offal-walker", "Offal Walker-tob3"]
 *Source: Tome of Beasts 3 Page 296*
 
 ```statblock
+"dice": false
 "name": "Offal Walker Tob3"
 "size": "Medium"
 "type": "Undead"

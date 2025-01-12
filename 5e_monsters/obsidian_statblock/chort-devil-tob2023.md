@@ -13,6 +13,7 @@ aliases: ["chortdevil-tob1-2023", "Chort Devil-tob2023"]
 *Source: Tome of Beasts 2023 Page 93*
 
 ```statblock
+"dice": false
 "name": "Chort Devil Tob2023"
 "size": "Medium"
 "type": "Fiend"

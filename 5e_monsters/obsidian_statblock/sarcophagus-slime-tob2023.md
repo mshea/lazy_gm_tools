@@ -13,6 +13,7 @@ aliases: ["sarcophagusslime-tob1-2023", "Sarcophagus Slime-tob2023"]
 *Source: Tome of Beasts 2023 Page 316*
 
 ```statblock
+"dice": false
 "name": "Sarcophagus Slime Tob2023"
 "size": "Medium"
 "type": "Undead"

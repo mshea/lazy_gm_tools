@@ -13,6 +13,7 @@ aliases: ["edjet", "Edjet-cc"]
 *Source: Creature Codex Page 0*
 
 ```statblock
+"dice": false
 "name": "Edjet Cc"
 "size": "Medium"
 "type": "Humanoid"

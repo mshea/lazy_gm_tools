@@ -13,6 +13,7 @@ aliases: ["fungi-mush-marcher", "Fungi, Mush Marcher-tob3"]
 *Source: Tome of Beasts 3 Page 192*
 
 ```statblock
+"dice": false
 "name": "Fungi, Mush Marcher Tob3"
 "size": "Large"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["deep-troll", "Deep Troll-tob2"]
 *Source: Tome of Beasts 2 Page 352*
 
 ```statblock
+"dice": false
 "name": "Deep Troll Tob2"
 "size": "Large"
 "type": "Giant"

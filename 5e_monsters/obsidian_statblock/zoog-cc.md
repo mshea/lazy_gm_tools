@@ -13,6 +13,7 @@ aliases: ["zoog", "Zoog-cc"]
 *Source: Creature Codex Page 396*
 
 ```statblock
+"dice": false
 "name": "Zoog Cc"
 "size": "Tiny"
 "type": "Aberration"

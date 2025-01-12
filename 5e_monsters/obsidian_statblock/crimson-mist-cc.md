@@ -13,6 +13,7 @@ aliases: ["crimson-mist", "Crimson Mist-cc"]
 *Source: Creature Codex Page 67*
 
 ```statblock
+"dice": false
 "name": "Crimson Mist Cc"
 "size": "Medium"
 "type": "Undead"

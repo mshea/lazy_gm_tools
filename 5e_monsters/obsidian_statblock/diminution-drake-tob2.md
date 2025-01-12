@@ -13,6 +13,7 @@ aliases: ["diminution-drake", "Diminution Drake-tob2"]
 *Source: Tome of Beasts 2 Page 121*
 
 ```statblock
+"dice": false
 "name": "Diminution Drake Tob2"
 "size": "Medium"
 "type": "Dragon"

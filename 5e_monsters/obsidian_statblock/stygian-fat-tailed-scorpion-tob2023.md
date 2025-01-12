@@ -13,6 +13,7 @@ aliases: ["stygianfat-tailedscorpion-tob1-2023", "Stygian Fat-Tailed Scorpion-to
 *Source: Tome of Beasts 2023 Page 320*
 
 ```statblock
+"dice": false
 "name": "Stygian Fat Tailed Scorpion Tob2023"
 "size": "Tiny"
 "type": "Beast"

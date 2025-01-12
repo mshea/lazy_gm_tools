@@ -13,6 +13,7 @@ aliases: ["ghost-a5e", "Ghost-a5emm"]
 *Source: A5e Monstrous Menagerie Page 226*
 
 ```statblock
+"dice": false
 "name": "Ghost A5Emm"
 "size": "Medium"
 "type": "Undead"

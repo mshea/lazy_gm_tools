@@ -13,6 +13,7 @@ aliases: ["arcane-blademaster-a5e", "Arcane Blademaster-a5emm"]
 *Source: A5e Monstrous Menagerie Page 479*
 
 ```statblock
+"dice": false
 "name": "Arcane Blademaster A5Emm"
 "size": "Medium"
 "type": "Humanoid"

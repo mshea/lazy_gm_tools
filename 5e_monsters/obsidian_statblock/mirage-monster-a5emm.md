@@ -13,6 +13,7 @@ aliases: ["mirage-monster-a5e", "Mirage Monster-a5emm"]
 *Source: A5e Monstrous Menagerie Page 333*
 
 ```statblock
+"dice": false
 "name": "Mirage Monster A5Emm"
 "size": "Huge"
 "type": "Monstrosity"

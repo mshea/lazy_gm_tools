@@ -13,6 +13,7 @@ aliases: ["ice-elemental", "Ice Elemental-tob2"]
 *Source: Tome of Beasts 2 Page 133*
 
 ```statblock
+"dice": false
 "name": "Ice Elemental Tob2"
 "size": "Large"
 "type": "Elemental"

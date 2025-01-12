@@ -13,6 +13,7 @@ aliases: ["niya-atha-raja", "Niya-Atha Raja-tob3"]
 *Source: Tome of Beasts 3 Page 290*
 
 ```statblock
+"dice": false
 "name": "Niya Atha Raja Tob3"
 "size": "Medium"
 "type": "Fey"

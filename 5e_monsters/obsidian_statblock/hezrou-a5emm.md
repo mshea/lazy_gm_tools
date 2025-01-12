@@ -13,6 +13,7 @@ aliases: ["hezrou-a5e", "Hezrou-a5emm"]
 *Source: A5e Monstrous Menagerie Page 69*
 
 ```statblock
+"dice": false
 "name": "Hezrou A5Emm"
 "size": "Large"
 "type": "Fiend"

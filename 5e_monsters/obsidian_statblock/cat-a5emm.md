@@ -13,6 +13,7 @@ aliases: ["cat-a5e", "Cat-a5emm"]
 *Source: A5e Monstrous Menagerie Page 441*
 
 ```statblock
+"dice": false
 "name": "Cat A5Emm"
 "size": "Tiny"
 "type": "Beast"

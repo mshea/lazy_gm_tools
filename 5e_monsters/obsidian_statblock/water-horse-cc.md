@@ -13,6 +13,7 @@ aliases: ["water-horse", "Water Horse-cc"]
 *Source: Creature Codex Page 373*
 
 ```statblock
+"dice": false
 "name": "Water Horse Cc"
 "size": "Medium"
 "type": "Fey"

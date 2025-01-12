@@ -13,6 +13,7 @@ aliases: ["blood-elemental", "Blood Elemental-cc"]
 *Source: Creature Codex Page 138*
 
 ```statblock
+"dice": false
 "name": "Blood Elemental Cc"
 "size": "Large"
 "type": "Elemental"

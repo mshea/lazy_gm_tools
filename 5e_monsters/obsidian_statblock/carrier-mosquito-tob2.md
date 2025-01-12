@@ -13,6 +13,7 @@ aliases: ["carrier-mosquito", "Carrier Mosquito-tob2"]
 *Source: Tome of Beasts 2 Page 389*
 
 ```statblock
+"dice": false
 "name": "Carrier Mosquito Tob2"
 "size": "Large"
 "type": "Beast"

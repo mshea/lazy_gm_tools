@@ -13,6 +13,7 @@ aliases: ["giant-pufferfish", "Giant Pufferfish-tob3"]
 *Source: Tome of Beasts 3 Page 200*
 
 ```statblock
+"dice": false
 "name": "Giant Pufferfish Tob3"
 "size": "Small"
 "type": "Beast"

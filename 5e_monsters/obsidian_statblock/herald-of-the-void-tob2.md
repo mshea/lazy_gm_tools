@@ -13,6 +13,7 @@ aliases: ["herald-of-the-void", "Herald of the Void-tob2"]
 *Source: Tome of Beasts 2 Page 199*
 
 ```statblock
+"dice": false
 "name": "Herald Of The Void Tob2"
 "size": "Large"
 "type": "Fiend"

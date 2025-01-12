@@ -13,6 +13,7 @@ aliases: ["wolfreaverdwarf-tob1-2023", "Wolf Reaver Dwarf-tob2023"]
 *Source: Tome of Beasts 2023 Page 412*
 
 ```statblock
+"dice": false
 "name": "Wolf Reaver Dwarf Tob2023"
 "size": "Medium"
 "type": "Humanoid"

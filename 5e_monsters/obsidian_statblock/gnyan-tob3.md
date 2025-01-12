@@ -13,6 +13,7 @@ aliases: ["gnyan", "Gnyan-tob3"]
 *Source: Tome of Beasts 3 Page 210*
 
 ```statblock
+"dice": false
 "name": "Gnyan Tob3"
 "size": "Large"
 "type": "Elemental"

@@ -13,6 +13,7 @@ aliases: ["mindshard", "Mindshard-tob3"]
 *Source: Tome of Beasts 3 Page 271*
 
 ```statblock
+"dice": false
 "name": "Mindshard Tob3"
 "size": "Small"
 "type": "Aberration"

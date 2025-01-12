@@ -13,6 +13,7 @@ aliases: ["ancienttitan-tob1-2023", "Ancient Titan-tob2023"]
 *Source: Tome of Beasts 2023 Page 361*
 
 ```statblock
+"dice": false
 "name": "Ancient Titan Tob2023"
 "size": "Gargantuan"
 "type": "Celestial"

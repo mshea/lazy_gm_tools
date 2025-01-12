@@ -13,6 +13,7 @@ aliases: ["roggenwolf", "Roggenwolf-cc"]
 *Source: Creature Codex Page 320*
 
 ```statblock
+"dice": false
 "name": "Roggenwolf Cc"
 "size": "Medium"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["giant-scorpion-a5e", "Giant Scorpion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 449*
 
 ```statblock
+"dice": false
 "name": "Giant Scorpion A5Emm"
 "size": "Large"
 "type": "Beast"

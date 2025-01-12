@@ -13,6 +13,7 @@ aliases: ["graveyard-dragon", "Graveyard Dragon-tob2"]
 *Source: Tome of Beasts 2 Page 183*
 
 ```statblock
+"dice": false
 "name": "Graveyard Dragon Tob2"
 "size": "Large"
 "type": "Undead"

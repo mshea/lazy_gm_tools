@@ -13,6 +13,7 @@ aliases: ["giant-air-elemental-a5e", "Giant Air Elemental-a5emm"]
 *Source: A5e Monstrous Menagerie Page 194*
 
 ```statblock
+"dice": false
 "name": "Giant Air Elemental A5Emm"
 "size": "Huge"
 "type": "Elemental"

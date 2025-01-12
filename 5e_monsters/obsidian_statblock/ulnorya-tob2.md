@@ -13,6 +13,7 @@ aliases: ["ulnorya", "Ulnorya-tob2"]
 *Source: Tome of Beasts 2 Page 354*
 
 ```statblock
+"dice": false
 "name": "Ulnorya Tob2"
 "size": "Large"
 "type": "Aberration"

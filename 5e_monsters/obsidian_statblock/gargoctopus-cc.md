@@ -13,6 +13,7 @@ aliases: ["gargoctopus", "Gargoctopus-cc"]
 *Source: Creature Codex Page 167*
 
 ```statblock
+"dice": false
 "name": "Gargoctopus Cc"
 "size": "Large"
 "type": "Monstrosity"

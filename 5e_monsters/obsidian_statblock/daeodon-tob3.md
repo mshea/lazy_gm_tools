@@ -13,6 +13,7 @@ aliases: ["daeodon", "Daeodon-tob3"]
 *Source: Tome of Beasts 3 Page 103*
 
 ```statblock
+"dice": false
 "name": "Daeodon Tob3"
 "size": "Large"
 "type": "Beast"

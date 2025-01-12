@@ -13,6 +13,7 @@ aliases: ["noctiny-tob1-2023", "Noctiny-tob2023"]
 *Source: Tome of Beasts 2023 Page 287*
 
 ```statblock
+"dice": false
 "name": "Noctiny Tob2023"
 "size": "Medium"
 "type": "Humanoid"

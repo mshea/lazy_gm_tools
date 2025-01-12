@@ -13,6 +13,7 @@ aliases: ["fane-spirit", "Fane Spirit-tob2"]
 *Source: Tome of Beasts 2 Page 141*
 
 ```statblock
+"dice": false
 "name": "Fane Spirit Tob2"
 "size": "Medium"
 "type": "Undead"

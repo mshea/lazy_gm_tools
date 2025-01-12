@@ -13,6 +13,7 @@ aliases: ["wyvern-knight", "Wyvern Knight-cc"]
 *Source: Creature Codex Page 385*
 
 ```statblock
+"dice": false
 "name": "Wyvern Knight Cc"
 "size": "Medium"
 "type": "Humanoid"

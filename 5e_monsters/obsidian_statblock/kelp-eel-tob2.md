@@ -13,6 +13,7 @@ aliases: ["kelp-eel", "Kelp Eel-tob2"]
 *Source: Tome of Beasts 2 Page 227*
 
 ```statblock
+"dice": false
 "name": "Kelp Eel Tob2"
 "size": "Huge"
 "type": "Plant"

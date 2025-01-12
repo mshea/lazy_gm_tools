@@ -13,6 +13,7 @@ aliases: ["psoglav-tob1-2023", "Psoglav-tob2023"]
 *Source: Tome of Beasts 2023 Page 86*
 
 ```statblock
+"dice": false
 "name": "Psoglav Tob2023"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["werebat", "Werebat-cc"]
 *Source: Creature Codex Page 258*
 
 ```statblock
+"dice": false
 "name": "Werebat Cc"
 "size": "Medium"
 "type": "Humanoid"

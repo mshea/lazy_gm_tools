@@ -13,6 +13,7 @@ aliases: ["chuul-a5e", "Chuul-a5emm"]
 *Source: A5e Monstrous Menagerie Page 47*
 
 ```statblock
+"dice": false
 "name": "Chuul A5Emm"
 "size": "Large"
 "type": "Aberration"

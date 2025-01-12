@@ -13,6 +13,7 @@ aliases: ["dinosaur-razorfeather-raptor", "Dinosaur, Razorfeather Raptor-tob3"]
 *Source: Tome of Beasts 3 Page 126*
 
 ```statblock
+"dice": false
 "name": "Dinosaur, Razorfeather Raptor Tob3"
 "size": "Medium"
 "type": "Monstrosity"

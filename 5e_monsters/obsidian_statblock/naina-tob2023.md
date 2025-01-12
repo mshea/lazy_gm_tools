@@ -13,6 +13,7 @@ aliases: ["naina-tob1-2023", "Naina-tob2023"]
 *Source: Tome of Beasts 2023 Page 282*
 
 ```statblock
+"dice": false
 "name": "Naina Tob2023"
 "size": "Large"
 "type": "Dragon"

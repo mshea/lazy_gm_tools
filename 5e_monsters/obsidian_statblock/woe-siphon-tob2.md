@@ -13,6 +13,7 @@ aliases: ["woe-siphon", "Woe Siphon-tob2"]
 *Source: Tome of Beasts 2 Page 373*
 
 ```statblock
+"dice": false
 "name": "Woe Siphon Tob2"
 "size": "Medium"
 "type": "Fey"

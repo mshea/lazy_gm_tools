@@ -13,6 +13,7 @@ aliases: ["silent-crier", "Silent Crier-tob3"]
 *Source: Tome of Beasts 3 Page 344*
 
 ```statblock
+"dice": false
 "name": "Silent Crier Tob3"
 "size": "Medium"
 "type": "Fiend"

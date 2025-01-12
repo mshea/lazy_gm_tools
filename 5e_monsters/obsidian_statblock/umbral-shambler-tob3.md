@@ -13,6 +13,7 @@ aliases: ["umbral-shambler", "Umbral Shambler-tob3"]
 *Source: Tome of Beasts 3 Page 380*
 
 ```statblock
+"dice": false
 "name": "Umbral Shambler Tob3"
 "size": "Medium"
 "type": "Aberration"

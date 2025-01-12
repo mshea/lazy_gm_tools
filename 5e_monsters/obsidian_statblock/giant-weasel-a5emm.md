@@ -13,6 +13,7 @@ aliases: ["giant-weasel-a5e", "Giant Weasel-a5emm"]
 *Source: A5e Monstrous Menagerie Page 451*
 
 ```statblock
+"dice": false
 "name": "Giant Weasel A5Emm"
 "size": "Medium"
 "type": "Beast"

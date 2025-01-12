@@ -13,6 +13,7 @@ aliases: ["yaojing", "Yaojing-tob2"]
 *Source: Tome of Beasts 2 Page 377*
 
 ```statblock
+"dice": false
 "name": "Yaojing Tob2"
 "size": "Medium"
 "type": "Celestial"

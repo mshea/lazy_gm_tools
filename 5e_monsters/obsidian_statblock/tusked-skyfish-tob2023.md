@@ -13,6 +13,7 @@ aliases: ["tuskedskyfish-tob1-2023", "Tusked Skyfish-tob2023"]
 *Source: Tome of Beasts 2023 Page 372*
 
 ```statblock
+"dice": false
 "name": "Tusked Skyfish Tob2023"
 "size": "Large"
 "type": "Aberration"

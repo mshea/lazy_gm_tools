@@ -13,6 +13,7 @@ aliases: ["ancient-green-dragon-a5e", "Ancient Green Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 111*
 
 ```statblock
+"dice": false
 "name": "Ancient Green Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

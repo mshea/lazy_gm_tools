@@ -13,6 +13,7 @@ aliases: ["kobold-sapper", "Kobold, Sapper-tob3"]
 *Source: Tome of Beasts 3 Page 257*
 
 ```statblock
+"dice": false
 "name": "Kobold, Sapper Tob3"
 "size": "Small"
 "type": "Humanoid"

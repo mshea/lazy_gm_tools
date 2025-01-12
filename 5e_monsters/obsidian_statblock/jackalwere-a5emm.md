@@ -13,6 +13,7 @@ aliases: ["jackalwere-a5e", "Jackalwere-a5emm"]
 *Source: A5e Monstrous Menagerie Page 291*
 
 ```statblock
+"dice": false
 "name": "Jackalwere A5Emm"
 "size": "Medium"
 "type": "Fiend"

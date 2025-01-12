@@ -13,6 +13,7 @@ aliases: ["homunculus-a5e", "Homunculus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 283*
 
 ```statblock
+"dice": false
 "name": "Homunculus A5Emm"
 "size": "Tiny"
 "type": "Construct"

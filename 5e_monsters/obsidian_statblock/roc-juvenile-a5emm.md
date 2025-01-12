@@ -13,6 +13,7 @@ aliases: ["roc-juvenile-a5e", "Roc Juvenile-a5emm"]
 *Source: A5e Monstrous Menagerie Page 459*
 
 ```statblock
+"dice": false
 "name": "Roc Juvenile A5Emm"
 "size": "Huge"
 "type": "Beast"

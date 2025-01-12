@@ -13,6 +13,7 @@ aliases: ["azer-forgemaster-a5e", "Azer Forgemaster-a5emm"]
 *Source: A5e Monstrous Menagerie Page 28*
 
 ```statblock
+"dice": false
 "name": "Azer Forgemaster A5Emm"
 "size": "Medium"
 "type": "Elemental"

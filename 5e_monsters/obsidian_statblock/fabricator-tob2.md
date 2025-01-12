@@ -13,6 +13,7 @@ aliases: ["fabricator", "Fabricator-tob2"]
 *Source: Tome of Beasts 2 Page 138*
 
 ```statblock
+"dice": false
 "name": "Fabricator Tob2"
 "size": "Large"
 "type": "Construct"

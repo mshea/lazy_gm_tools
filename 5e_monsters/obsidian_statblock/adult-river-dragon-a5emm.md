@@ -13,6 +13,7 @@ aliases: ["adult-river-dragon-a5e", "Adult River Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 132*
 
 ```statblock
+"dice": false
 "name": "Adult River Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

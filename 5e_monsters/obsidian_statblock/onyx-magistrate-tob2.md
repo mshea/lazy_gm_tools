@@ -13,6 +13,7 @@ aliases: ["onyx-magistrate", "Onyx Magistrate-tob2"]
 *Source: Tome of Beasts 2 Page 276*
 
 ```statblock
+"dice": false
 "name": "Onyx Magistrate Tob2"
 "size": "Large"
 "type": "Construct"

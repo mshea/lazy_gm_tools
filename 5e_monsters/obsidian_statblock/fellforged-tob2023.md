@@ -13,6 +13,7 @@ aliases: ["fellforged-tob1-2023", "Fellforged-tob2023"]
 *Source: Tome of Beasts 2023 Page 170*
 
 ```statblock
+"dice": false
 "name": "Fellforged Tob2023"
 "size": "Medium"
 "type": "Construct"

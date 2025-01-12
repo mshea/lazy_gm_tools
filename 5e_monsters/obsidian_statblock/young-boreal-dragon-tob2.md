@@ -13,6 +13,7 @@ aliases: ["young-boreal-dragon", "Young Boreal Dragon-tob2"]
 *Source: Tome of Beasts 2 Page 112*
 
 ```statblock
+"dice": false
 "name": "Young Boreal Dragon Tob2"
 "size": "Large"
 "type": "Dragon"

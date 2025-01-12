@@ -13,6 +13,7 @@ aliases: ["hooden-horse", "Hooden Horse-tob2"]
 *Source: Tome of Beasts 2 Page 202*
 
 ```statblock
+"dice": false
 "name": "Hooden Horse Tob2"
 "size": "Medium"
 "type": "Undead"

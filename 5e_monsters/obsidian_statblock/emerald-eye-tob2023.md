@@ -13,6 +13,7 @@ aliases: ["emeraldeye-tob1-2023", "Emerald Eye-tob2023"]
 *Source: Tome of Beasts 2023 Page 163*
 
 ```statblock
+"dice": false
 "name": "Emerald Eye Tob2023"
 "size": "Tiny"
 "type": "Construct"

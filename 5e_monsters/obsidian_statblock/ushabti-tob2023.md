@@ -13,6 +13,7 @@ aliases: ["ushabti-tob1-2023", "Ushabti-tob2023"]
 *Source: Tome of Beasts 2023 Page 376*
 
 ```statblock
+"dice": false
 "name": "Ushabti Tob2023"
 "size": "Medium"
 "type": "Construct"

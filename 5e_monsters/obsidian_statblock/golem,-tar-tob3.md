@@ -13,6 +13,7 @@ aliases: ["golem-tar", "Golem, Tar-tob3"]
 *Source: Tome of Beasts 3 Page 218*
 
 ```statblock
+"dice": false
 "name": "Golem, Tar Tob3"
 "size": "Medium"
 "type": "Construct"

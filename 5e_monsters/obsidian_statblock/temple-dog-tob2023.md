@@ -13,6 +13,7 @@ aliases: ["templedog-tob1-2023", "Temple Dog-tob2023"]
 *Source: Tome of Beasts 2023 Page 359*
 
 ```statblock
+"dice": false
 "name": "Temple Dog Tob2023"
 "size": "Medium"
 "type": "Celestial"

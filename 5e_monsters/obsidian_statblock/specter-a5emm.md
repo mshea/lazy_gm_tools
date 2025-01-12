@@ -13,6 +13,7 @@ aliases: ["specter-a5e", "Specter-a5emm"]
 *Source: A5e Monstrous Menagerie Page 396*
 
 ```statblock
+"dice": false
 "name": "Specter A5Emm"
 "size": "Medium"
 "type": "Undead"

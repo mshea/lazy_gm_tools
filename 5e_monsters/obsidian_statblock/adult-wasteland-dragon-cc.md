@@ -13,6 +13,7 @@ aliases: ["adult-wasteland-dragon", "Adult Wasteland Dragon-cc"]
 *Source: Creature Codex Page 118*
 
 ```statblock
+"dice": false
 "name": "Adult Wasteland Dragon Cc"
 "size": "Huge"
 "type": "Dragon"

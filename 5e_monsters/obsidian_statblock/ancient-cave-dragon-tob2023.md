@@ -13,6 +13,7 @@ aliases: ["ancientcavedragon-tob1-2023", "Ancient Cave Dragon-tob2023"]
 *Source: Tome of Beasts 2023 Page 113*
 
 ```statblock
+"dice": false
 "name": "Ancient Cave Dragon Tob2023"
 "size": "Gargantuan"
 "type": "Dragon"

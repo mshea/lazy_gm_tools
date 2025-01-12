@@ -13,6 +13,7 @@ aliases: ["revenant-a5e", "Revenant-a5emm"]
 *Source: A5e Monstrous Menagerie Page 371*
 
 ```statblock
+"dice": false
 "name": "Revenant A5Emm"
 "size": "Medium"
 "type": "Undead"

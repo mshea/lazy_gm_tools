@@ -13,6 +13,7 @@ aliases: ["cryoceros", "Cryoceros-tob2"]
 *Source: Tome of Beasts 2 Page 76*
 
 ```statblock
+"dice": false
 "name": "Cryoceros Tob2"
 "size": "Large"
 "type": "Monstrosity"

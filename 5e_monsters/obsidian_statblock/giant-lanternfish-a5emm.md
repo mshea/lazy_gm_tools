@@ -13,6 +13,7 @@ aliases: ["giant-lanternfish-a5e", "Giant Lanternfish-a5emm"]
 *Source: A5e Monstrous Menagerie Page 303*
 
 ```statblock
+"dice": false
 "name": "Giant Lanternfish A5Emm"
 "size": "Large"
 "type": "Monstrosity"

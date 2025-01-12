@@ -13,6 +13,7 @@ aliases: ["alpha-fish", "Alpha Fish-tob2"]
 *Source: Tome of Beasts 2 Page 14*
 
 ```statblock
+"dice": false
 "name": "Alpha Fish Tob2"
 "size": "Large"
 "type": "Beast"

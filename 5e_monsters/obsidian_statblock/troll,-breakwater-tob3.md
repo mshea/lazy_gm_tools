@@ -13,6 +13,7 @@ aliases: ["troll-breakwater", "Troll, Breakwater-tob3"]
 *Source: Tome of Beasts 3 Page 372*
 
 ```statblock
+"dice": false
 "name": "Troll, Breakwater Tob3"
 "size": "Large"
 "type": "Giant"

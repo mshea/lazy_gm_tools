@@ -13,6 +13,7 @@ aliases: ["beetle-clacker-swarm", "Beetle, Clacker Swarm-tob3"]
 *Source: Tome of Beasts 3 Page 54*
 
 ```statblock
+"dice": false
 "name": "Beetle, Clacker Swarm Tob3"
 "size": "Medium"
 "type": "Beast"

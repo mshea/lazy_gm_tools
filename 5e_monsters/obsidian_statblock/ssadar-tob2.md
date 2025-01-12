@@ -13,6 +13,7 @@ aliases: ["ssadar", "Ssadar-tob2"]
 *Source: Tome of Beasts 2 Page 337*
 
 ```statblock
+"dice": false
 "name": "Ssadar Tob2"
 "size": "Medium"
 "type": "Humanoid"

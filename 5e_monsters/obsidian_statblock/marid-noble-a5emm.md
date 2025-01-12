@@ -13,6 +13,7 @@ aliases: ["marid-noble-a5e", "Marid Noble-a5emm"]
 *Source: A5e Monstrous Menagerie Page 224*
 
 ```statblock
+"dice": false
 "name": "Marid Noble A5Emm"
 "size": "Large"
 "type": "Elemental"

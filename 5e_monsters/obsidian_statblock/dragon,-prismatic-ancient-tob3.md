@@ -13,6 +13,7 @@ aliases: ["dragon-prismatic-ancient", "Dragon, Prismatic Ancient-tob3"]
 *Source: Tome of Beasts 3 Page 140*
 
 ```statblock
+"dice": false
 "name": "Dragon, Prismatic Ancient Tob3"
 "size": "Gargantuan"
 "type": "Dragon"

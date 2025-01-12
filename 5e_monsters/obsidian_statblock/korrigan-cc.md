@@ -13,6 +13,7 @@ aliases: ["korrigan", "Korrigan-cc"]
 *Source: Creature Codex Page 242*
 
 ```statblock
+"dice": false
 "name": "Korrigan Cc"
 "size": "Small"
 "type": "Fey"

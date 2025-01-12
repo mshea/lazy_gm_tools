@@ -13,6 +13,7 @@ aliases: ["fell-nightmare-a5e", "Fell Nightmare-a5emm"]
 *Source: A5e Monstrous Menagerie Page 345*
 
 ```statblock
+"dice": false
 "name": "Fell Nightmare A5Emm"
 "size": "Large"
 "type": "Fiend"

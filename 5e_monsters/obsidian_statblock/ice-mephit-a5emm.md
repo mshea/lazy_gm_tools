@@ -13,6 +13,7 @@ aliases: ["ice-mephit-a5e", "Ice Mephit-a5emm"]
 *Source: A5e Monstrous Menagerie Page 325*
 
 ```statblock
+"dice": false
 "name": "Ice Mephit A5Emm"
 "size": "Small"
 "type": "Elemental"

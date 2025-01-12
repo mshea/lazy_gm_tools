@@ -13,6 +13,7 @@ aliases: ["lymarien", "Lymarien-tob2"]
 *Source: Tome of Beasts 2 Page 248*
 
 ```statblock
+"dice": false
 "name": "Lymarien Tob2"
 "size": "Tiny"
 "type": "Fey"

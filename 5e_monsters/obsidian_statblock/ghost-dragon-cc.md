@@ -13,6 +13,7 @@ aliases: ["ghost-dragon", "Ghost Dragon-cc"]
 *Source: Creature Codex Page 170*
 
 ```statblock
+"dice": false
 "name": "Ghost Dragon Cc"
 "size": "Large"
 "type": "Undead"

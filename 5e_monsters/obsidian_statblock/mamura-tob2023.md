@@ -13,6 +13,7 @@ aliases: ["mamura-tob1-2023", "Mamura-tob2023"]
 *Source: Tome of Beasts 2023 Page 263*
 
 ```statblock
+"dice": false
 "name": "Mamura Tob2023"
 "size": "Small"
 "type": "Aberration"

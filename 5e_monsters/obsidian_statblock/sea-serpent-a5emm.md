@@ -13,6 +13,7 @@ aliases: ["sea-serpent-a5e", "Sea Serpent-a5emm"]
 *Source: A5e Monstrous Menagerie Page 386*
 
 ```statblock
+"dice": false
 "name": "Sea Serpent A5Emm"
 "size": "Gargantuan"
 "type": "Monstrosity"

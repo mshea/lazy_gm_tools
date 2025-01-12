@@ -13,6 +13,7 @@ aliases: ["hag-wood", "Hag, Wood-tob3"]
 *Source: Tome of Beasts 3 Page 228*
 
 ```statblock
+"dice": false
 "name": "Hag, Wood Tob3"
 "size": "Medium"
 "type": "Fey"

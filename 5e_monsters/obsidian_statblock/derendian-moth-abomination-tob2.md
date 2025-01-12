@@ -13,6 +13,7 @@ aliases: ["derendian-moth-abomination", "Derendian Moth Abomination-tob2"]
 *Source: Tome of Beasts 2 Page 96*
 
 ```statblock
+"dice": false
 "name": "Derendian Moth Abomination Tob2"
 "size": "Huge"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["beetle-clacker-soldier", "Beetle, Clacker Soldier-tob3"]
 *Source: Tome of Beasts 3 Page 54*
 
 ```statblock
+"dice": false
 "name": "Beetle, Clacker Soldier Tob3"
 "size": "Small"
 "type": "Beast"

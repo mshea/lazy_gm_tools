@@ -13,6 +13,7 @@ aliases: ["giant-fire-beetle-a5e", "Giant Fire Beetle-a5emm"]
 *Source: A5e Monstrous Menagerie Page 447*
 
 ```statblock
+"dice": false
 "name": "Giant Fire Beetle A5Emm"
 "size": "Small"
 "type": "Beast"

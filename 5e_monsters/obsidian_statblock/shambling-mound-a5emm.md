@@ -13,6 +13,7 @@ aliases: ["shambling-mound-a5e", "Shambling Mound-a5emm"]
 *Source: A5e Monstrous Menagerie Page 391*
 
 ```statblock
+"dice": false
 "name": "Shambling Mound A5Emm"
 "size": "Large"
 "type": "Plant"

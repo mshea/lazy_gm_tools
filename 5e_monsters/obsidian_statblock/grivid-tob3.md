@@ -13,6 +13,7 @@ aliases: ["grivid", "Grivid-tob3"]
 *Source: Tome of Beasts 3 Page 221*
 
 ```statblock
+"dice": false
 "name": "Grivid Tob3"
 "size": "Large"
 "type": "Aberration"

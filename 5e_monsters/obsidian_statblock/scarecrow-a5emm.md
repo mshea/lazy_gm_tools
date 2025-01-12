@@ -13,6 +13,7 @@ aliases: ["scarecrow-a5e", "Scarecrow-a5emm"]
 *Source: A5e Monstrous Menagerie Page 382*
 
 ```statblock
+"dice": false
 "name": "Scarecrow A5Emm"
 "size": "Medium"
 "type": "Construct"

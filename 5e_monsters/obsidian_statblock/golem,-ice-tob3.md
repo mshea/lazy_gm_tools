@@ -13,6 +13,7 @@ aliases: ["golem-ice", "Golem, Ice-tob3"]
 *Source: Tome of Beasts 3 Page 216*
 
 ```statblock
+"dice": false
 "name": "Golem, Ice Tob3"
 "size": "Large"
 "type": "Construct"

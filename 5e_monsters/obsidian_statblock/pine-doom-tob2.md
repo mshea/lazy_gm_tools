@@ -13,6 +13,7 @@ aliases: ["pine-doom", "Pine Doom-tob2"]
 *Source: Tome of Beasts 2 Page 295*
 
 ```statblock
+"dice": false
 "name": "Pine Doom Tob2"
 "size": "Huge"
 "type": "Plant"

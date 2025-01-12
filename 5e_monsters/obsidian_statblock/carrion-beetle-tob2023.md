@@ -13,6 +13,7 @@ aliases: ["carrionbeetle-tob1-2023", "Carrion Beetle-tob2023"]
 *Source: Tome of Beasts 2023 Page 50*
 
 ```statblock
+"dice": false
 "name": "Carrion Beetle Tob2023"
 "size": "Large"
 "type": "Beast"

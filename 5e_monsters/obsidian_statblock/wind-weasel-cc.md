@@ -13,6 +13,7 @@ aliases: ["wind-weasel", "Wind Weasel-cc"]
 *Source: Creature Codex Page 381*
 
 ```statblock
+"dice": false
 "name": "Wind Weasel Cc"
 "size": "Medium"
 "type": "Fey"

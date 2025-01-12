@@ -13,6 +13,7 @@ aliases: ["animated-offal", "Animated Offal-tob3"]
 *Source: Tome of Beasts 3 Page 38*
 
 ```statblock
+"dice": false
 "name": "Animated Offal Tob3"
 "size": "Huge"
 "type": "Ooze"

@@ -13,6 +13,7 @@ aliases: ["beheadedvengefulspirit-tob1-2023", "Beheaded Vengeful Spirit-tob2023"
 *Source: Tome of Beasts 2023 Page 384*
 
 ```statblock
+"dice": false
 "name": "Beheaded Vengeful Spirit Tob2023"
 "size": "Medium"
 "type": "Undead"

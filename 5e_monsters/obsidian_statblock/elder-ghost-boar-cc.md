@@ -13,6 +13,7 @@ aliases: ["elder-ghost-boar", "Elder Ghost Boar-cc"]
 *Source: Creature Codex Page 169*
 
 ```statblock
+"dice": false
 "name": "Elder Ghost Boar Cc"
 "size": "Huge"
 "type": "Monstrosity"

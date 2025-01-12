@@ -13,6 +13,7 @@ aliases: ["bloodsapper", "Bloodsapper-tob2"]
 *Source: Tome of Beasts 2 Page 44*
 
 ```statblock
+"dice": false
 "name": "Bloodsapper Tob2"
 "size": "Medium"
 "type": "Aberration"

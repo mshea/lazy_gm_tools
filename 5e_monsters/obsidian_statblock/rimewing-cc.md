@@ -13,6 +13,7 @@ aliases: ["rimewing", "Rimewing-cc"]
 *Source: Creature Codex Page 178*
 
 ```statblock
+"dice": false
 "name": "Rimewing Cc"
 "size": "Small"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["cave-troll-a5e", "Cave Troll-a5emm"]
 *Source: A5e Monstrous Menagerie Page 413*
 
 ```statblock
+"dice": false
 "name": "Cave Troll A5Emm"
 "size": "Large"
 "type": "Giant"

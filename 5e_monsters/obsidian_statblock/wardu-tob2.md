@@ -13,6 +13,7 @@ aliases: ["wardu", "Wardu-tob2"]
 *Source: Tome of Beasts 2 Page 365*
 
 ```statblock
+"dice": false
 "name": "Wardu Tob2"
 "size": "Medium"
 "type": "Aberration"

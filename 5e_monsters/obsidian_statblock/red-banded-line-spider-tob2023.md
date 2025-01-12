@@ -13,6 +13,7 @@ aliases: ["red-bandedlinespider-tob1-2023", "Red-Banded Line Spider-tob2023"]
 *Source: Tome of Beasts 2023 Page 345*
 
 ```statblock
+"dice": false
 "name": "Red Banded Line Spider Tob2023"
 "size": "Tiny"
 "type": "Beast"

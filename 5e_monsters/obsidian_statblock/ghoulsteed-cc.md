@@ -13,6 +13,7 @@ aliases: ["ghoulsteed", "Ghoulsteed-cc"]
 *Source: Creature Codex Page 177*
 
 ```statblock
+"dice": false
 "name": "Ghoulsteed Cc"
 "size": "Large"
 "type": "Undead"

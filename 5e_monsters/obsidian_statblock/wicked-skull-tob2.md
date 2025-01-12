@@ -13,6 +13,7 @@ aliases: ["wicked-skull", "Wicked Skull-tob2"]
 *Source: Tome of Beasts 2 Page 368*
 
 ```statblock
+"dice": false
 "name": "Wicked Skull Tob2"
 "size": "Tiny"
 "type": "Monstrosity"

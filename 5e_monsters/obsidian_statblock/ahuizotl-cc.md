@@ -13,6 +13,7 @@ aliases: ["ahuizotl", "Ahuizotl-cc"]
 *Source: Creature Codex Page 10*
 
 ```statblock
+"dice": false
 "name": "Ahuizotl Cc"
 "size": "Small"
 "type": "Monstrosity"

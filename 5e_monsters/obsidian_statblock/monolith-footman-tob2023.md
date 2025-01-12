@@ -13,6 +13,7 @@ aliases: ["monolithfootman-tob1-2023", "Monolith Footman-tob2023"]
 *Source: Tome of Beasts 2023 Page 275*
 
 ```statblock
+"dice": false
 "name": "Monolith Footman Tob2023"
 "size": "Large"
 "type": "Construct"

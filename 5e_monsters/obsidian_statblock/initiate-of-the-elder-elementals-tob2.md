@@ -13,6 +13,7 @@ aliases: ["initiate-of-the-elder-elementals", "Initiate of the Elder Elementals-
 *Source: Tome of Beasts 2 Page 216*
 
 ```statblock
+"dice": false
 "name": "Initiate Of The Elder Elementals Tob2"
 "size": "Small"
 "type": "Humanoid"

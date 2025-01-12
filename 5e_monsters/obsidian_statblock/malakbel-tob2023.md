@@ -13,6 +13,7 @@ aliases: ["malakbel-tob1-2023", "Malakbel-tob2023"]
 *Source: Tome of Beasts 2023 Page 13*
 
 ```statblock
+"dice": false
 "name": "Malakbel Tob2023"
 "size": "Medium"
 "type": "Fiend"

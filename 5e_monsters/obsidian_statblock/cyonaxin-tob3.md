@@ -13,6 +13,7 @@ aliases: ["cyonaxin", "Cyonaxin-tob3"]
 *Source: Tome of Beasts 3 Page 102*
 
 ```statblock
+"dice": false
 "name": "Cyonaxin Tob3"
 "size": "Medium"
 "type": "Celestial"

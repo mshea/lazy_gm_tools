@@ -13,6 +13,7 @@ aliases: ["dvarapala", "Dvarapala-cc"]
 *Source: Creature Codex Page 137*
 
 ```statblock
+"dice": false
 "name": "Dvarapala Cc"
 "size": "Huge"
 "type": "Giant"

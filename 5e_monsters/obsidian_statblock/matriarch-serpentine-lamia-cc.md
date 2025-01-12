@@ -13,6 +13,7 @@ aliases: ["matriarch-serpentine-lamia", "Matriarch Serpentine Lamia-cc"]
 *Source: Creature Codex Page 249*
 
 ```statblock
+"dice": false
 "name": "Matriarch Serpentine Lamia Cc"
 "size": "Large"
 "type": "Monstrosity"

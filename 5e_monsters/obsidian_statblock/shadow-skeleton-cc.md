@@ -13,6 +13,7 @@ aliases: ["shadow-skeleton", "Shadow Skeleton-cc"]
 *Source: Creature Codex Page 326*
 
 ```statblock
+"dice": false
 "name": "Shadow Skeleton Cc"
 "size": "Medium"
 "type": "Undead"

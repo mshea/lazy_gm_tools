@@ -13,6 +13,7 @@ aliases: ["master-assassin-a5e", "Master Assassin-a5emm"]
 *Source: A5e Monstrous Menagerie Page 469*
 
 ```statblock
+"dice": false
 "name": "Master Assassin A5Emm"
 "size": "Medium"
 "type": "Humanoid"

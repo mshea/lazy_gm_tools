@@ -13,6 +13,7 @@ aliases: ["vines-of-nemthyr", "Vines of Nemthyr-cc"]
 *Source: Creature Codex Page 371*
 
 ```statblock
+"dice": false
 "name": "Vines Of Nemthyr Cc"
 "size": "Large"
 "type": "Plant"

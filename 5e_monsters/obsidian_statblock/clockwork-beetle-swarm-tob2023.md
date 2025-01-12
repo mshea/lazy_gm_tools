@@ -13,6 +13,7 @@ aliases: ["clockworkbeetleswarm-tob1-2023", "Clockwork Beetle Swarm-tob2023"]
 *Source: Tome of Beasts 2023 Page 60*
 
 ```statblock
+"dice": false
 "name": "Clockwork Beetle Swarm Tob2023"
 "size": "Large"
 "type": "Swarm"

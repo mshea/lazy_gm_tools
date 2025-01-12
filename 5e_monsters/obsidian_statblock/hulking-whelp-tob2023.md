@@ -13,6 +13,7 @@ aliases: ["hulkingwhelp-tob1-2023", "Hulking Whelp-tob2023"]
 *Source: Tome of Beasts 2023 Page 236*
 
 ```statblock
+"dice": false
 "name": "Hulking Whelp Tob2023"
 "size": "Small"
 "type": "Fey"

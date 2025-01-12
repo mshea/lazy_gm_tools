@@ -13,6 +13,7 @@ aliases: ["red-dragon-wyrmling-a5e", "Red Dragon Wyrmling-a5emm"]
 *Source: A5e Monstrous Menagerie Page 119*
 
 ```statblock
+"dice": false
 "name": "Red Dragon Wyrmling A5Emm"
 "size": "Medium"
 "type": "Dragon"

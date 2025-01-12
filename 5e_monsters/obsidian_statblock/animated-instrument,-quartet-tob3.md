@@ -13,6 +13,7 @@ aliases: ["animated-instrument-quartet", "Animated Instrument, Quartet-tob3"]
 *Source: Tome of Beasts 3 Page 34*
 
 ```statblock
+"dice": false
 "name": "Animated Instrument, Quartet Tob3"
 "size": "Large"
 "type": "Construct"

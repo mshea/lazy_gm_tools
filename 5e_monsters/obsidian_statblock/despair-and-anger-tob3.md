@@ -13,6 +13,7 @@ aliases: ["despair-and-anger", "Despair And Anger-tob3"]
 *Source: Tome of Beasts 3 Page 116*
 
 ```statblock
+"dice": false
 "name": "Despair And Anger Tob3"
 "size": "Large"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["jackalwere-pack-leader-a5e", "Jackalwere Pack Leader-a5emm"]
 *Source: A5e Monstrous Menagerie Page 291*
 
 ```statblock
+"dice": false
 "name": "Jackalwere Pack Leader A5Emm"
 "size": "Medium"
 "type": "Fiend"

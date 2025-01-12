@@ -13,6 +13,7 @@ aliases: ["gigantura", "Gigantura-tob3"]
 *Source: Tome of Beasts 3 Page 208*
 
 ```statblock
+"dice": false
 "name": "Gigantura Tob3"
 "size": "Gargantuan"
 "type": "Monstrosity"

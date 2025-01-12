@@ -13,6 +13,7 @@ aliases: ["execrable-shrub", "Execrable Shrub-cc"]
 *Source: Creature Codex Page 304*
 
 ```statblock
+"dice": false
 "name": "Execrable Shrub Cc"
 "size": "Medium"
 "type": "Fiend"

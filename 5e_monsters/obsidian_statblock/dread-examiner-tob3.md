@@ -13,6 +13,7 @@ aliases: ["dread-examiner", "Dread Examiner-tob3"]
 *Source: Tome of Beasts 3 Page 159*
 
 ```statblock
+"dice": false
 "name": "Dread Examiner Tob3"
 "size": "Large"
 "type": "Aberration"

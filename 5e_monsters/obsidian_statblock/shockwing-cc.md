@@ -13,6 +13,7 @@ aliases: ["shockwing", "Shockwing-cc"]
 *Source: Creature Codex Page 179*
 
 ```statblock
+"dice": false
 "name": "Shockwing Cc"
 "size": "Small"
 "type": "Beast"

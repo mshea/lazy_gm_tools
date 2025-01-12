@@ -13,6 +13,7 @@ aliases: ["jack-of-strings", "Jack of Strings-tob2"]
 *Source: Tome of Beasts 2 Page 218*
 
 ```statblock
+"dice": false
 "name": "Jack Of Strings Tob2"
 "size": "Medium"
 "type": "Fey"

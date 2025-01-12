@@ -13,6 +13,7 @@ aliases: ["shadow-elf-champion-warrior-a5e", "Shadow Elf Champion Warrior-a5emm"
 *Source: A5e Monstrous Menagerie Page 497*
 
 ```statblock
+"dice": false
 "name": "Shadow Elf Champion Warrior A5Emm"
 "size": "Medium"
 "type": "Humanoid"

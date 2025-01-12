@@ -13,6 +13,7 @@ aliases: ["moon-nymph", "Moon Nymph-cc"]
 *Source: Creature Codex Page 269*
 
 ```statblock
+"dice": false
 "name": "Moon Nymph Cc"
 "size": "Medium"
 "type": "Aberration"

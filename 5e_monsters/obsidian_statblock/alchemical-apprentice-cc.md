@@ -13,6 +13,7 @@ aliases: ["alchemical-apprentice", "Alchemical Apprentice-cc"]
 *Source: Creature Codex Page 281*
 
 ```statblock
+"dice": false
 "name": "Alchemical Apprentice Cc"
 "size": "Small"
 "type": "Ooze"

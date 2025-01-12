@@ -13,6 +13,7 @@ aliases: ["dragon-sand-wyrmling", "Dragon, Sand Wyrmling-tob3"]
 *Source: Tome of Beasts 3 Page 144*
 
 ```statblock
+"dice": false
 "name": "Dragon, Sand Wyrmling Tob3"
 "size": "Medium"
 "type": "Dragon"

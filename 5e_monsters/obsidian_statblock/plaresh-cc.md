@@ -13,6 +13,7 @@ aliases: ["plaresh", "Plaresh-cc"]
 *Source: Creature Codex Page 89*
 
 ```statblock
+"dice": false
 "name": "Plaresh Cc"
 "size": "Medium"
 "type": "Fiend"

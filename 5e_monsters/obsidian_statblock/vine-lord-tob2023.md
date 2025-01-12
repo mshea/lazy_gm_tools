@@ -13,6 +13,7 @@ aliases: ["vinelord-tob1-2023", "Vine Lord-tob2023"]
 *Source: Tome of Beasts 2023 Page 388*
 
 ```statblock
+"dice": false
 "name": "Vine Lord Tob2023"
 "size": "Medium"
 "type": "Plant"

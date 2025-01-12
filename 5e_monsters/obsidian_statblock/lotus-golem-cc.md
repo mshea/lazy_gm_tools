@@ -13,6 +13,7 @@ aliases: ["lotus-golem", "Lotus Golem-cc"]
 *Source: Creature Codex Page 201*
 
 ```statblock
+"dice": false
 "name": "Lotus Golem Cc"
 "size": "Large"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["warhordling-orc-warrior-a5e", "Warhordling Orc Warrior-a5emm"]
 *Source: A5e Monstrous Menagerie Page 499*
 
 ```statblock
+"dice": false
 "name": "Warhordling Orc Warrior A5Emm"
 "size": "Medium"
 "type": "Humanoid"

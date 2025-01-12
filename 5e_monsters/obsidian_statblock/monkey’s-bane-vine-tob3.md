@@ -13,6 +13,7 @@ aliases: ["monkey’s-bane-vine", "Monkey’S Bane Vine-tob3"]
 *Source: Tome of Beasts 3 Page 273*
 
 ```statblock
+"dice": false
 "name": "Monkey’S Bane Vine Tob3"
 "size": "Large"
 "type": "Plant"

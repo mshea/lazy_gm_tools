@@ -13,6 +13,7 @@ aliases: ["swarmofprismaticbeetles-tob1-2023", "Swarm of Prismatic Beetles-tob20
 *Source: Tome of Beasts 2023 Page 356*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Prismatic Beetles Tob2023"
 "size": "Medium"
 "type": "Swarm"

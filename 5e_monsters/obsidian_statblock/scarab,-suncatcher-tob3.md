@@ -13,6 +13,7 @@ aliases: ["scarab-suncatcher", "Scarab, Suncatcher-tob3"]
 *Source: Tome of Beasts 3 Page 338*
 
 ```statblock
+"dice": false
 "name": "Scarab, Suncatcher Tob3"
 "size": "Gargantuan"
 "type": "Beast"

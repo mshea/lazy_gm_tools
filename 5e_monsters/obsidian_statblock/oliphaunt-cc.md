@@ -13,6 +13,7 @@ aliases: ["oliphaunt", "Oliphaunt-cc"]
 *Source: Creature Codex Page 280*
 
 ```statblock
+"dice": false
 "name": "Oliphaunt Cc"
 "size": "Gargantuan"
 "type": "Beast"

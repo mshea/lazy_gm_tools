@@ -13,6 +13,7 @@ aliases: ["qiqirn", "Qiqirn-tob2"]
 *Source: Tome of Beasts 2 Page 301*
 
 ```statblock
+"dice": false
 "name": "Qiqirn Tob2"
 "size": "Small"
 "type": "Monstrosity"

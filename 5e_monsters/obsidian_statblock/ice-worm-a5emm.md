@@ -13,6 +13,7 @@ aliases: ["ice-worm-a5e", "Ice Worm-a5emm"]
 *Source: A5e Monstrous Menagerie Page 365*
 
 ```statblock
+"dice": false
 "name": "Ice Worm A5Emm"
 "size": "Gargantuan"
 "type": "Monstrosity"

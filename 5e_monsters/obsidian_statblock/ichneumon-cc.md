@@ -13,6 +13,7 @@ aliases: ["ichneumon", "Ichneumon-cc"]
 *Source: Creature Codex Page 224*
 
 ```statblock
+"dice": false
 "name": "Ichneumon Cc"
 "size": "Large"
 "type": "Monstrosity"

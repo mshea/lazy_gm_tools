@@ -13,6 +13,7 @@ aliases: ["giant-mongoose", "Giant Mongoose-tob2"]
 *Source: Tome of Beasts 2 Page 393*
 
 ```statblock
+"dice": false
 "name": "Giant Mongoose Tob2"
 "size": "Medium"
 "type": "Beast"

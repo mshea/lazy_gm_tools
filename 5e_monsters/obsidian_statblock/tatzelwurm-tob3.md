@@ -13,6 +13,7 @@ aliases: ["tatzelwurm", "Tatzelwurm-tob3"]
 *Source: Tome of Beasts 3 Page 366*
 
 ```statblock
+"dice": false
 "name": "Tatzelwurm Tob3"
 "size": "Medium"
 "type": "Dragon"

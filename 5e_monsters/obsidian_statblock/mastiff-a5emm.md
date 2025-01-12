@@ -13,6 +13,7 @@ aliases: ["mastiff-a5e", "Mastiff-a5emm"]
 *Source: A5e Monstrous Menagerie Page 456*
 
 ```statblock
+"dice": false
 "name": "Mastiff A5Emm"
 "size": "Medium"
 "type": "Beast"

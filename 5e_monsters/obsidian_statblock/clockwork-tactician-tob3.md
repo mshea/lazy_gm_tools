@@ -13,6 +13,7 @@ aliases: ["clockwork-tactician", "Clockwork Tactician-tob3"]
 *Source: Tome of Beasts 3 Page 90*
 
 ```statblock
+"dice": false
 "name": "Clockwork Tactician Tob3"
 "size": "Medium"
 "type": "Construct"

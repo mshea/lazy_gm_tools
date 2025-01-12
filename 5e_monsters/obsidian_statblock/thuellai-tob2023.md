@@ -13,6 +13,7 @@ aliases: ["thuellai-tob1-2023", "Thuellai-tob2023"]
 *Source: Tome of Beasts 2023 Page 360*
 
 ```statblock
+"dice": false
 "name": "Thuellai Tob2023"
 "size": "Huge"
 "type": "Elemental"

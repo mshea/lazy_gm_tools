@@ -13,6 +13,7 @@ aliases: ["aniwye", "Aniwye-tob2"]
 *Source: Tome of Beasts 2 Page 25*
 
 ```statblock
+"dice": false
 "name": "Aniwye Tob2"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["adult-amethyst-dragon-a5e", "Adult Amethyst Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 141*
 
 ```statblock
+"dice": false
 "name": "Adult Amethyst Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

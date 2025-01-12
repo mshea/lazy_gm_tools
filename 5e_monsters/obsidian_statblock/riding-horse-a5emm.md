@@ -13,6 +13,7 @@ aliases: ["riding-horse-a5e", "Riding Horse-a5emm"]
 *Source: A5e Monstrous Menagerie Page 458*
 
 ```statblock
+"dice": false
 "name": "Riding Horse A5Emm"
 "size": "Large"
 "type": "Beast"

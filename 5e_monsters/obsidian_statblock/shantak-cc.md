@@ -13,6 +13,7 @@ aliases: ["shantak", "Shantak-cc"]
 *Source: Creature Codex Page 328*
 
 ```statblock
+"dice": false
 "name": "Shantak Cc"
 "size": "Large"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["altar-flame-golem", "Altar Flame Golem-cc"]
 *Source: Creature Codex Page 193*
 
 ```statblock
+"dice": false
 "name": "Altar Flame Golem Cc"
 "size": "Large"
 "type": "Construct"

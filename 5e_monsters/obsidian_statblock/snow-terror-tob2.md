@@ -13,6 +13,7 @@ aliases: ["snow-terror", "Snow Terror-tob2"]
 *Source: Tome of Beasts 2 Page 334*
 
 ```statblock
+"dice": false
 "name": "Snow Terror Tob2"
 "size": "Large"
 "type": "Fiend"

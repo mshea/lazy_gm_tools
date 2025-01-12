@@ -13,6 +13,7 @@ aliases: ["pestilence-swarm", "Pestilence Swarm-tob2"]
 *Source: Tome of Beasts 2 Page 294*
 
 ```statblock
+"dice": false
 "name": "Pestilence Swarm Tob2"
 "size": "Medium"
 "type": "Beast"

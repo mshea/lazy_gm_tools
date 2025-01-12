@@ -13,6 +13,7 @@ aliases: ["starving-specter", "Starving Specter-tob3"]
 *Source: Tome of Beasts 3 Page 356*
 
 ```statblock
+"dice": false
 "name": "Starving Specter Tob3"
 "size": "Medium"
 "type": "Undead"

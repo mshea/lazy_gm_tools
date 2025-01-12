@@ -13,6 +13,7 @@ aliases: ["sandhag-tob1-2023", "Sand Hag-tob2023"]
 *Source: Tome of Beasts 2023 Page 229*
 
 ```statblock
+"dice": false
 "name": "Sand Hag Tob2023"
 "size": "Medium"
 "type": "Fey"

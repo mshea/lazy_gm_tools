@@ -13,6 +13,7 @@ aliases: ["forest-gnome-scout-a5e", "Forest Gnome Scout-a5emm"]
 *Source: A5e Monstrous Menagerie Page 491*
 
 ```statblock
+"dice": false
 "name": "Forest Gnome Scout A5Emm"
 "size": "Medium"
 "type": "Humanoid"

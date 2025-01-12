@@ -13,6 +13,7 @@ aliases: ["efreeti-a5e", "Efreeti-a5emm"]
 *Source: A5e Monstrous Menagerie Page 221*
 
 ```statblock
+"dice": false
 "name": "Efreeti A5Emm"
 "size": "Large"
 "type": "Elemental"

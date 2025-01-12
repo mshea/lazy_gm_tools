@@ -13,6 +13,7 @@ aliases: ["shadow-lurker", "Shadow Lurker-tob3"]
 *Source: Tome of Beasts 3 Page 342*
 
 ```statblock
+"dice": false
 "name": "Shadow Lurker Tob3"
 "size": "Medium"
 "type": "Fey"

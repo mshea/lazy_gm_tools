@@ -13,6 +13,7 @@ aliases: ["subek-tob1-2023", "Subek-tob2023"]
 *Source: Tome of Beasts 2023 Page 352*
 
 ```statblock
+"dice": false
 "name": "Subek Tob2023"
 "size": "Large"
 "type": "Humanoid"

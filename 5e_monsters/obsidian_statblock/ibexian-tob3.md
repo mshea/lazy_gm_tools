@@ -13,6 +13,7 @@ aliases: ["ibexian", "Ibexian-tob3"]
 *Source: Tome of Beasts 3 Page 238*
 
 ```statblock
+"dice": false
 "name": "Ibexian Tob3"
 "size": "Large"
 "type": "Fiend"

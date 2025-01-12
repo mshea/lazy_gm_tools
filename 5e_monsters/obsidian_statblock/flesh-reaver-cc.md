@@ -13,6 +13,7 @@ aliases: ["flesh-reaver", "Flesh Reaver-cc"]
 *Source: Creature Codex Page 160*
 
 ```statblock
+"dice": false
 "name": "Flesh Reaver Cc"
 "size": "Medium"
 "type": "Undead"

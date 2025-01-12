@@ -13,6 +13,7 @@ aliases: ["stone-guardian-a5e", "Stone Guardian-a5emm"]
 *Source: A5e Monstrous Menagerie Page 265*
 
 ```statblock
+"dice": false
 "name": "Stone Guardian A5Emm"
 "size": "Large"
 "type": "Construct"

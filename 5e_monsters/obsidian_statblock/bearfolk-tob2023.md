@@ -13,6 +13,7 @@ aliases: ["bearfolk-tob1-2023", "Bearfolk-tob2023"]
 *Source: Tome of Beasts 2023 Page 33*
 
 ```statblock
+"dice": false
 "name": "Bearfolk Tob2023"
 "size": "Medium"
 "type": "Humanoid"

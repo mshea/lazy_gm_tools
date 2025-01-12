@@ -13,6 +13,7 @@ aliases: ["dogmole-tob1-2023", "Dogmole-tob2023"]
 *Source: Tome of Beasts 2023 Page 107*
 
 ```statblock
+"dice": false
 "name": "Dogmole Tob2023"
 "size": "Medium"
 "type": "Beast"

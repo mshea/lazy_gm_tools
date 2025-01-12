@@ -13,6 +13,7 @@ aliases: ["marilith-a5e", "Marilith-a5emm"]
 *Source: A5e Monstrous Menagerie Page 71*
 
 ```statblock
+"dice": false
 "name": "Marilith A5Emm"
 "size": "Large"
 "type": "Fiend"

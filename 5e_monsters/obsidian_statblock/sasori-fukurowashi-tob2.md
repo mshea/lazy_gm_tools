@@ -13,6 +13,7 @@ aliases: ["sasori-fukurowashi", "Sasori Fukurowashi-tob2"]
 *Source: Tome of Beasts 2 Page 224*
 
 ```statblock
+"dice": false
 "name": "Sasori Fukurowashi Tob2"
 "size": "Medium"
 "type": "Fey"

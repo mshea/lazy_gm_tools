@@ -13,6 +13,7 @@ aliases: ["black-crier", "Black Crier-tob2"]
 *Source: Tome of Beasts 2 Page 42*
 
 ```statblock
+"dice": false
 "name": "Black Crier Tob2"
 "size": "Medium"
 "type": "Undead"

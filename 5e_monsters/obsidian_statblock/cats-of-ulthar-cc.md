@@ -13,6 +13,7 @@ aliases: ["cats-of-ulthar", "Cats of Ulthar-cc"]
 *Source: Creature Codex Page 58*
 
 ```statblock
+"dice": false
 "name": "Cats Of Ulthar Cc"
 "size": "Huge"
 "type": "Beast"

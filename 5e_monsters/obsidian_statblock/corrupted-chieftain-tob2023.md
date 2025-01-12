@@ -13,6 +13,7 @@ aliases: ["corruptedchieftain-tob1-2023", "Corrupted Chieftain-tob2023"]
 *Source: Tome of Beasts 2023 Page 289*
 
 ```statblock
+"dice": false
 "name": "Corrupted Chieftain Tob2023"
 "size": "Large"
 "type": "Giant"

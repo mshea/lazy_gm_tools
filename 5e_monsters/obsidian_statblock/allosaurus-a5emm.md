@@ -13,6 +13,7 @@ aliases: ["allosaurus-a5e", "Allosaurus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 89*
 
 ```statblock
+"dice": false
 "name": "Allosaurus A5Emm"
 "size": "Huge"
 "type": "Beast"

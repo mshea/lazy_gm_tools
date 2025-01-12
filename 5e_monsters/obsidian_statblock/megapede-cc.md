@@ -13,6 +13,7 @@ aliases: ["megapede", "Megapede-cc"]
 *Source: Creature Codex Page 266*
 
 ```statblock
+"dice": false
 "name": "Megapede Cc"
 "size": "Large"
 "type": "Monstrosity"

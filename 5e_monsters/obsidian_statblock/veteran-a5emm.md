@@ -13,6 +13,7 @@ aliases: ["veteran-a5e", "Veteran-a5emm"]
 *Source: A5e Monstrous Menagerie Page 494*
 
 ```statblock
+"dice": false
 "name": "Veteran A5Emm"
 "size": "Medium"
 "type": "Humanoid"

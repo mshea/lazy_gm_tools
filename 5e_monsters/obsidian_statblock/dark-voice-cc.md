@@ -13,6 +13,7 @@ aliases: ["dark-voice", "Dark Voice-cc"]
 *Source: Creature Codex Page 73*
 
 ```statblock
+"dice": false
 "name": "Dark Voice Cc"
 "size": "Medium"
 "type": "Humanoid"

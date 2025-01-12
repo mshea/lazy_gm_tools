@@ -13,6 +13,7 @@ aliases: ["catamount", "Catamount-tob3"]
 *Source: Tome of Beasts 3 Page 74*
 
 ```statblock
+"dice": false
 "name": "Catamount Tob3"
 "size": "Large"
 "type": "Monstrosity"

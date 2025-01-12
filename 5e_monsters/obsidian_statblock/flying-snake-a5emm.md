@@ -13,6 +13,7 @@ aliases: ["flying-snake-a5e", "Flying Snake-a5emm"]
 *Source: A5e Monstrous Menagerie Page 444*
 
 ```statblock
+"dice": false
 "name": "Flying Snake A5Emm"
 "size": "Tiny"
 "type": "Beast"

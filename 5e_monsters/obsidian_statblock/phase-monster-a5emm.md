@@ -13,6 +13,7 @@ aliases: ["phase-monster-a5e", "Phase Monster-a5emm"]
 *Source: A5e Monstrous Menagerie Page 361*
 
 ```statblock
+"dice": false
 "name": "Phase Monster A5Emm"
 "size": "Large"
 "type": "Monstrosity"

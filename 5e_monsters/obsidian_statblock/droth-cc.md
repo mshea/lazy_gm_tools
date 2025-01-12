@@ -13,6 +13,7 @@ aliases: ["droth", "Droth-cc"]
 *Source: Creature Codex Page 333*
 
 ```statblock
+"dice": false
 "name": "Droth Cc"
 "size": "Huge"
 "type": "Aberration"

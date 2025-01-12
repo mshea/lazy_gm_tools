@@ -13,6 +13,7 @@ aliases: ["minotaur-champion-a5e", "Minotaur Champion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 335*
 
 ```statblock
+"dice": false
 "name": "Minotaur Champion A5Emm"
 "size": "Huge"
 "type": "Monstrosity"

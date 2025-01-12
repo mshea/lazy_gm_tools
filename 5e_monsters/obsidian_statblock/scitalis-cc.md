@@ -13,6 +13,7 @@ aliases: ["scitalis", "Scitalis-cc"]
 *Source: Creature Codex Page 321*
 
 ```statblock
+"dice": false
 "name": "Scitalis Cc"
 "size": "Large"
 "type": "Monstrosity"

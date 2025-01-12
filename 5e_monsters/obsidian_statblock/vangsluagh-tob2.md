@@ -13,6 +13,7 @@ aliases: ["vangsluagh", "Vangsluagh-tob2"]
 *Source: Tome of Beasts 2 Page 359*
 
 ```statblock
+"dice": false
 "name": "Vangsluagh Tob2"
 "size": "Medium"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["maskwight-tob1-2023", "Mask Wight-tob2023"]
 *Source: Tome of Beasts 2023 Page 264*
 
 ```statblock
+"dice": false
 "name": "Mask Wight Tob2023"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["dunemimic-tob1-2023", "Dune Mimic-tob2023"]
 *Source: Tome of Beasts 2023 Page 268*
 
 ```statblock
+"dice": false
 "name": "Dune Mimic Tob2023"
 "size": "Huge"
 "type": "Monstrosity"

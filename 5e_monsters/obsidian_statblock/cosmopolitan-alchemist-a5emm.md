@@ -13,6 +13,7 @@ aliases: ["cosmopolitan-alchemist-a5e", "Cosmopolitan Alchemist-a5emm"]
 *Source: A5e Monstrous Menagerie Page 467*
 
 ```statblock
+"dice": false
 "name": "Cosmopolitan Alchemist A5Emm"
 "size": "Medium"
 "type": "Humanoid"

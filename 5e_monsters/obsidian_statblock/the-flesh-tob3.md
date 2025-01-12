@@ -13,6 +13,7 @@ aliases: ["the-flesh", "The Flesh-tob3"]
 *Source: Tome of Beasts 3 Page 367*
 
 ```statblock
+"dice": false
 "name": "The Flesh Tob3"
 "size": "Medium"
 "type": "Aberration"

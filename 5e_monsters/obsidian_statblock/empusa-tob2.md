@@ -13,6 +13,7 @@ aliases: ["empusa", "Empusa-tob2"]
 *Source: Tome of Beasts 2 Page 136*
 
 ```statblock
+"dice": false
 "name": "Empusa Tob2"
 "size": "Medium"
 "type": "Monstrosity"

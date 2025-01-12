@@ -13,6 +13,7 @@ aliases: ["archon-word", "Archon, Word-tob3"]
 *Source: Tome of Beasts 3 Page 44*
 
 ```statblock
+"dice": false
 "name": "Archon, Word Tob3"
 "size": "Tiny"
 "type": "Celestial"

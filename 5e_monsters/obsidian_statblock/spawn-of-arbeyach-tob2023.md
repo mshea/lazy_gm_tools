@@ -13,6 +13,7 @@ aliases: ["spawnofarbeyach-tob1-2023", "Spawn of Arbeyach-tob2023"]
 *Source: Tome of Beasts 2023 Page 356*
 
 ```statblock
+"dice": false
 "name": "Spawn Of Arbeyach Tob2023"
 "size": "Medium"
 "type": "Fiend"

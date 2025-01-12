@@ -13,6 +13,7 @@ aliases: ["gibbering-mouther-a5e", "Gibbering Mouther-a5emm"]
 *Source: A5e Monstrous Menagerie Page 245*
 
 ```statblock
+"dice": false
 "name": "Gibbering Mouther A5Emm"
 "size": "Medium"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["bone-golem", "Bone Golem-cc"]
 *Source: Creature Codex Page 201*
 
 ```statblock
+"dice": false
 "name": "Bone Golem Cc"
 "size": "Medium"
 "type": "Construct"

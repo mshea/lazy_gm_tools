@@ -13,6 +13,7 @@ aliases: ["darakhul-shadowmancer", "Darakhul Shadowmancer-cc"]
 *Source: Creature Codex Page 173*
 
 ```statblock
+"dice": false
 "name": "Darakhul Shadowmancer Cc"
 "size": "Medium"
 "type": "Undead"

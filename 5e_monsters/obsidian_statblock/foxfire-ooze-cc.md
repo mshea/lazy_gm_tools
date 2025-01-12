@@ -13,6 +13,7 @@ aliases: ["foxfire-ooze", "Foxfire Ooze-cc"]
 *Source: Creature Codex Page 283*
 
 ```statblock
+"dice": false
 "name": "Foxfire Ooze Cc"
 "size": "Large"
 "type": "Ooze"

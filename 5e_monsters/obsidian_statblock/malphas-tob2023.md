@@ -13,6 +13,7 @@ aliases: ["malphas-tob1-2023", "Malphas-tob2023"]
 *Source: Tome of Beasts 2023 Page 262*
 
 ```statblock
+"dice": false
 "name": "Malphas Tob2023"
 "size": "Medium"
 "type": "Fey"

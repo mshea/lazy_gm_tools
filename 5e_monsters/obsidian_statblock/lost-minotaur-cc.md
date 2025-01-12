@@ -13,6 +13,7 @@ aliases: ["lost-minotaur", "Lost Minotaur-cc"]
 *Source: Creature Codex Page 169*
 
 ```statblock
+"dice": false
 "name": "Lost Minotaur Cc"
 "size": "Large"
 "type": "Undead"

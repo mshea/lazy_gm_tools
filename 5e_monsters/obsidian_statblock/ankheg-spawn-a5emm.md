@@ -13,6 +13,7 @@ aliases: ["ankheg-spawn-a5e", "Ankheg Spawn-a5emm"]
 *Source: A5e Monstrous Menagerie Page 26*
 
 ```statblock
+"dice": false
 "name": "Ankheg Spawn A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

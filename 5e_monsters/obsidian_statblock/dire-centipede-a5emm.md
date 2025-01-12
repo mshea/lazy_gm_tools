@@ -13,6 +13,7 @@ aliases: ["dire-centipede-a5e", "Dire Centipede-a5emm"]
 *Source: A5e Monstrous Menagerie Page 443*
 
 ```statblock
+"dice": false
 "name": "Dire Centipede A5Emm"
 "size": "Large"
 "type": "Beast"

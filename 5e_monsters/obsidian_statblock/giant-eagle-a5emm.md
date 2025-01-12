@@ -13,6 +13,7 @@ aliases: ["giant-eagle-a5e", "Giant Eagle-a5emm"]
 *Source: A5e Monstrous Menagerie Page 446*
 
 ```statblock
+"dice": false
 "name": "Giant Eagle A5Emm"
 "size": "Large"
 "type": "Beast"

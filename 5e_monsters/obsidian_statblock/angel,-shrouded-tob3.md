@@ -13,6 +13,7 @@ aliases: ["angel-shrouded", "Angel, Shrouded-tob3"]
 *Source: Tome of Beasts 3 Page 29*
 
 ```statblock
+"dice": false
 "name": "Angel, Shrouded Tob3"
 "size": "Medium"
 "type": "Celestial"

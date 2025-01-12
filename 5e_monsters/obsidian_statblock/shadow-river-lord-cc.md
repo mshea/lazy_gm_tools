@@ -13,6 +13,7 @@ aliases: ["shadow-river-lord", "Shadow River Lord-cc"]
 *Source: Creature Codex Page 327*
 
 ```statblock
+"dice": false
 "name": "Shadow River Lord Cc"
 "size": "Medium"
 "type": "Undead"

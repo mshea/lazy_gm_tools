@@ -13,6 +13,7 @@ aliases: ["divi-a5e", "Divi-a5emm"]
 *Source: A5e Monstrous Menagerie Page 217*
 
 ```statblock
+"dice": false
 "name": "Divi A5Emm"
 "size": "Large"
 "type": "Elemental"

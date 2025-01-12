@@ -13,6 +13,7 @@ aliases: ["wickerman", "Wickerman-cc"]
 *Source: Creature Codex Page 380*
 
 ```statblock
+"dice": false
 "name": "Wickerman Cc"
 "size": "Huge"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["a-mi-kuk", "A-mi-kuk-tob2"]
 *Source: Tome of Beasts 2 Page 15*
 
 ```statblock
+"dice": false
 "name": "A Mi Kuk Tob2"
 "size": "Huge"
 "type": "Aberration"

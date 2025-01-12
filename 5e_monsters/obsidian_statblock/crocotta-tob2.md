@@ -13,6 +13,7 @@ aliases: ["crocotta", "Crocotta-tob2"]
 *Source: Tome of Beasts 2 Page 75*
 
 ```statblock
+"dice": false
 "name": "Crocotta Tob2"
 "size": "Medium"
 "type": "Monstrosity"

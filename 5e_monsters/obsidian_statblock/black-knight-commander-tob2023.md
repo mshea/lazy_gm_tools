@@ -13,6 +13,7 @@ aliases: ["blackknightcommander-tob1-2023", "Black Knight Commander-tob2023"]
 *Source: Tome of Beasts 2023 Page 406*
 
 ```statblock
+"dice": false
 "name": "Black Knight Commander Tob2023"
 "size": "Medium"
 "type": "Humanoid"

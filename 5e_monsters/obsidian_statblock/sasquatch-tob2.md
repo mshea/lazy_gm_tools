@@ -13,6 +13,7 @@ aliases: ["sasquatch", "Sasquatch-tob2"]
 *Source: Tome of Beasts 2 Page 58*
 
 ```statblock
+"dice": false
 "name": "Sasquatch Tob2"
 "size": "Large"
 "type": "Beast"

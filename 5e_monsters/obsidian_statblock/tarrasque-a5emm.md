@@ -13,6 +13,7 @@ aliases: ["tarrasque-a5e", "Tarrasque-a5emm"]
 *Source: A5e Monstrous Menagerie Page 401*
 
 ```statblock
+"dice": false
 "name": "Tarrasque A5Emm"
 "size": "Titanic"
 "type": "Monstrosity"

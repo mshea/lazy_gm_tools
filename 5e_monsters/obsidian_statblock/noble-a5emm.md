@@ -13,6 +13,7 @@ aliases: ["noble-a5e", "Noble-a5emm"]
 *Source: A5e Monstrous Menagerie Page 485*
 
 ```statblock
+"dice": false
 "name": "Noble A5Emm"
 "size": "Medium"
 "type": "Humanoid"

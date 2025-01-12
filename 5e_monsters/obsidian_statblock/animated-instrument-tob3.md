@@ -13,6 +13,7 @@ aliases: ["animated-instrument", "Animated Instrument-tob3"]
 *Source: Tome of Beasts 3 Page 34*
 
 ```statblock
+"dice": false
 "name": "Animated Instrument Tob3"
 "size": "Tiny"
 "type": "Construct"

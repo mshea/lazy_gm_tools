@@ -13,6 +13,7 @@ aliases: ["preta", "Preta-cc"]
 *Source: Creature Codex Page 411*
 
 ```statblock
+"dice": false
 "name": "Preta Cc"
 "size": "Medium"
 "type": "Undead"

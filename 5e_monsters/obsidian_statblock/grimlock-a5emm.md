@@ -13,6 +13,7 @@ aliases: ["grimlock-a5e", "Grimlock-a5emm"]
 *Source: A5e Monstrous Menagerie Page 258*
 
 ```statblock
+"dice": false
 "name": "Grimlock A5Emm"
 "size": "Medium"
 "type": "Humanoid"

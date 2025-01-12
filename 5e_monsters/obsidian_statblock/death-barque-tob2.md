@@ -13,6 +13,7 @@ aliases: ["death-barque", "Death Barque-tob2"]
 *Source: Tome of Beasts 2 Page 268*
 
 ```statblock
+"dice": false
 "name": "Death Barque Tob2"
 "size": "Gargantuan"
 "type": "Undead"

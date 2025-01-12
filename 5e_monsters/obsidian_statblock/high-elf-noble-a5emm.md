@@ -13,6 +13,7 @@ aliases: ["high-elf-noble-a5e", "High Elf Noble-a5emm"]
 *Source: A5e Monstrous Menagerie Page 485*
 
 ```statblock
+"dice": false
 "name": "High Elf Noble A5Emm"
 "size": "Medium"
 "type": "Humanoid"

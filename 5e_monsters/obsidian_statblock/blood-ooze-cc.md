@@ -13,6 +13,7 @@ aliases: ["blood-ooze", "Blood Ooze-cc"]
 *Source: Creature Codex Page 282*
 
 ```statblock
+"dice": false
 "name": "Blood Ooze Cc"
 "size": "Large"
 "type": "Ooze"

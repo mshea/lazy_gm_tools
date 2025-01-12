@@ -13,6 +13,7 @@ aliases: ["steam-mephit-a5e", "Steam Mephit-a5emm"]
 *Source: A5e Monstrous Menagerie Page 327*
 
 ```statblock
+"dice": false
 "name": "Steam Mephit A5Emm"
 "size": "Small"
 "type": "Elemental"

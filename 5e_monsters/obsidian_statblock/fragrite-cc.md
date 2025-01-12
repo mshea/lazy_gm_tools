@@ -13,6 +13,7 @@ aliases: ["fragrite", "Fragrite-cc"]
 *Source: Creature Codex Page 164*
 
 ```statblock
+"dice": false
 "name": "Fragrite Cc"
 "size": "Medium"
 "type": "Elemental"

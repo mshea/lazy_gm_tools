@@ -13,6 +13,7 @@ aliases: ["scorpion-a5e", "Scorpion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 459*
 
 ```statblock
+"dice": false
 "name": "Scorpion A5Emm"
 "size": "Tiny"
 "type": "Beast"

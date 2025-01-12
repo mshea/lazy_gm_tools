@@ -13,6 +13,7 @@ aliases: ["ghast-a5e", "Ghast-a5emm"]
 *Source: A5e Monstrous Menagerie Page 230*
 
 ```statblock
+"dice": false
 "name": "Ghast A5Emm"
 "size": "Medium"
 "type": "Undead"

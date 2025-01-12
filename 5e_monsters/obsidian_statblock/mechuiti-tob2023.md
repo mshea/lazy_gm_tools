@@ -13,6 +13,7 @@ aliases: ["mechuiti-tob1-2023", "Mechuiti-tob2023"]
 *Source: Tome of Beasts 2023 Page 78*
 
 ```statblock
+"dice": false
 "name": "Mechuiti Tob2023"
 "size": "Gargantuan"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["lizard-a5e", "Lizard-a5emm"]
 *Source: A5e Monstrous Menagerie Page 454*
 
 ```statblock
+"dice": false
 "name": "Lizard A5Emm"
 "size": "Tiny"
 "type": "Beast"

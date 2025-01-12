@@ -13,6 +13,7 @@ aliases: ["vinetrollskeleton-tob1-2023", "Vine Troll Skeleton-tob2023"]
 *Source: Tome of Beasts 2023 Page 330*
 
 ```statblock
+"dice": false
 "name": "Vine Troll Skeleton Tob2023"
 "size": "Large"
 "type": "Undead"

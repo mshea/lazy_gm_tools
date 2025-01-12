@@ -13,6 +13,7 @@ aliases: ["arcane-scavenger", "Arcane Scavenger-tob3"]
 *Source: Tome of Beasts 3 Page 41*
 
 ```statblock
+"dice": false
 "name": "Arcane Scavenger Tob3"
 "size": "Large"
 "type": "Construct"

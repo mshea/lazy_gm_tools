@@ -13,6 +13,7 @@ aliases: ["ichor-ooze", "Ichor Ooze-tob2"]
 *Source: Tome of Beasts 2 Page 279*
 
 ```statblock
+"dice": false
 "name": "Ichor Ooze Tob2"
 "size": "Medium"
 "type": "Ooze"

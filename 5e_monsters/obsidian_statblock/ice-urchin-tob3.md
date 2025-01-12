@@ -13,6 +13,7 @@ aliases: ["ice-urchin", "Ice Urchin-tob3"]
 *Source: Tome of Beasts 3 Page 239*
 
 ```statblock
+"dice": false
 "name": "Ice Urchin Tob3"
 "size": "Large"
 "type": "Monstrosity"

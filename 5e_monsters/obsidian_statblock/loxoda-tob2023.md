@@ -13,6 +13,7 @@ aliases: ["loxoda-tob1-2023", "Loxoda-tob2023"]
 *Source: Tome of Beasts 2023 Page 259*
 
 ```statblock
+"dice": false
 "name": "Loxoda Tob2023"
 "size": "Huge"
 "type": "Monstrosity"

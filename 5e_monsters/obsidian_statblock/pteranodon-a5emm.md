@@ -13,6 +13,7 @@ aliases: ["pteranodon-a5e", "Pteranodon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 90*
 
 ```statblock
+"dice": false
 "name": "Pteranodon A5Emm"
 "size": "Large"
 "type": "Beast"

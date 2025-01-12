@@ -13,6 +13,7 @@ aliases: ["moon-weaver", "Moon Weaver-tob3"]
 *Source: Tome of Beasts 3 Page 274*
 
 ```statblock
+"dice": false
 "name": "Moon Weaver Tob3"
 "size": "Small"
 "type": "Beast"

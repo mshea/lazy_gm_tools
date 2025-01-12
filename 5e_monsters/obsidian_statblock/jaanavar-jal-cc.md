@@ -13,6 +13,7 @@ aliases: ["jaanavar-jal", "Jaanavar Jal-cc"]
 *Source: Creature Codex Page 229*
 
 ```statblock
+"dice": false
 "name": "Jaanavar Jal Cc"
 "size": "Huge"
 "type": "Monstrosity"

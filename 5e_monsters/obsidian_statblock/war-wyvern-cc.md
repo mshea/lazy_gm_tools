@@ -13,6 +13,7 @@ aliases: ["war-wyvern", "War Wyvern-cc"]
 *Source: Creature Codex Page 386*
 
 ```statblock
+"dice": false
 "name": "War Wyvern Cc"
 "size": "Large"
 "type": "Dragon"

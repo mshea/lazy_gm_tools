@@ -13,6 +13,7 @@ aliases: ["thread-bound-constrictor-snake", "Thread-Bound Constrictor Snake-cc"]
 *Source: Creature Codex Page 353*
 
 ```statblock
+"dice": false
 "name": "Thread Bound Constrictor Snake Cc"
 "size": "Huge"
 "type": "Construct"

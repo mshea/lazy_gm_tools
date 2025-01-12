@@ -13,6 +13,7 @@ aliases: ["crypt-spider", "Crypt Spider-cc"]
 *Source: Creature Codex Page 133*
 
 ```statblock
+"dice": false
 "name": "Crypt Spider Cc"
 "size": "Medium"
 "type": "Beast"

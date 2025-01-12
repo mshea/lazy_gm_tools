@@ -13,6 +13,7 @@ aliases: ["diplodocus-a5e", "Diplodocus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 90*
 
 ```statblock
+"dice": false
 "name": "Diplodocus A5Emm"
 "size": "Gargantuan"
 "type": "Beast"

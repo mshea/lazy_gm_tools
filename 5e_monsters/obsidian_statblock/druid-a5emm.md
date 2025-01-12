@@ -13,6 +13,7 @@ aliases: ["druid-a5e", "Druid-a5emm"]
 *Source: A5e Monstrous Menagerie Page 473*
 
 ```statblock
+"dice": false
 "name": "Druid A5Emm"
 "size": "Medium"
 "type": "Humanoid"

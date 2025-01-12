@@ -13,6 +13,7 @@ aliases: ["yek", "Yek-cc"]
 *Source: Creature Codex Page 0*
 
 ```statblock
+"dice": false
 "name": "Yek Cc"
 "size": "Small"
 "type": "Fiend"

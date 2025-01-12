@@ -13,6 +13,7 @@ aliases: ["wereowl", "Wereowl-tob2"]
 *Source: Tome of Beasts 2 Page 194*
 
 ```statblock
+"dice": false
 "name": "Wereowl Tob2"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["bearmit-crab", "Bearmit Crab-cc"]
 *Source: Creature Codex Page 52*
 
 ```statblock
+"dice": false
 "name": "Bearmit Crab Cc"
 "size": "Large"
 "type": "Monstrosity"

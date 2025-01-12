@@ -13,6 +13,7 @@ aliases: ["living-shade", "Living Shade-cc"]
 *Source: Creature Codex Page 255*
 
 ```statblock
+"dice": false
 "name": "Living Shade Cc"
 "size": "Medium"
 "type": "Fey"

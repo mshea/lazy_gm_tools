@@ -13,6 +13,7 @@ aliases: ["vampire-spawn-a5e", "Vampire Spawn-a5emm"]
 *Source: A5e Monstrous Menagerie Page 421*
 
 ```statblock
+"dice": false
 "name": "Vampire Spawn A5Emm"
 "size": "Medium"
 "type": "Undead"

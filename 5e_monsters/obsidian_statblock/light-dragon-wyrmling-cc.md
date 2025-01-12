@@ -13,6 +13,7 @@ aliases: ["light-dragon-wyrmling", "Light Dragon Wyrmling-cc"]
 *Source: Creature Codex Page 113*
 
 ```statblock
+"dice": false
 "name": "Light Dragon Wyrmling Cc"
 "size": "Medium"
 "type": "Dragon"

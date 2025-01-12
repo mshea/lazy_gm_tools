@@ -13,6 +13,7 @@ aliases: ["alseid-tob1-2023", "Alseid-tob2023"]
 *Source: Tome of Beasts 2023 Page 15*
 
 ```statblock
+"dice": false
 "name": "Alseid Tob2023"
 "size": "Medium"
 "type": "Monstrosity"

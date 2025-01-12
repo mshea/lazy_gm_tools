@@ -13,6 +13,7 @@ aliases: ["ancientwinddragon-tob1-2023", "Ancient Wind Dragon-tob2023"]
 *Source: Tome of Beasts 2023 Page 133*
 
 ```statblock
+"dice": false
 "name": "Ancient Wind Dragon Tob2023"
 "size": "Gargantuan"
 "type": "Dragon"

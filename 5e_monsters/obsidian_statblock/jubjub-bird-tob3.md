@@ -13,6 +13,7 @@ aliases: ["jubjub-bird", "Jubjub Bird-tob3"]
 *Source: Tome of Beasts 3 Page 247*
 
 ```statblock
+"dice": false
 "name": "Jubjub Bird Tob3"
 "size": "Large"
 "type": "Beast"

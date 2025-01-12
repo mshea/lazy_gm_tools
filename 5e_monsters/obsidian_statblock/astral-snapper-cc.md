@@ -13,6 +13,7 @@ aliases: ["astral-snapper", "Astral Snapper-cc"]
 *Source: Creature Codex Page 43*
 
 ```statblock
+"dice": false
 "name": "Astral Snapper Cc"
 "size": "Medium"
 "type": "Aberration"

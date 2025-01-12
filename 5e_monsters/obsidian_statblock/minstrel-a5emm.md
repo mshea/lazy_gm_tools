@@ -13,6 +13,7 @@ aliases: ["minstrel-a5e", "Minstrel-a5emm"]
 *Source: A5e Monstrous Menagerie Page 484*
 
 ```statblock
+"dice": false
 "name": "Minstrel A5Emm"
 "size": "Medium"
 "type": "Humanoid"

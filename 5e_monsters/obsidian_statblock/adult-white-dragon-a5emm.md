@@ -13,6 +13,7 @@ aliases: ["adult-white-dragon-a5e", "Adult White Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 122*
 
 ```statblock
+"dice": false
 "name": "Adult White Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

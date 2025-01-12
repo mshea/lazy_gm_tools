@@ -13,6 +13,7 @@ aliases: ["minor-malleable", "Minor Malleable-tob2"]
 *Source: Tome of Beasts 2 Page 254*
 
 ```statblock
+"dice": false
 "name": "Minor Malleable Tob2"
 "size": "Medium"
 "type": "Aberration"

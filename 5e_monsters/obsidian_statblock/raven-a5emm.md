@@ -13,6 +13,7 @@ aliases: ["raven-a5e", "Raven-a5emm"]
 *Source: A5e Monstrous Menagerie Page 457*
 
 ```statblock
+"dice": false
 "name": "Raven A5Emm"
 "size": "Tiny"
 "type": "Beast"

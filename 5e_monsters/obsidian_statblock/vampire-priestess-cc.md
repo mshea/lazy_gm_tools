@@ -13,6 +13,7 @@ aliases: ["vampire-priestess", "Vampire Priestess-cc"]
 *Source: Creature Codex Page 367*
 
 ```statblock
+"dice": false
 "name": "Vampire Priestess Cc"
 "size": "Medium"
 "type": "Undead"

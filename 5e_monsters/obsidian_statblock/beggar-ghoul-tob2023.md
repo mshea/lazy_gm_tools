@@ -13,6 +13,7 @@ aliases: ["beggarghoul-tob1-2023", "Beggar Ghoul-tob2023"]
 *Source: Tome of Beasts 2023 Page 200*
 
 ```statblock
+"dice": false
 "name": "Beggar Ghoul Tob2023"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["darakhul-high-priestess", "Darakhul High Priestess-cc"]
 *Source: Creature Codex Page 172*
 
 ```statblock
+"dice": false
 "name": "Darakhul High Priestess Cc"
 "size": "Medium"
 "type": "Undead"

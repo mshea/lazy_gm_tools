@@ -13,6 +13,7 @@ aliases: ["giant-leech", "Giant Leech-tob2"]
 *Source: Tome of Beasts 2 Page 393*
 
 ```statblock
+"dice": false
 "name": "Giant Leech Tob2"
 "size": "Small"
 "type": "Beast"

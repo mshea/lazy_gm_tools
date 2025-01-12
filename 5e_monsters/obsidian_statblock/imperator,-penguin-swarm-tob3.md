@@ -13,6 +13,7 @@ aliases: ["imperator-penguin-swarm", "Imperator, Penguin Swarm-tob3"]
 *Source: Tome of Beasts 3 Page 242*
 
 ```statblock
+"dice": false
 "name": "Imperator, Penguin Swarm Tob3"
 "size": "Huge"
 "type": "Beast"

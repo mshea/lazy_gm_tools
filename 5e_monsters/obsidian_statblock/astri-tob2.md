@@ -13,6 +13,7 @@ aliases: ["astri", "Astri-tob2"]
 *Source: Tome of Beasts 2 Page 31*
 
 ```statblock
+"dice": false
 "name": "Astri Tob2"
 "size": "Small"
 "type": "Celestial"

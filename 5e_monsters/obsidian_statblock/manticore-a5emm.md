@@ -13,6 +13,7 @@ aliases: ["manticore-a5e", "Manticore-a5emm"]
 *Source: A5e Monstrous Menagerie Page 320*
 
 ```statblock
+"dice": false
 "name": "Manticore A5Emm"
 "size": "Large"
 "type": "Monstrosity"

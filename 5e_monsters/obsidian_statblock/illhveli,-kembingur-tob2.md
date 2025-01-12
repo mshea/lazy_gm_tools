@@ -13,6 +13,7 @@ aliases: ["illhveli-kembingur", "Illhveli, Kembingur-tob2"]
 *Source: Tome of Beasts 2 Page 211*
 
 ```statblock
+"dice": false
 "name": "Illhveli, Kembingur Tob2"
 "size": "Gargantuan"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["three-headed-cobra", "Three-Headed Cobra-cc"]
 *Source: Creature Codex Page 354*
 
 ```statblock
+"dice": false
 "name": "Three Headed Cobra Cc"
 "size": "Large"
 "type": "Monstrosity"

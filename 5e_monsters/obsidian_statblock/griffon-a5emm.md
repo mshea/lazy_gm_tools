@@ -13,6 +13,7 @@ aliases: ["griffon-a5e", "Griffon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 256*
 
 ```statblock
+"dice": false
 "name": "Griffon A5Emm"
 "size": "Large"
 "type": "Monstrosity"

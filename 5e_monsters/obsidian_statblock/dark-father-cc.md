@@ -13,6 +13,7 @@ aliases: ["dark-father", "Dark Father-cc"]
 *Source: Creature Codex Page 71*
 
 ```statblock
+"dice": false
 "name": "Dark Father Cc"
 "size": "Large"
 "type": "Undead"

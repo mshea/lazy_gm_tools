@@ -13,6 +13,7 @@ aliases: ["king-fomor-a5e", "King Fomor-a5emm"]
 *Source: A5e Monstrous Menagerie Page 406*
 
 ```statblock
+"dice": false
 "name": "King Fomor A5Emm"
 "size": "Gargantuan"
 "type": "Celestial"

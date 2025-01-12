@@ -13,6 +13,7 @@ aliases: ["paperdrake-tob1-2023", "Paper Drake-tob2023"]
 *Source: Tome of Beasts 2023 Page 144*
 
 ```statblock
+"dice": false
 "name": "Paper Drake Tob2023"
 "size": "Small"
 "type": "Dragon"

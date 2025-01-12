@@ -13,6 +13,7 @@ aliases: ["butatsch", "Butatsch-tob2"]
 *Source: Tome of Beasts 2 Page 54*
 
 ```statblock
+"dice": false
 "name": "Butatsch Tob2"
 "size": "Gargantuan"
 "type": "Aberration"

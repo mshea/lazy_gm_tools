@@ -13,6 +13,7 @@ aliases: ["vættir-tob1-2023", "Vættir-tob2023"]
 *Source: Tome of Beasts 2023 Page 378*
 
 ```statblock
+"dice": false
 "name": "Vættir Tob2023"
 "size": "Medium"
 "type": "Undead"

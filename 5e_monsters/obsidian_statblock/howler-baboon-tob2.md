@@ -13,6 +13,7 @@ aliases: ["howler-baboon", "Howler Baboon-tob2"]
 *Source: Tome of Beasts 2 Page 380*
 
 ```statblock
+"dice": false
 "name": "Howler Baboon Tob2"
 "size": "Medium"
 "type": "Beast"

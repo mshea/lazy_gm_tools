@@ -13,6 +13,7 @@ aliases: ["venom-elemental", "Venom Elemental-cc"]
 *Source: Creature Codex Page 138*
 
 ```statblock
+"dice": false
 "name": "Venom Elemental Cc"
 "size": "Large"
 "type": "Elemental"

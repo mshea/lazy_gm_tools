@@ -13,6 +13,7 @@ aliases: ["chain-devil-a5e", "Chain Devil-a5emm"]
 *Source: A5e Monstrous Menagerie Page 80*
 
 ```statblock
+"dice": false
 "name": "Chain Devil A5Emm"
 "size": "Medium"
 "type": "Fiend"

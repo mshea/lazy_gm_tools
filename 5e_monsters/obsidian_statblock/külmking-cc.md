@@ -13,6 +13,7 @@ aliases: ["kulmking", "Külmking-cc"]
 *Source: Creature Codex Page 244*
 
 ```statblock
+"dice": false
 "name": "Külmking Cc"
 "size": "Large"
 "type": "Undead"

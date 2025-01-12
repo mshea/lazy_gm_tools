@@ -13,6 +13,7 @@ aliases: ["tar-ghoul", "Tar Ghoul-cc"]
 *Source: Creature Codex Page 176*
 
 ```statblock
+"dice": false
 "name": "Tar Ghoul Cc"
 "size": "Medium"
 "type": "Undead"

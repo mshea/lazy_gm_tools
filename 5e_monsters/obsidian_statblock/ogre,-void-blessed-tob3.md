@@ -13,6 +13,7 @@ aliases: ["ogre-void-blessed", "Ogre, Void Blessed-tob3"]
 *Source: Tome of Beasts 3 Page 303*
 
 ```statblock
+"dice": false
 "name": "Ogre, Void Blessed Tob3"
 "size": "Large"
 "type": "Giant"

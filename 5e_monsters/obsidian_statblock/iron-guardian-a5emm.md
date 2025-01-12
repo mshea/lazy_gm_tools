@@ -13,6 +13,7 @@ aliases: ["iron-guardian-a5e", "Iron Guardian-a5emm"]
 *Source: A5e Monstrous Menagerie Page 263*
 
 ```statblock
+"dice": false
 "name": "Iron Guardian A5Emm"
 "size": "Large"
 "type": "Construct"

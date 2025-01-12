@@ -13,6 +13,7 @@ aliases: ["hoarfrost-drake", "Hoarfrost Drake-tob2"]
 *Source: Tome of Beasts 2 Page 123*
 
 ```statblock
+"dice": false
 "name": "Hoarfrost Drake Tob2"
 "size": "Medium"
 "type": "Dragon"

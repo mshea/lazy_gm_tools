@@ -13,6 +13,7 @@ aliases: ["dire-wildebeest", "Dire Wildebeest-tob3"]
 *Source: Tome of Beasts 3 Page 134*
 
 ```statblock
+"dice": false
 "name": "Dire Wildebeest Tob3"
 "size": "Large"
 "type": "Beast"

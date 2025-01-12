@@ -13,6 +13,7 @@ aliases: ["kobold-ghost-hunter", "Kobold, Ghost Hunter-tob3"]
 *Source: Tome of Beasts 3 Page 254*
 
 ```statblock
+"dice": false
 "name": "Kobold, Ghost Hunter Tob3"
 "size": "Small"
 "type": "Humanoid"

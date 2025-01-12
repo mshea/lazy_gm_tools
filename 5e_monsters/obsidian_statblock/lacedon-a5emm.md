@@ -13,6 +13,7 @@ aliases: ["lacedon-a5e", "Lacedon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 230*
 
 ```statblock
+"dice": false
 "name": "Lacedon A5Emm"
 "size": "Medium"
 "type": "Undead"

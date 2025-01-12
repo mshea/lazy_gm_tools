@@ -13,6 +13,7 @@ aliases: ["urushi-constrictor", "Urushi Constrictor-tob3"]
 *Source: Tome of Beasts 3 Page 382*
 
 ```statblock
+"dice": false
 "name": "Urushi Constrictor Tob3"
 "size": "Large"
 "type": "Monstrosity"

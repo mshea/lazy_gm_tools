@@ -13,6 +13,7 @@ aliases: ["mold-zombie", "Mold Zombie-cc"]
 *Source: Creature Codex Page 394*
 
 ```statblock
+"dice": false
 "name": "Mold Zombie Cc"
 "size": "Medium"
 "type": "Undead"

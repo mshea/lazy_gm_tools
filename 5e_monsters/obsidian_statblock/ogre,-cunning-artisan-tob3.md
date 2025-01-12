@@ -13,6 +13,7 @@ aliases: ["ogre-cunning-artisan", "Ogre, Cunning Artisan-tob3"]
 *Source: Tome of Beasts 3 Page 299*
 
 ```statblock
+"dice": false
 "name": "Ogre, Cunning Artisan Tob3"
 "size": "Large"
 "type": "Giant"

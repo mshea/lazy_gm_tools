@@ -13,6 +13,7 @@ aliases: ["armory-golem", "Armory Golem-cc"]
 *Source: Creature Codex Page 40*
 
 ```statblock
+"dice": false
 "name": "Armory Golem Cc"
 "size": "Large"
 "type": "Construct"

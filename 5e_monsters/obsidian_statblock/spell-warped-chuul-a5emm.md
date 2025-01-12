@@ -13,6 +13,7 @@ aliases: ["spell-warped-chuul-a5e", "Spell-warped Chuul-a5emm"]
 *Source: A5e Monstrous Menagerie Page 48*
 
 ```statblock
+"dice": false
 "name": "Spell Warped Chuul A5Emm"
 "size": "Large"
 "type": "Aberration"

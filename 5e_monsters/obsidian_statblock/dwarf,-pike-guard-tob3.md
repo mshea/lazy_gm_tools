@@ -13,6 +13,7 @@ aliases: ["dwarf-pike-guard", "Dwarf, Pike Guard-tob3"]
 *Source: Tome of Beasts 3 Page 166*
 
 ```statblock
+"dice": false
 "name": "Dwarf, Pike Guard Tob3"
 "size": "Medium"
 "type": "Humanoid"

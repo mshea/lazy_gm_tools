@@ -13,6 +13,7 @@ aliases: ["gaki", "Gaki-cc"]
 *Source: Creature Codex Page 390*
 
 ```statblock
+"dice": false
 "name": "Gaki Cc"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["necromancer-a5e", "Necromancer-a5emm"]
 *Source: A5e Monstrous Menagerie Page 483*
 
 ```statblock
+"dice": false
 "name": "Necromancer A5Emm"
 "size": "Medium"
 "type": "Humanoid"

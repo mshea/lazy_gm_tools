@@ -13,6 +13,7 @@ aliases: ["giant-shark-a5e", "Giant Shark-a5emm"]
 *Source: A5e Monstrous Menagerie Page 449*
 
 ```statblock
+"dice": false
 "name": "Giant Shark A5Emm"
 "size": "Huge"
 "type": "Beast"

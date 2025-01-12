@@ -13,6 +13,7 @@ aliases: ["harvest-horse", "Harvest Horse-tob3"]
 *Source: Tome of Beasts 3 Page 230*
 
 ```statblock
+"dice": false
 "name": "Harvest Horse Tob3"
 "size": "Large"
 "type": "Construct"

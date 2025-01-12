@@ -13,6 +13,7 @@ aliases: ["frost-giant-a5e", "Frost Giant-a5emm"]
 *Source: A5e Monstrous Menagerie Page 236*
 
 ```statblock
+"dice": false
 "name": "Frost Giant A5Emm"
 "size": "Huge"
 "type": "Giant"

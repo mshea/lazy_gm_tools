@@ -13,6 +13,7 @@ aliases: ["faerie-eater-troll-a5e", "Faerie Eater Troll-a5emm"]
 *Source: A5e Monstrous Menagerie Page 413*
 
 ```statblock
+"dice": false
 "name": "Faerie Eater Troll A5Emm"
 "size": "Large"
 "type": "Giant"

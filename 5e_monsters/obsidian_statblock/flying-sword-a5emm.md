@@ -13,6 +13,7 @@ aliases: ["flying-sword-a5e", "Flying Sword-a5emm"]
 *Source: A5e Monstrous Menagerie Page 23*
 
 ```statblock
+"dice": false
 "name": "Flying Sword A5Emm"
 "size": "Small"
 "type": "Construct"

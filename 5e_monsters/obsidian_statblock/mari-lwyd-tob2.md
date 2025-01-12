@@ -13,6 +13,7 @@ aliases: ["mari-lwyd", "Mari Lwyd-tob2"]
 *Source: Tome of Beasts 2 Page 257*
 
 ```statblock
+"dice": false
 "name": "Mari Lwyd Tob2"
 "size": "Large"
 "type": "Undead"

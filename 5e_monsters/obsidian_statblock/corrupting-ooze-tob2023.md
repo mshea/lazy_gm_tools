@@ -13,6 +13,7 @@ aliases: ["corruptingooze-tob1-2023", "Corrupting Ooze-tob2023"]
 *Source: Tome of Beasts 2023 Page 291*
 
 ```statblock
+"dice": false
 "name": "Corrupting Ooze Tob2023"
 "size": "Large"
 "type": "Ooze"

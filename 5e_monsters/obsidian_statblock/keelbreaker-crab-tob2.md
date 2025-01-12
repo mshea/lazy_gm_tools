@@ -13,6 +13,7 @@ aliases: ["keelbreaker-crab", "Keelbreaker Crab-tob2"]
 *Source: Tome of Beasts 2 Page 226*
 
 ```statblock
+"dice": false
 "name": "Keelbreaker Crab Tob2"
 "size": "Huge"
 "type": "Monstrosity"

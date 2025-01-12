@@ -13,6 +13,7 @@ aliases: ["skeinwitch-tob1-2023", "Skein Witch-tob2023"]
 *Source: Tome of Beasts 2023 Page 328*
 
 ```statblock
+"dice": false
 "name": "Skein Witch Tob2023"
 "size": "Medium"
 "type": "Celestial"

@@ -13,6 +13,7 @@ aliases: ["alpha-yek", "Alpha Yek-cc"]
 *Source: Creature Codex Page 14*
 
 ```statblock
+"dice": false
 "name": "Alpha Yek Cc"
 "size": "Medium"
 "type": "Fiend"

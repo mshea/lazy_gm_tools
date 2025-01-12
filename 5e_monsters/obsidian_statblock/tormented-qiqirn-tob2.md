@@ -13,6 +13,7 @@ aliases: ["tormented-qiqirn", "Tormented Qiqirn-tob2"]
 *Source: Tome of Beasts 2 Page 301*
 
 ```statblock
+"dice": false
 "name": "Tormented Qiqirn Tob2"
 "size": "Large"
 "type": "Fiend"

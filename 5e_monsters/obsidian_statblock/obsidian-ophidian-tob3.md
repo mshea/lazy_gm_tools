@@ -13,6 +13,7 @@ aliases: ["obsidian-ophidian", "Obsidian Ophidian-tob3"]
 *Source: Tome of Beasts 3 Page 295*
 
 ```statblock
+"dice": false
 "name": "Obsidian Ophidian Tob3"
 "size": "Huge"
 "type": "Elemental"

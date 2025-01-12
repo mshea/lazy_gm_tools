@@ -13,6 +13,7 @@ aliases: ["edimmu-tob1-2023", "Edimmu-tob2023"]
 *Source: Tome of Beasts 2023 Page 154*
 
 ```statblock
+"dice": false
 "name": "Edimmu Tob2023"
 "size": "Medium"
 "type": "Undead"

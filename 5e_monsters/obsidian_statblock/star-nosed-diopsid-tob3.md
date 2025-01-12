@@ -13,6 +13,7 @@ aliases: ["star-nosed-diopsid", "Star-Nosed Diopsid-tob3"]
 *Source: Tome of Beasts 3 Page 355*
 
 ```statblock
+"dice": false
 "name": "Star Nosed Diopsid Tob3"
 "size": "Large"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["brimstone-locusthound", "Brimstone Locusthound-tob2"]
 *Source: Tome of Beasts 2 Page 51*
 
 ```statblock
+"dice": false
 "name": "Brimstone Locusthound Tob2"
 "size": "Medium"
 "type": "Monstrosity"

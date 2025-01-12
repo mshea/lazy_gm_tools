@@ -13,6 +13,7 @@ aliases: ["giant-albino-bat", "Giant Albino Bat-cc"]
 *Source: Creature Codex Page 50*
 
 ```statblock
+"dice": false
 "name": "Giant Albino Bat Cc"
 "size": "Huge"
 "type": "Monstrosity"

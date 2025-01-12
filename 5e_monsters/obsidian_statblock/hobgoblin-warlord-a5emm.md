@@ -13,6 +13,7 @@ aliases: ["hobgoblin-warlord-a5e", "Hobgoblin Warlord-a5emm"]
 *Source: A5e Monstrous Menagerie Page 282*
 
 ```statblock
+"dice": false
 "name": "Hobgoblin Warlord A5Emm"
 "size": "Medium"
 "type": "Humanoid"

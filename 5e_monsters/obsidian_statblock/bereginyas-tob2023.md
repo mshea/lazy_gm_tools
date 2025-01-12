@@ -13,6 +13,7 @@ aliases: ["bereginyas-tob1-2023", "Bereginyas-tob2023"]
 *Source: Tome of Beasts 2023 Page 36*
 
 ```statblock
+"dice": false
 "name": "Bereginyas Tob2023"
 "size": "Tiny"
 "type": "Fey"

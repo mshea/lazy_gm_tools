@@ -13,6 +13,7 @@ aliases: ["ratfolkrogue-tob1-2023", "Ratfolk Rogue-tob2023"]
 *Source: Tome of Beasts 2023 Page 302*
 
 ```statblock
+"dice": false
 "name": "Ratfolk Rogue Tob2023"
 "size": "Small"
 "type": "Humanoid"

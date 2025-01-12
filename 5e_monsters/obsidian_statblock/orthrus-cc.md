@@ -13,6 +13,7 @@ aliases: ["orthrus", "Orthrus-cc"]
 *Source: Creature Codex Page 292*
 
 ```statblock
+"dice": false
 "name": "Orthrus Cc"
 "size": "Medium"
 "type": "Monstrosity"

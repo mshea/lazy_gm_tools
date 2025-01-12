@@ -13,6 +13,7 @@ aliases: ["dwarf-angler", "Dwarf, Angler-tob3"]
 *Source: Tome of Beasts 3 Page 164*
 
 ```statblock
+"dice": false
 "name": "Dwarf, Angler Tob3"
 "size": "Medium"
 "type": "Humanoid"

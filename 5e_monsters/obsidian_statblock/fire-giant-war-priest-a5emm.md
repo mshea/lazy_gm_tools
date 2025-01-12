@@ -13,6 +13,7 @@ aliases: ["fire-giant-war-priest-a5e", "Fire Giant War Priest-a5emm"]
 *Source: A5e Monstrous Menagerie Page 235*
 
 ```statblock
+"dice": false
 "name": "Fire Giant War Priest A5Emm"
 "size": "Huge"
 "type": "Giant"

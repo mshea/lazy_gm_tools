@@ -13,6 +13,7 @@ aliases: ["xecha", "Xecha-tob3"]
 *Source: Tome of Beasts 3 Page 397*
 
 ```statblock
+"dice": false
 "name": "Xecha Tob3"
 "size": "Medium"
 "type": "Fiend"

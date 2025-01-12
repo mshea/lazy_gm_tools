@@ -13,6 +13,7 @@ aliases: ["shadowantipaladin-tob1-2023", "Shadow Antipaladin-tob2023"]
 *Source: Tome of Beasts 2023 Page 89*
 
 ```statblock
+"dice": false
 "name": "Shadow Antipaladin Tob2023"
 "size": "Small"
 "type": "Humanoid"

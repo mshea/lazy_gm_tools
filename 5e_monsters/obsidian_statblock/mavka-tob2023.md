@@ -13,6 +13,7 @@ aliases: ["mavka-tob1-2023", "Mavka-tob2023"]
 *Source: Tome of Beasts 2023 Page 265*
 
 ```statblock
+"dice": false
 "name": "Mavka Tob2023"
 "size": "Medium"
 "type": "Undead"

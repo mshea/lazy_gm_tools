@@ -13,6 +13,7 @@ aliases: ["mummy-a5e", "Mummy-a5emm"]
 *Source: A5e Monstrous Menagerie Page 338*
 
 ```statblock
+"dice": false
 "name": "Mummy A5Emm"
 "size": "Medium"
 "type": "Undead"

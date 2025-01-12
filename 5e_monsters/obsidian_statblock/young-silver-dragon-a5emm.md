@@ -13,6 +13,7 @@ aliases: ["young-silver-dragon-a5e", "Young Silver Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 179*
 
 ```statblock
+"dice": false
 "name": "Young Silver Dragon A5Emm"
 "size": "Large"
 "type": "Dragon"

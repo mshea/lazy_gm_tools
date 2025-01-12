@@ -13,6 +13,7 @@ aliases: ["pyrrhic-podthrower", "Pyrrhic Podthrower-tob3"]
 *Source: Tome of Beasts 3 Page 324*
 
 ```statblock
+"dice": false
 "name": "Pyrrhic Podthrower Tob3"
 "size": "Small"
 "type": "Plant"

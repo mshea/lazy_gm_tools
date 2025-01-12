@@ -13,6 +13,7 @@ aliases: ["awakened-shrub-a5e", "Awakened Shrub-a5emm"]
 *Source: A5e Monstrous Menagerie Page 438*
 
 ```statblock
+"dice": false
 "name": "Awakened Shrub A5Emm"
 "size": "Small"
 "type": "Plant"

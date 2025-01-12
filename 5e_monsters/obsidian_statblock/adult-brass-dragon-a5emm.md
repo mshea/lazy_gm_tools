@@ -13,6 +13,7 @@ aliases: ["adult-brass-dragon-a5e", "Adult Brass Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 156*
 
 ```statblock
+"dice": false
 "name": "Adult Brass Dragon A5Emm"
 "size": "Huge"
 "type": "Dragon"

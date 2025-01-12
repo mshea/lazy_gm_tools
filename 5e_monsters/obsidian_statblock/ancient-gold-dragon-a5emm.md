@@ -13,6 +13,7 @@ aliases: ["ancient-gold-dragon-a5e", "Ancient Gold Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 170*
 
 ```statblock
+"dice": false
 "name": "Ancient Gold Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["clockworkwatchman-tob1-2023", "Clockwork Watchman-tob2023"]
 *Source: Tome of Beasts 2023 Page 64*
 
 ```statblock
+"dice": false
 "name": "Clockwork Watchman Tob2023"
 "size": "Medium"
 "type": "Construct"

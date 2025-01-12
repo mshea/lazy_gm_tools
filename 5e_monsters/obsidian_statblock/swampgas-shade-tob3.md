@@ -13,6 +13,7 @@ aliases: ["swampgas-shade", "Swampgas Shade-tob3"]
 *Source: Tome of Beasts 3 Page 359*
 
 ```statblock
+"dice": false
 "name": "Swampgas Shade Tob3"
 "size": "Medium"
 "type": "Undead"

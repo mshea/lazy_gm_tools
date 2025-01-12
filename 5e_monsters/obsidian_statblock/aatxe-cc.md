@@ -13,6 +13,7 @@ aliases: ["aatxe", "Aatxe-cc"]
 *Source: Creature Codex Page 7*
 
 ```statblock
+"dice": false
 "name": "Aatxe Cc"
 "size": "Large"
 "type": "Celestial"

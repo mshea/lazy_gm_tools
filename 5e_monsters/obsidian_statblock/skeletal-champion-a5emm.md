@@ -13,6 +13,7 @@ aliases: ["skeletal-champion-a5e", "Skeletal Champion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 393*
 
 ```statblock
+"dice": false
 "name": "Skeletal Champion A5Emm"
 "size": "Medium"
 "type": "Undead"

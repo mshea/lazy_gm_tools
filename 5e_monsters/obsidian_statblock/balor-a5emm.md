@@ -13,6 +13,7 @@ aliases: ["balor-a5e", "Balor-a5emm"]
 *Source: A5e Monstrous Menagerie Page 66*
 
 ```statblock
+"dice": false
 "name": "Balor A5Emm"
 "size": "Huge"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["illhveli-nauthveli", "Illhveli, Nauthveli-tob2"]
 *Source: Tome of Beasts 2 Page 212*
 
 ```statblock
+"dice": false
 "name": "Illhveli, Nauthveli Tob2"
 "size": "Gargantuan"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["devil-devilflame-juggler", "Devil, Devilflame Juggler-tob3"]
 *Source: Tome of Beasts 3 Page 119*
 
 ```statblock
+"dice": false
 "name": "Devil, Devilflame Juggler Tob3"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["fallen-solar-a5e", "Fallen Solar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 19*
 
 ```statblock
+"dice": false
 "name": "Fallen Solar A5Emm"
 "size": "Large"
 "type": "Celestial"

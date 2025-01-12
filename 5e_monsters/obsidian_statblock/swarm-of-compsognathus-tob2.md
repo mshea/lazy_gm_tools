@@ -13,6 +13,7 @@ aliases: ["swarm-of-compsognathus", "Swarm of Compsognathus-tob2"]
 *Source: Tome of Beasts 2 Page 108*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Compsognathus Tob2"
 "size": "Medium"
 "type": "Beast"

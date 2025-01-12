@@ -13,6 +13,7 @@ aliases: ["zouyu", "Zouyu-tob2"]
 *Source: Tome of Beasts 2 Page 386*
 
 ```statblock
+"dice": false
 "name": "Zouyu Tob2"
 "size": "Huge"
 "type": "Monstrosity"

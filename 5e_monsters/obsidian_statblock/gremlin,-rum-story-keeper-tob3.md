@@ -13,6 +13,7 @@ aliases: ["gremlin-rum-story-keeper", "Gremlin, Rum Story Keeper-tob3"]
 *Source: Tome of Beasts 3 Page 220*
 
 ```statblock
+"dice": false
 "name": "Gremlin, Rum Story Keeper Tob3"
 "size": "Tiny"
 "type": "Fey"

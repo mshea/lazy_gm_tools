@@ -13,6 +13,7 @@ aliases: ["suppurating-ooze", "Suppurating Ooze-cc"]
 *Source: Creature Codex Page 288*
 
 ```statblock
+"dice": false
 "name": "Suppurating Ooze Cc"
 "size": "Medium"
 "type": "Ooze"

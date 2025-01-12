@@ -13,6 +13,7 @@ aliases: ["giant-centipede-a5e", "Giant Centipede-a5emm"]
 *Source: A5e Monstrous Menagerie Page 445*
 
 ```statblock
+"dice": false
 "name": "Giant Centipede A5Emm"
 "size": "Small"
 "type": "Beast"

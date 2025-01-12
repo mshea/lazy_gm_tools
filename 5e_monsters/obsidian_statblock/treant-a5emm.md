@@ -13,6 +13,7 @@ aliases: ["treant-a5e", "Treant-a5emm"]
 *Source: A5e Monstrous Menagerie Page 408*
 
 ```statblock
+"dice": false
 "name": "Treant A5Emm"
 "size": "Huge"
 "type": "Plant"

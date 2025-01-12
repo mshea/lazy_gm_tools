@@ -13,6 +13,7 @@ aliases: ["clockwork-servant", "Clockwork Servant-cc"]
 *Source: Creature Codex Page 65*
 
 ```statblock
+"dice": false
 "name": "Clockwork Servant Cc"
 "size": "Medium"
 "type": "Construct"

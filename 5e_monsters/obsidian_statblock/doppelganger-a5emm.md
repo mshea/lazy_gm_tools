@@ -13,6 +13,7 @@ aliases: ["doppelganger-a5e", "Doppelganger-a5emm"]
 *Source: A5e Monstrous Menagerie Page 94*
 
 ```statblock
+"dice": false
 "name": "Doppelganger A5Emm"
 "size": "Medium"
 "type": "Monstrosity"

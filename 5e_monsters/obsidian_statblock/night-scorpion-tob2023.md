@@ -13,6 +13,7 @@ aliases: ["nightscorpion-tob1-2023", "Night Scorpion-tob2023"]
 *Source: Tome of Beasts 2023 Page 320*
 
 ```statblock
+"dice": false
 "name": "Night Scorpion Tob2023"
 "size": "Large"
 "type": "Beast"

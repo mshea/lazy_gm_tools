@@ -13,6 +13,7 @@ aliases: ["dwarf-firecracker", "Dwarf, Firecracker-tob3"]
 *Source: Tome of Beasts 3 Page 165*
 
 ```statblock
+"dice": false
 "name": "Dwarf, Firecracker Tob3"
 "size": "Medium"
 "type": "Humanoid"

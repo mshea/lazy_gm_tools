@@ -13,6 +13,7 @@ aliases: ["boneshard-wraith", "Boneshard Wraith-tob2"]
 *Source: Tome of Beasts 2 Page 46*
 
 ```statblock
+"dice": false
 "name": "Boneshard Wraith Tob2"
 "size": "Medium"
 "type": "Undead"

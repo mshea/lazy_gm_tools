@@ -13,6 +13,7 @@ aliases: ["devil-maelstrom", "Devil, Maelstrom-tob3"]
 *Source: Tome of Beasts 3 Page 122*
 
 ```statblock
+"dice": false
 "name": "Devil, Maelstrom Tob3"
 "size": "Large"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["firebird-tob1-2023", "Firebird-tob2023"]
 *Source: Tome of Beasts 2023 Page 187*
 
 ```statblock
+"dice": false
 "name": "Firebird Tob2023"
 "size": "Small"
 "type": "Celestial"

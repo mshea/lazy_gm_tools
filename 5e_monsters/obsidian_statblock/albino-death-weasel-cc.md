@@ -13,6 +13,7 @@ aliases: ["albino-death-weasel", "Albino Death Weasel-cc"]
 *Source: Creature Codex Page 374*
 
 ```statblock
+"dice": false
 "name": "Albino Death Weasel Cc"
 "size": "Large"
 "type": "Beast"

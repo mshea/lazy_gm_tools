@@ -13,6 +13,7 @@ aliases: ["drake-vapor", "Drake, Vapor-tob3"]
 *Source: Tome of Beasts 3 Page 157*
 
 ```statblock
+"dice": false
 "name": "Drake, Vapor Tob3"
 "size": "Large"
 "type": "Dragon"

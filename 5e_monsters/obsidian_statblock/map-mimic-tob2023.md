@@ -13,6 +13,7 @@ aliases: ["mapmimic-tob1-2023", "Map Mimic-tob2023"]
 *Source: Tome of Beasts 2023 Page 269*
 
 ```statblock
+"dice": false
 "name": "Map Mimic Tob2023"
 "size": "Tiny"
 "type": "Monstrosity"

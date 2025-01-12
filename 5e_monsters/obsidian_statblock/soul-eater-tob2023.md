@@ -13,6 +13,7 @@ aliases: ["souleater-tob1-2023", "Soul Eater-tob2023"]
 *Source: Tome of Beasts 2023 Page 336*
 
 ```statblock
+"dice": false
 "name": "Soul Eater Tob2023"
 "size": "Medium"
 "type": "Fiend"

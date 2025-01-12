@@ -13,6 +13,7 @@ aliases: ["duelist-tob1-2023", "Duelist-tob2023"]
 *Source: Tome of Beasts 2023 Page 159*
 
 ```statblock
+"dice": false
 "name": "Duelist Tob2023"
 "size": "Medium"
 "type": "Humanoid"

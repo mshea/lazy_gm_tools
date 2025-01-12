@@ -13,6 +13,7 @@ aliases: ["sandsilhouette-tob1-2023", "Sand Silhouette-tob2023"]
 *Source: Tome of Beasts 2023 Page 312*
 
 ```statblock
+"dice": false
 "name": "Sand Silhouette Tob2023"
 "size": "Medium"
 "type": "Undead"

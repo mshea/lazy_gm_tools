@@ -13,6 +13,7 @@ aliases: ["owlbear-a5e", "Owlbear-a5emm"]
 *Source: A5e Monstrous Menagerie Page 356*
 
 ```statblock
+"dice": false
 "name": "Owlbear A5Emm"
 "size": "Large"
 "type": "Monstrosity"

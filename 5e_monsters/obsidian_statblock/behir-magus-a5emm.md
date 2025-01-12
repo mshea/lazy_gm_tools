@@ -13,6 +13,7 @@ aliases: ["behir-magus-a5e", "Behir Magus-a5emm"]
 *Source: A5e Monstrous Menagerie Page None*
 
 ```statblock
+"dice": false
 "name": "Behir Magus A5Emm"
 "size": "Huge"
 "type": "Monstrosity"

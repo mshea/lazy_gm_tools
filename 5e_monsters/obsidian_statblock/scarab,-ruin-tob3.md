@@ -13,6 +13,7 @@ aliases: ["scarab-ruin", "Scarab, Ruin-tob3"]
 *Source: Tome of Beasts 3 Page 337*
 
 ```statblock
+"dice": false
 "name": "Scarab, Ruin Tob3"
 "size": "Large"
 "type": "Undead"

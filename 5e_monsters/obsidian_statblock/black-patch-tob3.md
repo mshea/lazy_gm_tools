@@ -13,6 +13,7 @@ aliases: ["black-patch", "Black Patch-tob3"]
 *Source: Tome of Beasts 3 Page 58*
 
 ```statblock
+"dice": false
 "name": "Black Patch Tob3"
 "size": "Large"
 "type": "Ooze"

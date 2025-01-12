@@ -13,6 +13,7 @@ aliases: ["mithraldragonwyrmling-tob1-2023", "Mithral Dragon Wyrmling-tob2023"]
 *Source: Tome of Beasts 2023 Page 123*
 
 ```statblock
+"dice": false
 "name": "Mithral Dragon Wyrmling Tob2023"
 "size": "Medium"
 "type": "Dragon"

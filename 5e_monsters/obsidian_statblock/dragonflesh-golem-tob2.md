@@ -13,6 +13,7 @@ aliases: ["dragonflesh-golem", "Dragonflesh Golem-tob2"]
 *Source: Tome of Beasts 2 Page 180*
 
 ```statblock
+"dice": false
 "name": "Dragonflesh Golem Tob2"
 "size": "Large"
 "type": "Construct"

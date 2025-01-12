@@ -13,6 +13,7 @@ aliases: ["ghost-boar", "Ghost Boar-cc"]
 *Source: Creature Codex Page 169*
 
 ```statblock
+"dice": false
 "name": "Ghost Boar Cc"
 "size": "Large"
 "type": "Monstrosity"

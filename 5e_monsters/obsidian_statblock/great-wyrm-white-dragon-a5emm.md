@@ -13,6 +13,7 @@ aliases: ["great-wyrm-white-dragon-a5e", "Great Wyrm White Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 121*
 
 ```statblock
+"dice": false
 "name": "Great Wyrm White Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

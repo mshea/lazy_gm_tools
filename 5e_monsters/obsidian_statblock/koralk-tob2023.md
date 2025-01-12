@@ -13,6 +13,7 @@ aliases: ["koralk-tob1-2023", "Koralk-tob2023"]
 *Source: Tome of Beasts 2023 Page 97*
 
 ```statblock
+"dice": false
 "name": "Koralk Tob2023"
 "size": "Large"
 "type": "Fiend"

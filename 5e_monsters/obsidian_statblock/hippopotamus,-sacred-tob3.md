@@ -13,6 +13,7 @@ aliases: ["hippopotamus-sacred", "Hippopotamus, Sacred-tob3"]
 *Source: Tome of Beasts 3 Page 233*
 
 ```statblock
+"dice": false
 "name": "Hippopotamus, Sacred Tob3"
 "size": "Huge"
 "type": "Celestial"

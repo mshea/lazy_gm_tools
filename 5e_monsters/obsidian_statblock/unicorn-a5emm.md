@@ -13,6 +13,7 @@ aliases: ["unicorn-a5e", "Unicorn-a5emm"]
 *Source: A5e Monstrous Menagerie Page 415*
 
 ```statblock
+"dice": false
 "name": "Unicorn A5Emm"
 "size": "Large"
 "type": "Celestial"

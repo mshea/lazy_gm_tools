@@ -13,6 +13,7 @@ aliases: ["karkadann", "Karkadann-tob3"]
 *Source: Tome of Beasts 3 Page 249*
 
 ```statblock
+"dice": false
 "name": "Karkadann Tob3"
 "size": "Huge"
 "type": "Monstrosity"

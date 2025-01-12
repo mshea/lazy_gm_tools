@@ -13,6 +13,7 @@ aliases: ["necrohydra-tob1-2023", "Necrohydra-tob2023"]
 *Source: Tome of Beasts 2023 Page 283*
 
 ```statblock
+"dice": false
 "name": "Necrohydra Tob2023"
 "size": "Huge"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["pyrite-pile", "Pyrite Pile-tob3"]
 *Source: Tome of Beasts 3 Page 323*
 
 ```statblock
+"dice": false
 "name": "Pyrite Pile Tob3"
 "size": "Large"
 "type": "Elemental"

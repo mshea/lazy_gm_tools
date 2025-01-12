@@ -13,6 +13,7 @@ aliases: ["erinyes-a5e", "Erinyes-a5emm"]
 *Source: A5e Monstrous Menagerie Page 82*
 
 ```statblock
+"dice": false
 "name": "Erinyes A5Emm"
 "size": "Medium"
 "type": "Fiend"

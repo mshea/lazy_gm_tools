@@ -13,6 +13,7 @@ aliases: ["cackling-skeleton", "Cackling Skeleton-tob2"]
 *Source: Tome of Beasts 2 Page 79*
 
 ```statblock
+"dice": false
 "name": "Cackling Skeleton Tob2"
 "size": "Medium"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["gugalanna", "Gugalanna-cc"]
 *Source: Creature Codex Page 212*
 
 ```statblock
+"dice": false
 "name": "Gugalanna Cc"
 "size": "Huge"
 "type": "Celestial"

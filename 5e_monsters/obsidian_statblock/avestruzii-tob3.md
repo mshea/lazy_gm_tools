@@ -13,6 +13,7 @@ aliases: ["avestruzii", "Avestruzii-tob3"]
 *Source: Tome of Beasts 3 Page 48*
 
 ```statblock
+"dice": false
 "name": "Avestruzii Tob3"
 "size": "Medium"
 "type": "Humanoid"

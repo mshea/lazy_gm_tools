@@ -13,6 +13,7 @@ aliases: ["piasa", "Piasa-cc"]
 *Source: Creature Codex Page 298*
 
 ```statblock
+"dice": false
 "name": "Piasa Cc"
 "size": "Large"
 "type": "Dragon"

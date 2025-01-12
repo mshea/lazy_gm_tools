@@ -13,6 +13,7 @@ aliases: ["elk-a5e", "Elk-a5emm"]
 *Source: A5e Monstrous Menagerie Page 444*
 
 ```statblock
+"dice": false
 "name": "Elk A5Emm"
 "size": "Large"
 "type": "Beast"

@@ -13,6 +13,7 @@ aliases: ["snallygaster", "Snallygaster-tob3"]
 *Source: Tome of Beasts 3 Page 348*
 
 ```statblock
+"dice": false
 "name": "Snallygaster Tob3"
 "size": "Huge"
 "type": "Aberration"

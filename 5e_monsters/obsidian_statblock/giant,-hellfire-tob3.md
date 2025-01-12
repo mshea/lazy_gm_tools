@@ -13,6 +13,7 @@ aliases: ["giant-hellfire", "Giant, Hellfire-tob3"]
 *Source: Tome of Beasts 3 Page 203*
 
 ```statblock
+"dice": false
 "name": "Giant, Hellfire Tob3"
 "size": "Huge"
 "type": "Giant"

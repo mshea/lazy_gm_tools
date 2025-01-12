@@ -13,6 +13,7 @@ aliases: ["banshee-a5e", "Banshee-a5emm"]
 *Source: A5e Monstrous Menagerie Page 30*
 
 ```statblock
+"dice": false
 "name": "Banshee A5Emm"
 "size": "Medium"
 "type": "Undead"

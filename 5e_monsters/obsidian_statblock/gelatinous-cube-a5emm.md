@@ -13,6 +13,7 @@ aliases: ["gelatinous-cube-a5e", "Gelatinous Cube-a5emm"]
 *Source: A5e Monstrous Menagerie Page 351*
 
 ```statblock
+"dice": false
 "name": "Gelatinous Cube A5Emm"
 "size": "Large"
 "type": "Ooze"

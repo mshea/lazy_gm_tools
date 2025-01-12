@@ -13,6 +13,7 @@ aliases: ["kobold-spellclerk", "Kobold Spellclerk-tob2"]
 *Source: Tome of Beasts 2 Page 232*
 
 ```statblock
+"dice": false
 "name": "Kobold Spellclerk Tob2"
 "size": "Small"
 "type": "Humanoid"

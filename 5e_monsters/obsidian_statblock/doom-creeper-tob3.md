@@ -13,6 +13,7 @@ aliases: ["doom-creeper", "Doom Creeper-tob3"]
 *Source: Tome of Beasts 3 Page 138*
 
 ```statblock
+"dice": false
 "name": "Doom Creeper Tob3"
 "size": "Small"
 "type": "Plant"

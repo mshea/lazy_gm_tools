@@ -13,6 +13,7 @@ aliases: ["horde-demon-band-a5e", "Horde Demon Band-a5emm"]
 *Source: A5e Monstrous Menagerie Page 71*
 
 ```statblock
+"dice": false
 "name": "Horde Demon Band A5Emm"
 "size": "Large"
 "type": "Fiend"

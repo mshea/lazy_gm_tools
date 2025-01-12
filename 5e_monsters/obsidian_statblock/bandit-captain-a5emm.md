@@ -13,6 +13,7 @@ aliases: ["bandit-captain-a5e", "Bandit Captain-a5emm"]
 *Source: A5e Monstrous Menagerie Page 470*
 
 ```statblock
+"dice": false
 "name": "Bandit Captain A5Emm"
 "size": "Medium"
 "type": "Humanoid"

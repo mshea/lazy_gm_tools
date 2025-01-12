@@ -13,6 +13,7 @@ aliases: ["selang-tob1-2023", "Selang-tob2023"]
 *Source: Tome of Beasts 2023 Page 321*
 
 ```statblock
+"dice": false
 "name": "Selang Tob2023"
 "size": "Medium"
 "type": "Fey"

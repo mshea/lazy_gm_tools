@@ -13,6 +13,7 @@ aliases: ["young-red-dragon-zombie-a5e", "Young Red Dragon Zombie-a5emm"]
 *Source: A5e Monstrous Menagerie Page 436*
 
 ```statblock
+"dice": false
 "name": "Young Red Dragon Zombie A5Emm"
 "size": "Large"
 "type": "Undead"

@@ -13,6 +13,7 @@ aliases: ["aphasian-abomination", "Aphasian Abomination-tob3"]
 *Source: Tome of Beasts 3 Page 39*
 
 ```statblock
+"dice": false
 "name": "Aphasian Abomination Tob3"
 "size": "Large"
 "type": "Construct"

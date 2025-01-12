@@ -13,6 +13,7 @@ aliases: ["jiangshi", "Jiangshi-cc"]
 *Source: Creature Codex Page 230*
 
 ```statblock
+"dice": false
 "name": "Jiangshi Cc"
 "size": "Medium"
 "type": "Undead"

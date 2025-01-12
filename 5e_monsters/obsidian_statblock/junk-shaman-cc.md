@@ -13,6 +13,7 @@ aliases: ["junk-shaman", "Junk Shaman-cc"]
 *Source: Creature Codex Page 238*
 
 ```statblock
+"dice": false
 "name": "Junk Shaman Cc"
 "size": "Small"
 "type": "Humanoid"

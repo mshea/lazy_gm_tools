@@ -13,6 +13,7 @@ aliases: ["pixiu", "Pixiu-cc"]
 *Source: Creature Codex Page 300*
 
 ```statblock
+"dice": false
 "name": "Pixiu Cc"
 "size": "Large"
 "type": "Monstrosity"

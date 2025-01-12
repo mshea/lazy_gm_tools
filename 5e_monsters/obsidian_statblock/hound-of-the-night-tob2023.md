@@ -13,6 +13,7 @@ aliases: ["houndofthenight-tob1-2023", "Hound of the Night-tob2023"]
 *Source: Tome of Beasts 2023 Page 235*
 
 ```statblock
+"dice": false
 "name": "Hound Of The Night Tob2023"
 "size": "Large"
 "type": "Monstrosity"

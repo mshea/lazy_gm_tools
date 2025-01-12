@@ -13,6 +13,7 @@ aliases: ["dead-mans-fingers-a5e", "Dead Mans Fingers-a5emm"]
 *Source: A5e Monstrous Menagerie Page 211*
 
 ```statblock
+"dice": false
 "name": "Dead Mans Fingers A5Emm"
 "size": "Medium"
 "type": "Plant"

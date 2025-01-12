@@ -13,6 +13,7 @@ aliases: ["deeponearchimandrite-tob1-2023", "Deep One Archimandrite-tob2023"]
 *Source: Tome of Beasts 2023 Page 73*
 
 ```statblock
+"dice": false
 "name": "Deep One Archimandrite Tob2023"
 "size": "Large"
 "type": "Humanoid"

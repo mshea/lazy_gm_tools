@@ -13,6 +13,7 @@ aliases: ["scorpioncultist-tob1-2023", "Scorpion Cultist-tob2023"]
 *Source: Tome of Beasts 2023 Page 411*
 
 ```statblock
+"dice": false
 "name": "Scorpion Cultist Tob2023"
 "size": "Medium"
 "type": "Humanoid"

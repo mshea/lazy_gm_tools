@@ -13,6 +13,7 @@ aliases: ["haunted-giant", "Haunted Giant-cc"]
 *Source: Creature Codex Page 183*
 
 ```statblock
+"dice": false
 "name": "Haunted Giant Cc"
 "size": "Huge"
 "type": "Giant"

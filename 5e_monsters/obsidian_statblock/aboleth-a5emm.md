@@ -13,6 +13,7 @@ aliases: ["aboleth-a5e", "Aboleth-a5emm"]
 *Source: A5e Monstrous Menagerie Page 16*
 
 ```statblock
+"dice": false
 "name": "Aboleth A5Emm"
 "size": "Large"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["amphiptere-tob1-2023", "Amphiptere-tob2023"]
 *Source: Tome of Beasts 2023 Page 16*
 
 ```statblock
+"dice": false
 "name": "Amphiptere Tob2023"
 "size": "Medium"
 "type": "Beast"

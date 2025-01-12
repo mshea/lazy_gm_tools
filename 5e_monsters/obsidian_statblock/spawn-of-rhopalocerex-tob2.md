@@ -13,6 +13,7 @@ aliases: ["spawn-of-rhopalocerex", "Spawn of Rhopalocerex-tob2"]
 *Source: Tome of Beasts 2 Page 92*
 
 ```statblock
+"dice": false
 "name": "Spawn Of Rhopalocerex Tob2"
 "size": "Large"
 "type": "Fiend"

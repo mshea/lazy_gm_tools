@@ -13,6 +13,7 @@ aliases: ["servant-of-the-vine", "Servant of the Vine-cc"]
 *Source: Creature Codex Page 144*
 
 ```statblock
+"dice": false
 "name": "Servant Of The Vine Cc"
 "size": "Medium"
 "type": "Humanoid"

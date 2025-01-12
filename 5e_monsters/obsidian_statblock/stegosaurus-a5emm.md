@@ -13,6 +13,7 @@ aliases: ["stegosaurus-a5e", "Stegosaurus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 90*
 
 ```statblock
+"dice": false
 "name": "Stegosaurus A5Emm"
 "size": "Huge"
 "type": "Beast"

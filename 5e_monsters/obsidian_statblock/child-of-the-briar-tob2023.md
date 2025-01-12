@@ -13,6 +13,7 @@ aliases: ["childofthebriar-tob1-2023", "Child of the Briar-tob2023"]
 *Source: Tome of Beasts 2023 Page 55*
 
 ```statblock
+"dice": false
 "name": "Child Of The Briar Tob2023"
 "size": "Tiny"
 "type": "Plant"

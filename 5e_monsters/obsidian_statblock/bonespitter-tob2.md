@@ -13,6 +13,7 @@ aliases: ["bonespitter", "Bonespitter-tob2"]
 *Source: Tome of Beasts 2 Page 47*
 
 ```statblock
+"dice": false
 "name": "Bonespitter Tob2"
 "size": "Gargantuan"
 "type": "Monstrosity"

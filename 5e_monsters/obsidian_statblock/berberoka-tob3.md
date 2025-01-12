@@ -13,6 +13,7 @@ aliases: ["berberoka", "Berberoka-tob3"]
 *Source: Tome of Beasts 3 Page 56*
 
 ```statblock
+"dice": false
 "name": "Berberoka Tob3"
 "size": "Large"
 "type": "Giant"

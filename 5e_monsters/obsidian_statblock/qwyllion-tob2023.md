@@ -13,6 +13,7 @@ aliases: ["qwyllion-tob1-2023", "Qwyllion-tob2023"]
 *Source: Tome of Beasts 2023 Page 298*
 
 ```statblock
+"dice": false
 "name": "Qwyllion Tob2023"
 "size": "Medium"
 "type": "Aberration"

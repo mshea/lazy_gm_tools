@@ -13,6 +13,7 @@ aliases: ["radiant-spark-swarm", "Radiant Spark Swarm-tob2"]
 *Source: Tome of Beasts 2 Page 305*
 
 ```statblock
+"dice": false
 "name": "Radiant Spark Swarm Tob2"
 "size": "Medium"
 "type": "Elemental"

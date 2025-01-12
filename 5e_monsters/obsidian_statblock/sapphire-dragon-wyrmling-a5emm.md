@@ -13,6 +13,7 @@ aliases: ["sapphire-dragon-wyrmling-a5e", "Sapphire Dragon Wyrmling-a5emm"]
 *Source: A5e Monstrous Menagerie Page 151*
 
 ```statblock
+"dice": false
 "name": "Sapphire Dragon Wyrmling A5Emm"
 "size": "Medium"
 "type": "Dragon"

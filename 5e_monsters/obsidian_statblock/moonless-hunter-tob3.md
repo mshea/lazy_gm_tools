@@ -13,6 +13,7 @@ aliases: ["moonless-hunter", "Moonless Hunter-tob3"]
 *Source: Tome of Beasts 3 Page 275*
 
 ```statblock
+"dice": false
 "name": "Moonless Hunter Tob3"
 "size": "Medium"
 "type": "Fey"

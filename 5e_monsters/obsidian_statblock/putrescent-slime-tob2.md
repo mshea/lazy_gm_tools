@@ -13,6 +13,7 @@ aliases: ["putrescent-slime", "Putrescent Slime-tob2"]
 *Source: Tome of Beasts 2 Page 300*
 
 ```statblock
+"dice": false
 "name": "Putrescent Slime Tob2"
 "size": "Medium"
 "type": "Ooze"

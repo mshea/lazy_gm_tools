@@ -13,6 +13,7 @@ aliases: ["greater-lunarchidna", "Greater Lunarchidna-tob2"]
 *Source: Tome of Beasts 2 Page 242*
 
 ```statblock
+"dice": false
 "name": "Greater Lunarchidna Tob2"
 "size": "Medium"
 "type": "Aberration"

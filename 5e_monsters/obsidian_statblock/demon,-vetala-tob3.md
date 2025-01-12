@@ -13,6 +13,7 @@ aliases: ["demon-vetala", "Demon, Vetala-tob3"]
 *Source: Tome of Beasts 3 Page 112*
 
 ```statblock
+"dice": false
 "name": "Demon, Vetala Tob3"
 "size": "Medium"
 "type": "Fiend"

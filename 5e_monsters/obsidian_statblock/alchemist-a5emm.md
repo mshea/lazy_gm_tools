@@ -13,6 +13,7 @@ aliases: ["alchemist-a5e", "Alchemist-a5emm"]
 *Source: A5e Monstrous Menagerie Page 466*
 
 ```statblock
+"dice": false
 "name": "Alchemist A5Emm"
 "size": "Medium"
 "type": "Humanoid"

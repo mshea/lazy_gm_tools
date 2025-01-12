@@ -13,6 +13,7 @@ aliases: ["archpriest-a5e", "Archpriest-a5emm"]
 *Source: A5e Monstrous Menagerie Page 487*
 
 ```statblock
+"dice": false
 "name": "Archpriest A5Emm"
 "size": "Medium"
 "type": "Humanoid"

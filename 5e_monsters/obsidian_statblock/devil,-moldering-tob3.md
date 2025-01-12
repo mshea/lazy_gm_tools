@@ -13,6 +13,7 @@ aliases: ["devil-moldering", "Devil, Moldering-tob3"]
 *Source: Tome of Beasts 3 Page 123*
 
 ```statblock
+"dice": false
 "name": "Devil, Moldering Tob3"
 "size": "Small"
 "type": "Fiend"

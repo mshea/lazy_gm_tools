@@ -13,6 +13,7 @@ aliases: ["grimjester-tob1-2023", "Grim Jester-tob2023"]
 *Source: Tome of Beasts 2023 Page 224*
 
 ```statblock
+"dice": false
 "name": "Grim Jester Tob2023"
 "size": "Medium"
 "type": "Undead"

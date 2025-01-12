@@ -13,6 +13,7 @@ aliases: ["buraq-tob1-2023", "Buraq-tob2023"]
 *Source: Tome of Beasts 2023 Page 46*
 
 ```statblock
+"dice": false
 "name": "Buraq Tob2023"
 "size": "Medium"
 "type": "Celestial"

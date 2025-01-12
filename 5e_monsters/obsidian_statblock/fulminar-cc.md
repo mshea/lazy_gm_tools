@@ -13,6 +13,7 @@ aliases: ["fulminar", "Fulminar-cc"]
 *Source: Creature Codex Page 165*
 
 ```statblock
+"dice": false
 "name": "Fulminar Cc"
 "size": "Large"
 "type": "Elemental"

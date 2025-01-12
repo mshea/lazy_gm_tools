@@ -13,6 +13,7 @@ aliases: ["umbralvampire-tob1-2023", "Umbral Vampire-tob2023"]
 *Source: Tome of Beasts 2023 Page 382*
 
 ```statblock
+"dice": false
 "name": "Umbral Vampire Tob2023"
 "size": "Medium"
 "type": "Undead"

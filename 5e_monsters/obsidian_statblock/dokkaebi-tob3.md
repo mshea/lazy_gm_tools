@@ -13,6 +13,7 @@ aliases: ["dokkaebi", "Dokkaebi-tob3"]
 *Source: Tome of Beasts 3 Page 137*
 
 ```statblock
+"dice": false
 "name": "Dokkaebi Tob3"
 "size": "Medium"
 "type": "Fey"

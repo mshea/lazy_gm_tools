@@ -13,6 +13,7 @@ aliases: ["crimson-shambler", "Crimson Shambler-tob2"]
 *Source: Tome of Beasts 2 Page 73*
 
 ```statblock
+"dice": false
 "name": "Crimson Shambler Tob2"
 "size": "Medium"
 "type": "Plant"

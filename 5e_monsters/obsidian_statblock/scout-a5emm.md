@@ -13,6 +13,7 @@ aliases: ["scout-a5e", "Scout-a5emm"]
 *Source: A5e Monstrous Menagerie Page 490*
 
 ```statblock
+"dice": false
 "name": "Scout A5Emm"
 "size": "Medium"
 "type": "Humanoid"

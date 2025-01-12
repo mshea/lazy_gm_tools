@@ -13,6 +13,7 @@ aliases: ["moon-drake", "Moon Drake-cc"]
 *Source: Creature Codex Page 260*
 
 ```statblock
+"dice": false
 "name": "Moon Drake Cc"
 "size": "Medium"
 "type": "Dragon"

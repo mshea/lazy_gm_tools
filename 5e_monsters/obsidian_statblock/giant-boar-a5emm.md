@@ -13,6 +13,7 @@ aliases: ["giant-boar-a5e", "Giant Boar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 445*
 
 ```statblock
+"dice": false
 "name": "Giant Boar A5Emm"
 "size": "Large"
 "type": "Beast"

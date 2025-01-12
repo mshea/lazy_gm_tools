@@ -13,6 +13,7 @@ aliases: ["golem-barnyard", "Golem, Barnyard-tob3"]
 *Source: Tome of Beasts 3 Page 214*
 
 ```statblock
+"dice": false
 "name": "Golem, Barnyard Tob3"
 "size": "Medium"
 "type": "Construct"

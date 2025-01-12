@@ -13,6 +13,7 @@ aliases: ["sulsha", "Sulsha-tob2"]
 *Source: Tome of Beasts 2 Page 136*
 
 ```statblock
+"dice": false
 "name": "Sulsha Tob2"
 "size": "Large"
 "type": "Humanoid"

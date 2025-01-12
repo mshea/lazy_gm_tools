@@ -13,6 +13,7 @@ aliases: ["brachyura-shambler", "Brachyura Shambler-tob2"]
 *Source: Tome of Beasts 2 Page 49*
 
 ```statblock
+"dice": false
 "name": "Brachyura Shambler Tob2"
 "size": "Medium"
 "type": "Monstrosity"

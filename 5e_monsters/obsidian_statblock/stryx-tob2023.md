@@ -13,6 +13,7 @@ aliases: ["stryx-tob1-2023", "Stryx-tob2023"]
 *Source: Tome of Beasts 2023 Page 350*
 
 ```statblock
+"dice": false
 "name": "Stryx Tob2023"
 "size": "Tiny"
 "type": "Monstrosity"

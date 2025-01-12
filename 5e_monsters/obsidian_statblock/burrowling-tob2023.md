@@ -13,6 +13,7 @@ aliases: ["burrowling-tob1-2023", "Burrowling-tob2023"]
 *Source: Tome of Beasts 2023 Page 47*
 
 ```statblock
+"dice": false
 "name": "Burrowling Tob2023"
 "size": "Small"
 "type": "Humanoid"

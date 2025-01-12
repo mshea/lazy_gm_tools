@@ -13,6 +13,7 @@ aliases: ["howler-of-the-hill", "Howler Of The Hill-tob3"]
 *Source: Tome of Beasts 3 Page 236*
 
 ```statblock
+"dice": false
 "name": "Howler Of The Hill Tob3"
 "size": "Large"
 "type": "Aberration"

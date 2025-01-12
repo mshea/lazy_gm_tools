@@ -13,6 +13,7 @@ aliases: ["dragonette-sedge", "Dragonette, Sedge-tob3"]
 *Source: Tome of Beasts 3 Page 149*
 
 ```statblock
+"dice": false
 "name": "Dragonette, Sedge Tob3"
 "size": "Tiny"
 "type": "Dragon"

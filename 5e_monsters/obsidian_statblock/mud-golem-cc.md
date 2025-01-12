@@ -13,6 +13,7 @@ aliases: ["mud-golem", "Mud Golem-cc"]
 *Source: Creature Codex Page 201*
 
 ```statblock
+"dice": false
 "name": "Mud Golem Cc"
 "size": "Small"
 "type": "Construct"

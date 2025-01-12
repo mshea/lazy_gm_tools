@@ -13,6 +13,7 @@ aliases: ["coralfish-a5e", "Coralfish-a5emm"]
 *Source: A5e Monstrous Menagerie Page 55*
 
 ```statblock
+"dice": false
 "name": "Coralfish A5Emm"
 "size": "Small"
 "type": "Monstrosity"

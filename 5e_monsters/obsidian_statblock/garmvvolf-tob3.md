@@ -13,6 +13,7 @@ aliases: ["garmvvolf", "Garmvvolf-tob3"]
 *Source: Tome of Beasts 3 Page 194*
 
 ```statblock
+"dice": false
 "name": "Garmvvolf Tob3"
 "size": "Huge"
 "type": "Monstrosity"

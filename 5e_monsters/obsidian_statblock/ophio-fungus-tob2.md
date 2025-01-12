@@ -13,6 +13,7 @@ aliases: ["ophio-fungus", "Ophio Fungus-tob2"]
 *Source: Tome of Beasts 2 Page 283*
 
 ```statblock
+"dice": false
 "name": "Ophio Fungus Tob2"
 "size": "Huge"
 "type": "Plant"

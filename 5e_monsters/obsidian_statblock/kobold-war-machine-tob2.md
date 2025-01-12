@@ -13,6 +13,7 @@ aliases: ["kobold-war-machine", "Kobold War Machine-tob2"]
 *Source: Tome of Beasts 2 Page 233*
 
 ```statblock
+"dice": false
 "name": "Kobold War Machine Tob2"
 "size": "Large"
 "type": "Construct"

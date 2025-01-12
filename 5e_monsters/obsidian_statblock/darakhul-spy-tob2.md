@@ -13,6 +13,7 @@ aliases: ["darakhul-spy", "Darakhul Spy-tob2"]
 *Source: Tome of Beasts 2 Page 168*
 
 ```statblock
+"dice": false
 "name": "Darakhul Spy Tob2"
 "size": "Medium"
 "type": "Undead"

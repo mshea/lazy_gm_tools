@@ -13,6 +13,7 @@ aliases: ["bone-colossus", "Bone Colossus-tob2"]
 *Source: Tome of Beasts 2 Page 267*
 
 ```statblock
+"dice": false
 "name": "Bone Colossus Tob2"
 "size": "Gargantuan"
 "type": "Undead"

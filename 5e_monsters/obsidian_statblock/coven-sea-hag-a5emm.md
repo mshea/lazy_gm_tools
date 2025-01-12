@@ -13,6 +13,7 @@ aliases: ["coven-sea-hag-a5e", "Coven Sea Hag-a5emm"]
 *Source: A5e Monstrous Menagerie Page 271*
 
 ```statblock
+"dice": false
 "name": "Coven Sea Hag A5Emm"
 "size": "Medium"
 "type": "Fey"

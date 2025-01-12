@@ -13,6 +13,7 @@ aliases: ["bearfolk-chieftain", "Bearfolk Chieftain-cc"]
 *Source: Creature Codex Page 51*
 
 ```statblock
+"dice": false
 "name": "Bearfolk Chieftain Cc"
 "size": "Medium"
 "type": "Humanoid"

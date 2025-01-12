@@ -13,6 +13,7 @@ aliases: ["dread-knight-champion-a5e", "Dread Knight Champion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 185*
 
 ```statblock
+"dice": false
 "name": "Dread Knight Champion A5Emm"
 "size": "Medium"
 "type": "Undead"

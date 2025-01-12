@@ -13,6 +13,7 @@ aliases: ["ooze-sinkhole", "Ooze, Sinkhole-tob3"]
 *Source: Tome of Beasts 3 Page 309*
 
 ```statblock
+"dice": false
 "name": "Ooze, Sinkhole Tob3"
 "size": "Gargantuan"
 "type": "Ooze"

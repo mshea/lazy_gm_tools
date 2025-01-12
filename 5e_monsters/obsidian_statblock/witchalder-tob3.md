@@ -13,6 +13,7 @@ aliases: ["witchalder", "Witchalder-tob3"]
 *Source: Tome of Beasts 3 Page 394*
 
 ```statblock
+"dice": false
 "name": "Witchalder Tob3"
 "size": "Medium"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["eonic-savant", "Eonic Savant-tob2"]
 *Source: Tome of Beasts 2 Page 137*
 
 ```statblock
+"dice": false
 "name": "Eonic Savant Tob2"
 "size": "Medium"
 "type": "Humanoid"

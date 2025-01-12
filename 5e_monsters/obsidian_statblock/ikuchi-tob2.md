@@ -13,6 +13,7 @@ aliases: ["ikuchi", "Ikuchi-tob2"]
 *Source: Tome of Beasts 2 Page 210*
 
 ```statblock
+"dice": false
 "name": "Ikuchi Tob2"
 "size": "Gargantuan"
 "type": "Elemental"

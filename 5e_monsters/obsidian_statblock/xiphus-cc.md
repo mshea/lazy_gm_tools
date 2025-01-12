@@ -13,6 +13,7 @@ aliases: ["xiphus", "Xiphus-cc"]
 *Source: Creature Codex Page 388*
 
 ```statblock
+"dice": false
 "name": "Xiphus Cc"
 "size": "Small"
 "type": "Fey"

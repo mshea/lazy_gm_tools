@@ -13,6 +13,7 @@ aliases: ["keg-golem", "Keg Golem-cc"]
 *Source: Creature Codex Page 201*
 
 ```statblock
+"dice": false
 "name": "Keg Golem Cc"
 "size": "Medium"
 "type": "Construct"

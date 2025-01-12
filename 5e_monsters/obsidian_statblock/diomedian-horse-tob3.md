@@ -13,6 +13,7 @@ aliases: ["diomedian-horse", "Diomedian Horse-tob3"]
 *Source: Tome of Beasts 3 Page 130*
 
 ```statblock
+"dice": false
 "name": "Diomedian Horse Tob3"
 "size": "Large"
 "type": "Beast"

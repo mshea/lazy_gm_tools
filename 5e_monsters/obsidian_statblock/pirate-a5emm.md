@@ -13,6 +13,7 @@ aliases: ["pirate-a5e", "Pirate-a5emm"]
 *Source: A5e Monstrous Menagerie Page 470*
 
 ```statblock
+"dice": false
 "name": "Pirate A5Emm"
 "size": "Medium"
 "type": "Humanoid"

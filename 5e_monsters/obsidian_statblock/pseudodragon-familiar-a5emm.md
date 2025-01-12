@@ -13,6 +13,7 @@ aliases: ["pseudodragon-familiar-a5e", "Pseudodragon Familiar-a5emm"]
 *Source: A5e Monstrous Menagerie Page 363*
 
 ```statblock
+"dice": false
 "name": "Pseudodragon Familiar A5Emm"
 "size": "Tiny"
 "type": "Dragon"

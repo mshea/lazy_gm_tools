@@ -13,6 +13,7 @@ aliases: ["kobold-dragon-servitor-a5e", "Kobold Dragon Servitor-a5emm"]
 *Source: A5e Monstrous Menagerie Page 298*
 
 ```statblock
+"dice": false
 "name": "Kobold Dragon Servitor A5Emm"
 "size": "Small"
 "type": "Humanoid"

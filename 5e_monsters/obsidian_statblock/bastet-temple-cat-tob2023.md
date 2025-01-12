@@ -13,6 +13,7 @@ aliases: ["bastettemplecat-tob1-2023", "Bastet Temple Cat-tob2023"]
 *Source: Tome of Beasts 2023 Page 32*
 
 ```statblock
+"dice": false
 "name": "Bastet Temple Cat Tob2023"
 "size": "Small"
 "type": "Monstrosity"

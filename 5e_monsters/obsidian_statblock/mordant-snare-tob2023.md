@@ -13,6 +13,7 @@ aliases: ["mordantsnare-tob1-2023", "Mordant Snare-tob2023"]
 *Source: Tome of Beasts 2023 Page 276*
 
 ```statblock
+"dice": false
 "name": "Mordant Snare Tob2023"
 "size": "Gargantuan"
 "type": "Aberration"

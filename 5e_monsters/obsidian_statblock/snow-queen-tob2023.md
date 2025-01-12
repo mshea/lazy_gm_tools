@@ -13,6 +13,7 @@ aliases: ["snowqueen-tob1-2023", "Snow Queen-tob2023"]
 *Source: Tome of Beasts 2023 Page 184*
 
 ```statblock
+"dice": false
 "name": "Snow Queen Tob2023"
 "size": "Medium"
 "type": "Fey"

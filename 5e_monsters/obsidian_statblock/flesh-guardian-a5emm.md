@@ -13,6 +13,7 @@ aliases: ["flesh-guardian-a5e", "Flesh Guardian-a5emm"]
 *Source: A5e Monstrous Menagerie Page 262*
 
 ```statblock
+"dice": false
 "name": "Flesh Guardian A5Emm"
 "size": "Medium"
 "type": "Construct"

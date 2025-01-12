@@ -13,6 +13,7 @@ aliases: ["hverhuldra", "Hverhuldra-tob2"]
 *Source: Tome of Beasts 2 Page 206*
 
 ```statblock
+"dice": false
 "name": "Hverhuldra Tob2"
 "size": "Small"
 "type": "Fey"

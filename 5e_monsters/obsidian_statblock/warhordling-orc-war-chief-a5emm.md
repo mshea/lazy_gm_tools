@@ -13,6 +13,7 @@ aliases: ["warhordling-orc-war-chief-a5e", "Warhordling Orc War Chief-a5emm"]
 *Source: A5e Monstrous Menagerie Page 497*
 
 ```statblock
+"dice": false
 "name": "Warhordling Orc War Chief A5Emm"
 "size": "Medium"
 "type": "Humanoid"

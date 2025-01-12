@@ -13,6 +13,7 @@ aliases: ["stirge-a5e", "Stirge-a5emm"]
 *Source: A5e Monstrous Menagerie Page 400*
 
 ```statblock
+"dice": false
 "name": "Stirge A5Emm"
 "size": "Tiny"
 "type": "Beast"

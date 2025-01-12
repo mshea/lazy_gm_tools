@@ -13,6 +13,7 @@ aliases: ["ningyo", "Ningyo-cc"]
 *Source: Creature Codex Page 278*
 
 ```statblock
+"dice": false
 "name": "Ningyo Cc"
 "size": "Small"
 "type": "Aberration"

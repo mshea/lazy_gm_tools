@@ -13,6 +13,7 @@ aliases: ["infernal-knight", "Infernal Knight-cc"]
 *Source: Creature Codex Page 104*
 
 ```statblock
+"dice": false
 "name": "Infernal Knight Cc"
 "size": "Medium"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["trollkin-ironmonger", "Trollkin Ironmonger-tob3"]
 *Source: Tome of Beasts 3 Page 376*
 
 ```statblock
+"dice": false
 "name": "Trollkin Ironmonger Tob3"
 "size": "Medium"
 "type": "Humanoid"

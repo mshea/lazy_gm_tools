@@ -13,6 +13,7 @@ aliases: ["quipper-a5e", "Quipper-a5emm"]
 *Source: A5e Monstrous Menagerie Page 457*
 
 ```statblock
+"dice": false
 "name": "Quipper A5Emm"
 "size": "Tiny"
 "type": "Beast"

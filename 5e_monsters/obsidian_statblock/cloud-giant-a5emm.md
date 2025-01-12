@@ -13,6 +13,7 @@ aliases: ["cloud-giant-a5e", "Cloud Giant-a5emm"]
 *Source: A5e Monstrous Menagerie Page 232*
 
 ```statblock
+"dice": false
 "name": "Cloud Giant A5Emm"
 "size": "Huge"
 "type": "Giant"

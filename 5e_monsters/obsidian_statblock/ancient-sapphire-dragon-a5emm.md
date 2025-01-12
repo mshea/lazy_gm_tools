@@ -13,6 +13,7 @@ aliases: ["ancient-sapphire-dragon-a5e", "Ancient Sapphire Dragon-a5emm"]
 *Source: A5e Monstrous Menagerie Page 149*
 
 ```statblock
+"dice": false
 "name": "Ancient Sapphire Dragon A5Emm"
 "size": "Gargantuan"
 "type": "Dragon"

@@ -13,6 +13,7 @@ aliases: ["speaker-to-the-darkness", "Speaker to the Darkness-cc"]
 *Source: Creature Codex Page 96*
 
 ```statblock
+"dice": false
 "name": "Speaker To The Darkness Cc"
 "size": "Small"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["manggus", "Manggus-tob2"]
 *Source: Tome of Beasts 2 Page 256*
 
 ```statblock
+"dice": false
 "name": "Manggus Tob2"
 "size": "Large"
 "type": "Giant"

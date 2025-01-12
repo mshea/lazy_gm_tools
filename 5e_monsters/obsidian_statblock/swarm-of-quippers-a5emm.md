@@ -13,6 +13,7 @@ aliases: ["swarm-of-quippers-a5e", "Swarm of Quippers-a5emm"]
 *Source: A5e Monstrous Menagerie Page 461*
 
 ```statblock
+"dice": false
 "name": "Swarm Of Quippers A5Emm"
 "size": "Medium"
 "type": "Beast"

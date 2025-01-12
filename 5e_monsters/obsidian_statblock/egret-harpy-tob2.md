@@ -13,6 +13,7 @@ aliases: ["egret-harpy", "Egret Harpy-tob2"]
 *Source: Tome of Beasts 2 Page 122*
 
 ```statblock
+"dice": false
 "name": "Egret Harpy Tob2"
 "size": "Medium"
 "type": "Monstrosity"

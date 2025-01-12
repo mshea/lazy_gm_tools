@@ -13,6 +13,7 @@ aliases: ["narshark", "Narshark-tob2"]
 *Source: Tome of Beasts 2 Page 266*
 
 ```statblock
+"dice": false
 "name": "Narshark Tob2"
 "size": "Large"
 "type": "Monstrosity"

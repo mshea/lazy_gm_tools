@@ -13,6 +13,7 @@ aliases: ["merclops-a5e", "Merclops-a5emm"]
 *Source: A5e Monstrous Menagerie Page 58*
 
 ```statblock
+"dice": false
 "name": "Merclops A5Emm"
 "size": "Huge"
 "type": "Giant"

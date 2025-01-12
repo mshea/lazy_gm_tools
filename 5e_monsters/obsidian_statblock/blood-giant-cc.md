@@ -13,6 +13,7 @@ aliases: ["blood-giant", "Blood Giant-cc"]
 *Source: Creature Codex Page 180*
 
 ```statblock
+"dice": false
 "name": "Blood Giant Cc"
 "size": "Huge"
 "type": "Giant"

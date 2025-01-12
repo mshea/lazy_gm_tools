@@ -13,6 +13,7 @@ aliases: ["drainpipe-gargoyle-a5e", "Drainpipe Gargoyle-a5emm"]
 *Source: A5e Monstrous Menagerie Page 215*
 
 ```statblock
+"dice": false
 "name": "Drainpipe Gargoyle A5Emm"
 "size": "Medium"
 "type": "Elemental"

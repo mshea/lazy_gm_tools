@@ -13,6 +13,7 @@ aliases: ["shiftshroom", "Shiftshroom-tob2"]
 *Source: Tome of Beasts 2 Page 159*
 
 ```statblock
+"dice": false
 "name": "Shiftshroom Tob2"
 "size": "Medium"
 "type": "Plant"

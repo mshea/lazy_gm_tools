@@ -13,6 +13,7 @@ aliases: ["lady-in-white", "Lady in White-cc"]
 *Source: Creature Codex Page 246*
 
 ```statblock
+"dice": false
 "name": "Lady In White Cc"
 "size": "Medium"
 "type": "Undead"

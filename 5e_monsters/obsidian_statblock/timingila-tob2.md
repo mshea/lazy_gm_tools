@@ -13,6 +13,7 @@ aliases: ["timingila", "Timingila-tob2"]
 *Source: Tome of Beasts 2 Page 349*
 
 ```statblock
+"dice": false
 "name": "Timingila Tob2"
 "size": "Gargantuan"
 "type": "Monstrosity"

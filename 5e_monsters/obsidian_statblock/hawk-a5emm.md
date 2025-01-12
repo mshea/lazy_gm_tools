@@ -13,6 +13,7 @@ aliases: ["hawk-a5e", "Hawk-a5emm"]
 *Source: A5e Monstrous Menagerie Page 452*
 
 ```statblock
+"dice": false
 "name": "Hawk A5Emm"
 "size": "Tiny"
 "type": "Beast"

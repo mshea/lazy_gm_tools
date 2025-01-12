@@ -13,6 +13,7 @@ aliases: ["the-barbed", "The Barbed-cc"]
 *Source: Creature Codex Page 406*
 
 ```statblock
+"dice": false
 "name": "The Barbed Cc"
 "size": "Small"
 "type": "Humanoid"

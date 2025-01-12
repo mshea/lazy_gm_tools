@@ -13,6 +13,7 @@ aliases: ["arcanaphage", "Arcanaphage-cc"]
 *Source: Creature Codex Page 42*
 
 ```statblock
+"dice": false
 "name": "Arcanaphage Cc"
 "size": "Medium"
 "type": "Monstrosity"

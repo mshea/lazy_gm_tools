@@ -13,6 +13,7 @@ aliases: ["edjet-initiate", "Edjet Initiate-tob2"]
 *Source: Tome of Beasts 2 Page 131*
 
 ```statblock
+"dice": false
 "name": "Edjet Initiate Tob2"
 "size": "Medium"
 "type": "Humanoid"

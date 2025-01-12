@@ -13,6 +13,7 @@ aliases: ["sootwing", "Sootwing-cc"]
 *Source: Creature Codex Page 179*
 
 ```statblock
+"dice": false
 "name": "Sootwing Cc"
 "size": "Small"
 "type": "Beast"

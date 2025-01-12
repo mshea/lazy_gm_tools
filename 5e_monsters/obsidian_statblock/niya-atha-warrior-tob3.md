@@ -13,6 +13,7 @@ aliases: ["niya-atha-warrior", "Niya-Atha Warrior-tob3"]
 *Source: Tome of Beasts 3 Page 290*
 
 ```statblock
+"dice": false
 "name": "Niya Atha Warrior Tob3"
 "size": "Medium"
 "type": "Fey"

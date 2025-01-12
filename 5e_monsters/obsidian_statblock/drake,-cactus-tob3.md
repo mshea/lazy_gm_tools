@@ -13,6 +13,7 @@ aliases: ["drake-cactus", "Drake, Cactus-tob3"]
 *Source: Tome of Beasts 3 Page 152*
 
 ```statblock
+"dice": false
 "name": "Drake, Cactus Tob3"
 "size": "Medium"
 "type": "Dragon"

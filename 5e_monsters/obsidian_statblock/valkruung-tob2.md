@@ -13,6 +13,7 @@ aliases: ["valkruung", "Valkruung-tob2"]
 *Source: Tome of Beasts 2 Page 355*
 
 ```statblock
+"dice": false
 "name": "Valkruung Tob2"
 "size": "Tiny"
 "type": "Monstrosity"

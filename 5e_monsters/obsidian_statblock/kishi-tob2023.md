@@ -13,6 +13,7 @@ aliases: ["kishi-tob1-2023", "Kishi-tob2023"]
 *Source: Tome of Beasts 2023 Page 84*
 
 ```statblock
+"dice": false
 "name": "Kishi Tob2023"
 "size": "Medium"
 "type": "Fiend"

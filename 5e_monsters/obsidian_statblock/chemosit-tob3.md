@@ -13,6 +13,7 @@ aliases: ["chemosit", "Chemosit-tob3"]
 *Source: Tome of Beasts 3 Page 82*
 
 ```statblock
+"dice": false
 "name": "Chemosit Tob3"
 "size": "Medium"
 "type": "Fiend"

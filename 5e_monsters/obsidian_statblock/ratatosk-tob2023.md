@@ -13,6 +13,7 @@ aliases: ["ratatosk-tob1-2023", "Ratatosk-tob2023"]
 *Source: Tome of Beasts 2023 Page 301*
 
 ```statblock
+"dice": false
 "name": "Ratatosk Tob2023"
 "size": "Tiny"
 "type": "Celestial"

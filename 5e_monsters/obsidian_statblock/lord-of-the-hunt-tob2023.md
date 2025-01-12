@@ -13,6 +13,7 @@ aliases: ["lordofthehunt-tob1-2023", "Lord of the Hunt-tob2023"]
 *Source: Tome of Beasts 2023 Page 174*
 
 ```statblock
+"dice": false
 "name": "Lord Of The Hunt Tob2023"
 "size": "Medium"
 "type": "Fey"

@@ -13,6 +13,7 @@ aliases: ["deathsworn-elf", "Deathsworn Elf-cc"]
 *Source: Creature Codex Page 142*
 
 ```statblock
+"dice": false
 "name": "Deathsworn Elf Cc"
 "size": "Medium"
 "type": "Humanoid"

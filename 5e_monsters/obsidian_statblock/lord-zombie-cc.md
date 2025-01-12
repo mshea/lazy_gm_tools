@@ -13,6 +13,7 @@ aliases: ["lord-zombie", "Lord Zombie-cc"]
 *Source: Creature Codex Page 26*
 
 ```statblock
+"dice": false
 "name": "Lord Zombie Cc"
 "size": "Medium"
 "type": "Undead"

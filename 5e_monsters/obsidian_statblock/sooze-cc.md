@@ -13,6 +13,7 @@ aliases: ["sooze", "Sooze-cc"]
 *Source: Creature Codex Page 287*
 
 ```statblock
+"dice": false
 "name": "Sooze Cc"
 "size": "Medium"
 "type": "Aberration"

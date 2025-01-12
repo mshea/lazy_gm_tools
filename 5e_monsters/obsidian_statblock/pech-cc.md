@@ -13,6 +13,7 @@ aliases: ["pech", "Pech-cc"]
 *Source: Creature Codex Page 294*
 
 ```statblock
+"dice": false
 "name": "Pech Cc"
 "size": "Small"
 "type": "Elemental"

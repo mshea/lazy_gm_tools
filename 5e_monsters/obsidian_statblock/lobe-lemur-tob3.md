@@ -13,6 +13,7 @@ aliases: ["lobe-lemur", "Lobe Lemur-tob3"]
 *Source: Tome of Beasts 3 Page 264*
 
 ```statblock
+"dice": false
 "name": "Lobe Lemur Tob3"
 "size": "Small"
 "type": "Monstrosity"

@@ -13,6 +13,7 @@ aliases: ["emptycloak-tob1-2023", "Empty Cloak-tob2023"]
 *Source: Tome of Beasts 2023 Page 164*
 
 ```statblock
+"dice": false
 "name": "Empty Cloak Tob2023"
 "size": "Medium"
 "type": "Construct"

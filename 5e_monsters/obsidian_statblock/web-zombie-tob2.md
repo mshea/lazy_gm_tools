@@ -13,6 +13,7 @@ aliases: ["web-zombie", "Web Zombie-tob2"]
 *Source: Tome of Beasts 2 Page 209*
 
 ```statblock
+"dice": false
 "name": "Web Zombie Tob2"
 "size": "Medium"
 "type": "Undead"

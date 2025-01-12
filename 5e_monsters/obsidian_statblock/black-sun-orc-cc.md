@@ -13,6 +13,7 @@ aliases: ["black-sun-orc", "Black Sun Orc-cc"]
 *Source: Creature Codex Page 289*
 
 ```statblock
+"dice": false
 "name": "Black Sun Orc Cc"
 "size": "Medium"
 "type": "Humanoid"

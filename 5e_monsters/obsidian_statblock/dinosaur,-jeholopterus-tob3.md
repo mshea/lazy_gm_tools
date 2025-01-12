@@ -13,6 +13,7 @@ aliases: ["dinosaur-jeholopterus", "Dinosaur, Jeholopterus-tob3"]
 *Source: Tome of Beasts 3 Page 126*
 
 ```statblock
+"dice": false
 "name": "Dinosaur, Jeholopterus Tob3"
 "size": "Small"
 "type": "Beast"

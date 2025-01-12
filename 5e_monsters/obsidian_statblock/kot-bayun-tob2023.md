@@ -13,6 +13,7 @@ aliases: ["kotbayun-tob1-2023", "Kot Bayun-tob2023"]
 *Source: Tome of Beasts 2023 Page 248*
 
 ```statblock
+"dice": false
 "name": "Kot Bayun Tob2023"
 "size": "Medium"
 "type": "Monstrosity"

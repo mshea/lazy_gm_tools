@@ -13,6 +13,7 @@ aliases: ["tyrannosaurus-rex-a5e", "Tyrannosaurus Rex-a5emm"]
 *Source: A5e Monstrous Menagerie Page 92*
 
 ```statblock
+"dice": false
 "name": "Tyrannosaurus Rex A5Emm"
 "size": "Huge"
 "type": "Beast"

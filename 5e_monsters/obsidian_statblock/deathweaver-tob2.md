@@ -13,6 +13,7 @@ aliases: ["deathweaver", "Deathweaver-tob2"]
 *Source: Tome of Beasts 2 Page 83*
 
 ```statblock
+"dice": false
 "name": "Deathweaver Tob2"
 "size": "Huge"
 "type": "Monstrosity"

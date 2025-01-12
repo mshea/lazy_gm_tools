@@ -13,6 +13,7 @@ aliases: ["mi-go-tob1-2023", "Mi-Go-tob2023"]
 *Source: Tome of Beasts 2023 Page 266*
 
 ```statblock
+"dice": false
 "name": "Mi Go Tob2023"
 "size": "Medium"
 "type": "Plant"

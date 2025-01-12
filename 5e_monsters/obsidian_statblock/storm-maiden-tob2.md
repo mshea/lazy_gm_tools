@@ -13,6 +13,7 @@ aliases: ["storm-maiden", "Storm Maiden-tob2"]
 *Source: Tome of Beasts 2 Page 340*
 
 ```statblock
+"dice": false
 "name": "Storm Maiden Tob2"
 "size": "Medium"
 "type": "Elemental"

@@ -13,6 +13,7 @@ aliases: ["liosalfar-tob1-2023", "Liosalfar-tob2023"]
 *Source: Tome of Beasts 2023 Page 256*
 
 ```statblock
+"dice": false
 "name": "Liosalfar Tob2023"
 "size": "Large"
 "type": "Elemental"

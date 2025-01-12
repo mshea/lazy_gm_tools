@@ -13,6 +13,7 @@ aliases: ["mountain-dwarf-defender-a5e", "Mountain Dwarf Defender-a5emm"]
 *Source: A5e Monstrous Menagerie Page 477*
 
 ```statblock
+"dice": false
 "name": "Mountain Dwarf Defender A5Emm"
 "size": "Medium"
 "type": "Humanoid"

@@ -13,6 +13,7 @@ aliases: ["sahuagin-champion-a5e", "Sahuagin Champion-a5emm"]
 *Source: A5e Monstrous Menagerie Page 377*
 
 ```statblock
+"dice": false
 "name": "Sahuagin Champion A5Emm"
 "size": "Medium"
 "type": "Humanoid"

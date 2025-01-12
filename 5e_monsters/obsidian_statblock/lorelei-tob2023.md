@@ -13,6 +13,7 @@ aliases: ["lorelei-tob1-2023", "Lorelei-tob2023"]
 *Source: Tome of Beasts 2023 Page 258*
 
 ```statblock
+"dice": false
 "name": "Lorelei Tob2023"
 "size": "Medium"
 "type": "Fey"

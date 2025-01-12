@@ -13,6 +13,7 @@ aliases: ["rimewormgrub-tob1-2023", "Rime Worm Grub-tob2023"]
 *Source: Tome of Beasts 2023 Page 308*
 
 ```statblock
+"dice": false
 "name": "Rime Worm Grub Tob2023"
 "size": "Medium"
 "type": "Elemental"

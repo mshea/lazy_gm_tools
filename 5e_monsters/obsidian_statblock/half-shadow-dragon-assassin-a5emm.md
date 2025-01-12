@@ -13,6 +13,7 @@ aliases: ["half-shadow-dragon-assassin-a5e", "Half-Shadow Dragon Assassin-a5emm"
 *Source: A5e Monstrous Menagerie Page 274*
 
 ```statblock
+"dice": false
 "name": "Half Shadow Dragon Assassin A5Emm"
 "size": "Medium"
 "type": "Humanoid"

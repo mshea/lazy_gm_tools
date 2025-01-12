@@ -13,6 +13,7 @@ aliases: ["stuhac-tob1-2023", "Stuhac-tob2023"]
 *Source: Tome of Beasts 2023 Page 351*
 
 ```statblock
+"dice": false
 "name": "Stuhac Tob2023"
 "size": "Medium"
 "type": "Fiend"

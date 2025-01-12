@@ -13,6 +13,7 @@ aliases: ["murmuring-worm-a5e", "Murmuring Worm-a5emm"]
 *Source: A5e Monstrous Menagerie Page 245*
 
 ```statblock
+"dice": false
 "name": "Murmuring Worm A5Emm"
 "size": "Huge"
 "type": "Aberration"

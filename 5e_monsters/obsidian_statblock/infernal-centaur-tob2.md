@@ -13,6 +13,7 @@ aliases: ["infernal-centaur", "Infernal Centaur-tob2"]
 *Source: Tome of Beasts 2 Page 214*
 
 ```statblock
+"dice": false
 "name": "Infernal Centaur Tob2"
 "size": "Medium"
 "type": "Fiend"

@@ -13,6 +13,7 @@ aliases: ["boreas-chosen", "Boreas’ Chosen-tob2"]
 *Source: Tome of Beasts 2 Page 48*
 
 ```statblock
+"dice": false
 "name": "Boreas’ Chosen Tob2"
 "size": "Medium"
 "type": "Humanoid"

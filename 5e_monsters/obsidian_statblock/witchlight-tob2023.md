@@ -13,6 +13,7 @@ aliases: ["witchlight-tob1-2023", "Witchlight-tob2023"]
 *Source: Tome of Beasts 2023 Page 397*
 
 ```statblock
+"dice": false
 "name": "Witchlight Tob2023"
 "size": "Tiny"
 "type": "Construct"

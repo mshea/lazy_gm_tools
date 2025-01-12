@@ -13,6 +13,7 @@ aliases: ["tripwire-patch", "Tripwire Patch-tob3"]
 *Source: Tome of Beasts 3 Page 371*
 
 ```statblock
+"dice": false
 "name": "Tripwire Patch Tob3"
 "size": "Huge"
 "type": "Plant"

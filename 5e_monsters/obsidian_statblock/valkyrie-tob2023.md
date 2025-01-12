@@ -13,6 +13,7 @@ aliases: ["valkyrie-tob1-2023", "Valkyrie-tob2023"]
 *Source: Tome of Beasts 2023 Page 379*
 
 ```statblock
+"dice": false
 "name": "Valkyrie Tob2023"
 "size": "Medium"
 "type": "Celestial"

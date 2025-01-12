@@ -13,6 +13,7 @@ aliases: ["octopus-a5e", "Octopus-a5emm"]
 *Source: A5e Monstrous Menagerie Page 455*
 
 ```statblock
+"dice": false
 "name": "Octopus A5Emm"
 "size": "Tiny"
 "type": "Beast"

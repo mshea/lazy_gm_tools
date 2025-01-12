@@ -13,6 +13,7 @@ aliases: ["climbing-vine", "Climbing Vine-tob3"]
 *Source: Tome of Beasts 3 Page 85*
 
 ```statblock
+"dice": false
 "name": "Climbing Vine Tob3"
 "size": "Medium"
 "type": "Plant"

@@ -13,6 +13,7 @@ aliases: ["swolbold", "Swolbold-cc"]
 *Source: Creature Codex Page 240*
 
 ```statblock
+"dice": false
 "name": "Swolbold Cc"
 "size": "Medium"
 "type": "Humanoid"

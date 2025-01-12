@@ -13,6 +13,7 @@ aliases: ["shadow-fey-ambassador", "Shadow Fey Ambassador-cc"]
 *Source: Creature Codex Page 145*
 
 ```statblock
+"dice": false
 "name": "Shadow Fey Ambassador Cc"
 "size": "Medium"
 "type": "Humanoid"

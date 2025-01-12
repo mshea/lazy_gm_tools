@@ -13,6 +13,7 @@ aliases: ["giant-toad-a5e", "Giant Toad-a5emm"]
 *Source: A5e Monstrous Menagerie Page 450*
 
 ```statblock
+"dice": false
 "name": "Giant Toad A5Emm"
 "size": "Large"
 "type": "Beast"

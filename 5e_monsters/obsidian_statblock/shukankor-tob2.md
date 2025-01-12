@@ -13,6 +13,7 @@ aliases: ["shukankor", "Shukankor-tob2"]
 *Source: Tome of Beasts 2 Page 326*
 
 ```statblock
+"dice": false
 "name": "Shukankor Tob2"
 "size": "Huge"
 "type": "Aberration"

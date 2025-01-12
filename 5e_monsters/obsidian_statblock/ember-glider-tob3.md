@@ -13,6 +13,7 @@ aliases: ["ember-glider", "Ember Glider-tob3"]
 *Source: Tome of Beasts 3 Page 170*
 
 ```statblock
+"dice": false
 "name": "Ember Glider Tob3"
 "size": "Medium"
 "type": "Monstrosity"

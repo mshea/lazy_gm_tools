@@ -13,6 +13,7 @@ aliases: ["falsifier-fog", "Falsifier Fog-tob2"]
 *Source: Tome of Beasts 2 Page 140*
 
 ```statblock
+"dice": false
 "name": "Falsifier Fog Tob2"
 "size": "Huge"
 "type": "Undead"

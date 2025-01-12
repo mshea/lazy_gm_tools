@@ -13,6 +13,7 @@ aliases: ["salamander-noble-a5e", "Salamander Noble-a5emm"]
 *Source: A5e Monstrous Menagerie Page 379*
 
 ```statblock
+"dice": false
 "name": "Salamander Noble A5Emm"
 "size": "Huge"
 "type": "Elemental"

@@ -13,6 +13,7 @@ aliases: ["constrictor-snake-a5e", "Constrictor Snake-a5emm"]
 *Source: A5e Monstrous Menagerie Page 441*
 
 ```statblock
+"dice": false
 "name": "Constrictor Snake A5Emm"
 "size": "Large"
 "type": "Beast"

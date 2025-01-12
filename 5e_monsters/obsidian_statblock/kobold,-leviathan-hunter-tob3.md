@@ -13,6 +13,7 @@ aliases: ["kobold-leviathan-hunter", "Kobold, Leviathan Hunter-tob3"]
 *Source: Tome of Beasts 3 Page 254*
 
 ```statblock
+"dice": false
 "name": "Kobold, Leviathan Hunter Tob3"
 "size": "Medium"
 "type": "Humanoid"

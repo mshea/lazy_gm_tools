@@ -13,6 +13,7 @@ aliases: ["rakshasa-servitor", "Rakshasa, Servitor-tob3"]
 *Source: Tome of Beasts 3 Page 328*
 
 ```statblock
+"dice": false
 "name": "Rakshasa, Servitor Tob3"
 "size": "Medium"
 "type": "Fiend"

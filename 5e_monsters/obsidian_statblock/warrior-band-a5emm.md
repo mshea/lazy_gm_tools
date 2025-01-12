@@ -13,6 +13,7 @@ aliases: ["warrior-band-a5e", "Warrior Band-a5emm"]
 *Source: A5e Monstrous Menagerie Page 499*
 
 ```statblock
+"dice": false
 "name": "Warrior Band A5Emm"
 "size": "Large"
 "type": "Humanoid"

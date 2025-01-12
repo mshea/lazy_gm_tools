@@ -13,6 +13,7 @@ aliases: ["pact-drake", "Pact Drake-cc"]
 *Source: Creature Codex Page 130*
 
 ```statblock
+"dice": false
 "name": "Pact Drake Cc"
 "size": "Small"
 "type": "Dragon"

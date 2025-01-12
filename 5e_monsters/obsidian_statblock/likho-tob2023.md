@@ -13,6 +13,7 @@ aliases: ["likho-tob1-2023", "Likho-tob2023"]
 *Source: Tome of Beasts 2023 Page 254*
 
 ```statblock
+"dice": false
 "name": "Likho Tob2023"
 "size": "Medium"
 "type": "Monstrosity"

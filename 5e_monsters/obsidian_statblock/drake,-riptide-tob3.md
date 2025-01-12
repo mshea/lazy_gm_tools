@@ -13,6 +13,7 @@ aliases: ["drake-riptide", "Drake, Riptide-tob3"]
 *Source: Tome of Beasts 3 Page 155*
 
 ```statblock
+"dice": false
 "name": "Drake, Riptide Tob3"
 "size": "Large"
 "type": "Dragon"

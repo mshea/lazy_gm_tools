@@ -13,6 +13,7 @@ aliases: ["hinderling", "Hinderling-tob3"]
 *Source: Tome of Beasts 3 Page 232*
 
 ```statblock
+"dice": false
 "name": "Hinderling Tob3"
 "size": "Small"
 "type": "Fey"

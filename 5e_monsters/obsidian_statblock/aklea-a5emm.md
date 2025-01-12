@@ -13,6 +13,7 @@ aliases: ["aklea-a5e", "Aklea-a5emm"]
 *Source: A5e Monstrous Menagerie Page 405*
 
 ```statblock
+"dice": false
 "name": "Aklea A5Emm"
 "size": "Gargantuan"
 "type": "Celestial"

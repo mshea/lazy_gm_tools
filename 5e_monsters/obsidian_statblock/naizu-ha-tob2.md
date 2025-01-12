@@ -13,6 +13,7 @@ aliases: ["naizu-ha", "Naizu-Ha-tob2"]
 *Source: Tome of Beasts 2 Page 223*
 
 ```statblock
+"dice": false
 "name": "Naizu Ha Tob2"
 "size": "Small"
 "type": "Fey"

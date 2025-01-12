@@ -13,6 +13,7 @@ aliases: ["isonade-tob1-2023", "Isonade-tob2023"]
 *Source: Tome of Beasts 2023 Page 240*
 
 ```statblock
+"dice": false
 "name": "Isonade Tob2023"
 "size": "Gargantuan"
 "type": "Monstrosity"

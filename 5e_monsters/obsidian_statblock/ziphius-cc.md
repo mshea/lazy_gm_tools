@@ -13,6 +13,7 @@ aliases: ["ziphius", "Ziphius-cc"]
 *Source: Creature Codex Page 392*
 
 ```statblock
+"dice": false
 "name": "Ziphius Cc"
 "size": "Gargantuan"
 "type": "Aberration"

@@ -13,6 +13,7 @@ aliases: ["quicksilversiegeorb-tob1-2023", "Quicksilver Siege Orb-tob2023"]
 *Source: Tome of Beasts 2023 Page 297*
 
 ```statblock
+"dice": false
 "name": "Quicksilver Siege Orb Tob2023"
 "size": "Small"
 "type": "Construct"

@@ -13,6 +13,7 @@ aliases: ["raptor-a5e", "Raptor-a5emm"]
 *Source: A5e Monstrous Menagerie Page 91*
 
 ```statblock
+"dice": false
 "name": "Raptor A5Emm"
 "size": "Medium"
 "type": "Beast"

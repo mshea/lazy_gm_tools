@@ -13,6 +13,7 @@ aliases: ["whisperer-in-darkness", "Whisperer in Darkness-cc"]
 *Source: Creature Codex Page 378*
 
 ```statblock
+"dice": false
 "name": "Whisperer In Darkness Cc"
 "size": "Medium"
 "type": "Aberration"
