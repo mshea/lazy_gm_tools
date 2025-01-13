@@ -29,7 +29,11 @@ aliases: ["lordofthehunt-tob1-2023", "Lord of the Hunt-tob2023"]
 - !!int "18"
 - !!int "15"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "11"  "Wisdom": !!int "10"  "Charisma": !!int "8""senses": blindsight 10 ft., darkvision 120 ft., passive Perception 20
+"saves":
+  "Strength": !!int "11"
+  "Wisdom": !!int "10"
+  "Charisma": !!int "8"
+"senses": blindsight 10 ft., darkvision 120 ft., passive Perception 20
 "skillsaves":
   "Athletics": !!int "11"
   "Perception": !!int "10"

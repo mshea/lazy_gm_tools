@@ -29,7 +29,11 @@ aliases: ["mechuiti-tob1-2023", "Mechuiti-tob2023"]
 - !!int "18"
 - !!int "22"
 "speed": "walk 60 ft."
-"saves":  "Strength": !!int "17"  "Dexterity": !!int "12"  "Wisdom": !!int "12""senses": truesight 120 ft., passive Perception 22
+"saves":
+  "Strength": !!int "17"
+  "Dexterity": !!int "12"
+  "Wisdom": !!int "12"
+"senses": truesight 120 ft., passive Perception 22
 "languages": "Abyssal, Celestial, Common, Draconic, Primordial, telepathy 300 ft."
 "cr": "27"
 "damage_immunities": "acid, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks"

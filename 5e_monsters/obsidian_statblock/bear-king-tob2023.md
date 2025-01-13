@@ -29,7 +29,11 @@ aliases: ["bearking-tob1-2023", "Bear King-tob2023"]
 - !!int "18"
 - !!int "16"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "9"  "Dexterity": !!int "4"  "Wisdom": !!int "8""senses": darkvision 120 ft., truesight 10 ft., passive Perception 18
+"saves":
+  "Strength": !!int "9"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "8"
+"senses": darkvision 120 ft., truesight 10 ft., passive Perception 18
 "skillsaves":
   "Athletics": !!int "9"
   "Intimidation": !!int "7"

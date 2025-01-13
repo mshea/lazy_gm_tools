@@ -29,7 +29,10 @@ aliases: ["edjet", "Edjet-cc"]
 - !!int "13"
 - !!int "13"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "5""senses": passive Perception 14
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "5"
+"senses": passive Perception 14
 "skillsaves":
   "athletics": !!int "6"
   "perception": !!int "4"

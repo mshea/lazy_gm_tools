@@ -29,7 +29,11 @@ aliases: ["berstuc-tob1-2023", "Berstuc-tob2023"]
 - !!int "14"
 - !!int "19"
 "speed": "walk 20 ft. burrow 40 ft."
-"saves":  "Strength": !!int "10"  "Wisdom": !!int "6"  "Charisma": !!int "8""senses": darkvision 120 ft., passive Perception 12
+"saves":
+  "Strength": !!int "10"
+  "Wisdom": !!int "6"
+  "Charisma": !!int "8"
+"senses": darkvision 120 ft., passive Perception 12
 "skillsaves":
   "Deception": !!int "8"
   "Nature": !!int "9"

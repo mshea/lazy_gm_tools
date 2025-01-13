@@ -29,7 +29,11 @@ aliases: ["void-knight", "Void Knight-tob3"]
 - !!int "16"
 - !!int "10"
 "speed": "walk 20 ft."
-"saves":  "Strength": !!int "1"  "Constitution": !!int "8"  "Wisdom": !!int "7""senses": blindsight 120' (blind beyond), passive Perception 17
+"saves":
+  "Strength": !!int "1"
+  "Constitution": !!int "8"
+  "Wisdom": !!int "7"
+"senses": blindsight 120' (blind beyond), passive Perception 17
 "skillsaves":
   "perception": !!int "3"
 "languages": "Void Speech, telepathy 120'"

@@ -29,7 +29,10 @@ aliases: ["khodumodumo", "Khodumodumo-tob2"]
 - !!int "15"
 - !!int "7"
 "speed": "walk 25 ft."
-"saves":  "Strength": !!int "11"  "Constitution": !!int "10""senses": blindsight 120 ft. (blind beyond this radius), passive Perception 17
+"saves":
+  "Strength": !!int "11"
+  "Constitution": !!int "10"
+"senses": blindsight 120 ft. (blind beyond this radius), passive Perception 17
 "skillsaves":
   "perception": !!int "7"
   "stealth": !!int "10"

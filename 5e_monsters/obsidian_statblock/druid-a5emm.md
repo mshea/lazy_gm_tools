@@ -29,7 +29,10 @@ aliases: ["druid-a5e", "Druid-a5emm"]
 - !!int "14"
 - !!int "10"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "2"  "Wisdom": !!int "4""senses": passive Perception 14
+"saves":
+  "Strength": !!int "2"
+  "Wisdom": !!int "4"
+"senses": passive Perception 14
 "skillsaves":
   "animal": !!int "0"
   "medicine": !!int "4"

@@ -29,7 +29,9 @@ aliases: ["cueyatl-warrior", "Cueyatl Warrior-cc"]
 - !!int "11"
 - !!int "10"
 "speed": "climb 20 ft. swim 30 ft. walk 30 ft."
-"saves":  "Strength": !!int "2""senses": darkvision 60 ft., passive Perception 10
+"saves":
+  "Strength": !!int "2"
+"senses": darkvision 60 ft., passive Perception 10
 "skillsaves":
   "acrobatics": !!int "4"
   "survival": !!int "2"

@@ -29,7 +29,10 @@ aliases: ["wyvern-knight", "Wyvern Knight-cc"]
 - !!int "12"
 - !!int "15"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "7""senses": passive Perception 14
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "7"
+"senses": passive Perception 14
 "skillsaves":
   "perception": !!int "4"
 "languages": "Common, Draconic"

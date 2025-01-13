@@ -29,7 +29,9 @@ aliases: ["ziphius", "Ziphius-cc"]
 - !!int "13"
 - !!int "4"
 "speed": "swim 60 ft. walk 10 ft."
-"saves":  "Strength": !!int "7""senses": blindsight 120 ft., passive Perception 14
+"saves":
+  "Strength": !!int "7"
+"senses": blindsight 120 ft., passive Perception 14
 "skillsaves":
   "perception": !!int "4"
 "languages": "Aquan, telepathy 120 ft."

@@ -29,7 +29,9 @@ aliases: ["mule-a5e", "Mule-a5emm"]
 - !!int "10"
 - !!int "4"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "3""senses": passive Perception 10
+"saves":
+  "Strength": !!int "3"
+"senses": passive Perception 10
 "skillsaves":
 "cr": "1/8"
 "traits":

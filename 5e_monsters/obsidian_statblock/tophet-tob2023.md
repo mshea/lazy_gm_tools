@@ -29,7 +29,11 @@ aliases: ["tophet-tob1-2023", "Tophet-tob2023"]
 - !!int "10"
 - !!int "10"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "8"  "Dexterity": !!int "3"  "Constitution": !!int "8""senses": darkvision 60 ft., passive Perception 13
+"saves":
+  "Strength": !!int "8"
+  "Dexterity": !!int "3"
+  "Constitution": !!int "8"
+"senses": darkvision 60 ft., passive Perception 13
 "skillsaves":
   "Perception": !!int "3"
 "languages": "understands the languages of its creator but can’t speak"

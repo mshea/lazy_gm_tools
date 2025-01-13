@@ -29,7 +29,10 @@ aliases: ["clockworkhuntsman-tob1-2023", "Clockwork Huntsman-tob2023"]
 - !!int "10"
 - !!int "1"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "5"  "Dexterity": !!int "4""senses": darkvision 60 ft., passive Perception 14
+"saves":
+  "Strength": !!int "5"
+  "Dexterity": !!int "4"
+"senses": darkvision 60 ft., passive Perception 14
 "skillsaves":
   "Perception": !!int "4"
   "Survival": !!int "4"

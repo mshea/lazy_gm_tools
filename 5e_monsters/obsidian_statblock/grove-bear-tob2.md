@@ -29,7 +29,10 @@ aliases: ["grove-bear", "Grove Bear-tob2"]
 - !!int "12"
 - !!int "7"
 "speed": "climb 30 ft. walk 40 ft."
-"saves":  "Strength": !!int "5"  "Constitution": !!int "4""senses": passive Perception 13
+"saves":
+  "Strength": !!int "5"
+  "Constitution": !!int "4"
+"senses": passive Perception 13
 "skillsaves":
   "perception": !!int "3"
 "languages": "—"

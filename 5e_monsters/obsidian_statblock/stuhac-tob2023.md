@@ -29,7 +29,12 @@ aliases: ["stuhac-tob1-2023", "Stuhac-tob2023"]
 - !!int "16"
 - !!int "15"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "11"  "Dexterity": !!int "9"  "Constitution": !!int "10"  "Charisma": !!int "7""senses": darkvision 60 ft., passive Perception 13
+"saves":
+  "Strength": !!int "11"
+  "Dexterity": !!int "9"
+  "Constitution": !!int "10"
+  "Charisma": !!int "7"
+"senses": darkvision 60 ft., passive Perception 13
 "skillsaves":
   "Deception": !!int "12"
 "languages": "Abyssal, Common, Infernal, telepathy 120 ft."

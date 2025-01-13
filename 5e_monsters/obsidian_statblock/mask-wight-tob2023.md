@@ -29,7 +29,14 @@ aliases: ["maskwight-tob1-2023", "Mask Wight-tob2023"]
 - !!int "16"
 - !!int "18"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "11"  "Dexterity": !!int "9"  "Constitution": !!int "12"  "Intelligence": !!int "7"  "Wisdom": !!int "8"  "Charisma": !!int "9""senses": darkvision 60 ft., truesight 30 ft., passive Perception 13
+"saves":
+  "Strength": !!int "11"
+  "Dexterity": !!int "9"
+  "Constitution": !!int "12"
+  "Intelligence": !!int "7"
+  "Wisdom": !!int "8"
+  "Charisma": !!int "9"
+"senses": darkvision 60 ft., truesight 30 ft., passive Perception 13
 "languages": "Abyssal, Common, Infernal"
 "cr": "13"
 "damage_immunities": "necrotic, poison"

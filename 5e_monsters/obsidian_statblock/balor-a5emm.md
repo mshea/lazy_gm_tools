@@ -29,7 +29,13 @@ aliases: ["balor-a5e", "Balor-a5emm"]
 - !!int "20"
 - !!int "22"
 "speed": "walk 40 ft. fly 80 ft."
-"saves":  "Strength": !!int "14"  "Dexterity": !!int "10"  "Constitution": !!int "11"  "Wisdom": !!int "11"  "Charisma": !!int "12""senses": truesight 120 ft., passive Perception 21
+"saves":
+  "Strength": !!int "14"
+  "Dexterity": !!int "10"
+  "Constitution": !!int "11"
+  "Wisdom": !!int "11"
+  "Charisma": !!int "12"
+"senses": truesight 120 ft., passive Perception 21
 "skillsaves":
   "intimidation": !!int "12"
   "perception": !!int "11"

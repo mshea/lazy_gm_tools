@@ -29,7 +29,13 @@ aliases: ["akyishigal-tob1-2023", "Akyishigal-tob2023"]
 - !!int "14"
 - !!int "20"
 "speed": "walk 40 ft. fly 40 ft. burrow 40 ft."
-"saves":  "Strength": !!int "9"  "Dexterity": !!int "7"  "Constitution": !!int "10"  "Wisdom": !!int "6"  "Charisma": !!int "9""senses": darkvision 120 ft., truesight 60 ft., passive Perception 16
+"saves":
+  "Strength": !!int "9"
+  "Dexterity": !!int "7"
+  "Constitution": !!int "10"
+  "Wisdom": !!int "6"
+  "Charisma": !!int "9"
+"senses": darkvision 120 ft., truesight 60 ft., passive Perception 16
 "skillsaves":
   "Acrobatics": !!int "11"
   "Athletics": !!int "9"

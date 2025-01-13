@@ -29,7 +29,10 @@ aliases: ["guardian-tob1-2023", "Guardian-tob2023"]
 - !!int "14"
 - !!int "8"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "5""senses": darkvision 60 ft., passive Perception 14
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "5"
+"senses": darkvision 60 ft., passive Perception 14
 "skillsaves":
   "Athletics": !!int "6"
   "Perception": !!int "4"

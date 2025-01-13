@@ -29,7 +29,10 @@ aliases: ["howler-baboon", "Howler Baboon-tob2"]
 - !!int "12"
 - !!int "7"
 "speed": "climb 30 ft. walk 30 ft."
-"saves":  "Strength": !!int "4"  "Wisdom": !!int "3""senses": passive Perception 13
+"saves":
+  "Strength": !!int "4"
+  "Wisdom": !!int "3"
+"senses": passive Perception 13
 "skillsaves":
   "athletics": !!int "4"
   "perception": !!int "3"

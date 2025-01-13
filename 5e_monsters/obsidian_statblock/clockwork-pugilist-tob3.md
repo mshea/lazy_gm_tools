@@ -29,7 +29,10 @@ aliases: ["clockwork-pugilist", "Clockwork Pugilist-tob3"]
 - !!int "13"
 - !!int "10"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Constitution": !!int "4""senses": darkvision 60', passive Perception 13
+"saves":
+  "Strength": !!int "5"
+  "Constitution": !!int "4"
+"senses": darkvision 60', passive Perception 13
 "skillsaves":
   "perception": !!int "1"
 "languages": "Common"

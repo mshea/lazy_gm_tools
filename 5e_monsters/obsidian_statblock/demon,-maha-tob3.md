@@ -29,7 +29,12 @@ aliases: ["demon-maha", "Demon, Maha-tob3"]
 - !!int "16"
 - !!int "12"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "8"  "Dexterity": !!int "9"  "Constitution": !!int "8"  "Wisdom": !!int "7""senses": truesight 120', passive Perception 13
+"saves":
+  "Strength": !!int "8"
+  "Dexterity": !!int "9"
+  "Constitution": !!int "8"
+  "Wisdom": !!int "7"
+"senses": truesight 120', passive Perception 13
 "skillsaves":
   "perception": !!int "3"
 "languages": "Abyssal, telepathy 120'"

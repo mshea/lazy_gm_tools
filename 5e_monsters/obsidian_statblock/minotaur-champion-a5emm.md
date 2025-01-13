@@ -29,7 +29,12 @@ aliases: ["minotaur-champion-a5e", "Minotaur Champion-a5emm"]
 - !!int "16"
 - !!int "14"
 "speed": "walk 50 ft."
-"saves":  "Strength": !!int "11"  "Dexterity": !!int "5"  "Constitution": !!int "11"  "Wisdom": !!int "8""senses": darkvision 120 ft., passive Perception 21
+"saves":
+  "Strength": !!int "11"
+  "Dexterity": !!int "5"
+  "Constitution": !!int "11"
+  "Wisdom": !!int "8"
+"senses": darkvision 120 ft., passive Perception 21
 "skillsaves":
   "perception": !!int "8"
 "languages": "Abyssal, Undercommon"

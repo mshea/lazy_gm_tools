@@ -29,7 +29,13 @@ aliases: ["dragoneel-tob1-2023", "Dragon Eel-tob2023"]
 - !!int "13"
 - !!int "14"
 "speed": "walk 60 ft."
-"saves":  "Strength": !!int "12"  "Dexterity": !!int "5"  "Intelligence": !!int "6"  "Wisdom": !!int "5"  "Charisma": !!int "6""senses": darkvision 60 ft., passive Perception 15
+"saves":
+  "Strength": !!int "12"
+  "Dexterity": !!int "5"
+  "Intelligence": !!int "6"
+  "Wisdom": !!int "5"
+  "Charisma": !!int "6"
+"senses": darkvision 60 ft., passive Perception 15
 "skillsaves":
   "Acrobatics": !!int "5"
   "Athletics": !!int "12"

@@ -29,7 +29,13 @@ aliases: ["divi-a5e", "Divi-a5emm"]
 - !!int "6"
 - !!int "6"
 "speed": "walk 30 ft. burrow 30 ft. fly 30 ft."
-"saves":  "Strength": !!int "10"  "Constitution": !!int "10"  "Intelligence": !!int "5"  "Wisdom": !!int "6"  "Charisma": !!int "6""senses": darkvision 120 ft., tremorsense 30 ft., passive Perception 16
+"saves":
+  "Strength": !!int "10"
+  "Constitution": !!int "10"
+  "Intelligence": !!int "5"
+  "Wisdom": !!int "6"
+  "Charisma": !!int "6"
+"senses": darkvision 120 ft., tremorsense 30 ft., passive Perception 16
 "skillsaves":
   "athletics": !!int "10"
   "perception": !!int "6"

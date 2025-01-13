@@ -29,7 +29,11 @@ aliases: ["lindwurm-tob1-2023", "Lindwurm-tob2023"]
 - !!int "12"
 - !!int "8"
 "speed": "walk 20 ft."
-"saves":  "Strength": !!int "7"  "Dexterity": !!int "8"  "Constitution": !!int "6""senses": darkvision 60 ft., tremorsense 120 ft., passive Perception 14
+"saves":
+  "Strength": !!int "7"
+  "Dexterity": !!int "8"
+  "Constitution": !!int "6"
+"senses": darkvision 60 ft., tremorsense 120 ft., passive Perception 14
 "skillsaves":
   "Acrobatics": !!int "8"
   "Athletics": !!int "7"

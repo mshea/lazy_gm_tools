@@ -29,7 +29,9 @@ aliases: ["ooze-sinkhole", "Ooze, Sinkhole-tob3"]
 - !!int "6"
 - !!int "1"
 "speed": "walk 20 ft. burrow 40 ft. climb 20 ft."
-"saves":  "Strength": !!int "6""senses": blindsight 120' (blind beyond), passive Perception 8
+"saves":
+  "Strength": !!int "6"
+"senses": blindsight 120' (blind beyond), passive Perception 8
 "skillsaves":
   "perception": !!int "-2"
 "languages": "—"

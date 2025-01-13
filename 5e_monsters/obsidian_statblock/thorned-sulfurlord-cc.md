@@ -29,7 +29,9 @@ aliases: ["thorned-sulfurlord", "Thorned Sulfurlord-cc"]
 - !!int "9"
 - !!int "12"
 "speed": "walk 20 ft."
-"saves":  "Strength": !!int "9""senses": truesight 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "9"
+"senses": truesight 120 ft., passive Perception 17
 "skillsaves":
   "athletics": !!int "9"
   "perception": !!int "7"

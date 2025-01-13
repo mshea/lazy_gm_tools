@@ -29,7 +29,12 @@ aliases: ["stone-giant-stonetalker-a5e", "Stone Giant Stonetalker-a5emm"]
 - !!int "12"
 - !!int "10"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "9"  "Dexterity": !!int "5"  "Constitution": !!int "8"  "Wisdom": !!int "4""senses": passive Perception 14
+"saves":
+  "Strength": !!int "9"
+  "Dexterity": !!int "5"
+  "Constitution": !!int "8"
+  "Wisdom": !!int "4"
+"senses": passive Perception 14
 "skillsaves":
   "athletics": !!int "9"
   "perception": !!int "4"

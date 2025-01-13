@@ -29,7 +29,10 @@ aliases: ["giant-honey-bee", "Giant Honey Bee-tob2"]
 - !!int "12"
 - !!int "8"
 "speed": "walk 10 ft. fly 40 ft."
-"saves":  "Strength": !!int "1"  "Dexterity": !!int "4""senses": blindsight 30 ft., passive Perception 11
+"saves":
+  "Strength": !!int "1"
+  "Dexterity": !!int "4"
+"senses": blindsight 30 ft., passive Perception 11
 "skillsaves":
   "survival": !!int "3"
 "languages": "Bee Dance"

@@ -29,7 +29,13 @@ aliases: ["adult-earth-dragon-a5e", "Adult Earth Dragon-a5emm"]
 - !!int "14"
 - !!int "20"
 "speed": "walk 40 ft. fly 40 ft. burrow 60 ft."
-"saves":  "Strength": !!int "12"  "Constitution": !!int "12"  "Intelligence": !!int "8"  "Wisdom": !!int "8"  "Charisma": !!int "7""senses": darkvision 120 ft., tremorsense 90 ft., passive Perception 21
+"saves":
+  "Strength": !!int "12"
+  "Constitution": !!int "12"
+  "Intelligence": !!int "8"
+  "Wisdom": !!int "8"
+  "Charisma": !!int "7"
+"senses": darkvision 120 ft., tremorsense 90 ft., passive Perception 21
 "skillsaves":
   "athletics": !!int "12"
   "insight": !!int "8"

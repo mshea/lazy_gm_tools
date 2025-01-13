@@ -29,7 +29,12 @@ aliases: ["orobasdevil-tob1-2023", "Orobas Devil-tob2023"]
 - !!int "26"
 - !!int "21"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "13"  "Dexterity": !!int "7"  "Constitution": !!int "14"  "Wisdom": !!int "13""senses": truesight 90 ft., passive Perception 23
+"saves":
+  "Strength": !!int "13"
+  "Dexterity": !!int "7"
+  "Constitution": !!int "14"
+  "Wisdom": !!int "13"
+"senses": truesight 90 ft., passive Perception 23
 "skillsaves":
   "Deception": !!int "10"
   "History": !!int "11"

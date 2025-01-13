@@ -29,7 +29,10 @@ aliases: ["warlocks-trumpetbloom", "Warlock's Trumpetbloom-cc"]
 - !!int "10"
 - !!int "6"
 "speed": "walk 20 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "7""senses": blindsight 60 ft. (blind beyond this radius), passive Perception 13
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "7"
+"senses": blindsight 60 ft. (blind beyond this radius), passive Perception 13
 "skillsaves":
   "perception": !!int "3"
   "stealth": !!int "3"

@@ -29,7 +29,10 @@ aliases: ["clockworkmyrmidon-tob1-2023", "Clockwork Myrmidon-tob2023"]
 - !!int "10"
 - !!int "1"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "8"  "Dexterity": !!int "5""senses": darkvision 60 ft., passive Perception 16
+"saves":
+  "Strength": !!int "8"
+  "Dexterity": !!int "5"
+"senses": darkvision 60 ft., passive Perception 16
 "skillsaves":
   "Athletics": !!int "8"
   "Perception": !!int "6"

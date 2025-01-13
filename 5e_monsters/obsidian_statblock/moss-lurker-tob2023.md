@@ -29,7 +29,10 @@ aliases: ["mosslurker-tob1-2023", "Moss Lurker-tob2023"]
 - !!int "10"
 - !!int "10"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "4"  "Dexterity": !!int "4""senses": blindsight 60 ft., passive Perception 12
+"saves":
+  "Strength": !!int "4"
+  "Dexterity": !!int "4"
+"senses": blindsight 60 ft., passive Perception 12
 "skillsaves":
   "Perception": !!int "2"
   "Stealth": !!int "4"

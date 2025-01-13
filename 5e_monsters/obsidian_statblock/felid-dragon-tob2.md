@@ -29,7 +29,12 @@ aliases: ["felid-dragon", "Felid Dragon-tob2"]
 - !!int "17"
 - !!int "19"
 "speed": "walk 40 ft. fly 80 ft."
-"saves":  "Strength": !!int "10"  "Constitution": !!int "12"  "Wisdom": !!int "9"  "Charisma": !!int "10""senses": blindsight 60 ft., darkvision 120 ft., passive Perception 13
+"saves":
+  "Strength": !!int "10"
+  "Constitution": !!int "12"
+  "Wisdom": !!int "9"
+  "Charisma": !!int "10"
+"senses": blindsight 60 ft., darkvision 120 ft., passive Perception 13
 "skillsaves":
   "acrobatics": !!int "14"
   "perception": !!int "9"

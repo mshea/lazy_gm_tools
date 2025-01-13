@@ -29,7 +29,10 @@ aliases: ["greater-scrag", "Greater Scrag-cc"]
 - !!int "10"
 - !!int "11"
 "speed": "swim 40 ft. walk 30 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "6""senses": darkvision 60 ft., passive Perception 10
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "6"
+"senses": darkvision 60 ft., passive Perception 10
 "skillsaves":
 "languages": "Abyssal, Aquan, Giant"
 "cr": "7"

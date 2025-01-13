@@ -29,7 +29,12 @@ aliases: ["chemosit", "Chemosit-tob3"]
 - !!int "14"
 - !!int "15"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "7"  "Wisdom": !!int "5"  "Charisma": !!int "5""senses": darkvision 120', passive Perception 15
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "7"
+  "Wisdom": !!int "5"
+  "Charisma": !!int "5"
+"senses": darkvision 120', passive Perception 15
 "skillsaves":
   "perception": !!int "2"
 "languages": "Abyssal, Common, Infernal"

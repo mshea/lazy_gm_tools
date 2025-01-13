@@ -29,7 +29,12 @@ aliases: ["shadow-elf-champion-warrior-a5e", "Shadow Elf Champion Warrior-a5emm"
 - !!int "12"
 - !!int "14"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "7"  "Dexterity": !!int "7"  "Constitution": !!int "6"  "Wisdom": !!int "4""senses": passive Perception 14, darkvision 120 ft.
+"saves":
+  "Strength": !!int "7"
+  "Dexterity": !!int "7"
+  "Constitution": !!int "6"
+  "Wisdom": !!int "4"
+"senses": passive Perception 14, darkvision 120 ft.
 "skillsaves":
   "athletics": !!int "7"
   "intimidation": !!int "5"

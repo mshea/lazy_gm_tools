@@ -29,7 +29,10 @@ aliases: ["hag-pesta", "Hag, Pesta-tob3"]
 - !!int "17"
 - !!int "15"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Wisdom": !!int "5""senses": darkvision 60', passive Perception 15
+"saves":
+  "Strength": !!int "5"
+  "Wisdom": !!int "5"
+"senses": darkvision 60', passive Perception 15
 "skillsaves":
   "perception": !!int "3"
 "languages": "Common, Giant, Sylvan"

@@ -29,7 +29,11 @@ aliases: ["eaterofdust-tob1-2023", "Eater of Dust-tob2023"]
 - !!int "15"
 - !!int "17"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "9"  "Constitution": !!int "9"  "Charisma": !!int "7""senses": blindsight 120 ft. (blind beyond this radius), passive Perception 16
+"saves":
+  "Strength": !!int "9"
+  "Constitution": !!int "9"
+  "Charisma": !!int "7"
+"senses": blindsight 120 ft. (blind beyond this radius), passive Perception 16
 "skillsaves":
   "Athletics": !!int "9"
   "Intimidation": !!int "7"

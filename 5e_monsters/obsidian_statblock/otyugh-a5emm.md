@@ -29,7 +29,10 @@ aliases: ["otyugh-a5e", "Otyugh-a5emm"]
 - !!int "14"
 - !!int "5"
 "speed": "walk 30 ft. swim 30 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "6""senses": darkvision 120 ft., passive Perception 12
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "6"
+"senses": darkvision 120 ft., passive Perception 12
 "skillsaves":
 "languages": "telepathy 120 ft. (can transmit but not receive thoughts and images)"
 "cr": "6"

@@ -29,7 +29,10 @@ aliases: ["gladiator-a5e", "Gladiator-a5emm"]
 - !!int "12"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "6""senses": passive Perception 11
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "6"
+"senses": passive Perception 11
 "skillsaves":
   "athletics": !!int "7"
   "intimidation": !!int "5"

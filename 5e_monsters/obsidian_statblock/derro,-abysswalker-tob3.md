@@ -29,7 +29,11 @@ aliases: ["derro-abysswalker", "Derro, Abysswalker-tob3"]
 - !!int "7"
 - !!int "17"
 "speed": "walk 25 ft."
-"saves":  "Strength": !!int "3"  "Wisdom": !!int "1"  "Charisma": !!int "6""senses": darkvision 120', passive Perception 11
+"saves":
+  "Strength": !!int "3"
+  "Wisdom": !!int "1"
+  "Charisma": !!int "6"
+"senses": darkvision 120', passive Perception 11
 "skillsaves":
   "perception": !!int "-2"
 "languages": "Abyssal, Common, Dwarvish, Undercommon"

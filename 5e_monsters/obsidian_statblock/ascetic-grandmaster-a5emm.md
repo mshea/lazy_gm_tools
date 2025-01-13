@@ -29,7 +29,14 @@ aliases: ["ascetic-grandmaster-a5e", "Ascetic Grandmaster-a5emm"]
 - !!int "20"
 - !!int "10"
 "speed": "walk 60 ft. climb 60 ft."
-"saves":  "Strength": !!int "8"  "Dexterity": !!int "10"  "Constitution": !!int "8"  "Intelligence": !!int "5"  "Wisdom": !!int "10"  "Charisma": !!int "5""senses": passive Perception 22
+"saves":
+  "Strength": !!int "8"
+  "Dexterity": !!int "10"
+  "Constitution": !!int "8"
+  "Intelligence": !!int "5"
+  "Wisdom": !!int "10"
+  "Charisma": !!int "5"
+"senses": passive Perception 22
 "skillsaves":
   "acrobatics": !!int "10"
   "athletics": !!int "8"

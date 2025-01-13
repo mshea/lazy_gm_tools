@@ -29,7 +29,10 @@ aliases: ["flutterflesh-tob1-2023", "Flutterflesh-tob2023"]
 - !!int "16"
 - !!int "10"
 "speed": "walk 60 ft. fly 10 ft."
-"saves":  "Strength": !!int "4"  "Wisdom": !!int "7""senses": darkvision 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "4"
+  "Wisdom": !!int "7"
+"senses": darkvision 120 ft., passive Perception 17
 "skillsaves":
   "Deception": !!int "4"
   "Perception": !!int "7"

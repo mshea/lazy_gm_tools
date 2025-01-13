@@ -29,7 +29,12 @@ aliases: ["herald-of-slaughter", "Herald of Slaughter-tob2"]
 - !!int "12"
 - !!int "18"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "8"  "Dexterity": !!int "4"  "Wisdom": !!int "5"  "Charisma": !!int "8""senses": darkvision 120 ft., passive Perception 15
+"saves":
+  "Strength": !!int "8"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "5"
+  "Charisma": !!int "8"
+"senses": darkvision 120 ft., passive Perception 15
 "skillsaves":
   "athletics": !!int "8"
   "deception": !!int "8"

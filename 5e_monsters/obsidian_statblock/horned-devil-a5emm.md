@@ -29,7 +29,12 @@ aliases: ["horned-devil-a5e", "Horned Devil-a5emm"]
 - !!int "16"
 - !!int "16"
 "speed": "walk 30 ft. fly 60 ft."
-"saves":  "Strength": !!int "9"  "Dexterity": !!int "7"  "Wisdom": !!int "7"  "Charisma": !!int "7""senses": darkvision 120 ft., passive Perception 13
+"saves":
+  "Strength": !!int "9"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "7"
+  "Charisma": !!int "7"
+"senses": darkvision 120 ft., passive Perception 13
 "skillsaves":
   "athletics": !!int "9"
   "intimidation": !!int "7"

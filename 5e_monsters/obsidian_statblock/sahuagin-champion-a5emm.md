@@ -29,7 +29,12 @@ aliases: ["sahuagin-champion-a5e", "Sahuagin Champion-a5emm"]
 - !!int "12"
 - !!int "14"
 "speed": "walk 40 ft. swim 40 ft."
-"saves":  "Strength": !!int "7"  "Dexterity": !!int "7"  "Constitution": !!int "6"  "Wisdom": !!int "4""senses": darkvision 120 ft., passive Perception 14
+"saves":
+  "Strength": !!int "7"
+  "Dexterity": !!int "7"
+  "Constitution": !!int "6"
+  "Wisdom": !!int "4"
+"senses": darkvision 120 ft., passive Perception 14
 "skillsaves":
   "athletics": !!int "7"
   "intimidation": !!int "5"

@@ -29,7 +29,9 @@ aliases: ["gnarljak-tob1-2023", "Gnarljak-tob2023"]
 - !!int "14"
 - !!int "1"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "4""senses": blindsight 60 ft. (blind beyond this radius), passive Perception 15
+"saves":
+  "Strength": !!int "4"
+"senses": blindsight 60 ft. (blind beyond this radius), passive Perception 15
 "skillsaves":
   "Perception": !!int "5"
   "Stealth": !!int "8"

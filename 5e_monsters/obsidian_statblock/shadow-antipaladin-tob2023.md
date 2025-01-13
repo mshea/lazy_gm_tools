@@ -29,7 +29,10 @@ aliases: ["shadowantipaladin-tob1-2023", "Shadow Antipaladin-tob2023"]
 - !!int "5"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "3"  "Charisma": !!int "5""senses": darkvision 120 ft., passive Perception 10
+"saves":
+  "Strength": !!int "3"
+  "Charisma": !!int "5"
+"senses": darkvision 120 ft., passive Perception 10
 "skillsaves":
   "Perception": !!int "0"
   "Stealth": !!int "7"

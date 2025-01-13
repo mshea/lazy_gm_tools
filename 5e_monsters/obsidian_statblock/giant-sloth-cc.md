@@ -29,7 +29,9 @@ aliases: ["giant-sloth", "Giant Sloth-cc"]
 - !!int "12"
 - !!int "10"
 "speed": "climb 20 ft. walk 20 ft."
-"saves":  "Strength": !!int "7""senses": darkvision 120 ft., passive Perception 14
+"saves":
+  "Strength": !!int "7"
+"senses": darkvision 120 ft., passive Perception 14
 "skillsaves":
   "athletics": !!int "7"
   "perception": !!int "4"

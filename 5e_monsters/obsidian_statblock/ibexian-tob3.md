@@ -29,7 +29,10 @@ aliases: ["ibexian", "Ibexian-tob3"]
 - !!int "14"
 - !!int "7"
 "speed": "walk 50 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "6""senses": darkvision 120', passive Perception 15
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "6"
+"senses": darkvision 120', passive Perception 15
 "skillsaves":
   "perception": !!int "2"
 "languages": "understands Abyssal but can’t speak"

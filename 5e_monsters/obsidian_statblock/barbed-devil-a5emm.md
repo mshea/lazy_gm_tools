@@ -29,7 +29,12 @@ aliases: ["barbed-devil-a5e", "Barbed Devil-a5emm"]
 - !!int "14"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "7"  "Wisdom": !!int "5"  "Charisma": !!int "5""senses": darkvision 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
+  "Wisdom": !!int "5"
+  "Charisma": !!int "5"
+"senses": darkvision 120 ft., passive Perception 17
 "skillsaves":
   "athletics": !!int "7"
   "deception": !!int "5"

@@ -29,7 +29,10 @@ aliases: ["lotus-golem", "Lotus Golem-cc"]
 - !!int "12"
 - !!int "4"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "6"  "Dexterity": !!int "8""senses": darkvision 60 ft., passive Perception 19
+"saves":
+  "Strength": !!int "6"
+  "Dexterity": !!int "8"
+"senses": darkvision 60 ft., passive Perception 19
 "skillsaves":
   "athletics": !!int "6"
   "perception": !!int "9"

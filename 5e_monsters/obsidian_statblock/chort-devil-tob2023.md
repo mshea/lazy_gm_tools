@@ -29,7 +29,13 @@ aliases: ["chortdevil-tob1-2023", "Chort Devil-tob2023"]
 - !!int "20"
 - !!int "20"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "11"  "Dexterity": !!int "9"  "Constitution": !!int "12"  "Intelligence": !!int "8"  "Charisma": !!int "9""senses": darkvision 120 ft., passive Perception 19
+"saves":
+  "Strength": !!int "11"
+  "Dexterity": !!int "9"
+  "Constitution": !!int "12"
+  "Intelligence": !!int "8"
+  "Charisma": !!int "9"
+"senses": darkvision 120 ft., passive Perception 19
 "skillsaves":
   "Athletics": !!int "11"
   "Deception": !!int "9"

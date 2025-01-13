@@ -29,7 +29,12 @@ aliases: ["vent-linnorm", "Vent Linnorm-tob2"]
 - !!int "14"
 - !!int "17"
 "speed": "walk 20 ft. swim 80 ft."
-"saves":  "Strength": !!int "12"  "Dexterity": !!int "7"  "Constitution": !!int "11"  "Charisma": !!int "8""senses": blindsight 60 ft., darkvision 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "12"
+  "Dexterity": !!int "7"
+  "Constitution": !!int "11"
+  "Charisma": !!int "8"
+"senses": blindsight 60 ft., darkvision 120 ft., passive Perception 17
 "skillsaves":
   "intimidation": !!int "8"
   "perception": !!int "7"

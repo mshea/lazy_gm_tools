@@ -29,7 +29,11 @@ aliases: ["starspawnofcthulhu-tob1-2023", "Star Spawn of Cthulhu-tob2023"]
 - !!int "18"
 - !!int "23"
 "speed": "walk 50 ft. fly 30 ft."
-"saves":  "Strength": !!int "12"  "Constitution": !!int "12"  "Wisdom": !!int "9""senses": darkvision 300 ft., passive Perception 24
+"saves":
+  "Strength": !!int "12"
+  "Constitution": !!int "12"
+  "Wisdom": !!int "9"
+"senses": darkvision 300 ft., passive Perception 24
 "skillsaves":
   "Arcana": !!int "15"
   "Perception": !!int "14"

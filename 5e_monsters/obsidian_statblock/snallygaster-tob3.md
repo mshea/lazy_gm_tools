@@ -29,7 +29,11 @@ aliases: ["snallygaster", "Snallygaster-tob3"]
 - !!int "14"
 - !!int "12"
 "speed": "walk 30 ft. fly 30 ft."
-"saves":  "Strength": !!int "1"  "Constitution": !!int "1"  "Wisdom": !!int "7""senses": darkvision 120', passive Perception 12
+"saves":
+  "Strength": !!int "1"
+  "Constitution": !!int "1"
+  "Wisdom": !!int "7"
+"senses": darkvision 120', passive Perception 12
 "skillsaves":
   "perception": !!int "2"
 "languages": "—"

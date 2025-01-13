@@ -29,7 +29,10 @@ aliases: ["jaanavar-jal", "Jaanavar Jal-cc"]
 - !!int "13"
 - !!int "10"
 "speed": "swim 60 ft. walk 20 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "8""senses": blindsense 60 ft., passive Perception 14
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "8"
+"senses": blindsense 60 ft., passive Perception 14
 "skillsaves":
   "perception": !!int "4"
   "stealth": !!int "5"

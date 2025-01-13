@@ -29,7 +29,11 @@ aliases: ["undead-phoenix", "Undead Phoenix-cc"]
 - !!int "17"
 - !!int "9"
 "speed": "fly 90 ft. walk 30 ft."
-"saves":  "Strength": !!int "10"  "Constitution": !!int "7"  "Wisdom": !!int "7""senses": darkvision 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "10"
+  "Constitution": !!int "7"
+  "Wisdom": !!int "7"
+"senses": darkvision 120 ft., passive Perception 17
 "skillsaves":
   "perception": !!int "7"
 "languages": "-"

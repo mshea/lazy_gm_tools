@@ -29,7 +29,12 @@ aliases: ["cloud-giant-noble-a5e", "Cloud Giant Noble-a5emm"]
 - !!int "16"
 - !!int "16"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "12"  "Constitution": !!int "10"  "Wisdom": !!int "7"  "Charisma": !!int "7""senses": passive Perception 17
+"saves":
+  "Strength": !!int "12"
+  "Constitution": !!int "10"
+  "Wisdom": !!int "7"
+  "Charisma": !!int "7"
+"senses": passive Perception 17
 "skillsaves":
   "insight": !!int "7"
   "perception": !!int "7"

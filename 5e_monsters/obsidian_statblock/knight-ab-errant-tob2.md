@@ -29,7 +29,10 @@ aliases: ["knight-ab-errant", "Knight Ab-errant-tob2"]
 - !!int "11"
 - !!int "13"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "7"  "Dexterity": !!int "4""senses": passive Perception 10
+"saves":
+  "Strength": !!int "7"
+  "Dexterity": !!int "4"
+"senses": passive Perception 10
 "skillsaves":
   "athletics": !!int "7"
   "intimidation": !!int "4"

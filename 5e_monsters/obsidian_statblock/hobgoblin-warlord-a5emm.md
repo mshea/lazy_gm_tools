@@ -29,7 +29,10 @@ aliases: ["hobgoblin-warlord-a5e", "Hobgoblin Warlord-a5emm"]
 - !!int "12"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Wisdom": !!int "3""senses": darkvision 60 ft., passive Perception 13
+"saves":
+  "Strength": !!int "5"
+  "Wisdom": !!int "3"
+"senses": darkvision 60 ft., passive Perception 13
 "skillsaves":
   "athletics": !!int "5"
   "engineering": !!int "4"

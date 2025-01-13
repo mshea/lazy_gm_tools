@@ -29,7 +29,10 @@ aliases: ["hoard-drake", "Hoard Drake-tob2"]
 - !!int "10"
 - !!int "12"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "8""senses": darkvision 120 ft., passive Perception 13
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "8"
+"senses": darkvision 120 ft., passive Perception 13
 "skillsaves":
   "arcana": !!int "6"
   "history": !!int "6"

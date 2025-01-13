@@ -29,7 +29,10 @@ aliases: ["ettin-a5e", "Ettin-a5emm"]
 - !!int "10"
 - !!int "8"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "5""senses": darkvision 60 ft., passive Perception 12 (17 with Two Heads)
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "5"
+"senses": darkvision 60 ft., passive Perception 12 (17 with Two Heads)
 "skillsaves":
   "perception": !!int "2"
 "languages": "Common, Giant, Orc"

@@ -29,7 +29,10 @@ aliases: ["simhamukha", "Simhamukha-cc"]
 - !!int "17"
 - !!int "19"
 "speed": "walk 50 ft."
-"saves":  "Strength": !!int "8"  "Charisma": !!int "7""senses": truesight 120 ft., passive Perception 16
+"saves":
+  "Strength": !!int "8"
+  "Charisma": !!int "7"
+"senses": truesight 120 ft., passive Perception 16
 "skillsaves":
   "perception": !!int "6"
 "languages": "all, telepathy 120 ft."

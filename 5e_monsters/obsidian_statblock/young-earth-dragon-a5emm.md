@@ -29,7 +29,13 @@ aliases: ["young-earth-dragon-a5e", "Young Earth Dragon-a5emm"]
 - !!int "16"
 - !!int "10"
 "speed": "walk 40 ft. fly 40 ft. burrow 60 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "8"  "Intelligence": !!int "5"  "Wisdom": !!int "7"  "Charisma": !!int "4""senses": darkvision 120 ft., tremorsense 60 ft., passive Perception 20
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "8"
+  "Intelligence": !!int "5"
+  "Wisdom": !!int "7"
+  "Charisma": !!int "4"
+"senses": darkvision 120 ft., tremorsense 60 ft., passive Perception 20
 "skillsaves":
   "athletics": !!int "8"
   "insight": !!int "7"

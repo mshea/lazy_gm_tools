@@ -29,7 +29,10 @@ aliases: ["destroyer", "Destroyer-tob2"]
 - !!int "10"
 - !!int "13"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Constitution": !!int "5""senses": darkvision 60 ft., passive Perception 12
+"saves":
+  "Strength": !!int "5"
+  "Constitution": !!int "5"
+"senses": darkvision 60 ft., passive Perception 12
 "skillsaves":
   "athletics": !!int "5"
   "history": !!int "2"

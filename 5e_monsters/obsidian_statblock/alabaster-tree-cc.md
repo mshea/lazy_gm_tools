@@ -29,7 +29,9 @@ aliases: ["alabaster-tree", "Alabaster Tree-cc"]
 - !!int "14"
 - !!int "10"
 "speed": "walk 10 ft."
-"saves":  "Strength": !!int "8""senses": blindsight 60 ft. (blind beyond this radius), passive Perception 15
+"saves":
+  "Strength": !!int "8"
+"senses": blindsight 60 ft. (blind beyond this radius), passive Perception 15
 "skillsaves":
   "perception": !!int "5"
 "languages": "all, telepathy 120 ft."

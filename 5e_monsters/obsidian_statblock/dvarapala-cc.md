@@ -29,7 +29,11 @@ aliases: ["dvarapala", "Dvarapala-cc"]
 - !!int "16"
 - !!int "9"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "7"  "Wisdom": !!int "6""senses": darkvision 120 ft., passive Perception 16
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
+  "Wisdom": !!int "6"
+"senses": darkvision 120 ft., passive Perception 16
 "skillsaves":
   "perception": !!int "6"
   "religion": !!int "3"

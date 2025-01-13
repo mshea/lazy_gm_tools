@@ -29,7 +29,10 @@ aliases: ["ring-servant", "Ring Servant-cc"]
 - !!int "13"
 - !!int "10"
 "speed": "fly 60 ft. hover True ft. walk 0 ft."
-"saves":  "Strength": !!int "8"  "Wisdom": !!int "4""senses": darkvision 60 ft., passive Perception 14
+"saves":
+  "Strength": !!int "8"
+  "Wisdom": !!int "4"
+"senses": darkvision 60 ft., passive Perception 14
 "skillsaves":
   "athletics": !!int "8"
   "perception": !!int "4"

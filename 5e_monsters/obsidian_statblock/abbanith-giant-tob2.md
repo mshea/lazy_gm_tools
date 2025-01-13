@@ -29,7 +29,10 @@ aliases: ["abbanith-giant", "Abbanith Giant-tob2"]
 - !!int "13"
 - !!int "11"
 "speed": "burrow 30 ft. walk 40 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "5""senses": tremorsense 120 ft., passive Perception 11
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "5"
+"senses": tremorsense 120 ft., passive Perception 11
 "skillsaves":
 "languages": "Giant, Terran"
 "cr": "3"

@@ -29,7 +29,11 @@ aliases: ["angel-pelagic-deva", "Angel, Pelagic Deva-tob3"]
 - !!int "20"
 - !!int "22"
 "speed": "walk 20 ft. swim 90 ft."
-"saves":  "Strength": !!int "8"  "Wisdom": !!int "9"  "Charisma": !!int "1""senses": darkvision 120', passive Perception 19
+"saves":
+  "Strength": !!int "8"
+  "Wisdom": !!int "9"
+  "Charisma": !!int "1"
+"senses": darkvision 120', passive Perception 19
 "skillsaves":
   "perception": !!int "5"
 "languages": "all, telepathy 120'"

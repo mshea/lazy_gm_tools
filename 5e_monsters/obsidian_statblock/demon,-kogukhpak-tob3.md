@@ -29,7 +29,12 @@ aliases: ["demon-kogukhpak", "Demon, Kogukhpak-tob3"]
 - !!int "16"
 - !!int "20"
 "speed": "walk 40 ft. swim 40 ft."
-"saves":  "Strength": !!int "1"  "Constitution": !!int "1"  "Wisdom": !!int "9"  "Charisma": !!int "1""senses": truesight 120', passive Perception 13
+"saves":
+  "Strength": !!int "1"
+  "Constitution": !!int "1"
+  "Wisdom": !!int "9"
+  "Charisma": !!int "1"
+"senses": truesight 120', passive Perception 13
 "skillsaves":
   "perception": !!int "3"
 "languages": "understand Abyssal but can’t speak"

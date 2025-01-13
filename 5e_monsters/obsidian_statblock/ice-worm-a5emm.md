@@ -29,7 +29,13 @@ aliases: ["ice-worm-a5e", "Ice Worm-a5emm"]
 - !!int "10"
 - !!int "4"
 "speed": "walk 50 ft. burrow 20 ft."
-"saves":  "Strength": !!int "14"  "Constitution": !!int "11"  "Intelligence": !!int "1"  "Wisdom": !!int "5"  "Charisma": !!int "2""senses": blindsight 30 ft., tremorsense 60 ft., passive Perception 15
+"saves":
+  "Strength": !!int "14"
+  "Constitution": !!int "11"
+  "Intelligence": !!int "1"
+  "Wisdom": !!int "5"
+  "Charisma": !!int "2"
+"senses": blindsight 30 ft., tremorsense 60 ft., passive Perception 15
 "skillsaves":
 "cr": "15"
 "traits":

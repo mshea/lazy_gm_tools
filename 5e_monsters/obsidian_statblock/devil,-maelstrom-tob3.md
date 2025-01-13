@@ -29,7 +29,11 @@ aliases: ["devil-maelstrom", "Devil, Maelstrom-tob3"]
 - !!int "12"
 - !!int "21"
 "speed": "walk 30 ft. fly 40 ft. swim 120 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "6"  "Wisdom": !!int "5""senses": darkvision 120', passive Perception 11
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "6"
+  "Wisdom": !!int "5"
+"senses": darkvision 120', passive Perception 11
 "skillsaves":
   "perception": !!int "1"
 "languages": "Infernal, telepathy 120'"

@@ -29,7 +29,12 @@ aliases: ["gug-tob1-2023", "Gug-tob2023"]
 - !!int "8"
 - !!int "14"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "11"  "Dexterity": !!int "4"  "Constitution": !!int "9"  "Charisma": !!int "6""senses": darkvision 240 ft., passive Perception 13
+"saves":
+  "Strength": !!int "11"
+  "Dexterity": !!int "4"
+  "Constitution": !!int "9"
+  "Charisma": !!int "6"
+"senses": darkvision 240 ft., passive Perception 13
 "skillsaves":
   "Athletics": !!int "11"
   "Perception": !!int "3"

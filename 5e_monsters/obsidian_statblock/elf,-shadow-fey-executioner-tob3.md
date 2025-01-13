@@ -29,7 +29,10 @@ aliases: ["elf-shadow-fey-executioner", "Elf, Shadow Fey Executioner-tob3"]
 - !!int "14"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "6""senses": blindsight 10', darkvision 60', passive Perception 15
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "6"
+"senses": blindsight 10', darkvision 60', passive Perception 15
 "skillsaves":
   "perception": !!int "2"
 "languages": "Common, Elvish, Umbral"

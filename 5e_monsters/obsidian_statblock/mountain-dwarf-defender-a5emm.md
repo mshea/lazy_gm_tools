@@ -29,7 +29,11 @@ aliases: ["mountain-dwarf-defender-a5e", "Mountain Dwarf Defender-a5emm"]
 - !!int "10"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Constitution": !!int "4"  "Wisdom": !!int "2""senses": passive Perception 12
+"saves":
+  "Strength": !!int "5"
+  "Constitution": !!int "4"
+  "Wisdom": !!int "2"
+"senses": passive Perception 12
 "skillsaves":
   "athletics": !!int "5"
   "history": !!int "0"

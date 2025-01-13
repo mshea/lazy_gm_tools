@@ -29,7 +29,13 @@ aliases: ["nalfeshnee-a5e", "Nalfeshnee-a5emm"]
 - !!int "16"
 - !!int "16"
 "speed": "walk 20 ft. fly 30 ft."
-"saves":  "Strength": !!int "10"  "Constitution": !!int "11"  "Intelligence": !!int "10"  "Wisdom": !!int "8"  "Charisma": !!int "8""senses": truesight 120 ft., passive Perception 13
+"saves":
+  "Strength": !!int "10"
+  "Constitution": !!int "11"
+  "Intelligence": !!int "10"
+  "Wisdom": !!int "8"
+  "Charisma": !!int "8"
+"senses": truesight 120 ft., passive Perception 13
 "skillsaves":
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"

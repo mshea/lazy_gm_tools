@@ -29,7 +29,12 @@ aliases: ["glabrezu-a5e", "Glabrezu-a5emm"]
 - !!int "18"
 - !!int "18"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "9"  "Constitution": !!int "9"  "Wisdom": !!int "8"  "Charisma": !!int "8""senses": truesight 120 ft., passive Perception 14
+"saves":
+  "Strength": !!int "9"
+  "Constitution": !!int "9"
+  "Wisdom": !!int "8"
+  "Charisma": !!int "8"
+"senses": truesight 120 ft., passive Perception 14
 "skillsaves":
   "deception": !!int "8"
   "stealth": !!int "7"

@@ -29,7 +29,12 @@ aliases: ["fire-giant-a5e", "Fire Giant-a5emm"]
 - !!int "14"
 - !!int "12"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "11"  "Dexterity": !!int "4"  "Constitution": !!int "10"  "Charisma": !!int "5""senses": passive Perception 16
+"saves":
+  "Strength": !!int "11"
+  "Dexterity": !!int "4"
+  "Constitution": !!int "10"
+  "Charisma": !!int "5"
+"senses": passive Perception 16
 "skillsaves":
   "athletics": !!int "11"
   "perception": !!int "6"

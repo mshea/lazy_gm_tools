@@ -29,7 +29,13 @@ aliases: ["arcane-leviathan", "Arcane Leviathan-tob3"]
 - !!int "17"
 - !!int "8"
 "speed": "walk 10 ft. swim 60 ft."
-"saves":  "Strength": !!int "1"  "Constitution": !!int "1"  "Intelligence": !!int "2"  "Wisdom": !!int "8"  "Charisma": !!int "4""senses": truesight 120', passive Perception 13
+"saves":
+  "Strength": !!int "1"
+  "Constitution": !!int "1"
+  "Intelligence": !!int "2"
+  "Wisdom": !!int "8"
+  "Charisma": !!int "4"
+"senses": truesight 120', passive Perception 13
 "skillsaves":
   "perception": !!int "3"
 "languages": "understands creator's languages but can’t speak"

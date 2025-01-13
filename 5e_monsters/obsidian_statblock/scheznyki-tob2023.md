@@ -29,7 +29,10 @@ aliases: ["scheznyki-tob1-2023", "Scheznyki-tob2023"]
 - !!int "16"
 - !!int "16"
 "speed": "walk 40 ft. fly 15 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "7""senses": darkvision 60 ft., passive Perception 13
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
+"senses": darkvision 60 ft., passive Perception 13
 "languages": "Common, Dwarvish, Sylvan"
 "cr": "6"
 "traits":

@@ -29,7 +29,10 @@ aliases: ["one-headed-clockwork-dragon", "One-Headed Clockwork Dragon-cc"]
 - !!int "10"
 - !!int "1"
 "speed": "fly 50 ft. walk 30 ft."
-"saves":  "Strength": !!int "9"  "Constitution": !!int "8""senses": darkvision 60 ft., passive Perception 16
+"saves":
+  "Strength": !!int "9"
+  "Constitution": !!int "8"
+"senses": darkvision 60 ft., passive Perception 16
 "skillsaves":
   "athletics": !!int "9"
   "perception": !!int "6"

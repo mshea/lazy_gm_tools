@@ -29,7 +29,9 @@ aliases: ["ice-elemental", "Ice Elemental-tob2"]
 - !!int "14"
 - !!int "6"
 "speed": "burrow 30 ft. climb 20 ft. walk 30 ft."
-"saves":  "Strength": !!int "7""senses": darkvision 60 ft., passive Perception 12
+"saves":
+  "Strength": !!int "7"
+"senses": darkvision 60 ft., passive Perception 12
 "skillsaves":
 "languages": "Aquan"
 "cr": "5"

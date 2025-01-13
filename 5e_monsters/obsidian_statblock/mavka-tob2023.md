@@ -29,7 +29,12 @@ aliases: ["mavka-tob1-2023", "Mavka-tob2023"]
 - !!int "13"
 - !!int "18"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "9"  "Dexterity": !!int "6"  "Constitution": !!int "8"  "Charisma": !!int "8""senses": darkvision 90 ft., passive Perception 15
+"saves":
+  "Strength": !!int "9"
+  "Dexterity": !!int "6"
+  "Constitution": !!int "8"
+  "Charisma": !!int "8"
+"senses": darkvision 90 ft., passive Perception 15
 "skillsaves":
   "Athletics": !!int "9"
   "Nature": !!int "5"

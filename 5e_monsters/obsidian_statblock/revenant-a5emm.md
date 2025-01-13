@@ -29,7 +29,12 @@ aliases: ["revenant-a5e", "Revenant-a5emm"]
 - !!int "12"
 - !!int "18"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "7"  "Wisdom": !!int "4"  "Charisma": !!int "7""senses": darkvision 60 ft., passive Perception 11
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
+  "Wisdom": !!int "4"
+  "Charisma": !!int "7"
+"senses": darkvision 60 ft., passive Perception 11
 "skillsaves":
 "languages": "the languages it knew in life"
 "cr": "5"

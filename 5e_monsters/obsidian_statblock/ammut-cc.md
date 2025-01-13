@@ -29,7 +29,10 @@ aliases: ["ammut", "Ammut-cc"]
 - !!int "16"
 - !!int "12"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "9"  "Constitution": !!int "10""senses": darkvision 120 ft., passive Perception 21
+"saves":
+  "Strength": !!int "9"
+  "Constitution": !!int "10"
+"senses": darkvision 120 ft., passive Perception 21
 "skillsaves":
   "perception": !!int "11"
 "cr": "9"

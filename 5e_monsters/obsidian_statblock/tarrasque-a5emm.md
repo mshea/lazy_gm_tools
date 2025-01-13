@@ -29,7 +29,14 @@ aliases: ["tarrasque-a5e", "Tarrasque-a5emm"]
 - !!int "14"
 - !!int "14"
 "speed": "walk 60 ft. burrow 30 ft."
-"saves":  "Strength": !!int "19"  "Dexterity": !!int "10"  "Constitution": !!int "19"  "Intelligence": !!int "6"  "Wisdom": !!int "11"  "Charisma": !!int "11""senses": blindsight 120 ft., tremorsense 60 ft., passive Perception 12
+"saves":
+  "Strength": !!int "19"
+  "Dexterity": !!int "10"
+  "Constitution": !!int "19"
+  "Intelligence": !!int "6"
+  "Wisdom": !!int "11"
+  "Charisma": !!int "11"
+"senses": blindsight 120 ft., tremorsense 60 ft., passive Perception 12
 "skillsaves":
 "cr": "30"
 "damage_immunities": "fire, poison; damage from nonmagical weapons"

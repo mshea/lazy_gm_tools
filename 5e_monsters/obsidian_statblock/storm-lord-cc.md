@@ -29,7 +29,11 @@ aliases: ["storm-lord", "Storm Lord-cc"]
 - !!int "14"
 - !!int "18"
 "speed": "fly 50 ft. hover True ft. walk 50 ft."
-"saves":  "Strength": !!int "10"  "Constitution": !!int "8"  "Wisdom": !!int "7""senses": darkvision 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "10"
+  "Constitution": !!int "8"
+  "Wisdom": !!int "7"
+"senses": darkvision 120 ft., passive Perception 17
 "skillsaves":
   "athletics": !!int "10"
   "nature": !!int "6"

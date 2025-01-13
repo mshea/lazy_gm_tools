@@ -29,7 +29,12 @@ aliases: ["fulad-zereh", "Fulad-Zereh-cc"]
 - !!int "15"
 - !!int "17"
 "speed": "fly 40 ft. walk 40 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "9"  "Wisdom": !!int "6"  "Charisma": !!int "7""senses": truesight 120 ft., passive Perception 12
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "9"
+  "Wisdom": !!int "6"
+  "Charisma": !!int "7"
+"senses": truesight 120 ft., passive Perception 12
 "skillsaves":
   "insight": !!int "6"
   "intimidation": !!int "7"

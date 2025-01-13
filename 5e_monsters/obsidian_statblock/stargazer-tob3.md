@@ -29,7 +29,9 @@ aliases: ["stargazer", "Stargazer-tob3"]
 - !!int "14"
 - !!int "4"
 "speed": "walk 15 ft. burrow 20 ft."
-"saves":  "Strength": !!int "9""senses": tremorsense 60', passive Perception 16
+"saves":
+  "Strength": !!int "9"
+"senses": tremorsense 60', passive Perception 16
 "skillsaves":
   "perception": !!int "2"
 "languages": "Common, Ignan"

@@ -29,7 +29,11 @@ aliases: ["ley-wanderer", "Ley Wanderer-tob3"]
 - !!int "11"
 - !!int "10"
 "speed": "walk 10 ft. fly 40 ft."
-"saves":  "Strength": !!int "5"  "Dexterity": !!int "2"  "Intelligence": !!int "7""senses": darkvision 60', passive Perception 13
+"saves":
+  "Strength": !!int "5"
+  "Dexterity": !!int "2"
+  "Intelligence": !!int "7"
+"senses": darkvision 60', passive Perception 13
 "skillsaves":
   "perception": !!int "0"
 "languages": "all, telepathy 120'"

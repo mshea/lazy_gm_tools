@@ -29,7 +29,11 @@ aliases: ["isonade-tob1-2023", "Isonade-tob2023"]
 - !!int "18"
 - !!int "8"
 "speed": "walk 100 ft."
-"saves":  "Strength": !!int "15"  "Constitution": !!int "13"  "Wisdom": !!int "9""senses": darkvision 90 ft., passive Perception 19
+"saves":
+  "Strength": !!int "15"
+  "Constitution": !!int "13"
+  "Wisdom": !!int "9"
+"senses": darkvision 90 ft., passive Perception 19
 "skillsaves":
   "Athletics": !!int "15"
   "Perception": !!int "9"

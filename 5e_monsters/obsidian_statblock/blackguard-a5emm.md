@@ -29,7 +29,11 @@ aliases: ["blackguard-a5e", "Blackguard-a5emm"]
 - !!int "14"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "6"  "Wisdom": !!int "5""senses": passive Perception 15
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "6"
+  "Wisdom": !!int "5"
+"senses": passive Perception 15
 "skillsaves":
   "athletics": !!int "6"
   "intimidation": !!int "5"

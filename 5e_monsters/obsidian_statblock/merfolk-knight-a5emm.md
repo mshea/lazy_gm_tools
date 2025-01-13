@@ -29,7 +29,11 @@ aliases: ["merfolk-knight-a5e", "Merfolk Knight-a5emm"]
 - !!int "10"
 - !!int "14"
 "speed": "walk 10 ft. swim 40 ft."
-"saves":  "Strength": !!int "5"  "Constitution": !!int "4"  "Wisdom": !!int "2""senses": darkvision 30 ft., passive Perception 12
+"saves":
+  "Strength": !!int "5"
+  "Constitution": !!int "4"
+  "Wisdom": !!int "2"
+"senses": darkvision 30 ft., passive Perception 12
 "skillsaves":
   "athletics": !!int "5"
   "perception": !!int "2"

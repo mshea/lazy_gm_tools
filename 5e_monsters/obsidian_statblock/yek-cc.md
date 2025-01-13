@@ -29,7 +29,12 @@ aliases: ["yek", "Yek-cc"]
 - !!int "13"
 - !!int "10"
 "speed": "climb 30 ft. walk 30 ft."
-"saves":  "Strength": !!int "5"  "Dexterity": !!int "5"  "Constitution": !!int "4"  "Intelligence": !!int "1""senses": darkvision 120 ft., passive Perception 13
+"saves":
+  "Strength": !!int "5"
+  "Dexterity": !!int "5"
+  "Constitution": !!int "4"
+  "Intelligence": !!int "1"
+"senses": darkvision 120 ft., passive Perception 13
 "skillsaves":
   "perception": !!int "3"
   "stealth": !!int "5"

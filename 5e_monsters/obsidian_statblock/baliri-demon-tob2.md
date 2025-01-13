@@ -29,7 +29,12 @@ aliases: ["baliri-demon", "Baliri Demon-tob2"]
 - !!int "17"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "11"  "Dexterity": !!int "8"  "Constitution": !!int "10"  "Wisdom": !!int "8""senses": darkvision 90 ft., passive Perception 17
+"saves":
+  "Strength": !!int "11"
+  "Dexterity": !!int "8"
+  "Constitution": !!int "10"
+  "Wisdom": !!int "8"
+"senses": darkvision 90 ft., passive Perception 17
 "skillsaves":
   "perception": !!int "8"
   "persuasion": !!int "7"

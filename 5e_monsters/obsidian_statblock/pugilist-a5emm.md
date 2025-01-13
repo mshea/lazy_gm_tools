@@ -29,7 +29,10 @@ aliases: ["pugilist-a5e", "Pugilist-a5emm"]
 - !!int "14"
 - !!int "10"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "5"  "Dexterity": !!int "4""senses": passive Perception 12
+"saves":
+  "Strength": !!int "5"
+  "Dexterity": !!int "4"
+"senses": passive Perception 12
 "skillsaves":
   "athletics": !!int "5"
   "intimidation": !!int "2"

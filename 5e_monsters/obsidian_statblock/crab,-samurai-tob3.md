@@ -29,7 +29,9 @@ aliases: ["crab-samurai", "Crab, Samurai-tob3"]
 - !!int "14"
 - !!int "10"
 "speed": "walk 30 ft. swim 30 ft."
-"saves":  "Strength": !!int "7""senses": blindsight 30', passive Perception 15
+"saves":
+  "Strength": !!int "7"
+"senses": blindsight 30', passive Perception 15
 "skillsaves":
   "perception": !!int "2"
 "languages": "understands Common but can’t speak"

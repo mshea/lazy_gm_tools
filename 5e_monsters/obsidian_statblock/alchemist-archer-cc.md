@@ -29,7 +29,10 @@ aliases: ["alchemist-archer", "Alchemist Archer-cc"]
 - !!int "14"
 - !!int "10"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "4"  "Intelligence": !!int "8""senses": darkvision 60 ft., passive Perception 16
+"saves":
+  "Strength": !!int "4"
+  "Intelligence": !!int "8"
+"senses": darkvision 60 ft., passive Perception 16
 "skillsaves":
   "perception": !!int "6"
   "stealth": !!int "9"

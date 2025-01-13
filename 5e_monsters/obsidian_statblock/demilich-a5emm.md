@@ -29,7 +29,13 @@ aliases: ["demilich-a5e", "Demilich-a5emm"]
 - !!int "22"
 - !!int "20"
 "speed": "walk 0 ft. fly 30 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "9"  "Intelligence": !!int "13"  "Wisdom": !!int "12"  "Charisma": !!int "11""senses": truesight 60 ft., passive Perception 22
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "9"
+  "Intelligence": !!int "13"
+  "Wisdom": !!int "12"
+  "Charisma": !!int "11"
+"senses": truesight 60 ft., passive Perception 22
 "skillsaves":
   "arcana": !!int "13"
   "perception": !!int "12"

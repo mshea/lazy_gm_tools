@@ -29,7 +29,10 @@ aliases: ["cherufe", "Cherufe-tob2"]
 - !!int "14"
 - !!int "6"
 "speed": "walk 40 ft. burrow 40 ft."
-"saves":  "Strength": !!int "11"  "Constitution": !!int "10""senses": darkvision 60 ft., tremorsense 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "11"
+  "Constitution": !!int "10"
+"senses": darkvision 60 ft., tremorsense 120 ft., passive Perception 17
 "skillsaves":
   "perception": !!int "7"
 "languages": "Ignan, Terran"

@@ -29,7 +29,10 @@ aliases: ["fellforged-tob1-2023", "Fellforged-tob2023"]
 - !!int "14"
 - !!int "15"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Wisdom": !!int "5""senses": darkvision 60 ft., passive Perception 12
+"saves":
+  "Strength": !!int "5"
+  "Wisdom": !!int "5"
+"senses": darkvision 60 ft., passive Perception 12
 "languages": "the languages it knew in life"
 "cr": "5"
 "damage_immunities": "necrotic, poison, psychic"

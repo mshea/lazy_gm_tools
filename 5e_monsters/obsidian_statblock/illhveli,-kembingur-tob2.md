@@ -29,7 +29,10 @@ aliases: ["illhveli-kembingur", "Illhveli, Kembingur-tob2"]
 - !!int "14"
 - !!int "12"
 "speed": "swim 60 ft. walk 5 ft."
-"saves":  "Strength": !!int "12"  "Constitution": !!int "11""senses": darkvision 60 ft., passive Perception 20
+"saves":
+  "Strength": !!int "12"
+  "Constitution": !!int "11"
+"senses": darkvision 60 ft., passive Perception 20
 "skillsaves":
   "athletics": !!int "12"
   "perception": !!int "10"

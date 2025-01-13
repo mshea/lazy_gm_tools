@@ -29,7 +29,12 @@ aliases: ["lunardevil-tob1-2023", "Lunar Devil-tob2023"]
 - !!int "15"
 - !!int "18"
 "speed": "walk 60 ft. fly 40 ft."
-"saves":  "Strength": !!int "8"  "Dexterity": !!int "8"  "Constitution": !!int "8"  "Wisdom": !!int "5""senses": darkvision 120 ft., passive Perception 15
+"saves":
+  "Strength": !!int "8"
+  "Dexterity": !!int "8"
+  "Constitution": !!int "8"
+  "Wisdom": !!int "5"
+"senses": darkvision 120 ft., passive Perception 15
 "skillsaves":
   "Perception": !!int "5"
 "languages": "Celestial, Draconic, Elvish, Infernal, Sylvan, telepathy 120 ft."

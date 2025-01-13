@@ -29,7 +29,10 @@ aliases: ["gargoyle-a5e", "Gargoyle-a5emm"]
 - !!int "14"
 - !!int "8"
 "speed": "walk 30 ft. fly 60 ft."
-"saves":  "Strength": !!int "4"  "Constitution": !!int "5""senses": darkvision 60 ft., passive Perception 14
+"saves":
+  "Strength": !!int "4"
+  "Constitution": !!int "5"
+"senses": darkvision 60 ft., passive Perception 14
 "skillsaves":
   "perception": !!int "4"
 "languages": "Terran"

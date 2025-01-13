@@ -29,7 +29,10 @@ aliases: ["soldier-a5e", "Soldier-a5emm"]
 - !!int "10"
 - !!int "10"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "4"  "Constitution": !!int "4""senses": passive Perception 12
+"saves":
+  "Strength": !!int "4"
+  "Constitution": !!int "4"
+"senses": passive Perception 12
 "skillsaves":
   "perception": !!int "2"
   "survival": !!int "2"

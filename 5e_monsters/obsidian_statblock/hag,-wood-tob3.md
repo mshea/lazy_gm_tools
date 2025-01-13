@@ -29,7 +29,11 @@ aliases: ["hag-wood", "Hag, Wood-tob3"]
 - !!int "21"
 - !!int "15"
 "speed": "walk 30 ft. climb 30 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "8"  "Wisdom": !!int "9""senses": darkvision 60', passive Perception 19
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "8"
+  "Wisdom": !!int "9"
+"senses": darkvision 60', passive Perception 19
 "skillsaves":
   "perception": !!int "5"
 "languages": "Common, Elvish, Sylvan"

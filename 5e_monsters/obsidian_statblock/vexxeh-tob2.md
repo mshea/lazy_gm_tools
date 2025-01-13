@@ -29,7 +29,10 @@ aliases: ["vexxeh", "Vexxeh-tob2"]
 - !!int "10"
 - !!int "12"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "8"  "Wisdom": !!int "3""senses": truesight 60 ft., passive Perception 10
+"saves":
+  "Strength": !!int "8"
+  "Wisdom": !!int "3"
+"senses": truesight 60 ft., passive Perception 10
 "skillsaves":
   "intimidation": !!int "4"
 "languages": "Common, Infernal"

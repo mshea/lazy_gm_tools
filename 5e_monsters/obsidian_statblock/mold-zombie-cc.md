@@ -29,7 +29,9 @@ aliases: ["mold-zombie", "Mold Zombie-cc"]
 - !!int "6"
 - !!int "5"
 "speed": "walk 20 ft."
-"saves":  "Strength": !!int "5""senses": darkvision 60 ft., passive Perception 8
+"saves":
+  "Strength": !!int "5"
+"senses": darkvision 60 ft., passive Perception 8
 "skillsaves":
 "languages": "-"
 "cr": "3"

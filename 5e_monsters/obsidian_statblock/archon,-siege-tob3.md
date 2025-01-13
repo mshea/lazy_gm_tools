@@ -29,7 +29,12 @@ aliases: ["archon-siege", "Archon, Siege-tob3"]
 - !!int "20"
 - !!int "17"
 "speed": "walk 40 ft. fly 60 ft."
-"saves":  "Strength": !!int "1"  "Constitution": !!int "1"  "Wisdom": !!int "1"  "Charisma": !!int "8""senses": truesight 120', passive Perception 20
+"saves":
+  "Strength": !!int "1"
+  "Constitution": !!int "1"
+  "Wisdom": !!int "1"
+  "Charisma": !!int "8"
+"senses": truesight 120', passive Perception 20
 "skillsaves":
   "perception": !!int "5"
 "languages": "all, telepathy 120'"

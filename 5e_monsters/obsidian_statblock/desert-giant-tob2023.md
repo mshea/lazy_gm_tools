@@ -29,7 +29,11 @@ aliases: ["desertgiant-tob1-2023", "Desert Giant-tob2023"]
 - !!int "18"
 - !!int "15"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "12"  "Constitution": !!int "10"  "Charisma": !!int "6""senses": passive Perception 18
+"saves":
+  "Strength": !!int "12"
+  "Constitution": !!int "10"
+  "Charisma": !!int "6"
+"senses": passive Perception 18
 "skillsaves":
   "Perception": !!int "8"
   "Stealth": !!int "4"

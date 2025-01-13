@@ -29,7 +29,12 @@ aliases: ["angel-zirnitran", "Angel, Zirnitran-tob3"]
 - !!int "25"
 - !!int "20"
 "speed": "walk 30 ft. fly 80 ft."
-"saves":  "Strength": !!int "1"  "Dexterity": !!int "8"  "Wisdom": !!int "1"  "Charisma": !!int "1""senses": truesight 120', passive Perception 23
+"saves":
+  "Strength": !!int "1"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "1"
+  "Charisma": !!int "1"
+"senses": truesight 120', passive Perception 23
 "skillsaves":
   "perception": !!int "7"
 "languages": "all, telepathy 120'"

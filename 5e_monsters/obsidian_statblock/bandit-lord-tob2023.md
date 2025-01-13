@@ -29,7 +29,11 @@ aliases: ["banditlord-tob1-2023", "Bandit Lord-tob2023"]
 - !!int "11"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Dexterity": !!int "4"  "Wisdom": !!int "2""senses": passive Perception 10
+"saves":
+  "Strength": !!int "5"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "2"
+"senses": passive Perception 10
 "skillsaves":
   "Athletics": !!int "5"
   "Deception": !!int "4"

@@ -29,7 +29,12 @@ aliases: ["black-shuck", "Black Shuck-tob3"]
 - !!int "17"
 - !!int "15"
 "speed": "walk 50 ft."
-"saves":  "Strength": !!int "8"  "Dexterity": !!int "7"  "Constitution": !!int "9"  "Wisdom": !!int "7""senses": darkvision 90', truesight 60', passive Perception 13
+"saves":
+  "Strength": !!int "8"
+  "Dexterity": !!int "7"
+  "Constitution": !!int "9"
+  "Wisdom": !!int "7"
+"senses": darkvision 90', truesight 60', passive Perception 13
 "skillsaves":
   "perception": !!int "3"
 "languages": "understands Abyssal and Common but can’t speak"

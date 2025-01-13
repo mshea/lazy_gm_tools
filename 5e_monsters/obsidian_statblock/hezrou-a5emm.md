@@ -29,7 +29,12 @@ aliases: ["hezrou-a5e", "Hezrou-a5emm"]
 - !!int "12"
 - !!int "12"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "8"  "Intelligence": !!int "2"  "Wisdom": !!int "4""senses": darkvision 120 ft., passive Perception 11
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "8"
+  "Intelligence": !!int "2"
+  "Wisdom": !!int "4"
+"senses": darkvision 120 ft., passive Perception 11
 "skillsaves":
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "10"

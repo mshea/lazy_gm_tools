@@ -29,7 +29,11 @@ aliases: ["bearded-devil-a5e", "Bearded Devil-a5emm"]
 - !!int "12"
 - !!int "10"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Constitution": !!int "4"  "Wisdom": !!int "3""senses": darkvision 120 ft., passive Perception 11
+"saves":
+  "Strength": !!int "5"
+  "Constitution": !!int "4"
+  "Wisdom": !!int "3"
+"senses": darkvision 120 ft., passive Perception 11
 "skillsaves":
 "languages": "Infernal, telepathy 120 ft."
 "cr": "3"

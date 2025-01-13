@@ -29,7 +29,11 @@ aliases: ["illhveli-nauthveli", "Illhveli, Nauthveli-tob2"]
 - !!int "15"
 - !!int "12"
 "speed": "swim 60 ft. walk 10 ft."
-"saves":  "Strength": !!int "15"  "Constitution": !!int "12"  "Wisdom": !!int "7""senses": darkvision 60 ft., passive Perception 17
+"saves":
+  "Strength": !!int "15"
+  "Constitution": !!int "12"
+  "Wisdom": !!int "7"
+"senses": darkvision 60 ft., passive Perception 17
 "skillsaves":
   "athletics": !!int "15"
   "perception": !!int "7"

@@ -29,7 +29,9 @@ aliases: ["giant-goat-a5e", "Giant Goat-a5emm"]
 - !!int "12"
 - !!int "6"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "5""senses": passive Perception 11
+"saves":
+  "Strength": !!int "5"
+"senses": passive Perception 11
 "skillsaves":
   "athletics": !!int "5"
 "cr": "1/2"

@@ -29,7 +29,12 @@ aliases: ["nightgaunt", "Nightgaunt-cc"]
 - !!int "16"
 - !!int "16"
 "speed": "fly 60 ft. walk 20 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "8"  "Wisdom": !!int "7"  "Charisma": !!int "7""senses": blindsight 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "8"
+  "Wisdom": !!int "7"
+  "Charisma": !!int "7"
+"senses": blindsight 120 ft., passive Perception 17
 "skillsaves":
   "athletics": !!int "8"
   "intimidation": !!int "7"

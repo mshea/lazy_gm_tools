@@ -29,7 +29,13 @@ aliases: ["aklea-a5e", "Aklea-a5emm"]
 - !!int "24"
 - !!int "26"
 "speed": "walk 60 ft. fly 60 ft."
-"saves":  "Strength": !!int "17"  "Constitution": !!int "17"  "Intelligence": !!int "13"  "Wisdom": !!int "14"  "Charisma": !!int "15""senses": truesight 120 ft., passive Perception 17
+"saves":
+  "Strength": !!int "17"
+  "Constitution": !!int "17"
+  "Intelligence": !!int "13"
+  "Wisdom": !!int "14"
+  "Charisma": !!int "15"
+"senses": truesight 120 ft., passive Perception 17
 "skillsaves":
 "languages": "Celestial, Common, six more"
 "cr": "22"

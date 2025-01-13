@@ -29,7 +29,12 @@ aliases: ["angel-shrouded", "Angel, Shrouded-tob3"]
 - !!int "22"
 - !!int "10"
 "speed": "walk 40 ft. fly 60 ft."
-"saves":  "Strength": !!int "9"  "Dexterity": !!int "1"  "Wisdom": !!int "1"  "Charisma": !!int "5""senses": blindsight 30', darkvision 120', passive Perception 21
+"saves":
+  "Strength": !!int "9"
+  "Dexterity": !!int "1"
+  "Wisdom": !!int "1"
+  "Charisma": !!int "5"
+"senses": blindsight 30', darkvision 120', passive Perception 21
 "skillsaves":
   "perception": !!int "6"
 "languages": "all, telepathy 120'"

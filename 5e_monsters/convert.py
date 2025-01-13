@@ -98,19 +98,19 @@ def generate_mdfile(monster):
         md_file.write(f'"speed": "{' '.join(list(map(lambda x: f'{x} {speed[x]} ft.', speed)))}"\n')
 
         if monster["strength_save"] or monster["strength_save"] or monster["strength_save"] or monster["strength_save"] or monster["strength_save"] or monster["strength_save"]:
-            md_file.write('"saves":')
+            md_file.write('"saves":\n')
             if monster['strength_save']:
-                md_file.write(f'  "Strength": !!int "{monster["strength_save"]}"')
+                md_file.write(f'  "Strength": !!int "{monster["strength_save"]}"\n')
             if monster['dexterity_save']:
-                md_file.write(f'  "Dexterity": !!int "{monster["dexterity_save"]}"')
+                md_file.write(f'  "Dexterity": !!int "{monster["dexterity_save"]}"\n')
             if monster['constitution_save']:
-                md_file.write(f'  "Constitution": !!int "{monster["constitution_save"]}"')
+                md_file.write(f'  "Constitution": !!int "{monster["constitution_save"]}"\n')
             if monster['intelligence_save']:
-                md_file.write(f'  "Intelligence": !!int "{monster["intelligence_save"]}"')
+                md_file.write(f'  "Intelligence": !!int "{monster["intelligence_save"]}"\n')
             if monster['wisdom_save']:
-                md_file.write(f'  "Wisdom": !!int "{monster["wisdom_save"]}"')
+                md_file.write(f'  "Wisdom": !!int "{monster["wisdom_save"]}"\n')
             if monster['charisma_save']:
-                md_file.write(f'  "Charisma": !!int "{monster["charisma_save"]}"')
+                md_file.write(f'  "Charisma": !!int "{monster["charisma_save"]}"\n')
         if monster["senses"]:
             md_file.write(f'"senses": {monster["senses"]}\n')
         if monster["skills_json"]:

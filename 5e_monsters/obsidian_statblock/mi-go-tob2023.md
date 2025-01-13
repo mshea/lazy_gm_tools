@@ -29,7 +29,11 @@ aliases: ["mi-go-tob1-2023", "Mi-Go-tob2023"]
 - !!int "15"
 - !!int "13"
 "speed": "walk 60 ft. fly 30 ft."
-"saves":  "Strength": !!int "6"  "Constitution": !!int "8"  "Charisma": !!int "4""senses": blindsight 30 ft., darkvision 120 ft., passive Perception 15
+"saves":
+  "Strength": !!int "6"
+  "Constitution": !!int "8"
+  "Charisma": !!int "4"
+"senses": blindsight 30 ft., darkvision 120 ft., passive Perception 15
 "skillsaves":
   "Arcana": !!int "10"
   "Deception": !!int "7"

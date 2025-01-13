@@ -29,7 +29,10 @@ aliases: ["alligator-turtle", "Alligator Turtle-tob2"]
 - !!int "12"
 - !!int "7"
 "speed": "walk 20 ft. swim 30 ft."
-"saves":  "Strength": !!int "4"  "Constitution": !!int "3""senses": passive Perception 11
+"saves":
+  "Strength": !!int "4"
+  "Constitution": !!int "3"
+"senses": passive Perception 11
 "skillsaves":
   "stealth": !!int "3"
 "languages": "—"

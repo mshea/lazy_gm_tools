@@ -29,7 +29,9 @@ aliases: ["harvest-horse", "Harvest Horse-tob3"]
 - !!int "3"
 - !!int "1"
 "speed": "walk 50 ft."
-"saves":  "Strength": !!int "4""senses": passive Perception 6
+"saves":
+  "Strength": !!int "4"
+"senses": passive Perception 6
 "skillsaves":
   "perception": !!int "-4"
 "languages": "—"

@@ -29,7 +29,12 @@ aliases: ["holy-knight-a5e", "Holy Knight-a5emm"]
 - !!int "14"
 - !!int "14"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "7"  "Wisdom": !!int "5"  "Charisma": !!int "5""senses": passive Perception 15
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
+  "Wisdom": !!int "5"
+  "Charisma": !!int "5"
+"senses": passive Perception 15
 "skillsaves":
   "athletics": !!int "7"
   "insight": !!int "5"

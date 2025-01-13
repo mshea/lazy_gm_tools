@@ -29,7 +29,13 @@ aliases: ["marilith-a5e", "Marilith-a5emm"]
 - !!int "18"
 - !!int "20"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "10"  "Dexterity": !!int "11"  "Constitution": !!int "10"  "Wisdom": !!int "9"  "Charisma": !!int "10""senses": truesight 120 ft., passive Perception 14
+"saves":
+  "Strength": !!int "10"
+  "Dexterity": !!int "11"
+  "Constitution": !!int "10"
+  "Wisdom": !!int "9"
+  "Charisma": !!int "10"
+"senses": truesight 120 ft., passive Perception 14
 "skillsaves":
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "16"

@@ -29,7 +29,11 @@ aliases: ["berserker-a5e", "Berserker-a5emm"]
 - !!int "10"
 - !!int "12"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "4"  "Dexterity": !!int "2"  "Constitution": !!int "5""senses": passive Perception 12
+"saves":
+  "Strength": !!int "4"
+  "Dexterity": !!int "2"
+  "Constitution": !!int "5"
+"senses": passive Perception 12
 "skillsaves":
   "athletics": !!int "4"
   "intimidation": !!int "3"

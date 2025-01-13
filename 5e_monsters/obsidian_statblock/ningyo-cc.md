@@ -29,7 +29,11 @@ aliases: ["ningyo", "Ningyo-cc"]
 - !!int "11"
 - !!int "7"
 "speed": "fly 60 ft. swim 60 ft. walk 0 ft."
-"saves":  "Strength": !!int "2"  "Dexterity": !!int "8"  "Wisdom": !!int "3""senses": darkvision 120 ft., passive Perception 13
+"saves":
+  "Strength": !!int "2"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "3"
+"senses": darkvision 120 ft., passive Perception 13
 "skillsaves":
   "deception": !!int "1"
   "insight": !!int "3"

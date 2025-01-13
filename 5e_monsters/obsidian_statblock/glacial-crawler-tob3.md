@@ -29,7 +29,10 @@ aliases: ["glacial-crawler", "Glacial Crawler-tob3"]
 - !!int "10"
 - !!int "5"
 "speed": "walk 30 ft. burrow 30 ft. climb 20 ft. swim 60 ft."
-"saves":  "Strength": !!int "9"  "Constitution": !!int "9""senses": blindsight 60' (blind beyond), tremorsense 60', passive Perception 18
+"saves":
+  "Strength": !!int "9"
+  "Constitution": !!int "9"
+"senses": blindsight 60' (blind beyond), tremorsense 60', passive Perception 18
 "skillsaves":
   "perception": !!int "0"
 "languages": "—"

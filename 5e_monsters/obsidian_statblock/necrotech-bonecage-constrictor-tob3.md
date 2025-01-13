@@ -29,7 +29,10 @@ aliases: ["necrotech-bonecage-constrictor", "Necrotech Bonecage Constrictor-tob3
 - !!int "8"
 - !!int "5"
 "speed": "walk 50 ft."
-"saves":  "Strength": !!int "8"  "Dexterity": !!int "7""senses": darkvision 60', tremorsense 30', passive Perception 9
+"saves":
+  "Strength": !!int "8"
+  "Dexterity": !!int "7"
+"senses": darkvision 60', tremorsense 30', passive Perception 9
 "skillsaves":
   "perception": !!int "-1"
 "languages": "understands Common and Darakhul but can’t speak"

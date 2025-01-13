@@ -29,7 +29,11 @@ aliases: ["heraldofblood-tob1-2023", "Herald of Blood-tob2023"]
 - !!int "17"
 - !!int "16"
 "speed": "walk 30 ft. fly 30 ft."
-"saves":  "Strength": !!int "10"  "Constitution": !!int "9"  "Wisdom": !!int "7""senses": darkvision 240 ft., passive Perception 17
+"saves":
+  "Strength": !!int "10"
+  "Constitution": !!int "9"
+  "Wisdom": !!int "7"
+"senses": darkvision 240 ft., passive Perception 17
 "skillsaves":
   "Arcana": !!int "10"
   "Perception": !!int "7"

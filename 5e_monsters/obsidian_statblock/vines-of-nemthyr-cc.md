@@ -29,7 +29,10 @@ aliases: ["vines-of-nemthyr", "Vines of Nemthyr-cc"]
 - !!int "13"
 - !!int "5"
 "speed": "burrow 30 ft. walk 30 ft."
-"saves":  "Strength": !!int "7"  "Constitution": !!int "7""senses": blindsight 60 ft., passive Perception 14
+"saves":
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
+"senses": blindsight 60 ft., passive Perception 14
 "skillsaves":
   "perception": !!int "4"
   "survival": !!int "4"

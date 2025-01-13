@@ -29,7 +29,10 @@ aliases: ["willowhaunt", "Willowhaunt-tob2"]
 - !!int "14"
 - !!int "19"
 "speed": "walk 20 ft."
-"saves":  "Strength": !!int "6"  "Charisma": !!int "7""senses": darkvision 60 ft., passive Perception 12
+"saves":
+  "Strength": !!int "6"
+  "Charisma": !!int "7"
+"senses": darkvision 60 ft., passive Perception 12
 "skillsaves":
   "insight": !!int "5"
   "intimidation": !!int "7"

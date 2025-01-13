@@ -29,7 +29,11 @@ aliases: ["skeletal-champion-a5e", "Skeletal Champion-a5emm"]
 - !!int "8"
 - !!int "5"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Dexterity": !!int "5"  "Constitution": !!int "4""senses": darkvision 60 ft., passive Perception 9
+"saves":
+  "Strength": !!int "5"
+  "Dexterity": !!int "5"
+  "Constitution": !!int "4"
+"senses": darkvision 60 ft., passive Perception 9
 "skillsaves":
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "3"

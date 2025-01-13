@@ -29,7 +29,11 @@ aliases: ["cacus-giant", "Cacus Giant-cc"]
 - !!int "14"
 - !!int "10"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "8"  "Wisdom": !!int "5""senses": passive Perception 15
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "8"
+  "Wisdom": !!int "5"
+"senses": passive Perception 15
 "skillsaves":
   "perception": !!int "5"
   "survival": !!int "5"

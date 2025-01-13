@@ -29,7 +29,9 @@ aliases: ["mudmutt", "Mudmutt-tob3"]
 - !!int "12"
 - !!int "2"
 "speed": "walk 30 ft. swim 20 ft."
-"saves":  "Strength": !!int "7""senses": darkvision 60', passive Perception 14
+"saves":
+  "Strength": !!int "7"
+"senses": darkvision 60', passive Perception 14
 "skillsaves":
   "perception": !!int "1"
 "languages": "—"

@@ -29,7 +29,12 @@ aliases: ["krakespawn-tob1-2023", "Krake Spawn-tob2023"]
 - !!int "15"
 - !!int "18"
 "speed": "walk 60 ft."
-"saves":  "Strength": !!int "12"  "Constitution": !!int "11"  "Intelligence": !!int "8"  "Charisma": !!int "9""senses": blindsight 60 ft., darkvision 120 ft., passive Perception 12
+"saves":
+  "Strength": !!int "12"
+  "Constitution": !!int "11"
+  "Intelligence": !!int "8"
+  "Charisma": !!int "9"
+"senses": blindsight 60 ft., darkvision 120 ft., passive Perception 12
 "languages": "Common, Infernal, Primordial, Void Speech"
 "cr": "14"
 "damage_immunities": "cold, poison, psychic"

@@ -29,7 +29,10 @@ aliases: ["hill-giant-a5e", "Hill Giant-a5emm"]
 - !!int "10"
 - !!int "6"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "7""senses": passive Perception 10
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "7"
+"senses": passive Perception 10
 "skillsaves":
 "languages": "Giant"
 "cr": "6"

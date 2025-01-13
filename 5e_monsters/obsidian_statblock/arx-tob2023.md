@@ -29,7 +29,9 @@ aliases: ["arx-tob1-2023", "Arx-tob2023"]
 - !!int "15"
 - !!int "8"
 "speed": "walk 20 ft. fly 30 ft."
-"saves":  "Strength": !!int "9""senses": darkvision 90 ft., passive Perception 16
+"saves":
+  "Strength": !!int "9"
+"senses": darkvision 90 ft., passive Perception 16
 "skillsaves":
   "Athletics": !!int "9"
   "Perception": !!int "6"

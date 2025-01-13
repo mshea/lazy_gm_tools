@@ -29,7 +29,11 @@ aliases: ["jackalope-a5e", "Jackalope-a5emm"]
 - !!int "17"
 - !!int "14"
 "speed": "walk 50 ft."
-"saves":  "Strength": !!int "2"  "Dexterity": !!int "6"  "Constitution": !!int "5""senses": passive Perception 17
+"saves":
+  "Strength": !!int "2"
+  "Dexterity": !!int "6"
+  "Constitution": !!int "5"
+"senses": passive Perception 17
 "skillsaves":
   "athletics": !!int "2"
   "deception": !!int "4"

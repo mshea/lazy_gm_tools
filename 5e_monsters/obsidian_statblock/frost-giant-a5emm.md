@@ -29,7 +29,12 @@ aliases: ["frost-giant-a5e", "Frost Giant-a5emm"]
 - !!int "10"
 - !!int "12"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "10"  "Constitution": !!int "9"  "Wisdom": !!int "4"  "Charisma": !!int "5""senses": passive Perception 14
+"saves":
+  "Strength": !!int "10"
+  "Constitution": !!int "9"
+  "Wisdom": !!int "4"
+  "Charisma": !!int "5"
+"senses": passive Perception 14
 "skillsaves":
   "athletics": !!int "10"
   "perception": !!int "4"

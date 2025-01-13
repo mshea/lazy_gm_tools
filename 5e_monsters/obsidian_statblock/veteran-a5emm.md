@@ -29,7 +29,11 @@ aliases: ["veteran-a5e", "Veteran-a5emm"]
 - !!int "10"
 - !!int "10"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Dexterity": !!int "3"  "Constitution": !!int "4""senses": passive Perception 12
+"saves":
+  "Strength": !!int "5"
+  "Dexterity": !!int "3"
+  "Constitution": !!int "4"
+"senses": passive Perception 12
 "skillsaves":
   "athletics": !!int "5"
   "intimidation": !!int "2"

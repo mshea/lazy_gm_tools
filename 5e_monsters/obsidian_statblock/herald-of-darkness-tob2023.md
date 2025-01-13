@@ -29,7 +29,11 @@ aliases: ["heraldofdarkness-tob1-2023", "Herald of Darkness-tob2023"]
 - !!int "15"
 - !!int "19"
 "speed": "walk 30 ft. fly 30 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "8"  "Charisma": !!int "7""senses": darkvision 240 ft., passive Perception 15
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "8"
+  "Charisma": !!int "7"
+"senses": darkvision 240 ft., passive Perception 15
 "skillsaves":
   "Athletics": !!int "8"
   "Deception": !!int "7"

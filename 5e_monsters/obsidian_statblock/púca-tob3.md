@@ -29,7 +29,10 @@ aliases: ["púca", "Púca-tob3"]
 - !!int "10"
 - !!int "18"
 "speed": "walk 50 ft."
-"saves":  "Strength": !!int "7"  "Charisma": !!int "7""senses": darkvision 30', passive Perception 13
+"saves":
+  "Strength": !!int "7"
+  "Charisma": !!int "7"
+"senses": darkvision 30', passive Perception 13
 "skillsaves":
   "perception": !!int "0"
 "languages": "Sylvan, Umbral"

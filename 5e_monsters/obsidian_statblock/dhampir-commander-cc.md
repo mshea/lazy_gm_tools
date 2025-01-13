@@ -29,7 +29,12 @@ aliases: ["dhampir-commander", "Dhampir Commander-cc"]
 - !!int "12"
 - !!int "19"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Dexterity": !!int "6"  "Wisdom": !!int "4"  "Charisma": !!int "7""senses": darkvision 60 ft., passive Perception 11
+"saves":
+  "Strength": !!int "5"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "4"
+  "Charisma": !!int "7"
+"senses": darkvision 60 ft., passive Perception 11
 "skillsaves":
   "athletics": !!int "5"
   "deception": !!int "7"

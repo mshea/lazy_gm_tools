@@ -29,7 +29,11 @@ aliases: ["deepone-tob1-2023", "Deep One-tob2023"]
 - !!int "8"
 - !!int "12"
 "speed": "walk 30 ft."
-"saves":  "Strength": !!int "5"  "Constitution": !!int "4"  "Charisma": !!int "3""senses": darkvision 120 ft., passive Perception 9
+"saves":
+  "Strength": !!int "5"
+  "Constitution": !!int "4"
+  "Charisma": !!int "3"
+"senses": darkvision 120 ft., passive Perception 9
 "languages": "Common, Void Speech"
 "cr": "2"
 "damage_resistances": "cold"

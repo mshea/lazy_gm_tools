@@ -29,7 +29,12 @@ aliases: ["storm-giant-a5e", "Storm Giant-a5emm"]
 - !!int "18"
 - !!int "18"
 "speed": "walk 50 ft. swim 50 ft."
-"saves":  "Strength": !!int "14"  "Constitution": !!int "10"  "Wisdom": !!int "9"  "Charisma": !!int "9""senses": passive Perception 19
+"saves":
+  "Strength": !!int "14"
+  "Constitution": !!int "10"
+  "Wisdom": !!int "9"
+  "Charisma": !!int "9"
+"senses": passive Perception 19
 "skillsaves":
   "arcana": !!int "8"
   "athletics": !!int "14"

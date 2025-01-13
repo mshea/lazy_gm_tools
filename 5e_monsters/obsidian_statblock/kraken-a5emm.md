@@ -29,7 +29,13 @@ aliases: ["kraken-a5e", "Kraken-a5emm"]
 - !!int "18"
 - !!int "18"
 "speed": "walk 20 ft. swim 60 ft."
-"saves":  "Strength": !!int "18"  "Dexterity": !!int "8"  "Constitution": !!int "16"  "Intelligence": !!int "14"  "Wisdom": !!int "12""senses": truesight 120 ft., passive Perception 14
+"saves":
+  "Strength": !!int "18"
+  "Dexterity": !!int "8"
+  "Constitution": !!int "16"
+  "Intelligence": !!int "14"
+  "Wisdom": !!int "12"
+"senses": truesight 120 ft., passive Perception 14
 "skillsaves":
 "languages": "understands Primordial but can't speak, telepathy 120 ft."
 "cr": "25"

@@ -29,7 +29,10 @@ aliases: ["wickerman", "Wickerman-cc"]
 - !!int "14"
 - !!int "1"
 "speed": "walk 40 ft."
-"saves":  "Strength": !!int "8"  "Constitution": !!int "9""senses": blindsight 120 ft. (blind beyond this radius), passive Perception 10
+"saves":
+  "Strength": !!int "8"
+  "Constitution": !!int "9"
+"senses": blindsight 120 ft. (blind beyond this radius), passive Perception 10
 "skillsaves":
 "languages": "understands the languages of its creator but can't speak"
 "cr": "9"
