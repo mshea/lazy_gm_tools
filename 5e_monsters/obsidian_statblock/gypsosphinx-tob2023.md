@@ -55,10 +55,7 @@ aliases: ["gypsosphinx-tob1-2023", "Gypsosphinx-tob2023"]
   "name": "Claw"
 - "desc": "The gypsosphinx exhales rotting breath in a 30-foot cone. Each creature in the area must make a DC 18 Constitution saving throw. On a failure, a creature takes 21 (6d6) poison damage and 27 (6d8) necrotic damage and is poisoned for 1 minute. On a success, a creature takes half the damage and isn’t poisoned. While poisoned in this way, a creature has disadvantage on death saving throws. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Carrion Breath (Recharge 5–6)"
-- "desc": "The sphinx casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):
-At will: comprehend languages, detect magic, mage hand
-3/day each: blur, dispel magic, locate object
-1/day each: major image, greater invisibility"
+- "desc": "The sphinx casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):\nAt will: comprehend languages, detect magic, mage hand\n3/day each: blur, dispel magic, locate object\n1/day each: major image, greater invisibility"
   "name": "Spellcasting"
 "legendary_actions":
 - "desc": "The sphinx makes one Beak attack."

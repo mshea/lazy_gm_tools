@@ -41,10 +41,7 @@ aliases: ["ratfolk-warlock", "Ratfolk Warlock-cc"]
   "name": "Nimbleness"
 - "desc": "The ratfolk has advantage on attack rolls against a creature if at least one of the ratfolk's allies is within 5 feet of the creature and the ally isn't incapacitated."
   "name": "Pack Tactics"
-- "desc": "The ratfolk warlock's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-At will: dancing lights, eldritch blast, fire bolt, mage armor, mage hand, minor illusion, poison spray, speak with animals
-3/day each: command, darkness, hellish rebuke
-1/day each: blindness/deafness, hold person"
+- "desc": "The ratfolk warlock's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: dancing lights, eldritch blast, fire bolt, mage armor, mage hand, minor illusion, poison spray, speak with animals\n3/day each: command, darkness, hellish rebuke\n1/day each: blindness/deafness, hold person"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."

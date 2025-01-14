@@ -51,10 +51,7 @@ aliases: ["moonlitking-tob1-2023", "Moonlit King-tob2023"]
   "name": "Animate Shadows (Recharge 5–6)"
 - "desc": "The Moonlit King magically calls a lunar devil to aid him. The devil arrives in 1d4 rounds, acting as ally of the Moonlit King and obeying his spoken commands. The devil remains for 1 hour, until the Moonlit King dies, or until the King dismisses it as a bonus action."
   "name": "Summon Devil (1/Day)"
-- "desc": "The Moonlit King casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (save DC 19):
-At will: continual flame, invisibility (self only), moonbeam, zone of truth
-3/day each: dispel evil and good, dispel magic, major image
-1/day each: heal, project image"
+- "desc": "The Moonlit King casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (save DC 19):\nAt will: continual flame, invisibility (self only), moonbeam, zone of truth\n3/day each: dispel evil and good, dispel magic, major image\n1/day each: heal, project image"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When a creature the Moonlit King can see within 30 feet of him attacks him, he takes on the quality of his manifest delusions, temporarily becoming ghostly. The attack roll has disadvantage, and if it hits, the Moonlit King takes only half the damage from the attack."

@@ -40,10 +40,7 @@ aliases: ["simurg", "Simurg-cc"]
   "name": "Flyby"
 - "desc": "The simurg has advantage on Perception (Wisdom) checks that rely on sight."
   "name": "Keen Sight"
-- "desc": "The simurg's innate spellcasting ability is Wisdom (spell save DC 14). The simurg can innately cast the following spells, requiring no material components:
-At will: detect poison and disease, detect thoughts, spare the dying
-2/day each: cure wounds, lesser restoration, purify food and drink
-1/day each: greater restoration, remove curse"
+- "desc": "The simurg's innate spellcasting ability is Wisdom (spell save DC 14). The simurg can innately cast the following spells, requiring no material components:\nAt will: detect poison and disease, detect thoughts, spare the dying\n2/day each: cure wounds, lesser restoration, purify food and drink\n1/day each: greater restoration, remove curse"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The simurg makes three attacks: one with its bite and two with its claws."

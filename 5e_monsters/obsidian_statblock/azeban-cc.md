@@ -42,10 +42,7 @@ aliases: ["azeban", "Azeban-cc"]
   "name": "Elusive"
 - "desc": "The azeban has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The azeban's innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
-At will: dancing lights, disguise self, faerie fire, minor illusion
-3/day each: creation, major image, mislead, seeming
-1/day each: mirage arcane, programmed illusion"
+- "desc": "The azeban's innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:\nAt will: dancing lights, disguise self, faerie fire, minor illusion\n3/day each: creation, major image, mislead, seeming\n1/day each: mirage arcane, programmed illusion"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The azeban makes two attacks: one with its bite and one with its claws."

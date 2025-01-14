@@ -43,10 +43,7 @@ aliases: ["matriarch-serpentine-lamia", "Matriarch Serpentine Lamia-cc"]
   "name": "Snake Body"
 - "desc": "The matriarch serpentine lamia can communicate with snakes as if they shared a language."
   "name": "Speak with Snakes"
-- "desc": "The matriarch serpentine lamia's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). She can innately cast the following spells, requiring no material components.
-At will: animal friendship (snakes only), disguise self (any humanoid form), suggestion
-3/day each: animal messenger (snakes only), charm person, hypnotic pattern, moonbeam
-1/day each: compulsion, vampiric touch"
+- "desc": "The matriarch serpentine lamia's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). She can innately cast the following spells, requiring no material components.\nAt will: animal friendship (snakes only), disguise self (any humanoid form), suggestion\n3/day each: animal messenger (snakes only), charm person, hypnotic pattern, moonbeam\n1/day each: compulsion, vampiric touch"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The matriarch serpentine lamia makes three attacks, but can use her constrict and Debilitating Touch attacks only once each."

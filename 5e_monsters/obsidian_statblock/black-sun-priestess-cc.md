@@ -43,11 +43,7 @@ aliases: ["black-sun-priestess", "Black Sun Priestess-cc"]
   "name": "Black Sun Sight"
 - "desc": "While in bright light, the orc has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
   "name": "Light Sensitivity"
-- "desc": "The priestess is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priestess has the following cleric spells prepared:
-Cantrips (at will): guidance, mending, resistance, sacred flame
-1st level (4 slots): bane, command, cure wounds, detect magic
-2nd level (3 slots): augury, spiritual weapon
-3rd level (3 slots): animate dead, bestow curse, spirit guardians"
+- "desc": "The priestess is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priestess has the following cleric spells prepared:\nCantrips (at will): guidance, mending, resistance, sacred flame\n1st level (4 slots): bane, command, cure wounds, detect magic\n2nd level (3 slots): augury, spiritual weapon\n3rd level (3 slots): animate dead, bestow curse, spirit guardians"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage."

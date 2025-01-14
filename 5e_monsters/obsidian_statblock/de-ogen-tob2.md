@@ -41,11 +41,7 @@ aliases: ["de-ogen", "De Ogen-tob2"]
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the de ogen has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
   "name": "Sunlight Sensitivity"
-- "desc": "When a creature that can see the de ogen starts its turn within 30 feet of the de ogen, the de ogen can force it to make a DC 14 Wisdom saving throw if the de ogen isn’t incapacitated and can see the creature. On a failed save, the creature is incapacitated and its speed is reduced to 0 until the start of its next turn.
-
-A creature that isn’t surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can’t see the de ogen until the start of its next turn, when it can avert its eyes again. If it looks at the de ogen in the meantime, it must immediately make the saving throw.
-
-Creatures immune to being frightened are immune to the de ogen’s Transfixing Gaze."
+- "desc": "When a creature that can see the de ogen starts its turn within 30 feet of the de ogen, the de ogen can force it to make a DC 14 Wisdom saving throw if the de ogen isn’t incapacitated and can see the creature. On a failed save, the creature is incapacitated and its speed is reduced to 0 until the start of its next turn.\n\nA creature that isn’t surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can’t see the de ogen until the start of its next turn, when it can avert its eyes again. If it looks at the de ogen in the meantime, it must immediately make the saving throw.\n\nCreatures immune to being frightened are immune to the de ogen’s Transfixing Gaze."
   "name": "Transfixing Gaze"
 - "desc": "The first time the de ogen enters or moves through a creature’s space on a turn, that creature takes 5 (1d10) fire damage. When the de ogen moves through an object that isn’t being worn or carried, the object takes 5 (1d10) fire damage."
   "name": "Wilting Passage"

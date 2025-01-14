@@ -40,11 +40,7 @@ aliases: ["huli-jing", "Huli Jing-tob2"]
 "traits":
 - "desc": "The huli jing can use its action to polymorph into a Medium female human of unearthly beauty, or back into its true, nine-tailed fox form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "The huli jing’s innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
-At will: charm person, invisibility (self only), major image
-3/day each: cure wounds, disguise self, fear
-2/day each: bestow curse, confusion
-1/day each: divination, modify memory"
+- "desc": "The huli jing’s innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components.\nAt will: charm person, invisibility (self only), major image\n3/day each: cure wounds, disguise self, fear\n2/day each: bestow curse, confusion\n1/day each: divination, modify memory"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "In fox form, the huli jing uses Curse of Luck then makes two bite attacks. In humanoid form, it uses Curse of Luck then makes three jade dagger attacks."

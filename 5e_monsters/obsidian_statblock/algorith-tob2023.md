@@ -51,9 +51,7 @@ aliases: ["algorith-tob1-2023", "Algorith-tob2023"]
   "name": "Cone of Negation (Recharge 5–6)"
 - "desc": "The algorith summons and throws a tiny rune of law at a point it can see within 100 feet. The rune explodes on impact. Each creature within 30 feet of where the rune landed must make a DC 16 Dexterity saving throw. On a failure, a creature takes 27 (5d10) force damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned."
   "name": "Reality Bomb (5/Day)"
-- "desc": "The algorith casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16): 
-At will: bless, detect magic, dimension door, dispel magic
-1/day each: commune (as an action), wall of force"
+- "desc": "The algorith casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16): \nAt will: bless, detect magic, dimension door, dispel magic\n1/day each: commune (as an action), wall of force"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

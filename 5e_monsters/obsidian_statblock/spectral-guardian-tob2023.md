@@ -48,10 +48,7 @@ aliases: ["spectralguardian-tob1-2023", "Spectral Guardian-tob2023"]
   "name": "Spectral Blade"
 - "desc": "Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120 ft., one target. Hit: 9 (1d10 + 4) force damage plus 9 (2d8) necrotic damage."
   "name": "Spectral Burst"
-- "desc": "The arcane guardian casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
-At will: dancing lights, fog cloud, minor illusion
-3/day each: fear, slow
-1/day each: arcane hand"
+- "desc": "The arcane guardian casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):\nAt will: dancing lights, fog cloud, minor illusion\n3/day each: fear, slow\n1/day each: arcane hand"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

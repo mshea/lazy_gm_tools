@@ -43,9 +43,7 @@ aliases: ["haleshi", "Haleshi-tob2"]
   "name": "Amphibious"
 - "desc": "While the haleshi is wearing no armor and wielding no shield, its AC includes its Charisma modifier (included in the Armor Class)."
   "name": "Charming Defense"
-- "desc": "The haleshi’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
-3/day each: charm person, invisibility (self only)
-1/day each: major image, water walk, zone of truth"
+- "desc": "The haleshi’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:\n3/day each: charm person, invisibility (self only)\n1/day each: major image, water walk, zone of truth"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The haleshi makes two attacks with its stupefying touch."

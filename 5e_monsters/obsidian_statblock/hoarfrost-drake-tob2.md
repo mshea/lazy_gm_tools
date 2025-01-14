@@ -48,9 +48,7 @@ aliases: ["hoarfrost-drake", "Hoarfrost Drake-tob2"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."
   "name": "Claw"
-- "desc": "The hoarfrost drake creates a cloud of freezing fog that rimes everything in frost. Each creature within 20 feet of it must make a DC 14 Constitution saving throw. On a failure, the target takes 14 (4d6) cold damage and must succeed on a DC 12 Dexterity saving throw or drop whatever it’s holding. On a success, the target takes half the damage and doesn’t drop what it’s holding.
-
-The area becomes difficult terrain until the end of the hoarfrost drake’s next turn. A creature that enters the area or ends its turn there must succeed on a DC 14 Dexterity saving throw or fall prone."
+- "desc": "The hoarfrost drake creates a cloud of freezing fog that rimes everything in frost. Each creature within 20 feet of it must make a DC 14 Constitution saving throw. On a failure, the target takes 14 (4d6) cold damage and must succeed on a DC 12 Dexterity saving throw or drop whatever it’s holding. On a success, the target takes half the damage and doesn’t drop what it’s holding.\n\nThe area becomes difficult terrain until the end of the hoarfrost drake’s next turn. A creature that enters the area or ends its turn there must succeed on a DC 14 Dexterity saving throw or fall prone."
   "name": "Cloud of Riming Ice (Recharge 5-6)"
 "reactions":
 - "desc": "When a creature grapples the drake, the drake can immediately attempt to escape. If it succeeds, it can make a bite attack against the creature that grappled it."

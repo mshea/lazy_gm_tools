@@ -40,8 +40,7 @@ aliases: ["serpentfolk-of-yig", "Serpentfolk of Yig-cc"]
 "traits":
 - "desc": "The serpentfolk has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The serpentfolk's innate spellcasting ability is Charisma (spell save DC 12). The serpentfolk can innately cast the following spells, requiring no material components:
-3/day each: charm person, disguise self"
+- "desc": "The serpentfolk's innate spellcasting ability is Charisma (spell save DC 12). The serpentfolk can innately cast the following spells, requiring no material components:\n3/day each: charm person, disguise self"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The serpentfolk makes two attacks: one with its bite and one with its scimitar."

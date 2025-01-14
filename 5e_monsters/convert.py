@@ -22,14 +22,24 @@ def doc_shorthand(document_name):
 
 def decode_ascii(str):
     if not str.isascii():
-        return str
-    return bytes(str, 'utf-8').decode('unicode_escape')
+        return str.replace('\n', '\\n')
+    return bytes(str, 'utf-8').decode('unicode_escape').replace('\n', '\\n')
 
-def parse_abilities(md_file, ability_json, name):
+
+def rewriteA5eSpellcasting(str):
+    # Rewrite newlines for a5e content, kind of borked in the json
+    return re.sub(r'(?<=[0-9a-zA-Z])\n(?=\s[a-zA-Z\+])', ',', str).replace('\n', '\\n')
+
+
+def parse_abilities(md_file, ability_json, name, isA5emm=False):
     md_file.write(f'"{name}":\n')
     abilities = json.loads(ability_json)
     for ability in abilities:
-        md_file.write(f'- "desc": "{decode_ascii(ability['description'] if 'description' in ability else decode_ascii(ability['desc']))}"\n')
+        if ability['name'] == 'Spellcasting' and isA5emm:
+            description = rewriteA5eSpellcasting(ability['desc'])
+        else:
+            description = decode_ascii(ability['description']) if 'description' in ability else decode_ascii(ability['desc'])
+        md_file.write(f'- "desc": "{description}"\n')
         md_file.write(f'  "name": "{ability['name']}"\n')
 
 def parse_cr(cr):
@@ -126,7 +136,7 @@ def generate_mdfile(monster):
         if monster['damage_resistances']:
             md_file.write(f'"damage_resistances": "{monster['damage_resistances']}"\n')
         if monster['special_abilities_json'] and monster['special_abilities_json'] != 'null':
-            parse_abilities(md_file, monster['special_abilities_json'], 'traits')
+            parse_abilities(md_file, monster['special_abilities_json'], 'traits', monster['document__title'] == 'A5e Monstrous Menagerie')
         if monster['actions_json'] and monster['actions_json'] != 'null':
             parse_abilities(md_file, monster['actions_json'], 'actions')
         if monster['reactions_json'] and monster['reactions_json'] != 'null':
@@ -138,12 +148,11 @@ def generate_mdfile(monster):
         md_file.write('source:\n')
         md_file.write(f'- [{monster["document__title"]}]({monster["document__url"]})\n')
         md_file.write('```\n')
-    add_link(monster['slug'], f'../{filename}')
+    # add_link(monster['slug'], f'../{filename}')
 
 with open("monsters.json", 'r', encoding='utf-8',
                      errors='ignore') as f:
     monsters = json.load(f)
     print(f'Starting Monster statblock generation')
     for monster in monsters:
-        # print(f'Generating: {monster['name']}')
         generate_mdfile(monster)

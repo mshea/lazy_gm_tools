@@ -36,14 +36,7 @@ aliases: ["acolyte-a5e", "Acolyte-a5emm"]
 "languages": "any one"
 "cr": "1/4"
 "traits":
-- "desc": "The acolyte is a 2nd level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12
- +4 to hit with spell attacks). They have the following cleric spells prepared:
- Cantrips (at will): light
- sacred flame
- thaumaturgy
- 1st-level (3 slots): bless
- cure wounds
- sanctuary"
+- "desc": "The acolyte is a 2nd level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). They have the following cleric spells prepared:\n Cantrips (at will): light, sacred flame, thaumaturgy\n 1st-level (3 slots): bless, cure wounds, sanctuary"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 2 (1d4) bludgeoning damage."

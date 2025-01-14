@@ -40,10 +40,7 @@ aliases: ["lava-keeper", "Lava Keeper-tob2"]
 "traits":
 - "desc": "Each creature that starts its turn within 5 feet of the lava keeper must make a DC 19 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one."
   "name": "Lava Dribble"
-- "desc": "The lava keeper’s innate spellcasting ability is Wisdom (spell save DC 17). It can innately cast the following spells, requiring no material components:
-At will: move earth, stone shape
-3/day each: wall of fire, wall of stone
-1/day each: conjure elemental (earth or fire elemental only), earthquake, fire storm"
+- "desc": "The lava keeper’s innate spellcasting ability is Wisdom (spell save DC 17). It can innately cast the following spells, requiring no material components:\nAt will: move earth, stone shape\n3/day each: wall of fire, wall of stone\n1/day each: conjure elemental (earth or fire elemental only), earthquake, fire storm"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The lava keeper makes four slam attacks. Alternatively, it can use its Lava Lob twice."

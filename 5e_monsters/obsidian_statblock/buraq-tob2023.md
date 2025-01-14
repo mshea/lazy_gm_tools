@@ -50,11 +50,7 @@ aliases: ["buraq-tob1-2023", "Buraq-tob2023"]
   "name": "Hooves"
 - "desc": "The buraq magically teleports itself and its rider, along with any equipment it is wearing or carrying, to a location the buraq is familiar with, up to 1 mile away."
   "name": "Teleport (1/Day)"
-- "desc": "The buraq casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save DC 17):
-At will: comprehend languages, detect evil and good, holy aura, pass without trace
-3/day each: haste, longstrider
-1/day each: plane shift, wind walk
-Teleport (1/Day)The buraq magically teleports itself and its rider, along with any equipment it is wearing or carrying, to a location the buraq is familiar with, up to 1 mile away."
+- "desc": "The buraq casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save DC 17):\nAt will: comprehend languages, detect evil and good, holy aura, pass without trace\n3/day each: haste, longstrider\n1/day each: plane shift, wind walk\nTeleport (1/Day)The buraq magically teleports itself and its rider, along with any equipment it is wearing or carrying, to a location the buraq is familiar with, up to 1 mile away."
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

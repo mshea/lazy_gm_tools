@@ -46,10 +46,7 @@ aliases: ["astri", "Astri-tob2"]
   "name": "Magic Resistance"
 - "desc": "The astri’s weapon attacks are magical."
   "name": "Magic Weapons"
-- "desc": "The astri’s spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The astri can cast the following spells, requiring no material components:
-At will: create or destroy water, detect poison and disease, produce flame, purify food and drink
-3/day each: bless, create food and water, lesser restoration
-1/day each: remove curse"
+- "desc": "The astri’s spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The astri can cast the following spells, requiring no material components:\nAt will: create or destroy water, detect poison and disease, produce flame, purify food and drink\n3/day each: bless, create food and water, lesser restoration\n1/day each: remove curse"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The astri makes three bite attacks."

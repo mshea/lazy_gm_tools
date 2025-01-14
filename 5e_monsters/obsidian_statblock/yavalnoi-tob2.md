@@ -38,9 +38,7 @@ aliases: ["yavalnoi", "Yavalnoi-tob2"]
 "traits":
 - "desc": "The yavalnoi can breathe only underwater."
   "name": "Water Breathing"
-- "desc": "The yavalnoi’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.
-At will: ray of enfeeblement, silent image
-3/day: control water, slow"
+- "desc": "The yavalnoi’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.\nAt will: ray of enfeeblement, silent image\n3/day: control water, slow"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The yavalnoi makes three attacks: one with its bite, one with its claw, and one with its tail."

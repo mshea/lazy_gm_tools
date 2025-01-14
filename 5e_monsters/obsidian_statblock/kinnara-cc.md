@@ -41,10 +41,7 @@ aliases: ["kinnara", "Kinnara-cc"]
   "name": "Angelic Weapons"
 - "desc": "The kinnara shares a powerful bond with its partner and can't be turned against its partner by magical or non-magical means."
   "name": "Eternal Lovers"
-- "desc": "The kinnara's spellcasting ability is Charisma (spell save DC 14). The kinnara can innately cast the following spells, requiring no material components:
-At will: detect good and evil, guidance, light, spare the dying
-3/day each: charm person, sleep, healing word
-1/day each: calm emotions, enthrall, hold person"
+- "desc": "The kinnara's spellcasting ability is Charisma (spell save DC 14). The kinnara can innately cast the following spells, requiring no material components:\nAt will: detect good and evil, guidance, light, spare the dying\n3/day each: charm person, sleep, healing word\n1/day each: calm emotions, enthrall, hold person"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 9 (2d8) radiant damage."

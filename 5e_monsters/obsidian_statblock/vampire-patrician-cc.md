@@ -41,11 +41,7 @@ aliases: ["vampire-patrician", "Vampire Patrician-cc"]
 "traits":
 - "desc": "A melee weapon deals one extra die of its damage and an extra 3 (1d6) necrotic damage when the vampire patrician hits with it (included in the attack)."
   "name": "Cruel Combatant"
-- "desc": "When it drops to 0 hp outside its resting place, the vampire patrician transforms into a cloud of mist instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed. While it has 0 hp in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. 
-
-While in mist form it can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight. 
-
-Once in its resting place, it reverts to vampire form. It is then paralyzed until it regains at least 1 hp. After spending 1 hour in its resting place with 0 hp, it regains 1 hp."
+- "desc": "When it drops to 0 hp outside its resting place, the vampire patrician transforms into a cloud of mist instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed. While it has 0 hp in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. \n\nWhile in mist form it can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight. \n\nOnce in its resting place, it reverts to vampire form. It is then paralyzed until it regains at least 1 hp. After spending 1 hour in its resting place with 0 hp, it regains 1 hp."
   "name": "Misty Escape"
 - "desc": "The vampire patrician can ignore the effects of sunlight for up to 1 minute."
   "name": "Noble Resilience (Recharges after a Long Rest)"
@@ -53,11 +49,7 @@ Once in its resting place, it reverts to vampire form. It is then paralyzed unti
   "name": "Regeneration"
 - "desc": "The vampire patrician can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
   "name": "Spider Climb"
-- "desc": "The vampire patrician has the following flaws:
-Forbiddance. The patrician can't enter a residence without an invitation from one of the occupants.
-Harmed by Running Water. The patrician takes 20 acid damage if it ends its turn in running water.
-Stake to the Heart. If a piercing weapon made of wood is driven into the patrician's heart while the patrician is incapacitated in its resting place, the patrician is paralyzed until the stake is removed.
-Sunlight Hypersensitivity. The patrician takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks."
+- "desc": "The vampire patrician has the following flaws:\nForbiddance. The patrician can't enter a residence without an invitation from one of the occupants.\nHarmed by Running Water. The patrician takes 20 acid damage if it ends its turn in running water.\nStake to the Heart. If a piercing weapon made of wood is driven into the patrician's heart while the patrician is incapacitated in its resting place, the patrician is paralyzed until the stake is removed.\nSunlight Hypersensitivity. The patrician takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks."
   "name": "Vampire Weaknesses"
 "actions":
 - "desc": "The vampire patrician can use its Bone-Chilling Gaze. It then makes two attacks, only one of which can be a bite attack."

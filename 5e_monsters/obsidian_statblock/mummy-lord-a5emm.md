@@ -47,21 +47,7 @@ aliases: ["mummy-lord-a5e", "Mummy Lord-a5emm"]
   "name": "Magic Resistance"
 - "desc": "If its heart is intact, a destroyed mummy lord gains a new body in 1d4 days, regaining all its hit points. The new body forms within 10 feet of the heart."
   "name": "Rejuvenation"
-- "desc": "The mummy lord is an 11th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17
- +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared
- which it can cast without material components:
- Cantrips (at will): guidance
- thaumaturgy
- 1st-level (4 slots): create or destroy water
- detect magic
- 2nd-level (3 slots): augury
- gentle repose
- 3rd-level (3 slots): animate dead
- dispel magic
- 4th-level (3 slots): divination
- guardian of faith
- 5th-level (2 slots): contagion
- 6th-level (1 slot): harm"
+- "desc": "The mummy lord is an 11th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared, which it can cast without material components:\n Cantrips (at will): guidance, thaumaturgy\n 1st-level (4 slots): create or destroy water, detect magic\n 2nd-level (3 slots): augury, gentle repose\n 3rd-level (3 slots): animate dead, dispel magic\n 4th-level (3 slots): divination, guardian of faith\n 5th-level (2 slots): contagion\n 6th-level (1 slot): harm"
   "name": "Spellcasting"
 "actions":
 - "desc": "The mummy lord uses Dreadful Glare and then attacks with its rotting fist."

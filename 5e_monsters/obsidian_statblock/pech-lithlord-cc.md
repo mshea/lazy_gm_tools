@@ -41,10 +41,7 @@ aliases: ["pech-lithlord", "Pech Lithlord-cc"]
   "name": "Light Sensitivity"
 - "desc": "As a bonus action, the pech can draw on the power of unworked stone, as long as it is in contact with stone. Until the end of the pech's next turn, it gains resistance to piercing and slashing damage."
   "name": "One with the Stone (Recharges after a Short or Long Rest)"
-- "desc": "The pech lithlord's innate spellcasting ability is Wisdom (spell save DC 15). The pech lithlord can innately cast the following spells, requiring no material components:
-At will: mending, thunderwave (4d8)
-3/day: shatter (4d8)
-1/day: meld into stone, stone shape"
+- "desc": "The pech lithlord's innate spellcasting ability is Wisdom (spell save DC 15). The pech lithlord can innately cast the following spells, requiring no material components:\nAt will: mending, thunderwave (4d8)\n3/day: shatter (4d8)\n1/day: meld into stone, stone shape"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The pech lithlord makes three attacks: two with its pick and one with its hammer. If the pech lithlord hits the same target with two attacks, the target must succeed on a DC 15 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."

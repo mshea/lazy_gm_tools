@@ -45,10 +45,7 @@ aliases: ["dau-tob1-2023", "Dau-tob2023"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage, and the dau regains hp equal to the necrotic damage dealt. The target must succeed on a DC 13 Constitution saving throw or its hp maximum is reduced by an amount equal to the necrotic damage dealt. This reduction lasts until the creature finishes a long rest. The creature dies if this effect reduces its hp maximum to 0."
   "name": "Slam"
-- "desc": "The dau casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
-At will: detect thoughts, minor illusion
-3/day each: invisibility, major image
-1/day each: programmed illusion, project image"
+- "desc": "The dau casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):\nAt will: detect thoughts, minor illusion\n3/day each: invisibility, major image\n1/day each: programmed illusion, project image"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When a creature the dau can see within 30 feet of it attacks the dau or targets it with a spell, the dau replaces itself with an illusory duplicate and teleports to any unoccupied space that it can see within 30 feet. The dau isn’t affected by the attack or spell, and the illusory duplicate is destroyed."

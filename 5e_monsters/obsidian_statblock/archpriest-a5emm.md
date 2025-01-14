@@ -43,38 +43,7 @@ aliases: ["archpriest-a5e", "Archpriest-a5emm"]
   "name": "Anointed Healing"
 - "desc": "The archpriest has advantage on saving throws against spells and magical effects."
   "name": "Magic Resistance"
-- "desc": "The archpriest is a 20th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 18
- +10 to hit with spell attacks). The archpriest has the following cleric spells prepared.
- Cantrips (at will): light
- mending
- sacred flame
- spare the dying
- thaumaturgy
- 1st-level (4 slots): bane
- bless
- cure wounds
- inflict wounds
- 2nd-level (3 slots): hold person
- lesser restoration
- spiritual weapon
- 3rd-level (3 slots): bestow curse
- dispel magic
- revivify
- 4th-level (3 slots): banishment
- guardian of faith
- stone shape
- 5th-level (3 slots): contagion
- flame strike
- greater restoration
- mass cure wounds
- 6th-level (2 slots): blade barrier
- planar ally
- true seeing
- 7th-level (2 slots): conjure celestial
- divine word
- fire storm
- 8th-level (1 slot): antimagic field
- 9th-level (1 slot): mass heal"
+- "desc": "The archpriest is a 20th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The archpriest has the following cleric spells prepared.\n Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy\n 1st-level (4 slots): bane, bless, cure wounds, inflict wounds\n 2nd-level (3 slots): hold person, lesser restoration, spiritual weapon\n 3rd-level (3 slots): bestow curse, dispel magic, revivify\n 4th-level (3 slots): banishment, guardian of faith, stone shape\n 5th-level (3 slots): contagion, flame strike, greater restoration, mass cure wounds\n 6th-level (2 slots): blade barrier, planar ally, true seeing\n 7th-level (2 slots): conjure celestial, divine word, fire storm\n 8th-level (1 slot): antimagic field\n 9th-level (1 slot): mass heal"
   "name": "Spellcasting"
 "actions":
 - "desc": "The archpriest attacks twice."

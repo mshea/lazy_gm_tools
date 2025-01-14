@@ -42,13 +42,7 @@ aliases: ["conjoined-queen", "Conjoined Queen-tob2"]
   "name": "Pheromones"
 - "desc": "The queen can burrow through solid rock at half her burrowing speed and leaves a 5-foot-diameter tunnel in her wake."
   "name": "Tunneler"
-- "desc": "The conjoined queen is a 9th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The queen has the following sorcerer spells prepared:
-Cantrips (at will): acid splash, mage hand, prestidigitation, ray of frost
-1st Level (4 slots): burning hands, magic missile, shield, thunderwave
-2nd Level (3 slots): detect thoughts, misty step, web
-3rd Level (3 slots): clairvoyance, counterspell, haste
-4th Level (3 slots): banishment, confusion
-5th Level (1 slot): insect plague"
+- "desc": "The conjoined queen is a 9th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The queen has the following sorcerer spells prepared:\nCantrips (at will): acid splash, mage hand, prestidigitation, ray of frost\n1st Level (4 slots): burning hands, magic missile, shield, thunderwave\n2nd Level (3 slots): detect thoughts, misty step, web\n3rd Level (3 slots): clairvoyance, counterspell, haste\n4th Level (3 slots): banishment, confusion\n5th Level (1 slot): insect plague"
   "name": "Spellcasting"
 "actions":
 - "desc": "The conjoined queen makes two slam attacks and one sting attack."

@@ -43,9 +43,7 @@ aliases: ["salamander-monarch", "Salamander Monarch-tob2"]
   "name": "Heated Weapons"
 - "desc": "Each salamander within 30 feet of the salamander monarch and that can see the monarch has advantage on its melee attack rolls and saving throws."
   "name": "Inspiring Sovereign"
-- "desc": "The salamander monarch’s innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components.
-3/day: flaming sphere, heat metal
-1/day: conjure elemental (fire elemental only)"
+- "desc": "The salamander monarch’s innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components.\n3/day: flaming sphere, heat metal\n1/day: conjure elemental (fire elemental only)"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The salamander monarch makes two attacks: one with its trident and one with its tail."

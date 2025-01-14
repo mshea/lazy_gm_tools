@@ -40,19 +40,7 @@ aliases: ["trickster-priest-a5e", "Trickster Priest-a5emm"]
 "languages": "any two"
 "cr": "2"
 "traits":
-- "desc": "The priest is a 5th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 13
- +5 to hit with spell attacks). They have the following cleric spells prepared:
- Cantrips (at will): sacred flame
- thaumaturgy
- minor illusion
- 1st-level (4 slots): ceremony
- detect evil and good
- healing word
- disguise self
- 2nd-level (3 slots): lesser restoration
- invisibility
- 3rd-level (2 slots): spirit guardians
- major image"
+- "desc": "The priest is a 5th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). They have the following cleric spells prepared:\n Cantrips (at will): sacred flame, thaumaturgy, minor illusion\n 1st-level (4 slots): ceremony, detect evil and good, healing word, disguise self\n 2nd-level (3 slots): lesser restoration, invisibility\n 3rd-level (2 slots): spirit guardians, major image"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) bludgeoning damage. On a hit  the priest can expend a spell slot to deal 7 (2d6) radiant damage  plus an extra 3 (1d6) radiant damage for each level of the spell slot expended above 1st."

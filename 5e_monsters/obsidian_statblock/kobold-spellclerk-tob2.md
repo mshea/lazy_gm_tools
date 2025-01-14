@@ -47,9 +47,7 @@ aliases: ["kobold-spellclerk", "Kobold Spellclerk-tob2"]
   "name": "Pack Tactics"
 - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
   "name": "Sunlight Sensitivity"
-- "desc": "The kobold spellclerk is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
-Cantrips (at will): fire bolt, message, minor illusion
-1st level (3 slots): comprehend languages, feather fall, grease, illusory script, sleep"
+- "desc": "The kobold spellclerk is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:\nCantrips (at will): fire bolt, message, minor illusion\n1st level (3 slots): comprehend languages, feather fall, grease, illusory script, sleep"
   "name": "Spellcasting"
 "actions":
 - "desc": "The kobold spellclerk makes two melee attacks."

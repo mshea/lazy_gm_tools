@@ -52,10 +52,7 @@ aliases: ["devilboundgnome-tob1-2023", "Devilbound Gnome-tob2023"]
   "name": "Hell’s Servitors (1/Day)"
 - "desc": "The devilbound gnome sends one creature it can see within 60 feet of it hurling through Hell. The target must make a DC 17 Wisdom saving throw. On a success, the target takes 35 (10d6) fire damage as Hell pulls on the creature. On a failure, the target is incapacitated and disappears, as it takes a quick trip through the nightmarish landscapes of Hell. At the end of the gnome’s next turn, the target reappears in the space it previously occupied, or the nearest unoccupied space, and takes 55 (10d10) psychic damage."
   "name": "To Hell and Back (1/Day)"
-- "desc": "The devilbound gnome casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
-At will: detect magic, minor illusion, prestidigitation
-3/day each: command, dimension door, invisibility
-1/day each: fly, haste, wall of fire"
+- "desc": "The devilbound gnome casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):\nAt will: detect magic, minor illusion, prestidigitation\n3/day each: command, dimension door, invisibility\n1/day each: fly, haste, wall of fire"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When the devilbound gnome is reduced to 0 hp, it can sacrifice a Fiend called with the Hell’s Servitor’s action or sacrifice its bonded imp, preventing the damage and killing the chosen Fiend. If the gnome sacrifices its bonded imp, it loses its Infernal Blessing and Infernal Bond traits until it receives a new imp from its patron devil."

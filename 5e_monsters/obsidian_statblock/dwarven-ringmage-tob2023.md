@@ -44,10 +44,7 @@ aliases: ["dwarvenringmage-tob1-2023", "Dwarven Ringmage-tob2023"]
   "name": "Ring Staff"
 - "desc": "The dwarven ringmage draws circles of magic in the air and sends them toward one creature it can see within 30 feet of it, causing one of the following effects:"
   "name": "Ring Magic"
-- "desc": "The dwarven ringmage casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15):
-At will: color spray, mage hand, true strike
-3/day each: expeditious retreat, fly, haste
-1/day each: greater invisibility, wall of stone"
+- "desc": "The dwarven ringmage casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15):\nAt will: color spray, mage hand, true strike\n3/day each: expeditious retreat, fly, haste\n1/day each: greater invisibility, wall of stone"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

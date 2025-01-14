@@ -60,9 +60,7 @@ aliases: ["gildeddevil-tob1-2023", "Gilded Devil-tob2023"]
   "name": "Teleport (Recharge 4–6)"
 - "desc": "The gilded devil magically consumes up to 1 cubic foot of nonmagical jewelry or coins made of precious material within 5 feet of it. It regains 5 hp for every 200 gp of the consumed objects’ value. If the jewelry or coins are being worn or carried by a creature, that creature must succeed on a DC 15 Dexterity saving throw to prevent the consumption."
   "name": "Voracious Greed"
-- "desc": "The gilded devil casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 15):
-At will: alter self, detect thoughts, suggestion
-3/day each: charm person, scrying"
+- "desc": "The gilded devil casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 15):\nAt will: alter self, detect thoughts, suggestion\n3/day each: charm person, scrying"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "One creature wearing jewelry (an object made of precious material and worth at least 100 gp) the gilded devil can see within 60 feet of it must make a DC 15 Wisdom saving throw. On a failure, the target takes 13 (3d8) bludgeoning damage and suffers an effect until it finishes a short rest. The effect is based on the location of the worn jewelry (devil’s choice if worn in multiple locations): on upper limbs, its melee damage is halved; on lower limbs, its speed is halved; on head, it is blinded or deafened (devil’s choice); on body, it has vulnerability to bludgeoning damage. On a success, the target takes half the damage and doesn’t suffer an additional effect."

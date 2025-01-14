@@ -61,9 +61,7 @@ aliases: ["fideleangel-tob1-2023", "Fidele Angel-tob2023"]
   "name": "Radiant Bolt"
 - "desc": "If its mate is more than 1 mile away from it, the fidele angel can magically teleport, along with any equipment it is wearing or carrying, to an unoccupied space within 10 feet of its mate. The angel can use this action even if its mate is on another plane of existence."
   "name": "To My Lover’s Side"
-- "desc": "The angel casts one of the following spells, requiring no material components and using Charisma as its spellcasting ability (spell save DC 15):
-At will: detect evil and good, purify food and drink, spare the dying
-3/day each: bless, cure wounds, daylight"
+- "desc": "The angel casts one of the following spells, requiring no material components and using Charisma as its spellcasting ability (spell save DC 15):\nAt will: detect evil and good, purify food and drink, spare the dying\n3/day each: bless, cure wounds, daylight"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The fidele angel transforms into a Medium or smaller Humanoid, a Large or smaller birdlike Beast, or back into its true form, which is a winged Celestial. Without wings, it loses its flying speed. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies."

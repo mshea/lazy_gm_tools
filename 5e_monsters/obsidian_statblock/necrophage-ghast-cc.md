@@ -42,11 +42,7 @@ aliases: ["necrophage-ghast", "Necrophage Ghast-cc"]
   "name": "Necrophage Stench"
 - "desc": "The necrophage ghast and any undead within 30 feet of it have advantage on saving throws against effects that turn undead."
   "name": "Turning Defiance"
-- "desc": "The necrophage ghast is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The necrophage ghast has the following wizard spells prepared: 
-Cantrips (at will): friends, mage hand, poison spray, prestidigitation
-1st level (4 slots): charm person, false life, magic missile, ray of sickness
-2nd level (3 slots): hold person, invisibility
-3rd level (2 slots): animate dead, hypnotic pattern"
+- "desc": "The necrophage ghast is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The necrophage ghast has the following wizard spells prepared: \nCantrips (at will): friends, mage hand, poison spray, prestidigitation\n1st level (4 slots): charm person, false life, magic missile, ray of sickness\n2nd level (3 slots): hold person, invisibility\n3rd level (2 slots): animate dead, hypnotic pattern"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage."

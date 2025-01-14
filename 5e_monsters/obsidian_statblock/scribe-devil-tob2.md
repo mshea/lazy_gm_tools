@@ -43,10 +43,7 @@ aliases: ["scribe-devil", "Scribe Devil-tob2"]
   "name": "Devil’s Sight"
 - "desc": "The scribe has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The scribe devil’s spellcasting ability is Intelligence (spell save DC 15). The devil can innately cast the following spells, requiring no material components:
-At will: detect magic, illusory script
-3/day each: dispel magic, zone of truth
-1/day each: glyph of warding, modify memory"
+- "desc": "The scribe devil’s spellcasting ability is Intelligence (spell save DC 15). The devil can innately cast the following spells, requiring no material components:\nAt will: detect magic, illusory script\n3/day each: dispel magic, zone of truth\n1/day each: glyph of warding, modify memory"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The scribe devil makes two attacks: one with its claws and one with its tail."

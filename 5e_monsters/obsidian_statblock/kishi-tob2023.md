@@ -52,10 +52,7 @@ aliases: ["kishi-tob1-2023", "Kishi-tob2023"]
   "name": "Bite"
 - "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack, plus 9 (2d8) cold damage."
   "name": "Spear"
-- "desc": "The kishi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
-At will: detect evil and good, detect magic, suggestion
-3/day: glibness
-1/day: dominate person"
+- "desc": "The kishi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):\nAt will: detect evil and good, detect magic, suggestion\n3/day: glibness\n1/day: dominate person"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The kishi absorbs some of the essence of a creature it killed since the end of its previous turn and magically creates a grisly trophy of the creature on its shield or spear. For 1 hour, its Armor Class becomes 20, and creatures of the same type as the slain creature have disadvantage on attack rolls against the kishi."

@@ -37,11 +37,7 @@ aliases: ["kulmking", "Külmking-cc"]
 "damage_immunities": "necrotic, poison"
 "damage_resistances": "cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 "traits":
-- "desc": "If the külmking moves through another creature, it can use a bonus action to corrupt that creature's soul. The target creature must make a DC 16 Charisma saving throw. A creature paralyzed by the külmking has disadvantage on this saving throw. 
-
-On a failed save, a creature suffers from terrible and violent thoughts and tendencies. Over the course of 2d4 days, its alignment shifts to chaotic evil. A creature that dies during this time, or after this shift is complete, rises 24 hours later as a külmking. The corruption can be reversed by a remove curse spell or similar magic used before the creature's death. 
-
-On a success, a creature is immune to the külmking's Corruption for the next 24 hours."
+- "desc": "If the külmking moves through another creature, it can use a bonus action to corrupt that creature's soul. The target creature must make a DC 16 Charisma saving throw. A creature paralyzed by the külmking has disadvantage on this saving throw. \n\nOn a failed save, a creature suffers from terrible and violent thoughts and tendencies. Over the course of 2d4 days, its alignment shifts to chaotic evil. A creature that dies during this time, or after this shift is complete, rises 24 hours later as a külmking. The corruption can be reversed by a remove curse spell or similar magic used before the creature's death. \n\nOn a success, a creature is immune to the külmking's Corruption for the next 24 hours."
   "name": "Corruption"
 - "desc": "The külmking can pass through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
   "name": "Incorporeal Movement"

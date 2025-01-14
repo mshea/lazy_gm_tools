@@ -36,9 +36,7 @@ aliases: ["nachzehrer", "Nachzehrer-cc"]
 "cr": "8"
 "damage_immunities": "necrotic, poison"
 "traits":
-- "desc": "A creature infected with grave pox becomes vulnerable to necrotic damage and gains one level of exhaustion that can't be removed until the disease is cured. Additionally, the creature cannot reduce its exhaustion by finishing a long rest. The infected creature is highly contagious. Each creature that touches it, or that is within 10 feet of it when it finishes a long rest, must succeed on a DC 12 Constitution saving throw or also contract grave pox. 
-
-When an infected creature finishes a long rest, it must succeed on a DC 16 Constitution saving throw or gain one level of exhaustion. As the disease progresses, the infected creature becomes weaker and develops painful green pustules all over its skin. A creature that succeeds on two saving throws against the disease recovers from it. The cured creature is no longer vulnerable to necrotic damage and can remove exhaustion levels as normal."
+- "desc": "A creature infected with grave pox becomes vulnerable to necrotic damage and gains one level of exhaustion that can't be removed until the disease is cured. Additionally, the creature cannot reduce its exhaustion by finishing a long rest. The infected creature is highly contagious. Each creature that touches it, or that is within 10 feet of it when it finishes a long rest, must succeed on a DC 12 Constitution saving throw or also contract grave pox. \n\nWhen an infected creature finishes a long rest, it must succeed on a DC 16 Constitution saving throw or gain one level of exhaustion. As the disease progresses, the infected creature becomes weaker and develops painful green pustules all over its skin. A creature that succeeds on two saving throws against the disease recovers from it. The cured creature is no longer vulnerable to necrotic damage and can remove exhaustion levels as normal."
   "name": "Grave Pox"
 - "desc": "A creature other than a construct or undead has disadvantage on attack rolls, saving throws, and ability checks based on Strength while within 5 feet of the nachzehrer."
   "name": "Weakening Shadow"

@@ -49,10 +49,7 @@ aliases: ["scheznyki-tob1-2023", "Scheznyki-tob2023"]
   "name": "Arcane Bolt"
 - "desc": "The scheznyki magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment it wears or carries is invisible with it."
   "name": "Invisibility"
-- "desc": "The scheznyki casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
-At will: dancing lights, faerie fire
-3/day each: locate object, hideous laughter, ray of enfeeblement
-1/day each: dispel magic, hold person"
+- "desc": "The scheznyki casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):\nAt will: dancing lights, faerie fire\n3/day each: locate object, hideous laughter, ray of enfeeblement\n1/day each: dispel magic, hold person"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

@@ -40,9 +40,7 @@ aliases: ["young-imperial-dragon", "Young Imperial Dragon-tob2"]
 "traits":
 - "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
-- "desc": "The imperial dragon’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.
-3/day: fog cloud
-1/day each: control water, gust of wind, stinking cloud"
+- "desc": "The imperial dragon’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.\n3/day: fog cloud\n1/day each: control water, gust of wind, stinking cloud"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."

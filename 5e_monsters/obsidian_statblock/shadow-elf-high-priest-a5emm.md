@@ -40,26 +40,7 @@ aliases: ["shadow-elf-high-priest-a5e", "Shadow Elf High Priest-a5emm"]
 "traits":
 - "desc": "The priestcan innately cast dancing lights as a cantrip and darkness and faerie fire once each per long rest with no material components, using Wisdom as their spellcasting ability."
   "name": "Shadow magic"
-- "desc": "The priest is an 11th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 15
- +7 to hit with spell attacks). They have the following cleric spells prepared:
- Cantrips (at will): guidance
- spare the dying
- thaumaturgy
- 1st-level (4 slots): animal friendship
- ceremony
- detect poison and disease
- 2nd-level (3 slots): augury
- lesser restoration
- web
- 3rd-level (3 slots): bestow curse
- remove curse
- 4th-level (3 slots): divination
- freedom of movement
- guardian of faith
- 5th-level (2 slots): greater restoration
- insect plague
- raise dead
- 6th-level (1 slots): word of recall"
+- "desc": "The priest is an 11th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). They have the following cleric spells prepared:\n Cantrips (at will): guidance, spare the dying, thaumaturgy\n 1st-level (4 slots): animal friendship, ceremony, detect poison and disease\n 2nd-level (3 slots): augury, lesser restoration, web\n 3rd-level (3 slots): bestow curse, remove curse\n 4th-level (3 slots): divination, freedom of movement, guardian of faith\n 5th-level (2 slots): greater restoration, insect plague, raise dead\n 6th-level (1 slots): word of recall"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage. On a hit  the priest can expend a spell slot to deal 7 (2d6) radiant damage  plus an extra 3 (1d6) radiant damage for each level of the spell slot expended above 1st."

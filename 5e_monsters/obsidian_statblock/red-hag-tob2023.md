@@ -53,10 +53,7 @@ aliases: ["redhag-tob1-2023", "Red Hag-tob2023"]
   "name": "Blood Bolt"
 - "desc": "The red hag drains blood from nearby creatures. Each creature that isn’t a Construct or Undead within 20 feet of the red hag must make a DC 16 Constitution saving throw, taking 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one. If at least one creature fails the saving throw, the next spell the red hag casts is cast as if the spell used a spell slot two levels higher than the spell’s lowest level."
   "name": "Siphon Blood (Recharge 5–6)"
-- "desc": "The red hag casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 16):
-At will: animal friendship, druidcraft, entangle
-3/day: cure wounds, dispel magic, lesser restoration
-1/day: control water, freedom of movement"
+- "desc": "The red hag casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 16):\nAt will: animal friendship, druidcraft, entangle\n3/day: cure wounds, dispel magic, lesser restoration\n1/day: control water, freedom of movement"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

@@ -39,10 +39,7 @@ aliases: ["brain-hood", "Brain Hood-tob2"]
   "name": "Merge with Beast"
 - "desc": "While merged with a beast, the brain hood can communicate with beasts of the same type as if they shared a language."
   "name": "Speak with Beasts"
-- "desc": "The brain hood’s spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The brain hood can innately cast the following spells, requiring no components:
-At will: acid splash, chill touch, fire bolt, ray of frost, shocking grasp
-3/day each: detect magic, magic missile, sleep
-1/day each: blur, burning hands, hold person"
+- "desc": "The brain hood’s spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The brain hood can innately cast the following spells, requiring no components:\nAt will: acid splash, chill touch, fire bolt, ray of frost, shocking grasp\n3/day each: detect magic, magic missile, sleep\n1/day each: blur, burning hands, hold person"
   "name": "Innate Spellcasting (Psionics)"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a beast, the brain hood can attempt to take control of it (see the Merge with Beast trait)."

@@ -36,9 +36,7 @@ aliases: ["storm-maiden", "Storm Maiden-tob2"]
 "damage_immunities": "poison"
 "damage_resistances": "lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 "traits":
-- "desc": "The storm maiden’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
-At will: create or destroy water, ray of frost, misty step, thunderwave
-1/day each: sleet storm, wind wall"
+- "desc": "The storm maiden’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She can innately cast the following spells, requiring no material components:\nAt will: create or destroy water, ray of frost, misty step, thunderwave\n1/day each: sleet storm, wind wall"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The storm maiden makes two thunderous slam attacks."

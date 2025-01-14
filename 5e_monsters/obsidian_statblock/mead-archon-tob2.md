@@ -40,8 +40,7 @@ aliases: ["mead-archon", "Mead Archon-tob2"]
   "name": "Magic Resistance"
 - "desc": "The mead archon’s weapon attacks are magical."
   "name": "Magic Weapons"
-- "desc": "The mead archon’s spellcasting ability is Charisma (spell save DC 15). The archon can innately cast the following spells, requiring only verbal components:
-1/day each: aid, enhance ability, lesser restoration, protection from poison, zone of truth"
+- "desc": "The mead archon’s spellcasting ability is Charisma (spell save DC 15). The archon can innately cast the following spells, requiring only verbal components:\n1/day each: aid, enhance ability, lesser restoration, protection from poison, zone of truth"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The mead archon makes two melee attacks. Alternatively, it can use its Radiant Bolt twice. It can use its Drunken Touch in place of one melee attack."
@@ -54,10 +53,7 @@ aliases: ["mead-archon", "Mead Archon-tob2"]
   "name": "Drunken Touch"
 - "desc": "The mead archon touches a container containing 1 pint of alcohol and turns it into a potion of healing. If the potion is not consumed within 24 hours, it reverts back to its original form."
   "name": "Create Potion of Healing (1/Day)"
-- "desc": "The mead archon drinks a pint of alcohol and chooses one of the following effects: 
-* The archon belches fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. 
-* The archon has advantage on attack rolls and saving throws until the end of its next turn. 
-* The archon regains 10 hit points."
+- "desc": "The mead archon drinks a pint of alcohol and chooses one of the following effects: \n* The archon belches fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. \n* The archon has advantage on attack rolls and saving throws until the end of its next turn. \n* The archon regains 10 hit points."
   "name": "Divine Guzzle (Recharge 4-6)"
 source:
 - [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition)

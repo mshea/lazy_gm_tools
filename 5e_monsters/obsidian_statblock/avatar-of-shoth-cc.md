@@ -46,11 +46,7 @@ aliases: ["avatar-of-shoth", "Avatar of Shoth-cc"]
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Any creature hostile to the avatar that starts its turn within 30 feet of the avatar must succeed on a DC 20 Wisdom saving throw or have disadvantage on all attack rolls until the end of its next turn. Creatures with Intelligence 3 or lower automatically fail the saving throw."
   "name": "Soothing Aura"
-- "desc": "The avatar's innate spellcasting ability is Charisma (spell casting DC 21, +13 to hit with spell attacks). It may cast the following spells innately, requiring no components:
-At will: acid splash (4d6), light, spare the dying, true strike
-3/day each: bless, blur, command, darkness, enthrall, shield
-2/day each: counterspell, dispel magic
-1/day each: black tentacles, confusion"
+- "desc": "The avatar's innate spellcasting ability is Charisma (spell casting DC 21, +13 to hit with spell attacks). It may cast the following spells innately, requiring no components:\nAt will: acid splash (4d6), light, spare the dying, true strike\n3/day each: bless, blur, command, darkness, enthrall, shield\n2/day each: counterspell, dispel magic\n1/day each: black tentacles, confusion"
   "name": "Innate Spellcasting (Psionics)"
 "actions":
 - "desc": "The avatar makes three oozing tentacle attacks."

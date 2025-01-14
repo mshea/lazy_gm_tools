@@ -43,12 +43,7 @@ aliases: ["swamp-naga", "Swamp Naga-tob2"]
   "name": "Rejuvenation"
 - "desc": "No insects or serpents can willingly attack the swamp naga. They can be forced to do so through magical means."
   "name": "Insect and Serpent Passivism"
-- "desc": "The swamp naga is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It knows the following sorcerer spells:
-Cantrips (at will): dancing lights, mage hand, message, poison spray
-1st level (4 slots): charm person, fog cloud, silent image, sleep
-2nd level (3 slots): blindness/deafness, hold person, suggestion
-3rd level (3 slots): hypnotic pattern, stinking cloud, water breathing
-4th level (2 slots): blight"
+- "desc": "The swamp naga is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It knows the following sorcerer spells:\nCantrips (at will): dancing lights, mage hand, message, poison spray\n1st level (4 slots): charm person, fog cloud, silent image, sleep\n2nd level (3 slots): blindness/deafness, hold person, suggestion\n3rd level (3 slots): hypnotic pattern, stinking cloud, water breathing\n4th level (2 slots): blight"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 17 (3d8 + 4) piercing damage plus 13 (3d8) poison damage."

@@ -45,11 +45,7 @@ aliases: ["cueyatl-moon-priest", "Cueyatl Moon Priest-cc"]
   "name": "Slippery"
 - "desc": "The cueyatl's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
   "name": "Standing Leap"
-- "desc": "The cueyatl moon priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared: 
-Cantrips (at will): guidance, resistance, sacred flame, spare the dying
-1st level (4 slots): bane, cure wounds, protection from evil and good
-2nd level (3 slots): hold person, silence, spiritual weapon
-3rd level (2 slots): bestow curse, spirit guardians"
+- "desc": "The cueyatl moon priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared: \nCantrips (at will): guidance, resistance, sacred flame, spare the dying\n1st level (4 slots): bane, cure wounds, protection from evil and good\n2nd level (3 slots): hold person, silence, spiritual weapon\n3rd level (2 slots): bestow curse, spirit guardians"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) piercing damage plus 7 (2d6) poison damage."

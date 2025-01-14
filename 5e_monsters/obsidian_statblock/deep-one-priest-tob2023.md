@@ -51,10 +51,7 @@ aliases: ["deeponepriest-tob1-2023", "Deep One Priest-tob2023"]
   "name": "Claws"
 - "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) lightning damage, and the target’s speed is reduced by 10 until the end of its next turn."
   "name": "Jolting Touch"
-- "desc": "The deep one priest casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
-At will: guidance, thaumaturgy
-3/day each: command, sleep
-1/day each: spirit guardians"
+- "desc": "The deep one priest casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):\nAt will: guidance, thaumaturgy\n3/day each: command, sleep\n1/day each: spirit guardians"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

@@ -55,10 +55,7 @@ aliases: ["grimjester-tob1-2023", "Grim Jester-tob2023"]
   "name": "Necrotic Claw"
 - "desc": "The grim jester tells an ancient, nihilistic joke to one creature it can see within 60 feet of it. The target must succeed on a DC 17 Wisdom saving throw or fall prone in a fit of laughter, becoming incapacitated and unable to stand up for 1 minute. A creature that fails this saving throw by 5 or more is reduced to 0 hp instead. The incapacitated target can repeat the saving throw at the end of each of its turns, taking 14 (4d6) necrotic damage on a failed save or ending the effect on itself on a success."
   "name": "Killing Joke"
-- "desc": "The grim jester casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save DC 17):
-At will: disguise self, grease
-3/day each: magic mouth (as an action), mirror image
-1/day each: mislead, seeming"
+- "desc": "The grim jester casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save DC 17):\nAt will: disguise self, grease\n3/day each: magic mouth (as an action), mirror image\n1/day each: mislead, seeming"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The grim jester exchanges locations with a Medium or smaller creature it can see within 60 feet of it. The jester and target each teleport to the other’s space, and each becomes covered in a magical illusion to look and sound like the other. A creature must take an action to visually inspect an illusion and succeed on a DC 19 Intelligence (Investigation) check to discern that the jester and target are disguised. The illusions last for 1 minute, until the jester dies, or until the jester dismisses them as a bonus action."

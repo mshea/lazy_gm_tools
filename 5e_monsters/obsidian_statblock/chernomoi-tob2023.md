@@ -43,9 +43,7 @@ aliases: ["chernomoi-tob1-2023", "Chernomoi-tob2023"]
   "name": "Scimitar"
 - "desc": "The chernomoi emits a loud shriek that is audible out to 100 feet. Each creature within 60 feet of the chernomoi and that can hear it must make a DC 13 Constitution saving throw, taking 10 (3d6) thunder damage on a failed save, or half as much damage on a successful one."
   "name": "Shriek (Recharge 5–6)"
-- "desc": "The chernomoi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
-At will: detect magic, mage hand, mending, message, prestidigitation
-1/day each: detect poison and disease, dimension door"
+- "desc": "The chernomoi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):\nAt will: detect magic, mage hand, mending, message, prestidigitation\n1/day each: detect poison and disease, dimension door"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

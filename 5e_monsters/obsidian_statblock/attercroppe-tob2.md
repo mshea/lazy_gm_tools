@@ -42,10 +42,7 @@ aliases: ["attercroppe", "Attercroppe-tob2"]
   "name": "Poisonous Aura"
 - "desc": "While fully immersed in water, the attercroppe is invisible. If it attacks, it becomes visible until the start of its next turn. The attercroppe can suppress this invisibility until the start of its next turn as a bonus action."
   "name": "Water Invisibility"
-- "desc": "The attercroppe’s spellcasting ability is Charisma (spell save DC 12). The attercroppe can innately cast the following spells, requiring no material components:
-At will: poison spray
-3/day each: create or destroy water, fog cloud
-1/day each: misty step, suggestion"
+- "desc": "The attercroppe’s spellcasting ability is Charisma (spell save DC 12). The attercroppe can innately cast the following spells, requiring no material components:\nAt will: poison spray\n3/day each: create or destroy water, fog cloud\n1/day each: misty step, suggestion"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage."

@@ -50,10 +50,7 @@ aliases: ["mallqui-tob1-2023", "Mallqui-tob2023"]
   "name": "Xeric Blast"
 - "desc": "Each creature within 20 feet of the mallqui must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion, as moisture is drained from its body. If a creature’s saving throw is successful, it is immune to the mallqui’s Xeric Aura for the next 24 hours."
   "name": "Xeric Aura"
-- "desc": "The mallqui casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 15):
-At will: druidcraft
-3/day each: create or destroy water, entangle
-1/day each: locate animals or plants, wind wall"
+- "desc": "The mallqui casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 15):\nAt will: druidcraft\n3/day each: create or destroy water, entangle\n1/day each: locate animals or plants, wind wall"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

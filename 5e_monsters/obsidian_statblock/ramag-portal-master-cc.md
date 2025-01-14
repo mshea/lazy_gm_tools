@@ -39,12 +39,7 @@ aliases: ["ramag-portal-master", "Ramag Portal Master-cc"]
 "traits":
 - "desc": "The ramag has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The ramag portal master is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:
-Cantrips (at will): fire bolt, light, prestidigitation, shocking grasp
-1st level (4 slots): burning hands, mage armor, magic missile
-2nd level (3 slots): arcane lock, hold person, levitate, misty step
-3rd level (3 slots): counterspell, dispel magic, fireball
-4th level (1 slot): banishment"
+- "desc": "The ramag portal master is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:\nCantrips (at will): fire bolt, light, prestidigitation, shocking grasp\n1st level (4 slots): burning hands, mage armor, magic missile\n2nd level (3 slots): arcane lock, hold person, levitate, misty step\n3rd level (3 slots): counterspell, dispel magic, fireball\n4th level (1 slot): banishment"
   "name": "Spellcasting"
 "actions":
 - "desc": "The ramag portal master makes two lightning stroke attacks."

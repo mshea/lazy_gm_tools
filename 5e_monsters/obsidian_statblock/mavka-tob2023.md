@@ -61,10 +61,7 @@ aliases: ["mavka-tob1-2023", "Mavka-tob2023"]
   "name": "Necrotic Bolt"
 - "desc": "While riding a nightmare, the mavka channels her power into her mount, causing its fiery light to burn those nearby. Each creature within 20 feet of the mavka must make a DC 16 Dexterity saving throw, taking 54 (12d8) fire damage on a failed save, or half as much damage on a successful one."
   "name": "Flame Burst (Recharge 5–6)"
-- "desc": "The mavka casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
-At will: create or destroy water, dancing lights
-3/day each: darkness, hold person, silence
-1/day each: bestow curse, dispel magic"
+- "desc": "The mavka casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):\nAt will: create or destroy water, dancing lights\n3/day each: darkness, hold person, silence\n1/day each: bestow curse, dispel magic"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

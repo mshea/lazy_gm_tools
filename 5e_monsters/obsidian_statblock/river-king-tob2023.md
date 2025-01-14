@@ -55,10 +55,7 @@ aliases: ["riverking-tob1-2023", "River King-tob2023"]
   "name": "Flood Blast"
 - "desc": "The River King magically creates a swirling vortex of water centered on a point he can see within 60 feet. The vortex appears in the shape of a cylinder that is 15 feet tall with a 10-foot radius. Each creature in the area must make a DC 18 Strength saving throw. On a failure, a creature takes 36 (8d8) bludgeoning damage and is restrained. On a success, a creature takes half the damage, isn’t restrained, and can choose to be pushed out of the whirlpool’s space. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. While restrained, a creature is unable to breathe unless it can breathe water, and it must succeed on a DC 18 Strength saving throw at the end of each of its turns or take 18 (4d8) bludgeoning damage. A creature, including the restrained creature, can take an action to free the restrained creature by succeeding on a DC 18 Strength check. A creature with a swimming speed has advantage on the saving throw and on the Strength check to escape."
   "name": "Grasping Whirlpool (Recharge 5-6)"
-- "desc": "The River King casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (save DC 16):
-At will: create or destroy water, water breathing
-3/day each: freedom of movement, control water
-1/day: control weather (as an action)"
+- "desc": "The River King casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (save DC 16):\nAt will: create or destroy water, water breathing\n3/day each: freedom of movement, control water\n1/day: control weather (as an action)"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When a creature within 5 feet of the River King stands up from prone, he can make one Longsword attack against that creature."

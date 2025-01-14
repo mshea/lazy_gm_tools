@@ -43,10 +43,7 @@ aliases: ["uridimmu", "Uridimmu-tob2"]
   "name": "Heroic Aura"
 - "desc": "The uridimmu has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The uridimmu’s spellcasting ability is Charisma (spell save DC 18). The uridimmu can innately cast the following spells, requiring no material components:
-At will: detect evil and good, light, protection from evil and good
-3/day each: dispel magic, glyph of warding, lightning bolt
-1/day each: flame strike, heal, wall of fire"
+- "desc": "The uridimmu’s spellcasting ability is Charisma (spell save DC 18). The uridimmu can innately cast the following spells, requiring no material components:\nAt will: detect evil and good, light, protection from evil and good\n3/day each: dispel magic, glyph of warding, lightning bolt\n1/day each: flame strike, heal, wall of fire"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The uridimmu makes three attacks: one with its bite and two with its mace."

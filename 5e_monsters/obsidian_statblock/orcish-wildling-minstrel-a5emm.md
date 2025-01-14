@@ -42,20 +42,7 @@ aliases: ["orcish-wildling-minstrel-a5e", "Orcish Wildling Minstrel-a5emm"]
 "traits":
 - "desc": "Once every 30 days, the orcish wilding minstrel can innately cast legend lore with no material component."
   "name": "Legend lore"
-- "desc": "The minstrel is a 5th level spellcaster. Their spellcasting ability is Charisma (spell save DC 13
- +5 to hit with spell attacks). They have the following bard spells prepared:
- Cantrips (at will): light
- mage hand
- minor illusion
- vicious mockery
- 1st-level (4 slots): charm person
- disguise self
- healing word
- 2nd-level (3 slots): enthrall
- invisibility
- shatter
- 3rd-level (2 slots): hypnotic pattern
- major image"
+- "desc": "The minstrel is a 5th level spellcaster. Their spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). They have the following bard spells prepared:\n Cantrips (at will): light, mage hand, minor illusion, vicious mockery\n 1st-level (4 slots): charm person, disguise self, healing word\n 2nd-level (3 slots): enthrall, invisibility, shatter\n 3rd-level (2 slots): hypnotic pattern, major image"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) piercing damage."

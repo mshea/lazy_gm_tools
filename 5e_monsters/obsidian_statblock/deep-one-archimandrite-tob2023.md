@@ -50,10 +50,7 @@ aliases: ["deeponearchimandrite-tob1-2023", "Deep One Archimandrite-tob2023"]
   "name": "Jolt"
 - "desc": "With a ringing shout, the archimandrite magically calls 1d4 reef sharks or 1 swarm of quippers, provided the archimandrite is at least partially submerged in a body of water that can contain the creatures. The called creatures arrive in 1d4 rounds, acting as allies of the archimandrite and obeying its spoken commands. The creatures remain for 1 hour, until the archimandrite dies, or until the archimandrite dismisses them as a bonus action. Each deep one within 1 mile of the archimandrite can hear this call, though these deep ones are under no magical compulsion to make their way toward the archimandrite."
   "name": "Call of the Archimandrite (1/Day)"
-- "desc": "The deep one archimandrite casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
-At will: bless, guidance, suggestion, thaumaturgy
-3/day each: charm person, command, sleep
-1/day each: augury, lightning bolt, spirit guardians"
+- "desc": "The deep one archimandrite casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):\nAt will: bless, guidance, suggestion, thaumaturgy\n3/day each: charm person, command, sleep\n1/day each: augury, lightning bolt, spirit guardians"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

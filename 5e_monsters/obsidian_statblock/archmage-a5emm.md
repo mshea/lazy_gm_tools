@@ -43,34 +43,7 @@ aliases: ["archmage-a5e", "Archmage-a5emm"]
   "name": "Foresight"
 - "desc": "When the mind blank spell is active, the archmage is immune to psychic damage, any effect that would read their emotions or thoughts, divination spells, and the charmed condition."
   "name": "Mind Blank"
-- "desc": "The archmage is an 18th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 17
- +9 to hit with spell attacks). The archmage can cast shield at level 1 and alter self at level 2 without expending a spell slot. They have the following wizard spells prepared:
- Cantrips (at will): fire bolt
- light
- mage hand
- message
- prestidigitation
- 1st-level (4 slots): detect magic
- identify
- mage armor
- shield
- 2nd-level (4 slots): alter self
- detect thoughts
- suggestion
- 3rd-level (3 slots): counterspell
- lightning bolt
- sending
- 4th-level (3 slots): confusion
- hallucinatory terrain
- locate creature
- 5th-level (3 slots): cone of cold
- mislead
- scrying
- 6th-level (1 slot): globe of invulnerability
- true seeing
- 7th-level (1 slot): teleport
- 8th-level (1 slot): mind blank
- 9th-level (1 slot): foresight"
+- "desc": "The archmage is an 18th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast shield at level 1 and alter self at level 2 without expending a spell slot. They have the following wizard spells prepared:\n Cantrips (at will): fire bolt, light, mage hand, message, prestidigitation\n 1st-level (4 slots): detect magic, identify, mage armor, shield\n 2nd-level (4 slots): alter self, detect thoughts, suggestion\n 3rd-level (3 slots): counterspell, lightning bolt, sending\n 4th-level (3 slots): confusion, hallucinatory terrain, locate creature\n 5th-level (3 slots): cone of cold, mislead, scrying\n 6th-level (1 slot): globe of invulnerability, true seeing\n 7th-level (1 slot): teleport\n 8th-level (1 slot): mind blank\n 9th-level (1 slot): foresight"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +6 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage."

@@ -48,10 +48,7 @@ aliases: ["aridni-tob1-2023", "Aridni-tob2023"]
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: +8 to hit, range 40/160 ft., one target. Hit: 10 (2d4 + 5) piercing damage."
   "name": "Pixie Bow"
-- "desc": "The aridni casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):
-At will: dancing lights, detect magic, invisibility
-3/day each: charm person, faerie fire
-1/day: spike growth"
+- "desc": "The aridni casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):\nAt will: dancing lights, detect magic, invisibility\n3/day each: charm person, faerie fire\n1/day: spike growth"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The aridni enchants one arrow with minor magic. The next time it hits a creature with a Pixie Bow attack before the start of its next turn, the target must succeed on a DC 14 Wisdom saving throw or suffer one of the following effects:"
@@ -62,12 +59,7 @@ At will: dancing lights, detect magic, invisibility
   "name": "Fear"
 - "desc": "The target falls prone and is incapacitated with laughter until the end of its next turn."
   "name": "Laughter"
-- "desc": "The target falls unconscious for 1 minute. It wakes up if it takes damage or if another creature takes an action to shake it awake.
-
-
-
-
-Aridni in Midgard"
+- "desc": "The target falls unconscious for 1 minute. It wakes up if it takes damage or if another creature takes an action to shake it awake.\n\n\n\n\nAridni in Midgard"
   "name": "Sleep"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

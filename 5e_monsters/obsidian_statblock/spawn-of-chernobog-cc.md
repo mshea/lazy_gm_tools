@@ -37,12 +37,7 @@ aliases: ["spawn-of-chernobog", "Spawn of Chernobog-cc"]
 "cr": "4"
 "damage_resistances": "necrotic"
 "traits":
-- "desc": "If a bite wound from the spawn of Chernobog results in an infection, the black oil that drips from the spawn's jaws seeps into the wound and vanishes. After each long rest, the creature must make a DC 14 Constitution saving throw. On two successes, the disease is cured. On a failure, the disease progresses, forcing the creature to undergo a series of changes, in the following order.
-# The creature can't speak, and its tongue turns black.
-# The creature's eyes turn a deep red, and it gains darkvision 60 feet and the Sunlight Sensitivity trait. 
-# The creature secretes black oil from its skin, and it has advantage on ability checks and saving throws made to escape a grapple.
-# The creature's veins turn black, slowly working their way up through the body from the appendages over 24 hours. 
-# When the blackened veins reach its head after the final long rest, the creature experiences excruciating, stabbing pains in its temples. At sunset, the creature dies as the antlers of an elk burst from its head. The oil secreting from the corpse pools and forms a spawn of Chernobog at midnight."
+- "desc": "If a bite wound from the spawn of Chernobog results in an infection, the black oil that drips from the spawn's jaws seeps into the wound and vanishes. After each long rest, the creature must make a DC 14 Constitution saving throw. On two successes, the disease is cured. On a failure, the disease progresses, forcing the creature to undergo a series of changes, in the following order.\n# The creature can't speak, and its tongue turns black.\n# The creature's eyes turn a deep red, and it gains darkvision 60 feet and the Sunlight Sensitivity trait. \n# The creature secretes black oil from its skin, and it has advantage on ability checks and saving throws made to escape a grapple.\n# The creature's veins turn black, slowly working their way up through the body from the appendages over 24 hours. \n# When the blackened veins reach its head after the final long rest, the creature experiences excruciating, stabbing pains in its temples. At sunset, the creature dies as the antlers of an elk burst from its head. The oil secreting from the corpse pools and forms a spawn of Chernobog at midnight."
   "name": "Night's Blood"
 - "desc": "While in sunlight, the spawn of Chernobog has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
   "name": "Sunlight Sensitivity"

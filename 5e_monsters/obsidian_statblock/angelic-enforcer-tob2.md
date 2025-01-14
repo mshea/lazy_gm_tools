@@ -46,9 +46,7 @@ aliases: ["angelic-enforcer", "Angelic Enforcer-tob2"]
   "name": "Divine Awareness"
 - "desc": "The enforcer has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The angelic enforcer’s spellcasting ability is Charisma (spell save DC 17). The enforcer can innately cast the following spells, requiring only verbal components:
-At will: detect evil and good
-3/day each: counterspell, dispel evil and good, dispel magic, protection from evil and good"
+- "desc": "The angelic enforcer’s spellcasting ability is Charisma (spell save DC 17). The enforcer can innately cast the following spells, requiring only verbal components:\nAt will: detect evil and good\n3/day each: counterspell, dispel evil and good, dispel magic, protection from evil and good"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The angelic enforcer makes two melee attacks, but can use its bite only once."

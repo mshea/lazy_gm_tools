@@ -44,10 +44,7 @@ aliases: ["mountain-dryad", "Mountain Dryad-tob2"]
   "name": "Earth Glide"
 - "desc": "The mountain dryad has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "Each day at sunrise, the mountain dryad chooses one of the following: 
-* Hardened Face. The mountain dryad chooses one of bludgeoning, piercing, or slashing damage types. The mountain dryad has resistance to the chosen damage type until the next sunrise. 
-* Vaunted Peaks. The mountain dryad has advantage on Wisdom (Perception) checks until the next sunrise. 
-* Rockslider. As a bonus action once before the next sunrise, the mountain dryad can make the ground within 30 feet of it difficult terrain. This difficult terrain doesn’t cost the dryad extra movement."
+- "desc": "Each day at sunrise, the mountain dryad chooses one of the following: \n* Hardened Face. The mountain dryad chooses one of bludgeoning, piercing, or slashing damage types. The mountain dryad has resistance to the chosen damage type until the next sunrise. \n* Vaunted Peaks. The mountain dryad has advantage on Wisdom (Perception) checks until the next sunrise. \n* Rockslider. As a bonus action once before the next sunrise, the mountain dryad can make the ground within 30 feet of it difficult terrain. This difficult terrain doesn’t cost the dryad extra movement."
   "name": "Mountain’s Aspect"
 - "desc": "The mountain dryad deals double damage to objects and structures."
   "name": "Siege Monster"

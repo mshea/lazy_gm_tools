@@ -44,9 +44,7 @@ aliases: ["rum-lord", "Rum Lord-tob2"]
   "name": "Magic Resistance"
 - "desc": "When the rum lord hits a poisoned enemy with any weapon, the target takes an extra 1d6 poison damage."
   "name": "One for the Road"
-- "desc": "The rum lord’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
-At will: prestidigitation
-3/day: command"
+- "desc": "The rum lord’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:\nAt will: prestidigitation\n3/day: command"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The rum lord makes two attacks: one with its ale tap scepter and one with its broken bottle shiv."

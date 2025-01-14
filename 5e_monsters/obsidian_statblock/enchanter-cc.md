@@ -41,16 +41,7 @@ aliases: ["enchanter", "Enchanter-cc"]
   "name": "Fey Ancestry"
 - "desc": "When the enchanter casts an enchantment spell of 1st level or higher that targets only one creature, the enchanter can choose to target all creatures within 10 feet of the target instead."
   "name": "Reach of the Fey"
-- "desc": "The enchanter is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The enchanter has the following wizard spells prepared: 
-Cantrips (at will): dancing lights, friends, mage hand, message, prestidigitation
-1st level (4 slots): charm person*, hideous laughter*, magic missile
-2nd level (3 slots): hold person*, invisibility, suggestion*
-3rd level (3 slots): hypnotic pattern, lightning bolt
-4th level (3 slots): confusion*, conjure minor elementals
-5th level (2 slots): dominate person*, hold monster*, mislead, modify memory*
-6th level (1 slots): irresistible dance*, chain lightning
-7th level (1 slot): prismatic spray*
-Enchantment spell of 1st level or higher"
+- "desc": "The enchanter is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The enchanter has the following wizard spells prepared: \nCantrips (at will): dancing lights, friends, mage hand, message, prestidigitation\n1st level (4 slots): charm person*, hideous laughter*, magic missile\n2nd level (3 slots): hold person*, invisibility, suggestion*\n3rd level (3 slots): hypnotic pattern, lightning bolt\n4th level (3 slots): confusion*, conjure minor elementals\n5th level (2 slots): dominate person*, hold monster*, mislead, modify memory*\n6th level (1 slots): irresistible dance*, chain lightning\n7th level (1 slot): prismatic spray*\nEnchantment spell of 1st level or higher"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."

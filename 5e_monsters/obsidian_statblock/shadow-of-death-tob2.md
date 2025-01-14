@@ -39,9 +39,7 @@ aliases: ["shadow-of-death", "Shadow of Death-tob2"]
 "traits":
 - "desc": "When the shadow of death dies, it explodes, and each creature within 30 feet of it must make a DC 22 Constitution saving throw, taking 35 (10d6) necrotic damage on a failed save, or half as much on a successful one."
   "name": "Death Throes"
-- "desc": "At the start of each of the shadow of death’s turns, each creature within 15 feet of it must succeed on a DC 22 Constitution saving throw or take 10 (3d6) necrotic damage.
-
-In addition, light within 30 feet of the shadow of death is less effective. Bright light in the area becomes dim light, and dim light in the area becomes darkness."
+- "desc": "At the start of each of the shadow of death’s turns, each creature within 15 feet of it must succeed on a DC 22 Constitution saving throw or take 10 (3d6) necrotic damage.\n\nIn addition, light within 30 feet of the shadow of death is less effective. Bright light in the area becomes dim light, and dim light in the area becomes darkness."
   "name": "Deathly Shroud"
 - "desc": "If the shadow of death reduces a creature to 0 hp, the creature can be restored to life only by means of a wish spell."
   "name": "Destroyer of Life"
@@ -49,9 +47,7 @@ In addition, light within 30 feet of the shadow of death is less effective. Brig
   "name": "Magic Resistance"
 - "desc": "While in dim light or darkness, the shadow of death can take the Hide action as a bonus action."
   "name": "Shadow Stealth"
-- "desc": "The shadow of death’s weapon attacks are magical. When the shadow of death hits with any weapon, the weapon deals an extra 10 (3d6) necrotic damage (included in the attack).
-
-A creature that takes necrotic damage from the shadow death’s weapon must succeed on a DC 22 Constitution saving throw or its hp maximum is reduced by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0."
+- "desc": "The shadow of death’s weapon attacks are magical. When the shadow of death hits with any weapon, the weapon deals an extra 10 (3d6) necrotic damage (included in the attack).\n\nA creature that takes necrotic damage from the shadow death’s weapon must succeed on a DC 22 Constitution saving throw or its hp maximum is reduced by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0."
   "name": "Weapons of Death"
 "actions":
 - "desc": "The shadow of death can use Vision of Ending. It then makes three shortsword attacks."

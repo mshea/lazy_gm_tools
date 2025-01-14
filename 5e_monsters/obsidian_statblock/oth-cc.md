@@ -41,13 +41,7 @@ aliases: ["oth", "Oth-cc"]
 "traits":
 - "desc": "The oth, including its equipment, can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
-- "desc": "Choose either the Dripping Arcanist or Paladin of Shoth trait. 
-* Dripping Arcanist. The oth's innate spellcasting ability is Charisma (spell casting DC 15, +7 to hit with spell attacks). It may cast the following spells innately, requiring only verbal components: _
-Cantrip (at will): fire bolt (2d10), light, thaumaturgy _
-3/day each: command, mage armor, magic missile _
-2/day each: augury, detect thoughts _
-1/day: fireball
-* Paladin of Shoth. The oth derives its power from Shoth itself, its zom shining with sacred light. Its Armor Class increases by 2. A non-shoth creature that starts its turn within 5 feet of the oth must succeed on a DC 15 Charisma saving throw or be blinded by the light of Shoth until the end of its turn."
+- "desc": "Choose either the Dripping Arcanist or Paladin of Shoth trait. \n* Dripping Arcanist. The oth's innate spellcasting ability is Charisma (spell casting DC 15, +7 to hit with spell attacks). It may cast the following spells innately, requiring only verbal components: _\nCantrip (at will): fire bolt (2d10), light, thaumaturgy _\n3/day each: command, mage armor, magic missile _\n2/day each: augury, detect thoughts _\n1/day: fireball\n* Paladin of Shoth. The oth derives its power from Shoth itself, its zom shining with sacred light. Its Armor Class increases by 2. A non-shoth creature that starts its turn within 5 feet of the oth must succeed on a DC 15 Charisma saving throw or be blinded by the light of Shoth until the end of its turn."
   "name": "Multiple Roles"
 "actions":
 - "desc": "The oth makes two oozing slam attacks or one oozing slam and one greatsword attack."

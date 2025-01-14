@@ -41,9 +41,7 @@ aliases: ["unhatched", "Unhatched-cc"]
   "name": "Hatred"
 - "desc": "As a bonus action, the unhatched gives itself advantage on its next saving throw against spells or other magical effects."
   "name": "Minor Magic Resistance (3/Day)"
-- "desc": "The unhatched‘s innate spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:
-At will: chill touch, minor illusion
-1/day: bane"
+- "desc": "The unhatched‘s innate spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:\nAt will: chill touch, minor illusion\n1/day: bane"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The unhatched makes one bite attack and one claw attack."

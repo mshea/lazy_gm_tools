@@ -40,11 +40,7 @@ aliases: ["infernal-swarm", "Infernal Swarm-tob2"]
   "name": "Devil’s Sight"
 - "desc": "The infernal swarm has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "As a bonus action, the swarm can shape itself into a Huge fiend or back into a shapeless mass. Its statistics are the same in each form, and it can’t regain hp or gain temporary hp. If a creature is more than 10 feet away from the infernal swarm, it must take an action to visually inspect the fiend form and succeed on a DC 25 Intelligence (Investigation) check to discern the Huge fiend is actually a swarm of Small insects. A creature within 10 feet of the swarm immediately discerns the truth.
-
-While in fiend form, it can wield weapons and hold, grasp, push, pull, or interact with objects that might otherwise require a more humanoid form to accomplish. If the infernal swarm takes thunder damage while in its fiend form, it immediately changes to its shapeless form.
-
-While in shapeless form, it can occupy another creature’s space and vice versa and can move through any opening large enough for a Small fiend, but it can’t grapple or be grappled."
+- "desc": "As a bonus action, the swarm can shape itself into a Huge fiend or back into a shapeless mass. Its statistics are the same in each form, and it can’t regain hp or gain temporary hp. If a creature is more than 10 feet away from the infernal swarm, it must take an action to visually inspect the fiend form and succeed on a DC 25 Intelligence (Investigation) check to discern the Huge fiend is actually a swarm of Small insects. A creature within 10 feet of the swarm immediately discerns the truth.\n\nWhile in fiend form, it can wield weapons and hold, grasp, push, pull, or interact with objects that might otherwise require a more humanoid form to accomplish. If the infernal swarm takes thunder damage while in its fiend form, it immediately changes to its shapeless form.\n\nWhile in shapeless form, it can occupy another creature’s space and vice versa and can move through any opening large enough for a Small fiend, but it can’t grapple or be grappled."
   "name": "Shaped Swarm"
 "actions":
 - "desc": "In fiend form, the infernal swarm makes three attacks: two with its scimitar and one with its slam, or three with its scimitar. In shapeless form, it makes three attacks with its bites."

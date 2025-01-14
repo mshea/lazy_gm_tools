@@ -45,10 +45,7 @@ aliases: ["shurale", "Shurale-tob2"]
   "name": "Magic Resistance"
 - "desc": "The shurale regains 5 hp at the start of its turn for each creature within 30 feet of it that is incapacitated with laughter from its Tickle action. If a creature dies while suffering from the laughter, the shurale gains 15 temporary hp."
   "name": "Mirthful Regeneration"
-- "desc": "The shurale’s spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.
-At will: dancing lights, invisibility (self only), minor illusion
-3/day each: detect thoughts, major image, misty step
-1/day: confusion"
+- "desc": "The shurale’s spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.\nAt will: dancing lights, invisibility (self only), minor illusion\n3/day each: detect thoughts, major image, misty step\n1/day: confusion"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The shurale can use Tickle. It then makes three attacks: one with its gore and two with its battleaxe."

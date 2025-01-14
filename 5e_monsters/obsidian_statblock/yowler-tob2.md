@@ -38,9 +38,7 @@ aliases: ["yowler", "Yowler-tob2"]
 "damage_immunities": "poison"
 "damage_resistances": "necrotic"
 "traits":
-- "desc": "The yowler’s undead form is constantly covered with a magical illusion that makes it look like it did in life. This effect is suppressed for 1 minute if the yowler attacks or uses Yowl.
-
-The changes wrought by this illusion fail to hold up to physical inspection. For example, the yowler’s fur appears soft and silky, but someone touching it would feel the yowler’s rotten fur and exposed bones. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 15 Intelligence (Investigation) check to discern the yowler’s true appearance."
+- "desc": "The yowler’s undead form is constantly covered with a magical illusion that makes it look like it did in life. This effect is suppressed for 1 minute if the yowler attacks or uses Yowl.\n\nThe changes wrought by this illusion fail to hold up to physical inspection. For example, the yowler’s fur appears soft and silky, but someone touching it would feel the yowler’s rotten fur and exposed bones. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 15 Intelligence (Investigation) check to discern the yowler’s true appearance."
   "name": "Living Projection"
 "actions":
 - "desc": "The yowler makes two attacks: one with its bite and one with its claws. It can use Yowl in place of a bite attack."

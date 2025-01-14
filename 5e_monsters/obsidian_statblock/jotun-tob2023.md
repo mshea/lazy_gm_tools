@@ -60,10 +60,7 @@ aliases: ["jotun-tob1-2023", "Jotun-tob2023"]
   "name": "Frightful Presence"
 - "desc": "The jotun swings its ice-coated greatclub in a wide arc. Each creature within 20 feet of the jotun must make a DC 23 Dexterity saving throw. On a failure, a creature takes 36 (8d8) bludgeoning damage and 54 (12d8) cold damage and is pushed up to 15 feet away from the jotun and knocked prone. On a success, a creature takes half the damage and isn’t pushed or knocked prone."
   "name": "Icy Sweep (Recharge 5–6)"
-- "desc": "The jotun casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 20):
-At will: earthquake, speak with animals
-3/day: bestow curse, gust of wind
-1/day: divination"
+- "desc": "The jotun casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 20):\nAt will: earthquake, speak with animals\n3/day: bestow curse, gust of wind\n1/day: divination"
   "name": "Spellcasting"
 "reactions":
 - "desc": "If a rock or similar object is hurled at the jotun, the jotun can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it."

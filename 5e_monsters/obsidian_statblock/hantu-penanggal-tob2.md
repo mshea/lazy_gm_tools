@@ -38,14 +38,9 @@ aliases: ["hantu-penanggal", "Hantu Penanggal-tob2"]
 "damage_immunities": "fire, poison"
 "damage_resistances": "cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 "traits":
-- "desc": "As a bonus action, the hantu penanggal detaches its head. The head trails entrails like flexible tentacles. While detached, the head and body act independently from each other on the same initiative, and each has hp equal to half its hp before detaching its head. Its statistics remain the same in both forms, except the body loses its truesight and gains blindsight out to a range of 60 feet.
-
-The head and body can use the whole form’s innate spellcasting trait, expending daily uses as normal. The two forms can rejoin into the fiend’s whole form as a bonus action if they are within 5 feet of each other. If the head is destroyed while it is detached, the body also perishes. If the body is destroyed while the head is detached, the head has disadvantage on attack rolls and ability checks until it acquires a new body. A creature within 30 feet of the penanggal and that can see the detachment must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+- "desc": "As a bonus action, the hantu penanggal detaches its head. The head trails entrails like flexible tentacles. While detached, the head and body act independently from each other on the same initiative, and each has hp equal to half its hp before detaching its head. Its statistics remain the same in both forms, except the body loses its truesight and gains blindsight out to a range of 60 feet.\n\nThe head and body can use the whole form’s innate spellcasting trait, expending daily uses as normal. The two forms can rejoin into the fiend’s whole form as a bonus action if they are within 5 feet of each other. If the head is destroyed while it is detached, the body also perishes. If the body is destroyed while the head is detached, the head has disadvantage on attack rolls and ability checks until it acquires a new body. A creature within 30 feet of the penanggal and that can see the detachment must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Detachable Head"
-- "desc": "The hantu penanggal’s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
-At will: darkness, detect evil and good
-2/day each: protection from evil and good, scorching ray
-1/day each: gaseous form"
+- "desc": "The hantu penanggal’s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components.\nAt will: darkness, detect evil and good\n2/day each: protection from evil and good, scorching ray\n1/day each: gaseous form"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "When detached, the hantu penanggal’s head makes one bite attack and one entrails attack, and its body makes two claw attacks. In its whole form, it can make three rapier attacks."

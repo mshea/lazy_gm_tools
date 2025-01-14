@@ -58,11 +58,7 @@ aliases: ["queenofwitches-tob1-2023", "Queen of Witches-tob2023"]
   "name": "Mystical Blast"
 - "desc": "The Queen of Witches sends moonlight flooding out from her. Each creature within 15 feet of her must make a DC 20 Dexterity saving throw, taking 42 (12d6) radiant damage on a failed save, or half as much damage on a successful one. If the Queen is standing in an area of moonlight when she uses this action, each creature in the area has disadvantage on the saving throw. A creature that fails the saving throw by 5 or more is blinded until the end of its next turn."
   "name": "Spray of Moonlight (Recharge 5–6)"
-- "desc": "The Queen of Witches casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (save DC 20):
-At will: faerie fire, silent image, tongues
-3/day each: dispel magic, hypnotic pattern, teleportation circle (as an action)
-2/day each: bestow curse, mass suggestion, flesh to stone
-1/day each: power word kill, sleep (as a 9th level spell), true polymorph"
+- "desc": "The Queen of Witches casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (save DC 20):\nAt will: faerie fire, silent image, tongues\n3/day each: dispel magic, hypnotic pattern, teleportation circle (as an action)\n2/day each: bestow curse, mass suggestion, flesh to stone\n1/day each: power word kill, sleep (as a 9th level spell), true polymorph"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When a creature the Queen of Witches can see within 30 feet of her casts a spell, the Queen can absorb the spell’s energy, countering it. This works like the counterspell spell, except the Queen must always make a spellcasting ability check, no matter the spell’s level. Her ability check for this is +10. If she successfully counters the spell, she regains 5 hp for each level of the spell."

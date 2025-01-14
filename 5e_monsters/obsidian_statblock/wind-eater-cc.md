@@ -44,10 +44,7 @@ aliases: ["wind-eater", "Wind Eater-cc"]
   "name": "Incorporeal Movement"
 - "desc": "As a bonus action while in dim light or darkness, the wind eater becomes invisible. The invisibility lasts until the wind eater uses a bonus action to end it or until the wind eater attacks, is in bright light, or is incapacitated. Any equipment the wind eater wears or carries is invisible with it."
   "name": "Shadow Blend"
-- "desc": "The wind eater's innate spellcasting ability is Wisdom (spell save DC 13). It can innately cast the following spells, requiring only somatic components:
-At will: silent image
-3/day each: blur, major image
-1/day: mirage arcane"
+- "desc": "The wind eater's innate spellcasting ability is Wisdom (spell save DC 13). It can innately cast the following spells, requiring only somatic components:\nAt will: silent image\n3/day each: blur, major image\n1/day: mirage arcane"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The wind eater makes two claw attacks."

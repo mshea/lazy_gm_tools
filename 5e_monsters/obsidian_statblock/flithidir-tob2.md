@@ -41,9 +41,7 @@ aliases: ["flithidir", "Flithidir-tob2"]
   "name": "Cacophony"
 - "desc": "The flithidir can use its action to polymorph into a Small humanoid, into a Small or smaller bird, or back into its true fey form. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. No matter the form, it always has bright or multicolored hair, fur, scales, or feathers. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "The flithidir’s innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components.
-At will: minor illusion (auditory only), vicious mockery
-1/day each: charm person, enthrall"
+- "desc": "The flithidir’s innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components.\nAt will: minor illusion (auditory only), vicious mockery\n1/day each: charm person, enthrall"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The flithidir makes two melee attacks."

@@ -41,10 +41,7 @@ aliases: ["greater-rakshasa", "Greater Rakshasa-cc"]
   "name": "Limited Magic Immunity"
 - "desc": "When the greater rakshasa casts the charm person spell, it can target up to five creatures. When it casts the dominate person spell, the spell's duration is concentration, up to 8 hours."
   "name": "Puppet Master"
-- "desc": "The greater rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The greater rakshasa can innately cast the following spells, requiring no material components:
-At will: detect thoughts, disguise self, mage hand, minor illusion
-3/day each: charm person, detect magic, invisibility, major image, suggestion
-1/day each: dominate person, fly, plane shift, true seeing"
+- "desc": "The greater rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The greater rakshasa can innately cast the following spells, requiring no material components:\nAt will: detect thoughts, disguise self, mage hand, minor illusion\n3/day each: charm person, detect magic, invisibility, major image, suggestion\n1/day each: dominate person, fly, plane shift, true seeing"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The greater rakshasa makes two claw attacks."

@@ -51,10 +51,7 @@ aliases: ["bonepowderghoul-tob1-2023", "Bonepowder Ghoul-tob2023"]
   "name": "Gravedust"
 - "desc": "The ghoul creates a whirlwind of bones and teeth in a 20-foot cube originating from it. Each creature in that area must make a DC 17 Dexterity saving throw. On a failure, a creature takes 55 (10d10) slashing damage, and its Strength score is reduced by 1d6. The creature dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. On a success, a creature takes half the damage and its Strength score isn’t reduced."
   "name": "Whirlwind (Dust Form Only; Recharge 5–6)"
-- "desc": "(Coalesced Form Only)The bonepowder ghoul casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
-At will: dispel magic, mage hand, ray of enfeeblement
-3/day each: blindness/deafness, fear
-1/day: phantasmal killer"
+- "desc": "(Coalesced Form Only)The bonepowder ghoul casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):\nAt will: dispel magic, mage hand, ray of enfeeblement\n3/day each: blindness/deafness, fear\n1/day: phantasmal killer"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When a bonepowder ghoul deals necrotic damage with Gravedust to at least one creature that isn’t a Construct or Undead, it can magically transform from its dusty form into a coalesced form. Its statistics are the same in each form, except it can speak audibly only in its coalesced form. The coalesced form lasts for a number of minutes equal to the total necrotic damage it dealt with Gravedust to creatures that aren’t Constructs or Undead or until the ghoul ends it as a bonus action."

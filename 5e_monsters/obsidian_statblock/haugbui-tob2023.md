@@ -54,10 +54,7 @@ aliases: ["haugbui-tob1-2023", "Haugbui-tob2023"]
   "name": "Psychic Blast"
 - "desc": "The haugbui magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the haugbui wears or carries is invisible with it."
   "name": "Invisibility"
-- "desc": "The haugbui casts one of the following spells, requiring no components and using Wisdom as the spellcasting ability (spell save DC 18):
-At will: dancing lights, mending, purify food and drink, spare the dying
-3/day each: gust of wind, telekinesis
-1/day each: dispel magic, remove curse"
+- "desc": "The haugbui casts one of the following spells, requiring no components and using Wisdom as the spellcasting ability (spell save DC 18):\nAt will: dancing lights, mending, purify food and drink, spare the dying\n3/day each: gust of wind, telekinesis\n1/day each: dispel magic, remove curse"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "While within 1 mile of its burial mound, the haugbui creates an invisible sensor within 5 miles of the mound for 1 minute. When it uses this bonus action and as a bonus action on each of its turns for the duration, the haugbui can switch between using its own senses and projecting its senses through the sensor. While projecting its senses through the sensor, it can see, hear, telepathically communicate, and cast spells as if it was in the sensor’s space, and it is blinded and deafened with regard to its own senses. The sensor can be dispelled (DC 14)."

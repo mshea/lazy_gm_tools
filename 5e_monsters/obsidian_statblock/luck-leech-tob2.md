@@ -42,11 +42,7 @@ aliases: ["luck-leech", "Luck Leech-tob2"]
   "name": "Leech Luck"
 - "desc": "If the luck leech doesn’t have 4 luck points at sunset, it gains 2 luck points. It can’t have more than 4 luck points at a time. In addition, if the luck leech rolls a 1 on the d20 for an attack roll, ability check, or saving throw while it has at least 1 luck point, it can reroll the die and must use the new roll. This trait doesn’t expend luck points."
   "name": "Reserve of Fortune"
-- "desc": "As a bonus action, the luck leech can spend 1 luck point to: 
-* Gain advantage on its next attack or saving throw 
-* Cast misty step
-* Increase the necrotic damage of its next successful biting arms attack by an extra 9 (2d8) 
-* Force each creature that is concentrating on a spell within 60 feet of it to make a DC 16 Constitution saving throw, losing its concentration on the spell on a failure."
+- "desc": "As a bonus action, the luck leech can spend 1 luck point to: \n* Gain advantage on its next attack or saving throw \n* Cast misty step\n* Increase the necrotic damage of its next successful biting arms attack by an extra 9 (2d8) \n* Force each creature that is concentrating on a spell within 60 feet of it to make a DC 16 Constitution saving throw, losing its concentration on the spell on a failure."
   "name": "Turn Luck"
 "actions":
 - "desc": "The luck leech makes two biting arm attacks."

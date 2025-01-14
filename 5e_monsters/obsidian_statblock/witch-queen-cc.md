@@ -42,12 +42,7 @@ aliases: ["witch-queen", "Witch Queen-cc"]
   "name": "Magic Resistance"
 - "desc": "While in sunlight, the witch queen has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
   "name": "Sunlight Sensitivity"
-- "desc": "The witch queen is an 8th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She has the following wizard spells prepared: 
-Cantrips (at will): acid splash, mage hand, message, ray of frost
-1st level (4 slots): burning hands, magic missile, sleep
-2nd level (3 slots): invisibility, spider climb, suggestion
-3rd level (3 slots): blink, fear, lightning bolt
-4th level (2 slots): blight, confusion"
+- "desc": "The witch queen is an 8th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She has the following wizard spells prepared: \nCantrips (at will): acid splash, mage hand, message, ray of frost\n1st level (4 slots): burning hands, magic missile, sleep\n2nd level (3 slots): invisibility, spider climb, suggestion\n3rd level (3 slots): blink, fear, lightning bolt\n4th level (2 slots): blight, confusion"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Charisma saving throw or use its reaction to move up to its speed and make a melee attack against the nearest enemy of the witch queen."

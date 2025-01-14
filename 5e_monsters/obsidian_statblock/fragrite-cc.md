@@ -40,9 +40,7 @@ aliases: ["fragrite", "Fragrite-cc"]
   "name": "Sand Camouflage (Sand Form Only)"
 - "desc": "The fragrite can burrow through sand without disturbing the material it moves through."
   "name": "Sand Glide (Sand Form Only)"
-- "desc": "As a bonus action, the fragrite can polymorph into a mass of sand or a glass humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. 
-
-While in sand form, the fragrite has a burrow speed of 50 feet, it can move through a space as narrow as 1 inch wide without squeezing, and it is immune to the grappled condition. While in glass form, the fragrite has vulnerability to thunder damage."
+- "desc": "As a bonus action, the fragrite can polymorph into a mass of sand or a glass humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. \n\nWhile in sand form, the fragrite has a burrow speed of 50 feet, it can move through a space as narrow as 1 inch wide without squeezing, and it is immune to the grappled condition. While in glass form, the fragrite has vulnerability to thunder damage."
   "name": "Shapechanger"
 "actions":
 - "desc": "The fragrite makes two strike attacks."

@@ -46,9 +46,7 @@ aliases: ["pact-lich", "Pact Lich-cc"]
   "name": "Patron's Blessing"
 - "desc": "If a fist-sized or larger diamond is within its lair, a destroyed pact lich usually gains a new body in 3d10 days, but its return to the Material Plane is ultimately dictated by its patron."
   "name": "Pact Rejuvenation"
-- "desc": "The pact lich's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:
-At will: chill touch, detect magic, levitate, mage hand, prestidigitation, speak with dead, true strike
-1/day each: banishment, bestow curse, compulsion, confusion, conjure elemental, dominate monster, eyebite, finger of death, fly, hellish rebuke (5d10), hold monster, slow"
+- "desc": "The pact lich's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:\nAt will: chill touch, detect magic, levitate, mage hand, prestidigitation, speak with dead, true strike\n1/day each: banishment, bestow curse, compulsion, confusion, conjure elemental, dominate monster, eyebite, finger of death, fly, hellish rebuke (5d10), hold monster, slow"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The pact lich makes four enhanced eldritch blast attacks."

@@ -43,9 +43,7 @@ aliases: ["pact-drake", "Pact Drake-cc"]
   "name": "Binding Witness"
 - "desc": "The drake knows if it hears a lie."
   "name": "Sense Falsehood"
-- "desc": "A pact drake's spellcasting ability is Charisma (spell save DC 15). It can cast the following spells, requiring only somatic components:
-At will: detect magic
-3/day each: arcane eye, clairvoyance, scrying"
+- "desc": "A pact drake's spellcasting ability is Charisma (spell save DC 15). It can cast the following spells, requiring only somatic components:\nAt will: detect magic\n3/day each: arcane eye, clairvoyance, scrying"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The pact drake makes two attacks: one with its bite and one with its claw."

@@ -48,10 +48,7 @@ aliases: ["nephirron-devil", "Nephirron Devil-tob2"]
   "name": "Magic Resistance"
 - "desc": "The nephirron has advantage on Charisma (Deception) checks when telling a lie."
   "name": "Master Liar"
-- "desc": "The nephirron devil’s spellcasting ability is Charisma (spell save DC 20). The nephirron can innately cast the following spells, requiring no material components:
-At will: detect thoughts, protection from evil and good, teleport (self plus 150 pounds only)
-3/day each: flame strike, scrying, wall of ice
-1/day each: confusion, mass suggestion, shapechange (dragon or humanoid form only)"
+- "desc": "The nephirron devil’s spellcasting ability is Charisma (spell save DC 20). The nephirron can innately cast the following spells, requiring no material components:\nAt will: detect thoughts, protection from evil and good, teleport (self plus 150 pounds only)\n3/day each: flame strike, scrying, wall of ice\n1/day each: confusion, mass suggestion, shapechange (dragon or humanoid form only)"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The nephirron devil makes one bite attack and two claw attacks."

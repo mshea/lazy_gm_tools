@@ -50,16 +50,7 @@ aliases: ["vampire-mage-a5e", "Vampire Mage-a5emm"]
   "name": "Vampire Weaknesses"
 - "desc": "Every vampires lair contains a resting place, usually a coffin or sarcophagus, where the vampire must rest for at least an hour each day to recuperate its powers. This resting place is sprinkled with soil from its mortal homeland. If this soil is scattered or is subjected to a bless, hallow, or similar spell, the vampire is destroyed when reduced to 0 hit points."
   "name": "Resting Place"
-- "desc": "The vampire is a 7th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15). It has the following wizard spells prepared:
- Cantrips (at will): mage hand
- minor illusion
- 1st-level (4 slots): disguise self
- shield
- 2nd-level (3 slots): darkness
- misty step
- 3rd-level (3 slots): animate dead
- fireball
- 4th-level (1 slot): blight"
+- "desc": "The vampire is a 7th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15). It has the following wizard spells prepared:\n Cantrips (at will): mage hand, minor illusion\n 1st-level (4 slots): disguise self, shield\n 2nd-level (3 slots): darkness, misty step\n 3rd-level (3 slots): animate dead, fireball\n 4th-level (1 slot): blight"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 4 (1d8) necrotic damage. The target is grappled (escape DC 17) and restrained while grappled in this way."

@@ -42,10 +42,7 @@ aliases: ["fey-drake", "Fey Drake-cc"]
   "name": "Magic Resistance"
 - "desc": "As a bonus action, the fey drake can magically turn invisible until its concentration ends (as if concentrating on a spell). Any equipment the drake wears or carries is invisible with it."
   "name": "Superior Invisibility"
-- "desc": "The fey drake's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The fey drake can innately cast the following spells, requiring no material components
-At will: charm person, color spray, grease
-3/day each: hypnotic pattern, locate creature, suggestion
-1/day each: dominate person, polymorph"
+- "desc": "The fey drake's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The fey drake can innately cast the following spells, requiring no material components\nAt will: charm person, color spray, grease\n3/day each: hypnotic pattern, locate creature, suggestion\n1/day each: dominate person, polymorph"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The fey drake makes three bite attacks."

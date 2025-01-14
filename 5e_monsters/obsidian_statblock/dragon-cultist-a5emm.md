@@ -41,17 +41,7 @@ aliases: ["dragon-cultist-a5e", "Dragon Cultist-a5emm"]
   "name": "Fanatic"
 - "desc": "A dragon cultist is immune to one damage type dealt by their draconic masters breath weapon."
   "name": "Immunity"
-- "desc": "The cult fanatic is a 4th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12
- +4 to hit with spell attacks). They have the following cleric spells prepared:
- Cantrips (at will): light
- sacred flame
- thaumaturgy
- 1st-level (4 slots): ceremony
- command
- detect evil and good
- inflict wounds
- 2nd-level (3 slots): blindness/deafness
- hold person"
+- "desc": "The cult fanatic is a 4th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). They have the following cleric spells prepared:\n Cantrips (at will): light, sacred flame, thaumaturgy\n 1st-level (4 slots): ceremony, command, detect evil and good, inflict wounds\n 2nd-level (3 slots): blindness/deafness, hold person"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage."

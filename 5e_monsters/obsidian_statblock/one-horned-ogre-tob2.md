@@ -39,9 +39,7 @@ aliases: ["one-horned-ogre", "One-Horned Ogre-tob2"]
   "name": "Magical Horn"
 - "desc": "When the one-horned ogre hits a blinded, charmed, or frightened creature with any weapon, the weapon deals an extra 1d6 psychic damage."
   "name": "Ruthless Weapons"
-- "desc": "The one-horned ogre’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.
-2/day each: darkness, misty step, suggestion
-1/day each: fear"
+- "desc": "The one-horned ogre’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.\n2/day each: darkness, misty step, suggestion\n1/day each: fear"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The one-horned ogre can use its Fiendish Horn Blast. It then makes one greatsword attack."

@@ -42,10 +42,7 @@ aliases: ["ophanim", "Ophanim-cc"]
   "name": "Divine Awareness"
 - "desc": "The ophanim has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The ophanim's innate spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components:
-At will: bless, detect evil and good, invisibility (self only), scrying, thaumaturgy
-3/day each: dispel evil and good, earthquake, holy aura
-1/day each: commune, forbiddance, true resurrection"
+- "desc": "The ophanim's innate spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components:\nAt will: bless, detect evil and good, invisibility (self only), scrying, thaumaturgy\n3/day each: dispel evil and good, earthquake, holy aura\n1/day each: commune, forbiddance, true resurrection"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The ophanim makes four Light of Judgment attacks."

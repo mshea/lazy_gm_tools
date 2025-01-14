@@ -40,16 +40,7 @@ aliases: ["scorpionfolk-imperator-a5e", "Scorpionfolk Imperator-a5emm"]
 "languages": "Common, Scorpionfolk"
 "cr": "5"
 "traits":
-- "desc": "The imperator is a 5th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14
- +6 to hit with spell attacks). It has the following cleric and wizard spells prepared:
- Cantrips (at will): light
- sacred flame
- 1st-level (4 slots): create or destroy water
- healing word
- 2nd-level (3 slots): burning gust of wind
- lesser restoration
- 3rd-level (2 slots): major image
- venomous fireball"
+- "desc": "The imperator is a 5th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following cleric and wizard spells prepared:\n Cantrips (at will): light, sacred flame\n 1st-level (4 slots): create or destroy water, healing word\n 2nd-level (3 slots): burning gust of wind, lesser restoration\n 3rd-level (2 slots): major image, venomous fireball"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the scorpionfolk can't attack a different target with its claws."

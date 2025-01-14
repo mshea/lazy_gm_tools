@@ -63,10 +63,7 @@ aliases: ["chortdevil-tob1-2023", "Chort Devil-tob2023"]
   "name": "Hurl Flame"
 - "desc": "The chort devil magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see."
   "name": "Teleport"
-- "desc": "The chort devil casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
-At will: charm person, illusory script (as an action)
-3/day each: dispel magic, modify memory
-1/day: haste"
+- "desc": "The chort devil casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):\nAt will: charm person, illusory script (as an action)\n3/day each: dispel magic, modify memory\n1/day: haste"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

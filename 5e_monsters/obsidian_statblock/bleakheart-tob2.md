@@ -44,9 +44,7 @@ aliases: ["bleakheart", "Bleakheart-tob2"]
   "name": "Silent Entry (3/Day)"
 - "desc": "While in sunlight, the bleakheart has disadvantage on attack rolls, ability checks, and saving throws."
   "name": "Sunlight Weakness"
-- "desc": "The bleakheart’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
-At will: detect thoughts, minor illusion
-3/day each: disguise self"
+- "desc": "The bleakheart’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:\nAt will: detect thoughts, minor illusion\n3/day each: disguise self"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (3d6) psychic damage."

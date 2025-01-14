@@ -48,9 +48,7 @@ aliases: ["hverhuldra", "Hverhuldra-tob2"]
   "name": "Quick Rescue"
 - "desc": "While the hverhuldra submerged in water, it has advantage on Dexterity (Stealth) checks, and it has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. If it takes cold damage, this trait doesn’t function until the end of its next turn."
   "name": "Water Protection"
-- "desc": "The hverhuldra’s innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no components:
-At will: create or destroy water, detect poison and disease, purify food and drink
-1/day each: blindness/deafness, protection from poison"
+- "desc": "The hverhuldra’s innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no components:\nAt will: create or destroy water, detect poison and disease, purify food and drink\n1/day each: blindness/deafness, protection from poison"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The hverhuldra makes two steaming fist attacks."

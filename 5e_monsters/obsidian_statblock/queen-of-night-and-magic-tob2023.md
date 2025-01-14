@@ -56,10 +56,7 @@ aliases: ["queenofnightandmagic-tob1-2023", "Queen of Night and Magic-tob2023"]
   "name": "Unravel"
 - "desc": "The Queen of Night and Magic creates a shadowy rift on a point she can see within 120 feet. Each creature within the 20 feet of the rift must make a DC 23 Constitution saving throw. On a failure, a creature takes 36 (8d8) cold damage and 36 (8d8) necrotic damage and is restrained by wisps of icy shadow for 1 minute. On a success, a creature takes half the damage and isn’t restrained. A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Shadow Rift (Recharge 5–6)"
-- "desc": "The Queen of Night and Magic casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 23):
-At will: command, dancing lights, darkness, mage hand, suggestion
-3/day each: confusion, fear, greater invisibility, mirror image
-1/day each: dominate monster, plane shift, power word stun"
+- "desc": "The Queen of Night and Magic casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 23):\nAt will: command, dancing lights, darkness, mage hand, suggestion\n3/day each: confusion, fear, greater invisibility, mirror image\n1/day each: dominate monster, plane shift, power word stun"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When the Queen of Night and Magic is targeted by a spell or included in a spell’s area and the spell doesn’t have an instantaneous duration, she can use Unravel on the spell, dispelling it after it is cast. She doesn’t need to see a spell to target it with this reaction, but she must be able to see at least some portion of an area or object affected by the spell."

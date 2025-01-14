@@ -52,8 +52,7 @@ aliases: ["centaur-chieftain", "Centaur Chieftain-cc"]
   "name": "Leadership (Recharges after a Short or Long Rest)"
 - "desc": "This effect ends if the centaur chieftain is incapacitated."
   "name": "Leadership die at a time"
-- "desc": "The centaur chieftain rears back on its hind legs and makes a powerful stomp with its hooves. Each creature within 15 feet of the chieftain must make a DC 15 Dexterity saving throw, taking 28 (8d6) bludgeoning damage on a failed save, or half as much damage on a successful one. The attack leaves the centaur chieftain vulnerable, reducing its
-Armor Class by 2 until the start of its next turn."
+- "desc": "The centaur chieftain rears back on its hind legs and makes a powerful stomp with its hooves. Each creature within 15 feet of the chieftain must make a DC 15 Dexterity saving throw, taking 28 (8d6) bludgeoning damage on a failed save, or half as much damage on a successful one. The attack leaves the centaur chieftain vulnerable, reducing its\nArmor Class by 2 until the start of its next turn."
   "name": "Rearing Strike (Recharge 5-6)"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

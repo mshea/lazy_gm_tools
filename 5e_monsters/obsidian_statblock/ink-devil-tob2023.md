@@ -53,9 +53,7 @@ aliases: ["inkdevil-tob1-2023", "Ink Devil-tob2023"]
   "name": "Corrupt Scroll"
 - "desc": "The ink devil magically turns invisible until it attacks or uses Disrupt Concentration, or until its concentration ends (as if concentrating on a spell). Any equipment the ink devil wears or carries is invisible with it."
   "name": "Invisibility"
-- "desc": "The ink devil casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
-At will: detect magic, illusory script (as an action)
-1/day: glyph of warding"
+- "desc": "The ink devil casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):\nAt will: detect magic, illusory script (as an action)\n1/day: glyph of warding"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "One spellcaster concentrating on a spell within 30 feet of the ink devil that the devil can see must succeed on a DC 13 Wisdom saving throw or lose concentration on the spell."

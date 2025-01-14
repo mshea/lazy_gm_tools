@@ -41,9 +41,7 @@ aliases: ["wintergrim", "Wintergrim-tob2"]
 "traits":
 - "desc": "If a creature breaks one of the wintergrim’s rules of conduct, it becomes enraged. The wintergrim has advantage on Charisma (Intimidation) checks and attack rolls against the offending creature. An offending creature that succeeds on a DC 14 Charisma (Persuasion) check can calm the enraged wintergrim. If the offending creature has damaged the wintergrim in the last hour, it has disadvantage on this check. A creature that succeeds on a DC 12 Intelligence (Investigation) or Wisdom (Insight) check can determine the wintergrim’s rules before enraging it."
   "name": "Unique Rules"
-- "desc": "The wintergrim’s innate spellcasting ability is Wisdom (spell save DC 13). It can innately cast the following spells, requiring no material components.
-3/day each: goodberry, speak with animals
-1/day each: lesser restoration, protection from poison"
+- "desc": "The wintergrim’s innate spellcasting ability is Wisdom (spell save DC 13). It can innately cast the following spells, requiring no material components.\n3/day each: goodberry, speak with animals\n1/day each: lesser restoration, protection from poison"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage."

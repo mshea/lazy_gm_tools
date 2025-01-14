@@ -41,12 +41,7 @@ aliases: ["trollkin-shaman", "Trollkin Shaman-cc"]
   "name": "Regeneration"
 - "desc": "The trollkin shaman's skin is thick and tough, granting it a +1 bonus to Armor Class. This bonus is already factored into the trollkin's AC."
   "name": "Thick Hide"
-- "desc": "The trollkin shaman is an 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared: 
-Cantrips (at will): druidcraft, produce flame, shillelagh
-1st level (4 slots): cure wounds, entangle, faerie fire, thunderwave
-2nd level (3 slots): flaming sphere, hold person
-3rd level (3 slots): dispel magic, meld into stone, sleet storm
-4th level (2 slots): dominate beast, grasping vine"
+- "desc": "The trollkin shaman is an 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared: \nCantrips (at will): druidcraft, produce flame, shillelagh\n1st level (4 slots): cure wounds, entangle, faerie fire, thunderwave\n2nd level (3 slots): flaming sphere, hold person\n3rd level (3 slots): dispel magic, meld into stone, sleet storm\n4th level (2 slots): dominate beast, grasping vine"
   "name": "Spellcasting"
 "actions":
 - "desc": "The trollkin shaman makes two staff attacks."

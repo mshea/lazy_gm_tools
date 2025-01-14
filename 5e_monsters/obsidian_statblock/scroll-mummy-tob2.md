@@ -42,11 +42,7 @@ aliases: ["scroll-mummy", "Scroll Mummy-tob2"]
   "name": "Magic Resistance"
 - "desc": "The scroll mummy can inscribe a spell from a spellbook or scroll onto the parchment wrappings that cover its body as if copying a spell into a spellbook. Alternatively, it can inscribe a spell another spellcaster knows or has prepared onto its body by striking the spellcaster with its Spell-Siphoning Fist (see below). If the scroll mummy inscribes a spell with its Spell-Siphoning Fist, the inscription is free and happens immediately. The scroll mummy can use any spell it has inscribed onto its body once per day."
   "name": "Scroll Body"
-- "desc": "The scroll mummy’s innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:
-At will: comprehend languages, fire bolt, mage hand, prestidigitation, ray of sickness
-5/day each: hold person, inflict wounds, scorching ray
-3/day each: bestow curse, fear
-1/day each: black tentacles, confusion"
+- "desc": "The scroll mummy’s innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:\nAt will: comprehend languages, fire bolt, mage hand, prestidigitation, ray of sickness\n5/day each: hold person, inflict wounds, scorching ray\n3/day each: bestow curse, fear\n1/day each: black tentacles, confusion"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The scroll mummy makes two spell-siphoning fist attacks."

@@ -40,9 +40,7 @@ aliases: ["servant-of-yig", "Servant of Yig-cc"]
 "traits":
 - "desc": "The Servant of Yig has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The Servant of Yig's innate spellcasting ability is Charisma (spell save DC 12). The servant can innately cast the following spells, requiring no material components:
-3/day each: charm person, fear
-1/day: confusion"
+- "desc": "The Servant of Yig's innate spellcasting ability is Charisma (spell save DC 12). The servant can innately cast the following spells, requiring no material components:\n3/day each: charm person, fear\n1/day: confusion"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The servant of Yig makes two attacks: one with its bite and one with its glaive."

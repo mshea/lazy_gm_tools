@@ -42,9 +42,7 @@ aliases: ["inkling", "Inkling-cc"]
   "name": "A Thirst for Knowledge"
 - "desc": "The inkling has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The inkling's innate spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring only somatic components:
-At will: fire bolt, mending, minor illusion, prestidigitation
-1/day each: color spray, detect magic, magic missile"
+- "desc": "The inkling's innate spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring only somatic components:\nAt will: fire bolt, mending, minor illusion, prestidigitation\n1/day each: color spray, detect magic, magic missile"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."

@@ -56,9 +56,7 @@ aliases: ["folkofleng-tob1-2023", "Folk of Leng-tob2023"]
   "name": "Psychic Bolt"
 - "desc": "Ranged Weapon Attack: +4 to hit, range 10/30 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 10 (3d6) psychic damage, and the target is restrained. While restrained, the target takes 5 (1d10) poison damage at the start of each of its turns. Any creature, including the restrained target, can take an action to remove the net by succeeding on a DC 14 Strength check. If the check succeeds by 5 or more, the creature breaks the net instead, and the folk of Leng can’t use the broken net again until it finishes a long rest."
   "name": "Hooked Spider Net"
-- "desc": "The folk of Leng casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
-At will: message, minor illusion
-3/day each: disguise self, suggestion"
+- "desc": "The folk of Leng casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):\nAt will: message, minor illusion\n3/day each: disguise self, suggestion"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The folk of Leng enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can’t affect or be affected by anything on the other plane."

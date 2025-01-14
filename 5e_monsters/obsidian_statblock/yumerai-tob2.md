@@ -40,10 +40,7 @@ aliases: ["yumerai", "Yumerai-tob2"]
 "traits":
 - "desc": "Once on its turn, the yumerai can use half its movement to step magically into the dreams of a sleeping creature within 5 feet of it. It emerges from the dreams of another sleeping creature within 1 mile of the first sleeper, appearing in an unoccupied space within 5 feet of the second sleeper. If there is no other sleeping creature within range when it uses this trait, the yumerai is stunned until the end of its next turn."
   "name": "Dream Leap"
-- "desc": "The yumerai’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
-At will: dancing lights, message, minor illusion
-3/day each: detect thoughts, silent image, sleep
-1/day each: confusion, major image"
+- "desc": "The yumerai’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:\nAt will: dancing lights, message, minor illusion\n3/day each: detect thoughts, silent image, sleep\n1/day each: confusion, major image"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The yumerai makes two psychic lash attacks."

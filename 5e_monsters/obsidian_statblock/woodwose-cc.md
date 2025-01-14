@@ -42,10 +42,7 @@ aliases: ["woodwose", "Woodwose-cc"]
   "name": "Fey Touched"
 - "desc": "The woodwose can communicate with beasts and plants as if they shared a language."
   "name": "Speak with Beasts and Plants"
-- "desc": "The woodwose's innate spellcasting ability is Wisdom (spell save DC 12). The woodwose can innately cast the following spells, requiring no material components:
-At will: shillelagh
-3/day: pass without trace
-1/day: entangle"
+- "desc": "The woodwose's innate spellcasting ability is Wisdom (spell save DC 12). The woodwose can innately cast the following spells, requiring no material components:\nAt will: shillelagh\n3/day: pass without trace\n1/day: entangle"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage with shillelagh."

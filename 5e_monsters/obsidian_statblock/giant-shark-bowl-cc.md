@@ -53,13 +53,7 @@ aliases: ["giant-shark-bowl", "Giant Shark Bowl-cc"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage."
   "name": "Pseudopod"
-- "desc": "The giant shark bowl moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the bowl enters a creature's space, the creature must make a DC 16 Dexterity saving throw. 
-
-On a successful save, the creature can choose to be pushed 5 feet back or to the side of the bowl. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. 
-
-On a failed save, the bowl enters the creature's space, and the creature takes 22 (3d10 + 6) piercing damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 22 (3d10 + 6) piercing damage at the start of each of the bowl's turns. When the bowl moves, the engulfed creature moves with it. 
-
-An engulfed creature can try to escape by taking an action to make a DC 15 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the bowl."
+- "desc": "The giant shark bowl moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the bowl enters a creature's space, the creature must make a DC 16 Dexterity saving throw. \n\nOn a successful save, the creature can choose to be pushed 5 feet back or to the side of the bowl. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. \n\nOn a failed save, the bowl enters the creature's space, and the creature takes 22 (3d10 + 6) piercing damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 22 (3d10 + 6) piercing damage at the start of each of the bowl's turns. When the bowl moves, the engulfed creature moves with it. \n\nAn engulfed creature can try to escape by taking an action to make a DC 15 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the bowl."
   "name": "Engulf"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

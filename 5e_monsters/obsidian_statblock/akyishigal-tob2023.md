@@ -59,10 +59,7 @@ aliases: ["akyishigal-tob1-2023", "Akyishigal-tob2023"]
   "name": "Claw"
 - "desc": "Akyishigal magically calls one spawn of Akyishigal. The spawn arrives in 1d4 rounds, acting as an ally of Akyishigal and obeying its telepathic commands. The spawn remains for 1 hour, until Akyishigal dies, or until Akyishigal dismisses it as a bonus action."
   "name": "Call Spawn (1/Day)"
-- "desc": "Akyishigal casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
-At will: detect evil and good, pass without trace
-3/day: dispel magic, giant insect, insect plague
-1/day: contagion (filth fever only)"
+- "desc": "Akyishigal casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):\nAt will: detect evil and good, pass without trace\n3/day: dispel magic, giant insect, insect plague\n1/day: contagion (filth fever only)"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "Akyishigal magically transforms into a Large or smaller insectoid Beast or back into his true form, which is a Fiend. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying transforms with him. He reverts to his true form if he dies."

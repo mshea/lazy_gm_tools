@@ -45,12 +45,7 @@ aliases: ["transcendent-lunarchida", "Transcendent Lunarchida-tob2"]
   "name": "Sunlight Sensitivity"
 - "desc": "The lunarchidna ignores movement restrictions caused by webbing."
   "name": "Web Walker"
-- "desc": "The lunarchidna is a 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The lunarchidna has the following wizard spells prepared:
-Cantrips (at will): minor illusion, mage hand, poison spray, ray of frost
-1st level (4 slots): color spray, detect magic, magic missile, shield
-2nd level (3 slots): alter self, suggestion, web
-3rd level (3 slots): counterspell, fireball, major image
-4th level (2 slots): black tentacles, confusion"
+- "desc": "The lunarchidna is a 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The lunarchidna has the following wizard spells prepared:\nCantrips (at will): minor illusion, mage hand, poison spray, ray of frost\n1st level (4 slots): color spray, detect magic, magic missile, shield\n2nd level (3 slots): alter self, suggestion, web\n3rd level (3 slots): counterspell, fireball, major image\n4th level (2 slots): black tentacles, confusion"
   "name": "Spellcasting"
 "actions":
 - "desc": "The lunarchidna makes three attacks: one with its bite and two with its claws."

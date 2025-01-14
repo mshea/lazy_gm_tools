@@ -46,10 +46,7 @@ aliases: ["ancient-imperial-dragon", "Ancient Imperial Dragon-tob2"]
   "name": "Legendary Resistance (3/Day)"
 - "desc": "The dragon can communicate with any living creature as if they shared a language."
   "name": "Truespeak"
-- "desc": "The imperial dragon’s innate spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components.
-At will: control water, fog cloud, gust of wind, stinking cloud
-3/day each: cloudkill, control weather
-1/day each: legend lore, storm of vengeance"
+- "desc": "The imperial dragon’s innate spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components.\nAt will: control water, fog cloud, gust of wind, stinking cloud\n3/day each: cloudkill, control weather\n1/day each: legend lore, storm of vengeance"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The dragon can use its Mesmerizing Presence. It then makes three attacks: one with its bite and two with its claws."
@@ -64,9 +61,7 @@ At will: control water, fog cloud, gust of wind, stinking cloud
   "name": "Mesmerizing Presence"
 - "desc": "The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 25 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one."
   "name": "Lightning Breath (Recharge 5-6)"
-- "desc": "The imperial dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice). In a new form, the dragon retains its alignment, hp, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
-
-The dragon can choose to transform only part of its body with this action, allowing it to sprout rabbit-like ears or a humanoid head. These changes are purely cosmetic and don’t alter statistics."
+- "desc": "The imperial dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice). In a new form, the dragon retains its alignment, hp, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.\n\nThe dragon can choose to transform only part of its body with this action, allowing it to sprout rabbit-like ears or a humanoid head. These changes are purely cosmetic and don’t alter statistics."
   "name": "Change Shape"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom (Perception) check."

@@ -49,10 +49,7 @@ aliases: ["emeraldordercultleader-tob1-2023", "Emerald Order Cult Leader-tob2023
   "name": "Mace"
 - "desc": "Ranged Spell Attack: +8 to hit, range 60 ft., one target. Hit: 18 (3d8 + 5) radiant damage."
   "name": "Radiant Bolt"
-- "desc": "The Emerald Order cult leader casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 16):
-At will: command, light, thaumaturgy
-3/day each: detect thoughts, dimension door, silence, slow
-1/day each: divination, freedom of movement"
+- "desc": "The Emerald Order cult leader casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 16):\nAt will: command, light, thaumaturgy\n3/day each: detect thoughts, dimension door, silence, slow\n1/day each: divination, freedom of movement"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When a creature the cult leader can see within 30 feet of it hits it with an attack, the cult leader intonates a mind-bending arcane secret, and the attacker takes 7 (2d6) psychic damage."

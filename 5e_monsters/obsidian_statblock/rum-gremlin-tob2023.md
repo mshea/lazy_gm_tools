@@ -44,9 +44,7 @@ aliases: ["rumgremlin-tob1-2023", "Rum Gremlin-tob2023"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +5 to hit, range 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
   "name": "Claws"
-- "desc": "The gremlin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
-At will: prestidigitation
-3/day: command"
+- "desc": "The gremlin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):\nAt will: prestidigitation\n3/day: command"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

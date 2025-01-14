@@ -50,9 +50,7 @@ aliases: ["grindylow", "Grindylow-cc"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 8 (2d6 + 1) slashing damage and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the grindylow can't use its claws on another target."
   "name": "Claws"
-- "desc": "A 20-foot-radius cloud of ink extends all around the grindylow if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink.
-
-After releasing the ink, the grindylow can use the Dash action as a bonus action."
+- "desc": "A 20-foot-radius cloud of ink extends all around the grindylow if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink.\n\nAfter releasing the ink, the grindylow can use the Dash action as a bonus action."
   "name": "Ink Cloud (Recharges after a Short or Long Rest)"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

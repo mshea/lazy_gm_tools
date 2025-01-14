@@ -52,9 +52,7 @@ aliases: ["vellso", "Vellso-cc"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage and the target must succeed on a DC 15 Constitution saving throw or take 13 (3d8) necrotic damage and contract the carrion curse disease (see sidebar)."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
-
-Constitution saving throw or gain one level of exhaustion. If an infected creature succeeds on the saving throw, it no longer gains exhaustion levels each day. A second successful save at the end of a long rest cures the disease. The abyssal disease resists many efforts at treatment and can only be cured by a greater restoration spell or similar magic. A living creature that dies from the effects of carrion curse has a 75% chance of rising again as a blood zombie (see page 393) within 24 hours."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.\n\nConstitution saving throw or gain one level of exhaustion. If an infected creature succeeds on the saving throw, it no longer gains exhaustion levels each day. A second successful save at the end of a long rest cures the disease. The abyssal disease resists many efforts at treatment and can only be cured by a greater restoration spell or similar magic. A living creature that dies from the effects of carrion curse has a 75% chance of rising again as a blood zombie (see page 393) within 24 hours."
   "name": "Claws"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

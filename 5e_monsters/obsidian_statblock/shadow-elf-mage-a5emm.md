@@ -40,24 +40,7 @@ aliases: ["shadow-elf-mage-a5e", "Shadow Elf Mage-a5emm"]
 "traits":
 - "desc": "The shadow elf magecan innately cast dancing lights as a cantrip and faerie fire and darkness once each per long rest with no material components, using Intelligence as their spellcasting ability."
   "name": "Innate spells"
-- "desc": "The mage is a 9th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 14
- +6 to hit with spell attacks). They have the following wizard spells prepared:
- Cantrips (at will): fire bolt
- light
- mage hand
- prestidigitation
- 1st-level (4 slots): detect magic
- identify
- mage armor
- shield
- 2nd-level (3 slots): alter self
- misty step
- 3rd-level (3 slots): clairvoyance
- counterspell
- lightning bolt
- 4th-level (3 slots): dimension door
- greater invisibility
- 5th-level (1 slot): cloudkill"
+- "desc": "The mage is a 9th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). They have the following wizard spells prepared:\n Cantrips (at will): fire bolt, light, mage hand, prestidigitation\n 1st-level (4 slots): detect magic, identify, mage armor, shield\n 2nd-level (3 slots): alter self, misty step\n 3rd-level (3 slots): clairvoyance, counterspell, lightning bolt\n 4th-level (3 slots): dimension door, greater invisibility\n 5th-level (1 slot): cloudkill"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage."

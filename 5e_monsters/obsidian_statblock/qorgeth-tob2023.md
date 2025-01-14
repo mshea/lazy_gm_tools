@@ -54,10 +54,7 @@ aliases: ["qorgeth-tob1-2023", "Qorgeth-tob2023"]
   "name": "Crush"
 - "desc": "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) piercing damage, and the target must make a DC 21 Constitution saving throw. On a failure, the target takes 33 (6d10) poison damage and is poisoned for 1 hour. On a success, the target takes half the damage and isn’t poisoned. A creature that fails the saving throw by 10 or more is also paralyzed while poisoned in this way."
   "name": "Stinger"
-- "desc": "Qorgeth casts one of the following spells, requiring no material or somatic components and using Charisma as the spellcasting ability (spell save DC 19):
-At will: black tentacles, detect magic
-3/day each: dispel magic, insect plague (biting worms)
-1/day each: earthquake, teleport (self only)"
+- "desc": "Qorgeth casts one of the following spells, requiring no material or somatic components and using Charisma as the spellcasting ability (spell save DC 19):\nAt will: black tentacles, detect magic\n3/day each: dispel magic, insect plague (biting worms)\n1/day each: earthquake, teleport (self only)"
   "name": "Spellcasting"
 "legendary_actions":
 - "desc": "Each creature within 60 feet of Qorgeth and that can hear the demon must succeed on a DC 21 Wisdom saving throw or be frightened for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."

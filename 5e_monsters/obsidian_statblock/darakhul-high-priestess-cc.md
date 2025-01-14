@@ -49,16 +49,7 @@ aliases: ["darakhul-high-priestess", "Darakhul High Priestess-cc"]
   "name": "Sunlight Sensitivity"
 - "desc": "The darakhul high priestess and any ghouls within 30 feet of her have advantage on saving throws against effects that turn undead."
   "name": "Turning Defiance"
-- "desc": "The darakhul high priestess is a 15th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). She has the following cleric spells prepared: 
-Cantrips (at will): guidance, mending, resistance, sacred flame, spare the dying, thaumaturgy
-1st level (4 slots): bane, command, inflict wounds, protection from evil and good, shield of faith
-2nd level (3 slots): blindness/deafness, hold person, spiritual weapon
-3rd level (3 slots): animate dead, bestow curse, protection from energy, spirit guardians
-4th level (3 slots): banishment, stone shape
-5th level (2 slot): contagion, insect plague
-6th level (1 slot): create undead
-7th level (1 slot): regenerate
-8th level (1 slot): antimagic field"
+- "desc": "The darakhul high priestess is a 15th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). She has the following cleric spells prepared: \nCantrips (at will): guidance, mending, resistance, sacred flame, spare the dying, thaumaturgy\n1st level (4 slots): bane, command, inflict wounds, protection from evil and good, shield of faith\n2nd level (3 slots): blindness/deafness, hold person, spiritual weapon\n3rd level (3 slots): animate dead, bestow curse, protection from energy, spirit guardians\n4th level (3 slots): banishment, stone shape\n5th level (2 slot): contagion, insect plague\n6th level (1 slot): create undead\n7th level (1 slot): regenerate\n8th level (1 slot): antimagic field"
   "name": "Spellcasting"
 "actions":
 - "desc": "The darakhul high priestess makes two claw attacks and one bite attack."

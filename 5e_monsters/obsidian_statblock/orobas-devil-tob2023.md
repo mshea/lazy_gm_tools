@@ -67,10 +67,7 @@ aliases: ["orobasdevil-tob1-2023", "Orobas Devil-tob2023"]
   "name": "Hurl Flame"
 - "desc": "The orobas magically teleports, along with any equipment, up to 120 feet to an unoccupied space it can see."
   "name": "Teleport"
-- "desc": "The orobas casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):
-At will: augury, detect thoughts, guidance
-3/day each: locate creature, nondetection
-1/day each: contact other plane (as an action), legend lore (as an action)"
+- "desc": "The orobas casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):\nAt will: augury, detect thoughts, guidance\n3/day each: locate creature, nondetection\n1/day each: contact other plane (as an action), legend lore (as an action)"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When the orobas makes an ability check or attack, it can choose to have advantage on the roll."

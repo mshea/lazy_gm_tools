@@ -39,9 +39,7 @@ aliases: ["light-drake", "Light Drake-tob2"]
 "traits":
 - "desc": "When a light drake is within 5 feet of a source of light, that source of light sheds bright light and dim light for an additional 10 feet. While the light drake wears or carries an object that sheds light from the daylight spell, the light within 10 feet of the drake is sunlight."
   "name": "Reflective Scales"
-- "desc": "The light drake’s innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-At will: dancing lights, light, guiding star, starburst
-3/day each: color spray, faerie fire"
+- "desc": "The light drake’s innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: dancing lights, light, guiding star, starburst\n3/day each: color spray, faerie fire"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."

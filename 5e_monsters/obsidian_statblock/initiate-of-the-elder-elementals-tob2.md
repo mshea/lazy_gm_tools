@@ -44,11 +44,7 @@ aliases: ["initiate-of-the-elder-elementals", "Initiate of the Elder Elementals-
   "name": "Sunlight Sensitivity"
 - "desc": "As a bonus action, the initiate can change the damage of a spell it casts from acid, cold, fire, or lightning to another one of those elements."
   "name": "Versatility of the Elder Elementals"
-- "desc": "The initiate of the elder elementals is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The initiate has the following wizard spells prepared:
-Cantrips (at will): pummelstone, light, mage hand, ray of frost
-1st level (4 slots): burning hands, mage armor, tidal barrier
-2nd level (3 slots): gust of wind, misty step, scorching ray
-3rd level (2 slots): lightning bolt, frozen razors"
+- "desc": "The initiate of the elder elementals is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The initiate has the following wizard spells prepared:\nCantrips (at will): pummelstone, light, mage hand, ray of frost\n1st level (4 slots): burning hands, mage armor, tidal barrier\n2nd level (3 slots): gust of wind, misty step, scorching ray\n3rd level (2 slots): lightning bolt, frozen razors"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."

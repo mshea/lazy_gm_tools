@@ -50,9 +50,7 @@ aliases: ["chelicerae-tob1-2023", "Chelicerae-tob2023"]
   "name": "Claw"
 - "desc": "The chelicerae releases some of its stored magical energy in a burst. Each creature within 15 feet of the chelicerae must make a DC 15 Dexterity saving throw, taking 36 (8d8) force damage on a failed save, or half as much damage on a successful one. After using Magical Discharge, the chelicerae can’t do so again until it successfully siphons magic from a creature or until it finishes a long rest."
   "name": "Magical Discharge (Recharge Special)"
-- "desc": "The chelicerae casts one of the following spells, requiring no material or verbal components and using Intelligence as the spellcasting ability (spell save DC 15):
-At will: mage hand, minor illusion
-1/day each: haste, hold person, invisibility, phantasmal killer"
+- "desc": "The chelicerae casts one of the following spells, requiring no material or verbal components and using Intelligence as the spellcasting ability (spell save DC 15):\nAt will: mage hand, minor illusion\n1/day each: haste, hold person, invisibility, phantasmal killer"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The chelicerae takes the Dash or Disengage action."

@@ -40,15 +40,7 @@ aliases: ["cave-giant-shaman", "Cave Giant Shaman-tob2"]
 "traits":
 - "desc": "If the cave giant shaman starts its turn in sunlight, it takes 20 radiant damage. While in sunlight, it moves at half speed and has disadvantage on attack rolls and ability checks. If the giant is reduced to 0 hp while in sunlight, it is petrified."
   "name": "Sunlight Petrification"
-- "desc": "The cave giant shaman is a 14th-level spellcaster. Its spellcasting ability is Charisma (save DC 18, +10 to hit with spell attacks). The shaman has the following wizard spells prepared:
-Cantrips (at will): acid splash, mage hand, mending, prestidigitation, shocking grasp
-1st level (4 slots): burning hands, expeditious retreat, fog cloud, shield
-2nd level (3 slots): enlarge/reduce, shatter, spider climb, web
-3rd level (3 slots): gaseous form, haste, lightning bolt, water breathing
-4th level (3 slots): ice storm, polymorph, wall of fire
-5th level (2 slots): cloudkill, insect plague
-6th level (1 slots): disintegrate
-7th level (1 slots): reverse gravity"
+- "desc": "The cave giant shaman is a 14th-level spellcaster. Its spellcasting ability is Charisma (save DC 18, +10 to hit with spell attacks). The shaman has the following wizard spells prepared:\nCantrips (at will): acid splash, mage hand, mending, prestidigitation, shocking grasp\n1st level (4 slots): burning hands, expeditious retreat, fog cloud, shield\n2nd level (3 slots): enlarge/reduce, shatter, spider climb, web\n3rd level (3 slots): gaseous form, haste, lightning bolt, water breathing\n4th level (3 slots): ice storm, polymorph, wall of fire\n5th level (2 slots): cloudkill, insect plague\n6th level (1 slots): disintegrate\n7th level (1 slots): reverse gravity"
   "name": "Spellcasting"
 "actions":
 - "desc": "The cave giant shaman makes two attacks: one with its club and one with its tusks."

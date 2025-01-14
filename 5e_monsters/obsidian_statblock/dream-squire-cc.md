@@ -38,9 +38,7 @@ aliases: ["dream-squire", "Dream Squire-cc"]
 "traits":
 - "desc": "The dream squire has advantage on saving throws against being charmed or frightened. If an effect would cause the squire to take a harmful action against its master, it can immediately repeat the saving throw (if any), ending the effect on a success. The squire has disadvantage on attack rolls or ability checks made against its master."
   "name": "Bound Devotion"
-- "desc": "The dream squire is bound to serve another creature as its master. The squire obeys all the master's commands, and the master can communicate telepathically with the squire as long as they are on the same plane. 
-
-A dispel evil and good spell's break enchantment option that targets a dream squire forces it to make a Wisdom saving throw. On a failure, the squire's bond with its master is broken, and it returns to its true form (use human guard statistics)."
+- "desc": "The dream squire is bound to serve another creature as its master. The squire obeys all the master's commands, and the master can communicate telepathically with the squire as long as they are on the same plane. \n\nA dispel evil and good spell's break enchantment option that targets a dream squire forces it to make a Wisdom saving throw. On a failure, the squire's bond with its master is broken, and it returns to its true form (use human guard statistics)."
   "name": "Master's Bond"
 "actions":
 - "desc": "The dream squire makes two melee attacks."

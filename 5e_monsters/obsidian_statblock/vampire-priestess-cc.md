@@ -37,27 +37,13 @@ aliases: ["vampire-priestess", "Vampire Priestess-cc"]
 "cr": "8"
 "damage_resistances": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 "traits":
-- "desc": "When she drops to 0 hp outside her resting place, the vampire priestess transforms into a cloud of mist instead of falling unconscious, provided that she isn't in running water. If she can't transform, she is destroyed. While she has 0 hp in mist form, she can't revert to her priestess form, and she must reach her resting place within 2 hours or be destroyed. 
-
-While in mist form she can't take any actions, speak, or manipulate objects. She is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, she can do so without squeezing, and she can't pass through water. She has advantage on Strength, Dexterity, and Constitution saving throws, and she is immune to all nonmagical damage, except the damage she takes from sunlight. 
-
-Once in her resting place, she reverts to her priestess form. She is then paralyzed until she regains at least 1 hp. After spending 1 hour in her resting place with 0 hp, she regains 1 hp. s"
+- "desc": "When she drops to 0 hp outside her resting place, the vampire priestess transforms into a cloud of mist instead of falling unconscious, provided that she isn't in running water. If she can't transform, she is destroyed. While she has 0 hp in mist form, she can't revert to her priestess form, and she must reach her resting place within 2 hours or be destroyed. \n\nWhile in mist form she can't take any actions, speak, or manipulate objects. She is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, she can do so without squeezing, and she can't pass through water. She has advantage on Strength, Dexterity, and Constitution saving throws, and she is immune to all nonmagical damage, except the damage she takes from sunlight. \n\nOnce in her resting place, she reverts to her priestess form. She is then paralyzed until she regains at least 1 hp. After spending 1 hour in her resting place with 0 hp, she regains 1 hp. s"
   "name": "Misty Escape"
 - "desc": "The vampire priestess regains 15 hp at the start of her turn if she has at least 1 hp and isn't in sunlight or running water. If the priestess takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn."
   "name": "Regeneration"
-- "desc": "The vampire priestess is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). She has the following cleric spells prepared:
-Cantrips (at will): light, guidance, poison spray, thaumaturgy
-1st level (4 slots): bane, command, inflict wounds, ray of sickness
-2nd level (3 slots): blindness/deafness, silence, spiritual weapon
-3rd level (3 slots): bestow curse, dispel magic, spirit guardians
-4th level (3 slots): banishment, freedom of movement
-5th level (1 slot): contagion, flame strike"
+- "desc": "The vampire priestess is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). She has the following cleric spells prepared:\nCantrips (at will): light, guidance, poison spray, thaumaturgy\n1st level (4 slots): bane, command, inflict wounds, ray of sickness\n2nd level (3 slots): blindness/deafness, silence, spiritual weapon\n3rd level (3 slots): bestow curse, dispel magic, spirit guardians\n4th level (3 slots): banishment, freedom of movement\n5th level (1 slot): contagion, flame strike"
   "name": "Spellcasting"
-- "desc": "The priestess has the following flaws:
-Forbiddance. The priestess can't enter a residence without an invitation from one of the occupants.
-Harmed by Running Water. The priestess takes 20 acid damage if she ends her turn in running water.
-Stake to the Heart. If a piercing weapon made of wood is driven into the priestess' heart while she is incapacitated in her resting place, the she is paralyzed until the stake is removed.
-Sunlight Hypersensitivity. The priestess takes 20 radiant damage when she starts her turn in sunlight. While in sunlight, she has disadvantage on attack rolls and ability checks."
+- "desc": "The priestess has the following flaws:\nForbiddance. The priestess can't enter a residence without an invitation from one of the occupants.\nHarmed by Running Water. The priestess takes 20 acid damage if she ends her turn in running water.\nStake to the Heart. If a piercing weapon made of wood is driven into the priestess' heart while she is incapacitated in her resting place, the she is paralyzed until the stake is removed.\nSunlight Hypersensitivity. The priestess takes 20 radiant damage when she starts her turn in sunlight. While in sunlight, she has disadvantage on attack rolls and ability checks."
   "name": "Vampire Weaknesses"
 "actions":
 - "desc": "The vampire priestess can use her Bewitching Gaze. She then makes two attacks, only one of which can be a bite attack."

@@ -50,10 +50,7 @@ aliases: ["servant-of-the-unsated-god", "Servant of the Unsated God-tob2"]
   "name": "Sunlight Sensitivity"
 - "desc": "The servant and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead."
   "name": "Turning Defiance"
-- "desc": "The servant of the Unsated God is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following cleric spells prepared:
-Cantrips (at will): guidance, mending, resistance, thaumaturgy
-1st level (4 slots): bane, command, inflict wounds, protection from evil and good
-2nd level (3 slots): blindness/deafness, hold person, spiritual weapon"
+- "desc": "The servant of the Unsated God is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following cleric spells prepared:\nCantrips (at will): guidance, mending, resistance, thaumaturgy\n1st level (4 slots): bane, command, inflict wounds, protection from evil and good\n2nd level (3 slots): blindness/deafness, hold person, spiritual weapon"
   "name": "Spellcasting"
 "actions":
 - "desc": "The servant of the Unsated God makes two attacks: one with its bite and one with its mace of the devourer."

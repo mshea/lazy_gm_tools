@@ -40,9 +40,7 @@ aliases: ["grimmlet", "Grimmlet-tob2"]
   "name": "Reproduce"
 - "desc": "When the grimmlet dies, it explodes in a spray of Void-infused crystal shards. Each creature within 5 feet of the grimmlet must succeed on a DC 12 Dexterity saving throw or take 3 (1d6) slashing damage and 3 (1d6) psychic damage. Grimmlets damaged by this trait don’t Reproduce."
   "name": "Self-destruct"
-- "desc": "The grimmlet’s innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no components:
-At will: crushing curse, minor illusion
-3/day each: maddening whispers"
+- "desc": "The grimmlet’s innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no components:\nAt will: crushing curse, minor illusion\n3/day each: maddening whispers"
   "name": "Innate Spellcasting (Psionics)"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) psychic damage."

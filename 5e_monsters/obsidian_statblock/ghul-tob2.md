@@ -42,10 +42,7 @@ aliases: ["ghul", "Ghul-tob2"]
   "name": "Turn Resistance"
 - "desc": "As a bonus action, the ghul changes one of its damage resistances to immunity to that type of damage until the start of its next turn."
   "name": "Variable Immunity"
-- "desc": "The ghul’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-At will: chill touch, fire bolt, ray of frost, shocking grasp
-3/day each: fog cloud, rolling thunder, misty step, spire of stone
-1/day each: blur, fireball, gaseous form, frozen razors, stinking cloud"
+- "desc": "The ghul’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: chill touch, fire bolt, ray of frost, shocking grasp\n3/day each: fog cloud, rolling thunder, misty step, spire of stone\n1/day each: blur, fireball, gaseous form, frozen razors, stinking cloud"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The ghul makes two attacks with its claws."

@@ -59,10 +59,7 @@ aliases: ["naina-tob1-2023", "Naina-tob2023"]
   "name": "Paralysis Breath"
 - "desc": "The naina exhales sleep gas around it. Each creature within 20 feet of the naina must succeed on a DC 17 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or another creature uses an action to wake it."
   "name": "Sleep Breath"
-- "desc": "The naina casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
-At will: charm person, dancing lights, silent image
-3/day each: dispel magic, hypnotic pattern, invisibility
-1/day each: dimension door, dominate person"
+- "desc": "The naina casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):\nAt will: charm person, dancing lights, silent image\n3/day each: dispel magic, hypnotic pattern, invisibility\n1/day each: dimension door, dominate person"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The naina transforms into a Medium Humanoid or back into her true form, which is a Dragon. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn’t transformed. It reverts to its true from if she dies."

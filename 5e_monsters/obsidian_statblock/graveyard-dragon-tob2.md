@@ -53,12 +53,7 @@ aliases: ["graveyard-dragon", "Graveyard Dragon-tob2"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
   "name": "Claw"
-- "desc": "The dragon releases a breath weapon that corresponds to the type of dragon it was in life. Each creature in the area must make a DC 14 Dexterity saving throw, taking 40 (9d8) damage of the corresponding type on a failed save, or half as much damage on a successful one. 
-* Black. Acid damage in a 30-foot line that is 5 feet wide. 
-* Blue. Lightning damage in a 30-foot line that is 5 feet wide. 
-* Green. Poison damage in a 30-foot cone. 
-* Red. Fire damage in a 30-foot cone. 
-* White. Cold damage in a 30-foot cone."
+- "desc": "The dragon releases a breath weapon that corresponds to the type of dragon it was in life. Each creature in the area must make a DC 14 Dexterity saving throw, taking 40 (9d8) damage of the corresponding type on a failed save, or half as much damage on a successful one. \n* Black. Acid damage in a 30-foot line that is 5 feet wide. \n* Blue. Lightning damage in a 30-foot line that is 5 feet wide. \n* Green. Poison damage in a 30-foot cone. \n* Red. Fire damage in a 30-foot cone. \n* White. Cold damage in a 30-foot cone."
   "name": "Breath Weapon (Recharge 5-6)"
 source:
 - [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition)

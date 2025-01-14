@@ -45,10 +45,7 @@ aliases: ["lamassu", "Lamassu-cc"]
   "name": "Magic Weapons"
 - "desc": "If the lamassu moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the lamassu can make one claw attack against it as a bonus action."
   "name": "Pounce"
-- "desc": "The lamassu's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no material components:
-At will: detect evil and good, mage hand, magic circle, sacred flame, unseen servant
-3/day each: bless, calm emotions, command, dimension door, invisibility, thunderwave
-1/day each: banishment, flame strike, glyph of warding"
+- "desc": "The lamassu's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no material components:\nAt will: detect evil and good, mage hand, magic circle, sacred flame, unseen servant\n3/day each: bless, calm emotions, command, dimension door, invisibility, thunderwave\n1/day each: banishment, flame strike, glyph of warding"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The lamassu makes two attacks with its claws."

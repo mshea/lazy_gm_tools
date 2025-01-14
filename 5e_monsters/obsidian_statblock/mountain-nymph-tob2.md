@@ -43,10 +43,7 @@ aliases: ["mountain-nymph", "Mountain Nymph-tob2"]
   "name": "Mountain Walk"
 - "desc": "When the mountain nymph makes a ranged attack with a bow, she doesn’t have disadvantage on the attack roll from being within 5 feet of a hostile creature, though she may still have disadvantage from other sources."
   "name": "Point Blank Hunter"
-- "desc": "The mountain nymph’s innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:
-At will: hunter’s mark
-3/day each: misty step, spike growth
-1/day: pass without trace"
+- "desc": "The mountain nymph’s innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:\nAt will: hunter’s mark\n3/day each: misty step, spike growth\n1/day: pass without trace"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The mountain nymph makes three longbow attacks."

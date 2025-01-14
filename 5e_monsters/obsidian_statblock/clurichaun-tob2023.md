@@ -47,9 +47,7 @@ aliases: ["clurichaun-tob1-2023", "Clurichaun-tob2023"]
   "name": "Slam"
 - "desc": "Ranged Spell Attack: +5 to hit, range 30 ft., one creature. Hit: 5 (1d4 + 3) psychic damage, and the target must succeed on a DC 13 Wisdom saving throw or be incapacitated until the end of its next turn as it doubles over in laughter or freezes up in embarrassment (the target’s choice)."
   "name": "Bawdy Remark"
-- "desc": "The clurichaun casts one of the following spells, requiring alcohol as the only material component and using Charisma as the spellcasting ability (spell save DC 13):
-At will: mending, purify food and drink
-1/day each: blur, heroism, suggestion"
+- "desc": "The clurichaun casts one of the following spells, requiring alcohol as the only material component and using Charisma as the spellcasting ability (spell save DC 13):\nAt will: mending, purify food and drink\n1/day each: blur, heroism, suggestion"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

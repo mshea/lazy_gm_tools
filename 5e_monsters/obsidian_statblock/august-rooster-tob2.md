@@ -41,10 +41,7 @@ aliases: ["august-rooster", "August Rooster-tob2"]
   "name": "Dive Bomb"
 - "desc": "The august rooster can fly up to 40 feet on its turn, but it must start and end its movement on a solid surface such as a roof or the ground. If it is flying at the end of its turn, it falls to the ground and takes falling damage."
   "name": "Jumper"
-- "desc": "The august rooster’s innate spellcasting ability is Charisma (spell save DC 14). The august rooster can innately cast the following spells, requiring no material components.
-At will: dancing lights, mage hand, message, vicious mockery
-3/day each: bane, charm person, hideous laughter
-1/day each: healing word, hold person"
+- "desc": "The august rooster’s innate spellcasting ability is Charisma (spell save DC 14). The august rooster can innately cast the following spells, requiring no material components.\nAt will: dancing lights, mage hand, message, vicious mockery\n3/day each: bane, charm person, hideous laughter\n1/day each: healing word, hold person"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The august rooster makes two talon attacks."

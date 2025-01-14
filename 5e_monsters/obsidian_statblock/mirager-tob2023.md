@@ -50,9 +50,7 @@ aliases: ["mirager-tob1-2023", "Mirager-tob2023"]
   "name": "Blow Kiss"
 - "desc": "The mirager covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of its general size and Humanoid shape. The illusion ends if the mirager takes a bonus action to end it or if the mirager dies."
   "name": "Illusory Appearance"
-- "desc": "The mirager casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
-3/day: charm person
-1/day each: hallucinatory terrain (as an action), suggestion"
+- "desc": "The mirager casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):\n3/day: charm person\n1/day each: hallucinatory terrain (as an action), suggestion"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "While in sandy terrain, the mirager takes the Dash or Disengage action."

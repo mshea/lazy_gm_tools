@@ -47,10 +47,7 @@ aliases: ["crystalline-monolith", "Crystalline Monolith-tob2"]
   "name": "Magic Resistance"
 - "desc": "The crystalline monolith has advantage on Intelligence saving throws and ability checks."
   "name": "Powerful Mind"
-- "desc": "The crystalline monolith’s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
-At will: detect magic, detect thoughts, mage hand, silent image
-3/day each: clairvoyance, hypnotic pattern, stinking cloud, telekinesis
-1/day each: confusion, dominate person, suggestion"
+- "desc": "The crystalline monolith’s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:\nAt will: detect magic, detect thoughts, mage hand, silent image\n3/day each: clairvoyance, hypnotic pattern, stinking cloud, telekinesis\n1/day each: confusion, dominate person, suggestion"
   "name": "Innate Spellcasting (Psionics)"
 "actions":
 - "desc": "The crystalline monolith makes two slam attacks or two mind spear attacks. If both slam attacks hit a Large or smaller target, the target must succeed on a DC 14 Constitution saving throw or begin to turn to crystal and be restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success."

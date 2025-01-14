@@ -43,9 +43,7 @@ aliases: ["greyfur-tob1-2023", "Greyfur-tob2023"]
   "name": "Greyfur’s Staff"
 - "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10 (2d6 + 3) force damage."
   "name": "Arcane Bolt"
-- "desc": "The greyfur casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):
-At will: light, mage hand, prestidigitation
-3/day each: color spray, sleep"
+- "desc": "The greyfur casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):\nAt will: light, mage hand, prestidigitation\n3/day each: color spray, sleep"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

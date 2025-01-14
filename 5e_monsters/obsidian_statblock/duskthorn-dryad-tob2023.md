@@ -55,10 +55,7 @@ aliases: ["duskthorndryad-tob1-2023", "Duskthorn Dryad-tob2023"]
   "name": "Thorn"
 - "desc": "The dryad magically calls 1d4 boars, constrictor snakes, or wolves, or it calls 1 child of the briar. The called creatures arrive in 1d4 rounds, acting as allies of the dryad and obeying her spoken commands. The creatures remain for 1 hour, until the dryad dies, or until the dryad dismisses them as a bonus action."
   "name": "Children of the Forest (1/Day)"
-- "desc": "The dryad casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
-At will: druidcraft
-3/day each: charm person, entangle, invisibility
-1/day each: barkskin, spike growth, suggestion"
+- "desc": "The dryad casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):\nAt will: druidcraft\n3/day each: charm person, entangle, invisibility\n1/day each: barkskin, spike growth, suggestion"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

@@ -45,10 +45,7 @@ aliases: ["broodmother-of-leng", "Broodmother of Leng-tob2"]
   "name": "Eldritch Understanding"
 - "desc": "A creature that hits the broodmother with a melee attack while within 5 feet of her takes 7 (2d6) poison damage. The creature must succeed a DC 15 Dexterity saving throw or also be poisoned until the end of its next turn."
   "name": "Poisonous Blood"
-- "desc": "The broodmother of Leng’s innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). She can innately cast the following spells, requiring no material components.
-At will: charm person, chill touch, comprehend languages, detect magic
-3/day each: hold person, suggestion, thunderwave
-1/day each: dream, legend lore, mislead, scrying"
+- "desc": "The broodmother of Leng’s innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). She can innately cast the following spells, requiring no material components.\nAt will: charm person, chill touch, comprehend languages, detect magic\n3/day each: hold person, suggestion, thunderwave\n1/day each: dream, legend lore, mislead, scrying"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The broodmother of Leng makes two claw attacks."

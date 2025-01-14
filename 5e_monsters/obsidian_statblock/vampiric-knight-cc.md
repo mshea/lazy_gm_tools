@@ -39,10 +39,7 @@ aliases: ["vampiric-knight", "Vampiric Knight-cc"]
 "traits":
 - "desc": "The vampiric knight regains 20 hp at the start of its turn if it has at least 1 hp and isn't in running water. If it takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampiric knight's next turn."
   "name": "Regeneration"
-- "desc": "The vampiric knight has the following flaws:
-Forbiddance. The vampiric knight can't enter a residence without an invitation from one of the occupants.
-Harmed by Running Water. The vampiric knight takes 20 acid damage if it ends its turn in running water.
-Stake to the Heart. If a piercing weapon made of wood is driven into the vampiric knight's heart while the knight is incapacitated in its resting place, the vampiric knight is paralyzed until the stake is removed."
+- "desc": "The vampiric knight has the following flaws:\nForbiddance. The vampiric knight can't enter a residence without an invitation from one of the occupants.\nHarmed by Running Water. The vampiric knight takes 20 acid damage if it ends its turn in running water.\nStake to the Heart. If a piercing weapon made of wood is driven into the vampiric knight's heart while the knight is incapacitated in its resting place, the vampiric knight is paralyzed until the stake is removed."
   "name": "Vampire Weaknesses"
 "actions":
 - "desc": "The vampiric knight makes two impaling longsword attacks."

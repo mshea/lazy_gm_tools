@@ -54,9 +54,7 @@ aliases: ["alpha-yek", "Alpha Yek-cc"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (4d4 + 3) slashing damage."
   "name": "Claw"
-- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 8 (2d4 + 3) piercing damage and the target must make a DC 17 Constitution saving throw. On a failure, a piece of the bone breaks and sticks in the target's wound. The target takes 5 (2d4) piercing damage at the start of each of its turns as long as the bone remains lodged in its wound. A creature, including the target, can take its action to remove the bone by succeeding on a DC 15 Wisdom (Medicine) check. The bone also falls out of the wound if the target receives magical healing 
-
-A yek typically carries 3 (1d6) bone shards, which are destroyed on a successful hit. It can use its action to tear a bone shard from a corpse within 5 feet. Derro"
+- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 8 (2d4 + 3) piercing damage and the target must make a DC 17 Constitution saving throw. On a failure, a piece of the bone breaks and sticks in the target's wound. The target takes 5 (2d4) piercing damage at the start of each of its turns as long as the bone remains lodged in its wound. A creature, including the target, can take its action to remove the bone by succeeding on a DC 15 Wisdom (Medicine) check. The bone also falls out of the wound if the target receives magical healing \n\nA yek typically carries 3 (1d6) bone shards, which are destroyed on a successful hit. It can use its action to tear a bone shard from a corpse within 5 feet. Derro"
   "name": "Bone Shard"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

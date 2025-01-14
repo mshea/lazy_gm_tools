@@ -51,10 +51,7 @@ aliases: ["herald-of-slaughter", "Herald of Slaughter-tob2"]
   "name": "Magic Weapons"
 - "desc": "The herald can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "The herald’s innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
-At will: detect thoughts
-3/day: charm person, fear, suggestion
-1/day: modify memory, seeming"
+- "desc": "The herald’s innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:\nAt will: detect thoughts\n3/day: charm person, fear, suggestion\n1/day: modify memory, seeming"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The herald of slaughter makes three attacks: one with its gore and two with its cleaver. Alternatively, it can use Enkindle Hate twice. If it hits one target with Enkindle Hate twice using this action, the target must succeed on a DC 16 Charisma saving throw or use its reaction to immediately move up to half its speed and make one melee attack against a random target within range."

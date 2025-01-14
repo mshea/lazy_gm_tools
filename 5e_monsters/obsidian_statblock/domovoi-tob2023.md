@@ -46,9 +46,7 @@ aliases: ["domovoi-tob1-2023", "Domovoi-tob2023"]
   "name": "Slam"
 - "desc": "The domovoi magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the domovoi wears or carries is invisible with it."
   "name": "Invisibility"
-- "desc": "The domovoi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
-At will: alter self
-3/day each: darkness, haste"
+- "desc": "The domovoi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):\nAt will: alter self\n3/day each: darkness, haste"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The domovoi magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space within a structure protected by its House Guardian trait or within 30 feet of the exterior of that structure. Swirls of golden light, sparkles of starlight, or tendrils of inky shadow (the domovoi’s choice) appear at the origin and destination when it uses this bonus action."

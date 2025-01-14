@@ -61,10 +61,7 @@ aliases: ["camazotz-tob1-2023", "Camazotz-tob2023"]
   "name": "Fire Breath (Recharge 5–6)"
 - "desc": "Camazotz magically calls 4d6 giant bats or swarms of bats, or he magically calls 2d6 vrocks that have membranous instead of feathered wings. The called creatures arrive in 1d4 rounds, acting as allies of Camazotz and obeying his telepathic commands. The creatures remain for 1 hour, until Camazotz dies, or until Camazotz dismisses them as a bonus action. Camazotz can have no more than twenty four giant bats or swarms of bats, or twelve vrocks under his control at a time."
   "name": "Call Bats (3/Day)"
-- "desc": "Camazotz casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
-At will: darkness, detect evil and good, dispel magic
-3/day each: dominate person, haste
-1/day: incendiary cloud"
+- "desc": "Camazotz casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):\nAt will: darkness, detect evil and good, dispel magic\n3/day each: dominate person, haste\n1/day: incendiary cloud"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "Camazotz magically transforms into a Large giant bat covered in smoldering ashes, or back into his true form, which is a Fiend. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying transforms with him. He turns into a pile of greasy ash if destroyed."

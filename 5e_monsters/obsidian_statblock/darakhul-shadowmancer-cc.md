@@ -50,13 +50,7 @@ aliases: ["darakhul-shadowmancer", "Darakhul Shadowmancer-cc"]
   "name": "Sunlight Sensitivity"
 - "desc": "The darakhul shadowmancer and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead."
   "name": "Turning Defiance"
-- "desc": "The darakhul shadowmancer is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared: 
-Cantrips (at will): acid splash, chill touch, mage hand, prestidigitation
-1st level (4 slots): mage armor, ray of sickness, silent image
-2nd level (3 slots): misty step, scorching ray, see invisibility
-3rd level (3 slots): animate dead, dispel magic, stinking cloud
-4th level (2 slots): arcane eye, black tentacles, confusion
-5th level (1 slot): teleportation circle"
+- "desc": "The darakhul shadowmancer is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared: \nCantrips (at will): acid splash, chill touch, mage hand, prestidigitation\n1st level (4 slots): mage armor, ray of sickness, silent image\n2nd level (3 slots): misty step, scorching ray, see invisibility\n3rd level (3 slots): animate dead, dispel magic, stinking cloud\n4th level (2 slots): arcane eye, black tentacles, confusion\n5th level (1 slot): teleportation circle"
   "name": "Spellcasting"
 "actions":
 - "desc": "The darakhul shadowmancer makes two attacks: one with its bite and one with its dagger."

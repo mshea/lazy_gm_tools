@@ -38,9 +38,7 @@ aliases: ["ink-guardian", "Ink Guardian-cc"]
 "traits":
 - "desc": "The ink guardian can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
-- "desc": "When activated, the creature launches from its bottle, landing within 20 feet of the bottle. It starts as Tiny, and at the start of each of its turns, it increases in size by one step to a maximum of Large.
-
-When the ink guardian is defeated, the bottle becomes inactive for 3d8 hours. After that time, the ink guardian regains all its hp and is active again. The bottle has AC of 20, 10 hp, and is immune to damage that isn't bludgeoning. If the bottle is destroyed, the ink guardian dies and can't rejuvenate."
+- "desc": "When activated, the creature launches from its bottle, landing within 20 feet of the bottle. It starts as Tiny, and at the start of each of its turns, it increases in size by one step to a maximum of Large.\n\nWhen the ink guardian is defeated, the bottle becomes inactive for 3d8 hours. After that time, the ink guardian regains all its hp and is active again. The bottle has AC of 20, 10 hp, and is immune to damage that isn't bludgeoning. If the bottle is destroyed, the ink guardian dies and can't rejuvenate."
   "name": "Bottled Rejuvenation"
 - "desc": "A creature that touches the ink guardian or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. The ink guardian can eat through flesh quickly, but it doesn't harm metal, wood, or paper."
   "name": "Selectively Caustic"

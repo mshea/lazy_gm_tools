@@ -41,9 +41,7 @@ aliases: ["willowhaunt", "Willowhaunt-tob2"]
 "damage_immunities": "necrotic, poison"
 "damage_resistances": "lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 "traits":
-- "desc": "The willowhaunt’s skeletal form is covered with a magical illusion that makes it look like a living willow tree. The willowhaunt can use a bonus action to dismiss this illusion until the end of its next turn.
-
-The changes wrought by this illusion fail to hold up to physical inspection. For example, the willowhaunt’s trunk appears to be made of bark, but someone touching it would feel the tree’s polished bones. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern the willowhaunt’s true appearance."
+- "desc": "The willowhaunt’s skeletal form is covered with a magical illusion that makes it look like a living willow tree. The willowhaunt can use a bonus action to dismiss this illusion until the end of its next turn.\n\nThe changes wrought by this illusion fail to hold up to physical inspection. For example, the willowhaunt’s trunk appears to be made of bark, but someone touching it would feel the tree’s polished bones. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern the willowhaunt’s true appearance."
   "name": "Living Projection"
 "actions":
 - "desc": "The willowhaunt makes two slam attacks."

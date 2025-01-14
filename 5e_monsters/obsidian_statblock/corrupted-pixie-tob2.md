@@ -38,9 +38,7 @@ aliases: ["corrupted-pixie", "Corrupted Pixie-tob2"]
 "traits":
 - "desc": "The pixie has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The pixie’s innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-At will: vicious mockery
-1/day each: bestow curse, charm person, confusion, detect thoughts, dispel magic, fire bolt, hideous laughter, ray of enfeeblement, suggestion"
+- "desc": "The pixie’s innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: vicious mockery\n1/day each: bestow curse, charm person, confusion, detect thoughts, dispel magic, fire bolt, hideous laughter, ray of enfeeblement, suggestion"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The pixie touches one creature. The target must succeed on a DC 12 Wisdom saving throw or use its reaction to make one melee attack against one of its allies within 5 feet. If it has no allies within 5 feet, the creature attacks itself."

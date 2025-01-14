@@ -63,10 +63,7 @@ aliases: ["lunardevil-tob1-2023", "Lunar Devil-tob2023"]
   "name": "Hurl Moonlight"
 - "desc": "The lunar devil magically calls 1d4 giant owls that are Fiends with the lunar devil’s damage resistances and immunities (but not its Light Incorporeality trait). The lunar devil has a 25 percent chance of calling one lunar devil instead. The called creatures arrive in 1d4 rounds, acting as allies of the devil and obeying its telepathic commands. The creatures remain for 1 hour, until the devil dies, or until the devil dismisses them as a bonus action."
   "name": "Summon Devil (1/Day)"
-- "desc": "The lunar devil casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
-At will: fly, major image
-3/day: greater invisibility
-1/day: wall of ice"
+- "desc": "The lunar devil casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):\nAt will: fly, major image\n3/day: greater invisibility\n1/day: wall of ice"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

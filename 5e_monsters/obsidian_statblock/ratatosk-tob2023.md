@@ -49,10 +49,7 @@ aliases: ["ratatosk-tob1-2023", "Ratatosk-tob2023"]
   "name": "Annoying Chitter"
 - "desc": "The ratatosk causes division and strife in up to four creatures it can see within 30 feet of it. Each target must succeed on a DC 14 Charisma saving throw or be irritated for 1 minute. While irritated, a creature must spend its action on each of its turns arguing with, complaining about, or otherwise expressing unhappiness toward one of its allies over a trivial matter. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Divisive Chatter (Recharge 5–6)"
-- "desc": "The ratatosk casts one of the following spells, requiring no material or somatic components and using Charisma as the spellcasting ability (save DC 14):
-At will: animal messenger, message
-3/day each: sending, suggestion
-1/day: commune (as an action)"
+- "desc": "The ratatosk casts one of the following spells, requiring no material or somatic components and using Charisma as the spellcasting ability (save DC 14):\nAt will: animal messenger, message\n3/day each: sending, suggestion\n1/day: commune (as an action)"
   "name": "Spellcasting"
 "reactions":
 - "desc": "When a creature the ratatosk can see targets it with an attack, the ratatosk tells a lie while pointing to another creature within 5 feet of it. The attacker must succeed on a DC 14 Wisdom saving throw or believe the lie and attack the other creature instead."

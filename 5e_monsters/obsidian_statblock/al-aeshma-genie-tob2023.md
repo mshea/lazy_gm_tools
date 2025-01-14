@@ -47,10 +47,7 @@ aliases: ["al-aeshmagenie-tob1-2023", "Al-Aeshma Genie-tob2023"]
   "name": "Scimitar"
 - "desc": "The al-aeshma creates a swirling dust devil centered on a point it can see within 120 feet of it. The dust devil appears in the shape of a cylinder that is 30 feet tall with a 5-foot radius. Each creature in the area and each creature that enters the area for the first time on a turn or starts its turn there must succeed on a DC 17 Strength saving throw or be restrained. While restrained, a creature takes 7 (2d6) slashing damage and 7 (2d6) necrotic damage at the start of each of the al-aeshma’s turns. A creature, including a restrained creature, can take an action to free the restrained creature by succeeding on a DC 17 Strength check."
   "name": "Dust Devil"
-- "desc": "The al-aeshma casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
-At will: detect magic
-3/day each: create or destroy water (destroy only), wind walk (as an action)
-1/day each: gaseous form, invisibility"
+- "desc": "The al-aeshma casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):\nAt will: detect magic\n3/day each: create or destroy water (destroy only), wind walk (as an action)\n1/day each: gaseous form, invisibility"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

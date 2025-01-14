@@ -49,13 +49,7 @@ aliases: ["incarnate-gloom", "Incarnate Gloom-tob2"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 19 (4d6 + 5) psychic damage."
   "name": "Despairing Touch"
-- "desc": "The incarnate gloom moves up to its speed. While doing so, it can enter Huge or smaller creatures’ spaces. Whenever the gloom enters a creature’s space, the creature must make a DC 18 Dexterity saving throw.
-
-On a successful save, the creature can choose to sidestep to just outside the gloom’s space. A creature that chooses not to sidestep suffers the consequences of a failed saving throw.
-
-On a failed save, the gloom enters the creature’s space, the creature takes 18 (4d8) necrotic damage, suffers one level of exhaustion, and is engulfed in shadow. The engulfed creature is blinded and restrained, it has total cover against attacks and other effects outside the gloom, and it takes 18 (4d8) necrotic damage at the start of each of the gloom’s turns. When the gloom moves, the engulfed creature doesn’t move with it.
-
-An engulfed creature can try to escape by taking an action to make a DC 18 Wisdom check. On a success, the creature escapes the gloom and enters a space of its choice within 5 feet of the gloom."
+- "desc": "The incarnate gloom moves up to its speed. While doing so, it can enter Huge or smaller creatures’ spaces. Whenever the gloom enters a creature’s space, the creature must make a DC 18 Dexterity saving throw.\n\nOn a successful save, the creature can choose to sidestep to just outside the gloom’s space. A creature that chooses not to sidestep suffers the consequences of a failed saving throw.\n\nOn a failed save, the gloom enters the creature’s space, the creature takes 18 (4d8) necrotic damage, suffers one level of exhaustion, and is engulfed in shadow. The engulfed creature is blinded and restrained, it has total cover against attacks and other effects outside the gloom, and it takes 18 (4d8) necrotic damage at the start of each of the gloom’s turns. When the gloom moves, the engulfed creature doesn’t move with it.\n\nAn engulfed creature can try to escape by taking an action to make a DC 18 Wisdom check. On a success, the creature escapes the gloom and enters a space of its choice within 5 feet of the gloom."
   "name": "Engulf in Shadow"
 source:
 - [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition)

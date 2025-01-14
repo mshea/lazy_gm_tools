@@ -41,11 +41,7 @@ aliases: ["ouroban", "Ouroban-cc"]
   "name": "Devastate (Recharge 5-6)"
 - "desc": "Whenever the ouroban is subjected to fire damage, it takes no damage and instead regains a number of hp equal to the fire damage dealt."
   "name": "Fire Absorption"
-- "desc": "The ouroban is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It has the following paladin spells prepared:
-1st level (4 slots): command, cure wounds, detect evil and good, detect magic, divine favor (fire damage instead of radiant)
-2nd level (3 slots): branding smite, lesser restoration, zone of truth
-3rd level (3 slots): dispel magic, elemental weapon
-4th level (1 slot): banishment"
+- "desc": "The ouroban is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It has the following paladin spells prepared:\n1st level (4 slots): command, cure wounds, detect evil and good, detect magic, divine favor (fire damage instead of radiant)\n2nd level (3 slots): branding smite, lesser restoration, zone of truth\n3rd level (3 slots): dispel magic, elemental weapon\n4th level (1 slot): banishment"
   "name": "Spellcasting"
 "actions":
 - "desc": "The ouroban makes three attacks with its greatsword."
@@ -56,9 +52,7 @@ aliases: ["ouroban", "Ouroban-cc"]
   "name": "Heavy Crossbow"
 - "desc": "The ouroban exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge after a Short or Long Rest)"
-- "desc": "The ouroban summons green flames under up to five creatures within 30 feet of it. Each target must succeed on a DC 17 Dexterity saving throw or take 18 (4d8) fire damage and be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a success.
-
-The ouroban has advantage on attack rolls and ability checks against a creature poisoned by its Abyssal Fires."
+- "desc": "The ouroban summons green flames under up to five creatures within 30 feet of it. Each target must succeed on a DC 17 Dexterity saving throw or take 18 (4d8) fire damage and be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a success.\n\nThe ouroban has advantage on attack rolls and ability checks against a creature poisoned by its Abyssal Fires."
   "name": "Abyssal Fires (Recharges after a Short or Long Rest)"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

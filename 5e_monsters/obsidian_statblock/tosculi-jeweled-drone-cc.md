@@ -39,9 +39,7 @@ aliases: ["tosculi-jeweled-drone", "Tosculi Jeweled Drone-cc"]
 "traits":
 - "desc": "The jeweled drone emits a sweet scent that empowers other tosculi within 15 feet of the drone. A tosculi that starts its turn within the area can add a d6 to one attack roll or saving throw it makes before the start of its next turn, provided it can smell the scent. A tosculi can benefit from only one Pheromones die at a time. This effect ends if the jeweled drone dies."
   "name": "Pheromones"
-- "desc": "While in bright light, the jeweled drone's carapace shines and glitters. When a non-tosculi creature that can see the drone starts its turn within 30 feet of the drone, the drone can force the creature to make a DC 12 Wisdom saving throw if the drone isn't incapacitated. On a failure, the creature is blinded until the start of its next turn.
-
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the drone until the start of its next turn, when it can avert its eyes again. If it looks at the drone in the meantime, it must immediately make the save."
+- "desc": "While in bright light, the jeweled drone's carapace shines and glitters. When a non-tosculi creature that can see the drone starts its turn within 30 feet of the drone, the drone can force the creature to make a DC 12 Wisdom saving throw if the drone isn't incapacitated. On a failure, the creature is blinded until the start of its next turn.\n\nUnless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the drone until the start of its next turn, when it can avert its eyes again. If it looks at the drone in the meantime, it must immediately make the save."
   "name": "Scintillating Carapace"
 "actions":
 - "desc": "The jeweled drone makes three attacks: two with its claws and one with its scimitar."

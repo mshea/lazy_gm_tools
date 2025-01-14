@@ -48,10 +48,7 @@ aliases: ["king-kobold", "King Kobold-cc"]
   "name": "Sneak Attack (1/Turn)"
 - "desc": "While in sunlight, the king has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight."
   "name": "Sunlight Sensitivity"
-- "desc": "The king kobold is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared: 
-Cantrips (at will): fire bolt, mage hand, minor illusion, poison spray
-1st level (4 slots): alarm, grease, mage armor
-2nd level (3 slots): alter self, hold person, invisibility"
+- "desc": "The king kobold is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared: \nCantrips (at will): fire bolt, mage hand, minor illusion, poison spray\n1st level (4 slots): alarm, grease, mage armor\n2nd level (3 slots): alter self, hold person, invisibility"
   "name": "Spellcasting"
 "actions":
 - "desc": "The king kobold makes two shortsword attacks."

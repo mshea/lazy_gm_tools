@@ -37,10 +37,7 @@ aliases: ["kitsune", "Kitsune-cc"]
 "traits":
 - "desc": "The kitsune can use its action to polymorph into a Small or Medium humanoid, or back into its true form. The kitsune's tails remain, however, and its humanoid form often has a fine coat of fur the same color as the kitsune. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "The kitsune's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). The kitsune can innately cast the following spells, requiring no material components:
-At will: detect thoughts, fire bolt (2d10), invisibility (self only), major image
-2/day each: disguise self, fear, tongues
-1/day each: confusion, fly"
+- "desc": "The kitsune's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). The kitsune can innately cast the following spells, requiring no material components:\nAt will: detect thoughts, fire bolt (2d10), invisibility (self only), major image\n2/day each: disguise self, fear, tongues\n1/day each: confusion, fly"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "In humanoid form, the kitsune makes one rapier attack and one dagger attack. In fox form, it makes two bite attacks."

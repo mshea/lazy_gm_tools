@@ -62,9 +62,7 @@ aliases: ["adult-light-dragon", "Adult Light Dragon-cc"]
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
-- "desc": "The dragon uses one of the following breath weapons:
-Radiant Breath. The dragon exhales radiant energy in a 60-foot cone. Each creature in that area must make a DC 19 Dexterity saving throw, taking 55 (10d10) radiant damage on a failed save, or half as much damage on a successful one.
-Flaring Breath. The dragon emits a flash of dazzling light from its maw in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 19 Wisdom saving throw or be turned for 1 minute. Undead of CR 2 or lower who fail the saving throw are instantly destroyed."
+- "desc": "The dragon uses one of the following breath weapons:\nRadiant Breath. The dragon exhales radiant energy in a 60-foot cone. Each creature in that area must make a DC 19 Dexterity saving throw, taking 55 (10d10) radiant damage on a failed save, or half as much damage on a successful one.\nFlaring Breath. The dragon emits a flash of dazzling light from its maw in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 19 Wisdom saving throw or be turned for 1 minute. Undead of CR 2 or lower who fail the saving throw are instantly destroyed."
   "name": "Breath Weapon (Recharge 5-6)"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom (Perception) check."

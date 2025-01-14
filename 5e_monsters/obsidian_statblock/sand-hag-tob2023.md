@@ -52,9 +52,7 @@ aliases: ["sandhag-tob1-2023", "Sand Hag-tob2023"]
   "name": "Illusory Appearance"
 - "desc": "The sand hag generates a blast of hot wind and sand in a 30-foot cone. Each creature in the area must make a DC 14 Constitution saving throw. On a failure, a creature takes 14 (4d6) slashing damage and 9 (2d8) fire damage and is blinded for 1 minute. On a success, a creature takes half the damage and isn’t blinded. A blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The area is heavily obscured by airborne sand until the start of the sand hag’s next turn."
   "name": "Scouring Sirocco (Recharge 5–6)"
-- "desc": "The sand hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
-At will: silent image
-3/day each: hallucinatory terrain (as an action), major image"
+- "desc": "The sand hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):\nAt will: silent image\n3/day each: hallucinatory terrain (as an action), major image"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

@@ -44,9 +44,7 @@ aliases: ["shadow-giant", "Shadow Giant-tob2"]
   "name": "Shadow Sight"
 - "desc": "At the end of each of the shadow giant’s turns, it must roll a d20. On a roll of 11 or higher, it enters the Plane of"
   "name": "Umbral Glimmer"
-- "desc": "At the start of its next turn, it returns to the Material Plane in an unoccupied space of its choice that it can see within 40 feet of the space where it vanished. If no unoccupied space is available within that range, it appears in the nearest unoccupied space.
-
-While in the Plane of Shadow, the shadow giant can see and hear 120 feet into the Material"
+- "desc": "At the start of its next turn, it returns to the Material Plane in an unoccupied space of its choice that it can see within 40 feet of the space where it vanished. If no unoccupied space is available within that range, it appears in the nearest unoccupied space.\n\nWhile in the Plane of Shadow, the shadow giant can see and hear 120 feet into the Material"
   "name": "Shadow from the Material Plane"
 - "desc": "It can’t affect or be affected by anything on the Material Plane while in the Plane of Shadow."
   "name": "Plane"

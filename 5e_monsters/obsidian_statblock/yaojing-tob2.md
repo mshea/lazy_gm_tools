@@ -45,10 +45,7 @@ aliases: ["yaojing", "Yaojing-tob2"]
   "name": "Magic Weapons"
 - "desc": "If the yaojing moves at least 10 feet on its turn, attack rolls against it have disadvantage until the start of its next turn."
   "name": "Motion Blur"
-- "desc": "The yaojing’s innate spellcasting ability is Charisma (spell save DC 18). It can innately cast the following spells, requiring no verbal or material components.
-At will: detect evil and good, silence
-3/day each: beacon of hope, bestow curse
-1/day each: death ward, dispel evil and good"
+- "desc": "The yaojing’s innate spellcasting ability is Charisma (spell save DC 18). It can innately cast the following spells, requiring no verbal or material components.\nAt will: detect evil and good, silence\n3/day each: beacon of hope, bestow curse\n1/day each: death ward, dispel evil and good"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The yaojing uses Blasphemer’s Bane. It then makes three attacks."

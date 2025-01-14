@@ -37,9 +37,7 @@ aliases: ["zeitgeist", "Zeitgeist-tob2"]
 "traits":
 - "desc": "The zeitgeist can take the Dash or Disengage action as a bonus action on each of its turns."
   "name": "Darting Escape (Darting Form Only)"
-- "desc": "At the start of each of the zeitgeist’s turns, roll a die. On an even roll, its body stretches and speeds up as it takes on a darting form. On an odd roll, its body becomes more solid and slows down as it takes on a sluggish form. Its statistics are the same in each form, except as noted here.
-* Darting Form. While in a Darting form, the zeitgeist’s Armor Class increases by 2, and its speed is 40 feet.
-* Sluggish Form. While in a Sluggish form, the zeitgeist has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks, and its speed is 20 feet."
+- "desc": "At the start of each of the zeitgeist’s turns, roll a die. On an even roll, its body stretches and speeds up as it takes on a darting form. On an odd roll, its body becomes more solid and slows down as it takes on a sluggish form. Its statistics are the same in each form, except as noted here.\n* Darting Form. While in a Darting form, the zeitgeist’s Armor Class increases by 2, and its speed is 40 feet.\n* Sluggish Form. While in a Sluggish form, the zeitgeist has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks, and its speed is 20 feet."
   "name": "Timewarped Body"
 "actions":
 - "desc": "In its darting form, the zeitgeist makes three darting rend attacks. In its sluggish form, the zeitgeist makes two sluggish slam attacks."

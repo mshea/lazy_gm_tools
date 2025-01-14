@@ -39,14 +39,7 @@ aliases: ["void-giant", "Void Giant-cc"]
 "traits":
 - "desc": "As a bonus action, the void giant can infuse a spell with void magic. One creature that is hit by that spell or who fails a saving throw against that spell is stunned until the end of the creature's next turn."
   "name": "Void Casting"
-- "desc": "The void giant is an 11th-level spellcaster. Its spellcasting ability is Intelligence (save DC 16, +8 to hit with spell attacks). The void giant has the following wizard spells prepared: 
-Cantrips (at will): chill touch, light, mending, shocking grasp
-1st level (4 slots): comprehend languages, magic missile, shield
-2nd level (3 slots): crown of madness, mirror image, scorching ray
-3rd level (3 slots): counterspell, fly, lightning bolt
-4th level (3 slots): confusion, ice storm, phantasmal killer
-5th level (2 slots): cone of cold, dominate person
-6th level (1 slot): disintegrate"
+- "desc": "The void giant is an 11th-level spellcaster. Its spellcasting ability is Intelligence (save DC 16, +8 to hit with spell attacks). The void giant has the following wizard spells prepared: \nCantrips (at will): chill touch, light, mending, shocking grasp\n1st level (4 slots): comprehend languages, magic missile, shield\n2nd level (3 slots): crown of madness, mirror image, scorching ray\n3rd level (3 slots): counterspell, fly, lightning bolt\n4th level (3 slots): confusion, ice storm, phantasmal killer\n5th level (2 slots): cone of cold, dominate person\n6th level (1 slot): disintegrate"
   "name": "Spellcasting"
 "actions":
 - "desc": "The void giant makes two slam attacks."

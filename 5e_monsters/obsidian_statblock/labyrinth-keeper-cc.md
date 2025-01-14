@@ -41,9 +41,7 @@ aliases: ["labyrinth-keeper", "Labyrinth Keeper-cc"]
   "name": "Labyrinthine Recall"
 - "desc": "At the start of its turn, the minotaur labyrinth keeper can gain advantage on all spell attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn."
   "name": "Reckless Caster"
-- "desc": "The minotaur labyrinth keeper's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-At will: acid arrow, fire bolt, locate object, misty step
-2/day each: inflict wounds, stone shape"
+- "desc": "The minotaur labyrinth keeper's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: acid arrow, fire bolt, locate object, misty step\n2/day each: inflict wounds, stone shape"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The minotaur labyrinth keeper makes two attacks: one with its gore and one with its shortsword."

@@ -42,9 +42,7 @@ aliases: ["bathhouse-drake", "Bathhouse Drake-cc"]
   "name": "Amphibious"
 - "desc": "The bathhouse drake has advantage on ability checks and saving throws made to escape a grapple."
   "name": "Soapy"
-- "desc": "The bathhouse drake's innate spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-At will: create or destroy water, misty step, prestidigitation
-3/day each: control water, fog cloud, gaseous form, lesser restoration"
+- "desc": "The bathhouse drake's innate spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: create or destroy water, misty step, prestidigitation\n3/day each: control water, fog cloud, gaseous form, lesser restoration"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The bathhouse drake makes three melee attacks: one with its bite and two with its claws. Alternatively, it can use Scalding Jet twice."

@@ -49,9 +49,7 @@ aliases: ["zouyu", "Zouyu-tob2"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage."
   "name": "Claw"
-- "desc": "The zouyu flicks its vibrant, multi-stranded tail and alters the luck of one creature it can see within 30 feet of it, choosing one of the following luck options. The zouyu can’t target itself with Alter Luck. 
-* Bestow Luck. The target has advantage on the next ability check, attack roll, or saving throw (zouyu’s choice) it makes before the end of its next turn. 
-* Steal Luck. The target must succeed on a DC 15 Wisdom saving throw or have disadvantage on the next ability check, attack roll, or saving throw (zouyu’s choice) it makes before the end of its next turn. If the target fails the saving throw, the zouyu has advantage on one attack roll or saving throw it makes before the start of its next turn."
+- "desc": "The zouyu flicks its vibrant, multi-stranded tail and alters the luck of one creature it can see within 30 feet of it, choosing one of the following luck options. The zouyu can’t target itself with Alter Luck. \n* Bestow Luck. The target has advantage on the next ability check, attack roll, or saving throw (zouyu’s choice) it makes before the end of its next turn. \n* Steal Luck. The target must succeed on a DC 15 Wisdom saving throw or have disadvantage on the next ability check, attack roll, or saving throw (zouyu’s choice) it makes before the end of its next turn. If the target fails the saving throw, the zouyu has advantage on one attack roll or saving throw it makes before the start of its next turn."
   "name": "Alter Luck"
 source:
 - [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition)

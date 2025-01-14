@@ -49,10 +49,7 @@ aliases: ["boloti-tob1-2023", "Boloti-tob2023"]
   "name": "Dagger (True Form Only)"
 - "desc": "One creature in the boloti’s space must make a DC 12 Strength saving throw. On a failure, the target takes 9 (2d8) bludgeoning damage, and if it is Medium or smaller, it is grappled (escape DC 12). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target takes half the damage and is pushed out of the boloti’s space."
   "name": "Whirlpool (Vortex Form Only)"
-- "desc": "(True Form Only)The boloti casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 11):
-At will: water breathing, water walk
-3/day each: create or destroy water, fog cloud, sleep
-1/day: control water"
+- "desc": "(True Form Only)The boloti casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 11):\nAt will: water breathing, water walk\n3/day each: create or destroy water, fog cloud, sleep\n1/day: control water"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "The boloti magically transforms into a Small vortex of swirling, churning water or back into its true form, which is Fey. The boloti can transform into its vortex form only while at least half of its body is submerged in water, and any creature it is grappling with Whirlpool is freed if the boloti transforms back to its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its true form if it dies."

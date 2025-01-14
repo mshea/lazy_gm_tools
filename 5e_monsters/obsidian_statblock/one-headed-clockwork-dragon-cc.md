@@ -40,11 +40,7 @@ aliases: ["one-headed-clockwork-dragon", "One-Headed Clockwork Dragon-cc"]
 "cr": "8"
 "damage_immunities": "poison, psychic"
 "traits":
-- "desc": "The dragon is magically bound to three circlets. As long as the dragon is within 1 mile of a circlet wearer on the same plane of existence, the wearer can communicate telepathically with the dragon. While the dragon is active, the wearers see through its eyes and hear what it hears. During this time, the wearers are deaf and blind with regard to their own senses. 
-
-If only two circlet wearers are within 1 mile of the active dragon, each hour spent wearing the circlets imposes one level of exhaustion on those wearers. If only a single wearer is within 1 mile of the active dragon, each minute spent wearing the circlet gives that wearer one level of exhaustion. If no circlet wearers are within 1 mile of the dragon, it views all creatures it can see as enemies and tries to destroy them until a circlet wearer communicates with the dragon or the dragon is destroyed. A circlet wearer can use its action to put the dragon in an inactive state where it becomes incapacitated until a wearer uses an action to switch the dragon to active. 
-
-Each circlet is a magic item that must be attuned."
+- "desc": "The dragon is magically bound to three circlets. As long as the dragon is within 1 mile of a circlet wearer on the same plane of existence, the wearer can communicate telepathically with the dragon. While the dragon is active, the wearers see through its eyes and hear what it hears. During this time, the wearers are deaf and blind with regard to their own senses. \n\nIf only two circlet wearers are within 1 mile of the active dragon, each hour spent wearing the circlets imposes one level of exhaustion on those wearers. If only a single wearer is within 1 mile of the active dragon, each minute spent wearing the circlet gives that wearer one level of exhaustion. If no circlet wearers are within 1 mile of the dragon, it views all creatures it can see as enemies and tries to destroy them until a circlet wearer communicates with the dragon or the dragon is destroyed. A circlet wearer can use its action to put the dragon in an inactive state where it becomes incapacitated until a wearer uses an action to switch the dragon to active. \n\nEach circlet is a magic item that must be attuned."
   "name": "Bound"
 - "desc": "The dragon is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"

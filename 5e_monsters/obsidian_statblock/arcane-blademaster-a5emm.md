@@ -44,37 +44,7 @@ aliases: ["arcane-blademaster-a5e", "Arcane Blademaster-a5emm"]
   "name": "Steel Focus"
 - "desc": "While wearing heavy armor, the blademaster reduces any bludgeoning, piercing, or slashing damage they take from nonmagical weapons by 5."
   "name": "Superior Heavy Armor Master"
-- "desc": "The arcane blademaster is a 20th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 19
- +11 to hit with spell attacks). The arcane blademaster has the following wizard spells prepared:
- Cantrips (at will): acid splash
- fire bolt
- shocking grasp
- true strike
- 1st-level (4 slots): burning hands
- charm person
- magic missile
- sleep
- 2nd-level (3 slots): magic weapon
- misty step
- see invisibility
- 3rd-level (3 slots): dispel magic
- fireball
- fly
- lightning bolt
- tongues
- 4th-level (3 slots): fire shield
- stoneskin
- wall of fire
- 5th-level (3 slots): cone of cold
- conjure elemental
- hold monster
- telekinesis
- 6th-level (2 slots): globe of invulnerability
- sunbeam
- 7th-level (2 slots): teleport
- unholy star
- 8th-level (1 slot): power word stun
- 9th-level (1 slot): meteor swarm"
+- "desc": "The arcane blademaster is a 20th level spellcaster. Their spellcasting ability is Intelligence (spell save DC 19, +11 to hit with spell attacks). The arcane blademaster has the following wizard spells prepared:\n Cantrips (at will): acid splash, fire bolt, shocking grasp, true strike\n 1st-level (4 slots): burning hands, charm person, magic missile, sleep\n 2nd-level (3 slots): magic weapon, misty step, see invisibility\n 3rd-level (3 slots): dispel magic, fireball, fly, lightning bolt, tongues\n 4th-level (3 slots): fire shield, stoneskin, wall of fire\n 5th-level (3 slots): cone of cold, conjure elemental, hold monster, telekinesis\n 6th-level (2 slots): globe of invulnerability, sunbeam\n 7th-level (2 slots): teleport, unholy star\n 8th-level (1 slot): power word stun\n 9th-level (1 slot): meteor swarm"
   "name": "Spellcasting"
 "actions":
 - "desc": "The arcane blademaster attacks four times and casts a cantrip."

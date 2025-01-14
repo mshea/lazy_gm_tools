@@ -55,10 +55,7 @@ aliases: ["babayagashorsemen-tob1-2023", "Baba Yaga’s Horsemen-tob2023"]
   "name": "Longsword"
 - "desc": "Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 22 (4d6 + 4) damage of the type defined in Enchanted Weapons."
   "name": "Horseman’s Bolt"
-- "desc": "The horseman casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
-3/day: phantom steed (as an action)
-2/day each: darkness (black night horseman only), daylight (bright day and red sun horsemen only), dimension door, fire shield
-1/day: plane shift (self and mount only)"
+- "desc": "The horseman casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):\n3/day: phantom steed (as an action)\n2/day each: darkness (black night horseman only), daylight (bright day and red sun horsemen only), dimension door, fire shield\n1/day: plane shift (self and mount only)"
   "name": "Spellcasting"
 "bonus_actions":
 - "desc": "One creature the horseman can see and that the horseman hit with a Horseman’s Bolt or Longsword attack within the last minute must succeed on a DC 17 Constitution saving throw or age 16 (3d10) years. A creature that ages this way has disadvantage on attack rolls, ability checks, and saving throws that use Strength, Dexterity, and Constitution until the aging is reversed. A creature that ages beyond its lifespan dies immediately. The aging lasts until the creature finishes a long rest, or until it is reversed by a greater restoration spell or similar magic. On a successful saving throw, the creature is immune to the horseman’s Temporal Strike for 24 hours."

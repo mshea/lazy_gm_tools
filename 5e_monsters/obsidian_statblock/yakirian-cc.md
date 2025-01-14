@@ -45,10 +45,7 @@ aliases: ["yakirian", "Yakirian-cc"]
   "name": "Gore"
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
   "name": "Ritual Knife"
-- "desc": "The yakiran consumes the heart of a dead humanoid or giant within 5 feet. If the creature also less than 1 minute ago, the yakirian gains the following benefits: 
-* The yakirian absorbs the dead creature's knowledge and asks two questions. If the dead creature knew the answers in life, the yakirian learns them instantly. 
-* The yakirian's maximum and current hp increase by 10 for 1 hour. 
-* The yakirian has advantage on Strength-based attack rolls and ability checks, as well as on all saving throws for 1 hour."
+- "desc": "The yakiran consumes the heart of a dead humanoid or giant within 5 feet. If the creature also less than 1 minute ago, the yakirian gains the following benefits: \n* The yakirian absorbs the dead creature's knowledge and asks two questions. If the dead creature knew the answers in life, the yakirian learns them instantly. \n* The yakirian's maximum and current hp increase by 10 for 1 hour. \n* The yakirian has advantage on Strength-based attack rolls and ability checks, as well as on all saving throws for 1 hour."
   "name": "Consume Heart"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

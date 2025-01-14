@@ -39,19 +39,7 @@ aliases: ["spirit-naga-a5e", "Spirit Naga-a5emm"]
   "name": "Amphibious"
 - "desc": "If it dies, the naga gains a new body in 1d6 days, regaining all its hit points. This trait can be removed with a wish spell."
   "name": "Rejuvenation"
-- "desc": "The naga is a 9th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14). The naga has the following wizard spells prepared
- which it can cast with only vocalized components:
- Cantrips (at will): mage hand
- minor illusion
- 1st-level (4 slots): charm person
- shield
- 2nd-level (3 slots): detect thoughts
- levitate
- 3rd-level (3 slots) hypnotic pattern
- lightning bolt
- 4th-level (3 slots): arcane eye
- blight
- 5th-level (1 slots): dominate person"
+- "desc": "The naga is a 9th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14). The naga has the following wizard spells prepared, which it can cast with only vocalized components:\n Cantrips (at will): mage hand, minor illusion\n 1st-level (4 slots): charm person, shield\n 2nd-level (3 slots): detect thoughts, levitate\n 3rd-level (3 slots) hypnotic pattern, lightning bolt\n 4th-level (3 slots): arcane eye, blight\n 5th-level (1 slots): dominate person"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) piercing damage. The target makes a DC 15 Constitution saving throw  taking 28 (8d6) poison damage on a failure or half damage on a success."

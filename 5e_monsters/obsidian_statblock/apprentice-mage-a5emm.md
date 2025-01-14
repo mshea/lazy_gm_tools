@@ -36,14 +36,7 @@ aliases: ["apprentice-mage-a5e", "Apprentice Mage-a5emm"]
 "languages": "any one"
 "cr": "1/2"
 "traits":
-- "desc": "The apprentice mage is a 2nd level spellcaster. Their spellcasting ability is Intelligence (spell save DC 12
- +4 to hit with spell attacks). They have the following wizard spells prepared:
- Cantrips (at will): fire bolt
- light
- prestidigitation
- 1st-level (3 slots): detect magic
- magic missile
- shield"
+- "desc": "The apprentice mage is a 2nd level spellcaster. Their spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). They have the following wizard spells prepared:\n Cantrips (at will): fire bolt, light, prestidigitation\n 1st-level (3 slots): detect magic, magic missile, shield"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 2 (1d4) piercing damage."

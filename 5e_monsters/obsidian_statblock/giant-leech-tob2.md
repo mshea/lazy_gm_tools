@@ -38,9 +38,7 @@ aliases: ["giant-leech", "Giant Leech-tob2"]
 - "desc": "The leech can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the leech attaches to the target. While attached, the leech doesn’t attack. Instead, at the start of each of the leech’s turns, the target loses 5 (1d4 + 3) hp due to blood loss.
-
-The leech can detach itself by spending 5 feet of its movement. It does so after it drains 15 hp of blood from the target or the target dies. A creature, including the target, can use its action to detach the leech."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the leech attaches to the target. While attached, the leech doesn’t attack. Instead, at the start of each of the leech’s turns, the target loses 5 (1d4 + 3) hp due to blood loss.\n\nThe leech can detach itself by spending 5 feet of its movement. It does so after it drains 15 hp of blood from the target or the target dies. A creature, including the target, can use its action to detach the leech."
   "name": "Bite"
 source:
 - [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition)

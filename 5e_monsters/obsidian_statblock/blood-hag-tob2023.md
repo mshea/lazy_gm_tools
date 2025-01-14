@@ -53,9 +53,7 @@ aliases: ["bloodhag-tob1-2023", "Blood Hag-tob2023"]
   "name": "Face Peel"
 - "desc": "The blood hag curses one creature she can see or sense within 60 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed for 1 minute. A creature automatically succeeds on this saving throw if it doesn’t have blood. While cursed, the target is incapacitated and takes 9 (2d8) necrotic damage at the start of each of its turns as its internal blood vessels rupture. The cursed target can repeat the saving throw at the end of each of its turns, ending the curse on itself on a success."
   "name": "Sanguine Curse"
-- "desc": "The blood hag casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 17):
-At will: disguise self, knock, tongues
-3/day each: modify memory, pass without trace"
+- "desc": "The blood hag casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 17):\nAt will: disguise self, knock, tongues\n3/day each: modify memory, pass without trace"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

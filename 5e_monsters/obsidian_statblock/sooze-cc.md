@@ -38,9 +38,7 @@ aliases: ["sooze", "Sooze-cc"]
 "traits":
 - "desc": "The sooze, including its equipment, can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
-- "desc": "Choose either the Laborer or Warrior trait. 
-* Laborer. The sooze is strong and tireless. It gains immunity to exhaustion and can Dash as a bonus action 3 times each day. 
-* Warrior. The sooze is trained and equipped as a warrior. Its Armor Class increases by 2. The sooze has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated."
+- "desc": "Choose either the Laborer or Warrior trait. \n* Laborer. The sooze is strong and tireless. It gains immunity to exhaustion and can Dash as a bonus action 3 times each day. \n* Warrior. The sooze is trained and equipped as a warrior. Its Armor Class increases by 2. The sooze has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated."
   "name": "Multiple Roles"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage and 2 (1d4) acid damage."

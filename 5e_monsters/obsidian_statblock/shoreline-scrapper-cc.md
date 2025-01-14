@@ -37,9 +37,7 @@ aliases: ["shoreline-scrapper", "Shoreline Scrapper-cc"]
 "traits":
 - "desc": "The shoreline scrapper can breathe air and water."
   "name": "Amphibious"
-- "desc": "At the start of each of the shoreline scrapper's turns, each creature within 5 feet of the scrapper must succeed on a DC 15 Strength saving throw or the metal items worn or carried by it stick to the scrapper's shell. A creature that is made of metal or is wearing metal armor that fails the saving throw is stuck to the shell and restrained. If the item is a weapon and the wielder can't or won't let go of the weapon, the wielder is adhered to the shell and is restrained. A stuck item can't be used. A creature can take its action to remove one creature or object from the shoreline scrapper's shell by succeeding on a DC 15 Strength check. 
-
-Items made of gold and silver are unaffected by the shoreline scrapper's Magnetic Shell. When the shoreline scrapper dies, all metal creatures and objects are released."
+- "desc": "At the start of each of the shoreline scrapper's turns, each creature within 5 feet of the scrapper must succeed on a DC 15 Strength saving throw or the metal items worn or carried by it stick to the scrapper's shell. A creature that is made of metal or is wearing metal armor that fails the saving throw is stuck to the shell and restrained. If the item is a weapon and the wielder can't or won't let go of the weapon, the wielder is adhered to the shell and is restrained. A stuck item can't be used. A creature can take its action to remove one creature or object from the shoreline scrapper's shell by succeeding on a DC 15 Strength check. \n\nItems made of gold and silver are unaffected by the shoreline scrapper's Magnetic Shell. When the shoreline scrapper dies, all metal creatures and objects are released."
   "name": "Magnetic Shell"
 - "desc": "The shoreline scrapper can pinpoint, by scent, the location of metals within 60 feet of it."
   "name": "Metal Sense"

@@ -47,9 +47,7 @@ aliases: ["young-light-dragon", "Young Light Dragon-cc"]
 "actions":
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage."
   "name": "Bite"
-- "desc": "The dragon uses one of the following breath weapons:
-Radiant Breath. The dragon exhales radiant energy in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 44 (8d10) radiant damage on a failed save, or half as much damage on a successful one.
-Flaring Breath. The dragon emits a flash of dazzling light from its maw in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 15 Wisdom saving throw or be turned for 1 minute. Undead of CR 1 or lower who fail the saving throw are instantly destroyed."
+- "desc": "The dragon uses one of the following breath weapons:\nRadiant Breath. The dragon exhales radiant energy in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 44 (8d10) radiant damage on a failed save, or half as much damage on a successful one.\nFlaring Breath. The dragon emits a flash of dazzling light from its maw in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 15 Wisdom saving throw or be turned for 1 minute. Undead of CR 1 or lower who fail the saving throw are instantly destroyed."
   "name": "Breath Weapon (Recharge 5-6)"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

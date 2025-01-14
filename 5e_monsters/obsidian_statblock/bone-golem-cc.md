@@ -36,9 +36,7 @@ aliases: ["bone-golem", "Bone Golem-cc"]
 "damage_immunities": "necrotic, poison, psychic"
 "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine"
 "traits":
-- "desc": "Whenever the bone golem starts its turn with 30 hp or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, usually an object smaller than itself. Once the golem goes berserk, it continues to attack until it is destroyed or it regains all its hp. 
-
-The golem's creator, if within 60 feet of the berserk golem, can calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 30 hp or fewer, the golem might go berserk again."
+- "desc": "Whenever the bone golem starts its turn with 30 hp or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, usually an object smaller than itself. Once the golem goes berserk, it continues to attack until it is destroyed or it regains all its hp. \n\nThe golem's creator, if within 60 feet of the berserk golem, can calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 30 hp or fewer, the golem might go berserk again."
   "name": "Berserk"
 - "desc": "While the bone golem remains motionless, it is indistinguishable from a pile of bones or ordinary, inanimate skeleton."
   "name": "False Appearance"

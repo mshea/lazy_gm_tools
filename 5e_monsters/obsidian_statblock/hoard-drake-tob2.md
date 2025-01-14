@@ -53,9 +53,7 @@ aliases: ["hoard-drake", "Hoard Drake-tob2"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage."
   "name": "Claws"
-- "desc": "The hoard drake spits molten gold in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw. On a failure, a creature takes 36 (8d8) fire damage and the gold clings to it. On a success, a creature takes half the damage and the gold doesn’t cling to it. A creature with gold clinging to it has its speed halved until it takes an action to scrape off the gold.
-
-The gold produced by Midas Breath can be collected once it has cooled, providing roughly 50 gp worth of gold dust and scraps each time it spits molten gold."
+- "desc": "The hoard drake spits molten gold in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw. On a failure, a creature takes 36 (8d8) fire damage and the gold clings to it. On a success, a creature takes half the damage and the gold doesn’t cling to it. A creature with gold clinging to it has its speed halved until it takes an action to scrape off the gold.\n\nThe gold produced by Midas Breath can be collected once it has cooled, providing roughly 50 gp worth of gold dust and scraps each time it spits molten gold."
   "name": "Midas Breath (Recharge 6)"
 source:
 - [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition)

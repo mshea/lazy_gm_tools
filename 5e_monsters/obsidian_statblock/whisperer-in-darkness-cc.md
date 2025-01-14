@@ -45,10 +45,7 @@ aliases: ["whisperer-in-darkness", "Whisperer in Darkness-cc"]
   "name": "Disquieting Technology"
 - "desc": "The whisperer has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The whisperer's innate spellcasting ability is Intelligence (spell save DC 20). The whisperer can innately cast the following spells, requiring no material components:
-At will: alter self, detect magic, detect thoughts, disguise self, fear, identify, invisibility (self only), misty step, sleep, suggestion
-3/day each: confusion, dimension door, disintegrate, dream, modify memory, plane shift, teleport
-1/day each: feeblemind, meteor swarm, mind blank, weird"
+- "desc": "The whisperer's innate spellcasting ability is Intelligence (spell save DC 20). The whisperer can innately cast the following spells, requiring no material components:\nAt will: alter self, detect magic, detect thoughts, disguise self, fear, identify, invisibility (self only), misty step, sleep, suggestion\n3/day each: confusion, dimension door, disintegrate, dream, modify memory, plane shift, teleport\n1/day each: feeblemind, meteor swarm, mind blank, weird"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The whisperer in the darkness makes two Grasp of the Void attacks."

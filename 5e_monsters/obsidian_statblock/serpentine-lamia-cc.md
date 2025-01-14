@@ -36,9 +36,7 @@ aliases: ["serpentine-lamia", "Serpentine Lamia-cc"]
 "languages": "Abyssal, Common"
 "cr": "1"
 "traits":
-- "desc": "When a humanoid that can see the serpentine lamia's eyes starts its turn within 30 feet of the serpentine lamia, the serpentine lamia can force it to make a DC 13 Charisma saving throw if the serpentine lamia isn't incapacitated and can see the creature. If the creature fails, it is charmed for 1 minute. The charmed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the serpentine lamia's Seductive Gaze for the next 24 hours. 
-
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the serpentine lamia until the start of its next turn, when it can avert its eyes again. If the creature looks at the serpentine lamia in the meantime, it must immediately make the save."
+- "desc": "When a humanoid that can see the serpentine lamia's eyes starts its turn within 30 feet of the serpentine lamia, the serpentine lamia can force it to make a DC 13 Charisma saving throw if the serpentine lamia isn't incapacitated and can see the creature. If the creature fails, it is charmed for 1 minute. The charmed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the serpentine lamia's Seductive Gaze for the next 24 hours. \n\nUnless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the serpentine lamia until the start of its next turn, when it can avert its eyes again. If the creature looks at the serpentine lamia in the meantime, it must immediately make the save."
   "name": "Seductive Gaze"
 - "desc": "The serpentine lamia has advantage on attack rolls against a creature it has surprised, or that is charmed by it or its allies."
   "name": "Serpent Strike"

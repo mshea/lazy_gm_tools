@@ -39,9 +39,7 @@ aliases: ["kobold-war-machine", "Kobold War Machine-tob2"]
 "traits":
 - "desc": "The kobold war machine is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
-- "desc": "The kobold war machine can either take an action or move up to its speed each turn, not both. The war machine can hold up to three Small operators. If it has at least one operator, it can move and act normally as long as the operator spends its entire turn operating the war machine. When it has more than one operator, it has additional traits as long as the additional operators spend their entire turns operating the war machine.
-
-If a creature scores a critical hit against the kobold war machine, the creature can target one of the operators with the attack instead. Otherwise, the operators can’t be targeted and are immune to damage while operating the kobold war machine."
+- "desc": "The kobold war machine can either take an action or move up to its speed each turn, not both. The war machine can hold up to three Small operators. If it has at least one operator, it can move and act normally as long as the operator spends its entire turn operating the war machine. When it has more than one operator, it has additional traits as long as the additional operators spend their entire turns operating the war machine.\n\nIf a creature scores a critical hit against the kobold war machine, the creature can target one of the operators with the attack instead. Otherwise, the operators can’t be targeted and are immune to damage while operating the kobold war machine."
   "name": "Operators"
 - "desc": "If the kobold war machine moves at least 15 feet straight toward a target and then hits it with a spiked wheel attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone."
   "name": "Ram Them! (Two or More Operators)"

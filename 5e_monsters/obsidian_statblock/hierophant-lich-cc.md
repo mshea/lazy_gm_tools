@@ -47,13 +47,7 @@ aliases: ["hierophant-lich", "Hierophant Lich-cc"]
   "name": "Rejuvenation"
 - "desc": "The hierophant lich has advantage on saving throws against any effect that turns undead."
   "name": "Turn Resistance"
-- "desc": "The lich is an 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The lich has the following cleric spells prepared:
-Cantrips (at will): guidance, mending, sacred flame, thaumaturgy
-1st level (4 slots): command, detect magic, protection from evil and good, sanctuary
-2nd level (3 slots): blindness/deafness, hold person, silence
-3rd level (3 slots): animate dead, dispel magic, spirit guardians
-4th level (3 slots): banishment, freedom of movement, guardian of faith
-5th level (1 slot): flame strike"
+- "desc": "The lich is an 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The lich has the following cleric spells prepared:\nCantrips (at will): guidance, mending, sacred flame, thaumaturgy\n1st level (4 slots): command, detect magic, protection from evil and good, sanctuary\n2nd level (3 slots): blindness/deafness, hold person, silence\n3rd level (3 slots): animate dead, dispel magic, spirit guardians\n4th level (3 slots): banishment, freedom of movement, guardian of faith\n5th level (1 slot): flame strike"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) bludgeoning plus 9 (2d8) necrotic damage. The target must succeed on a DC 17 Wisdom saving throw or be charmed for 1 minute. The charmed target must defend the hierophant. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. An undead target that fails is charmed for 24 hours and can only repeat the saving throw once every 24 hours."

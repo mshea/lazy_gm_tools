@@ -47,13 +47,7 @@ aliases: ["amber-ooze", "Amber Ooze-tob2"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage. If the target is a plant or plant creature, it also takes 3 (1d6) acid damage."
   "name": "Pseudopod"
-- "desc": "The ooze moves up to its speed. While doing so, it can enter Large or smaller creatures’ spaces. Whenever the ooze enters a creature’s space, the creature must make a DC 13 Dexterity saving throw.
-
-On a successful save, the creature can choose to be pushed 5 feet back or to the side of the ooze. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.
-
-On a failed save, the ooze enters the creature’s space and the creature is engulfed. The engulfed creature can’t breathe, is restrained, and, after 1d4 rounds, the creature is petrified. A creature petrified by the ooze remains petrified until 24 hours after it exits the ooze. When the ooze moves, the engulfed creature moves with it.
-
-An engulfed creature can try to escape by taking an action to make a DC 13 Strength (Athletics) check. On a success, the creature escapes and enters a space of its choice within 5 feet of the ooze."
+- "desc": "The ooze moves up to its speed. While doing so, it can enter Large or smaller creatures’ spaces. Whenever the ooze enters a creature’s space, the creature must make a DC 13 Dexterity saving throw.\n\nOn a successful save, the creature can choose to be pushed 5 feet back or to the side of the ooze. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.\n\nOn a failed save, the ooze enters the creature’s space and the creature is engulfed. The engulfed creature can’t breathe, is restrained, and, after 1d4 rounds, the creature is petrified. A creature petrified by the ooze remains petrified until 24 hours after it exits the ooze. When the ooze moves, the engulfed creature moves with it.\n\nAn engulfed creature can try to escape by taking an action to make a DC 13 Strength (Athletics) check. On a success, the creature escapes and enters a space of its choice within 5 feet of the ooze."
   "name": "Engulf"
 source:
 - [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition)

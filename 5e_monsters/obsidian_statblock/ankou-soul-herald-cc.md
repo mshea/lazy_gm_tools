@@ -40,11 +40,7 @@ aliases: ["ankou-soul-herald", "Ankou Soul Herald-cc"]
 "traits":
 - "desc": "Necromancy spells can't be cast within 120 feet of the ankou. When an undead creature starts its turn within 30 feet of the ankou, it must make a DC 22 Constitution saving throw, taking 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one."
   "name": "Aura of Necromancy's Bane"
-- "desc": "As a bonus action while in dim light or darkness, the ankou becomes invisible. While invisible, the ankou has advantage on Dexterity (Stealth) checks and gains the following:
-Resistance to acid, cold, fire, lighting, thunder; bludgeoning, piercing and slashing damage from nonmagical attacks.
-Immunity to the grappled, paralyzed, petrified, prone, and restrained conditions
-The ankou can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
-The cloak of ghostly shadows ends when the ankou chooses to end it as a bonus action, when the ankou dies, or if the ankou ends its turn in bright light."
+- "desc": "As a bonus action while in dim light or darkness, the ankou becomes invisible. While invisible, the ankou has advantage on Dexterity (Stealth) checks and gains the following:\nResistance to acid, cold, fire, lighting, thunder; bludgeoning, piercing and slashing damage from nonmagical attacks.\nImmunity to the grappled, paralyzed, petrified, prone, and restrained conditions\nThe ankou can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.\nThe cloak of ghostly shadows ends when the ankou chooses to end it as a bonus action, when the ankou dies, or if the ankou ends its turn in bright light."
   "name": "Cloak of Ghostly Shadows"
 - "desc": "The ankou has the celestial type in addition to the dragon type and its weapon attacks are magical."
   "name": "Death's Apotheosis"

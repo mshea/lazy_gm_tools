@@ -43,10 +43,7 @@ aliases: ["greater-lunarchidna", "Greater Lunarchidna-tob2"]
   "name": "Sunlight Sensitivity"
 - "desc": "The lunarchidna ignores movement restrictions caused by webbing."
   "name": "Web Walker"
-- "desc": "The lunarchidna is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). The lunarchidna has the following wizard spells prepared:
-Cantrips (at will): minor illusion, mage hand, poison spray, ray of frost
-1st level (4 slots): detect magic, magic missile, shield
-2nd level (3 slots): alter self, suggestion"
+- "desc": "The lunarchidna is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). The lunarchidna has the following wizard spells prepared:\nCantrips (at will): minor illusion, mage hand, poison spray, ray of frost\n1st level (4 slots): detect magic, magic missile, shield\n2nd level (3 slots): alter self, suggestion"
   "name": "Spellcasting"
 "actions":
 - "desc": "The lunarchidna makes two attacks: one with its bite and one with its claws. If the lunarchidna hits a Medium or smaller target with both attacks on the same turn, the target is restrained by webbing and the lunarchidna uses Wrap Up."

@@ -34,8 +34,7 @@ aliases: ["dark-servant", "Dark Servant-cc"]
 "languages": "Common, Umbral"
 "cr": "1"
 "traits":
-- "desc": "The dark servant has advantage on saving throws
-against being charmed or frightened."
+- "desc": "The dark servant has advantage on saving throws\nagainst being charmed or frightened."
   "name": "Dark Devotion"
 - "desc": "Magical darkness doesn't impede the dark folk's darkvision."
   "name": "Darksight"

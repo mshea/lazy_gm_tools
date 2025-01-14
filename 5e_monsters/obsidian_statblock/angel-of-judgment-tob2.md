@@ -39,9 +39,7 @@ aliases: ["angel-of-judgment", "Angel of Judgment-tob2"]
 "cr": "18"
 "damage_resistances": "necrotic, poison, radiant; bludgeoning, piercing, and slashing from nonmagical attacks"
 "traits":
-- "desc": "As a bonus action, the angel of judgment can change its face and demeanor to exhibit aspects of chaos or law, as needed by its assignment. It can have only one face active at a time and can end the effect on its turn as a bonus action. 
-* Face of Chaos. The angel of judgment becomes a harbinger of chaos. It is treated as a fiend by spells and other magical effects that affect fiends and has advantage on attack rolls against celestials and devils. 
-* Face of Law. The angel becomes a harbinger of law and has advantage on attack rolls against demons, fey, and undead."
+- "desc": "As a bonus action, the angel of judgment can change its face and demeanor to exhibit aspects of chaos or law, as needed by its assignment. It can have only one face active at a time and can end the effect on its turn as a bonus action. \n* Face of Chaos. The angel of judgment becomes a harbinger of chaos. It is treated as a fiend by spells and other magical effects that affect fiends and has advantage on attack rolls against celestials and devils. \n* Face of Law. The angel becomes a harbinger of law and has advantage on attack rolls against demons, fey, and undead."
   "name": "Change Face"
 - "desc": "The angel of judgment knows if it hears a lie."
   "name": "Divine Awareness"
@@ -51,10 +49,7 @@ aliases: ["angel-of-judgment", "Angel of Judgment-tob2"]
   "name": "Penance Gaze"
 - "desc": "The angel of judgment’s weapon attacks are magical. When the angel of judgment hits with any weapon, the weapon deals an extra 6d8 force damage (included in the attack)."
   "name": "Weapons of Balance"
-- "desc": "The angel of judgment’s spellcasting ability is Charisma (spell save DC 19). The angel can cast the following spells, requiring no material components:
-At will: detect evil and good, detect magic, detect thoughts, invisibility (self only)
-3/day each: calm emotions, dispel evil and good, speak with dead
-1/day each: divine word, holy aura, raise dead"
+- "desc": "The angel of judgment’s spellcasting ability is Charisma (spell save DC 19). The angel can cast the following spells, requiring no material components:\nAt will: detect evil and good, detect magic, detect thoughts, invisibility (self only)\n3/day each: calm emotions, dispel evil and good, speak with dead\n1/day each: divine word, holy aura, raise dead"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The angel of judgment makes two melee attacks."

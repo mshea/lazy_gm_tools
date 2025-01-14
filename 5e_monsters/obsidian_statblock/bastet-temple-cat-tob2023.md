@@ -49,10 +49,7 @@ aliases: ["bastettemplecat-tob1-2023", "Bastet Temple Cat-tob2023"]
   "name": "Claws"
 - "desc": "The temple cat purrs loudly at a Humanoid it can see within 30 feet of it and that can hear it. The target must succeed on a DC 14 Wisdom saving throw or be charmed. While charmed by the temple cat, the target is incapacitated and must move on its turn toward the cat by the most direct route, trying to get within 5 feet of the cat and pet or hold it. The target doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the cat, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful, the creature is immune to the temple cat’s Fascinating Purr for the next 24 hours. The temple cat has advantage on attack rolls against any creature petting or holding it."
   "name": "Fascinating Purr"
-- "desc": "The temple cat casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
-At will: guidance
-3/day each: charm person, cure wounds
-1/day: enhance ability (only Cat’s Grace)"
+- "desc": "The temple cat casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):\nAt will: guidance\n3/day each: charm person, cure wounds\n1/day: enhance ability (only Cat’s Grace)"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

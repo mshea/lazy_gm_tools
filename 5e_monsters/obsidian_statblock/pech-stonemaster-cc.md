@@ -41,9 +41,7 @@ aliases: ["pech-stonemaster", "Pech Stonemaster-cc"]
   "name": "Light Sensitivity"
 - "desc": "As a bonus action, the pech can draw on the power of unworked stone, as long as it is in contact with stone. Until the end of the pech's next turn, it gains resistance to piercing and slashing damage."
   "name": "One with the Stone (Recharges after a Short or Long Rest)"
-- "desc": "The pech stonemaster's innate spellcasting ability is Wisdom (spell save DC 13). The pech stonemaster can innately cast the following spells, requiring no material components:
-At will: thunderwave
-3/day: shatter"
+- "desc": "The pech stonemaster's innate spellcasting ability is Wisdom (spell save DC 13). The pech stonemaster can innately cast the following spells, requiring no material components:\nAt will: thunderwave\n3/day: shatter"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The pech stonemaster makes two attacks: one with its pick and one with its hammer. If the pech stonemaster hits the same target with both attacks, the target must succeed on a DC 13 Constitution saving throw or be stunned until the start of its next turn."

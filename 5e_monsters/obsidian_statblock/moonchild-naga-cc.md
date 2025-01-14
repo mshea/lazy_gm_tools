@@ -41,10 +41,7 @@ aliases: ["moonchild-naga", "Moonchild Naga-cc"]
 "traits":
 - "desc": "If it dies, the moonchild naga returns to life in 1d6 days and regains all its hp. Only a wish spell can prevent this trait from functioning."
   "name": "Rejuvenation"
-- "desc": "The moonchild naga's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:
-At will: charm person, friends, mage hand, message, minor illusion, poison spray, suggestion
-3/day each: color spray, dispel magic, fear, hold person
-1/day each: dominate beast, hypnotic pattern"
+- "desc": "The moonchild naga's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring only verbal components:\nAt will: charm person, friends, mage hand, message, minor illusion, poison spray, suggestion\n3/day each: color spray, dispel magic, fear, hold person\n1/day each: dominate beast, hypnotic pattern"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 18 (4d8) poison damage."

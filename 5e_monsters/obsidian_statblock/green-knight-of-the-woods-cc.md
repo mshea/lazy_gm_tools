@@ -40,9 +40,7 @@ aliases: ["green-knight-of-the-woods", "Green Knight of the Woods-cc"]
 "traits":
 - "desc": "If the green knight's head is severed by a vorpal weapon or by other means, magical vines sprout from its neck and the head reattaches by the start of the green knight's next turn, preventing the green knight from dying from the loss of its head."
   "name": "Headsman's Woe"
-- "desc": "As a bonus action, the green knight targets one creature that it can see within 30 feet and issues a challenge. If the target can see the green knight, it must succeed on a DC 14 Wisdom saving throw or become magically compelled to engage the green knight in melee combat for 1 minute, or until the knight challenges a new opponent. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-On its turn, the affected creature must move towards the green knight and make a melee attack against the green knight."
+- "desc": "As a bonus action, the green knight targets one creature that it can see within 30 feet and issues a challenge. If the target can see the green knight, it must succeed on a DC 14 Wisdom saving throw or become magically compelled to engage the green knight in melee combat for 1 minute, or until the knight challenges a new opponent. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\nOn its turn, the affected creature must move towards the green knight and make a melee attack against the green knight."
   "name": "Knight's Challenge (3/Day)"
 - "desc": "The green knight has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"

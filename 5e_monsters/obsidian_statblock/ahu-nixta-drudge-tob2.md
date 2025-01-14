@@ -40,9 +40,7 @@ aliases: ["ahu-nixta-drudge", "Ahu-Nixta Drudge-tob2"]
   "name": "Clockwork Encasement"
 - "desc": "The drudge’s clockwork armor is immune to any spell or effect that would alter its form, as is the creature that controls it as long as the ahu-nixta remains within the armor."
   "name": "Immutable Form"
-- "desc": "The ahu-nixta’s innate spellcasting ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). The ahunixta can innately cast the following spells, requiring no material components:
-At will: fire bolt  (1d10)
-1/day: fear"
+- "desc": "The ahu-nixta’s innate spellcasting ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). The ahunixta can innately cast the following spells, requiring no material components:\nAt will: fire bolt  (1d10)\n1/day: fear"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage."

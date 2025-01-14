@@ -49,9 +49,7 @@ aliases: ["alseid-tob1-2023", "Alseid-tob2023"]
   "name": "Thorned Staff"
 - "desc": "Ranged Weapon Attack: +5 to hit, range 120 ft., one target. Hit: 8 (2d4 + 3) piercing damage."
   "name": "Thorn Bolt"
-- "desc": "The grovekeeper casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
-At will: animal friendship, animal messenger, druidcraft
-1/day each: cure wounds, faerie fire, lesser restoration"
+- "desc": "The grovekeeper casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):\nAt will: animal friendship, animal messenger, druidcraft\n1/day each: cure wounds, faerie fire, lesser restoration"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

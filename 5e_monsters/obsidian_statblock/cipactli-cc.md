@@ -48,9 +48,7 @@ aliases: ["cipactli", "Cipactli-cc"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack. +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage."
   "name": "Bite"
-- "desc": "The cipactli devours a Medium or smaller creature grappled by it. The devoured target is blinded, restrained, it has total cover against attacks and other effects outside the cipactli, and it takes 14 (4d6) piercing damage at the start of each of the cipactli's turns as the fiend's lesser mouths slowly consume it.
-
-If the cipactli moves, the devoured target moves with it. The cipactli can only devour one target at a time. A creature, including the devoured target, can take its action to pry the devoured target out of the cipactli's many jaws by succeeding on a DC 14 Strength check."
+- "desc": "The cipactli devours a Medium or smaller creature grappled by it. The devoured target is blinded, restrained, it has total cover against attacks and other effects outside the cipactli, and it takes 14 (4d6) piercing damage at the start of each of the cipactli's turns as the fiend's lesser mouths slowly consume it.\n\nIf the cipactli moves, the devoured target moves with it. The cipactli can only devour one target at a time. A creature, including the devoured target, can take its action to pry the devoured target out of the cipactli's many jaws by succeeding on a DC 14 Strength check."
   "name": "Devouring Embrace"
 - "desc": "A cipactli sings a soporific, primordial song of eternal rest and divine repose from its many mouths. Each creature within 100 feet of the cipactli that can hear the song must succeed on a DC 14 Charisma saving throw or fall asleep and remain unconscious for 10 minutes. A creature awakens if it takes damage or another creature takes an action to wake it. This song has no effect on constructs and undead."
   "name": "Ancient Lullaby (Recharge 5-6)"

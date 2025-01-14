@@ -43,10 +43,7 @@ aliases: ["deathweaver", "Deathweaver-tob2"]
   "name": "Web Sense"
 - "desc": "The deathweaver ignores movement restrictions caused by webbing."
   "name": "Web Walker"
-- "desc": "The deathweaver’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-At will: chill touch
-3/day each: darkness, ray of enfeeblement
-1/day: vampiric touch"
+- "desc": "The deathweaver’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: chill touch\n3/day each: darkness, ray of enfeeblement\n1/day: vampiric touch"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The deathweaver makes two bite attacks."

@@ -41,14 +41,7 @@ aliases: ["servant-of-the-vine", "Servant of the Vine-cc"]
   "name": "Fey Ancestry"
 - "desc": "The servant of the vine selects up to 6 creatures within 50 feet and grants them advantage to Dexterity (Acrobatics), Dexterity (Sleight of Hand), or Charisma (Performance) checks. The servant of the vine chooses which skill for each recipient."
   "name": "Inspire Artistry (3/Day)"
-- "desc": "The servant of the vine is an 11th-level spellcaster. Its primary spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared:
-Cantrips (at will): guidance, light, sacred flame, thaumaturgy
-1st level (4 slots): bless, create or destroy water (creates or destroys wine; wine created this way evaporates after 1 day), cure wounds, sanctuary
-2nd level (3 slots): hold person, lesser restoration, protection from poison
-3rd level (3 slots): bestow curse, dispel magic
-4th level (3 slots): guardian of faith, freedom of movement
-5th level (2 slots): contagion
-6th level (1 slot): harm, heal"
+- "desc": "The servant of the vine is an 11th-level spellcaster. Its primary spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared:\nCantrips (at will): guidance, light, sacred flame, thaumaturgy\n1st level (4 slots): bless, create or destroy water (creates or destroys wine; wine created this way evaporates after 1 day), cure wounds, sanctuary\n2nd level (3 slots): hold person, lesser restoration, protection from poison\n3rd level (3 slots): bestow curse, dispel magic\n4th level (3 slots): guardian of faith, freedom of movement\n5th level (2 slots): contagion\n6th level (1 slot): harm, heal"
   "name": "Spellcasting"
 "actions":
 - "desc": "The servant makes three drunken slash attacks."

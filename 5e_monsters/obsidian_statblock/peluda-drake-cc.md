@@ -47,9 +47,7 @@ aliases: ["peluda-drake", "Peluda Drake-cc"]
   "name": "Tail"
 - "desc": "Ranged Weapon Attack: +5 to hit, range 20/80 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 3 (1d6) poison damage."
   "name": "Quill"
-- "desc": "The peluda uses one of the following breath weapons:
-Steam Breath. The drake exhales scalding steam in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
-Acid Breath. The drake exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one."
+- "desc": "The peluda uses one of the following breath weapons:\nSteam Breath. The drake exhales scalding steam in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.\nAcid Breath. The drake exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one."
   "name": "Breath Weapons (Recharge 5-6)"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

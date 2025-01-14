@@ -47,9 +47,7 @@ aliases: ["blood-elemental", "Blood Elemental-cc"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage."
   "name": "Slam"
-- "desc": "Each creature in the elemental's space must make a DC 15 Constitution saving throw. On a failure, a creature takes 10 (3d6) necrotic damage and, if it is Large or smaller, it is grappled (escape DC 13). A grappled creature is restrained and unable to breathe. If the saving throw is successful, the creature is pushed out of the elemental's space. The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time.
-
-At the start of the elemental's turn, each target grappled by it takes 10 (3d6) necrotic damage. A creature within 5 feet of the elemental can use its action to make a DC 15 Strength check, freeing a grappled creature on a success. When Blood Drain deals 30 or more necrotic damage, the elemental grows in size as though affected by an enlarge/reduce spell. This increase in size lasts until the blood elemental finishes a long rest."
+- "desc": "Each creature in the elemental's space must make a DC 15 Constitution saving throw. On a failure, a creature takes 10 (3d6) necrotic damage and, if it is Large or smaller, it is grappled (escape DC 13). A grappled creature is restrained and unable to breathe. If the saving throw is successful, the creature is pushed out of the elemental's space. The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time.\n\nAt the start of the elemental's turn, each target grappled by it takes 10 (3d6) necrotic damage. A creature within 5 feet of the elemental can use its action to make a DC 15 Strength check, freeing a grappled creature on a success. When Blood Drain deals 30 or more necrotic damage, the elemental grows in size as though affected by an enlarge/reduce spell. This increase in size lasts until the blood elemental finishes a long rest."
   "name": "Blood Drain (Recharge 4-6)"
 source:
 - [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd)

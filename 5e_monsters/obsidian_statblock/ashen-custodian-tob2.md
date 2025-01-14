@@ -46,10 +46,7 @@ aliases: ["ashen-custodian", "Ashen Custodian-tob2"]
   "name": "Magic Resistance"
 - "desc": "When a hostile creature starts its turn within 10 feet of the ashen custodian, the creature must succeed on a DC 15 Constitution saving throw or take 3 (1d6) fire damage. When a friendly creature within 10 feet of the ashen custodian regains hp, the creature regains an extra 1d6 hp."
   "name": "Warming Presence"
-- "desc": "The ashen custodian’s innate spellcasting ability is Charisma (spell save DC 15). The ashen custodian can innately cast the following spells, requiring no material components:
-At will: druidcraft, produce flame
-3/day each: burning hands, cure wounds, flame blade, fog cloud
-1/day each: conjure elemental (fire elemental only), wall of fire"
+- "desc": "The ashen custodian’s innate spellcasting ability is Charisma (spell save DC 15). The ashen custodian can innately cast the following spells, requiring no material components:\nAt will: druidcraft, produce flame\n3/day each: burning hands, cure wounds, flame blade, fog cloud\n1/day each: conjure elemental (fire elemental only), wall of fire"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The ashen custodian makes two cleansing strike attacks."

@@ -46,9 +46,7 @@ aliases: ["simhamukha", "Simhamukha-cc"]
   "name": "Magic Resistance"
 - "desc": "When the simhamukha hits a creature with a melee attack, it can choose to deal an additional 9 (2d8) radiant damage."
   "name": "Smite (3/Day)"
-- "desc": "The simhamukha's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-At will: aid, guidance, spiritual weapon
-2/day each: confusion, searing smite, thunderous smite"
+- "desc": "The simhamukha's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: aid, guidance, spiritual weapon\n2/day each: confusion, searing smite, thunderous smite"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The simhamukha makes two attacks with its kartika, or one with its kartika and one with its bite."

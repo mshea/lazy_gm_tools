@@ -45,16 +45,9 @@ aliases: ["pattern-dancer", "Pattern Dancer-cc"]
   "name": "Sunlight Sensitivity"
 - "desc": "The shadow fey has advantage on Intelligence (Arcana) checks made to know about shadow roads and shadow magic spells or items."
   "name": "Traveler in Darkness"
-- "desc": "The pattern dancer is a 5th-levelspellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
-Cantrips (at will): dancing lights, friends, minor illusion, poison spray
-1st level (4 slots): color spray, disguise self, magic missile, shield
-2nd level (3 slots): blur, mirror image
-3rd level (2 slots): major image, nondetection"
+- "desc": "The pattern dancer is a 5th-levelspellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:\nCantrips (at will): dancing lights, friends, minor illusion, poison spray\n1st level (4 slots): color spray, disguise self, magic missile, shield\n2nd level (3 slots): blur, mirror image\n3rd level (2 slots): major image, nondetection"
   "name": "Spellcasting"
-- "desc": "When three pattern dancers are within 60 feet of each other, they can work together to cast communal spells that are more powerful than they could cast individually. To do this, one takes an action to cast a spell, and the other two must use their reactions to complete it. These communal spells are cast at 11th level and have a spell save DC of 13:
-At will: hold person
-3/day: fear, sleep
-1/day: confusion, hypnotic pattern"
+- "desc": "When three pattern dancers are within 60 feet of each other, they can work together to cast communal spells that are more powerful than they could cast individually. To do this, one takes an action to cast a spell, and the other two must use their reactions to complete it. These communal spells are cast at 11th level and have a spell save DC of 13:\nAt will: hold person\n3/day: fear, sleep\n1/day: confusion, hypnotic pattern"
   "name": "Group Actions"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."

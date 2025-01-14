@@ -42,9 +42,7 @@ aliases: ["kappa", "Kappa-cc"]
   "name": "Amphibious"
 - "desc": "The kappa can grapple creatures that are two sizes larger than itself and can move at full speed when dragging a creature it has grappled."
   "name": "Expert Wrestler"
-- "desc": "The kappa has a bowl-like indentation on its head which holds water from the river or lake where it lives. If the kappa's head bowl is empty, it has disadvantage on attack rolls and ability checks until the bowl is refilled with water. 
-
-Normal movement and combat do not cause water to spill from the bowl, but an opponent can empty the bowl by knocking the kappa prone or by making two successful grapple attacks - one to grab the kappa, and one to tip its head while it is grappled."
+- "desc": "The kappa has a bowl-like indentation on its head which holds water from the river or lake where it lives. If the kappa's head bowl is empty, it has disadvantage on attack rolls and ability checks until the bowl is refilled with water. \n\nNormal movement and combat do not cause water to spill from the bowl, but an opponent can empty the bowl by knocking the kappa prone or by making two successful grapple attacks - one to grab the kappa, and one to tip its head while it is grappled."
   "name": "Head Bowl"
 - "desc": "The kappa has advantage on ability checks and saving throws made to escape a grapple."
   "name": "Slippery"

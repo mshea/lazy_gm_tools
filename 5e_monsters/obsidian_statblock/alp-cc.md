@@ -41,10 +41,7 @@ aliases: ["alp", "Alp-cc"]
   "name": "Shapechanger"
 - "desc": "While in sunlight, the alp has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
   "name": "Sunlight Sensitivity"
-- "desc": "The alp's innate spellcasting ability is Wisdom (spell save DC 13). The alp can innately cast the following spells, requiring no material components:
-At will: invisibility (self only)
-3/day each: silent image, sleep
-1/day each: bestow curse, dream"
+- "desc": "The alp's innate spellcasting ability is Wisdom (spell save DC 13). The alp can innately cast the following spells, requiring no material components:\nAt will: invisibility (self only)\n3/day each: silent image, sleep\n1/day each: bestow curse, dream"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage, and, if the target was sleeping or unconscious before it was hit, it must succeed on a DC 13 Wisdom saving throw or become frightened and restrained for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the restrained condition on itself on a success. The creature must succeed on another saving throw on a following round to end the frightened condition."

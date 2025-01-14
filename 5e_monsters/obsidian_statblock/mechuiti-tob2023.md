@@ -61,9 +61,7 @@ aliases: ["mechuiti-tob1-2023", "Mechuiti-tob2023"]
   "name": "Frightful Presence"
 - "desc": "Mechuiti exhales fire and acid in a 60-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 49 (14d6) fire damage and 49 (14d6) acid damage on a failed save, or half as much damage on a successful one."
   "name": "Burning Acid Breath (Recharge 5–6)"
-- "desc": "Mechuiti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
-At will: dispel magic, hold monster, wall of fire
-3/day each: fire storm, power word stun"
+- "desc": "Mechuiti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):\nAt will: dispel magic, hold monster, wall of fire\n3/day each: fire storm, power word stun"
   "name": "Spellcasting"
 "legendary_actions":
 - "desc": "Mechuiti moves up to his speed, or he climbs up to half his speed. This movement doesn’t provoke opportunity attacks."

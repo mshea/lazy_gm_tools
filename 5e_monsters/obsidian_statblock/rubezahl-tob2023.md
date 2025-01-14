@@ -54,10 +54,7 @@ aliases: ["rubezahl-tob1-2023", "Rubezahl-tob2023"]
   "name": "Gore"
 - "desc": "The rubezahl calls a sizzling bolt of lightning out of the sky, or from the air if underground or indoors, to strike a point the rubezahl can see within 150 feet of it. Each creature within 20 feet of that point must make a DC 16 Dexterity saving throw. On a failure, the creature takes 36 (8d8) lightning damage and is stunned until the end of its next turn. On a success, the creature takes half the damage and isn’t stunned."
   "name": "Thunderstrike (Recharge 5–6)"
-- "desc": "The rubezahl casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
-At will: disguise self, fog cloud
-3/day each: gust of wind, sleet storm
-1/day: control weather (as an action)"
+- "desc": "The rubezahl casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):\nAt will: disguise self, fog cloud\n3/day each: gust of wind, sleet storm\n1/day: control weather (as an action)"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

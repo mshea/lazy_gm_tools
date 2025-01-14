@@ -44,10 +44,7 @@ aliases: ["flying-polyp", "Flying Polyp-cc"]
   "name": "Incorporeal Movement"
 - "desc": "The polyp has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The polyp's innate spellcasting ability is Intelligence (spell save DC 18). The polyp can innately cast the following spells, requiring no material components:
-At will: invisibility (self only)
-3/day: wind walk
-1/day: control weather"
+- "desc": "The polyp's innate spellcasting ability is Intelligence (spell save DC 18). The polyp can innately cast the following spells, requiring no material components:\nAt will: invisibility (self only)\n3/day: wind walk\n1/day: control weather"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "The polyp makes two melee attacks."

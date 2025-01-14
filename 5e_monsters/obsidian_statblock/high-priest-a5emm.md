@@ -38,26 +38,7 @@ aliases: ["high-priest-a5e", "High Priest-a5emm"]
 "languages": "any three"
 "cr": "6"
 "traits":
-- "desc": "The priest is an 11th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 15
- +7 to hit with spell attacks). They have the following cleric spells prepared:
- Cantrips (at will): light
- sacred flame
- thaumaturgy
- 1st-level (4 slots): ceremony
- detect evil and good
- healing word
- 2nd-level (3 slots): augury
- hold person
- zone of truth
- 3rd-level (3 slots): daylight
- remove curse
- 4th-level (3 slots): divination
- guardian of faith
- revivify
- 5th-level (2 slots): flame strike
- greater restoration
- raise dead
- 6th-level (1 slots): heal"
+- "desc": "The priest is an 11th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). They have the following cleric spells prepared:\n Cantrips (at will): light, sacred flame, thaumaturgy\n 1st-level (4 slots): ceremony, detect evil and good, healing word\n 2nd-level (3 slots): augury, hold person, zone of truth\n 3rd-level (3 slots): daylight, remove curse\n 4th-level (3 slots): divination, guardian of faith, revivify\n 5th-level (2 slots): flame strike, greater restoration, raise dead\n 6th-level (1 slots): heal"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage. On a hit  the priest can expend a spell slot to deal 7 (2d6) radiant damage  plus an extra 3 (1d6) radiant damage for each level of the spell slot expended above 1st."

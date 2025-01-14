@@ -43,9 +43,7 @@ aliases: ["lymarien-swarm", "Lymarien Swarm-tob2"]
   "name": "Speak with Beasts"
 - "desc": "The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny lymarien. The swarm can’t regain hp or gain temporary hp."
   "name": "Swarm"
-- "desc": "The lymarien swarm’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
-At will: dancing lights, minor illusion
-3/day each: hypnotic pattern, sleep (affects 9d8 hp)"
+- "desc": "The lymarien swarm’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:\nAt will: dancing lights, minor illusion\n3/day each: hypnotic pattern, sleep (affects 9d8 hp)"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +7 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 21 (6d6) slashing damage, or 10 (3d6) slashing damage if the swarm has half its hp or fewer."

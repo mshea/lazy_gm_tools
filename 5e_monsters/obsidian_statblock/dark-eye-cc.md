@@ -37,9 +37,7 @@ aliases: ["dark-eye", "Dark Eye-cc"]
 "traits":
 - "desc": "The dark eye has advantage on saving throws against being charmed or frightened."
   "name": "Dark Devotion"
-- "desc": "When a creature that can see the dark eye's eye starts its turn within 30 feet of the dark eye, the dark eye can force it to make a DC 13 Wisdom saving throw if the dark eye isn't incapacitated and can see the creature. On a failure, the creature takes 7 (2d6) psychic damage and is incapacitated until the start of its next turn. On a success, the creature takes half the damage and isn't incapacitated.
-
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the dark eye until the start of its next turn, when it can avert its eyes again. If the creature looks at the dark eye in the meantime, it must immediately make the save."
+- "desc": "When a creature that can see the dark eye's eye starts its turn within 30 feet of the dark eye, the dark eye can force it to make a DC 13 Wisdom saving throw if the dark eye isn't incapacitated and can see the creature. On a failure, the creature takes 7 (2d6) psychic damage and is incapacitated until the start of its next turn. On a success, the creature takes half the damage and isn't incapacitated.\n\nUnless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the dark eye until the start of its next turn, when it can avert its eyes again. If the creature looks at the dark eye in the meantime, it must immediately make the save."
   "name": "Gaze of Shadows"
 - "desc": "While in sunlight, the dark eye has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
   "name": "Sunlight Sensitivity"

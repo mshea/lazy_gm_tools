@@ -38,9 +38,7 @@ aliases: ["liminal-drake", "Liminal Drake-tob2"]
 "traits":
 - "desc": "The drake can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
   "name": "Incorporeal Movement"
-- "desc": "When a creature that can see the drake starts its turn within 60 feet of the drake, the drake can force it to make a DC 16 Constitution saving throw if the drake isn’t incapacitated and can see the creature. On a failed save, the creature is incapacitated until the start of its next turn.
-
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can’t see the drake until the start of its next turn, when it can avert its eyes again. If the creature looks at the drake in the meantime, it must immediately make the save."
+- "desc": "When a creature that can see the drake starts its turn within 60 feet of the drake, the drake can force it to make a DC 16 Constitution saving throw if the drake isn’t incapacitated and can see the creature. On a failed save, the creature is incapacitated until the start of its next turn.\n\nUnless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can’t see the drake until the start of its next turn, when it can avert its eyes again. If the creature looks at the drake in the meantime, it must immediately make the save."
   "name": "Nauseating Luminance"
 - "desc": "When traveling through the void between stars, the liminal drake magically glides on solar winds, making the immense journey in an impossibly short time."
   "name": "Void Dweller"

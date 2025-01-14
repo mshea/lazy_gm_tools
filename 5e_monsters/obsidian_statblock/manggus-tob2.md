@@ -39,11 +39,7 @@ aliases: ["manggus", "Manggus-tob2"]
   "name": "Roaring Transformation"
 - "desc": "The manggus can use its action to polymorph into a Large, three-headed hydra, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. The manggus reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "The manggus has three heads. While it has more than one head, the manggus has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
-
-Whenever the manggus takes 15 or more damage in a single turn, one of its heads dies. If all its heads die and the manggus still lives, the manggus immediately reverts to its true form and can’t change into its hydra form again until it finishes a long rest.
-
-At the end of its turn, the manggus regrows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The manggus regains 5 hp for each head regrown in this way."
+- "desc": "The manggus has three heads. While it has more than one head, the manggus has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.\n\nWhenever the manggus takes 15 or more damage in a single turn, one of its heads dies. If all its heads die and the manggus still lives, the manggus immediately reverts to its true form and can’t change into its hydra form again until it finishes a long rest.\n\nAt the end of its turn, the manggus regrows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The manggus regains 5 hp for each head regrown in this way."
   "name": "Three-Headed (Hydra Form Only)"
 "actions":
 - "desc": "In hydra form, the manggus makes as many bite attacks as it has heads. In giant form, it makes two greataxe attacks."

@@ -41,21 +41,7 @@ aliases: ["guardian-naga-a5e", "Guardian Naga-a5emm"]
   "name": "Forbiddance"
 - "desc": "If it dies, the naga gains a new body in 1d6 days, regaining all its hit points. This trait can be removed with a wish spell."
   "name": "Rejuvenation"
-- "desc": "The naga is an 11th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16). The naga has the following cleric spells prepared
- which it can cast with only vocalized components:
- Cantrips (at will): mending
- thaumaturgy
- 1st-level (4 slots): command
- cure wounds
- 2nd-level (3 slots): calm emotions
- hold person
- 3rd-level (3 slots) clairvoyance
- create food and water
- 4th-level (3 slots): divination
- freedom of movement
- 5th-level (2 slots): flame strike
- geas
- 6th-level (1 slot): forbiddance"
+- "desc": "The naga is an 11th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16). The naga has the following cleric spells prepared, which it can cast with only vocalized components:\n Cantrips (at will): mending, thaumaturgy\n 1st-level (4 slots): command, cure wounds\n 2nd-level (3 slots): calm emotions, hold person\n 3rd-level (3 slots) clairvoyance, create food and water\n 4th-level (3 slots): divination, freedom of movement\n 5th-level (2 slots): flame strike, geas\n 6th-level (1 slot): forbiddance"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage. The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success."

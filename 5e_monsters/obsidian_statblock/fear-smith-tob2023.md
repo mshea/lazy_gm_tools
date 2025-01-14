@@ -50,9 +50,7 @@ aliases: ["fearsmith-tob1-2023", "Fear Smith-tob2023"]
   "name": "Claw"
 - "desc": "The fear smith terrifies a creature within 30 feet of it with a look. The target must succeed on a DC 16 Wisdom saving throw or take 13 (3d8) psychic damage and be stunned until the end of its next turn. The fear smith regains hp equal to the psychic damage dealt."
   "name": "Heart-Stopping Stare"
-- "desc": "The fear smith casts one of the following spells, requiring no verbal or material components and using Charisma as the spellcasting ability (spell save DC 16):
-At will: detect thoughts, fear
-2/day each: charm person, command"
+- "desc": "The fear smith casts one of the following spells, requiring no verbal or material components and using Charisma as the spellcasting ability (spell save DC 16):\nAt will: detect thoughts, fear\n2/day each: charm person, command"
   "name": "Spellcasting"
 source:
 - [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/)

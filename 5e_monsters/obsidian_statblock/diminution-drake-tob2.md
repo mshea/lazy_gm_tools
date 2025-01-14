@@ -47,9 +47,7 @@ aliases: ["diminution-drake", "Diminution Drake-tob2"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage"
   "name": "Claw"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one Tiny target. Hit: The target must succeed on a DC 15 Dexterity saving throw or be swallowed by the drake. While swallowed, the target’s hit points are reduced to 0, and it is stable. If a creature remains swallowed for 1 minute, it dies.
-
-While it has a creature swallowed, the diminution drake can’t reduce its size below Medium. If the diminution drake dies, a swallowed creature’s hit points return to the amount it had before it was swallowed, and the creature falls prone in an unoccupied space within 5 feet of the drake."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one Tiny target. Hit: The target must succeed on a DC 15 Dexterity saving throw or be swallowed by the drake. While swallowed, the target’s hit points are reduced to 0, and it is stable. If a creature remains swallowed for 1 minute, it dies.\n\nWhile it has a creature swallowed, the diminution drake can’t reduce its size below Medium. If the diminution drake dies, a swallowed creature’s hit points return to the amount it had before it was swallowed, and the creature falls prone in an unoccupied space within 5 feet of the drake."
   "name": "In One Bite"
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must succeed on a DC 15 Constitution saving throw or have its size reduced by one category until it completes a short or long rest. This attack can reduce a creature’s size to no smaller than Tiny."
   "name": "Stinger"

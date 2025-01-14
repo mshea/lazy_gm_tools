@@ -41,17 +41,7 @@ aliases: ["druid-a5e", "Druid-a5emm"]
 "languages": "Druidic plus any two"
 "cr": "2"
 "traits":
-- "desc": "The druid is a 4th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12
- +4 to hit with spell attacks). They have the following druid spells prepared:
- Cantrips (at will): druidcraft
- produce flame
- shillelagh
- 1st-level (4 slots): entangle
- longstrider
- speak with animals
- thunderwave
- 2nd-level (3 slots): animal messenger
- barkskin"
+- "desc": "The druid is a 4th level spellcaster. Their spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). They have the following druid spells prepared:\n Cantrips (at will): druidcraft, produce flame, shillelagh\n 1st-level (4 slots): entangle, longstrider, speak with animals, thunderwave\n 2nd-level (3 slots): animal messenger, barkskin"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Spell Attack: +4 to hit  reach 5 ft  one target. Hit: 6 (1d8 + 2) magical bludgeoning damage."

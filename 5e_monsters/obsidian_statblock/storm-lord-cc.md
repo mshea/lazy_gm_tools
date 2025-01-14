@@ -43,11 +43,7 @@ aliases: ["storm-lord", "Storm Lord-cc"]
 "damage_immunities": "poison"
 "damage_resistances": "acid, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 "traits":
-- "desc": "The storm lord is surrounded in a 120-foot-radius by a ferocious storm. The storm imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks based on sight or hearing within the area. The storm lord's own senses and attacks are not impaired by this trait. 
-
-The tempest extinguishes open flames and disperses fog. A flying creature in the tempest must land at the end of its turn or fall. 
-
-Each creature that starts its turn within 30 feet of the storm lord must succeed on a DC 16 Strength saving throw or be pushed 15 feet away from the storm lord. Any creature within 30 feet of the storm lord must spend 2 feet of movement for every 1 foot it moves when moving closer to the storm lord."
+- "desc": "The storm lord is surrounded in a 120-foot-radius by a ferocious storm. The storm imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks based on sight or hearing within the area. The storm lord's own senses and attacks are not impaired by this trait. \n\nThe tempest extinguishes open flames and disperses fog. A flying creature in the tempest must land at the end of its turn or fall. \n\nEach creature that starts its turn within 30 feet of the storm lord must succeed on a DC 16 Strength saving throw or be pushed 15 feet away from the storm lord. Any creature within 30 feet of the storm lord must spend 2 feet of movement for every 1 foot it moves when moving closer to the storm lord."
   "name": "Tempest"
 "actions":
 - "desc": "The storm lord makes two slam attacks or two lightning bolt attacks."

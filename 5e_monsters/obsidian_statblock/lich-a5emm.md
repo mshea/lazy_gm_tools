@@ -51,30 +51,7 @@ aliases: ["lich-a5e", "Lich-a5emm"]
   "name": "Turn Resistance"
 - "desc": "A lich doesnt require air, sustenance, or sleep."
   "name": "Undead Nature"
-- "desc": "The lich is a 16th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20
- +12 to hit with spell attacks). The lich has the following wizard spells prepared:
- Cantrips (at will): fire bolt
- mage hand
- prestidigitation
- 1st-level (4 slots): detect magic
- shield
- silent image
- thunderwave
- 2nd-level (3 slots): blur
- detect thoughts
- locate object
- 3rd-level (3 slots): animate dead
- dispel magic
- fireball
- 4th-level (3 slots): confusion
- dimension door
- 5th-level (2 slots): geas
- scrying
- 6th-level (1 slot): create undead
- disintegrate
- 7th-level (1 slot): finger of death
- teleport
- 8th-level (1 slot): power word stun"
+- "desc": "The lich is a 16th level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:\n Cantrips (at will): fire bolt, mage hand, prestidigitation\n 1st-level (4 slots): detect magic, shield, silent image, thunderwave\n 2nd-level (3 slots): blur, detect thoughts, locate object\n 3rd-level (3 slots): animate dead, dispel magic, fireball\n 4th-level (3 slots): confusion, dimension door\n 5th-level (2 slots): geas, scrying\n 6th-level (1 slot): create undead, disintegrate\n 7th-level (1 slot): finger of death, teleport\n 8th-level (1 slot): power word stun"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Spell Attack: +12 to hit  reach 5 ft.  one target. Hit: 19 (4d6 + 5) cold damage. The target makes a DC 18 Constitution saving throw. On a failure  it is paralyzed until the end of its next turn."

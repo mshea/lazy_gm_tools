@@ -44,10 +44,7 @@ aliases: ["grimmlet-swarm", "Grimmlet Swarm-tob2"]
   "name": "Reproduce"
 - "desc": "The grimmlet swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny grimmlet. The swarm can’t regain hp or gain temporary hp."
   "name": "Swarm"
-- "desc": "The grimmlet swarm’s innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no components:
-At will: maddening whispers, crushing curse, minor illusion
-3/day each: hypnotic pattern, void strike, major image
-1/day each: hallucinatory terrain"
+- "desc": "The grimmlet swarm’s innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no components:\nAt will: maddening whispers, crushing curse, minor illusion\n3/day each: hypnotic pattern, void strike, major image\n1/day each: hallucinatory terrain"
   "name": "Innate Spellcasting (Psionics)"
 "actions":
 - "desc": "The grimmlet swarm makes two attacks with its crystal edges."

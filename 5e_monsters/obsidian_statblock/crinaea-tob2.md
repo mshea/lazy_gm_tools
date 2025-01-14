@@ -44,10 +44,7 @@ aliases: ["crinaea", "Crinaea-tob2"]
   "name": "Water-bound Form"
 - "desc": "While fully immersed in water, the crinaea is invisible and it can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Watery Form"
-- "desc": "The crinaea’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
-At will: poison spray
-3/day each: create or destroy water (create water only), purify food and drink (water only)
-1/day each: disguise self, fog cloud, protection from poison"
+- "desc": "The crinaea’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:\nAt will: poison spray\n3/day each: create or destroy water (create water only), purify food and drink (water only)\n1/day each: disguise self, fog cloud, protection from poison"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) cold damage."

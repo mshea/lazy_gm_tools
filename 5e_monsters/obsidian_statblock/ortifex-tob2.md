@@ -39,9 +39,7 @@ aliases: ["ortifex", "Ortifex-tob2"]
   "name": "Blood Bearer"
 - "desc": "The ortifex can pinpoint the location of creatures that aren’t constructs or undead within 60 feet of it and can sense the general direction of such creatures within 1 mile of it."
   "name": "Blood Sense"
-- "desc": "A creature that can hear the ortifex’s heartbeat and starts its turn within 60 feet of the ortifex must succeed on a DC 13 Wisdom saving throw or be charmed until the start of its next turn. While charmed, it is incapacitated and must move toward the ortifex by the most direct route on its turn, trying to get within 5 feet of the ortifex. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, it can repeat the saving throw, ending the effect on a success.
-
-Unless surprised, a creature can plug its ears to avoid the saving throw at the start of its turn. If the creature does so, it is deafened until it unplugs its ears. If the creature unplugs its ears while still within range of the ortifex’s heartbeat, it must immediately make the saving throw."
+- "desc": "A creature that can hear the ortifex’s heartbeat and starts its turn within 60 feet of the ortifex must succeed on a DC 13 Wisdom saving throw or be charmed until the start of its next turn. While charmed, it is incapacitated and must move toward the ortifex by the most direct route on its turn, trying to get within 5 feet of the ortifex. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, it can repeat the saving throw, ending the effect on a success.\n\nUnless surprised, a creature can plug its ears to avoid the saving throw at the start of its turn. If the creature does so, it is deafened until it unplugs its ears. If the creature unplugs its ears while still within range of the ortifex’s heartbeat, it must immediately make the saving throw."
   "name": "Hypnotic Heartbeat"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 7 (2d6) necrotic damage."

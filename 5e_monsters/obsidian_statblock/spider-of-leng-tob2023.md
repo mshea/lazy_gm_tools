@@ -53,10 +53,7 @@ aliases: ["spiderofleng-tob1-2023", "Spider of Leng-tob2023"]
   "name": "Staff of Leng"
 - "desc": "Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 16 (3d8 + 3) poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned and blinded until the end of its next turn."
   "name": "Spit Venom"
-- "desc": "The spider of Leng casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15):
-At will: comprehend languages, detect magic
-3/day each: confusion, silence
-1/day each: arcane eye, hypnotic pattern"
+- "desc": "The spider of Leng casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15):\nAt will: comprehend languages, detect magic\n3/day each: confusion, silence\n1/day each: arcane eye, hypnotic pattern"
   "name": "Spellcasting"
 "reactions":
 - "desc": "The spider of Leng adds 3 to its AC against one melee attack that would hit it. To do so, the spider must see the attacker. If this effect causes the attack to miss, the attacker takes 4 (1d8) poison damage."

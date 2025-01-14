@@ -48,10 +48,7 @@ aliases: ["dvarapala", "Dvarapala-cc"]
   "name": "Magic Resistance"
 - "desc": "The dvarapala can make an opportunity attack when a hostile creature moves within its reach as well as when a hostile creature moves out of its reach. It gets one extra reaction that be used only for opportunity attacks."
   "name": "You Shall Not Pass"
-- "desc": "The dvarapala's innate spellcasting ability is Wisdom (spell save DC 14). The dvarapala can innately cast the following spells, requiring no material components:
-At will: sacred flame (2d8)
-3/day: thunderwave
-1/day each: gust of wind, wind wall"
+- "desc": "The dvarapala's innate spellcasting ability is Wisdom (spell save DC 14). The dvarapala can innately cast the following spells, requiring no material components:\nAt will: sacred flame (2d8)\n3/day: thunderwave\n1/day each: gust of wind, wind wall"
   "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 25 (6d6 + 4) bludgeoning damage and if the target is Large or smaller it must succeed on a DC 16 Strength saving throw or be pushed up to 15 feet away from the dvarapala."

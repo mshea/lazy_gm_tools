@@ -48,10 +48,7 @@ aliases: ["minor-malleable", "Minor Malleable-tob2"]
   "name": "Flesh Tendril"
 - "desc": "One creature grappled by the malleable must make a DC 12 Intelligence saving throw, taking 4 (1d8) psychic damage on a failed save, or half as much damage on a successful one. The target’s hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies and becomes a minor malleable if this effect reduces its hp maximum to 0."
   "name": "Psychic Drain"
-- "desc": "As long as the malleable is within 10 feet of at least three other minor malleables, each minor malleable in range can use this action option at the same time to join together and create a larger malleable. The new malleable’s hp total is equal to the combined hp total of all the minor malleables. and it is affected by any conditions, spells, and other magical effects that affected any of the minor malleables. The new malleable acts on the same initiative count as the malleables that formed it and occupies any unoccupied space that previously contained at least one of the malleables that formed it. 
-* Four minor malleables can join to create one moderate malleable. 
-* Eight minor malleables can join to create one major malleable. 
-* Sixteen minor malleables can join to create one massive malleable."
+- "desc": "As long as the malleable is within 10 feet of at least three other minor malleables, each minor malleable in range can use this action option at the same time to join together and create a larger malleable. The new malleable’s hp total is equal to the combined hp total of all the minor malleables. and it is affected by any conditions, spells, and other magical effects that affected any of the minor malleables. The new malleable acts on the same initiative count as the malleables that formed it and occupies any unoccupied space that previously contained at least one of the malleables that formed it. \n* Four minor malleables can join to create one moderate malleable. \n* Eight minor malleables can join to create one major malleable. \n* Sixteen minor malleables can join to create one massive malleable."
   "name": "Join Malleables"
 source:
 - [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition)
