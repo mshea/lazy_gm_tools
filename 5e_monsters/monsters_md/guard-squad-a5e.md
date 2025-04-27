@@ -24,7 +24,6 @@
 
 ### Actions
 
-- **Spears:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 feet  one target. Hit: 17 (5d6) piercing damage  or half damage if the squad is bloodied.
-- **Guard squads patrol city streets and accompany caravans along trade routes:** 
+- **Spears:** Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 feet  one target. Hit: 17 (5d6) piercing damage  or half damage if the squad is bloodied.
 
 

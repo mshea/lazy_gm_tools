@@ -13,6 +13,10 @@
 | 16 (+3) | 16 (+3) | 12 (+1) | 10 (+0) | 10 (+0) | 8 (-1) |
 
 - **Skills:** Survival +2
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Common (can’t speak in lion form)
 

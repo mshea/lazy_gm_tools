@@ -26,7 +26,7 @@
 
 ### Actions
 
-- **Paralyzing Claw:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage. If the target is a living creature other than an elf  it makes a DC 10 Constitution saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of its turns  ending the effect on itself on a success. If the targets saving throw is successful or the effect ends for it  it is immune to any Paralyzing Claw for 24 hours.
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one incapacitated creature. Hit: 6 (1d8 + 2) piercing damage.
+- **Paralyzing Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. If the target is a living creature other than an elf  it makes a DC 10 Constitution saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of its turns  ending the effect on itself on a success. If the targets saving throw is successful or the effect ends for it  it is immune to any Paralyzing Claw for 24 hours.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one incapacitated creature. Hit: 6 (1d8 + 2) piercing damage.
 
 

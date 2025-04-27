@@ -27,7 +27,7 @@
 ### Actions
 
 - **Multiattack:** The sentinel attacks three times.
-- **Halberd:** Melee Weapon Attack: +5 to hit  reach 10 ft.  one target. Hit: 8 (1d10 + 3) slashing damage.
+- **Halberd:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
 - **Calculated Sweep:** The sentinel makes a melee attack against each creature of its choice within 10 feet. On a critical hit  the target makes a DC 13 Strength saving throw  falling prone on a failure.
 
 ### Bonus Actions

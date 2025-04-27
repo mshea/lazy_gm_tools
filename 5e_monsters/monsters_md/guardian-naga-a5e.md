@@ -42,8 +42,8 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage. The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success.
-- **Spit Poison:** Melee Weapon Attack: +8 to hit  range 20/60 ft.  one creature. Hit: The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success.
+- **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success.
+- **Spit Poison:** Melee Weapon Attack: +8 to hit, range 20/60 ft., one creature. Hit: The target makes a DC 15 Constitution saving throw  taking 35 (10d6) poison damage on a failure or half damage on a success.
 - **Command (1st-Level; V):** One living creature within 60 feet that the naga can see and that can hear and understand it makes a DC 16 Wisdom saving throw. On a failure  the target uses its next turn to move as far from the naga as possible  avoiding hazardous terrain.
 - **Hold Person (2nd-Level; V, Concentration):** One humanoid the naga can see within 60 feet makes a DC 16 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Flame Strike (5th-Level; V):** A column of divine flame fills a 10-foot-radius  40-foot-high cylinder within 60 feet. Creatures in the area make a DC 16 Dexterity saving throw  taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failure or half damage on a success.

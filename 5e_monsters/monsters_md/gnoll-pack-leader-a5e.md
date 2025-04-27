@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Spear:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
+- **Spear:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Multiattack:** The gnoll attacks twice with its spear.
 - **Chilling Laughter (Recharge 6):** The gnolls barking laughter drives allies into a frenzy. Each other creature of the gnolls choice within 30 feet that can hear it and has a Rampaging Bite bonus action can use its reaction to make a Rampaging Bite.
 

@@ -28,7 +28,7 @@
 ### Actions
 
 - **Multiattack:** The guardian makes two sword attacks.
-- **Sword:** Melee Weapon Attack: +12 to hit  reach 10 ft.  one target. Hit: 29 (4d10 + 7) slashing damage.
+- **Sword:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 29 (4d10 + 7) slashing damage.
 - **Poison Breath (Recharge 5-6):** The guardian exhales poisonous gas in a 15-foot cone. Each creature in the area makes a DC 18 Constitution saving throw  taking 45 (10d8) poison damage on a failure or half damage on a success.
 
 ### Reactions

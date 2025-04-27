@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The remorhaz makes a bite attack and then a constrict attack.
-- **Bite:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 16 (3d6 + 6) piercing damage plus 10 (3d6) fire damage. If the target is a Medium or smaller creature grappled by the remorhaz  the target is swallowed. A swallowed creature is blinded and restrained  it has total cover from attacks from outside the remorhaz  and it takes 21 (6d6) acid damage at the start of each of the remorhazs turns.
+- **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16 (3d6 + 6) piercing damage plus 10 (3d6) fire damage. If the target is a Medium or smaller creature grappled by the remorhaz  the target is swallowed. A swallowed creature is blinded and restrained  it has total cover from attacks from outside the remorhaz  and it takes 21 (6d6) acid damage at the start of each of the remorhazs turns.
 - **If a swallowed creature deals 30 or more damage to the remorhaz in a single turn, or if the remorhaz dies, the remorhaz vomits up all swallowed creatures:** 
-- **Constrict:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 16 (3d6 + 6) bludgeoning damage  and the target is subjected to the remorhazs Heated Body trait. The target is grappled (escape DC 18) and restrained while grappled. The remorhaz can grapple three creatures at once.
+- **Constrict:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage  and the target is subjected to the remorhazs Heated Body trait. The target is grappled (escape DC 18) and restrained while grappled. The remorhaz can grapple three creatures at once.
 
 

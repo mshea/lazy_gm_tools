@@ -13,7 +13,10 @@
 | 20 (+5) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
 - **Saving Throws**: Dex +4, Wis +3
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened, poisoned
 - **Senses:** truesight 30 ft., darkvision 60 ft., passive Perception 11
 - **Languages:** the languages it knew in life

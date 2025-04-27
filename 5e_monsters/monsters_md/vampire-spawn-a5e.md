@@ -28,8 +28,8 @@
 ### Actions
 
 - **Multiattack:** The vampire makes two attacks  only one of which can be a bite attack.
-- **Grab:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 8 (1d8 + 4) bludgeoning damage. The target is grappled (escape DC 14).
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target that is grappled  incapacitated  restrained  or willing. Hit: 9 (1d10 + 4) piercing damage plus 14 (4d6) necrotic damage. The targets hit point maximum is reduced by an amount equal to the necrotic damage dealt  and the vampire regains this number of hit points. The reduction lasts until the target finishes a long rest. If the target is reduced to 0 hit points by this attack  it dies.
+- **Grab:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage. The target is grappled (escape DC 14).
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target that is grappled  incapacitated  restrained  or willing. Hit: 9 (1d10 + 4) piercing damage plus 14 (4d6) necrotic damage. The targets hit point maximum is reduced by an amount equal to the necrotic damage dealt  and the vampire regains this number of hit points. The reduction lasts until the target finishes a long rest. If the target is reduced to 0 hit points by this attack  it dies.
 
 ### Reactions
 

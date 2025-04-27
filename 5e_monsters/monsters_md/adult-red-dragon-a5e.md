@@ -28,9 +28,9 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws. In place of its bite attack  it can Spit Fire.
-- **Bite:** Melee Weapon Attack: +14 to hit  reach 10 ft.  one target. Hit: 24 (3d10 + 8) piercing damage plus 4 (1d8) fire damage.
-- **Claw:** Melee Weapon Attack: +14 to hit  reach 5 ft.  one target. Hit: 21 (3d8 + 8) slashing damage.
-- **Tail:** Melee Weapon Attack: +14 to hit  reach 15 ft.  one target. Hit: 17 (2d8 + 8) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **Bite:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) piercing damage plus 4 (1d8) fire damage.
+- **Claw:** Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 21 (3d8 + 8) slashing damage.
+- **Tail:** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage  and the dragon pushes the target 10 feet away.
 - **Cruel Tyranny:** The dragon snarls and threatens its minions  driving them to immediate action. The dragon chooses one creature it can see and that can hear the dragon. The creature uses its reaction to make one weapon attack with advantage.
 - **Spit Fire:** The dragon targets a creature within 60 feet  forcing it to make a DC 21 Dexterity saving throw. The creature takes 22 (4d10) fire damage on a failure or half damage on a success. A creature that fails the save also takes 5 (1d10) ongoing fire damage. A creature can use an action to end the ongoing damage.
 - **Fire Breath (Recharge 5-6):** The dragon exhales a blast of fire in a 60-foot cone. Each creature in that area makes a DC 21 Dexterity saving throw  taking 73 (21d6) fire damage on a failed save or half damage on a success. A creature that fails the saving throw also takes 5 (1d10) ongoing fire damage. While affected by this ongoing damage  it is frightened of the dragon. A creature can use an action to end the ongoing damage.

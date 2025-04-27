@@ -25,6 +25,6 @@
 
 ### Actions
 
-- **Watery Grasp:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage  and the target is grappled (escape DC 12). While grappling a creature this way  the naiad can't use Watery Grasp on a different target and can swim at full speed.
+- **Watery Grasp:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage  and the target is grappled (escape DC 12). While grappling a creature this way  the naiad can't use Watery Grasp on a different target and can swim at full speed.
 
 

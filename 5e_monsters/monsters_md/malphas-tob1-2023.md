@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Dex +7, Con +6, Wis +4
 - **Skills:** Perception +4
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Ravenfolk, Sylvan
 

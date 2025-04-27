@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Con +4, Wis +7
 - **Skills:** Deception +5, Intimidation +5, Perception +10
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 20
 - **Languages:** Common, Feather Speech, Ravenfolk
 

@@ -23,7 +23,7 @@
 
 ### Actions
 
-- **Mangler:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (2d4 + 2) slashing damage. A natural 20 scored with thisweapon mangles the targets hand rendering it useless until the targets next long rest. A natural 1 scored with thisweapon does the same  but to the yobbo.
-- **Spike ball:** Ranged Weapon Attack: +4 to hit  range 30/90 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+- **Mangler:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (2d4 + 2) slashing damage. A natural 20 scored with thisweapon mangles the targets hand rendering it useless until the targets next long rest. A natural 1 scored with thisweapon does the same  but to the yobbo.
+- **Spike ball:** Ranged Weapon Attack: +4 to hit, range 30/90 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 
 

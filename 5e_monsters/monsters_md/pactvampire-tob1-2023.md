@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +8, Con +11, Wis +7, Cha +10
 - **Skills:** Perception +7, Persuasion +10, Stealth +8
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

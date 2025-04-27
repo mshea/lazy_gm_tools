@@ -26,8 +26,8 @@
 ### Actions
 
 - **Multiattack:** The giant attacks twice with its greatclub or twice with rocks.
-- **Greatclub:** Melee Weapon Attack: +9 to hit  reach 15 ft.  one target. Hit: 19 (3d8 + 6) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 19 Strength saving throw  falling prone on a failure.
-- **Rock:** Ranged Weapon Attack: +9 to hit  range 60/240 ft.  one target. Hit: 20 (4d6 + 6) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 19 Strength saving throw. On a failure  it is pushed 10 feet away from the giant and knocked prone. In lieu of a rock  the giant can throw a grappled Medium or smaller creature up to 30 feet. On a hit  the target and the thrown creature both take 15 (3d6 + 5) bludgeoning damage. On a miss  only the thrown creature takes the damage. The thrown creature falls prone in an unoccupied space 5 feet from the target.
+- **Greatclub:** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 19 Strength saving throw  falling prone on a failure.
+- **Rock:** Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 19 Strength saving throw. On a failure  it is pushed 10 feet away from the giant and knocked prone. In lieu of a rock  the giant can throw a grappled Medium or smaller creature up to 30 feet. On a hit  the target and the thrown creature both take 15 (3d6 + 5) bludgeoning damage. On a miss  only the thrown creature takes the damage. The thrown creature falls prone in an unoccupied space 5 feet from the target.
 
 ### Bonus Actions
 

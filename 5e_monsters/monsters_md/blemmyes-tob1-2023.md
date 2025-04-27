@@ -13,6 +13,10 @@
 | 20 (+5) | 13 (+1) | 20 (+5) | 7 (-2) | 12 (+1) | 5 (-3) |
 
 - **Skills:** Intimidation +3
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Giant
 

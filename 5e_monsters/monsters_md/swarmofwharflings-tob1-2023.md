@@ -13,6 +13,8 @@
 | 10 (+0) | 16 (+3) | 10 (+0) | 2 (-4) | 12 (+1) | 8 (-1) |
 
 - **Skills:** Perception +3, Sleight of Hand +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 - **Senses:** darkvision 60 ft., passive Perception 13

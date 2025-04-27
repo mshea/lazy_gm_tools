@@ -18,8 +18,8 @@
 
 ### Actions
 
-- **Sabre:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) slashing damage.
-- **Shortbow:** Ranged Weapon Attack: +3 to hit  range 80/320 ft.  one target. Hit: 4 (1d6 + 1) piercing damage.
+- **Sabre:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
+- **Shortbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 
 ### Bonus Actions
 

@@ -27,7 +27,7 @@
 
 ### Actions
 
-- **Claw:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 5 (1d4 + 3) slashing damage plus 10 (3d6) poison damage.
+- **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage plus 10 (3d6) poison damage.
 - **Chaos Pheromones:** The khalkos emits a cloud of pheromones in a 20-foot radius. The cloud spreads around corners. Each non-khalkos creature in the area makes a DC 14 Intelligence saving throw. Creatures with an alignment trait make this save with disadvantage. On a failure  the creature is confused for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success. If the creature makes its saving throw or the condition ends for it  it is immune to Chaos Pheromones for the next 24 hours.
 - **Psionic Sting:** The khalkos targets a creature within 30 feet  forcing it to make a DC 16 Intelligence saving throw. On a failure  the target takes 28 (8d6) psychic damage and is stunned until the end of its next turn.
 

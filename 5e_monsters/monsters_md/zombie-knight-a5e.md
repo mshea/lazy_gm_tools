@@ -26,8 +26,8 @@
 ### Actions
 
 - **Multiattack:** The zombie makes two melee attacks.
-- **Greatsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
-- **Grab:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) bludgeoning damage  and the creature is grappled if its Medium or smaller (escape DC 13)  and until the grapple ends  the zombie can't grab another target.
-- **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one creature grappled by a zombie. Hit: 8 (1d10 + 3) piercing damage  and the zombie regains hit points equal to the damage dealt.
+- **Greatsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+- **Grab:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage  and the creature is grappled if its Medium or smaller (escape DC 13)  and until the grapple ends  the zombie can't grab another target.
+- **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature grappled by a zombie. Hit: 8 (1d10 + 3) piercing damage  and the zombie regains hit points equal to the damage dealt.
 
 

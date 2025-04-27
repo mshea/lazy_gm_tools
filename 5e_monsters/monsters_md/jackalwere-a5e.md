@@ -26,8 +26,8 @@
 
 ### Actions
 
-- **Bite (Jackal or Hybrid Form Only):** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
-- **Scimitar (Human or Hybrid Form Only):** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.
+- **Bite (Jackal or Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+- **Scimitar (Human or Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Sleep Gaze (Gaze, Hybrid Form Only):** One creature within 30 feet of the jackalwere makes a DC 10 Wisdom saving throw. On a failed save  the target is magically charmed. At the beginning of the jackalweres next turn  the target repeats the saving throw. On a success  the effect ends. On a failure  the creature falls unconscious for 10 minutes. Both the charmed and unconscious conditions end if the target takes damage or a creature within reach of the target uses an action to shake the target back to its senses. If the target successfully saves against Sleep Gaze  it is immune to Sleep Gaze for 24 hours. Undead and creatures immune to charm arent affected by it.
 
 ### Bonus Actions

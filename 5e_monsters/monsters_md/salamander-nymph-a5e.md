@@ -23,6 +23,6 @@
 
 ### Actions
 
-- **Tail:** Melee Weapon Attack: +4 to hit  reach 10 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage  and the target is subjected to the salamanders Heated Body trait.
+- **Tail:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage  and the target is subjected to the salamanders Heated Body trait.
 
 

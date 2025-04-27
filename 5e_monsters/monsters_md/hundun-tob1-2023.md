@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Con +7, Wis +9, Cha +8
 - **Skills:** Athletics +9, Insight +9, Perception +9
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid, psychic
 - **Damage Resistances:** lightning, radiant, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone, stunned, unconscious

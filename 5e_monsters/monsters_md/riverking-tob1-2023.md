@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +8, Con +10, Wis +6
 - **Skills:** Intimidation +8, Nature +7, Perception +6, Stealth +8
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron weapons
 - **Condition Immunities:** charmed, exhaustion, frightened

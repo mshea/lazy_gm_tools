@@ -13,7 +13,10 @@
 | 19 (+4) | 16 (+3) | 19 (+4) | 10 (+0) | 14 (+2) | 11 (+0) |
 
 - **Skills:** Animal Handling +5, Intimidation +6, Perception +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** piercing from nonmagical attacks
+- **Condition Immunities:** False
 - **Senses:** truesight 60 ft., passive Perception 15
 - **Languages:** Celestial, Common
 

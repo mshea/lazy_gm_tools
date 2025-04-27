@@ -20,11 +20,10 @@
 ### Actions
 
 - **Multiattack:** The warrior attacks twice.
-- **Rapier:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 8 (1d8 + 4) piercing damage.
+- **Rapier:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 
 ### Reactions
 
 - **Riposte:** When the duelist is missed by a melee attack by an attacker they can see within 5 feet, the duelist makes a rapier attack against the attacker with advantage.
-- **In cities and royal courts:** 
 
 

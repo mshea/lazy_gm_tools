@@ -14,7 +14,10 @@
 
 - **Saving Throws**: Dex +8, Con +8, Cha +12
 - **Skills:** Deception +12, Perception +7, Performance +12, Persuasion +12
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** passive Perception 17
 - **Languages:** Common, Draconic, Elvish, Sylvan
 

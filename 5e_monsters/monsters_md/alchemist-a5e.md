@@ -31,7 +31,7 @@
 ### Actions
 
 - **Multiattack:** The alchemist attacks twice with their dagger.
-- **Dagger:** Melee or Ranged Weapon Attack: +6 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage.
+- **Dagger:** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage.
 - **Bomb (3/Day):** The alchemist lobs a bomb at a point they can see within 80 feet. Upon impact  the bomb explodes in a 10-foot radius. Creatures in the area make a DC 15 Dexterity saving throw  taking 24 (7d6) fire damage on a failure or half damage on a success.
 
 ### Bonus Actions

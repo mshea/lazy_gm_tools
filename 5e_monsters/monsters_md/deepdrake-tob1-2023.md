@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Dex +8, Con +6
 - **Skills:** Athletics +9, Insight +6, Perception +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic
+- **Damage Resistances:** False
 - **Condition Immunities:** paralyzed
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 16
 - **Languages:** Common, Darakhul, Draconic, Undercommon

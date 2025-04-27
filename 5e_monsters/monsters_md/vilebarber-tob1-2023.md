@@ -13,6 +13,8 @@
 | 12 (+1) | 18 (+4) | 10 (+0) | 10 (+0) | 8 (-1) | 10 (+0) |
 
 - **Skills:** Acrobatics +3, Stealth +6
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron weapons
 - **Condition Immunities:** frightened
 - **Senses:** darkvision 60 ft., passive Perception 9

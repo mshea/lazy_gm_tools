@@ -23,7 +23,7 @@
 
 ### Actions
 
-- **Sting:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one creature. Hit: 4 (1d4 + 2) piercing damage  and the target must succeed on a DC 11 Constitution saving throw or become poisoned. At the end of its next turn  it repeats the saving throw. On a success  the effect ends. On a failure  it falls unconscious for 1 hour. If it takes damage  or a creature uses an action to shake it awake  it wakes up  and the effect ends.
+- **Sting:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage  and the target must succeed on a DC 11 Constitution saving throw or become poisoned. At the end of its next turn  it repeats the saving throw. On a success  the effect ends. On a failure  it falls unconscious for 1 hour. If it takes damage  or a creature uses an action to shake it awake  it wakes up  and the effect ends.
 - **Telepathic Static (3/Day):** The pseudodragon targets one creature it can see within 10 feet  forcing it to make a DC 11 Charisma saving throw. On a failure  its stunned until the end of its next turn as it suffers a barrage of telepathic imagery.
 
 

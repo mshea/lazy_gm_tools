@@ -28,10 +28,10 @@
 ### Actions
 
 - **Multiattack:** The drider makes a claws attack and then either a bite or longsword attack. Alternatively  it makes two longbow attacks.
-- **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 15 (2d10 + 4) piercing damage  and the target is grappled (escape DC 15). While grappling a target  the drider can't attack a different target with its claws.
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one grappled creature. Hit: 2 (1d4) piercing damage plus 13 (3d8) poison damage.
-- **Longsword (wielded two-handed):** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (1d10 + 4) slashing damage.
-- **Longbow:** Melee Weapon Attack: +6 to hit  range 120/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
+- **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage  and the target is grappled (escape DC 15). While grappling a target  the drider can't attack a different target with its claws.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one grappled creature. Hit: 2 (1d4) piercing damage plus 13 (3d8) poison damage.
+- **Longsword (wielded two-handed):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) slashing damage.
+- **Longbow:** Melee Weapon Attack: +6 to hit, range 120/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
 - **Darkness (2nd-Level; V, S, Concentration):** Magical darkness spreads from a point within 30 feet  filling a 15-foot-radius sphere and spreading around corners. It remains for 1 minute. A creature with darkvision can't see through this darkness and nonmagical light can't illuminate it.
 - **Web (2nd-Level; V, S, Concentration):** Thick  sticky webs fill a 20-foot cube within 60 feet  lightly obscuring it and making it difficult terrain. The webs must either be anchored between two solid masses (such as walls) or layered 5 feet deep over a flat surface. Each creature that starts its turn in the webs or that enters them during its turn makes a DC 14 Dexterity saving throw. On a failure  it is restrained. A creature can escape by using an action to make a DC 14 Strength check. Any 5-foot cube of webs exposed to fire burns away in 1 round  dealing 5 (2d4) fire damage to any creature that starts its turn in the fire. The webs remain for 1 minute.
 

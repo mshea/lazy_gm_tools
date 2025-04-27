@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Str +9, Dex +4, Wis +8
 - **Skills:** Athletics +9, Intimidation +7, Perception +8
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison; bludgeoning, slashing, and piercing from nonmagical attacks not made with cold iron weapons
 - **Damage Resistances:** cold
 - **Condition Immunities:** poisoned

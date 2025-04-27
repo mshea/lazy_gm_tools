@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The hag attacks with its claws and uses Ice Bolt.
-- **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 15 (2d10 + 4) slashing damage.
-- **Ice Bolt:** Ranged Spell Attack: +7 to hit  range 60 ft.  one creature. Hit: 15 (2d10 + 4) cold damage  and the target makes a DC 15 Constitution saving throw. A creature under the hags curse automatically fails this saving throw. On a failure  the creature is restrained as it begins to turn to ice. At the end of the creatures next turn  the creature repeats the saving throw. On a success  the effect ends. On a failure  the creature is petrified into ice. This petrification can be removed with greater restoration or similar magic.
+- **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) slashing damage.
+- **Ice Bolt:** Ranged Spell Attack: +7 to hit, range 60 ft., one creature. Hit: 15 (2d10 + 4) cold damage  and the target makes a DC 15 Constitution saving throw. A creature under the hags curse automatically fails this saving throw. On a failure  the creature is restrained as it begins to turn to ice. At the end of the creatures next turn  the creature repeats the saving throw. On a success  the effect ends. On a failure  the creature is petrified into ice. This petrification can be removed with greater restoration or similar magic.
 - **Shapeshift:** The hag magically polymorphs into a Small or Medium humanoid or back into its true form. Its statistics are the same in each form. Equipment it is carrying isnt transformed. It retains a streak of white hair in any form. It returns to its true form if it dies.
 - **Invisibility (2nd-Level; V, S, Concentration):** The hag is invisible for 1 hour. The spell ends if the hag attacks or casts a spell.
 

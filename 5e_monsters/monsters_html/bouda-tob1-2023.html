@@ -5,14 +5,29 @@
 <meta charset="UTF-8">
 <style>
 body {
-max-width: 700px;
-margin: auto;
-font-size: 18px;
-font-family: sans-serif;
-padding: 10px;
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
 }
 p, li {
-line-height: 1.5em;
+    line-height: 1.5em;
+}
+ul, ol {
+    padding-left: 20px;
+    margin-left: 0;
+}
+li {
+    margin-left: 0; /* Remove margin from li */
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
 }
 </style>
 <title>Bouda</title>
@@ -53,6 +68,7 @@ line-height: 1.5em;
 <ul>
 <li><strong>Saving Throws</strong>: Dex +5, Con +7, Wis +4, Cha +5</li>
 <li><strong>Skills:</strong> Athletics +7, Deception +5, Intimidation +5, Perception +4, Stealth +5</li>
+<li><strong>Damage Vulnerabilities:</strong> False</li>
 <li><strong>Damage Immunities:</strong> fire, poison</li>
 <li><strong>Damage Resistances:</strong> acid, lightning; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons</li>
 <li><strong>Condition Immunities:</strong> charmed, exhaustion, poisoned</li>

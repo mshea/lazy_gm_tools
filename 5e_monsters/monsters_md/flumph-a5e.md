@@ -26,7 +26,7 @@
 
 ### Actions
 
-- **Tendrils:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 1 piercing damage plus 3 (1d6) acid damage.
+- **Tendrils:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 3 (1d6) acid damage.
 - **Stench Spray (1/Day):** Each creature in a 15-foot cone makes a DC 10 Dexterity saving throw. On a failure  the creature exudes a horrible stench for 1 hour. While a creature exudes this stench  it and any creature within 5 feet of it are poisoned. A creature can remove the stench on itself by bathing during a rest.
 
 

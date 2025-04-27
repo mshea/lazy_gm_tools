@@ -27,9 +27,9 @@
 ### Actions
 
 - **Multiattack:** The kobold makes a bill hook attack and a spiked shield attack.
-- **Bill Hook:** Melee Weapon Attack: +4 to hit  reach 10 ft.  one target. Hit: 5 (1d6 + 2) slashing damage  and if the target is a Medium or smaller creature  it makes a DC 12 Strength saving throw  falling prone on a failure.
-- **Spiked Shield:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
-- **Sling:** Ranged Weapon Attack: +4 to hit  range 30/120 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+- **Bill Hook:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) slashing damage  and if the target is a Medium or smaller creature  it makes a DC 12 Strength saving throw  falling prone on a failure.
+- **Spiked Shield:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+- **Sling:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 
 ### Reactions
 

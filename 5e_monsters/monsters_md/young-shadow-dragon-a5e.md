@@ -30,8 +30,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) necrotic damage.
-- **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 17 (3d8 + 4) slashing damage.
+- **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) necrotic damage.
+- **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) slashing damage.
 - **Anguished Breath (Recharge 5-6):** The dragon exhales a shadowy maelstrom of anguish in a 30-foot cone. Each creature in that area makes a DC 16 Wisdom saving throw  taking 40 (9d8) necrotic damage on a failed save or half damage on a success.
 
 

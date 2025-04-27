@@ -13,6 +13,10 @@
 | 19 (+4) | 12 (+1) | 19 (+4) | 12 (+1) | 14 (+2) | 10 (+0) |
 
 - **Skills:** Athletics +7, Survival +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** passive Perception 12
 - **Languages:** Loxodan
 

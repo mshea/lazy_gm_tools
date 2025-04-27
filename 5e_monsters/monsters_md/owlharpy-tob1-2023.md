@@ -14,6 +14,9 @@
 
 - **Skills:** Performance +7, Stealth +9
 - **Damage Vulnerabilities:** thunder
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 12
 - **Languages:** Common, Abyssal, Giant
 

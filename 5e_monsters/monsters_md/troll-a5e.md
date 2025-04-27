@@ -27,7 +27,7 @@
 ### Actions
 
 - **Multiattack:** The troll attacks with its bite and twice with its claw.
-- **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
-- **Claw:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) slashing damage.
+- **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+- **Claw:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
 
 

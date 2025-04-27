@@ -18,6 +18,6 @@
 
 ### Actions
 
-- **Gore:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 14 (2d8+5) bludgeoning damage. If the rhinoceros moves at least 20 feet straight towards the target before the attack  the attack deals an extra 4 (1d8) bludgeoning damage and the target makes a DC 15 Strength saving throw  falling prone on a failure.
+- **Gore:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8+5) bludgeoning damage. If the rhinoceros moves at least 20 feet straight towards the target before the attack  the attack deals an extra 4 (1d8) bludgeoning damage and the target makes a DC 15 Strength saving throw  falling prone on a failure.
 
 

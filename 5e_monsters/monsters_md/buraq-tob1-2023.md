@@ -14,6 +14,8 @@
 
 - **Saving Throws**: Con +9, Wis +8, Cha +9
 - **Skills:** History +8, Religion +8
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened
 - **Senses:** truesight 120 ft., passive Perception 14

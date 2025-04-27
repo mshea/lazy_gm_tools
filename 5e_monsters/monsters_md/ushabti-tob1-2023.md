@@ -13,6 +13,8 @@
 | 14 (+2) | 20 (+5) | 18 (+4) | 6 (-2) | 11 (+0) | 6 (-2) |
 
 - **Saving Throws**: Wis +3, Cha +1
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

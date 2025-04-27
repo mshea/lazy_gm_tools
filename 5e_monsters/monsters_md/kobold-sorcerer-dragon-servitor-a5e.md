@@ -23,8 +23,8 @@
 ### Actions
 
 - **Multiattack (2/day):** The kobold sorcerer makes three flame bolt attacks.
-- **Flame Bolt:** Ranged Spell Attack: +4 to hit  range 120 ft.  one target. Hit: 7 (1d10+2) fire damage. The damage type of the sorcerers flame bolt attack changes to match the damage type of its masters breath weapon.
-- **Shiv:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
+- **Flame Bolt:** Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 7 (1d10+2) fire damage. The damage type of the sorcerers flame bolt attack changes to match the damage type of its masters breath weapon.
+- **Shiv:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
 ### Bonus Actions
 

@@ -26,9 +26,9 @@
 ### Actions
 
 - **Multiattack:** The drider makes a claws attack and then either a bite or longsword attack. Alternatively  it makes two longbow attacks.
-- **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 15 (2d10 + 4) piercing damage  and the target is grappled (escape DC 15). While grappling a target  the drider can't attack a different target with its claws.
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one grappled creature. Hit: 2 (1d4) piercing damage plus 13 (3d8) poison damage.
-- **Longsword (wielded two-handed):** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (1d10 + 4) slashing damage.
-- **Longbow:** Melee Weapon Attack: +6 to hit  range 120/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
+- **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage  and the target is grappled (escape DC 15). While grappling a target  the drider can't attack a different target with its claws.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one grappled creature. Hit: 2 (1d4) piercing damage plus 13 (3d8) poison damage.
+- **Longsword (wielded two-handed):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) slashing damage.
+- **Longbow:** Melee Weapon Attack: +6 to hit, range 120/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
 
 

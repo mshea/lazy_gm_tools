@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +4, Wis +5
 - **Skills:** Arcana +4, Deception +8, Perception +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic
 - **Damage Resistances:** cold
 - **Condition Immunities:** frightened

@@ -28,7 +28,7 @@
 ### Actions
 
 - **Multiattack:** The elemental makes two slam attacks.
-- **Slam:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 22 (4d8 + 4) bludgeoning damage.
+- **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage.
 - **Whelm:** The elemental targets each Large or smaller creature in its space. Each target makes a DC 15 Strength saving throw. On a failure  the target is grappled (escape DC 15). Until this grapple ends  the target is restrained and unable to breathe air. The elemental can move at full speed while carrying grappled creatures inside its space. It can grapple one Large creature or up to four Medium or smaller creatures.
 
 

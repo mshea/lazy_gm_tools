@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Dex +5
 - **Skills:** Stealth +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Sylvan
 

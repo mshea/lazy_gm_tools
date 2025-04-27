@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +6
 - **Skills:** Acrobatics +6, Perception +7, Stealth +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold
 - **Condition Immunities:** poisoned

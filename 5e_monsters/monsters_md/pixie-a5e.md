@@ -23,7 +23,7 @@
 
 ### Actions
 
-- **Thorn Dagger:** Melee or Ranged Weapon Attack: +7 to hit  reach 5 ft. or range 10/30 ft.  one target. Hit: 1 piercing damage.
+- **Thorn Dagger:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 10/30 ft., one target. Hit: 1 piercing damage.
 - **Faerie Blessing (3/Day):** The pixie targets a willing creature within 30 feet. The target gains one of the following abilities for 1 hour:
 - **The target gains truesight out to a range of 120 feet:** 
 - **The target gains the benefit of the pixies Magic Resistance trait:** 

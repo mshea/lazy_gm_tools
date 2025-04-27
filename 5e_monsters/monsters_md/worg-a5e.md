@@ -22,6 +22,6 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6+2) piercing damage. If the target is a creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6+2) piercing damage. If the target is a creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
 
 

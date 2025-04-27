@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +10, Con +9, Wis +10
 - **Skills:** Arcana +7, History +7, Intimidation +8, Perception +10, Religion +12
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances:** acid, cold, fire, lightning, necrotic, thunder
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained
@@ -29,6 +30,7 @@
 
 ### Actions
 
+- **Multiattack:** The haugbui makes three Psychic Blast attacks. It can replace one attack with a use of Spellcasting.
 - **Psychic Blast:** Melee or Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 27 (5d8 + 5) psychic damage.
 - **Invisibility:** The haugbui magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the haugbui wears or carries is invisible with it.
 - **Spellcasting:** The haugbui casts one of the following spells, requiring no components and using Wisdom as the spellcasting ability (spell save DC 18):<br>At will: dancing lights, mending, purify food and drink, spare the dying<br>3/day each: gust of wind, telekinesis<br>1/day each: dispel magic, remove curse

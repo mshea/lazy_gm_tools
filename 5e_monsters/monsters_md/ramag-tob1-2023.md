@@ -13,6 +13,10 @@
 | 9 (-1) | 14 (+2) | 10 (+0) | 16 (+3) | 12 (+1) | 11 (+0) |
 
 - **Skills:** Arcana +5, Investigation +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** passive Perception 11
 - **Languages:** Common
 

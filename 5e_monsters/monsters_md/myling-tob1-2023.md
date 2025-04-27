@@ -13,6 +13,7 @@
 | 10 (+0) | 16 (+3) | 12 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 - **Skills:** Stealth +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** charmed, frightened, poisoned, stunned, unconscious

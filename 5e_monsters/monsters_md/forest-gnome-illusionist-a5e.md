@@ -41,8 +41,8 @@
 
 ### Actions
 
-- **Dagger:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
-- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +6 to hit  range 120 ft.  one target. Hit: 11 (2d10) fire damage.
+- **Dagger:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 11 (2d10) fire damage.
 - **Hypnotic Pattern (3rd-Level; S, M, Concentration):** A swirling pattern of light appears at a point within 120 feet. Each creature within 10 feet of the pattern that can see it makes a DC 17 Wisdom saving throw. On a failure  the creature is charmed for 1 minute. While charmed  the creature is incapacitated and its Speed is 0. The effect ends on a creature if it takes damage or if another creature uses an action to shake it out of its daze.
 - **Fireball (3rd-Level; V, S, M):** Fire streaks from the mage to a point within 120 feet and explodes in a 20-foot radius  spreading around corners. Each creature in the area makes a DC 14 Dexterity saving throw  taking 21 (6d6) fire damage on a failed save or half damage on a success.
 - **Dimension Door (4th-Level; V):** The mage teleports to a location within 500 feet. They can bring along one willing Medium or smaller creature within 5 feet. If a creature would teleport to an occupied space  it takes 14 (4d6) force damage  and the spell fails.

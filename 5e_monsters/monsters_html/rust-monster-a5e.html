@@ -5,14 +5,29 @@
 <meta charset="UTF-8">
 <style>
 body {
-max-width: 700px;
-margin: auto;
-font-size: 18px;
-font-family: sans-serif;
-padding: 10px;
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
 }
 p, li {
-line-height: 1.5em;
+    line-height: 1.5em;
+}
+ul, ol {
+    padding-left: 20px;
+    margin-left: 0;
+}
+li {
+    margin-left: 0; /* Remove margin from li */
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
 }
 </style>
 <title>Rust Monster</title>
@@ -64,7 +79,7 @@ line-height: 1.5em;
 <ul>
 <li><strong>Antennae:</strong> The rust monster corrodes a nonmagic metal object within 5 feet. It can destroy up to a 1-foot-square portion of an unattended object. If the object is worn or carried  the objects owner makes a DC 11 Dexterity saving throw  avoiding the rust monsters antennae on a success.</li>
 <li><strong>Metal shields or armor the rust monster touches with its antennae corrode, taking a permanent -1 penalty to its AC protection per hit:</strong> If the penalty reduces the armors AC protection to 10  the armor is destroyed. If a metal weapon is touched  it is subject to the Rust Metal trait.</li>
-<li><strong>Bite:</strong> Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) piercing damage.</li>
+<li><strong>Bite:</strong> Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.</li>
 </ul>
 <h3>Reactions</h3>
 <ul>

@@ -54,9 +54,9 @@
 
 ### Actions
 
-- **Paralyzing Touch:** Melee Spell Attack: +12 to hit  reach 5 ft.  one target. Hit: 19 (4d6 + 5) cold damage. The target makes a DC 18 Constitution saving throw. On a failure  it is paralyzed until the end of its next turn.
+- **Paralyzing Touch:** Melee Spell Attack: +12 to hit, reach 5 ft., one target. Hit: 19 (4d6 + 5) cold damage. The target makes a DC 18 Constitution saving throw. On a failure  it is paralyzed until the end of its next turn.
 - **Arc Lightning:** The lich targets up to 3 creatures within 60 feet. Each target makes a DC 18 Dexterity saving throw. On a failure  the target takes 28 (8d6) lightning damage.
-- **Fire Bolt (Cantrip; S):** Ranged Spell Attack: +12 to hit  range 120 ft.  one target. Hit: 16 (3d10) fire damage.
+- **Fire Bolt (Cantrip; S):** Ranged Spell Attack: +12 to hit, range 120 ft., one target. Hit: 16 (3d10) fire damage.
 - **Thunderwave (1st-Level; S):** Thunder rolls from the lich in a 15-foot cube. Each creature in the area makes a DC 20 Constitution saving throw. On a failure  a creature takes 9 (2d8) thunder damage and is pushed 10 feet from the lich. On a success  a creature takes half damage and is not pushed.
 - **Blur (2nd-Level; V, Concentration):** The lichs form is blurred. Attack rolls against it are made with disadvantage unless the attacker has senses that allow them to perceive without sight or to see through illusions (like blindsight or truesight).
 - **Fireball (3rd-Level; S, M):** Fire streaks from the lich to a point within 120 feet and explodes in a 20-foot radius  spreading around corners. Each creature in the area makes a DC 20 Dexterity saving throw  taking 21 (6d6) fire damage on a failed save or half damage on a success.

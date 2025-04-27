@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 1 piercing damage.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 - **Euphoria Breath (Recharge 5-6):** The dragon breathes an intoxicating gas at a creature within 5 feet. The target makes a DC 11 Wisdom saving throw. On a failure  the target is confused for 1 minute. The target repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Prismatic Light (3/Day):** The dragons scales pulse with light. Each creature within 15 feet that can see the dragon makes a DC 13 Wisdom saving throw. On a failure  the creature is magically blinded until the end of its next turn.
 - **Beast Form (1/Day, 50+ Years Old Only):** The dragon targets one creature within 15 feet. The target makes a DC 13 Wisdom saving throw. On a failure  it is magically transformed into a harmless Tiny beast  such as a mouse or a songbird  for 1 minute. While in this form  its statistics are unchanged  except it can't speak or take actions  reactions  or

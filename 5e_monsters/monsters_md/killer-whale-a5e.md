@@ -24,6 +24,6 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 14 (3d6+4) piercing damage. If the target is a creature  it is grappled (escape DC 14). Until this grapple ends  the whale can't bite another target and it has advantage on bite attacks against the creature it is grappling.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (3d6+4) piercing damage. If the target is a creature  it is grappled (escape DC 14). Until this grapple ends  the whale can't bite another target and it has advantage on bite attacks against the creature it is grappling.
 
 

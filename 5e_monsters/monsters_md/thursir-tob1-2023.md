@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Con +6
 - **Skills:** Athletics +6, Perception +4
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Dwarvish, Giant
 

@@ -23,8 +23,7 @@
 
 ### Actions
 
-- **Shortsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) piercing damage.
-- **Longbow:** Ranged Weapon Attack: +5 to hit  range 150/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
-- **Wood elf scouts form the bulk of wood elf raiding parties and armies:** When they can  they fight from hiding  sniping with their longbows.
+- **Shortsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+- **Longbow:** Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 
 

@@ -30,8 +30,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws. In place of its bite  it can use Psionic Wave.
-- **Bite:** Melee Weapon Attack: +14 to hit  reach 15 ft.  one target. Hit: 29 (4d10 + 7) piercing damage plus 9 (2d8) psychic damage.
-- **Claws:** Melee Weapon Attack: +14 to hit  reach 10 ft.  one target. Hit: 20 (3d8 + 7) slashing damage.
+- **Bite:** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 29 (4d10 + 7) piercing damage plus 9 (2d8) psychic damage.
+- **Claws:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) slashing damage.
 - **Psionic Wave:** The dragon psionically emits a wave of crushing mental pressure. Each creature within 20 feet makes a DC 21 Wisdom saving throw  taking 22 (4d10) psychic damage on a failed save or half damage on a success. Creatures suffering ongoing psychic damage make this saving throw with disadvantage.
 - **Discognitive Breath (Recharge 5-6):** The dragon unleashes psychic energy in a 90-foot cone. Each creature in that area makes a DC 21 Intelligence saving throw  taking 66 (12d10) psychic damage and 22 (4d10) ongoing psychic damage on a failed save or half damage and no ongoing psychic damage on a success. The ongoing damage ends if a creature falls unconscious. A creature can use an action to ground itself in reality  ending the ongoing damage.
 - **Prognosticate (3/Day):** The dragon psionically makes a prediction of an event up to 300 years in the future. This prediction has a 75 percent chance of being perfectly accurate and a 25 percent chance of being partially or wholly wrong. Alternatively  the dragon can choose to gain truesight to a range of 120 feet for 1 minute.

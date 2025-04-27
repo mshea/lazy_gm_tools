@@ -13,6 +13,10 @@
 | 14 (+2) | 10 (+0) | 14 (+2) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 - **Skills:** Athletics +4
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** —
 

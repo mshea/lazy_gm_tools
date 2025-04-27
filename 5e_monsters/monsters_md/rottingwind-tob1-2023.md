@@ -12,7 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 20 (+5) | 16 (+3) | 12 (+1) | 10 (+0) | 10 (+0) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, grappled, frightened, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 11
 - **Languages:** ―

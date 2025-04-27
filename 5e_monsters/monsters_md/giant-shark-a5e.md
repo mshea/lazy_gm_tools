@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 21 (3d10+5) piercing damage. On a hit  the shark can make a second bite attack as a bonus action.
-- **Tail:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 15 (3d6+5) bludgeoning damage  and the shark can swim 20 feet without provoking opportunity attacks.
+- **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10+5) piercing damage. On a hit  the shark can make a second bite attack as a bonus action.
+- **Tail:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (3d6+5) bludgeoning damage  and the shark can swim 20 feet without provoking opportunity attacks.
 
 

@@ -28,7 +28,7 @@
 ### Actions
 
 - **Multiattack:** The dead mans fingers makes two tendril attacks.
-- **Tendril (Ethereal or Material Plane):** Melee Weapon Attack: +9 to hit  reach 20 ft.  one creature. Hit: 10 (1d10 + 5) bludgeoning damage plus 10 (3d6) poison damage. A target on the Material Plane is subject to the Ethereal Shift trait.
+- **Tendril (Ethereal or Material Plane):** Melee Weapon Attack: +9 to hit, reach 20 ft., one creature. Hit: 10 (1d10 + 5) bludgeoning damage plus 10 (3d6) poison damage. A target on the Material Plane is subject to the Ethereal Shift trait.
 - **Ethereal Spores (While Bloodied, Ethereal Plane Only):** Each creature within 30 feet makes a DC 15 Constitution saving throw  taking 31 (9d6) necrotic damage on a failed save or half damage on a success. A creature reduced to 0 hit points by this damage dies. If a creature killed by this attack remains on the Ethereal Plane for 24 hours  its corpse disintegrates  and a new dead mans fingers sprouts from its place.
 
 ### Bonus Actions

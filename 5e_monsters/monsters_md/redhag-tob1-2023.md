@@ -13,6 +13,9 @@
 | 19 (+4) | 16 (+3) | 18 (+4) | 18 (+4) | 21 (+5) | 15 (+2) |
 
 - **Skills:** Arcana +10, Deception +5, Insight +8, Perception +8
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 18
 - **Languages:** Common, Druidic, Giant, Sylvan

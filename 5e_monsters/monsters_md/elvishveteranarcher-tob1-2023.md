@@ -13,6 +13,10 @@
 | 11 (+0) | 18 (+4) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
 - **Skills:** Nature +2, Perception +5, Stealth +5, Survival +3
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** passive Perception 15
 - **Languages:** Common, Elvish
 

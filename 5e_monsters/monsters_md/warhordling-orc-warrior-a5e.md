@@ -18,11 +18,10 @@
 
 ### Actions
 
-- **Greataxe:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 7 (1d12 + 1) slashing damage.
+- **Greataxe:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 7 (1d12 + 1) slashing damage.
 
 ### Bonus Actions
 
 - **Aggressive Charge:** The warrior moves up to their Speed towards an enemy they can see or hear.
-- **Warhordling orc warriors form the bulk of orc hordes:** When war chiefs whip them into a frenzy, they fearlessly charge any foe.
 
 

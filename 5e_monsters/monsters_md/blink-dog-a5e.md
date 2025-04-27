@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) piercing damage.
+- **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
 
 ### Bonus Actions
 

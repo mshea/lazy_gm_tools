@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Con +10, Wis +11
 - **Skills:** Arcana +12, Deception +15, Intimidation +15, Perception +11, Stealth +11
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron weapons
 - **Damage Resistances:** fire, lightning
 - **Condition Immunities:** charmed, frightened
@@ -28,6 +29,7 @@
 
 ### Actions
 
+- **Multiattack:** The Queen of Night and Magic makes three Rapier or Star Strike attacks. She can replace one attack with a use of Spellcasting or Unravel.
 - **Rapier:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 14 (4d6) cold damage.
 - **Star Strike:** Ranged Spell Attack: +15 to hit, range 120 ft., one target. Hit: 17 (2d8 + 8) fire damage plus 9 (2d8) radiant damage.
 - **Unravel:** The Queen of Night and Magic ends one magical effect she can see within 60 feet of her. To do so, she must succeed on a Charisma check against a DC of 10 + the spell’s level or the magical effect’s DC, whichever is higher.

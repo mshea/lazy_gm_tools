@@ -5,14 +5,29 @@
 <meta charset="UTF-8">
 <style>
 body {
-max-width: 700px;
-margin: auto;
-font-size: 18px;
-font-family: sans-serif;
-padding: 10px;
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
 }
 p, li {
-line-height: 1.5em;
+    line-height: 1.5em;
+}
+ul, ol {
+    padding-left: 20px;
+    margin-left: 0;
+}
+li {
+    margin-left: 0; /* Remove margin from li */
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
 }
 </style>
 <title>Mimic</title>
@@ -66,8 +81,8 @@ line-height: 1.5em;
 <h3>Actions</h3>
 <ul>
 <li><strong>Multiattack:</strong> The mimic makes a bite attack and a pseudopod attack.</li>
-<li><strong>Pseudopod:</strong> Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 6 (1d4 + 4) bludgeoning damage  and the target is subjected to the mimics Sticky trait.</li>
-<li><strong>Bite:</strong> Melee Weapon Attack: +6 to hit  reach 5 ft.  one creature stuck to the mimic. Hit: 9 (2d4 + 4) piercing damage  and the target is restrained until it is no longer stuck to the mimic. While a creature is restrained by the mimic  the mimic can't bite a different creature.</li>
+<li><strong>Pseudopod:</strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage  and the target is subjected to the mimics Sticky trait.</li>
+<li><strong>Bite:</strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one creature stuck to the mimic. Hit: 9 (2d4 + 4) piercing damage  and the target is restrained until it is no longer stuck to the mimic. While a creature is restrained by the mimic  the mimic can't bite a different creature.</li>
 <li><strong>Swallow:</strong> The mimic makes a bite attack against a Medium or smaller creature restrained by it. If the attack hits and the mimic has not swallowed another creature  the target is swallowed and no longer stuck to the mimic. A swallowed creature has total cover from attacks from outside the mimic  is blinded and restrained  and takes 5 (2d4) acid damage at the start of each of the mimics turns.</li>
 <li><strong>If a swallowed creature deals 10 or more damage to the mimic in a single turn, or if the mimic dies, the target falls prone in an unoccupied space of its choice within 5 feet of the mimic and is no longer swallowed:</strong> </li>
 </ul>

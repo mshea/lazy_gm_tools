@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The skeleton makes two melee attacks.
-- **Longsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) slashing damage.
-- **Heavy Crossbow:** Ranged Weapon Attack: +5 to hit  range 100/400 ft.  one target. Hit: 8 (1d10 + 3) piercing damage.
+- **Longsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
+- **Heavy Crossbow:** Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
 
 ### Reactions
 

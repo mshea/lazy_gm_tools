@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Dex +8
 - **Skills:** Athletics +8, Perception +6, Stealth +8
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., tremorsense 30 ft., passive Perception 20
 - **Languages:** understands Undercommon but can’t speak
 

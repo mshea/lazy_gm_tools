@@ -13,6 +13,8 @@
 | 17 (+3) | 14 (+2) | 16 (+3) | 8 (-1) | 16 (+3) | 10 (+0) |
 
 - **Skills:** Acrobatics +4
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** poison, slashing
 - **Condition Immunities:** prone
 - **Senses:** darkvision 60 ft., tremorsense 30 ft., passive Perception 13

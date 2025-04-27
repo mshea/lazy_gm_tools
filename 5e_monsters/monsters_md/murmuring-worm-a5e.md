@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The worm constricts once and attacks once with its bite.
-- **Constrict:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one creature. Hit: 21 (3d10 + 5) bludgeoning damage. The target is grappled (escape DC 17) and restrained while grappled.
-- **Bite:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one creature. Hit: 21 (3d10 + 5) piercing damage. If the target is killed by this attack  the worm eats its head.
+- **Constrict:** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 21 (3d10 + 5) bludgeoning damage. The target is grappled (escape DC 17) and restrained while grappled.
+- **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 21 (3d10 + 5) piercing damage. If the target is killed by this attack  the worm eats its head.
 
 ### Bonus Actions
 

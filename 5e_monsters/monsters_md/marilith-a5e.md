@@ -28,7 +28,7 @@
 ### Actions
 
 - **Multiattack:** The marilith makes six attacks with its longswords.
-- **Longsword:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) slashing damage.
+- **Longsword:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.
 
 ### Bonus Actions
 

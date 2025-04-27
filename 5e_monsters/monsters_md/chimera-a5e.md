@@ -25,9 +25,9 @@
 
 ### Actions
 
-- **Headbutt:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage. The target must succeed on a DC 15 Strength saving throw or fall prone.
-- **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
-- **Claw:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (2d4 + 4) slashing damage  or 14 (4d4 + 4) slashing damage against a prone target.
+- **Headbutt:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. The target must succeed on a DC 15 Strength saving throw or fall prone.
+- **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+- **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage  or 14 (4d4 + 4) slashing damage against a prone target.
 - **Breath Weapon (Recharge 5-6):** The dragon head breathes fire in a 15-foot cone. Creatures in the area make a DC 15 Dexterity saving throw  taking 21 (6d6) fire damage on a failed save or half damage on a success.
 
 ### Reactions

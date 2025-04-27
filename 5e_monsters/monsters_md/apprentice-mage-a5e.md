@@ -29,8 +29,8 @@
 
 ### Actions
 
-- **Dagger:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 2 (1d4) piercing damage.
-- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +4 to hit  range 120 ft.  one target. Hit: 5 (1d10) fire damage.
+- **Dagger:** Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 2 (1d4) piercing damage.
+- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 5 (1d10) fire damage.
 - **Magic Missile (1st-Level; V, S):** Three glowing arrows fly from the mage simultaneously  unerringly hitting up to 3 creatures within 120 feet. Each arrow deals 3 (1d4 + 1) force damage.
 
 ### Reactions

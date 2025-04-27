@@ -12,7 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 5 (-3) | 16 (+3) | 3 (-4) | 14 (+2) | 1 (-5) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** blinded, charmed, deafened, poisoned, prone
 - **Senses:** tremorsense 60 ft., passive Perception 12
 - **Languages:** —

@@ -26,8 +26,8 @@
 ### Actions
 
 - **Multiattack:** The sahuagin attacks twice.
-- **Claw:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 8 (1d8 + 4) slashing damage.
-- **Trident:** Melee or Ranged Weapon Attack: +7 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 7 (1d6 + 4) piercing damage  or 8 (1d8 + 4) if wielded in two hands in melee.
+- **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+- **Trident:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage  or 8 (1d8 + 4) if wielded in two hands in melee.
 
 ### Bonus Actions
 

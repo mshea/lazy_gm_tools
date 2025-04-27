@@ -25,9 +25,9 @@
 ### Actions
 
 - **Multiattack:** The werewolf makes two melee attacks  only one of which can be with its bite.
-- **Greatclub (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) bludgeoning damage.
-- **Claw (Wolf or Hybrid Form Only):** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) slashing damage.
-- **Bite (Wolf or Hybrid Form Only):** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid  it makes a DC 12 Constitution saving throw. On a failure  it is cursed with werewolf lycanthropy.
+- **Greatclub (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage.
+- **Claw (Wolf or Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.
+- **Bite (Wolf or Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid  it makes a DC 12 Constitution saving throw. On a failure  it is cursed with werewolf lycanthropy.
 
 ### Bonus Actions
 

@@ -28,10 +28,10 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks with its bite and twice with its claws. In place of its bite  it can use Lightning Pulse.
-- **Bite:** Melee Weapon Attack: +13 to hit  reach 10 ft.  one target. Hit: 23 (3d10 + 7) piercing damage plus 4 (1d8) lightning damage.
-- **Claw:** Melee Weapon Attack: +13 to hit  reach 5 ft.  one target. Hit: 20 (3d8 + 7) slashing damage.
-- **Tail:** Melee Weapon Attack: +13 to hit  reach 15 ft.  one target. Hit: 20 (3d8 + 7) bludgeoning damage  and the dragon pushes the target 10 feet away.
-- **Trident (Humanoid Form Only):** Melee or Ranged Weapon Attack: +13 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 10 (1d6 + 7) piercing damage.
+- **Bite:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) piercing damage plus 4 (1d8) lightning damage.
+- **Claw:** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20 (3d8 + 7) slashing damage.
+- **Tail:** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **Trident (Humanoid Form Only):** Melee or Ranged Weapon Attack: +13 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 10 (1d6 + 7) piercing damage.
 - **Lightning Pulse:** The dragon targets one creature within 60 feet  forcing it to make a DC 20 Dexterity saving throw. The creature takes 22 (4d10) lightning damage on a failure or half damage on a success. If the initial target is touching a body of water  all other creatures within 20 feet of it and touching the same body of water must also make the saving throw against this damage.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Lightning Breath:** The dragon exhales lightning in a 90-foot-long  5-foot-wide line. Each creature in the area makes a DC 20 Dexterity saving throw  taking 69 (13d10) lightning damage on a failed save or half damage on a success. A creature that fails the saving throw can't take reactions until the end of its next turn.

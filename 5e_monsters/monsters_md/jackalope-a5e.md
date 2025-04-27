@@ -27,7 +27,7 @@
 
 ### Actions
 
-- **Gore:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 8 (1d8+4) piercing damage. If the jackalope moves at least 20 feet straight towards the target before the attack  the attack deals an extra 7 (2d6) piercing damage.
+- **Gore:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) piercing damage. If the jackalope moves at least 20 feet straight towards the target before the attack  the attack deals an extra 7 (2d6) piercing damage.
 
 ### Bonus Actions
 

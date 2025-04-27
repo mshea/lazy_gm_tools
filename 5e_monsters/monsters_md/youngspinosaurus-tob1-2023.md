@@ -13,6 +13,10 @@
 | 21 (+5) | 11 (+0) | 19 (+4) | 2 (-4) | 11 (+0) | 8 (-1) |
 
 - **Skills:** Perception +3
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** passive Perception 13
 - **Languages:** —
 

@@ -54,8 +54,8 @@
 
 ### Actions
 
-- **Dagger:** Melee or Ranged Weapon Attack: +6 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
-- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +9 to hit  range 120 ft.  one target. Hit: 22 (4d10) fire damage.
+- **Dagger:** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 22 (4d10) fire damage.
 - **Lightning Bolt (3rd-Level; V, S, M):** A bolt of lightning 5 feet wide and 100 feet long arcs from the archmage. Each creature in the area makes a DC 17 Dexterity saving throw  taking 28 (8d6) lightning damage on a failure or half damage on a success.
 - **Confusion (4th-Level; V, S, M, Concentration):** Each creature within 10 feet of a point the archmage can see within 120 feet makes a DC 17 Wisdom saving throw  becoming rattled until the end of its next turn on a success. On a failure  a creature is confused for 1 minute. The target repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.
 - **Cone of Cold (5th-Level; V, S, M):** Frost blasts from the archmage in a 60-foot cone. Each creature in the area makes a DC 17 Constitution saving throw  taking 36 (8d8) cold damage on a failure or half damage on a success.

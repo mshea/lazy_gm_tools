@@ -28,9 +28,9 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws. In place of its bite attack  it can Spit Ice.
-- **Bite:** Melee Weapon Attack: +15 to hit  reach 15 ft.  one target. Hit: 30 (4d10 + 8) piercing damage plus 9 (2d8) cold damage.
-- **Claw:** Melee Weapon Attack: +15 to hit  reach 10 ft.  one target. Hit: 21 (3d8 + 8) slashing damage.
-- **Tail:** Melee Weapon Attack: +15 to hit  reach 20 ft.  one target. Hit: 21 (3d8 + 8) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **Bite:** Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 30 (4d10 + 8) piercing damage plus 9 (2d8) cold damage.
+- **Claw:** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage.
+- **Tail:** Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage  and the dragon pushes the target 10 feet away.
 - **Spit Ice:** The dragon targets a creature within 60 feet  forcing it to make a DC 23 Dexterity saving throw. On a failure  the target takes 22 (4d10) cold damage  and its speed is reduced to 0 until the end of its next turn. On a success  it takes half damage.
 - **Cold Breath (Recharge 5-6):** The dragon exhales a 90-foot cone of frost. Each creature in the area makes a DC 23 Constitution saving throw. On a failure  it takes 66 (19d6) cold damage  and its speed is reduced to 0 until the end of its next turn. On a success  it takes half damage.
 

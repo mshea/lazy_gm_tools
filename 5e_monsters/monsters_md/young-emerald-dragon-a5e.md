@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) thunder damage.
-- **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
+- **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) thunder damage.
+- **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Maddening Breath (Recharge 5-6):** The dragon screams  stripping flesh from bone in a 30-foot cone. Each creature in that area makes a DC 15 Constitution saving throw  taking 44 (8d10) thunder damage on a failed save or half damage on a success.
 
 

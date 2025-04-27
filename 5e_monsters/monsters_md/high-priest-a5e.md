@@ -42,7 +42,7 @@
 
 ### Actions
 
-- **Mace:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage. On a hit  the priest can expend a spell slot to deal 7 (2d6) radiant damage  plus an extra 3 (1d6) radiant damage for each level of the spell slot expended above 1st.
+- **Mace:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. On a hit  the priest can expend a spell slot to deal 7 (2d6) radiant damage  plus an extra 3 (1d6) radiant damage for each level of the spell slot expended above 1st.
 - **Sacred Flame (Cantrip; V, S):** One creature the priest can see within 60 feet makes a DC 15 Dexterity saving throw  taking 13 (3d8) radiant damage on a failure. This spell ignores cover.
 - **Hold Person (2nd-Level; V, S, M, Concentration):** One humanoid the priest can see within 60 feet makes a DC 15 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Guardian of Faith (4th-Level; V):** A Large  indistinct spectral guardian appears in an unoccupied space within 30 feet and remains for 8 hours. Creatures of the priests choice that move to a space within 10 feet of the guardian for the first time on a turn make a DC 15 Dexterity saving throw  taking 20 radiant or necrotic damage (high priests choice) on a failed save or half damage on a success. The spell ends when the guardian has dealt 60 total damage.
@@ -51,6 +51,5 @@
 ### Bonus Actions
 
 - **Healing Word (1st-Level; V):** The priest or a living creature within 60 feet regains 6 (1d4 + 4) hit points. The priest can't cast this spell and a 1st-level or higher spell on the same turn.
-- **High priests lead major temples and shrines:** Their ability to command angelic forces and return the dead to life make them important political players, whether they seek that role or not. Good high priests protect communities or battle fiends, while evil high priests seek empire or secretly command legions of cultists.
 
 

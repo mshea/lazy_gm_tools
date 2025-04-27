@@ -30,9 +30,9 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws. In place of its bite attack  it can Spit Poison.
-- **Bite:** Melee Weapon Attack: +15 to hit  reach 15 ft.  one target. Hit: 30 (4d10 + 8) piercing damage plus 9 (2d8) poison damage.
-- **Claw:** Melee Weapon Attack: +15 to hit  reach 10 ft.  one target. Hit: 21 (3d8 + 8) slashing damage.
-- **Tail:** Melee Weapon Attack: +15 to hit  reach 20 ft.  one target. Hit: 21 (3d8 + 8) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **Bite:** Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 30 (4d10 + 8) piercing damage plus 9 (2d8) poison damage.
+- **Claw:** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage.
+- **Tail:** Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage  and the dragon pushes the target 10 feet away.
 - **Spit Poison:** The dragon targets a creature within 60 feet  forcing it to make a DC 22 Dexterity saving throw. The creature takes 22 (4d10) poison damage on a failure or half damage on a success. A creature that fails the save is also poisoned for 1 minute. The creature repeats the saving throw at the end of each of its turns  taking 11 (2d10) poison damage on a failure and ending the effect on a success.
 - **Poison Breath (Recharge 5-6):** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area makes a DC 22 Constitution saving throw  taking 80 (23d6) poison damage on a failed save or half damage on a success. A creature with immunity to poison damage that fails the save takes no damage  but its poison immunity is reduced to resistance for the next hour.
 - **Honeyed Words:** The dragons words sow doubt in the minds of those who hear them. One creature within 60 feet who can hear and understand the dragon makes a DC 19 Wisdom saving throw. On a failure  the creature must use its reaction  if available  to make one attack against a creature of the dragons choice with whatever weapon it has to do so  moving up to its speed as part of the reaction if necessary. It need not use any special class features (such as Sneak Attack or Divine Smite) when making this attack. If it can't get in a position to attack the creature  it moves as far as it can toward the target before regaining its senses. A creature immune to being charmed is immune to this ability.

@@ -15,6 +15,7 @@
 - **Skills:** Medicine +6, Religion +3
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, poison
+- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** the languages it knew in life

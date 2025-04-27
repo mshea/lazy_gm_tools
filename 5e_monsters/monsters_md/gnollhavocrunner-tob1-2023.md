@@ -13,6 +13,10 @@
 | 16 (+3) | 14 (+2) | 14 (+2) | 8 (-1) | 12 (+1) | 9 (-1) |
 
 - **Skills:** Athletics +5, Perception +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Gnoll
 

@@ -26,8 +26,8 @@
 ### Actions
 
 - **Multiattack:** The giant attacks twice with its glaive.
-- **Glaive:** Melee Weapon Attack: +12 to hit  reach 15 ft.  one target. Hit: 24 (3d10 + 8) slashing damage. If the target is a Large or smaller creature  it makes a DC 20 Strength saving throw. On a failure  it is pushed up to 10 feet away from the giant and knocked prone.
-- **Rock:** Ranged Weapon Attack: +12 to hit  range 60/240 ft.  one target. Hit: 39 (9d6 + 8) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 20 Strength saving throw  falling prone on a failure.
+- **Glaive:** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 24 (3d10 + 8) slashing damage. If the target is a Large or smaller creature  it makes a DC 20 Strength saving throw. On a failure  it is pushed up to 10 feet away from the giant and knocked prone.
+- **Rock:** Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 39 (9d6 + 8) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 20 Strength saving throw  falling prone on a failure.
 - **Fog Cloud (1st-Level; V, S, Concentration):** The giant creates a 20-foot-radius  heavily obscured sphere of fog centered on a point it can see within 120 feet. The fog spreads around corners and can be dispersed by a moderate wind (at least 10 miles per hour). It lasts for 1 hour.
 - **Arc Lightning (1/Day):** Up to three creatures within 60 feet that the giant can see make DC 15 Dexterity saving throws  taking 42 (12d6) lightning damage on a failure or half damage on a success.
 - **Blinking Blades (1/Day):** The giant magically teleports multiple times within a few seconds. The giant may make one glaive attack against each creature of its choice within 30 feet  up to a maximum of 6 attacks.

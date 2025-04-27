@@ -25,7 +25,7 @@
 
 - **Leap (Recharge 5-6):** The bulette leaps up to half its Speed horizontally and half its Speed vertically without provoking opportunity attacks  and can land in a space containing one or more creatures. Each creature in its space when it lands makes a DC 15 Dexterity saving throw  taking 18 (4d6 + 4) bludgeoning damage and being knocked prone on a failure. On a success  the creature takes half damage and is pushed 5 feet to a space of its choice. If that space is occupied  the creature is knocked prone.
 - **Burrow:** The bulette burrows under the ground without provoking opportunity attacks  moves up to its burrow speed  and then resurfaces in an unoccupied space. If it is within 5 feet of a creature  it then makes a bite attack.
-- **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 30 (4d12 + 4) piercing damage.
+- **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30 (4d12 + 4) piercing damage.
 
 ### Reactions
 

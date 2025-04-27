@@ -13,7 +13,11 @@
 | 10 (+0) | 16 (+3) | 12 (+1) | 2 (-4) | 12 (+1) | 16 (+3) |
 
 - **Saving Throws**: Dex +5
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** —
 

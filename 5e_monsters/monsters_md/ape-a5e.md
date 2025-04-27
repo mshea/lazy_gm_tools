@@ -19,7 +19,7 @@
 ### Actions
 
 - **Multiattack:** The ape attacks twice with its fists.
-- **Fists:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d4+3) bludgeoning damage.
-- **Rock:** Ranged Weapon Attack: +5 to hit  range 25/50 ft.  one target. Hit: 6 (1d6+3) bludgeoning damage.
+- **Fists:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) bludgeoning damage.
+- **Rock:** Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6+3) bludgeoning damage.
 
 

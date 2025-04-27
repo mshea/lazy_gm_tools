@@ -26,9 +26,9 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +13 to hit  reach 15 ft.  one target. Hit: 52 (7d12 + 7) piercing damage. If the target is a creature  it is grappled (escape DC 21). Until this grapple ends  the dragon turtle can't bite a different creature  and it has advantage on bite attacks against the grappled creature.
-- **Ram:** Melee Weapon Attack: +13 to hit  reach 15 ft.  one target. Hit: 46 (6d12 + 7) bludgeoning damage. This attack deals double damage against objects  vehicles  and constructs.
-- **Tail:** Melee Weapon Attack: +13 to hit  reach 15 ft.  one target. Hit: 46 (6d12 + 7) bludgeoning damage. If the target is a creature  it makes a DC 21 Strength saving throw. On a failure  it is pushed 15 feet away from the dragon turtle and knocked prone.
+- **Bite:** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 52 (7d12 + 7) piercing damage. If the target is a creature  it is grappled (escape DC 21). Until this grapple ends  the dragon turtle can't bite a different creature  and it has advantage on bite attacks against the grappled creature.
+- **Ram:** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 46 (6d12 + 7) bludgeoning damage. This attack deals double damage against objects  vehicles  and constructs.
+- **Tail:** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 46 (6d12 + 7) bludgeoning damage. If the target is a creature  it makes a DC 21 Strength saving throw. On a failure  it is pushed 15 feet away from the dragon turtle and knocked prone.
 - **Steam Breath (Recharge 5-6):** The dragon turtle exhales steam in a 90-foot cone. Each creature in the area makes a DC 20 Constitution saving throw  taking 52 (15d6) fire damage on a failed save or half as much on a successful one.
 - **Lightning Storm (1/Day):** Hundreds of arcs of lightning crackle from the dragon turtle. Each creature within 90 feet makes a DC 17 Dexterity saving throw  taking 35 (10d6) lightning damage on a failure or half damage on a success.
 

@@ -15,6 +15,7 @@
 - **Skills:** Perception +5, Stealth +5
 - **Damage Vulnerabilities:** acid
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Draconic

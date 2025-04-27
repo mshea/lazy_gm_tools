@@ -13,7 +13,9 @@
 | 8 (-1) | 13 (+1) | 10 (+0) | 16 (+3) | 12 (+1) | 8 (-1) |
 
 - **Skills:** History +5, Investigation +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft., truesight 10 ft., passive Perception 11
 - **Languages:** Common

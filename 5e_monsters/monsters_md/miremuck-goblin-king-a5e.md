@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Rapier:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 1) piercing damage.
+- **Rapier:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 1) piercing damage.
 - **Charm Person (1/day):** Once per day the goblin king can castcharm personas a 3rd-level spell  allowing him tocharm three creatures within 60 feet. The goblinkings spell save DC is 14.
 
 ### Reactions

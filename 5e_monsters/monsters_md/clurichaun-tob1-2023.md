@@ -14,6 +14,9 @@
 
 - **Saving Throws**: Con +5
 - **Skills:** Perception +1, Stealth +3
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
 - **Condition Immunities:** frightened, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Elvish, Sylvan

@@ -23,13 +23,12 @@
 
 ### Actions
 
-- **Shortsword:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
-- **Hand Crossbow:** Ranged Weapon Attack: +4 to hit  range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
+- **Shortsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+- **Hand Crossbow:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
 ### Bonus Actions
 
 - **Cunning Action:** The cutthroat takes the Dash, Disengage, Hide, or Use an Object action.
 - **Rapid Attack:** The cutthroat attacks with their shortsword.
-- **Cutthroats range from back-alley murderers to guild thieves to dungeon delvers:** They prefer a surprise attack to a frontal assault.
 
 

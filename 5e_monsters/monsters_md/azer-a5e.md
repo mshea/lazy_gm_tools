@@ -25,8 +25,8 @@
 
 ### Actions
 
-- **Hammer:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 3 (1d6) fire damage.
-- **Heat Metal:** Ranged Spell Attack: +4 to hit  range 60 ft.  one creature wearing or holding a metal object. Hit: 9 (2d8) fire damage. If a creature is holding the object and suffers damage  it makes a DC 12 Constitution saving throw  dropping the object on a failure.
+- **Hammer:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 3 (1d6) fire damage.
+- **Heat Metal:** Ranged Spell Attack: +4 to hit, range 60 ft., one creature wearing or holding a metal object. Hit: 9 (2d8) fire damage. If a creature is holding the object and suffers damage  it makes a DC 12 Constitution saving throw  dropping the object on a failure.
 
 ### Bonus Actions
 

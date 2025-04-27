@@ -27,7 +27,7 @@
 
 ### Actions
 
-- **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) cold damage.
+- **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) cold damage.
 - **Fog (1/Day):** The mephit exhales a cloud of fog  creating a 20-foot-radius sphere of fog centered on the mephit. The fog is heavily obscured to non-mephits. The fog cloud is immobile  spreads around corners  and remains for 10 minutes or until dispersed by a strong wind.
 - **Freezing Breath (1/Day):** The mephit exhales a 15-foot cone of ice. Each creature in the area makes a DC 10 Constitution saving throw  taking 5 (2d4) cold damage on a failed save or half damage on a success.
 

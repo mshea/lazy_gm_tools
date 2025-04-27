@@ -13,6 +13,9 @@
 | 8 (-1) | 16 (+3) | 14 (+2) | 10 (+0) | 8 (-1) | 8 (-1) |
 
 - **Skills:** Stealth +7
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 9
 - **Languages:** Common, Goblin

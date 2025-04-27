@@ -28,7 +28,7 @@
 
 ### Actions
 
-- **Grab:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 22 (5d6 + 5) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 11).
-- **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one grappled target. Hit: 32 (5d10 + 5) piercing damage  and the horde regains the same number of hit points.
+- **Grab:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 22 (5d6 + 5) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 11).
+- **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one grappled target. Hit: 32 (5d10 + 5) piercing damage  and the horde regains the same number of hit points.
 
 

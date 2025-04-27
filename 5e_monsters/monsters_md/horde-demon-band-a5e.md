@@ -29,6 +29,6 @@
 ### Actions
 
 - **Multiattack:** The band attacks twice.
-- **Mob Attack:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one creature. Hit: 50 (10d6 + 15) slashing damage  or half damage if the band is bloodied.
+- **Mob Attack:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 50 (10d6 + 15) slashing damage  or half damage if the band is bloodied.
 
 

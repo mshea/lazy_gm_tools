@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Wis +8, Cha +9
 - **Skills:** Athletics +8, Insight +8, Perception +8, Survival +8
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, frightened, poisoned

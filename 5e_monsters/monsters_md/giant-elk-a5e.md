@@ -18,7 +18,7 @@
 
 ### Actions
 
-- **Ram:** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 11 (2d6+4) bludgeoning damage. If the target is a creature and the elk moves at least 20 feet straight towards the target before the attack  the target makes a DC 14 Strength saving throw  falling prone on a failure.
+- **Ram:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6+4) bludgeoning damage. If the target is a creature and the elk moves at least 20 feet straight towards the target before the attack  the target makes a DC 14 Strength saving throw  falling prone on a failure.
 
 ### Bonus Actions
 

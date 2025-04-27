@@ -25,6 +25,6 @@
 ### Actions
 
 - **Multiattack:** The fungus makes a rotting touch attack against two different creatures.
-- **Rotting Touch:** Melee Weapon Attack: +2 to hit  reach 15 ft.  one target. Hit: 5 (1d10) necrotic damage.
+- **Rotting Touch:** Melee Weapon Attack: +2 to hit, reach 15 ft., one target. Hit: 5 (1d10) necrotic damage.
 
 

@@ -29,9 +29,9 @@
 ### Actions
 
 - **Multiattack:** The devil makes two attacks with its fork and one with its tail. It can replace any melee attack with Hurl Flame.
-- **Fork:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 12 (2d6 + 5) piercing damage plus 3 (1d6) fire damage.
-- **Tail:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 10 (1d10 + 5) piercing damage. If the target is a creature other than an undead or construct  it makes a DC 17 Constitution saving throw. On a failure  it receives an infernal wound and takes 11 (2d10) ongoing piercing damage. Each time the devil hits the wounded target with this attack  the ongoing damage increases by 11 (2d10). A creature can spend an action to make a DC 12 Medicine check  ending the ongoing damage on a success. At least 1 hit point of magical healing also ends the ongoing damage.
-- **Hurl Flame:** Ranged Spell Attack: +7 to hit  range 150 ft.  one target. Hit: 10 (3d6) fire damage. If the target is an unattended flammable object or a creature  it catches fire  taking 5 (1d10) ongoing fire damage. A creature can use an action to extinguish this fire.
+- **Fork:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 3 (1d6) fire damage.
+- **Tail:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage. If the target is a creature other than an undead or construct  it makes a DC 17 Constitution saving throw. On a failure  it receives an infernal wound and takes 11 (2d10) ongoing piercing damage. Each time the devil hits the wounded target with this attack  the ongoing damage increases by 11 (2d10). A creature can spend an action to make a DC 12 Medicine check  ending the ongoing damage on a success. At least 1 hit point of magical healing also ends the ongoing damage.
+- **Hurl Flame:** Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 10 (3d6) fire damage. If the target is an unattended flammable object or a creature  it catches fire  taking 5 (1d10) ongoing fire damage. A creature can use an action to extinguish this fire.
 - **Inferno (1/Day, While Bloodied):** The devil waves its fork  igniting a trail of roaring flame. Any creature within 10 feet of the devil makes a DC 15 Dexterity saving throw  taking 49 (14d6) fire damage on a failure or half damage on a success.
 
 ### Reactions

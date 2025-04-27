@@ -22,8 +22,8 @@
 
 ### Actions
 
-- **Claws (True Form Only):** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6+3) slashing damage. If the grimalkin moves at least 20 feet straight towards the target before the attack  the target makes a DC 12 Strength saving throw  falling prone on a failure.
-- **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d4+3) piercing damage.
+- **Claws (True Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) slashing damage. If the grimalkin moves at least 20 feet straight towards the target before the attack  the target makes a DC 12 Strength saving throw  falling prone on a failure.
+- **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage.
 
 ### Bonus Actions
 

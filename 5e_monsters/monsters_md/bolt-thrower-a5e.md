@@ -26,7 +26,7 @@
 ### Actions
 
 - **Multiattack:** The bolt-thrower attacks once with each of its crossbows.
-- **Light Crossbow:** Ranged Weapon Attack: +5 to hit  range 80/320 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
-- **Heavy Crossbow:** Ranged Weapon Attack: +5 to hit  range 100/400 ft.  one target. Hit: 8 (1d10 + 3) piercing damage.
+- **Light Crossbow:** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+- **Heavy Crossbow:** Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
 
 

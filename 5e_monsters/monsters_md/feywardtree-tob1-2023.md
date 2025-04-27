@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +3, Wis +3, Cha +1
 - **Skills:** Perception +3
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, poison, psychic
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

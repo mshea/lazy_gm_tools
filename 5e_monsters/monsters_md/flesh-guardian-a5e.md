@@ -31,8 +31,8 @@
 ### Actions
 
 - **Multiattack:** The guardian attacks twice with its slam.
-- **Slam:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-- **Hurl Object:** Ranged Weapon Attack: +7 to hit  range 20/60 ft.  one target. Hit: 18 (4d6 + 4) bludgeoning damage.
+- **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+- **Hurl Object:** Ranged Weapon Attack: +7 to hit, range 20/60 ft., one target. Hit: 18 (4d6 + 4) bludgeoning damage.
 - **Lightning Bolt (1/Day, While Bloodied):** An 80-foot-long  5-foot-wide lightning bolt springs from the guardians chest. Each creature in the area makes a DC 15 Dexterity saving throw  taking 28 (8d6) lightning damage on a failed save or half damage on a success.
 
 

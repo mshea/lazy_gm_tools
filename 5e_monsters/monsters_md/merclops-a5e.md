@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The merclops makes two melee attacks.
-- **Club:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 18 (3d8 + 5) bludgeoning damage.
-- **Harpoon:** Melee or Ranged Weapon Attack: +8 to hit  reach 10 ft. or range 90 ft. (see Poor Depth Perception)  one target. Hit: 27 (4d10 + 5) piercing damage. The target makes a DC 16 Strength saving throw. On a failure  the merclops pulls the target up to 30 feet toward the merclops.
+- **Club:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
+- **Harpoon:** Melee or Ranged Weapon Attack: +8 to hit, reach 10 ft. or range 90 ft. (see Poor Depth Perception)  one target. Hit: 27 (4d10 + 5) piercing damage. The target makes a DC 16 Strength saving throw. On a failure  the merclops pulls the target up to 30 feet toward the merclops.
 
 ### Bonus Actions
 

@@ -13,6 +13,10 @@
 | 11 (+0) | 18 (+4) | 17 (+3) | 2 (-4) | 16 (+3) | 6 (-2) |
 
 - **Skills:** Perception +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** blindsight 10 ft., passive Perception 15
 - **Languages:** —
 

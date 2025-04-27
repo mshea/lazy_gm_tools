@@ -19,7 +19,7 @@
 ### Actions
 
 - **Multiattack:** The scorpion attacks once with its claws and once with its sting.
-- **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6+2) bludgeoning damage and the target is grappled (escape DC 12). Until this grapple ends  the scorpion can't attack a different target with its claws.
-- **Sting:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8+2) piercing damage and the target makes a DC 12 Constitution saving throw  taking 16 (3d10) poison damage on a failure or half damage on a success.
+- **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6+2) bludgeoning damage and the target is grappled (escape DC 12). Until this grapple ends  the scorpion can't attack a different target with its claws.
+- **Sting:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) piercing damage and the target makes a DC 12 Constitution saving throw  taking 16 (3d10) poison damage on a failure or half damage on a success.
 
 

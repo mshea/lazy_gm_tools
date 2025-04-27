@@ -12,7 +12,11 @@
 | --- | --- | --- | --- | --- | --- |
 | 9 (-1) | 12 (+1) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** poison
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Common, Erina
 

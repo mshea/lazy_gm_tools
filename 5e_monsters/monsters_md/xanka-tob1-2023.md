@@ -12,6 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 15 (+2) | 12 (+1) | 4 (-3) | 10 (+0) | 7 (-2) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** force
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

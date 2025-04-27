@@ -28,8 +28,8 @@
 ### Actions
 
 - **Multiattack:** The troll attacks with its bite and twice with its claw. When the troll uses Multiattack  it can use Charming Murmur in place of its bite.
-- **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
-- **Claw:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) slashing damage.
+- **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+- **Claw:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
 - **Charming Murmur:** One creature within 60 feet that can hear the troll makes a DC 12 Charisma saving throw. On a failure  it is charmed for 1 minute. While charmed  its Speed is 0. The creature repeats the saving throw whenever it takes damage.
 
 

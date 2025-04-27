@@ -18,8 +18,8 @@
 
 ### Actions
 
-- **Shortsword:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) piercing damage.
-- **Shortbow:** Ranged Weapon Attack: +3 to hit  range 80/320 ft.  one target. Hit: 4 (1d6 + 1) piercing damage.
+- **Shortsword:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+- **Shortbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Shield Wall:** The goblin and a goblin within 5 feet of it gain three-quarters cover.
 
 ### Bonus Actions

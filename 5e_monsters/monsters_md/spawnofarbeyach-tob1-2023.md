@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Wis +4
 - **Skills:** Perception +4, Stealth +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

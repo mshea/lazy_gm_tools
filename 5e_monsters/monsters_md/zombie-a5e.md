@@ -25,7 +25,7 @@
 
 ### Actions
 
-- **Grab:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 11). Until the grapple ends  the zombie can't grab another target.
-- **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one grappled target. Hit: 6 (1d10 + 1) piercing damage  and the zombie regains the same number of hit points.
+- **Grab:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 11). Until the grapple ends  the zombie can't grab another target.
+- **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one grappled target. Hit: 6 (1d10 + 1) piercing damage  and the zombie regains the same number of hit points.
 
 

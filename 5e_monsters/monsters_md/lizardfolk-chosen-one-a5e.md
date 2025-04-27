@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The lizardfolk attacks once with its shield and twice with its trident.
-- **Shield:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d4 + 3) bludgeoning damage  and the target makes a DC 13 Strength check. On a failure  it is knocked prone.
-- **Trident:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 10 (2d6 + 3) piercing damage  and the lizardfolk gains temporary hit points equal to half the damage dealt.
+- **Shield:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage  and the target makes a DC 13 Strength check. On a failure  it is knocked prone.
+- **Trident:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 10 (2d6 + 3) piercing damage  and the lizardfolk gains temporary hit points equal to half the damage dealt.
 
 ### Reactions
 

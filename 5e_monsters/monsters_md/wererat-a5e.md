@@ -25,9 +25,9 @@
 
 ### Actions
 
-- **Shortsword (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage  or 12 (3d6 + 2) piercing damage if the attack is made with advantage.
-- **Hand Crossbow (Humanoid or Hybrid Form Only):** Melee or Ranged Weapon Attack: +4 to hit  range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage  or 12 (3d6 + 2) piercing damage if the attack is made with advantage.
-- **Bite (Rat or Hybrid Form Only):** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid  it makes a DC 11 Constitution saving throw. On a failure  it is cursed with wererat lycanthropy.
+- **Shortsword (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage  or 12 (3d6 + 2) piercing damage if the attack is made with advantage.
+- **Hand Crossbow (Humanoid or Hybrid Form Only):** Melee or Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage  or 12 (3d6 + 2) piercing damage if the attack is made with advantage.
+- **Bite (Rat or Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid  it makes a DC 11 Constitution saving throw. On a failure  it is cursed with wererat lycanthropy.
 
 ### Bonus Actions
 

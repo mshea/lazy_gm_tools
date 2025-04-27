@@ -14,7 +14,9 @@
 
 - **Skills:** Perception +5, Stealth +5
 - **Damage Vulnerabilities:** radiant; bludgeoning, piercing, and slashing from nonmagical attacks made with silvered weapons
+- **Damage Immunities:** False
 - **Damage Resistances:** lightning, thunder
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Giant, Goblin, telepathy 60 ft.
 

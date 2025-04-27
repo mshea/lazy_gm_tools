@@ -29,9 +29,9 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws. In place of its bite attack  it can Spit Fire.
-- **Bite:** Melee Weapon Attack: +18 to hit  reach 15 ft.  one target. Hit: 32 (4d10 + 10) piercing damage plus 9 (2d8) fire damage.
-- **Claw:** Melee Weapon Attack: +18 to hit  reach 10 ft.  one target. Hit: 28 (4d8 + 10) slashing damage.
-- **Tail:** Melee Weapon Attack: +18 to hit  reach 20 ft.  one target. Hit: 23 (3d8 + 10) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **Bite:** Melee Weapon Attack: +18 to hit, reach 15 ft., one target. Hit: 32 (4d10 + 10) piercing damage plus 9 (2d8) fire damage.
+- **Claw:** Melee Weapon Attack: +18 to hit, reach 10 ft., one target. Hit: 28 (4d8 + 10) slashing damage.
+- **Tail:** Melee Weapon Attack: +18 to hit, reach 20 ft., one target. Hit: 23 (3d8 + 10) bludgeoning damage  and the dragon pushes the target 10 feet away.
 - **Cruel Tyranny:** The dragon snarls and threatens its minions  driving them to immediate action. The dragon chooses one creature it can see and that can hear the dragon. The creature uses its reaction to make one weapon attack with advantage. If the dragon is bloodied  it can use this ability on three minions at once.
 - **Spit Fire:** The dragon targets a creature within 60 feet  forcing it to make a DC 22 Dexterity saving throw. The creature takes 22 (4d10) fire damage on a failure or half damage on a success. A creature that fails the save also takes 11 (2d10) ongoing fire damage. A creature can use an action to end the ongoing damage.
 - **Fire Breath (Recharge 5-6):** The dragon exhales a blast of fire in a 90-foot cone. Each creature in that area makes a DC 25 Dexterity saving throw  taking 98 (28d6) fire damage on a failed save or half damage on a success. A creature that fails the saving throw also takes 11 (2d10) ongoing fire damage. While affected by this ongoing damage  it is frightened of the dragon. A creature can use an action to end the ongoing damage.

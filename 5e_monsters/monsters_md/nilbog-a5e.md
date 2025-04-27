@@ -22,8 +22,8 @@
 
 ### Actions
 
-- **Rat flail:** Melee Weapon Attack: +5 to hit  reach 10 ft.  one target. Hit: 9 (3d4 + 1) bludgeoning or piercing damage.
-- **Fetid sling:** Ranged Weapon Attack: +3 to hit  range 20/60 ft.  one target. Hit: 3(1d6) bludgeoning damage  and the target must make a DC 14 Constitutionsaving throw. On a failure  the target is poisoned for 1minute.
+- **Rat flail:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (3d4 + 1) bludgeoning or piercing damage.
+- **Fetid sling:** Ranged Weapon Attack: +3 to hit, range 20/60 ft., one target. Hit: 3(1d6) bludgeoning damage  and the target must make a DC 14 Constitutionsaving throw. On a failure  the target is poisoned for 1minute.
 
 ### Bonus Actions
 

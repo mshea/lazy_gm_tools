@@ -18,7 +18,7 @@
 
 ### Actions
 
-- **Precise Strike:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is surprised  it takes an extra 10 (3d6) damage.
+- **Precise Strike:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is surprised  it takes an extra 10 (3d6) damage.
 
 ### Bonus Actions
 

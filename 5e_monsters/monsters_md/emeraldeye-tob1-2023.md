@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +4, Con +4
 - **Skills:** Arcana +6, Deception +5, History +6, Perception +3, Persuasion +5, Religion +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** cold, fire, piercing
 - **Condition Immunities:** blinded, deafened, charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, unconscious

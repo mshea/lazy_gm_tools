@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 21 (3d10 + 5) piercing damage plus 4 (1d8) lightning damage.
-- **Claw:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) slashing damage.
+- **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) piercing damage plus 4 (1d8) lightning damage.
+- **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales a 60-foot-long  5-foot-wide line of lightning. Each creature in that area makes a DC 16 Dexterity saving throw  taking 44 (8d10) lightning damage on a failed save or half damage on a success. A creature that fails the save can't take reactions until the end of its next turn.
 
 

@@ -14,6 +14,8 @@
 
 - **Saving Throws**: Wis +6
 - **Skills:** Intimidation +8, Stealth +7
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from attacks not made with cold iron weapons
 - **Condition Immunities:** charmed, frightened
 - **Senses:** blindsight 30 ft., passive Perception 12

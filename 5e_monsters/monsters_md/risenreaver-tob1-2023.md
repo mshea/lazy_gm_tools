@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Dex +6
 - **Skills:** Perception +1
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive perception 11
 - **Languages:** the languages it knew in life
 

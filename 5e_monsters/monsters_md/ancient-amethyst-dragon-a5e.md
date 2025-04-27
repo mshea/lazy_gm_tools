@@ -29,8 +29,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws. In place of its bite  it can use Psionic Wave.
-- **Bite:** Melee Weapon Attack: +13 to hit  reach 15 ft.  one target. Hit: 28 (4d10 + 6) piercing damage plus 9 (2d8) force damage.
-- **Claws:** Melee Weapon Attack: +13 to hit  reach 10 ft.  one target. Hit: 19 (3d8 + 6) slashing damage.
+- **Bite:** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 28 (4d10 + 6) piercing damage plus 9 (2d8) force damage.
+- **Claws:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) slashing damage.
 - **Psionic Wave:** The dragon psionically emits a wave of crushing mental pressure. Each creature within 20 feet makes a DC 22 Wisdom saving throw  taking 22 (4d10) psychic damage on a failed save or half damage on a success. Creatures charmed by the dragon make this saving throw with disadvantage.
 - **Concussive Breath (Recharge 5-6):** The dragon psionically unleashes telekinetic energy in a 90-foot cone. Each creature in that area makes a DC 21 Constitution saving throw  taking 82 (15d10) force damage on a failed save or half damage on a success.
 

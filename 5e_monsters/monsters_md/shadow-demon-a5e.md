@@ -31,7 +31,7 @@
 
 - **Darken Light:** The demon magically targets a nonmagical flame or an area of magical light created by a 2nd-level or lower spell slot within 60 feet. Any area of bright light created by the light source instead casts dim light for 10 minutes.
 - **Replace Shadow:** The demon targets a humanoid within 5 feet that is in dim light and can't see the demon. The target makes a DC 13 Constitution saving throw. On a success  the target is aware of the demon. On a failure  the target is unaware of the demon  the target no longer casts a natural shadow  and the demon magically takes on the shape of the targets shadow  appearing indistinguishable from a natural shadow except when it attacks. The demon shares the targets space and moves with the target. When the demon is dealt damage while sharing the targets space  it takes half the damage (rounded down) and the other half is dealt to the target. The effect ends when the target drops to 0 hit points  the demon no longer shares the targets space  the demon or target is affected by dispel evil and good or a similar effect  or the demon begins its turn in an area of sunlight.
-- **Claws:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 14 (2d10 + 3) cold damage.
+- **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) cold damage.
 
 ### Bonus Actions
 

@@ -32,7 +32,7 @@
 ### Actions
 
 - **Multiattack:** The horde makes up to three claw attacks  but no more than one against each target.
-- **Claw:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one creature. Hit: 16 (4d6 + 2) necrotic damage  and the target makes a DC 12 Constitution saving throw. On a failure  the target is cursed until it finishes a short or long rest or is the subject of remove curse or a similar spell. While cursed  the target makes attack rolls  Strength checks  and Strength saving throws with disadvantage. If the target dies while cursed  a new undead shadow rises from the corpse in 1d4 hours  the corpse no longer casts a natural shadow  and the target can't be raised from the dead until the new shadow is destroyed.
+- **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 16 (4d6 + 2) necrotic damage  and the target makes a DC 12 Constitution saving throw. On a failure  the target is cursed until it finishes a short or long rest or is the subject of remove curse or a similar spell. While cursed  the target makes attack rolls  Strength checks  and Strength saving throws with disadvantage. If the target dies while cursed  a new undead shadow rises from the corpse in 1d4 hours  the corpse no longer casts a natural shadow  and the target can't be raised from the dead until the new shadow is destroyed.
 
 ### Bonus Actions
 

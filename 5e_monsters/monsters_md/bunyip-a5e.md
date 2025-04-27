@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The bunyip makes a bite attack and two slam attacks.
-- **Bite:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 19 (2d12+6) piercing damage  and the target is grappled (escape DC 17). Until this grapple ends  the target is restrained  and the bunyip can't bite another target.
-- **Slam:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 17 (2d10+6) bludgeoning damage.
+- **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (2d12+6) piercing damage  and the target is grappled (escape DC 17). Until this grapple ends  the target is restrained  and the bunyip can't bite another target.
+- **Slam:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 17 (2d10+6) bludgeoning damage.
 
 ### Bonus Actions
 

@@ -23,7 +23,6 @@
 
 ### Actions
 
-- **Spear:** Melee or Ranged Weapon Attack: +3 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d6 + 1) piercing damage.
-- **Dragonbound warriors serve a dragon by choice or compulsion:** A dragonbound warrior typically guards their masters lair or patrols the surrounding area. Most dragonbound warriors are dragonborn or kobolds  but anyone can fall sway to a dragons majesty.
+- **Spear:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 
 

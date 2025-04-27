@@ -14,7 +14,10 @@
 
 - **Saving Throws**: Dex +5
 - **Skills:** Athletics +5, Stealth +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** cold, fire, lightning
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Behtu, Common, Infernal
 

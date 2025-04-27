@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +4, Wis +8
 - **Skills:** Arcana +7, Athletics +10, History +7, Perception +8
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, paralyzed, poisoned

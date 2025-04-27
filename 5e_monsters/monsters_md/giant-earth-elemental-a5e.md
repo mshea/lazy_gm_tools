@@ -29,8 +29,8 @@
 ### Actions
 
 - **Multiattack:** The elemental makes two slam attacks.
-- **Slam:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 22 (4d8 + 4) bludgeoning damage.
-- **Earths Embrace:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one Large or smaller creature. Hit: 17 (2d12 + 4) bludgeoning damage  and the target is grappled (escape DC 15). Until this grapple ends  the elemental can't burrow or use Earths Embrace and its slam attacks are made with advantage against the grappled target.
-- **Rock:** Ranged Weapon Attack: +7 to hit  range 30/90 ft.  one target. Hit: 15 (2d10 + 4) bludgeoning damage.
+- **Slam:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage.
+- **Earths Embrace:** Melee Weapon Attack: +7 to hit, reach 5 ft., one Large or smaller creature. Hit: 17 (2d12 + 4) bludgeoning damage  and the target is grappled (escape DC 15). Until this grapple ends  the elemental can't burrow or use Earths Embrace and its slam attacks are made with advantage against the grappled target.
+- **Rock:** Ranged Weapon Attack: +7 to hit, range 30/90 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage.
 
 

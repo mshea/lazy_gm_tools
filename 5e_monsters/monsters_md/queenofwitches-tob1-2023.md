@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +6, Wis +10, Cha +12
 - **Skills:** Arcana +15, Deception +12, History +9, Insight +10, Perception +10
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** radiant
 - **Damage Resistances:** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron weapons
 - **Condition Immunities:** blinded, charmed, frightened

@@ -16,6 +16,7 @@
 - **Skills:** Stealth +9
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic
+- **Damage Resistances:** False
 - **Condition Immunities:** exhaustion, petrified, prone
 - **Senses:** truesight 60 ft., passive Perception 13
 - **Languages:** Void Speech, telepathy 60 ft.

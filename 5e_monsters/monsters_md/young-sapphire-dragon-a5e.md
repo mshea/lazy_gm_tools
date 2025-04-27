@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) psychic damage.
-- **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
+- **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) psychic damage.
+- **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Discognitive Breath (Recharge 5-6):** The dragon unleashes psychic energy in a 30-foot cone. Each creature in that area makes a DC 15 Intelligence saving throw  taking 49 (9d10) psychic damage on a failed save or half damage on a success.
 
 

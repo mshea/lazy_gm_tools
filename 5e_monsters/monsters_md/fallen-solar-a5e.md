@@ -29,7 +29,7 @@
 ### Actions
 
 - **Multiattack:** The solar attacks twice with its holy sword.
-- **Holy Sword:** Melee Weapon Attack: +16 to hit  reach 10 ft.  one target. Hit: 23 (4d6 + 9) slashing damage plus 21 (6d6) radiant damage.
+- **Holy Sword:** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 23 (4d6 + 9) slashing damage plus 21 (6d6) radiant damage.
 - **Column of Flame:** Flame erupts in a 10-foot-radius  30-foot-tall cylinder centered on a point the solar can see within 60 feet of it. Each creature in the area makes a DC 21 Dexterity saving throw  taking 21 (6d6) fire damage and 21 (6d6) radiant damage of a failure  or half as much damage on a success.
 - **Consume Life Energy (1/Day):** The angel feasts on the departing life energy of a humanoid within 5 feet. The target must have been slain within the last hour. The angel magically gains temporary hit points equal to half the dead creatures maximum hit points. These hit points last until depleted. Only a spell cast with a 9th-level slot can raise the corpse from the dead.
 

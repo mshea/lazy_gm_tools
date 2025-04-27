@@ -26,9 +26,9 @@
 ### Actions
 
 - **Multiattack:** The ettin makes a battleaxe attack and a club attack.
-- **Battleaxe:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) slashing damage.
-- **Club:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature and the ettin is bloodied  the target makes a DC 15 Strength check and is knocked prone on a failure.
-- **Rock:** Ranged Weapon Attack: +7 to hit  range 30/90 ft.  one target. Hit: 21 (3d10 + 5) bludgeoning damage.
+- **Battleaxe:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.
+- **Club:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature and the ettin is bloodied  the target makes a DC 15 Strength check and is knocked prone on a failure.
+- **Rock:** Ranged Weapon Attack: +7 to hit, range 30/90 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage.
 - **Axe Whirl (1/Day):** The ettin makes a battleaxe attack against each creature within 10 feet.
 
 

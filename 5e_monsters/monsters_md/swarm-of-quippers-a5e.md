@@ -25,6 +25,6 @@
 
 ### Actions
 
-- **Bites:** Melee Weapon Attack: +5 to hit  reach 0 ft.  one target. Hit: 10 (4d4) piercing damage  or 5 (2d4) piercing damage if the swarm is bloodied. On a hit  the swarm can use a bonus action to make a second bites attack.
+- **Bites:** Melee Weapon Attack: +5 to hit, reach 0 ft., one target. Hit: 10 (4d4) piercing damage  or 5 (2d4) piercing damage if the swarm is bloodied. On a hit  the swarm can use a bonus action to make a second bites attack.
 
 

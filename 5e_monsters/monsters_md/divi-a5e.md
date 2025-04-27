@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The divi makes two melee attacks.
-- **Crushing Hand:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 15 (2d8 + 6) bludgeoning damage  and the target is grappled (escape DC 18). Until this grapple ends  the divi can't use Crushing Hand on another target and has advantage on Crushing Hand attacks against this target  and the target can't breathe.
-- **Stone Club:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 24 (4d8 + 6) bludgeoning damage.
+- **Crushing Hand:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage  and the target is grappled (escape DC 18). Until this grapple ends  the divi can't use Crushing Hand on another target and has advantage on Crushing Hand attacks against this target  and the target can't breathe.
+- **Stone Club:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 24 (4d8 + 6) bludgeoning damage.
 - **Quake (Recharge 5-6):** Amid deafening rumbling  the ground shakes in a 10-foot radius around a point on an earth or stone surface within 90 feet. The area becomes difficult terrain. Each non-elemental creature in the area makes a DC 18 Constitution saving throw  taking 24 (7d6) thunder damage and falling prone on a failure or taking half damage on a success.
 
 ### Bonus Actions

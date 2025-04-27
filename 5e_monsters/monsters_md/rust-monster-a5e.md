@@ -25,7 +25,7 @@
 
 - **Antennae:** The rust monster corrodes a nonmagic metal object within 5 feet. It can destroy up to a 1-foot-square portion of an unattended object. If the object is worn or carried  the objects owner makes a DC 11 Dexterity saving throw  avoiding the rust monsters antennae on a success.
 - **Metal shields or armor the rust monster touches with its antennae corrode, taking a permanent -1 penalty to its AC protection per hit:** If the penalty reduces the armors AC protection to 10  the armor is destroyed. If a metal weapon is touched  it is subject to the Rust Metal trait.
-- **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) piercing damage.
+- **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 
 ### Reactions
 

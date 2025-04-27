@@ -26,7 +26,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Torrential Breath (Recharge 5-6):** The dragon exhales water in a 15-foot-long  5-foot-wide line. Each creature in the area makes a DC 11 Dexterity saving throw  taking 14 (4d6) bludgeoning damage on a failed save or half damage on a success.
 
 

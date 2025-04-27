@@ -14,6 +14,9 @@
 
 - **Saving Throws**: Dex +7, Con +8, Cha +7
 - **Skills:** Deception +7, Intimidation +7, Perception +9, Stealth +7
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 19
 - **Languages:** Common, Giant, Sylvan

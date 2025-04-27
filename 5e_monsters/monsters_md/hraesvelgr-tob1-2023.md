@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +6, Int +9, Wis +9, Cha +11
 - **Skills:** Athletics +13, Perception +9, Survival +9
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances:** lightning, thunder
 - **Condition Immunities:** exhaustion

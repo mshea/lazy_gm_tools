@@ -13,6 +13,8 @@
 | 19 (+4) | 9 (-1) | 15 (+2) | 12 (+1) | 16 (+3) | 10 (+0) |
 
 - **Saving Throws**: Dex +2, Con +5
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

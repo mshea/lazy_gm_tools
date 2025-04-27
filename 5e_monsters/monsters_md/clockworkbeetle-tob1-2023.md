@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Dex +5
 - **Skills:** Stealth +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** understands the languages of its creator but can’t speak

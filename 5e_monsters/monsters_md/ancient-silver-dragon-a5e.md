@@ -27,10 +27,10 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks with its bite and twice with its claws. In place of its bite  it can use Spit Frost.
-- **Bite:** Melee Weapon Attack: +17 to hit  reach 15 ft.  one target. Hit: 32 (4d10 + 10) piercing damage plus 9 (2d8) cold damage.
-- **Claws:** Melee Weapon Attack: +17 to hit  reach 10 ft.  one target. Hit: 23 (3d8 + 10) slashing damage.
-- **Tail:** Melee Weapon Attack: +17 to hit  reach 20 ft.  one target. Hit: 23 (3d8 + 10) bludgeoning damage  and the dragon pushes the target 10 feet away.
-- **Rapier (Humanoid Form Only):** Melee Weapon Attack: +17 to hit  reach 5 ft.  one target. Hit: 14 (1d8 + 10) piercing damage.
+- **Bite:** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 32 (4d10 + 10) piercing damage plus 9 (2d8) cold damage.
+- **Claws:** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 23 (3d8 + 10) slashing damage.
+- **Tail:** Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 23 (3d8 + 10) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **Rapier (Humanoid Form Only):** Melee Weapon Attack: +17 to hit, reach 5 ft., one target. Hit: 14 (1d8 + 10) piercing damage.
 - **Spit Frost:** The dragon targets a creature within 60 feet  forcing it to make a DC 24 Constitution saving throw. The target takes 22 (4d10) cold damage on a failure or half damage on a success. On a failure  the creatures Speed is also halved until the end of its next turn. Flying creatures immediately fall unless they are magically kept aloft.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Frost Breath:** The dragon exhales freezing wind in a 90-foot cone. Each creature in the area makes a DC 24 Constitution saving throw  taking 90 (20d8) cold damage on a failed save or half damage on a success. On a failure  the creature is also slowed until the end of its next turn.

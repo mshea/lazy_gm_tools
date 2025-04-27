@@ -27,9 +27,9 @@
 ### Actions
 
 - **Multiattack:** The ettercap attacks with its bite and claws.
-- **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one creature. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) poison damage.
-- **Claws:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (2d4 + 3) slashing damage.
-- **Strangle:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one Medium or smaller creature against which the ettercap has advantage on the attack roll. Hit: 7 (1d8 + 3) bludgeoning damage  and the target is grappled (escape DC 13). Until this grapple ends  the ettercap automatically hits the target with its strangle attack  and the target can't breathe.
+- **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) poison damage.
+- **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
+- **Strangle:** Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature against which the ettercap has advantage on the attack roll. Hit: 7 (1d8 + 3) bludgeoning damage  and the target is grappled (escape DC 13). Until this grapple ends  the ettercap automatically hits the target with its strangle attack  and the target can't breathe.
 
 ### Bonus Actions
 

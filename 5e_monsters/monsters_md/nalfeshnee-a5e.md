@@ -28,8 +28,8 @@
 ### Actions
 
 - **Multiattack:** The nalfeshnee makes a bite attack and a claws attack.
-- **Bite:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 32 (5d10 + 5) piercing damage. If it uses its bite on a dead  non-demon creature  it regains 27 (5d10) hit points and recharges its Horror Nimbus. It may gain this benefit only once per creature.
-- **Claws:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 31 (4d12 + 5) slashing damage.
+- **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 32 (5d10 + 5) piercing damage. If it uses its bite on a dead  non-demon creature  it regains 27 (5d10) hit points and recharges its Horror Nimbus. It may gain this benefit only once per creature.
+- **Claws:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 31 (4d12 + 5) slashing damage.
 - **Chaos Blast:** Beams of multicolored light arc through a 15-foot-radius sphere centered on a point within 90 feet. Each creature in the area that does not have a Chaotic alignment makes a DC 16 Wisdom saving throw  taking 52 (8d12) force damage on a failure or half damage on a success.
 
 ### Bonus Actions

@@ -23,6 +23,6 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4+2) piercing damage. Giant rats who dwell in sewers and filth can carry debilitating disease. A creature bitten by a diseased giant rat makes a DC 10 Constitution saving throw or it becomes infected with sewer plague.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage. Giant rats who dwell in sewers and filth can carry debilitating disease. A creature bitten by a diseased giant rat makes a DC 10 Constitution saving throw or it becomes infected with sewer plague.
 
 

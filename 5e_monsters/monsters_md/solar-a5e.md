@@ -28,7 +28,7 @@
 ### Actions
 
 - **Multiattack:** The solar attacks twice with its holy sword.
-- **Holy Sword:** Melee Weapon Attack: +16 to hit  reach 10 ft.  one target. Hit: 23 (4d6 + 9) slashing damage plus 21 (6d6) radiant damage.
+- **Holy Sword:** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 23 (4d6 + 9) slashing damage plus 21 (6d6) radiant damage.
 - **Column of Flame:** Flame erupts in a 10-foot-radius  30-foot-tall cylinder centered on a point the solar can see within 60 feet of it. Each creature in the area makes a DC 21 Dexterity saving throw  taking 21 (6d6) fire damage and 21 (6d6) radiant damage of a failure  or half as much damage on a success.
 
 ### Reactions

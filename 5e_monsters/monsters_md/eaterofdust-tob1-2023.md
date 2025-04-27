@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Str +9, Con +9, Cha +7
 - **Skills:** Athletics +9, Intimidation +7, Perception +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, poison
 - **Damage Resistances:** acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, poisoned

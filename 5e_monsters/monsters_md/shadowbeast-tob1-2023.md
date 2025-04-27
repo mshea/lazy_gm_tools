@@ -14,6 +14,8 @@
 
 - **Saving Throws**: Con +6, Wis +5
 - **Skills:** Stealth +8
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, restrained
 - **Senses:** darkvision 60 ft., passive Perception 12

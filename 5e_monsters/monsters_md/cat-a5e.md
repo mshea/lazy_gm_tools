@@ -23,6 +23,6 @@
 
 ### Actions
 
-- **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 1 slashing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
+- **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 slashing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
 
 

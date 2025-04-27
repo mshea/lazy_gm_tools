@@ -24,7 +24,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 19 (3d10 + 3) piercing damage.
+- **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 19 (3d10 + 3) piercing damage.
 - **Discognitive Breath (Recharge 5-6):** The dragon unleashes psychic energy in a 15-foot cone. Each creature in that area makes a DC 12 Intelligence saving throw  taking 22 (4d10) psychic damage on a failed save or half damage on a success.
 
 

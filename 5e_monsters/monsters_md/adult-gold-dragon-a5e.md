@@ -27,10 +27,10 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +18 to hit  reach 15 ft.  one target. Hit: 32 (4d10 + 10) piercing damage plus 9 (2d8) fire damage.
-- **Claws:** Melee Weapon Attack: +18 to hit  reach 10 ft.  one target. Hit: 28 (4d8 + 10) slashing damage.
-- **Tail:** Melee Weapon Attack: +18 to hit  reach 20 ft.  one target. Hit: 23 (3d8 + 10) bludgeoning damage  and the dragon pushes the target 10 feet away.
-- **Greatsword (Humanoid Form Only):** Melee Weapon Attack: +18 to hit  reach 5 ft.  one target. Hit: 17 (2d6 + 10) slashing damage.
+- **Bite:** Melee Weapon Attack: +18 to hit, reach 15 ft., one target. Hit: 32 (4d10 + 10) piercing damage plus 9 (2d8) fire damage.
+- **Claws:** Melee Weapon Attack: +18 to hit, reach 10 ft., one target. Hit: 28 (4d8 + 10) slashing damage.
+- **Tail:** Melee Weapon Attack: +18 to hit, reach 20 ft., one target. Hit: 23 (3d8 + 10) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **Greatsword (Humanoid Form Only):** Melee Weapon Attack: +18 to hit, reach 5 ft., one target. Hit: 17 (2d6 + 10) slashing damage.
 - **Molten Spit:** The dragon targets one creature within 60 feet  forcing it to make a DC 25 Dexterity saving throw. The creature takes 27 (5d10) fire damage on a failure or half on a success. Liquid gold pools in a 5-foot-square occupied by the creature and remains hot for 1 minute. A creature that ends its turn in the gold or enters it for the first time on a turn takes 22 (4d10) fire damage.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Molten Breath:** The dragon exhales molten gold in a 90-foot cone. Each creature in the area makes a DC 25 Dexterity saving throw  taking 88 (16d10) fire damage on a failed save or half damage on a success. A creature that fails the saving throw is covered in a shell of rapidly cooling gold  reducing its Speed to 0. A creature can use an action to break the shell  ending the effect.

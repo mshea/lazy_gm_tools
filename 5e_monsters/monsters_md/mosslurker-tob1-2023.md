@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Str +4, Dex +4
 - **Skills:** Perception +2, Stealth +4
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 60 ft., passive Perception 12
 - **Languages:** Giant, Sylvan, Trollkin

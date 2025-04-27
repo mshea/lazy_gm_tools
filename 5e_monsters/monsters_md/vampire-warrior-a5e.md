@@ -29,9 +29,9 @@
 
 ### Actions
 
-- **Grab (Vampire Form Only):** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 4 (1d8) necrotic damage. The target is grappled (escape DC 17) and restrained while grappled in this way.
+- **Grab (Vampire Form Only):** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 4 (1d8) necrotic damage. The target is grappled (escape DC 17) and restrained while grappled in this way.
 - **Charm:** The vampire targets a creature within 30 feet  forcing it to make a DC 16 Wisdom saving throw. On a failure  the target is charmed by the vampire for 24 hours. While charmed it regards the vampire as a trusted friend and is a willing target for the vampires bite. The target repeats the saving throw each time it takes damage  ending the effect on itself on a success. If the targets saving throw is successful or the effect ends for it  it is immune to this vampires Charm for 24 hours.
-- **Reaping Greatsword:** Melee Weapon Attack: +9 to hit  reach 10 ft.  up to 3 targets. Hit: 12 (2d6 + 5) slashing damage plus 4 (1d8) necrotic damage. If the target is a creature  it makes a DC 17 Strength saving throw  falling prone on a failure.
+- **Reaping Greatsword:** Melee Weapon Attack: +9 to hit, reach 10 ft.  up to 3 targets. Hit: 12 (2d6 + 5) slashing damage plus 4 (1d8) necrotic damage. If the target is a creature  it makes a DC 17 Strength saving throw  falling prone on a failure.
 
 ### Bonus Actions
 

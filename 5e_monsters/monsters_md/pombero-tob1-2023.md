@@ -13,6 +13,10 @@
 | 17 (+3) | 16 (+3) | 16 (+3) | 8 (-1) | 10 (+0) | 14 (+2) |
 
 - **Skills:** Athletics +5, Sleight of Hand +5, Stealth +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Sylvan
 

@@ -26,8 +26,8 @@
 
 ### Actions
 
-- **Shortsword:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) piercing damage.
-- **Hand Crossbow:** Ranged Weapon Attack: +6 to hit  range 30/120 ft.  one target. Hit: 6 (1d6 + 3) piercing damage.
+- **Shortsword:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+- **Hand Crossbow:** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 
 ### Bonus Actions
 
@@ -35,6 +35,5 @@
 - **Rapid Attack:** The assassin attacks with their shortsword.
 - **Don Disguise:** The spymaster uses a disguise kit, making a Deception check to create the disguise. While the spymaster is wearing a disguise, their true identity can't be determined even if the disguise fails.
 - **Study Adversary:** The spymaster studies the defenses of a creature engaged in combat. The spymaster gains advantage on all attacks and contested ability checks against that creature for 24 hours or until they study a different creature.
-- **Dashing secret agents:** 
 
 

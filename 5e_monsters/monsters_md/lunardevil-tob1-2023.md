@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Str +8, Dex +8, Con +8, Wis +5
 - **Skills:** Perception +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; bludgeoning, piercing, and slashing damage from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

@@ -14,7 +14,10 @@
 
 - **Saving Throws**: Dex +6
 - **Skills:** Intimidation +2, Perception +1, Stealth +8
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** acid, cold, lightning
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Void Speech
 

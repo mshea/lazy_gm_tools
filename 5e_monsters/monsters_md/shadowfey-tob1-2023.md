@@ -13,6 +13,10 @@
 | 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 11 (+0) | 13 (+1) |
 
 - **Skills:** Arcana +2, Perception +2
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Elvish, Umbral
 

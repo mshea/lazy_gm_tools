@@ -28,8 +28,8 @@
 ### Actions
 
 - **Multiattack:** The vrock attacks with its beak and its talons.
-- **Beak:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) piercing damage. If the vrock has advantage on the attack roll  it deals an additional 7 (2d6) damage.
-- **Talons:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 14 (2d10 + 3) slashing damage.
+- **Beak:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the vrock has advantage on the attack roll  it deals an additional 7 (2d6) damage.
+- **Talons:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) slashing damage.
 - **Spores (1/Day):** A 15-foot-radius cloud of spores emanates from the vrock  spreading around corners. Each creature in the area makes a DC 14 Constitution saving throw  becoming poisoned for 1 minute on a failure. While poisoned in this way  the target takes ongoing 5 (1d10) poison damage. The target repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.
 
 ### Bonus Actions

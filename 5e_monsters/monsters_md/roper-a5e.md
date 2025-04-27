@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The roper makes up to four tendril attacks  then uses Reel  then attacks with its bite.
-- **Tendril:** Melee Weapon Attack: +7 to hit  reach 50 ft.  one target. Hit: The target is grappled (escape DC 15). Until this grapple ends  the target is restrained and the roper can't use this tendril on another target.
+- **Tendril:** Melee Weapon Attack: +7 to hit, reach 50 ft., one target. Hit: The target is grappled (escape DC 15). Until this grapple ends  the target is restrained and the roper can't use this tendril on another target.
 - **Reel:** The roper pulls each creature it is grappling up to 25 feet straight towards it.
-- **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) piercing damage plus 9 (2d8) acid damage.
+- **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 9 (2d8) acid damage.
 
 

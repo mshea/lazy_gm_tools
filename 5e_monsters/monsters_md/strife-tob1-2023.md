@@ -13,6 +13,10 @@
 | 8 (-1) | 20 (+5) | 14 (+2) | 13 (+1) | 14 (+2) | 16 (+3) |
 
 - **Skills:** Deception +7, Stealth +9
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Sylvan
 

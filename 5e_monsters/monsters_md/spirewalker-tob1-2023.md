@@ -14,8 +14,10 @@
 
 - **Saving Throws**: Dex +6
 - **Skills:** Acrobatics +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, thunder
 - **Damage Resistances:** piercing from nonmagical attacks
+- **Condition Immunities:** False
 - **Senses:** passive Perception 10
 - **Languages:** Common, Sylvan
 

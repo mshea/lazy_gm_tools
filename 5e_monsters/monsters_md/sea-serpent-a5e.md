@@ -25,9 +25,9 @@
 
 ### Actions
 
-- **Coils:** Melee Weapon Attack: +14 to hit  reach 5 ft.  one Large or larger target in its space. Hit: 51 (4d20 + 9) bludgeoning damage. If the target is a creature  it is grappled (escape DC 22). If the target is an object  it is held. Until the grapple or hold ends  the targets speed is reduced to 0  and the sea serpents coils attack automatically hits the target. If an attacker subjects the serpent to a critical hit  this grapple or hold ends.
-- **Tail:** Melee Weapon Attack: +14 to hit  reach 15 ft.  one target. Hit: 27 (4d8 + 9) bludgeoning damage. If the target is a creature  it makes a DC 22 Strength saving throw. On a failure  it is pushed up to 15 feet away from the serpent and knocked prone.
-- **Bite:** Melee Weapon Attack: +14 to hit  reach 15 ft.  one target. Hit: 31 (4d10 + 9) piercing damage.
+- **Coils:** Melee Weapon Attack: +14 to hit, reach 5 ft., one Large or larger target in its space. Hit: 51 (4d20 + 9) bludgeoning damage. If the target is a creature  it is grappled (escape DC 22). If the target is an object  it is held. Until the grapple or hold ends  the targets speed is reduced to 0  and the sea serpents coils attack automatically hits the target. If an attacker subjects the serpent to a critical hit  this grapple or hold ends.
+- **Tail:** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 27 (4d8 + 9) bludgeoning damage. If the target is a creature  it makes a DC 22 Strength saving throw. On a failure  it is pushed up to 15 feet away from the serpent and knocked prone.
+- **Bite:** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 31 (4d10 + 9) piercing damage.
 - **Thrash (While Bloodied):** The serpent moves up to its speed and then attacks with its tail and its bite.
 - **Recover (1/Day, While Bloodied):** The serpent ends one condition or effect on itself.
 

@@ -23,16 +23,16 @@
 - **Alchemy Schooling:** The alchemist gains their proficiency bonus and an expertise die (+1d6) on checks made with alchemists supplies.
 - **Crafting:** So long as the alchemist has the required components and equipment, they are able to craft potions of up to legendary rarity and other magic items of up to very rare rarity.
 - **Potion Crafter:** The alchemist has the following potions on hand:
-- **Potion of climbing: For 1 hour, the drinker gains a climb speed equal to its Speed and has advantage on Athletics checks made to climb:** 
-- **Potion of greater healing (3): Restores 14 (4d4 + 4) hit points:** 
-- **Potion of superior healing: Restores 28 (8d4 + 8) hit points:** 
-- **Potion of water breathing: For 1 hour, the drinker can breathe underwater:** 
+- **Potion of Climbing:** For 1 hour, the drinker gains a climb speed equal to its Speed and has advantage on Athletics checks made to climb.
+- **Potion of Greater Healing (3):** Restores 14 (4d4 + 4) hit points.
+- **Potion of Superior Healing:** Restores 28 (8d4 + 8) hit points.
+- **Potion of Water Breathing:** For 1 hour, the drinker can breathe underwater.
 
 ### Actions
 
 - **Multiattack:** The alchemist attacks twice with their dagger.
-- **Dagger:** Melee or Ranged Weapon Attack: +6 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage.
-- **Bomb (3/Day):** The alchemist lobs a bomb at a point they can see within 80 feet. Upon impact  the bomb explodes in a 10-foot radius. Creatures in the area make a DC 15 Dexterity saving throw  taking 24 (7d6) fire damage on a failure or half damage on a success.
+- **Dagger:** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage.
+- **Bomb (3/Day):** The alchemist lobs a bomb at a point they can see within 80 feet. Upon impact the bomb explodes in a 10-foot radius. Creatures in the area make a DC 15 Dexterity saving throw taking 24 (7d6) fire damage on a failure or half damage on a success.
 
 ### Bonus Actions
 
@@ -42,7 +42,5 @@
 ### Reactions
 
 - **Desperate Drink (1/Day:** When the alchemist is dealt damage, they drink a potion.
-- **In the biggest cities:** 
-- **A typical cosmopolitan alchemist employs a trusted underling:** 
 
 

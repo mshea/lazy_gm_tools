@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +10, Con +8, Cha +9
 - **Skills:** Acrobatics +10, Deception +9, Perception +7, Performance +9, Sleight of Hand +10, Stealth +10
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances:** cold
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned

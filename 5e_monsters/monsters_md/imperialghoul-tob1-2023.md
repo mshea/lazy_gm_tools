@@ -12,7 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 14 (+2) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Darakhul, Undercommon

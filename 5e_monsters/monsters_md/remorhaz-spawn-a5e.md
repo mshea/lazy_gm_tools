@@ -25,7 +25,7 @@
 ### Actions
 
 - **Multiattack:** The remorhaz makes a bite attack and then a constrict attack.
-- **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage plus 3 (1d6) fire damage.
-- **Constrict:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is subjected to the remorhazs Heated Body trait. The target is grappled (escape DC 15) and restrained while grappled. Until this grapple ends  the remorhaz can't grapple another creature.
+- **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 3 (1d6) fire damage.
+- **Constrict:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is subjected to the remorhazs Heated Body trait. The target is grappled (escape DC 15) and restrained while grappled. Until this grapple ends  the remorhaz can't grapple another creature.
 
 

@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +4
 - **Skills:** Athletics +8, Perception +3, Stealth +4
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** acid, cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

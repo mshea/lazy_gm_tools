@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +9, Con +5, Cha +3
 - **Skills:** Intimidation +3, Perception +3, Stealth +9
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** paralyzed, poisoned, prone, stunned, unconscious

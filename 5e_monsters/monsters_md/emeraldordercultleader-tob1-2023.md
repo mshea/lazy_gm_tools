@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Int +5, Wis +8, Cha +5
 - **Skills:** Arcana +5, Deception +5, History +5, Religion +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** any three languages
 

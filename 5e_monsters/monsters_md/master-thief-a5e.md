@@ -28,13 +28,12 @@
 ### Actions
 
 - **Multiattack:** The master assassin attacks twice.
-- **Shortsword:** Melee Weapon Attack: +11 to hit  reach 5 ft.  one target. Hit: 8 (1d6 + 5) piercing damage. The target makes a DC 19 Constitution saving throw  taking 17 (5d6) poison damage on a failure  or half as much damage on a success.
-- **Light Crossbow:** Ranged Weapon Attack: +11 to hit  range 80/320 ft.  one target. Hit: 9 (1d8 + 5) piercing damage. The target makes a DC 19 Constitution saving throw  taking 17 (5d6) poison damage on a failure  or half as much damage on a success.
+- **Shortsword:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage. The target makes a DC 19 Constitution saving throw  taking 17 (5d6) poison damage on a failure  or half as much damage on a success.
+- **Light Crossbow:** Ranged Weapon Attack: +11 to hit, range 80/320 ft., one target. Hit: 9 (1d8 + 5) piercing damage. The target makes a DC 19 Constitution saving throw  taking 17 (5d6) poison damage on a failure  or half as much damage on a success.
 
 ### Bonus Actions
 
 - **Cunning Action:** The assassin takes the Dash, Disengage, Hide, or Use an Object action.
 - **Rapid Attack:** The assassin attacks with their shortsword.
-- **Master thieves pride themselves on being able to steal anything:** Many master thieves avoid killing when possible.
 
 

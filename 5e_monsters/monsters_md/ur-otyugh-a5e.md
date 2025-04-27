@@ -24,7 +24,7 @@
 ### Actions
 
 - **Multiattack:** The otyugh makes two tentacle attacks.
-- **Tentacle:** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 14) and restrained until the grapple ends. The otyugh has two tentacles  each of which can grapple one target and can't attack a different target while doing so.
+- **Tentacle:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 14) and restrained until the grapple ends. The otyugh has two tentacles  each of which can grapple one target and can't attack a different target while doing so.
 - **Tentacle Slam:** The otyugh slams any creatures it is grappling into a hard surface or into each other. Each creature makes a DC 14 Strength saving throw. On a failure  the target takes 10 (2d6 + 3) bludgeoning damage  is stunned until the end of the otyughs next turn  and is pulled up to 5 feet towards the otyugh. On a success  the target takes half damage.
 
 ### Bonus Actions

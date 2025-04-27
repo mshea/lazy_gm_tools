@@ -32,8 +32,8 @@
 ### Actions
 
 - **Multiattack:** The balor attacks with its lightning sword and its fire whip.
-- **Lightning Sword:** Melee Weapon Attack: +14 to hit  reach 10 ft.  one target. Hit: 21 (3d8 + 8) slashing damage plus 18 (4d8) lightning damage.
-- **Fire Whip:** Melee Weapon Attack: +14 to hit  reach 45 ft.  one target. Hit: 18 (3d6 + 8) slashing damage plus 14 (4d6) fire damage  and the target makes a DC 19 Strength saving throw. On a failure  it is pulled up to 40 feet towards the balor.
+- **Lightning Sword:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 18 (4d8) lightning damage.
+- **Fire Whip:** Melee Weapon Attack: +14 to hit, reach 45 ft., one target. Hit: 18 (3d6 + 8) slashing damage plus 14 (4d6) fire damage  and the target makes a DC 19 Strength saving throw. On a failure  it is pulled up to 40 feet towards the balor.
 - **Whip Crack (1/Day):** A 90-foot cone of thunderous flame emanates from the balor. Each creature in the area makes a DC 19 Constitution saving throw  taking 28 (8d6) fire damage and 28 (8d6) thunder damage and falling prone on a failed save or taking half damage on a successful one.
 - **Teleport:** The balor magically teleports to a space within 120 feet that it can see.
 

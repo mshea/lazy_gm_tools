@@ -28,10 +28,10 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks with its bite and twice with its claws. In place of its bite  it can use Molten Spit.
-- **Bite:** Melee Weapon Attack: +11 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) fire damage.
-- **Claws:** Melee Weapon Attack: +11 to hit  reach 5 ft.  one target. Hit: 19 (3d8 + 6) slashing damage.
-- **Tail:** Melee Weapon Attack: +11 to hit  reach 15 ft.  one target. Hit: 15 (2d8 + 6) bludgeoning damage  and the dragon pushes the target 10 feet away.
-- **Staff (Humanoid Form Only):** Melee Weapon Attack: +11 to hit  reach 5 ft.  one target. Hit: 10 (1d8 + 6) bludgeoning damage.
+- **Bite:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) fire damage.
+- **Claws:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) slashing damage.
+- **Tail:** Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **Staff (Humanoid Form Only):** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) bludgeoning damage.
 - **Molten Spit:** The dragon targets a creature within 60 feet  forcing it to make a DC 18 Dexterity saving throw. The creature takes 11 (2d10) fire damage on a failure or half damage on a success. A creature that fails the saving throw also takes 5 (1d10) ongoing fire damage. A creature can use an action to end the ongoing damage.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Molten Breath:** The dragon exhales molten glass in a 60-foot-long  5-foot-wide line. Each creature in the area makes a DC 18 Dexterity saving throw  taking 56 (16d6) fire damage on a failed save or half damage on a success. A creature that fails the save is also blinded until the end of its next turn.

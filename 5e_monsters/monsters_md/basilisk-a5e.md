@@ -19,7 +19,7 @@
 ### Actions
 
 - **Stone Gaze (Gaze):** The basilisk targets a creature within 60 feet. The target makes a DC 13 Constitution saving throw. On a failure  the target magically begins to turn to stone and is restrained. A lesser restoration spell ends this effect. At the beginning of the basilisks next turn  if still restrained  the target repeats the saving throw. On a success  the effect ends. On a failure  the target is petrified. This petrification can be removed with greater restoration or similar magic or with basilisk venom.
-- **Venomous Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) piercing damage plus 10 (3d6) poison damage.
+- **Venomous Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 10 (3d6) poison damage.
 
 ### Reactions
 

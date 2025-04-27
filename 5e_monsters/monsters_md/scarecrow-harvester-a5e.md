@@ -27,7 +27,7 @@
 ### Actions
 
 - **Multiattack:** The scarecrow uses Scare and makes two claw attacks.
-- **Claw:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 8 (1d8 + 4) slashing damage plus 3 (1d6) necrotic damage.
+- **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage plus 3 (1d6) necrotic damage.
 - **Scare:** Each creature of the scarecrows choice within 30 feet that can see the scarecrow makes a DC 13 Wisdom saving throw. On a failure  it is magically frightened for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success. If a creatures saving throw is successful or the effect ends for it  it is immune to Scare for 24 hours.
 - **Fire Breath (Recharge 4-6):** The scarecrow exhales fire in a 30-foot cone. Each creature in the area makes a DC 13 Dexterity saving throw  taking 14 (4d6) fire damage on a failed save or half damage on a success.
 - **Pumpkin Head (1/Day):** The scarecrow throws its head up to 60 feet. Each creature within 20 feet of the head makes a DC 13 Dexterity saving throw  taking 21 (6d6) fire damage on a failed save or half damage on a success. After using this action  the scarecrow no longer has a head. It can still use its senses but can no longer use Fire Breath. It can create a new head when it finishes a long rest.

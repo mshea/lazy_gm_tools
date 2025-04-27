@@ -12,6 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 10 (+0) | 17 (+3) | 8 (-1) | 16 (+3) | 8 (-1) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** cold, fire
 - **Condition Immunities:** paralyzed, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 13

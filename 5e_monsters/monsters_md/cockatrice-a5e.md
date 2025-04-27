@@ -18,7 +18,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage  and the target makes a DC 11 Constitution saving throw against being petrified. On a failure  the target is restrained as it begins to turn to stone. A lesser restoration spell ends this effect. If still restrained  the creature must repeat the saving throw at the end of its next turn. On a success  the effect ends. On a failure  the creature is petrified for 24 hours.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage  and the target makes a DC 11 Constitution saving throw against being petrified. On a failure  the target is restrained as it begins to turn to stone. A lesser restoration spell ends this effect. If still restrained  the creature must repeat the saving throw at the end of its next turn. On a success  the effect ends. On a failure  the creature is petrified for 24 hours.
 
 ### Reactions
 

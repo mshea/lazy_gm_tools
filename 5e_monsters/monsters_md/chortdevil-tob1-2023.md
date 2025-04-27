@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Str +11, Dex +9, Con +12, Int +8, Cha +9
 - **Skills:** Athletics +11, Deception +9, Insight +9, Perception +9
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, fire, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

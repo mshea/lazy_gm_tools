@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The giant makes two greatsword attacks.
-- **Greatsword:** Melee Weapon Attack: +11 to hit  reach 10 ft.  one target. Hit: 28 (6d6 + 7) slashing damage. If the target is a Large or smaller creature  it makes a DC 19 Strength saving throw. On a failure  it is pushed up to 10 feet away from the giant and knocked prone.
-- **Rock:** Ranged Weapon Attack: +11 to hit  range 60/240 ft.  one target. Hit: 42 (10d6 + 7) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 19 Strength saving throw  falling prone on a failure.
+- **Greatsword:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) slashing damage. If the target is a Large or smaller creature  it makes a DC 19 Strength saving throw. On a failure  it is pushed up to 10 feet away from the giant and knocked prone.
+- **Rock:** Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 42 (10d6 + 7) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 19 Strength saving throw  falling prone on a failure.
 - **Sword Sweep (1/Day, While Bloodied):** The giant makes a greatsword attack against each creature within 10 feet.
 
 ### Reactions

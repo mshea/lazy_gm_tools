@@ -28,7 +28,7 @@
 ### Actions
 
 - **Multiattack:** The glabrezu makes two pincer attacks.
-- **Pincer:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 17). The glabrezu has two pincers  each of which can grapple one target. While grappling a target  a pincer can't attack a different target. If the same creature is grappled by both of the glabrezus pincers  it must escape from each of them separately.
+- **Pincer:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 17). The glabrezu has two pincers  each of which can grapple one target. While grappling a target  a pincer can't attack a different target. If the same creature is grappled by both of the glabrezus pincers  it must escape from each of them separately.
 - **Wish:** Once per 30 days  the glabrezu can cast wish for a mortal  using no material components. Before doing so  it will demand that the mortal commit a terribly evil act or make a painful sacrifice.
 
 ### Bonus Actions

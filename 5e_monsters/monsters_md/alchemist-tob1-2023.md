@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Dex +5
 - **Skills:** Arcana +5, Medicine +3
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9
 - **Languages:** Common, Draconic

@@ -28,7 +28,7 @@
 
 ### Actions
 
-- **Shock:** Melee Spell Attack: +4 to hit  reach 5 ft.  one target. Hit: 10 (3d6) lightning damage. The will-o-wisp can't make this attack while its glow is extinguished.
+- **Shock:** Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 10 (3d6) lightning damage. The will-o-wisp can't make this attack while its glow is extinguished.
 
 ### Bonus Actions
 

@@ -27,7 +27,7 @@
 
 ### Actions
 
-- **Pseudopod:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage  and the target is grappled (escape DC 12). A grappled target takes 3 (1d6) acid damage at the start of each of the jellys turns.
+- **Pseudopod:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage  and the target is grappled (escape DC 12). A grappled target takes 3 (1d6) acid damage at the start of each of the jellys turns.
 
 ### Reactions
 

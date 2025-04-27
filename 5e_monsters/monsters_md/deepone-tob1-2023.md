@@ -13,8 +13,11 @@
 | 16 (+3) | 12 (+1) | 14 (+2) | 10 (+0) | 8 (-1) | 12 (+1) |
 
 - **Saving Throws**: Str +5, Con +4, Cha +3
+- **Skills:** 
 - **Damage Vulnerabilities:** fire
+- **Damage Immunities:** False
 - **Damage Resistances:** cold
+- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 9
 - **Languages:** Common, Void Speech
 

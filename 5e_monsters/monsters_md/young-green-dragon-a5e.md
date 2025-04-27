@@ -28,8 +28,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) poison damage.
-- **Claw:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
+- **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) poison damage.
+- **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Poison Breath (Recharge 5-6):** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area makes a DC 15 Constitution saving throw  taking 42 (12d6) poison damage on a failed save or half damage on a success.
 
 

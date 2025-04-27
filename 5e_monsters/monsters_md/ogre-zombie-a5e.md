@@ -25,9 +25,9 @@
 
 ### Actions
 
-- **Greatclub:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage  and if the target is a Medium or smaller creature  it makes a DC 14 Strength saving throw  falling prone on a failure.
-- **Sweeping Strike:** Melee Weapon Attack: +6 to hit  reach 5 ft.  all creatures within 5 feet. Hit: 8 (1d8 + 4) bludgeoning damage  and if the target is a Medium or smaller creature  it makes a DC 14 Strength saving throw. On a failure  it is pushed 10 feet away from the ogre.
-- **Grab:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is grappled if its Medium or smaller (escape DC 14)  and until the grapple ends  the zombie can't grab another target.
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target grappled by a zombie. Hit: 15 (2d10 + 4) piercing damage  and the zombie regains hit points equal to the damage dealt.
+- **Greatclub:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage  and if the target is a Medium or smaller creature  it makes a DC 14 Strength saving throw  falling prone on a failure.
+- **Sweeping Strike:** Melee Weapon Attack: +6 to hit, reach 5 ft.  all creatures within 5 feet. Hit: 8 (1d8 + 4) bludgeoning damage  and if the target is a Medium or smaller creature  it makes a DC 14 Strength saving throw. On a failure  it is pushed 10 feet away from the ogre.
+- **Grab:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is grappled if its Medium or smaller (escape DC 14)  and until the grapple ends  the zombie can't grab another target.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target grappled by a zombie. Hit: 15 (2d10 + 4) piercing damage  and the zombie regains hit points equal to the damage dealt.
 
 

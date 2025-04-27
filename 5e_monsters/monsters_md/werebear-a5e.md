@@ -25,10 +25,10 @@
 ### Actions
 
 - **Multiattack:** The werebear makes two claw attacks  two greataxe attacks  or two handaxe attacks.
-- **Greataxe (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 10 (1d12 + 4) slashing damage.
-- **Handaxe (Humanoid or Hybrid Form Only):** Melee or Ranged Weapon Attack: +7 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 7 (1d6 + 4) slashing damage.
-- **Claw (Bear or Hybrid Form Only):** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 10 (1d12 + 4) slashing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 15). Until this grapple ends  the werebear can't use its greataxe and can't attack a different target with its claw.
-- **Bite (Bear or Hybrid Form Only):** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a humanoid  it makes a DC 14 Constitution saving throw. On a failure  it is cursed with werebear lycanthropy.
+- **Greataxe (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
+- **Handaxe (Humanoid or Hybrid Form Only):** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+- **Claw (Bear or Hybrid Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 15). Until this grapple ends  the werebear can't use its greataxe and can't attack a different target with its claw.
+- **Bite (Bear or Hybrid Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a humanoid  it makes a DC 14 Constitution saving throw. On a failure  it is cursed with werebear lycanthropy.
 
 ### Bonus Actions
 

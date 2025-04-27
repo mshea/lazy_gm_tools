@@ -25,9 +25,9 @@
 
 ### Actions
 
-- **Longsword:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) slashing damage plus 3 (1d6) cold damage.
-- **Seize:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 3 (1d6) cold damage  and the target is grappled (escape DC 12). Until this grapple ends  the target is restrained and the only attack the wight can make is Life Drain against the grappled target.
-- **Longbow:** Ranged Weapon Attack: +4 to hit  range 150/600 ft.  one target. Hit: 6 (1d8 + 2) piercing damage plus 3 (1d6) cold damage.
+- **Longsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage plus 3 (1d6) cold damage.
+- **Seize:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d6) cold damage  and the target is grappled (escape DC 12). Until this grapple ends  the target is restrained and the only attack the wight can make is Life Drain against the grappled target.
+- **Longbow:** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 3 (1d6) cold damage.
 
 ### Bonus Actions
 

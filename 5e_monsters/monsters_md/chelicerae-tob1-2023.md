@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Dex +6, Wis +5, Cha +5
 - **Skills:** Acrobatics +6, Athletics +9, Perception +5, Stealth +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** understands Common but can’t speak

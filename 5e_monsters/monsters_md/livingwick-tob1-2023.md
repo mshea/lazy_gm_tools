@@ -12,8 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 10 (+0) | 10 (+0) | 5 (-3) | 5 (-3) | 5 (-3) |
 
+- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** poison, psychic
+- **Damage Resistances:** False
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** passive Perception 7
 - **Languages:** understands the languages of its creator but can’t speak

@@ -13,7 +13,9 @@
 | 16 (+3) | 12 (+1) | 14 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
 
 - **Skills:** Deception +5, Perception +4, Stealth +3, Survival +4
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Elvish, Sylvan

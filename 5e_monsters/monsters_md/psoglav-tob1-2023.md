@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +9, Con +8, Wis +7, Cha +7
 - **Skills:** Acrobatics +9, Perception +7, Intimidation +7, Stealth +9
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning
 - **Condition Immunities:** poisoned

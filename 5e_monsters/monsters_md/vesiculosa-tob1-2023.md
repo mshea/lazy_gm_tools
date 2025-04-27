@@ -13,6 +13,8 @@
 | 20 (+5) | 15 (+2) | 19 (+4) | 2 (-4) | 14 (+2) | 2 (-4) |
 
 - **Skills:** Perception +6
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** fire, bludgeoning, piercing
 - **Condition Immunities:** charmed, blinded, deafened, frightened, prone
 - **Senses:** tremorsense 60 ft., passive Perception 16

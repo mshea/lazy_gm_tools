@@ -22,6 +22,6 @@
 
 ### Actions
 
-- **Claw:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (1d10 + 3) slashing damage. If the target is a Medium or smaller creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
+- **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage. If the target is a Medium or smaller creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
 
 

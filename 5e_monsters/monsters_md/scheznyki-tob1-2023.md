@@ -13,6 +13,10 @@
 | 19 (+4) | 15 (+2) | 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) |
 
 - **Saving Throws**: Str +7, Con +7
+- **Skills:** 
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
 - **Condition Immunities:** unconscious
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Dwarvish, Sylvan

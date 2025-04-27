@@ -23,7 +23,7 @@
 
 ### Actions
 
-- **Tentacles:** Melee Weapon Attack: +4 to hit  reach 15 ft.  one target. Hit: 1 bludgeoning damage. If the target is a creature  it is grappled (escape DC 10). Until this grapple ends  the target is restrained  and the octopus can't attack a different target with its tentacles.
+- **Tentacles:** Melee Weapon Attack: +4 to hit, reach 15 ft., one target. Hit: 1 bludgeoning damage. If the target is a creature  it is grappled (escape DC 10). Until this grapple ends  the target is restrained  and the octopus can't attack a different target with its tentacles.
 
 ### Bonus Actions
 

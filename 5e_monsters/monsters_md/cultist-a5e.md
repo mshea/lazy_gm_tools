@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Dagger:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
+- **Dagger:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Cultists worship forbidden gods, devils, demons, and other sinister beings:** Many cultists work to summon the object of their devotion to the world so it might grant them power and destroy their enemies.
 
 

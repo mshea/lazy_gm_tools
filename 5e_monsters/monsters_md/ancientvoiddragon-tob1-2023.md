@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Dex +7, Con +16, Wis +9, Cha +13
 - **Skills:** Arcana +18, History +18, Perception +16, Stealth +7
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 26
 - **Languages:** Common, Draconic, Void Speech

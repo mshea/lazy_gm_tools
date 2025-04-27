@@ -31,8 +31,8 @@
 ### Actions
 
 - **Multiattack:** The dragon uses Grasp of Shadows  then attacks once with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +12 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) necrotic damage.
-- **Claws:** Melee Weapon Attack: +12 to hit  reach 5 ft.  one target. Hit: 19 (3d8 + 6) slashing damage plus 4 (1d8) necrotic damage.
+- **Bite:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) necrotic damage.
+- **Claws:** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) slashing damage plus 4 (1d8) necrotic damage.
 - **Grasp of Shadows:** The dragon targets a creature within 60 feet  forcing it to make a DC 16 Dexterity saving throw. On a failure  it is grappled by tendrils of shadow (escape DC 20) and restrained while grappled this way. The effect ends if the dragon is incapacitated or uses this ability again.
 - **Anguished Breath (Recharge 5-6):** The dragon exhales a shadowy maelstrom of anguish in a 60-foot cone. Each creature in that area makes a DC 20 Wisdom saving throw  taking 67 (15d8) necrotic damage and gaining a level of strife on a failed save or half damage on a success.
 

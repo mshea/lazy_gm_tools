@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Con +5
 - **Skills:** Perception +3
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** passive Perception 13
 - **Languages:** Common, Dwarvish, Giant

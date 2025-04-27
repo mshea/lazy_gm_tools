@@ -22,6 +22,6 @@
 
 ### Actions
 
-- **Tusk:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6+3) slashing damage. If the boar moves at least 20 feet straight towards the target before the attack  the attack deals an extra 7 (2d6) slashing damage and the target makes a DC 13 Strength saving throw  falling prone on a failure.
+- **Tusk:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) slashing damage. If the boar moves at least 20 feet straight towards the target before the attack  the attack deals an extra 7 (2d6) slashing damage and the target makes a DC 13 Strength saving throw  falling prone on a failure.
 
 

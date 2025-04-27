@@ -13,6 +13,10 @@
 | 9 (-1) | 16 (+3) | 12 (+1) | 16 (+3) | 12 (+1) | 10 (+0) |
 
 - **Skills:** Acrobatics +5, Stealth +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Lemurfolk
 

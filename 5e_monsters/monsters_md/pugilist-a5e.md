@@ -24,7 +24,7 @@
 ### Actions
 
 - **Multiattack:** The pugilist attacks three times with their fists.
-- **Fists:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+- **Fists:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
 
 ### Bonus Actions
 
@@ -34,6 +34,5 @@
 ### Reactions
 
 - **Opportune Jab:** If a creature attempts to grapple the pugilist, the pugilist attacks that creature with their fists.
-- **Pugilists include skilled boxers:** They sometimes work as bodyguards or gangsters, though theyre most often found in the ring, challenging all comers.
 
 

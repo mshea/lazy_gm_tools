@@ -24,8 +24,7 @@
 
 ### Actions
 
-- **Clubs:** Melee Weapon Attack: +2 to hit  reach 5 ft.  up to two targets. Hit: 10 (4d4) bludgeoning damage  or half damage if the mob is bloodied.
-- **Stones:** Ranged Weapon Attack: +2 to hit  range 10/30 ft.  up to two targets. Hit: 10 (4d4) bludgeoning damage  or half damage if the mob is bloodied.
-- **When riled up by strident voices, angry people may coalesce into a group that acts like a single organism:** A mob might commit acts of violence its individual members would otherwise shun.
+- **Clubs:** Melee Weapon Attack: +2 to hit, reach 5 ft., up to two targets. Hit: 10 (4d4) bludgeoning damage  or half damage if the mob is bloodied.
+- **Stones:** Ranged Weapon Attack: +2 to hit, range 10/30 ft., up to two targets. Hit: 10 (4d4) bludgeoning damage or half damage if the mob is bloodied.
 
 

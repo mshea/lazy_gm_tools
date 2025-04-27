@@ -25,10 +25,10 @@
 ### Actions
 
 - **Multiattack (Humanoid or Hybrid Form Only):** The weretiger makes two attacks  neither of which can be a bite.
-- **Longsword (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) slashing damage.
-- **Longbow (Humanoid or Hybrid Form Only):** Ranged Weapon Attack: +5 to hit  range 150/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
-- **Claw (Tiger or Hybrid Form Only):** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) slashing damage. If the weretiger moves at least 20 feet straight towards the target before the attack  the target makes a DC 13 Strength saving throw  falling prone on a failure.
-- **Bite (Tiger or Hybrid Form Only):** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid  it makes a DC 13 Constitution saving throw. On a failure  it is cursed with weretiger lycanthropy.
+- **Longsword (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
+- **Longbow (Humanoid or Hybrid Form Only):** Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+- **Claw (Tiger or Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage. If the weretiger moves at least 20 feet straight towards the target before the attack  the target makes a DC 13 Strength saving throw  falling prone on a failure.
+- **Bite (Tiger or Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid  it makes a DC 13 Constitution saving throw. On a failure  it is cursed with weretiger lycanthropy.
 
 ### Bonus Actions
 

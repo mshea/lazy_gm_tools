@@ -23,8 +23,8 @@
 ### Actions
 
 - **Multiattack:** The vulture attacks with its beak and its talons.
-- **Beak:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8+2) piercing damage.
-- **Talons:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8+2) slashing damage.
+- **Beak:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) piercing damage.
+- **Talons:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) slashing damage.
 
 ### Reactions
 

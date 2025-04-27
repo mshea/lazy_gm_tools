@@ -32,7 +32,7 @@
 ### Actions
 
 - **Multiattack:** The grandmaster attacks six times.
-- **Unarmed Strike:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 10 (1d10 + 5) bludgeoning damage.
+- **Unarmed Strike:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage.
 
 ### Bonus Actions
 

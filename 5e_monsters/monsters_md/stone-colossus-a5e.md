@@ -29,8 +29,8 @@
 ### Actions
 
 - **Multiattack:** The guardian attacks twice with its slam.
-- **Slam:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 19 (3d8 + 6) bludgeoning damage.
-- **Rock:** Ranged Weapon Attack: +10 to hit  range 60/240 ft.  one target. Hit: 30 (7d6 + 6) bludgeoning damage. The target makes a DC 18 Strength saving throw  falling prone on a failure.
+- **Slam:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
+- **Rock:** Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. Hit: 30 (7d6 + 6) bludgeoning damage. The target makes a DC 18 Strength saving throw  falling prone on a failure.
 
 ### Bonus Actions
 

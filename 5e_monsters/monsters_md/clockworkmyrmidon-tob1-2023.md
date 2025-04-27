@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Str +8, Dex +5
 - **Skills:** Athletics +8, Perception +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** understands Common but can’t speak

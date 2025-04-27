@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The djinni makes three scimitar attacks.
-- **Scimitar:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 13 (2d6 + 6) slashing damage plus 5 (1d10) lightning damage.
-- **Lightning Blast:** Ranged Spell Attack: +9 to hit  range 90 ft.  one target. Hit: 35 (10d6) lightning damage.
+- **Scimitar:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 5 (1d10) lightning damage.
+- **Lightning Blast:** Ranged Spell Attack: +9 to hit, range 90 ft., one target. Hit: 35 (10d6) lightning damage.
 - **Scimitar Sweep (1/Day, Giant Form Only):** The djinn makes a scimitar attack against each creature of its choice within its reach.
 
 ### Bonus Actions

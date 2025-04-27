@@ -24,8 +24,8 @@
 ### Actions
 
 - **Multiattack:** The rakshasa makes two attacks.
-- **Claw (True Form Only):** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature  it is cursed. Whenever a cursed creature takes a long rest  it is troubled by terrible visions and dreams and gains no benefit from the rest. The curse can be lifted with remove curse and similar magic.
-- **Rapier:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
+- **Claw (True Form Only):** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature  it is cursed. Whenever a cursed creature takes a long rest  it is troubled by terrible visions and dreams and gains no benefit from the rest. The curse can be lifted with remove curse and similar magic.
+- **Rapier:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Sweet Promises:** The rakshasa targets a creature that can hear it within 60 feet  offering something the target covets. The target makes a DC 18 Wisdom saving throw. On a failure  the target is charmed until the end of its next turn  and stunned while charmed in this way.
 - **Invisibility (2nd-Level; V, S, Concentration):** The rakshasa is invisible for 1 hour or until it attacks or casts a spell.
 - **Fly (3rd-Level; V, S, Concentration):** The rakshasa gains a fly speed of 60 feet.

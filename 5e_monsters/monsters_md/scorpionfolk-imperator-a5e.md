@@ -31,8 +31,8 @@
 
 ### Actions
 
-- **Claw:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the scorpionfolk can't attack a different target with its claws.
-- **Javelin:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
+- **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the scorpionfolk can't attack a different target with its claws.
+- **Javelin:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Sacred Flame (Cantrip; V, S):** One creature the imperator can see within 60 feet makes a DC 14 Dexterity saving throw  taking 9 (2d8) radiant damage on a failure. This spell ignores cover.
 - **Cure Wounds (1st-Level; V, S):** The imperator touches a willing living creature  restoring 8 (1d8 + 4) hit points to it.
 - **Burning Gust of Wind (2nd-Level: V, S, M):** A hot blast of wind erupts from the imperators claw in a line 10 feet wide and 60 feet long. It extinguishes small fires and disperses vapors. For 1 minute or until the imperators concentration is broken  each creature that starts its turn in the area or moves into the area must succeed on a DC 14 Strength saving throw or be pushed 15 feet directly away and take 7 (2d6) fire damage. A creature in the area must spend 2 feet of movement for every foot moved towards the imperator. The imperator can change the direction of the gust with a bonus action.

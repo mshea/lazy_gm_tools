@@ -18,6 +18,6 @@
 
 ### Actions
 
-- **Ram:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 2 (1d4) bludgeoning damage. If the target is a creature and the goat moves at least 20 feet straight towards the target before the attack  the target takes an extra 2 (1d4) bludgeoning damage and makes a DC 10 Strength saving throw  falling prone on a failure.
+- **Ram:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage. If the target is a creature and the goat moves at least 20 feet straight towards the target before the attack  the target takes an extra 2 (1d4) bludgeoning damage and makes a DC 10 Strength saving throw  falling prone on a failure.
 
 

@@ -14,6 +14,9 @@
 
 - **Saving Throws**: Str +6, Con +5
 - **Skills:** Athletics +6, Perception +4
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Elvish, Umbral

@@ -25,7 +25,7 @@
 
 ### Actions
 
-- **Claw (Malcubus Form Only):** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) slashing damage plus 7 (2d6) necrotic damage.
+- **Claw (Malcubus Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 7 (2d6) necrotic damage.
 - **Charm:** The malcubus targets one humanoid on the same plane of existence within 30 feet  forcing it to make a DC 15 Wisdom saving throw. On a failure  the target is magically charmed for 1 day or until the malcubus charms another creature. The charmed creature obeys the malcubuss commands. The creature repeats the saving throw whenever it takes damage or if it receives a suicidal command. If a creatures saving throw is successful or the effect ends for it  it is immune to any malcubuss Charm for 24 hours.
 - **Draining Kiss:** The malcubus kisses a willing or charmed creature. The target makes a DC 15 Constitution saving throw  taking 22 (4d10) psychic damage on a failed save or half damage on a success. The targets hit point maximum is reduced by the same amount until it finishes a long rest  and the malcubus regains hit points equal to the same amount. If the target is charmed by the malcubus  the charm ends.
 - **Etherealness:** The malcubus magically travels to the Ethereal Plane. While on the Ethereal Plane  the malcubus can see and hear into the Material Plane and can choose to make itself audible and hazily visible to creatures on the Material Plane. If a humanoid on the Material Plane invites the malcubus to do so  the malcubus can use an action to magically travel from the Ethereal Plane to the Material Plane.

@@ -24,6 +24,6 @@
 
 ### Actions
 
-- **Bites:** Melee Weapon Attack: +6 to hit  reach 0 ft.  one target. Hit: 7 (2d6) piercing damage plus 14 (4d6) poison damage  or 3 (1d6) poison damage plus 7 (2d6) poison damage if the swarm is bloodied.
+- **Bites:** Melee Weapon Attack: +6 to hit, reach 0 ft., one target. Hit: 7 (2d6) piercing damage plus 14 (4d6) poison damage  or 3 (1d6) poison damage plus 7 (2d6) poison damage if the swarm is bloodied.
 
 

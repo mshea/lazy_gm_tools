@@ -17,6 +17,7 @@
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Giant, Sylvan
 

@@ -13,6 +13,10 @@
 | 19 (+4) | 14 (+2) | 19 (+4) | 2 (-4) | 13 (+1) | 7 (-2) |
 
 - **Skills:** Perception +4, Stealth +8
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** passive Perception 14
 - **Languages:** —
 

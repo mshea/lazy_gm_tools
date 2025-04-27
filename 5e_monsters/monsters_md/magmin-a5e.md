@@ -26,7 +26,7 @@
 
 ### Actions
 
-- **Touch:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) fire damage. If the magmin is ablaze and the target is a creature  it suffers 5 (1d10) ongoing fire damage until a creature takes an action to extinguish the flame on the target.
-- **Spurt Magma (Ablaze Only):** Ranged Weapon Attack: +5 to hit  range 30 ft.  one target. Hit: 5 (1d6 + 2) fire damage.
+- **Touch:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) fire damage. If the magmin is ablaze and the target is a creature  it suffers 5 (1d10) ongoing fire damage until a creature takes an action to extinguish the flame on the target.
+- **Spurt Magma (Ablaze Only):** Ranged Weapon Attack: +5 to hit, range 30 ft., one target. Hit: 5 (1d6 + 2) fire damage.
 
 

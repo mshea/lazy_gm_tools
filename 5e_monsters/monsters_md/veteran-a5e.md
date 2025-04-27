@@ -20,9 +20,9 @@
 ### Actions
 
 - **Multiattack:** The veteran makes two melee attacks.
-- **Longsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) slashing damage.
-- **Shortsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) piercing damage.
-- **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit  range 100/400 ft.  one target. Hit: 7 (1d10 + 2) piercing damage.
+- **Longsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
+- **Shortsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+- **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
 
 ### Bonus Actions
 

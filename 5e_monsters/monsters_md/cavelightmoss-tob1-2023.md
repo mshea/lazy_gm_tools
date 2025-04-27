@@ -12,6 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 10 (+0) | 18 (+4) | 1 (-5) | 13 (+1) | 5 (-3) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** acid, cold, fire; slashing from nonmagical attacks
 - **Condition Immunities:** charmed, deafened, frightened, paralyzed, prone, stunned, unconscious
 - **Senses:** tremorsense 60 ft., passive Perception 11

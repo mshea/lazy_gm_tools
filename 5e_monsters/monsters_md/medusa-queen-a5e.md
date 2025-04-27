@@ -24,8 +24,8 @@
 ### Actions
 
 - **Multiattack:** The medusa makes any combination of two attacks with its snake hair and longbow.
-- **Snake Hair:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) poison damage  plus an additional 3 (1d6) piercing damage if the target is a creature that is surprised or that can't see the medusa.
-- **Longbow:** Ranged Weapon Attack: +7 to hit  range 150/600 ft.  one target. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) poison damage.
+- **Snake Hair:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) poison damage  plus an additional 3 (1d6) piercing damage if the target is a creature that is surprised or that can't see the medusa.
+- **Longbow:** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) poison damage.
 
 
 

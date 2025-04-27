@@ -25,8 +25,8 @@
 
 ### Actions
 
-- **Claw:** Melee Weapon Attack: +0 to hit  reach 5 ft.  one target. Hit: 1 slashing damage.
-- **Needle:** Ranged Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
+- **Claw:** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+- **Needle:** Ranged Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
 ### Bonus Actions
 

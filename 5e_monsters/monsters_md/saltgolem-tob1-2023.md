@@ -13,7 +13,9 @@
 | 20 (+5) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
 
 - **Skills:** Athletics +9
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 120 ft., passive Perception 10
 - **Languages:** understands the languages of its creator but can’t speak

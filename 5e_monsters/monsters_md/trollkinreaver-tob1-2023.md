@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Con +5
 - **Skills:** Intimidation +5, Survival +3
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Trollkin
 

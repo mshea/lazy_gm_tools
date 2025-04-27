@@ -5,14 +5,29 @@
 <meta charset="UTF-8">
 <style>
 body {
-max-width: 700px;
-margin: auto;
-font-size: 18px;
-font-family: sans-serif;
-padding: 10px;
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
 }
 p, li {
-line-height: 1.5em;
+    line-height: 1.5em;
+}
+ul, ol {
+    padding-left: 20px;
+    margin-left: 0;
+}
+li {
+    margin-left: 0; /* Remove margin from li */
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
 }
 </style>
 <title>Cactid</title>
@@ -51,7 +66,9 @@ line-height: 1.5em;
 </tbody>
 </table>
 <ul>
+<li><strong>Skills:</strong> </li>
 <li><strong>Damage Vulnerabilities:</strong> fire</li>
+<li><strong>Damage Immunities:</strong> False</li>
 <li><strong>Damage Resistances:</strong> bludgeoning, piercing</li>
 <li><strong>Condition Immunities:</strong> blinded, deafened</li>
 <li><strong>Senses:</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 10</li>

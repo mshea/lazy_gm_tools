@@ -16,6 +16,7 @@
 - **Skills:** Acrobatics +8, Athletics +7, Perception +4, Stealth +8
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
+- **Damage Resistances:** False
 - **Condition Immunities:** paralyzed, unconscious
 - **Senses:** darkvision 60 ft., tremorsense 120 ft., passive Perception 14
 - **Languages:** Draconic

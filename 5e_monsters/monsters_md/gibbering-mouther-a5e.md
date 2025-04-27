@@ -27,7 +27,7 @@
 ### Actions
 
 - **Multiattack:** The mouther makes two bite attacks.
-- **Bite:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one creature. Hit: 7 (2d6) piercing damage  and the target makes a DC 10 Strength saving throw  falling prone on a failure. If the target is killed by this attack  it is absorbed into the mouther.
+- **Bite:** Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 7 (2d6) piercing damage  and the target makes a DC 10 Strength saving throw  falling prone on a failure. If the target is killed by this attack  it is absorbed into the mouther.
 
 ### Bonus Actions
 

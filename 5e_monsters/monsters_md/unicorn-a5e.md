@@ -26,8 +26,8 @@
 ### Actions
 
 - **Multiattack:** The unicorn attacks once with its hooves and once with its horn.
-- **Hooves:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 9 (1d8 + 5) bludgeoning damage.
-- **Horn:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 9 (1d8 + 5) piercing damage plus 10 (3d6) radiant damage. If the target is a creature and the unicorn moves at least 20 feet straight towards the target before the attack  the target takes an extra 9 (2d8) bludgeoning damage and makes a DC 16 Strength saving throw  falling prone on a failure.
+- **Hooves:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage.
+- **Horn:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 10 (3d6) radiant damage. If the target is a creature and the unicorn moves at least 20 feet straight towards the target before the attack  the target takes an extra 9 (2d8) bludgeoning damage and makes a DC 16 Strength saving throw  falling prone on a failure.
 - **Grant Boon (3/Day):** The unicorn touches a willing creature  including itself  with its horn and grants one of the following boons:
 - **Healing: The creature magically regains 21 (6d6) hit points:** It is cured of all diseases  and poisons affecting it are neutralized.
 - **Luck: During the next 24 hours, the creature can roll a d12 and add the result to one ability check, attack roll, or saving throw after seeing the result:** 

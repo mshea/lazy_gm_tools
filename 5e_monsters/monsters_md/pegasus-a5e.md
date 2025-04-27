@@ -24,6 +24,6 @@
 
 ### Actions
 
-- **Hooves:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a Large or smaller creature and the pegasus moves at least 20 feet toward it before the attack  the target makes a DC 14 Strength saving throw  falling prone on a failure.
+- **Hooves:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a Large or smaller creature and the pegasus moves at least 20 feet toward it before the attack  the target makes a DC 14 Strength saving throw  falling prone on a failure.
 
 

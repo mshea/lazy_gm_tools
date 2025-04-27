@@ -25,7 +25,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6+4) piercing damage. If the target is a creature  it makes a DC 14 Strength saving throw  falling prone on a failure.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) piercing damage. If the target is a creature  it makes a DC 14 Strength saving throw  falling prone on a failure.
 - **Cold Breath (Recharge 5-6):** The wolf exhales frost in a 15-foot cone. Each creature in the area makes a DC 12 Dexterity saving throw  taking 18 (4d8) cold damage on a failure or half damage on a success.
 
 

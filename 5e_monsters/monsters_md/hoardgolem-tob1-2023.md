@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Con +9
 - **Skills:** Athletics +10, Perception +4
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 120 ft., passive Perception 14
 - **Languages:** understands the languages of its creator but can’t speak

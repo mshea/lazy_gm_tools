@@ -12,6 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 20 (+5) | 16 (+3) | 6 (-2) | 10 (+0) | 7 (-2) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious

@@ -23,7 +23,7 @@
 ### Actions
 
 - **Multiattack:** The griffon attacks once with its beak and once with its talons.
-- **Beak:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 9 (2d4 + 4) piercing damage.
-- **Talons:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 7 (1d6 + 4) slashing damage  or 11 (2d6 + 4) slashing damage if the griffon started its turn at least 20 feet above the target  and the target is grappled (escape DC 14). Until this grapple ends  the griffon can't attack a different target with its talons.
+- **Beak:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) piercing damage.
+- **Talons:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage  or 11 (2d6 + 4) slashing damage if the griffon started its turn at least 20 feet above the target  and the target is grappled (escape DC 14). Until this grapple ends  the griffon can't attack a different target with its talons.
 
 

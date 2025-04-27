@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack (Humanoid or Hybrid Form Only):** The wereboar makes two attacks  only one of which can be with its tusks.
-- **Maul (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) bludgeoning damage.
-- **Tusks (Boar or Hybrid Form Only):** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) slashing damage. If the boar moves at least 20 feet straight towards the target before the attack  the attack deals an extra 7 (2d6) slashing damage. If the target is a creature  it makes a DC 13 Strength saving throw  falling prone on a failure. If the target is a humanoid  it makes a DC 12 Constitution saving throw. On a failure  it is cursed with wereboar lycanthropy.
+- **Maul (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
+- **Tusks (Boar or Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage. If the boar moves at least 20 feet straight towards the target before the attack  the attack deals an extra 7 (2d6) slashing damage. If the target is a creature  it makes a DC 13 Strength saving throw  falling prone on a failure. If the target is a humanoid  it makes a DC 12 Constitution saving throw. On a failure  it is cursed with wereboar lycanthropy.
 
 ### Bonus Actions
 

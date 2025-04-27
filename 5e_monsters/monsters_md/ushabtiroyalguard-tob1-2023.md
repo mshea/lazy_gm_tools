@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Wis +9, Cha +4
 - **Skills:** Arcana +5, History +5, Perception +9
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 19
 - **Languages:** understands the languages of its creator but can’t speak

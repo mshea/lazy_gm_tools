@@ -28,7 +28,7 @@
 
 ### Actions
 
-- **Sting (Bite While Shapeshifted):** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) poison damage.
+- **Sting (Bite While Shapeshifted):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) poison damage.
 - **Shapeshift:** The imp magically changes its form into a rat (speed 20 ft.)  raven (20 ft.  fly 60 ft.)  or spider (20 ft.  climb 20 ft.) or back into its true form. Its statistics are the same in each form except for its movement speeds. Equipment it carries is not transformed. It reverts to its true form if it dies.
 
 ### Bonus Actions

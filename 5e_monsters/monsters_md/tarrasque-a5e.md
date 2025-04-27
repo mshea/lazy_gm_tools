@@ -32,10 +32,10 @@
 ### Actions
 
 - **Multiattack:** The tarrasque attacks with its bite  claw  horns  and tail. It can use Swallow instead of its bite. If its bloodied  it also recharges and then uses Radiant Breath.
-- **Bite:** Melee Weapon Attack: +19 to hit  reach 10 ft.  one target. Hit: 42 (5d12 + 10) piercing damage. If the target is a creature  it is grappled (escape DC 27). Until this grapple ends  the target is restrained and the tarrasque can't bite a different creature.
-- **Claw:** Melee Weapon Attack: +19 to hit  reach 15 ft.  one target. Hit: 32 (5d8 + 10) slashing damage.
-- **Horns:** Melee Weapon Attack: +19 to hit  reach 10 ft.  one target. Hit: 37 (5d10 + 10) piercing damage.
-- **Tail:** Melee Weapon Attack: +19 to hit  reach 20 ft.  one target. Hit: 27 (5d6 + 10) bludgeoning damage. If the target is a Huge or smaller creature  it falls prone.
+- **Bite:** Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 42 (5d12 + 10) piercing damage. If the target is a creature  it is grappled (escape DC 27). Until this grapple ends  the target is restrained and the tarrasque can't bite a different creature.
+- **Claw:** Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 32 (5d8 + 10) slashing damage.
+- **Horns:** Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 37 (5d10 + 10) piercing damage.
+- **Tail:** Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 27 (5d6 + 10) bludgeoning damage. If the target is a Huge or smaller creature  it falls prone.
 - **Swallow:** The tarrasque makes a bite attack against a Large or smaller creature it is grappling. If the attack hits  the target is swallowed and the grapple ends. A swallowed creature has total cover from attacks from outside the tarrasque  it is blinded and restrained  and it takes 35 (10d6) acid damage and 35 (10d6) bludgeoning damage at the start of each of the tarrasques turns.
 - **If a swallowed creature deals 70 or more damage to the tarrasque in a single turn, or if the tarrasque dies, the tarrasque vomits up all swallowed creatures:** 
 - **Radiant Breath (Recharge 5-6):** The tarrasque exhales radiant energy in a 90-foot cone. Each creature in that area makes a DC 27 Constitution saving throw  taking 105 (30d6) radiant damage on a failed save or half damage on a success.

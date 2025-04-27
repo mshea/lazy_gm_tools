@@ -31,7 +31,7 @@
 ### Actions
 
 - **Multiattack:** The chain devil makes two chain attacks and commands up to two animated chains under its control to make chain attacks.
-- **Chain:** Melee Weapon Attack: +8 to hit  reach 15 ft.  one target. Hit: 14 (2d8 + 5) slashing damage. If the target is a creature  it is grappled (escape DC 16) and restrained. Until the grapple ends  this chain can only attack the grappled target.
+- **Chain:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 14 (2d8 + 5) slashing damage. If the target is a creature  it is grappled (escape DC 16) and restrained. Until the grapple ends  this chain can only attack the grappled target.
 
 ### Bonus Actions
 

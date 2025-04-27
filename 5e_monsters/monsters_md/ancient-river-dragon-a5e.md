@@ -31,8 +31,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +14 to hit  reach 15 ft.  one target. Hit: 29 (4d10 + 7) piercing damage.
-- **Claws:** Melee Weapon Attack: +14 to hit  reach 10 ft.  one target. Hit: 20 (3d8 + 7) slashing damage.
+- **Bite:** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 29 (4d10 + 7) piercing damage.
+- **Claws:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) slashing damage.
 - **Torrential Breath (Recharge 5-6):** The dragon exhales water in a 90-foot-long  10-foot-wide line. Each creature in the area makes a DC 20 Dexterity saving throw  taking 66 (19d6) bludgeoning damage on a failed save or half damage on a success. A creature that fails the save is also knocked prone and is pushed up to 60 feet away. A creature that impacts a solid object takes an extra 21 (6d6) bludgeoning damage.
 
 ### Bonus Actions

@@ -24,7 +24,7 @@
 
 ### Actions
 
-- **Tentacles:** Melee Weapon Attack: +8 to hit  reach 20 ft.  one or two targets. Hit: 23 (4d8 + 5) bludgeoning damage  and if the target is a creature it makes a DC 16 Strength saving throw. On a failure  the creature is pulled to within 5 feet of the grick and grappled (escape DC 16). Until the grapple ends  the creature is restrained. The grick can grapple up to two Medium or smaller creatures or one Large creature.
+- **Tentacles:** Melee Weapon Attack: +8 to hit, reach 20 ft., one or two targets. Hit: 23 (4d8 + 5) bludgeoning damage  and if the target is a creature it makes a DC 16 Strength saving throw. On a failure  the creature is pulled to within 5 feet of the grick and grappled (escape DC 16). Until the grapple ends  the creature is restrained. The grick can grapple up to two Medium or smaller creatures or one Large creature.
 
 ### Bonus Actions
 

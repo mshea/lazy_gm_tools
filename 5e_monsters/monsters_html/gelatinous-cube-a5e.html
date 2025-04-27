@@ -5,14 +5,29 @@
 <meta charset="UTF-8">
 <style>
 body {
-max-width: 700px;
-margin: auto;
-font-size: 18px;
-font-family: sans-serif;
-padding: 10px;
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
 }
 p, li {
-line-height: 1.5em;
+    line-height: 1.5em;
+}
+ul, ol {
+    padding-left: 20px;
+    margin-left: 0;
+}
+li {
+    margin-left: 0; /* Remove margin from li */
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
 }
 </style>
 <title>Gelatinous Cube</title>
@@ -65,7 +80,7 @@ line-height: 1.5em;
 </ul>
 <h3>Actions</h3>
 <ul>
-<li><strong>Pseudopod:</strong> Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (3d6) acid damage.</li>
+<li><strong>Pseudopod:</strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (3d6) acid damage.</li>
 <li><strong>Engulf:</strong> The cube moves up to its Speed. While doing so  it can enter Large or smaller creatures spaces. Whenever the cube enters a creatures space  the creature makes a DC 13 Dexterity saving throw. If the creature is unaware of the cubes presence  it makes its saving throw against Engulf with disadvantage. On a success  the creature may use its reaction  if available  to move up to half its Speed without provoking opportunity attacks. If the creature doesnt move  it is engulfed by the cube.</li>
 <li><strong>A creature engulfed by the cube takes 10 (3d6) acid damage, can't breathe, is restrained, and takes 10 (3d6) acid damage at the start of each of the cubes turns:</strong> It can be seen but has total cover. It moves with the cube. The cube can hold as many creatures as fit in its space without squeezing.</li>
 <li><strong>An engulfed creature can escape by using an action to make a DC 13 Strength check:</strong> On a success  the creature moves to a space within 5 feet of the cube. A creature within 5 feet can take the same action to free an engulfed creature  but takes 10 (3d6) acid damage in the process.</li>

@@ -12,6 +12,11 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 20 (+5) | 16 (+3) | 10 (+0) | 12 (+1) | 12 (+1) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Tosculi
 

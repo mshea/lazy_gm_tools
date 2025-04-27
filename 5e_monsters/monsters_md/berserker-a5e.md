@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The berserker attacks twice.
-- **Greataxe:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 8 (1d12 + 2) slashing damage.
-- **Handaxe:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft or range 20/60 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.
+- **Greataxe:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) slashing damage.
+- **Handaxe:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft or range 20/60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Berserkers are lightly-armored and heavily-armed shock troops:** In battle  they tend to prefer charges and heroic single combats over formations and disciplined marches.
 
 

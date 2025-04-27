@@ -24,6 +24,6 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4+1) piercing damage and the target makes a DC 11 Constitution saving throw  taking 5 (2d4) poison damage on a failure or half damage on a success. If the poison damage reduces the target to 0 hit points  the target is made stable but poisoned for 1 hour  even if it regains hit points  and it is paralyzed while poisoned in this way.
+- **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) piercing damage and the target makes a DC 11 Constitution saving throw  taking 5 (2d4) poison damage on a failure or half damage on a success. If the poison damage reduces the target to 0 hit points  the target is made stable but poisoned for 1 hour  even if it regains hit points  and it is paralyzed while poisoned in this way.
 
 

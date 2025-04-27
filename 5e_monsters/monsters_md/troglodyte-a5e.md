@@ -24,8 +24,8 @@
 ### Actions
 
 - **Multiattack:** The troglodyte attacks with its bite and its claws.
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage  and the target makes a DC 12 Constitution saving throw. On a failure  it is infected with Troglodyte Stench.
-- **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.
-- **Dart:** Melee Weapon Attack: +4 to hit  range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) poison damage.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage  and the target makes a DC 12 Constitution saving throw. On a failure  it is infected with Troglodyte Stench.
+- **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+- **Dart:** Melee Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) poison damage.
 
 

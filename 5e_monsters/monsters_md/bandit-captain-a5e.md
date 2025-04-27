@@ -20,8 +20,8 @@
 ### Actions
 
 - **Multiattack:** The bandit captain attacks twice with their scimitar and once with their dagger  or throws two daggers.
-- **Scimitar:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) slashing damage.
-- **Dagger:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 20/60 feet  one target. Hit: 5 (1d4 + 3) piercing damage.
+- **Scimitar:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+- **Dagger:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 feet  one target. Hit: 5 (1d4 + 3) piercing damage.
 
 ### Reactions
 

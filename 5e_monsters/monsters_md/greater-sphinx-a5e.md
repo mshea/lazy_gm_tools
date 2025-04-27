@@ -28,7 +28,7 @@
 ### Actions
 
 - **Multiattack:** The sphinx attacks twice with its claw.
-- **Claw:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 17 (2d10 + 6) slashing damage.
+- **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.
 - **Dispel Magic (3rd-Level; V, S):** The sphinx scours the magic from one creature  object  or magical effect within 120 feet that it can see. A spell ends if it was cast with a 3rd-level or lower spell slot. For spells using a 4th-level or higher spell slot  the sphinx makes a Wisdom ability check (DC 10 + the spells level) for each one  ending the effect on a success.
 - **Flame Strike (5th-Level; V, S):** A column of divine flame fills a 10-foot-radius  40-foot-high cylinder within 60 feet. Creatures in the area make a DC 18 Dexterity saving throw  taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failure or half damage on a success.
 - **Roar (3/Day):** The sphinx unleashes a magical roar. Each time it roars before taking a long rest  its roar becomes more powerful. Each creature within 300 feet of the sphinx that can hear it makes a DC 18 Constitution saving throw with the following consequences:

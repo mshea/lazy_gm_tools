@@ -28,7 +28,7 @@
 
 ### Actions
 
-- **Divine Weapon:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 9 (1d8 + 5) damage (damage type based on the form of the weapon or implement) plus 3 (1d6) radiant damage.
+- **Divine Weapon:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 9 (1d8 + 5) damage (damage type based on the form of the weapon or implement) plus 3 (1d6) radiant damage.
 - **Stunning Gaze (Gaze):** The god targets a creature within 60 feet. The target makes a DC 17 Charisma saving throw. On a failure  the target takes 10 (3d6) radiant damage and is stunned until the end of its next turn. On a success  the target is immune to Stunning Gaze for 24 hours.
 - **Divine Wrath (1/Day, While Bloodied):** Each creature of the gods choice within 60 feet makes a DC 17 Constitution saving throw  taking 28 (8d6) radiant damage on a failure or half damage on a success.
 - **Spirit Guardians (3rd-Level; V, S, Concentration):** Spirits of former divine servants surround the god in a 10-foot radius for 10 minutes. The god can choose creatures they can see to be unaffected by the spell. Other creatures treat the area as difficult terrain  and when a creature enters the area for the first time on a turn or starts its turn there  it makes a DC DC 17 Wisdom saving throw  taking 10 (3d6) radiant damage on a failed save or half damage on a success.

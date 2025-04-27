@@ -24,7 +24,6 @@
 
 ### Actions
 
-- **Spears:** Melee or Ranged Weapon Attack: +3 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 22 (5d6 + 5) piercing damage  or half damage when bloodied.
-- **Warriors who train together are able to fight as one, attacking and retreating as if they share a mind:** 
+- **Spears:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 22 (5d6 + 5) piercing damage  or half damage when bloodied.
 
 

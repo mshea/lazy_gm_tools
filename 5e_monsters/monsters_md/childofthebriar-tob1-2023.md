@@ -14,6 +14,9 @@
 
 - **Skills:** Perception +4, Stealth +7
 - **Damage Vulnerabilities:** fire
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Briarclick, Common, Sylvan
 

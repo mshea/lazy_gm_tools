@@ -24,8 +24,8 @@
 ### Actions
 
 - **Multiattack:** The cyclops makes two melee attacks.
-- **Club:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 18 (3d8 + 5) bludgeoning damage.
-- **Rock:** Ranged Weapon Attack: +8 to hit  range 120 ft. (see Poor Depth Perception)  one target. Hit: 32 (5d10 + 5) bludgeoning damage.
+- **Club:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
+- **Rock:** Ranged Weapon Attack: +8 to hit, range 120 ft. (see Poor Depth Perception)  one target. Hit: 32 (5d10 + 5) bludgeoning damage.
 
 ### Bonus Actions
 

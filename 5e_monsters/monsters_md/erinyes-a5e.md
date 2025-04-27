@@ -28,9 +28,9 @@
 ### Actions
 
 - **Multiattack:** The erinyes makes three attacks.
-- **Longsword:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 8 (1d8 + 4) slashing damage plus 14 (4d6) poison damage.
-- **Longbow:** Ranged Weapon Attack: +8 to hit  range 150/600 ft.  one target. Hit: 8 (1d8 + 4) piercing damage plus 14 (4d6) poison damage  and the target makes a DC 14 Constitution saving throw. On a failure  it is poisoned for 24 hours or until the poison is removed by lesser restoration or similar magic.
-- **Lasso:** Melee Weapon Attack: +8 to hit  reach 15 ft.  one target. Hit: The target is entangled by the lasso. While entangled  it can't move more than 15 feet away from the erinyes. The entanglement ends if the erinyes releases the lasso or becomes incapacitated  or if the lasso is destroyed. The lasso is an object with AC 12 and 20 HP and is immune to piercing  poison  psychic  and thunder damage. The entanglement also ends if the target or a creature within 5 feet of it uses an action to succeed on a DC 16 Athletics or Acrobatics check to remove the lasso. The erinyes can't make a lasso attack while a creature is entangled.
+- **Longsword:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage plus 14 (4d6) poison damage.
+- **Longbow:** Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 14 (4d6) poison damage  and the target makes a DC 14 Constitution saving throw. On a failure  it is poisoned for 24 hours or until the poison is removed by lesser restoration or similar magic.
+- **Lasso:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: The target is entangled by the lasso. While entangled  it can't move more than 15 feet away from the erinyes. The entanglement ends if the erinyes releases the lasso or becomes incapacitated  or if the lasso is destroyed. The lasso is an object with AC 12 and 20 HP and is immune to piercing  poison  psychic  and thunder damage. The entanglement also ends if the target or a creature within 5 feet of it uses an action to succeed on a DC 16 Athletics or Acrobatics check to remove the lasso. The erinyes can't make a lasso attack while a creature is entangled.
 
 ### Reactions
 

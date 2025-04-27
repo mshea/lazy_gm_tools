@@ -18,6 +18,6 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 2 (1d4) piercing damage. If this damage reduces the target to 0 hit points  the hyena can use its bonus action to move half its Speed and make a second bite attack.
+- **Bite:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage. If this damage reduces the target to 0 hit points  the hyena can use its bonus action to move half its Speed and make a second bite attack.
 
 

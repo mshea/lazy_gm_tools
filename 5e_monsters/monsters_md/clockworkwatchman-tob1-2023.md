@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Con +3
 - **Skills:** Athletics +4, Perception +4
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common

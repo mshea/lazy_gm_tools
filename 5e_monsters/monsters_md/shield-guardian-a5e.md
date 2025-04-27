@@ -29,7 +29,7 @@
 ### Actions
 
 - **Multiattack:** The guardian attacks twice with its fist.
-- **Fist:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+- **Fist:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Self-Repair:** The guardian regains 15 hit points.
 
 ### Reactions

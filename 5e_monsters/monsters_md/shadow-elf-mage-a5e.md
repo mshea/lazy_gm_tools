@@ -41,8 +41,8 @@
 
 ### Actions
 
-- **Dagger:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
-- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +6 to hit  range 120 ft.  one target. Hit: 11 (2d10) fire damage.
+- **Dagger:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 11 (2d10) fire damage.
 - **Lightning Bolt (3rd-Level; V, S, M):** A bolt of lightning 5 feet wide and 100 feet long arcs from the mage. Each creature in the area makes a DC 14 Dexterity saving throw  taking 28 (8d6) lightning damage on a failure or half damage on a success.
 - **Dimension Door (4th-Level; V):** The mage teleports to a location within 500 feet. They can bring along one willing Medium or smaller creature within 5 feet. If a creature would teleport to an occupied space  it takes 14 (4d6) force damage  and the spell fails.
 - **Greater Invisibility (4th-Level; V, S, Concentration):** The mage or a creature they touch is invisible for 1 minute.

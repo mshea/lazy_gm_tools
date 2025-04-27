@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Dex +6, Con +6, Int +7
 - **Skills:** Athletics +5, Perception +3, Stealth +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, poisoned, unconscious
 - **Senses:** darkvision 240 ft., passive Perception 13
 - **Languages:** Common, Void Speech

@@ -13,7 +13,9 @@
 | 22 (+6) | 9 (-1) | 20 (+5) | 5 (-3) | 11 (+0) | 1 (-5) |
 
 - **Skills:** Perception +8
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic, radiant; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** truesight 120 ft., passive Perception 18
 - **Languages:** understands the languages of its creator but can’t speak

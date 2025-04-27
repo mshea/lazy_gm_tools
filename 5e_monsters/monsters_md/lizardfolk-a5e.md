@@ -23,9 +23,9 @@
 ### Actions
 
 - **Multiattack:** The lizardfolk attacks with its club and shield.
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage  or 9 (2d6 + 2) piercing damage if the attack is made with advantage.
-- **Club:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
-- **Shield:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
-- **Javelin:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage  or 9 (2d6 + 2) piercing damage if the attack is made with advantage.
+- **Club:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+- **Shield:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+- **Javelin:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
 

@@ -58,10 +58,10 @@
 ### Actions
 
 - **Multiattack:** The arcane blademaster attacks four times and casts a cantrip.
-- **Longsword:** Melee Weapon Attack: +11 to hit  reach 5 ft.  one target. Hit: 11 (1d8 + 7) slashing damage.
-- **Composite Longbow:** Ranged Weapon Attack: +11 to hit  range 150/600 ft.  one target. Hit: 9 (1d8 + 5) piercing damage.
-- **Shocking Grasp (Cantrip; V, S):** Melee Spell Attack: +11 to hit  reach 5 ft.  one creature. Hit: 18 (4d8) lightning damage  and the target can't take reactions until the start of its next turn.
-- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +11 to hit  range 120 ft.  one target. Hit: 22 (4d10) fire damage.
+- **Longsword:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 7) slashing damage.
+- **Composite Longbow:** Ranged Weapon Attack: +11 to hit, range 150/600 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
+- **Shocking Grasp (Cantrip; V, S):** Melee Spell Attack: +11 to hit, reach 5 ft., one creature. Hit: 18 (4d8) lightning damage  and the target can't take reactions until the start of its next turn.
+- **Fire Bolt (Cantrip; V, S):** Ranged Spell Attack: +11 to hit, range 120 ft., one target. Hit: 22 (4d10) fire damage.
 - **Globe of Invulnerability (6th-Level; V, S, M, Concentration):** A glimmering 10-foot-radius sphere appears around the blademaster. It remains for 1 minute and doesnt move with the blademaster. Any 5th-level or lower spell cast from outside the sphere can't affect anything inside the sphere  even if cast with a higher level spell slot. Targeting something inside the sphere or including the spheres space in an area has no effect on anything inside.
 - **Teleport (7th-Level; V):** The blademaster teleports to a location they are familiar with on the same plane of existence.
 - **Unholy Star (7th-Level; V, S):** A meteor explodes at a point the blademaster can see 100 feet directly above them. Each creature within 120 feet that can see the meteor (other than the blademaster) makes a DC 19 Dexterity saving throw. On a failure  it is blinded until the end of the blademasters next turn. Four fiery chunks of the meteor then plummet to the ground at different points chosen by the blademaster that are within range  to explode in 5-foot-radius areas. Each creature in an area makes a DC 19 Dexterity saving throw  taking 21 (6d6) fire damage and 21 (6d6) necrotic damage on a failed save or half damage on a successful one. A creature in more than one area is affected only once. Flammable unattended objects catch fire.

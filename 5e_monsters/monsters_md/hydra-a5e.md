@@ -29,7 +29,7 @@
 ### Actions
 
 - **Multiattack:** The hydra bites once with each of its heads.
-- **Bite:** Melee Weapon Attack: +9 to hit  reach 15 ft.  one target. Hit: 10 (1d10 + 5) piercing damage.
+- **Bite:** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 10 (1d10 + 5) piercing damage.
 
 
 

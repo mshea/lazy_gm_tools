@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Dex +5
 - **Skills:** Deception +5, Insight +3, Persuasion +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Draconic

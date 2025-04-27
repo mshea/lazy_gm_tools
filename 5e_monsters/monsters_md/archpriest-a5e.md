@@ -58,7 +58,7 @@
 ### Actions
 
 - **Multiattack:** The archpriest attacks twice.
-- **Mace:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 8 (1d6 + 5) bludgeoning damage plus 10 (3d6) radiant damage.
+- **Mace:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage plus 10 (3d6) radiant damage.
 - **Flame Strike (5th-Level; V, S, M):** A column of divine flame fills a 10-foot-radius  40-foot-high cylinder within 60 feet. Creatures in the area make a DC 18 Dexterity saving throw  taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failure or half damage on a success.
 - **Fire Storm (7th-Level; V, S):** Flames roar from areas within 120 feet in a contiguous group of ten 10-foot cubes in an arrangement the archpriest chooses. Creatures in the area make a DC 18 Dexterity saving throw  taking 38 (7d10) fire damage on a failure or half damage on a success. The spell damages objects in the area and ignites flammable objects that arent being worn or carried.
 - **Holy Aura (8th-Level; V, S, M, Concentration):** Holy radiance emanates from the archpriest and fills a 30-foot radius around them  targeting creatures in the area of the archpriests choice. Targets shed dim light in a 5-foot radius and have advantage on saving throws. Attacks made against a target have disadvantage. When a fiend or undead hits a target  the aura erupts into blinding light  forcing the attacker to succeed on a DC 18 Constitution saving throw or be blinded until the spell ends (up to 1 minute).

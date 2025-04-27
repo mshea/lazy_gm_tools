@@ -13,7 +13,10 @@
 | 19 (+4) | 13 (+1) | 18 (+4) | 6 (-2) | 10 (+0) | 16 (+3) |
 
 - **Skills:** Intimidation +5, Perception +2
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid, lightning
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Dwarvish, Elvish
 

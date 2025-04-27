@@ -24,8 +24,7 @@
 
 ### Actions
 
-- **Shortsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) piercing damage.
-- **Longbow:** Ranged Weapon Attack: +5 to hit  range 150/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
-- **Forest gnome scouts patrol the boundaries of their hidden villages, leading trespassers astray and attacking those they can't distract:** 
+- **Shortsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+- **Longbow:** Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 
 

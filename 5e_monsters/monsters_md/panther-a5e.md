@@ -22,8 +22,8 @@
 
 ### Actions
 
-- **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4+2) slashing damage. If the panther moves at least 20 feet straight towards the target before the attack  the target makes a DC 12 Strength saving throw  falling prone on a failure.
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4+2) piercing damage.
+- **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) slashing damage. If the panther moves at least 20 feet straight towards the target before the attack  the target makes a DC 12 Strength saving throw  falling prone on a failure.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage.
 
 ### Bonus Actions
 

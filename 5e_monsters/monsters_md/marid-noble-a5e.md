@@ -26,8 +26,8 @@
 ### Actions
 
 - **Multiattack:** The marid makes two trident attacks. One of these can be replaced with a net attack.
-- **Trident:** Melee or Ranged Weapon Attack: +10 to hit  reach 10 ft. or range 20/60 ft.  one target. Hit: 13 (2d6 + 6) piercing damage plus 5 (1d10) lightning damage. If thrown  the trident returns to the marids hand.
-- **Net:** Ranged Weapon Attack: +10 to hit  range 5/15 ft.  one target. Hit: A Large  Medium  or Small target is restrained until it is freed. A creature can use its action to make a DC 18 Strength check  freeing itself or another creature within its reach on a success. The net is an object with AC 10  20 hit points  vulnerability to slashing damage  and immunity to bludgeoning  poison  and psychic damage.
+- **Trident:** Melee or Ranged Weapon Attack: +10 to hit, reach 10 ft. or range 20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage plus 5 (1d10) lightning damage. If thrown  the trident returns to the marids hand.
+- **Net:** Ranged Weapon Attack: +10 to hit, range 5/15 ft., one target. Hit: A Large  Medium  or Small target is restrained until it is freed. A creature can use its action to make a DC 18 Strength check  freeing itself or another creature within its reach on a success. The net is an object with AC 10  20 hit points  vulnerability to slashing damage  and immunity to bludgeoning  poison  and psychic damage.
 
 ### Bonus Actions
 

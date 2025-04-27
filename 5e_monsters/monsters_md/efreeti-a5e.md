@@ -25,9 +25,9 @@
 ### Actions
 
 - **Multiattack:** The efreeti makes two brass sword attacks or hurls flame twice. The efreeti can replace one attack with a kick.
-- **Brass Sword:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 15 (2d8 + 6) slashing damage plus 7 (2d6) fire damage.
-- **Kick:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 11 (2d4 + 6) bludgeoning damage  and the target is pushed 10 feet away from the efreet.
-- **Hurl Flame:** Ranged Spell Attack: +7 to hit  range 120 ft.  one target. Hit: 21 (6d6) fire damage.
+- **Brass Sword:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) slashing damage plus 7 (2d6) fire damage.
+- **Kick:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11 (2d4 + 6) bludgeoning damage  and the target is pushed 10 feet away from the efreet.
+- **Hurl Flame:** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 21 (6d6) fire damage.
 
 ### Bonus Actions
 

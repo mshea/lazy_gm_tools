@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Talons:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6+2) slashing damage and the target is grappled (escape DC 13). Until this grapple ends  the giant eagle can't attack a different target with its talons.
+- **Talons:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6+2) slashing damage and the target is grappled (escape DC 13). Until this grapple ends  the giant eagle can't attack a different target with its talons.
 
 ### Bonus Actions
 

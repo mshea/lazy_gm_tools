@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +5, Con +15, Wis +13, Cha +11
 - **Skills:** Perception +13
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances:** cold, fire, lightning
 - **Condition Immunities:** blinded, charmed, exhaustion, frightened, poisoned

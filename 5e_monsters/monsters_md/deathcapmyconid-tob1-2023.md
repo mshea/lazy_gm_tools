@@ -12,6 +12,11 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 10 (+0) | 16 (+3) | 10 (+0) | 11 (+0) | 9 (-1) |
 
+- **Skills:** 
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** —
 

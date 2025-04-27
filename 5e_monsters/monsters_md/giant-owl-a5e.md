@@ -23,6 +23,6 @@
 
 ### Actions
 
-- **Talons:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6+1) slashing damage.
+- **Talons:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) slashing damage.
 
 

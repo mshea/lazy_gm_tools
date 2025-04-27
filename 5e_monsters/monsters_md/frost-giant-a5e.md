@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The giant makes two melee weapon attacks.
-- **Battleaxe:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) slashing damage. If the target is a Large or smaller creature  it makes a DC 18 Strength saving throw  falling prone on a failure.
-- **Rock:** Ranged Weapon Attack: +10 to hit  range 60/240 ft.  one target. Hit: 37 (9d6 + 6) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 18 Strength saving throw  falling prone on a failure. In lieu of a rock  the giant can throw a grappled Medium or smaller creature up to 40 feet. On a hit  the target and the thrown creature both take 19 (4d6 + 5) bludgeoning damage. On a miss  only the thrown creature takes the damage. The thrown creature falls prone in an unoccupied space 5 feet from the target.
+- **Battleaxe:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) slashing damage. If the target is a Large or smaller creature  it makes a DC 18 Strength saving throw  falling prone on a failure.
+- **Rock:** Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. Hit: 37 (9d6 + 6) bludgeoning damage. If the target is a Large or smaller creature  it makes a DC 18 Strength saving throw  falling prone on a failure. In lieu of a rock  the giant can throw a grappled Medium or smaller creature up to 40 feet. On a hit  the target and the thrown creature both take 19 (4d6 + 5) bludgeoning damage. On a miss  only the thrown creature takes the damage. The thrown creature falls prone in an unoccupied space 5 feet from the target.
 
 ### Bonus Actions
 

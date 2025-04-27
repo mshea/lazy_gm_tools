@@ -26,8 +26,8 @@
 
 ### Actions
 
-- **Barbed Spear:** Melee or Ranged Weapon Attack: +8 to hit  reach 10 ft. or range 20/60 ft.  one target. Hit: 15 (2d10 + 4) piercing damage. If the attack is a melee attack against a creature  the target is grappled (escape DC 16). Until this grapple ends  the devil can't use its barbed spear on another target.
-- **Claw:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 17 (2d12 + 4) piercing damage.
+- **Barbed Spear:** Melee or Ranged Weapon Attack: +8 to hit, reach 10 ft. or range 20/60 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the attack is a melee attack against a creature  the target is grappled (escape DC 16). Until this grapple ends  the devil can't use its barbed spear on another target.
+- **Claw:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (2d12 + 4) piercing damage.
 - **Invisibility:** The devil magically turns invisible  along with any equipment it carries. This invisibility ends if the devil makes an attack  falls unconscious  or dismisses the effect.
 
 ### Bonus Actions

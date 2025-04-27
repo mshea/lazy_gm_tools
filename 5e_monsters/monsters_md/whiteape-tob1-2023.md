@@ -13,6 +13,10 @@
 | 18 (+4) | 16 (+3) | 18 (+4) | 8 (-1) | 14 (+2) | 8 (-1) |
 
 - **Skills:** Athletics +7, Intimidation +5, Perception +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common
 

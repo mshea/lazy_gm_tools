@@ -29,6 +29,6 @@
 
 - **Multiattack:** The mummy uses Dreadful Glare and then attacks with its rotting fist.
 - **Dreadful Glare (Gaze):** The mummy targets a creature within 60 feet. The target makes a DC 11 Wisdom saving throw. On a failure  it is magically frightened until the end of the mummys next turn. If the target fails the save by 5 or more  it is paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of mummies (but not mummy lords) for 24 hours.
-- **Rotting Fist:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature  it makes a DC 13 Constitution saving throw. On a failure  it is cursed with Mummy Rot.
+- **Rotting Fist:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature  it makes a DC 13 Constitution saving throw. On a failure  it is cursed with Mummy Rot.
 
 

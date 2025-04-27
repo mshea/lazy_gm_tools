@@ -13,6 +13,10 @@
 | 14 (+2) | 24 (+7) | 17 (+3) | 12 (+1) | 14 (+2) | 12 (+1) |
 
 - **Skills:** Perception +5, Stealth +7
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Infernal, Tosculi
 

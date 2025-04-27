@@ -18,8 +18,8 @@
 
 ### Actions
 
-- **Claw:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the scorpionfolk can't attack a different target with its claws.
-- **Javelin:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
+- **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the scorpionfolk can't attack a different target with its claws.
+- **Javelin:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
 ### Bonus Actions
 

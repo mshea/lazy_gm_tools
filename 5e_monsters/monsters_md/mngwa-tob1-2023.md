@@ -13,6 +13,10 @@
 | 19 (+4) | 17 (+3) | 15 (+2) | 11 (+0) | 17 (+3) | 17 (+3) |
 
 - **Skills:** Perception +5, Stealth +7
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Sylvan
 

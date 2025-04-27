@@ -30,7 +30,7 @@
 ### Actions
 
 - **Multiattack:** The revenant makes two strangle attacks. It can replace one attack with Burning Hatred  if available.
-- **Strangle:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is grappled (escape DC 15) if its a Large or smaller creature. Until this grapple ends  the creature can't breathe  and the revenant can't strangle any other creature.
+- **Strangle:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is grappled (escape DC 15) if its a Large or smaller creature. Until this grapple ends  the creature can't breathe  and the revenant can't strangle any other creature.
 - **Burning Hatred (Recharge 4-6):** The revenant targets the focus of its Fearsome Pursuit  assuming the creature is within 30 feet. The target makes a DC 15 Wisdom saving throw. On a failure  it takes 14 (4d6) psychic damage and is paralyzed until the end of its next turn. On a success  it takes half damage and is frightened until the end of its next turn.
 
 

@@ -28,6 +28,6 @@
 
 ### Actions
 
-- **Pseudopod:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 5 (2d4) acid damage. Nonmagical metal armor worn by the target corrodes  taking a permanent -1 penalty to its AC protection per hit. If the penalty reduces the armors AC protection to 10  the armor is destroyed.
+- **Pseudopod:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 5 (2d4) acid damage. Nonmagical metal armor worn by the target corrodes  taking a permanent -1 penalty to its AC protection per hit. If the penalty reduces the armors AC protection to 10  the armor is destroyed.
 
 

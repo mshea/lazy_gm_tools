@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The troll attacks with its bite and twice with its claw. When the troll uses Multiattack  it can make a rock attack in place of one claw attack.
-- **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
-- **Claw:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) slashing damage.
-- **Rock:** Ranged Weapon Attack: +7 to hit  range 20/60 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+- **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+- **Claw:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
+- **Rock:** Ranged Weapon Attack: +7 to hit, range 20/60 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 
 

@@ -25,8 +25,8 @@
 ### Actions
 
 - **Multiattack:** The berserker attacks twice.
-- **Greataxe:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 8 (1d12 + 2) slashing damage.
-- **Handaxe:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft or range 20/60 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.
+- **Greataxe:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) slashing damage.
+- **Handaxe:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft or range 20/60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Aggressive Charge:** The urk moves up to their Speed towards an enemy they can see or hear.
 - **Warriors who fight on the front lines of an orc war horde gain a special title: urk, meaning doomed:**  Other orc warriors treat urks with the deference due the sacred nature of their rage and sacrifice.
 

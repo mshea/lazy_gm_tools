@@ -26,7 +26,7 @@
 
 - **Multiattack:** The hag attacks twice with its claws and then uses Hex if not in beast form.
 - **Beast Form:** The hag magically transforms into a Large or smaller beast or back into its true form. While in beast form  it retains its game statistics can't cast spells can't use Hex  and can't speak. The hags Speed increases by 10 feet  and when appropriate to its beast form it gains a climb  fly  or swim speed of 40 feet. Any equipment the hag is wearing or wielding merges into its new form.
-- **Claws:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 12 (2d8 + 3) slashing damage.
+- **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.
 - **Hex (Gaze):** A creature within 60 feet that is not already under a hags hex makes a DC 13 Wisdom saving throw. A creature under an obligation to the hag automatically fails this saving throw. On a failed saving throw  the target is cursed with a magical hex that lasts 30 days. The curse ends early if the target suffers harm from the hag or if the hag ends it as an action. Roll 1d4:
 - **1:** Charm Hex. The target is charmed by the hag.
 - **2:** Fear Hex. The target is frightened of the hag.

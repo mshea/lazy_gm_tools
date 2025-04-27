@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Str +11, Wis +10, Cha +8
 - **Skills:** Athletics +11, Perception +10, Survival +10
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron weapons
 - **Condition Immunities:** exhaustion, charmed, frightened, poisoned

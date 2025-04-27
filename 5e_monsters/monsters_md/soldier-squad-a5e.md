@@ -24,11 +24,10 @@
 
 ### Actions
 
-- **Spears:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 31 (6d6 + 10) piercing damage  or half damage if the squad is bloodied.
+- **Spears:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 31 (6d6 + 10) piercing damage  or half damage if the squad is bloodied.
 
 ### Bonus Actions
 
-- **Tactical Movement:** Until the end of the squads turn, their Speed is halved and their movement doesnt provoke opportunity attacks.
-- **Soldier squads march to war and garrison fortifications:** 
+- **Tactical Movement:** Until the end of the squads turn, their Speed is halved and their movement doesn't provoke opportunity attacks.
 
 

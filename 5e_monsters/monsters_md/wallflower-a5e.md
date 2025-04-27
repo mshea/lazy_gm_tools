@@ -23,7 +23,7 @@
 
 ### Actions
 
-- **Tentacles:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the grick can't attack a different target with its tentacles.
+- **Tentacles:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage  and the target is grappled (escape DC 12). Until this grapple ends  the grick can't attack a different target with its tentacles.
 
 ### Bonus Actions
 

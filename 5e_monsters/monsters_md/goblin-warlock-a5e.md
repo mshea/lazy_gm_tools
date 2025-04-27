@@ -18,8 +18,8 @@
 
 ### Actions
 
-- **Dagger:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
-- **Silver Fire:** Ranged Spell Attack: +4 to hit  range 60 ft.  one target. Hit: 7 (2d6) fire damage and 7 (2d6) ongoing fire damage. A creature can use an action to douse the fire on a target  ending the ongoing damage.
+- **Dagger:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+- **Silver Fire:** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 7 (2d6) fire damage and 7 (2d6) ongoing fire damage. A creature can use an action to douse the fire on a target  ending the ongoing damage.
 - **Clinging Illusion:** The warlock creates a magical illusion of an unmoving Medium or smaller object in a space it can see within 30 feet. The illusion can hide a smaller object in the same space. The illusion lasts 24 hours  until a creature touches it  or until the warlock uses Clinging Illusion again. A creature can take an action to make a DC 12 Investigation check to disbelieve the illusion. On a success  the illusion appears transparent to the creature.
 
 ### Reactions

@@ -14,6 +14,8 @@
 
 - **Saving Throws**: Con +6
 - **Skills:** Athletics +8, Intimidation +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 11

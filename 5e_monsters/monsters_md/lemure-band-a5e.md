@@ -30,6 +30,6 @@
 
 ### Actions
 
-- **Fists:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 12 (5d4) bludgeoning damage.
+- **Fists:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 12 (5d4) bludgeoning damage.
 
 

@@ -13,6 +13,8 @@
 | 14 (+2) | 10 (+0) | 16 (+3) | 8 (-1) | 11 (+0) | 18 (+4) |
 
 - **Saving Throws**: Con +6
+- **Skills:** 
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, poisoned

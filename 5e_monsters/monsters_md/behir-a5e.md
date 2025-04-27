@@ -26,9 +26,9 @@
 ### Actions
 
 - **Multiattack:** The behir makes a bite attack and then a constrict attack.
-- **Bite:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 24 (3d12 + 5) piercing damage. If the target is a Medium or smaller creature grappled by the behir  and the behir has not swallowed anyone else  the target is swallowed. A swallowed creature is blinded and restrained  it has total cover from attacks from outside the behir  and it takes 21 (6d6) acid damage at the start of each of the behirs turns.
+- **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 24 (3d12 + 5) piercing damage. If the target is a Medium or smaller creature grappled by the behir  and the behir has not swallowed anyone else  the target is swallowed. A swallowed creature is blinded and restrained  it has total cover from attacks from outside the behir  and it takes 21 (6d6) acid damage at the start of each of the behirs turns.
 - **If a swallowed creature deals 30 or more damage to the behir in a single turn, or if the behir dies, the behir vomits up the creature:** 
-- **Constrict:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 21 (3d10 + 5) bludgeoning damage. The target is grappled (escape DC 17) and restrained while grappled. The behir can grapple two creatures at once.
+- **Constrict:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage. The target is grappled (escape DC 17) and restrained while grappled. The behir can grapple two creatures at once.
 - **Lightning Breath (Recharge 5-6):** The behir breathes a line of lightning 5 feet wide and 20 feet long. Creatures in the area make a DC 16 Dexterity saving throw  taking 56 (16d6) lightning damage on a failed save or half damage on a success.
 
 ### Reactions

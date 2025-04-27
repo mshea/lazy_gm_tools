@@ -18,6 +18,6 @@
 
 ### Actions
 
-- **Sting:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 1 piercing damage and the target makes a DC 9 Constitution save  taking 4 (1d8) poison damage on a failure or half damage on a success.
+- **Sting:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 piercing damage and the target makes a DC 9 Constitution save  taking 4 (1d8) poison damage on a failure or half damage on a success.
 
 

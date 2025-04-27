@@ -26,8 +26,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks with its bite and twice with its claws.
-- **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) fire damage.
-- **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
+- **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) fire damage.
+- **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Molten Breath:** The dragon exhales molten glass in a 40-foot-long  5-foot-wide line. Each creature in the area makes a DC 15 Dexterity saving throw  taking 38 (11d6) fire damage on a failed save or half damage on a success.
 - **Sleep Breath:** The dragon exhales sleep gas in a 30-foot cone. Each creature in the area makes a DC 15 Constitution saving throw. On a failure  a creature falls unconscious for 10 minutes or until it takes damage or someone uses an action to wake it.

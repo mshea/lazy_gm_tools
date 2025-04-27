@@ -22,6 +22,6 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 1 piercing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
+- **Bite:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 piercing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
 
 

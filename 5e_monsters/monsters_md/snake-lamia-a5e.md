@@ -23,9 +23,9 @@
 
 ### Actions
 
-- **Dizzying Touch:** Melee Spell Attack: +6 to hit  reach 5 ft.  one creature. Hit: The target is magically charmed for 1 hour or until it takes damage. While charmed in this way  it has disadvantage on Wisdom saving throws and ability checks.
-- **Constrict:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) bludgeoning damage  and the target is grappled (escape DC 13). Until this grapple ends  the lamia can't constrict a different target.
-- **Dagger:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 5 (1d4 + 3) piercing damage  and the target makes a DC 13 Constitution saving throw. On a failure  the target takes 10 (3d6) poison damage and is poisoned for 1 hour.
+- **Dizzying Touch:** Melee Spell Attack: +6 to hit, reach 5 ft., one creature. Hit: The target is magically charmed for 1 hour or until it takes damage. While charmed in this way  it has disadvantage on Wisdom saving throws and ability checks.
+- **Constrict:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage  and the target is grappled (escape DC 13). Until this grapple ends  the lamia can't constrict a different target.
+- **Dagger:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage  and the target makes a DC 13 Constitution saving throw. On a failure  the target takes 10 (3d6) poison damage and is poisoned for 1 hour.
 - **Hypnotic Pattern (3rd-Level; S, Concentration):** A swirling pattern of light appears at a point within 120 feet. Each creature within 10 feet of the pattern that can see it makes a DC 14 Wisdom saving throw. On a failure  the creature is charmed for 1 minute. While charmed  the creature is incapacitated and its Speed is 0. The effect ends on a creature if it takes damage or if another creature uses an action to shake it out of its daze.
 
 ### Bonus Actions

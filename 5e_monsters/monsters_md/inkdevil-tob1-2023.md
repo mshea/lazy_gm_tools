@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Dex +6
 - **Skills:** Arcana +9, Deception +6, History +9, Stealth +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

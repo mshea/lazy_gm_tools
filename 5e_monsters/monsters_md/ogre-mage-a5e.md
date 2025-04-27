@@ -23,8 +23,8 @@
 ### Actions
 
 - **Multiattack:** The ogre makes two melee attacks.
-- **Claw (Ogre Mage Form Only):** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) slashing damage.
-- **Iron Club:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 17 (2d12 + 4) bludgeoning damage  or 10 (1d12 + 4) bludgeoning damage in Small or Medium form. When the ogre hits or touches a target with its club  it can end any spell on the target that was cast with a 3rd-level or lower spell slot.
+- **Claw (Ogre Mage Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+- **Iron Club:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 17 (2d12 + 4) bludgeoning damage  or 10 (1d12 + 4) bludgeoning damage in Small or Medium form. When the ogre hits or touches a target with its club  it can end any spell on the target that was cast with a 3rd-level or lower spell slot.
 - **Read Scroll (1/Day):** The ogre casts a spell from a magical scroll without expending the scrolls magic.
 - **Darkness (2nd-Level; V, S, Concentration):** Magical darkness spreads from a point within 30 feet of the ogre  filling a 15-foot-radius sphere and spreading around corners. It remains for 1 minute. A creature with darkvision can't see through this darkness  and nonmagical light can't illuminate it.
 - **Hold Person (2nd-Level; V, S, Concentration):** One humanoid the ogre can see within 60 feet makes a DC 14 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute  repeating the saving throw at the end of each of its turns  ending the effect on a success.

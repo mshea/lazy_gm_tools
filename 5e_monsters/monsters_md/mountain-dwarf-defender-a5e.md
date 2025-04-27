@@ -25,10 +25,9 @@
 ### Actions
 
 - **Multiattack:** The defender attacks twice with their warhammer.
-- **Warhammer:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) bludgeoning damage.
-- **Lance (Mounted Only):** Melee Weapon Attack: +5 to hit  reach 10 ft.  one target. Hit: 9 (1d12 + 3) piercing damage. If the knight moves at least 20 feet straight towards the target before the attack  they deal an extra 6 (1d12) piercing damage  and the target makes a DC 13 Strength saving throw  falling prone on a failure. This attack is made at disadvantage against targets within 5 feet.
-- **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit  range 100/400 ft.  one target. Hit: 6 (1d10 + 1) piercing damage.
+- **Warhammer:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage.
+- **Lance (Mounted Only):** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage. If the knight moves at least 20 feet straight towards the target before the attack  they deal an extra 6 (1d12) piercing damage  and the target makes a DC 13 Strength saving throw  falling prone on a failure. This attack is made at disadvantage against targets within 5 feet.
+- **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
 - **Knightly Inspiration (1/Day):** The knight inspires creatures of their choice within 30 feet that can hear and understand them. For the next minute  inspired creatures gain an expertise die (1d4) on attack rolls and saving throws. A creature can benefit from only one Knightly Inspiration at a time  and the knight cannot target themselves.
-- **Mountain dwarf defenders are champions who stand fast in battle, never surrendering an inch of ground:** A line of mountain dwarf defenders offers more protection than a wall of solid stone.
 
 

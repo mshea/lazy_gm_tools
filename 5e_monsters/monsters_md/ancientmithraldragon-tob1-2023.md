@@ -14,7 +14,9 @@
 
 - **Saving Throws**: Dex +15, Con +14, Wis +12, Cha +12
 - **Skills:** History +12, Insight +12, Perception +19, Persuasion +12, Stealth +15
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** slashing
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 29
 - **Languages:** all, telepathy 120 ft.

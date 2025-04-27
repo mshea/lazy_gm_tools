@@ -14,6 +14,9 @@
 
 - **Saving Throws**: Dex +5, Cha +5
 - **Skills:** Intimidation +6, Stealth +4
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Draconic

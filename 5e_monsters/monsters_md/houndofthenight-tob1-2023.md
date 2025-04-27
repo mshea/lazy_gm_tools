@@ -16,6 +16,8 @@
 - **Skills:** Intimidation +3, Perception +5, Stealth +6
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** understands Elvish and Umbral but can’t speak
 

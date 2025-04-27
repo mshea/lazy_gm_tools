@@ -25,7 +25,7 @@
 ### Actions
 
 - **Multiattack:** The fomorian attacks twice with its warhammer.
-- **Warhammer:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 18 (3d8 + 5) bludgeoning damage.
+- **Warhammer:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
 
 ### Bonus Actions
 

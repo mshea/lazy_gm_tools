@@ -27,8 +27,8 @@
 ### Actions
 
 - **Multiattack:** The mimic makes a bite attack and a pseudopod attack.
-- **Pseudopod:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 6 (1d4 + 4) bludgeoning damage  and the target is subjected to the mimics Sticky trait.
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one creature stuck to the mimic. Hit: 9 (2d4 + 4) piercing damage  and the target is restrained until it is no longer stuck to the mimic. While a creature is restrained by the mimic  the mimic can't bite a different creature.
+- **Pseudopod:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage  and the target is subjected to the mimics Sticky trait.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature stuck to the mimic. Hit: 9 (2d4 + 4) piercing damage  and the target is restrained until it is no longer stuck to the mimic. While a creature is restrained by the mimic  the mimic can't bite a different creature.
 - **Swallow:** The mimic makes a bite attack against a Medium or smaller creature restrained by it. If the attack hits and the mimic has not swallowed another creature  the target is swallowed and no longer stuck to the mimic. A swallowed creature has total cover from attacks from outside the mimic  is blinded and restrained  and takes 5 (2d4) acid damage at the start of each of the mimics turns.
 - **If a swallowed creature deals 10 or more damage to the mimic in a single turn, or if the mimic dies, the target falls prone in an unoccupied space of its choice within 5 feet of the mimic and is no longer swallowed:** 
 

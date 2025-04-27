@@ -14,7 +14,10 @@
 
 - **Saving Throws**: Wis +2, Cha +6
 - **Skills:** Deception +6, Persuasion +6, Stealth +6
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Celestial, Common, telepathy 100 ft.
 

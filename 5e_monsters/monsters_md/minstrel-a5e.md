@@ -36,7 +36,7 @@
 
 ### Actions
 
-- **Rapier:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
+- **Rapier:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Vicious Mockery (Cantrip; V):** A creature within 60 feet that can hear the minstrel makes a DC 14 Wisdom saving throw. On a failure  it takes 7 (2d6) psychic damage and has disadvantage on the first attack roll it makes before the end of its next turn.
 - **Invisibility (2nd-Level; V, S, M, Concentration):** The minstrel or a creature they touch is invisible for 1 hour. The spell ends if the invisible creature attacks or casts a spell.
 - **Shatter (2nd-Level; V, S, M):** An ear-splitting ringing sound fills a 10-foot-radius sphere emanating from a point the minstrel can see within 60 feet. Creatures in the area make a DC 14 Constitution saving throw  taking 13 (3d8) thunder damage on a failed save or half damage on a success. A creature made of stone  metal  or other inorganic material has disadvantage on its saving throw. Unattended objects in the area also take the damage.
@@ -46,6 +46,5 @@
 
 - **Martial Encouragement:** Until the beginning of the minstrels next turn, one creature within 30 feet that can hear the minstrel deals an extra 3 (1d6) damage whenever it deals weapon damage.
 - **Healing Word (1st-Level; V):** The minstrel or a living creature within 60 feet regains 5 (1d4 + 3) hit points. The minstrel can't cast this spell and a 1st-level or higher spell on the same turn.
-- **Minstrels are musicians who weave magic into their performances:** Minstrels make themselves welcome wherever they go with a mix of entertainment, storytelling, and when necessary, magical charm.
 
 

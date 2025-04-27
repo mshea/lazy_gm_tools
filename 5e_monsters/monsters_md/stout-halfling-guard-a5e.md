@@ -18,7 +18,6 @@
 
 ### Actions
 
-- **Spear:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 3 (1d6) piercing damage.
-- **Though stout halfling communities rarely muster armies, they are served well by alert sentries who can battle fiercely in a pinch:** 
+- **Spear:** Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d6) piercing damage.
 
 

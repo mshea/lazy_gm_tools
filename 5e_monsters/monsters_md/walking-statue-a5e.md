@@ -26,6 +26,6 @@
 
 ### Actions
 
-- **Smash:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 15 (2d10 + 4) bludgeoning damage.
+- **Smash:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage.
 
 

@@ -21,8 +21,8 @@
 ### Actions
 
 - **Multiattack:** The cambion makes two melee attacks or two ranged attacks.
-- **Black Iron Blade:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (1d10 + 4) slashing damage  and the target takes a wound that deals 5 (1d10) ongoing slashing damage. A creature can end the ongoing damage by staunching the wound as an action or by giving the target magical healing.
-- **Fire Blast:** Ranged Spell Attack: +7 to hit  range 60 ft.  one target. Hit: 13 (3d8) fire damage.
+- **Black Iron Blade:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) slashing damage  and the target takes a wound that deals 5 (1d10) ongoing slashing damage. A creature can end the ongoing damage by staunching the wound as an action or by giving the target magical healing.
+- **Fire Blast:** Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 13 (3d8) fire damage.
 - **Fiery Escape (1/Day):** The cambion magically creates a fiery portal to the realm of its fiendish parent. The portal appears in an empty space within 5 feet. The portal lasts until the end of the cambions next turn or until it passes through the portal. No one but the cambion can pass through the portal; anyone else that enters its space takes 14 (4d6) fire damage.
 
 ### Bonus Actions

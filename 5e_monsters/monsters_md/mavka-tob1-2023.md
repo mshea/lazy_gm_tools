@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Str +9, Dex +6, Con +8, Cha +8
 - **Skills:** Athletics +9, Nature +5, Perception +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** fire; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

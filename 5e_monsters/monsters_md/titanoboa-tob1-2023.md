@@ -14,6 +14,10 @@
 
 - **Saving Throws**: Dex +4, Wis +4
 - **Skills:** Perception +4
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** blindsight 10 ft., passive Perception 14
 - **Languages:** —
 

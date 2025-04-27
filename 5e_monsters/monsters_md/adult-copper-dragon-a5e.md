@@ -27,10 +27,10 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks with its bite and twice with its claws. In place of its bite  it can use Acid Spit.
-- **Bite:** Melee Weapon Attack: +12 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) acid damage.
-- **Claws:** Melee Weapon Attack: +12 to hit  reach 5 ft.  one target. Hit: 19 (3d8 + 6) slashing damage.
-- **Tail:** Melee Weapon Attack: +12 to hit  reach 15 ft.  one target. Hit: 19 (3d8 + 6) bludgeoning damage  and the dragon pushes the target 10 feet away.
-- **War Pick (Humanoid Form Only):** Melee Weapon Attack: +12 to hit  reach 5 ft.  one target. Hit: 10 (1d8 + 6) piercing damage.
+- **Bite:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) acid damage.
+- **Claws:** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) slashing damage.
+- **Tail:** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage  and the dragon pushes the target 10 feet away.
+- **War Pick (Humanoid Form Only):** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) piercing damage.
 - **Acid Spit:** The dragon targets a creature within 60 feet  forcing it to make a DC 19 Dexterity saving throw. The creature takes 16 (3d10) acid damage on a failure or half damage on a success. A creature that fails the save also takes 5 (1d10) ongoing acid damage. A creature can use an action to end the ongoing damage.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Acid Breath:** The dragon exhales acid in a 60-foot-long  5-foot-wide line. Each creature in the area makes a DC 19 Dexterity saving throw  taking 63 (14d8) acid damage on a failed save or half damage on a success. A creature that fails the save is blinded until the end of its next turn.

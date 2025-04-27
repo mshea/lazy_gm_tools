@@ -13,6 +13,8 @@
 | 17 (+3) | 16 (+3) | 16 (+3) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 - **Skills:** Perception +3, Stealth +5
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** poison
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13

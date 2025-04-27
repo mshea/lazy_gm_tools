@@ -28,7 +28,7 @@
 ### Actions
 
 - **Multiattack:** The stalker makes two melee attacks.
-- **Slam:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 12 (2d8 + 3) bludgeoning damage. On a critical hit  the target is pushed up to 15 feet and knocked prone.
+- **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage. On a critical hit  the target is pushed up to 15 feet and knocked prone.
 
 ### Bonus Actions
 

@@ -23,7 +23,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Acid Breath:** The dragon exhales acid in a 20-foot-long  5-foot wide-line. Each creature in the area makes a DC 11 Dexterity saving throw  taking 13 (3d8) acid damage on a failed save or half damage on a success.
 - **Slowing Breath:** The dragon exhales toxic gas in a 15-foot cone. Each creature in the area makes a DC 11 Constitution saving throw  becoming slowed for 1 minute on a failure. A creature repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.

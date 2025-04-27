@@ -16,6 +16,8 @@
 - **Skills:** Perception +4, Stealth +5
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Dwarvish, Giant
 

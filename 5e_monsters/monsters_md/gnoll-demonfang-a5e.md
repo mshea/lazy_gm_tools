@@ -26,6 +26,6 @@
 ### Actions
 
 - **Multiattack:** The gnoll attacks three times with its Charging Claw.
-- **Charging Claw:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) slashing damage  or 10 (2d6 + 3) slashing damage if this is the gnolls first attack on this target this turn. The gnoll may then move up to 10 feet without provoking opportunity attacks.
+- **Charging Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage  or 10 (2d6 + 3) slashing damage if this is the gnolls first attack on this target this turn. The gnoll may then move up to 10 feet without provoking opportunity attacks.
 
 

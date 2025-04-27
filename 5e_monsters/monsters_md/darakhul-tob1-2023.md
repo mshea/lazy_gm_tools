@@ -13,6 +13,7 @@
 | 16 (+3) | 17 (+3) | 14 (+2) | 14 (+2) | 12 (+1) | 12 (+1) |
 
 - **Skills:** Deception +3, Stealth +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** charmed, exhaustion, poisoned

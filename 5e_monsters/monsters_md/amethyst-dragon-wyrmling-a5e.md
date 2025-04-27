@@ -24,7 +24,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Concussive Breath (Recharge 5-6):** The dragon psionically unleashes telekinetic energy in a 15-foot cone. Each creature in that area makes a DC 12 Constitution saving throw  taking 16 (3d10) force damage on a failed save or half damage on a success.
 
 

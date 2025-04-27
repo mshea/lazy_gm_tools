@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6+4) piercing damage.
-- **Claws:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 9 (2d4+4) slashing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 14). Until this grapple ends  the bear can't attack a different target with its claws.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) piercing damage.
+- **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4+4) slashing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 14). Until this grapple ends  the bear can't attack a different target with its claws.
 
 

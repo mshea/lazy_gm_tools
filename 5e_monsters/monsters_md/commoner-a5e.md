@@ -18,8 +18,7 @@
 
 ### Actions
 
-- **Club:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 2 (1d4) bludgeoning damage.
-- **Stone:** Ranged Weapon Attack: +2 to hit  range 10/30 ft.  one target. Hit: 2 (1d4) bludgeoning damage.
-- **Commoners are humanoids who are not trained in combat:** Typical commoners include farmers  herders  artisans  servants  and scholars.
+- **Club:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+- **Stone:** Ranged Weapon Attack: +2 to hit, range 10/30 ft., one target. Hit: 2 (1d4) bludgeoning damage.
 
 

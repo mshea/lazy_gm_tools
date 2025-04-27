@@ -24,7 +24,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 19 (3d10 + 3) piercing damage.
+- **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 19 (3d10 + 3) piercing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales a 30-foot-long  5-foot-wide line of lightning. Each creature in that area makes a DC 12 Dexterity saving throw  taking 22 (4d10) lightning damage on a failed save or half damage on a success.
 
 

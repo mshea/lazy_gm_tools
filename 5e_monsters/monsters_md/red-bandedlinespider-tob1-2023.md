@@ -13,7 +13,9 @@
 | 4 (-3) | 16 (+3) | 10 (+0) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 - **Skills:** Perception +2, Stealth +5
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** psychic
+- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** —

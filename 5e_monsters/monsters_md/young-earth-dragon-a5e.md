@@ -29,8 +29,8 @@
 ### Actions
 
 - **Multiattack:** The dragon attacks once with its bite and twice with its slam.
-- **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 22 (4d10 + 4) piercing damage.
-- **Slam:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+- **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 22 (4d10 + 4) piercing damage.
+- **Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Scouring Breath (Recharge 5-6):** The dragon exhales scouring sand and stones in a 30-foot cone. Each creature in that area makes a DC 16 Dexterity saving throw  taking 38 (11d6) slashing damage on a failed save or half damage on a success.
 
 

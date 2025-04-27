@@ -27,7 +27,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 18 (3d10 + 2) piercing damage.
+- **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 18 (3d10 + 2) piercing damage.
 - **Anguished Breath (Recharge 5-6):** The dragon exhales a shadowy maelstrom of anguish in a 15-foot cone. Each creature in that area makes a DC 12 Wisdom saving throw  taking 22 (4d8) necrotic damage on a failed save or half damage on a success.
 
 

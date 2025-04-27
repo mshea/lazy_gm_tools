@@ -24,9 +24,9 @@
 ### Actions
 
 - **Multiattack:** The gladiator makes two melee attacks with their spear or throws two javelins.
-- **Spear:** Melee or Ranged Weapon Attack: +7 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
-- **Shield:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage.
-- **Javelin:** Melee or Ranged Weapon Attack: +7 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
+- **Spear:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+- **Shield:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+- **Javelin:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 
 ### Bonus Actions
 

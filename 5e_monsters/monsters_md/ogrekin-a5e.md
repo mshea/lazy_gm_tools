@@ -22,7 +22,7 @@
 
 ### Actions
 
-- **Battleaxe:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 12 (2d8 + 3) slashing damage.
-- **Handaxe:** Melee or Ranged Weapon Attack: +5 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
+- **Battleaxe:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.
+- **Handaxe:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 
 

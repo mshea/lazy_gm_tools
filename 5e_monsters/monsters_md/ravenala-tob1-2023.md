@@ -13,7 +13,9 @@
 | 20 (+5) | 10 (+0) | 20 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
 
 - **Saving Throws**: Wis +6, Cha +4
+- **Skills:** 
 - **Damage Vulnerabilities:** cold, fire
+- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** blinded, deafened
 - **Senses:** passive Perception 13

@@ -25,7 +25,7 @@
 
 ### Actions
 
-- **Claws:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one creature. Hit: 10 (2d6 + 3) slashing damage.
+- **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) slashing damage.
 - **Death Glare (Gaze):** One frightened creature within 30 feet makes a DC 11 Wisdom saving throw. On a failed saving throw  the creature drops to 0 hit points. On a success  the creature takes 7 (2d6) psychic damage.
 
 ### Bonus Actions

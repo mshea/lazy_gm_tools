@@ -14,6 +14,8 @@
 
 - **Saving Throws**: Dex +5, Con +8
 - **Skills:** Perception +3
+- **Damage Vulnerabilities:** False
+- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 13

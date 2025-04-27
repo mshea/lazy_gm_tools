@@ -24,8 +24,8 @@
 
 ### Actions
 
-- **Claw:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) slashing damage.
-- **Trident:** Melee or Ranged Weapon Attack: +3 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d6 + 1) piercing damage  or 5 (1d8 + 1) if wielded in two hands in melee.
+- **Claw:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
+- **Trident:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage  or 5 (1d8 + 1) if wielded in two hands in melee.
 
 ### Bonus Actions
 

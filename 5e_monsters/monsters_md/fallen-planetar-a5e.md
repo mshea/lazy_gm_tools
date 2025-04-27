@@ -29,7 +29,7 @@
 ### Actions
 
 - **Multiattack:** The planetar attacks twice with its flaming sword.
-- **Flaming Sword:** Melee Weapon Attack: +11 to hit  reach 10 ft.  one target. Hit: 20 (4d6 + 6) slashing damage plus 21 (6d6) ongoing fire or radiant damage (the planetars choice). A creature can use an action to extinguish this holy flame on itself or a creature within 5 feet.
+- **Flaming Sword:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) slashing damage plus 21 (6d6) ongoing fire or radiant damage (the planetars choice). A creature can use an action to extinguish this holy flame on itself or a creature within 5 feet.
 - **Heavenly Bolt:** The planetar fires a lightning bolt in a line 100 feet long and 5 feet wide. Each creature in the line makes a Dexterity saving throw  taking 56 (16d6) lightning damage on a failed save  or half damage on a success.
 - **Heal (2/Day):** The planetar touches a creature other than itself  magically healing 60 hit points of damage and ending any blindness  curse  deafness  disease  or poison on the target.
 - **Consume Life Energy (1/Day):** The angel feasts on the departing life energy of a humanoid within 5 feet. The target must have been slain within the last hour. The angel magically gains temporary hit points equal to half the dead creatures maximum hit points. These hit points last until depleted. Only a spell cast with a 9th-level slot can raise the corpse from the dead.

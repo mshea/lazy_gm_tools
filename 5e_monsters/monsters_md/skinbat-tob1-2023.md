@@ -13,7 +13,9 @@
 | 12 (+1) | 16 (+3) | 10 (+0) | 2 (-4) | 13 (+1) | 6 (-2) |
 
 - **Skills:** Perception +3
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
+- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 20 ft., darkvision 60 ft., passive Perception 13
 - **Languages:** —

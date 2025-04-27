@@ -23,7 +23,7 @@
 ### Actions
 
 - **Multiattack:** The owlbear attacks with its beak and claws.
-- **Beak:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 9 (1d10 + 4) piercing damage.
-- **Claws:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
+- **Beak:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+- **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 
 

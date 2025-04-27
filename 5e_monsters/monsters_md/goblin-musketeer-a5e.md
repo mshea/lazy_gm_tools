@@ -18,9 +18,9 @@
 
 ### Actions
 
-- **Shortsword:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) piercing damage.
+- **Shortsword:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Two goblin musketeers together can operate a musket:** If one uses its action to assist  the other gains the following additional action:
-- **Musket:** Ranged Weapon Attack: +3 to hit  range 60/180 ft.  one target. Hit: 10 (2d8 + 1) piercing damage.
+- **Musket:** Ranged Weapon Attack: +3 to hit, range 60/180 ft., one target. Hit: 10 (2d8 + 1) piercing damage.
 
 ### Bonus Actions
 

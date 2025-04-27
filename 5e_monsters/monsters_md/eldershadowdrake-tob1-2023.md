@@ -16,6 +16,8 @@
 - **Skills:** Perception +5, Stealth +7
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** cold
+- **Damage Resistances:** False
+- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Draconic, Umbral
 

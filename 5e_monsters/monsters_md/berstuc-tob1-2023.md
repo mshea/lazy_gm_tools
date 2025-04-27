@@ -14,6 +14,7 @@
 
 - **Saving Throws**: Str +10, Wis +6, Cha +8
 - **Skills:** Deception +8, Nature +9, Stealth +4, Survival +6
+- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, poison
 - **Damage Resistances:** acid, cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned
