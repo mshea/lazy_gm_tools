@@ -1,0 +1,80 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- compendium/src/5e/a5emm
+- monster/cr/18
+- monster/size/Huge
+- monster/type/Dragon
+statblock: inline
+aliases: ["adult-green-dragon-a5e", "Adult Green Dragon-a5emm"]
+---
+# Adult Green Dragon A5Emm
+*Source: A5e Monstrous Menagerie Page 113*
+
+```statblock
+"dice": false
+"name": "Adult Green Dragon A5Emm"
+"size": "Huge"
+"type": "Dragon"
+"ac": !!int "18"
+"ac_class": ""
+"hp": !!int "287"
+"hit_dice": "25d12+125"
+"stats":
+- !!int "20"
+- !!int "12"
+- !!int "20"
+- !!int "18"
+- !!int "14"
+- !!int "16"
+"speed": "walk 40 ft. fly 80 ft. swim 40 ft."
+"senses": blindsight 60 ft., darkvision 120 ft., passive Perception 21
+"skillsaves":
+  "deception": !!int "9"
+  "insight": !!int "8"
+  "perception": !!int "8"
+  "persuasion": !!int "9"
+  "stealth": !!int "7"
+"languages": "Common, Draconic, two more"
+"cr": "18"
+"damage_immunities": "poison"
+"traits":
+- "desc": "The dragon can breathe air and water."
+  "name": "Amphibious"
+- "desc": "When the dragon fails a saving throw, it can choose to succeed instead. When it does, it sheds some of its scales, which turn into dry leaves and blow away. If it has no more uses of this ability, its Armor Class is reduced to 17 until it finishes a long rest."
+  "name": "Legendary Resistance (3/Day)"
+- "desc": "When in a forested area, the dragon has advantage on Stealth checks. Additionally, when it speaks in such a place, it can project its voice such that it seems to come from all around, allowing it to remain hidden while speaking."
+  "name": "Woodland Stalker"
+- "desc": "The dragons spellcasting ability is Charisma (save DC 17). It can innately cast the following spells, requiring no material components. 3/day each:animal messenger, tongues, modify memory, scrying"
+  "name": "Innate Spellcasting"
+"actions":
+- "desc": "The dragon attacks once with its bite and twice with its claws. In place of its bite attack  it can Spit Poison."
+  "name": "Multiattack"
+- "desc": "Melee Weapon Attack: +12 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) poison damage."
+  "name": "Bite"
+- "desc": "Melee Weapon Attack: +12 to hit  reach 5 ft.  one target. Hit: 19 (3d8 + 6) slashing damage."
+  "name": "Claw"
+- "desc": "Melee Weapon Attack: +12 to hit  reach 15 ft.  one target. Hit: 15 (2d8 + 6) bludgeoning damage  and the dragon pushes the target 10 feet away."
+  "name": "Tail"
+- "desc": "The dragon targets a creature within 60 feet  forcing it to make a DC 19 Dexterity saving throw. The creature takes 22 (4d10) poison damage on a failure or half damage on a success. A creature that fails the save is also poisoned for 1 minute. The creature repeats the saving throw at the end of each of its turns  taking 11 (2d10) poison damage on a failure and ending the effect on a success."
+  "name": "Spit Poison"
+- "desc": "The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area makes a DC 19 Constitution saving throw  taking 63 (18d6) poison damage on a failed save or half damage on a success. A creature with immunity to poison damage that fails the save takes no damage  but its poison immunity is reduced to resistance for the next hour."
+  "name": "Poison Breath (Recharge 5-6)"
+- "desc": "The dragons words sow doubt in the minds of those who hear them. One creature within 60 feet who can hear and understand the dragon makes a DC 17 Wisdom saving throw. On a failure  the creature must use its reaction  if available  to make one attack against a creature of the dragons choice with whatever weapon it has to do so  moving up to its speed as part of the reaction if necessary. It need not use any special class features (such as Sneak Attack or Divine Smite) when making this attack. If it can't get in a position to attack the creature  it moves as far as it can toward the target before regaining its senses. A creature immune to being charmed is immune to this ability."
+  "name": "Honeyed Words"
+"reactions":
+- "desc": "When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it."
+  "name": "Tail Attack"
+"legendary_actions":
+- "desc": "Only one legendary action can be used at a time and only at the end of another creatures turn. It regains spent legendary actions at the start of its turn."
+  "name": "The dragon can take 3 legendary actions"
+- "desc": "The dragon uses Honeyed Words."
+  "name": "Honeyed Words"
+- "desc": "Each creature of the dragons choice within 120 feet that can hear it makes a DC 17 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours."
+  "name": "Roar"
+- "desc": "The dragon beats its wings. Each creature within 15 feet makes a DC 19 Dexterity saving throw. On a failure, it is pushed 10 feet away and knocked prone. The dragon can then fly up to half its fly speed."
+  "name": "Wing Attack"
+source:
+- [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e)
+```
