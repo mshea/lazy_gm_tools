@@ -21,7 +21,7 @@
 
 - **Herd-Hidden (Herd Animal Form Only):** Has advantage on Dex (Stealth) and Cha (Deception) checks to blend into herd or convince those observing herd it is part of the herd.
 - **Keen Hearing and Smell:** Has advantage on Wis (Perception) checks that rely on hearing or smell.
-- **One of the Herd:** A domesticated herd animal such as a cow horse sheep or chicken that can see the herd skulker treats it as a member of the herd regardless of the form skulker takes. When such an animal sees a herd skulker attack or feed it becomes immune to herd skulker’s One of the Herd for the next 24 hrs acting as it normally would when confronting a predator. Creatures immune to the charmed condition are immune to this.
+- **One of the Herd:** A domesticated herd animal such as a cow horse sheep or chicken that can see the herd skulker treats it as a member of the herd regardless of the form skulker takes. When such an animal sees a herd skulker attack or feed it becomes immune to herd skulker's One of the Herd for the next 24 hrs acting as it normally would when confronting a predator. Creatures immune to the charmed condition are immune to this.
 
 ### Actions
 

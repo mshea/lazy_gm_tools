@@ -21,7 +21,7 @@
 
 - **Cheek Worm Regrowth:** Has twenty worms stored in its cheeks. Used worms regrow when the grivid finishes a long rest.
 - **Keen Sight:** Advantage: sight Wis (Percept) checks.
-- **Parasitic Cheek Worm:** Produces parasitic worms in its cheeks and it expels these worms into other creatures when it attacks. Worm burrows into target's flesh and that creature is poisoned while infested with at least one worm. At start of each of infested creature’s turns it takes 5 (2d4) poison. Any creature can take an action to remove one worm with successful DC 12 Wis (Medicine) check. An effect that cures disease removes and kills one worm infesting the creature. When grivid dies all worms currently infesting creatures die ending infestation in all infested creatures.
+- **Parasitic Cheek Worm:** Produces parasitic worms in its cheeks and it expels these worms into other creatures when it attacks. Worm burrows into target's flesh and that creature is poisoned while infested with at least one worm. At start of each of infested creature's turns it takes 5 (2d4) poison. Any creature can take an action to remove one worm with successful DC 12 Wis (Medicine) check. An effect that cures disease removes and kills one worm infesting the creature. When grivid dies all worms currently infesting creatures die ending infestation in all infested creatures.
 - **Worm Regeneration:** If it has at least 1 hp grivid regains 5 hp for each worm infesting another creature at start of its turn.
 
 ### Actions

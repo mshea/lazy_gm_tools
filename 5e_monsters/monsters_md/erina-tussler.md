@@ -22,7 +22,7 @@
 - **Expert Wrestler:** The erina can grapple creatures two sizes larger than itself and can move at its full speed when dragging a creature it has grappled. If it grapples a Small or smaller creature target has disadvantage on its escape attempts. Erina has advantage on ability checks and saves made to escape a grapple or end restrained condition.
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
 - **Hardy:** The erina has advantage on saves vs. poison.
-- **Spines:** A creature that touches erina or hits it with melee attack while within 5 ft. of it takes 5 (2d4) piercing damage. A creature grappled by or grappling erina takes 5 (2d4) piercing damage at start of the erina’s turn.
+- **Spines:** A creature that touches erina or hits it with melee attack while within 5 ft. of it takes 5 (2d4) piercing damage. A creature grappled by or grappling erina takes 5 (2d4) piercing damage at start of the erina's turn.
 
 ### Actions
 

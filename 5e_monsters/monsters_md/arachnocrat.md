@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Aristocratic Disguise:** An arachnocrat in a prepared disguise has advantage on Charisma (Deception) checks made to pass as a humanoid aristocrat.
-- **Devil’s Sight:** Magical darkness doesn’t impede the arachnocrat’s darkvision.
+- **Devil's Sight:** Magical darkness doesn't impede the arachnocrat's darkvision.
 - **Magic Resistance:** The arachnocrat has advantage on saving throws against spells and other magical effects.
 - **Speak with Spiders:** The arachnocrat can communicate with spiders and other arachnids as if they shared a language.
 - **Spider Climb:** The arachnocrat can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.

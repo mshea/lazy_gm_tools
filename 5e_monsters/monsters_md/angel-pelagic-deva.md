@@ -24,7 +24,7 @@
 - **Amphibious:** Can breathe air and water.
 - **Angelic Weapons:** Its weapon attacks are magical. When it hits with any weapon deals extra 4d8 radiant (included below).
 - **Immortal Nature:** Doesn't require food drink or sleep
-- **Living Coral Armor:** Its armor is made of living coral. If armor is damaged such as from a black pudding’s Pseudopod armor fully repairs itself within 1 min provided it wasn’t destroyed.
+- **Living Coral Armor:** Its armor is made of living coral. If armor is damaged such as from a black pudding's Pseudopod armor fully repairs itself within 1 min provided it wasn't destroyed.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 
 ### Actions

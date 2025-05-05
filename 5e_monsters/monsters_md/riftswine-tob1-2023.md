@@ -22,8 +22,8 @@
 
 ### Special Abilities
 
-- **Chaos Mutations:** At the start of each of its turns, the rift swine’s body experiences a mutation. Choose an option or roll a d6 to determine the type of mutation. The mutation lasts until the start of the rift swine’s next turn.
-- **Dozens of Eyes:** The rift swine has advantage on Wisdom (Perception) checks that rely on sight and on saving throws against being blinded. In addition, if the rift swine isn’t blinded, creatures attacking it can’t benefit from traits and features that rely on a creature’s allies distracting or surrounding the rift swine, such as the Pack Tactics trait or Sneak Attack class feature.
+- **Chaos Mutations:** At the start of each of its turns, the rift swine's body experiences a mutation. Choose an option or roll a d6 to determine the type of mutation. The mutation lasts until the start of the rift swine's next turn.
+- **Dozens of Eyes:** The rift swine has advantage on Wisdom (Perception) checks that rely on sight and on saving throws against being blinded. In addition, if the rift swine isn't blinded, creatures attacking it can't benefit from traits and features that rely on a creature's allies distracting or surrounding the rift swine, such as the Pack Tactics trait or Sneak Attack class feature.
 
 ### Actions
 

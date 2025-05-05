@@ -18,9 +18,9 @@
 
 ### Special Abilities
 
-- **Blood Spurt:** When a creature deals piercing or slashing damage to the orniraptor while within 5 feet of it, the creature must succeed on a DC 11 Dexterity saving throw or take 3 (1d6) acid damage as it is struck by the creature’s caustic blood.
+- **Blood Spurt:** When a creature deals piercing or slashing damage to the orniraptor while within 5 feet of it, the creature must succeed on a DC 11 Dexterity saving throw or take 3 (1d6) acid damage as it is struck by the creature's caustic blood.
 - **Collective Perception:** The orniraptor is aware of everything each other orniraptor within 20 feet of it notices.
-- **Poor Vision:** The orniraptor’s visual acuity is based on movement. A creature that didn’t move between the end of the orniraptor’s last turn and beginning of its current turn is invisible to the orniraptor. The creature is not invisible to the orniraptor if another orniraptor within 20 feet of it notices the creature.
+- **Poor Vision:** The orniraptor's visual acuity is based on movement. A creature that didn't move between the end of the orniraptor's last turn and beginning of its current turn is invisible to the orniraptor. The creature is not invisible to the orniraptor if another orniraptor within 20 feet of it notices the creature.
 
 ### Actions
 

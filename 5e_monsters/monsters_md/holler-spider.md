@@ -31,6 +31,6 @@
 
 ### Reactions
 
-- **Sound Alarm:** When the holler spider detects a creature within 60 feet of it, the spider can emit a hoot or trumpet audible within 300 feet of it. The noise continues until the creature moves out of range, the spider’s handler uses an action to soothe it, or the spider ends the alarm (no action required).
+- **Sound Alarm:** When the holler spider detects a creature within 60 feet of it, the spider can emit a hoot or trumpet audible within 300 feet of it. The noise continues until the creature moves out of range, the spider's handler uses an action to soothe it, or the spider ends the alarm (no action required).
 
 

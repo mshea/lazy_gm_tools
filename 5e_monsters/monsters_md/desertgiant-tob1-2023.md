@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Desert Walk:** Difficult terrain composed of sand or gravel doesn’t cost the desert giant extra movement.
+- **Desert Walk:** Difficult terrain composed of sand or gravel doesn't cost the desert giant extra movement.
 - **Sand Camouflage:** The giant has advantage on Dexterity (Stealth) checks made to hide in sandy terrain.
 
 ### Actions

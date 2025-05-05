@@ -20,7 +20,7 @@
 
 - **False Appearance (Object Form Only):** While the wicked skull remains motionless, it is indistinguishable from an ordinary object.
 - **Jokester:** The wicked skull has advantage on a Charisma (Deception) or Charisma (Persuasion) check if it includes mockery or a joke or riddle as part of the check.
-- **Shapechanger:** The wicked skull can use its action to polymorph into a Tiny object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+- **Shapechanger:** The wicked skull can use its action to polymorph into a Tiny object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 ### Actions
 

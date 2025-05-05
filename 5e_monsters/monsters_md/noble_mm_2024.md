@@ -17,6 +17,7 @@
 | CHA | 16 | +3 | +3 |
 
 - **Skills**: Deception +5, Insight +4, Persuasion +5
+- **Gear** Breastplate, Rapier
 - **Senses**: Passive Perception 12
 - **Languages**: Common plus two other languages
 - **CR** 1/8 (XP 25; PB +2)

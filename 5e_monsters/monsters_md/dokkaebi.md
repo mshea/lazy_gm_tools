@@ -26,6 +26,6 @@
 
 - **Multiattack:** Three attacks with its club.
 - **Dokkaebi Bangmangi:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 5 (1d4+3) bludgeoning damage. See below..
-- **Invisibility:** Magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Items wears or carries are invisible with it. Can’t use this if it doesn’t have its hat.
+- **Invisibility:** Magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Items wears or carries are invisible with it. Can't use this if it doesn't have its hat.
 
 

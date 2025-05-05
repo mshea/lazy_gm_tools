@@ -19,14 +19,14 @@
 
 ### Special Abilities
 
-- **Aura of Misfortune:** Creatures within 15 ft. of it treat attack rolls of 20 as 19 and can’t gain advantage on ability checks attacks and saves.
+- **Aura of Misfortune:** Creatures within 15 ft. of it treat attack rolls of 20 as 19 and can't gain advantage on ability checks attacks and saves.
 - **Rejuvenation:** While hinderling curse remains on a victim a slain hinderling returns to life in 1 day regaining all its hp and becoming active again. Hinderling appears within 100' of victim.
 
 ### Actions
 
 - **Stolen Belonging:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 5 (1d4+3) bludgeoning damage.
 - **Hurl Stolen Belonging:** Ranged Weapon Attack: +5 to hit 20/60' one target 5 (1d4+3) bludgeoning damage.
-- **Mad Dash:** Moves up to twice its speed and can move through space of any creature that is Med or larger. When it moves through a creature’s space creature must make DC 13 Dex save or fall prone. This move doesn’t provoke opportunity attacks.
+- **Mad Dash:** Moves up to twice its speed and can move through space of any creature that is Med or larger. When it moves through a creature's space creature must make DC 13 Dex save or fall prone. This move doesn't provoke opportunity attacks.
 
 ### Bonus Actions
 

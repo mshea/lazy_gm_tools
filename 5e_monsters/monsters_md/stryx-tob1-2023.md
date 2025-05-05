@@ -22,8 +22,8 @@
 
 ### Special Abilities
 
-- **False Appearance:** While the stryx keeps its beak closed and doesn’t speak, it is indistinguishable from a normal owl.
-- **Flyby:** The stryx doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+- **False Appearance:** While the stryx keeps its beak closed and doesn't speak, it is indistinguishable from a normal owl.
+- **Flyby:** The stryx doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - **Keen Hearing and Sight:** The stryx has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
 ### Actions

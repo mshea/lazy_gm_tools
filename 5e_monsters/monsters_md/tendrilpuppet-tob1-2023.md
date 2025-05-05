@@ -23,9 +23,9 @@
 ### Special Abilities
 
 - **Green Regeneration:** While in a forest, the tendril puppet regains 5 hp at the start of its turn if it has at least 1 hp.
-- **Root Mind:** The vine lord and the tendril puppets it has created are connected via a hive mind. The vine lord and its puppets can telepathically communicate with each other, provided the communicating creatures are within 1 mile of each other. In addition, while in a forest, the tendril puppet can’t be [rule]surprise;surprised[/condition].
+- **Root Mind:** The vine lord and the tendril puppets it has created are connected via a hive mind. The vine lord and its puppets can telepathically communicate with each other, provided the communicating creatures are within 1 mile of each other. In addition, while in a forest, the tendril puppet can't be [rule]surprise;surprised[/condition].
 - **Magic Resistance:** The tendril puppet has advantage on saving throws against spells and other magical effects.
-- **Woodland Walk:** Difficult terrain composed of nonmagical plants doesn’t cost the tendril puppet extra movement, and it can pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+- **Woodland Walk:** Difficult terrain composed of nonmagical plants doesn't cost the tendril puppet extra movement, and it can pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 ### Actions
 

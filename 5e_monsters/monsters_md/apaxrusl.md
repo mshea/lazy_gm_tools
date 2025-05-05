@@ -21,8 +21,8 @@
 
 ### Special Abilities
 
-- **Earth Glide:** The apaxrusl can burrow through nonmagical, unworked earth and stone. While doing so, the apaxrusl doesn’t disturb the material it moves through.
-- **Fiendish Construct:** The apaxrusl’s sand is infused with the souls of the damned. Its type is fiend in addition to construct when determining the effects of features such as a paladin’s Divine Smite or a ranger’s Primeval Awareness.
+- **Earth Glide:** The apaxrusl can burrow through nonmagical, unworked earth and stone. While doing so, the apaxrusl doesn't disturb the material it moves through.
+- **Fiendish Construct:** The apaxrusl's sand is infused with the souls of the damned. Its type is fiend in addition to construct when determining the effects of features such as a paladin's Divine Smite or a ranger's Primeval Awareness.
 
 ### Actions
 

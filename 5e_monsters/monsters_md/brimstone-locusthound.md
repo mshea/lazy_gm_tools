@@ -18,7 +18,7 @@
 
 ### Special Abilities
 
-- **Smoky Aura:** The brimstone locusthound emits a dense, choking smoke within 10 feet of itself. Each non-brimstone locusthound creature that enters the smoke or starts its turn in the smoke must succeed on a DC 13 Constitution saving throw or be blinded until the end of its turn. On a successful saving throw, the creature is immune to the locusthound’s Smoky Aura for 24 hours. At the start of each of its turns, the locusthound chooses whether this aura is active. The smoke is nonmagical and can be dispersed by a wind of moderate or greater speed (at least 10 miles per hour).
+- **Smoky Aura:** The brimstone locusthound emits a dense, choking smoke within 10 feet of itself. Each non-brimstone locusthound creature that enters the smoke or starts its turn in the smoke must succeed on a DC 13 Constitution saving throw or be blinded until the end of its turn. On a successful saving throw, the creature is immune to the locusthound's Smoky Aura for 24 hours. At the start of each of its turns, the locusthound chooses whether this aura is active. The smoke is nonmagical and can be dispersed by a wind of moderate or greater speed (at least 10 miles per hour).
 - **Smoky Haze:** When the brimstone locusthound is targeted by a ranged weapon attack or a spell that requires a ranged attack roll, roll a d6. On a 4 or 5, the attacker has disadvantage on the attack roll. On a 6, the attack misses the locusthound, disappearing into the smoke surrounding it.
 
 ### Actions

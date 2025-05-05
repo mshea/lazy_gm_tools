@@ -21,8 +21,8 @@
 
 ### Special Abilities
 
-- **Aura of Pain:** At the start of each of the qiqirn’s turns, each creature within 5 feet of it takes 4 (1d8) necrotic damage and must succeed on a DC 16 Constitution saving throw or have disadvantage on its next melee attack roll.
-- **Keen Smell:** The qiqirn has advantage on Wisdom (Perception) checks that rely on smell. Self-loathing. A creature the qiqirn can hear can use its action to say “qiqirn” and make a Charisma (Intimidation) check. If it does so, the qiqirn must succeed on a Wisdom saving throw with a DC equal to the creature’s Charisma (Intimidation) check or be frightened of that creature until the end of its next turn. If the qiqirn succeeds on the saving throw, it can’t be frightened by that creature for the next 24 hours.
+- **Aura of Pain:** At the start of each of the qiqirn's turns, each creature within 5 feet of it takes 4 (1d8) necrotic damage and must succeed on a DC 16 Constitution saving throw or have disadvantage on its next melee attack roll.
+- **Keen Smell:** The qiqirn has advantage on Wisdom (Perception) checks that rely on smell. Self-loathing. A creature the qiqirn can hear can use its action to say “qiqirn” and make a Charisma (Intimidation) check. If it does so, the qiqirn must succeed on a Wisdom saving throw with a DC equal to the creature's Charisma (Intimidation) check or be frightened of that creature until the end of its next turn. If the qiqirn succeeds on the saving throw, it can't be frightened by that creature for the next 24 hours.
 
 ### Actions
 

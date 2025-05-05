@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **Limited Invisibility:** When the shimmer seal is on an icy surface or underwater, it is invisible. In all other terrain, the shimmer seal has advantage on Dexterity (Stealth) checks. Seals, other pinnipeds, and creatures chosen by the shimmer seal can see it.
-- **Sureflippered:** The shimmer seal can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn’t cost it extra movement.
+- **Sureflippered:** The shimmer seal can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
 - **Underwater Propulsion:** When the shimmer seal is underwater, it can take the Dash action as a bonus action on each of its turns.
 
 ### Actions

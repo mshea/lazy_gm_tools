@@ -15,7 +15,7 @@
 - **Saving Throws**: Dex +5
 - **Skills:** perception +1
 - **Senses:** passive Perception 13
-- **Languages:** understands Common but can’t speak
+- **Languages:** understands Common but can't speak
 
 ### Special Abilities
 
@@ -25,7 +25,7 @@
 ### Actions
 
 - **Multiattack:** One Bladed Feather attack and one Claw attack.
-- **Bladed Feather:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 30/90' one target 8 (1d10+3) slashing damage and the target’s speed is reduced by 10 ft. until the end of its next turn.
+- **Bladed Feather:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 30/90' one target 8 (1d10+3) slashing damage and the target's speed is reduced by 10 ft. until the end of its next turn.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) slashing damage.
 
 

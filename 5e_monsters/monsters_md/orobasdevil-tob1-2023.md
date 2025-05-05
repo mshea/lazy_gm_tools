@@ -24,7 +24,7 @@
 ### Special Abilities
 
 - **Deceptive Advice:** When the orobas casts a spell of the divination school, it has advantage on Charisma (Deception) checks for 1 minute.
-- **Hellish Weapons:** The orobas’s weapon attacks are magical. When the orobas hits with any weapon, the weapon deals an extra 3d8 fire damage (included in the attack).
+- **Hellish Weapons:** The orobas's weapon attacks are magical. When the orobas hits with any weapon, the weapon deals an extra 3d8 fire damage (included in the attack).
 - **Magic Resistance:** The orobas has advantage on saving throws against spells and other magical effects.
 - **Sense Consecrated:** The orobas can pinpoint the location of Celestials, consecrated places or objects, and creatures wielding divine or celestial power, such as clerics, paladins, or aasimars, within 60 feet of it.
 

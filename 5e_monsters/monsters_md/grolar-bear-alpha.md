@@ -19,7 +19,7 @@
 
 ### Special Abilities
 
-- **Dismembering Strike:** If it scores a critical hit vs. stunned creature tears off one of creature’s limbs. Creature is immune to this if it is immune to slashing.
+- **Dismembering Strike:** If it scores a critical hit vs. stunned creature tears off one of creature's limbs. Creature is immune to this if it is immune to slashing.
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
 - **Forest and Snow Camouflage:** Advantage: Dex (Stealth) checks to hide in forest terrain if fur is brown and snowy terrain if fur is white.
 

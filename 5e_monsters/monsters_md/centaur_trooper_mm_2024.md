@@ -17,6 +17,7 @@
 | CHA | 11 | +0 | +0 |
 
 - **Skills**: Athletics +6, Perception +3
+- **Gear** Breastplate, Longbow, Pike
 - **Senses**: Passive Perception 13
 - **Languages**: Elvish, Sylvan
 - **CR** 2 (XP 450; PB +2)

@@ -29,7 +29,7 @@
 ### Actions
 
 - **Multiattack:** The overshadow makes two strength drain attacks.
-- **Strength Drain:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) necrotic damage, and the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
-- **Bringer of Darkness:** The overshadow dims the light around it. The radius of each light source within 60 feet of it is halved for 1 minute. The overshadow can’t use this action while in sunlight.
+- **Strength Drain:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+- **Bringer of Darkness:** The overshadow dims the light around it. The radius of each light source within 60 feet of it is halved for 1 minute. The overshadow can't use this action while in sunlight.
 
 

@@ -23,8 +23,8 @@
 
 ### Special Abilities
 
-- **Devil’s Sight:** Magical darkness doesn’t impede the devil’s darkvision.
-- **Fear Aura:** A creature that starts its turn within 10 feet of the automata devil must succeed on a DC 17 Wisdom saving throw or become frightened until the start of its next turn. On a successful saving throw, the creature is immune to the automata devil’s Fear Aura for 24 hours.
+- **Devil's Sight:** Magical darkness doesn't impede the devil's darkvision.
+- **Fear Aura:** A creature that starts its turn within 10 feet of the automata devil must succeed on a DC 17 Wisdom saving throw or become frightened until the start of its next turn. On a successful saving throw, the creature is immune to the automata devil's Fear Aura for 24 hours.
 - **Magic Resistance:** The automata devil has advantage on saving throws against spells and other magical effects.
 
 ### Actions
@@ -33,5 +33,5 @@
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 18 (2d10 + 7) slashing damage.
 - **Claw:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16 (2d8 + 7) slashing damage.
 - **Whip:** Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 12 (2d4 + 7) slashing damage, and the target is grappled (escape DC 17). The automata devil has two whips, each of which can grapple only one target.
-- **Shredding Maw:** One creature grappled by the automata devil is pulled up to 10 feet toward the devil’s central maw, which shreds the creature with churning gears, razor teeth, and whirling blades. The target must make a DC 17 Strength saving throw, taking 36 (8d8) slashing damage on a failed save, or half as much damage on a successful one.
+- **Shredding Maw:** One creature grappled by the automata devil is pulled up to 10 feet toward the devil's central maw, which shreds the creature with churning gears, razor teeth, and whirling blades. The target must make a DC 17 Strength saving throw, taking 36 (8d8) slashing damage on a failed save, or half as much damage on a successful one.
 - **Teleport:** The automata devil magically teleports, along with any equipment it is wearing or carrying up to 120 feet to an unoccupied space it can see.

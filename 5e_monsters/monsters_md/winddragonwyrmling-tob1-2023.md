@@ -29,4 +29,4 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
-- **Tempest Breath (Recharge 5–6):** The dragon exhales a blast of stormy wind in a 15-foot cone. Each creature in that area must make a DC 12 Strength saving throw. On a failure, a creature takes 9 (2d8) bludgeoning damage and is pushed up to 5 feet away from the dragon. On a success, a creature takes half the damage and isn’t pushed. Unprotected flames, such as torches, in the area are extinguished, and protected flames, such as those in lanterns, have a 50 percent chance of being extinguished.
+- **Tempest Breath (Recharge 5-6):** The dragon exhales a blast of stormy wind in a 15-foot cone. Each creature in that area must make a DC 12 Strength saving throw. On a failure, a creature takes 9 (2d8) bludgeoning damage and is pushed up to 5 feet away from the dragon. On a success, a creature takes half the damage and isn't pushed. Unprotected flames, such as torches, in the area are extinguished, and protected flames, such as those in lanterns, have a 50 percent chance of being extinguished.

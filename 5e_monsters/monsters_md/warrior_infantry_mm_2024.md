@@ -16,6 +16,7 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
+- **Gear** Chain Shirt, Spear
 - **Senses**: Passive Perception 10
 - **Languages**: Common
 - **CR** 1/8 (XP 25; PB +2)

@@ -15,7 +15,7 @@
 - **Skills:** perception +1
 - **Condition Immunities:** petrified, prone
 - **Senses:** tremorsense 30', passive Perception 12
-- **Languages:** understands Common and Void Speech but can’t speak
+- **Languages:** understands Common and Void Speech but can't speak
 
 ### Special Abilities
 
@@ -31,7 +31,7 @@
 
 ### Bonus Actions
 
-- **Defensive Roll:** Can roll itself into a boulder-like defensive form or back into its tentacled true form. While in defensive form it has resistance to B/P/S damage from nonmagical attacks can’t make Tentacle Slam or Spit Acid attacks and can’t use Reflux.
+- **Defensive Roll:** Can roll itself into a boulder-like defensive form or back into its tentacled true form. While in defensive form it has resistance to B/P/S damage from nonmagical attacks can't make Tentacle Slam or Spit Acid attacks and can't use Reflux.
 
 ### Reactions
 

@@ -23,8 +23,8 @@
 
 ### Special Abilities
 
-- **Magic Maw:** The eater of dust’s Maw-Arm attacks are magical. When the eater hits with its Maw-Arm, the weapon deals an extra 3d8 necrotic damage (included in the attack).
-- **Regeneration:** The eater of dust regains 5 hp at the start of its turn. If it takes fire damage, this trait doesn’t function at the start of eater’s next turn. The eater dies only if it starts its turn with 0 hp and doesn’t regenerate.
+- **Magic Maw:** The eater of dust's Maw-Arm attacks are magical. When the eater hits with its Maw-Arm, the weapon deals an extra 3d8 necrotic damage (included in the attack).
+- **Regeneration:** The eater of dust regains 5 hp at the start of its turn. If it takes fire damage, this trait doesn't function at the start of eater's next turn. The eater dies only if it starts its turn with 0 hp and doesn't regenerate.
 
 ### Actions
 
@@ -34,4 +34,4 @@
 
 ### Bonus Actions
 
-- **Hungry Step:** The eater of dust magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space within 10 feet of a creature that isn’t a Construct or Undead.
+- **Hungry Step:** The eater of dust magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space within 10 feet of a creature that isn't a Construct or Undead.

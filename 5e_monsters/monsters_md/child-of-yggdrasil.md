@@ -27,6 +27,6 @@
 ### Actions
 
 - **Multiattack:** The child of Yggdrasil makes three claw attacks.
-- **Claw:** Melee Weapon Attack. +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) slashing damage plus 7 (2d6) acid damage.
+- **Claw:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) slashing damage plus 7 (2d6) acid damage.
 
 

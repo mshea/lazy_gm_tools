@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Aura of Drunkenness:** The rum gremlin radiates an aura of drunkenness to a radius of 20 feet. Each creature that starts its turn in the aura must succeed on a DC 12 Constitution saving throw or be poisoned for 1 hour. A creature that has consumed alcohol within the past hour has disadvantage on the saving throw. While poisoned, a creature falls prone if it tries to move more than half its speed during a turn. A creature that succeeds on the saving throw is immune to the rum gremlin’s Aura of Drunkenness for 24 hours.
+- **Aura of Drunkenness:** The rum gremlin radiates an aura of drunkenness to a radius of 20 feet. Each creature that starts its turn in the aura must succeed on a DC 12 Constitution saving throw or be poisoned for 1 hour. A creature that has consumed alcohol within the past hour has disadvantage on the saving throw. While poisoned, a creature falls prone if it tries to move more than half its speed during a turn. A creature that succeeds on the saving throw is immune to the rum gremlin's Aura of Drunkenness for 24 hours.
 - **Magic Resistance:** The rum gremlin has advantage on saving throws against spells and other magical effects.
 
 ### Actions

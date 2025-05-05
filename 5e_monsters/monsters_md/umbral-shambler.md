@@ -23,8 +23,8 @@
 ### Special Abilities
 
 - **Sunlight Sensitivity:** In sunlight disadvantage on attacks and Wis (Perception) checks that use sight.
-- **Tenebrous Agility:** Its speed is doubled in dim light or darkness and it doesn’t provoke opportunity attacks when it moves provided it moves only in dim light or darkness. In addition when a creature that relies on sight attacks the umbral shambler while the shambler is in dim light or darkness the attacker has disadvantage on the attack roll.
-- **Void Traveler:** Doesn’t require air food drink sleep or ambient pressure.
+- **Tenebrous Agility:** Its speed is doubled in dim light or darkness and it doesn't provoke opportunity attacks when it moves provided it moves only in dim light or darkness. In addition when a creature that relies on sight attacks the umbral shambler while the shambler is in dim light or darkness the attacker has disadvantage on the attack roll.
+- **Void Traveler:** Doesn't require air food drink sleep or ambient pressure.
 
 ### Actions
 

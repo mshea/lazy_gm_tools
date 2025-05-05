@@ -38,7 +38,7 @@
 
 - **Change Shape:** Akyishigal magically transforms into a Large or smaller insectoid Beast or back into his true form, which is a Fiend. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying transforms with him. He reverts to his true form if he dies.
 - **Teleport:** Akyishigal magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
-- **Skitter (Costs 2 Actions):** Akyishigal moves up to half his speed and makes one Claw attack. This movement doesn’t provoke opportunity attacks.
+- **Skitter (Costs 2 Actions):** Akyishigal moves up to half his speed and makes one Claw attack. This movement doesn't provoke opportunity attacks.
 - **Cast a Spell (Costs 2 Actions):** Akyishigal uses Spellcasting.
 
 Akyishigal can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Akyishigal regains spent legendary actions at the start of his turn.
@@ -46,5 +46,5 @@ Akyishigal can take 3 legendary actions, choosing from the options below. Only o
 ### Legendary Actions
 
 - **Teleport:** Akyishigal magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
-- **Skitter (Costs 2 Actions):** Akyishigal moves up to half his speed and makes one Claw attack. This movement doesn’t provoke opportunity attacks.
+- **Skitter (Costs 2 Actions):** Akyishigal moves up to half his speed and makes one Claw attack. This movement doesn't provoke opportunity attacks.
 - **Cast a Spell (Costs 2 Actions):** Akyishigal uses Spellcasting.

@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Devil’s Sight:** Magical darkness doesn’t impede the salt devil’s darkvision.
+- **Devil's Sight:** Magical darkness doesn't impede the salt devil's darkvision.
 - **Magic Resistance:** The salt devil has advantage on saving throws against spells and other magical effects.
 - **Salt-Encrusted Hide:** A creature that touches the salt devil or hits it with a melee attack while within 5 feet of it takes 3 (1d6) slashing damage.
 
@@ -31,6 +31,6 @@
 
 - **Multiattack:** The salt devil makes two Scimitar attacks and one Water-Draining Claw attack.
 - **Scimitar:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
-- **Water-Draining Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage. If the target is a creature that isn’t a Construct or Undead, it must make a DC 15 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one. Plants, Oozes, and creatures with the Amphibious, Water Breathing, or Water Form traits have disadvantage on this saving throw. If the saving throw fails by 5 or more, the target also suffers one level of exhaustion.
+- **Water-Draining Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage. If the target is a creature that isn't a Construct or Undead, it must make a DC 15 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one. Plants, Oozes, and creatures with the Amphibious, Water Breathing, or Water Form traits have disadvantage on this saving throw. If the saving throw fails by 5 or more, the target also suffers one level of exhaustion.
 - **Teleport (3/Day):** The salt devil magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
-- **Summon Devil (1/Day):** The salt devil magically calls 1d4 gnolls that are Fiends with the salt devil’s damage resistances and immunities. The salt devil has a 25 percent chance of calling one salt devil instead. The called creatures arrive in 1d4 rounds, acting as allies of the devil and obeying its telepathic commands. The creatures remain for 1 hour, until the devil dies, or until the devil dismisses them as a bonus action.
+- **Summon Devil (1/Day):** The salt devil magically calls 1d4 gnolls that are Fiends with the salt devil's damage resistances and immunities. The salt devil has a 25 percent chance of calling one salt devil instead. The called creatures arrive in 1d4 rounds, acting as allies of the devil and obeying its telepathic commands. The creatures remain for 1 hour, until the devil dies, or until the devil dismisses them as a bonus action.

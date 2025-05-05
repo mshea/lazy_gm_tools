@@ -19,11 +19,11 @@
 
 ### Special Abilities
 
-- **Hunter’s Foresight:** The mountain nymph can see the immediate future of a creature affected by her hunter’s mark spell. While hunter’s mark is active on a creature, the mountain nymph has advantage on attack rolls against the creature and on saving throws against the creature’s spells and special abilities.
-- **Mountain Walk:** The mountain nymph can move across and climb rocky surfaces without needing to make an ability check. Additionally, difficult terrain composed of rocks or rocky debris doesn’t cost her extra movement.
-- **Point Blank Hunter:** When the mountain nymph makes a ranged attack with a bow, she doesn’t have disadvantage on the attack roll from being within 5 feet of a hostile creature, though she may still have disadvantage from other sources.
-- **Innate Spellcasting:** The mountain nymph’s innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:
-At will: hunter’s mark
+- **Hunter's Foresight:** The mountain nymph can see the immediate future of a creature affected by her hunter's mark spell. While hunter's mark is active on a creature, the mountain nymph has advantage on attack rolls against the creature and on saving throws against the creature's spells and special abilities.
+- **Mountain Walk:** The mountain nymph can move across and climb rocky surfaces without needing to make an ability check. Additionally, difficult terrain composed of rocks or rocky debris doesn't cost her extra movement.
+- **Point Blank Hunter:** When the mountain nymph makes a ranged attack with a bow, she doesn't have disadvantage on the attack roll from being within 5 feet of a hostile creature, though she may still have disadvantage from other sources.
+- **Innate Spellcasting:** The mountain nymph's innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:
+At will: hunter's mark
 3/day each: misty step, spike growth
 1/day: pass without trace
 

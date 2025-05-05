@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Glide:** The lemurfolk has membranes between its fore and hind limbs that expand when falling to slow its rate of descent to 60 feet per round, landing on its feet and taking no falling damage. It can move up to 5 feet horizontally for every 1 foot it falls. The lemurfolk can’t gain height with its gliding membranes alone. If subjected to a strong wind or lift of any kind, it can use the updraft to glide farther.
+- **Glide:** The lemurfolk has membranes between its fore and hind limbs that expand when falling to slow its rate of descent to 60 feet per round, landing on its feet and taking no falling damage. It can move up to 5 feet horizontally for every 1 foot it falls. The lemurfolk can't gain height with its gliding membranes alone. If subjected to a strong wind or lift of any kind, it can use the updraft to glide farther.
 
 ### Actions
 

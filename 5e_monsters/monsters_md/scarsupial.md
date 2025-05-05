@@ -18,7 +18,7 @@
 
 ### Special Abilities
 
-- **Perfect Landing:** A scarsupial doesn’t take damage from falling and is never knocked prone from falling.
+- **Perfect Landing:** A scarsupial doesn't take damage from falling and is never knocked prone from falling.
 - **Vertical Pounce:** If the scarsupial moves vertically such as by falling from a tree 10 ft. towards a creature and then hits with claw attack on the same turn the target must make DC 13 Str save or be knocked prone. If the target is knocked prone the scarsupial can make a bite attack as a bonus action.
 
 ### Actions

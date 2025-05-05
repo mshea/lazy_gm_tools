@@ -16,6 +16,7 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 11 | +0 | +0 |
 
+- **Gear** Heavy Crossbow, Leather Armor, Mace
 - **Senses**: Passive Perception 10
 - **Languages**: Common
 - **CR** 1/2 (XP 100; PB +2)

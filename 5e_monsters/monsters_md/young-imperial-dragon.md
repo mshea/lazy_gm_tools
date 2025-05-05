@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **Amphibious:** The dragon can breathe air and water.
-- **Innate Spellcasting:** The imperial dragon’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.
+- **Innate Spellcasting:** The imperial dragon's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components.
 3/day: fog cloud
 1/day each: control water, gust of wind, stinking cloud
 

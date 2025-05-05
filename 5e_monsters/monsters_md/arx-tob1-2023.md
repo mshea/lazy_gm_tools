@@ -25,7 +25,7 @@
 
 - **Immutable Form:** The arx is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The arx has advantage on saving throws against spells and other magical effects.
-- **Spiky Hide:** A creature that touches the arx or hits it with a melee attack while within 5 feet of it takes 4 (1d8) piercing damage. This trait also applies to the arx’s walls.
+- **Spiky Hide:** A creature that touches the arx or hits it with a melee attack while within 5 feet of it takes 4 (1d8) piercing damage. This trait also applies to the arx's walls.
 
 ### Actions
 
@@ -36,4 +36,4 @@
 
 ### Bonus Actions
 
-- **Emplace Wall (Recharge 3–6):** The arx extends its hardened elytra and casts them into the ground, creating a wall. The wall is 3 inches thick and is composed of two 10-foot-by-10-foot panels. The panels must connect perpendicular to each other, forming a corner behind the arx. If the wall falls in a creature’s space when the arx places it, the creature must make a DC 16 Dexterity saving throw. On a failure, the creature takes 10 (3d6) bludgeoning damage, and the arx determines to which side of the wall the creature is pushed. On a success, the creature takes half the damage and decides to which side of the wall it is pushed.
+- **Emplace Wall (Recharge 3-6):** The arx extends its hardened elytra and casts them into the ground, creating a wall. The wall is 3 inches thick and is composed of two 10-foot-by-10-foot panels. The panels must connect perpendicular to each other, forming a corner behind the arx. If the wall falls in a creature's space when the arx places it, the creature must make a DC 16 Dexterity saving throw. On a failure, the creature takes 10 (3d6) bludgeoning damage, and the arx determines to which side of the wall the creature is pushed. On a success, the creature takes half the damage and decides to which side of the wall it is pushed.

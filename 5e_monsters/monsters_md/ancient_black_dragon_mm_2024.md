@@ -44,7 +44,7 @@
 
 ## Legendary Actions
 
-***Cloud of Insects.*** *Dexterity Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:*  33 (6d10) Poison damage, and the target has Disadvantage on saving throws to maintain  Concentration until the end of its next turn. Success or Failure The dragon can't take this action again until the start of its next turn.
+***Cloud of Insects.*** *Dexterity Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:*  33 (6d10) Poison damage, and the target has Disadvantage on saving throws to maintain  Concentration until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
 
 ***Frightful Presence.*** The dragon uses Spellcasting to cast *Fear*. The dragon can't take this action again until the start of its next turn.
 

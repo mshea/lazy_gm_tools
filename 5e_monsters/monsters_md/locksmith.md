@@ -21,8 +21,8 @@
 
 ### Special Abilities
 
-- **Expert Lockpicker:** The locksmith can use any piece of its mechanical body to pick locks and disarm traps, as if its entire body was made up of several sets of thieves’ tools. It is proficient in using pieces of itself in this way. In addition, the locksmith has advantage on ability checks to pick locks and disarm traps.
-- **Innate Spellcasting:** The locksmith’s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no material components:
+- **Expert Lockpicker:** The locksmith can use any piece of its mechanical body to pick locks and disarm traps, as if its entire body was made up of several sets of thieves' tools. It is proficient in using pieces of itself in this way. In addition, the locksmith has advantage on ability checks to pick locks and disarm traps.
+- **Innate Spellcasting:** The locksmith's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no material components:
 At will: mending
 3/day each: arcane lock, knock
 1/day: forcecage

@@ -19,9 +19,9 @@
 
 ### Special Abilities
 
-- **Flyby:** The wereowl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+- **Flyby:** The wereowl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - **Keen Hearing and Sight:** The wereowl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
-- **Shapechanger:** The wereowl can use its action to polymorph into an owl-humanoid hybrid or into a giant owl, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+- **Shapechanger:** The wereowl can use its action to polymorph into an owl-humanoid hybrid or into a giant owl, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 - **Silent Flight (Hybrid or Owl Form Only):** The wereowl has advantage on Dexterity (Stealth) checks when it flies.
 
 ### Actions

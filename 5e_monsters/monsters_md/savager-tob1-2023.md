@@ -23,8 +23,8 @@
 
 ### Special Abilities
 
-- **Mighty Swing:** If the savager doesn’t move during its turn, it has advantage on the next Claw attack it makes before the start of its next turn.
-- **Spines:** A creature that touches the savager or hits it with a melee attack while within 5 feet of it takes 5 (2d4) piercing damage. In addition, a creature grappled by or grappling the savager takes 5 (2d4) piercing damage at the start of the savager’s turn.
+- **Mighty Swing:** If the savager doesn't move during its turn, it has advantage on the next Claw attack it makes before the start of its next turn.
+- **Spines:** A creature that touches the savager or hits it with a melee attack while within 5 feet of it takes 5 (2d4) piercing damage. In addition, a creature grappled by or grappling the savager takes 5 (2d4) piercing damage at the start of the savager's turn.
 
 ### Actions
 

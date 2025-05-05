@@ -24,7 +24,7 @@
 ### Special Abilities
 
 - **Spearhead:** If the jaculus moves at least 10 feet straight toward a target and then hits it with a Bite attack on the same turn, the target takes an extra 4 (1d8) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
-- **Standing Leap:** The jaculus’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+- **Standing Leap:** The jaculus's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 ### Actions
 

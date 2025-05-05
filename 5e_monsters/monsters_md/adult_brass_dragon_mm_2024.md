@@ -48,5 +48,5 @@
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-***Scorching Sands.*** *Dexterity Saving Throw*: DC 16, one creature the dragon can see within 120 feet. *Failure:*  27 (6d8) Fire damage, and the target's Speed is halved until the end of its next turn. Success or Failure The dragon can't take this action again until the start of its next turn.
+***Scorching Sands.*** *Dexterity Saving Throw*: DC 16, one creature the dragon can see within 120 feet. *Failure:*  27 (6d8) Fire damage, and the target's Speed is halved until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
 

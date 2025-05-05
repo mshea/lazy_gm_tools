@@ -23,7 +23,7 @@
 
 - **Poisonous Aura:** The attercroppe radiates an aura of insidious poison that slowly pollutes any water source. in which it immerses itself. Each hour the attercroppe is fully immersed in water, its aura transforms up to 10 gallons of the water into a deadly poison. A creature that drinks this poisoned water must succeed on a DC 12 Constitution saving throw or take 10 (3d6) poison damage and become poisoned for 1 hour.
 - **Water Invisibility:** While fully immersed in water, the attercroppe is invisible. If it attacks, it becomes visible until the start of its next turn. The attercroppe can suppress this invisibility until the start of its next turn as a bonus action.
-- **Innate Spellcasting:** The attercroppe’s spellcasting ability is Charisma (spell save DC 12). The attercroppe can innately cast the following spells, requiring no material components:
+- **Innate Spellcasting:** The attercroppe's spellcasting ability is Charisma (spell save DC 12). The attercroppe can innately cast the following spells, requiring no material components:
 At will: poison spray
 3/day each: create or destroy water, fog cloud
 1/day each: misty step, suggestion

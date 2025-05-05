@@ -22,11 +22,11 @@
 
 ### Special Abilities
 
-- **Ethereal Coat:** The mngwa’s AC includes its Charisma modifier (included above).
+- **Ethereal Coat:** The mngwa's AC includes its Charisma modifier (included above).
 - **Ethereal Sight:** The mngwa can see 30 feet into the Ethereal Plane when on the Material Plane and vice versa.
 - **Feline Passivism:** No felines or weretigers can willingly attack the mngwa. They can be forced to do so through magical means.
 - **Keen Smell:** The mngwa has advantage on Wisdom (Perception) checks that rely on smell.
-- **Pack Tactics:** The mngwa has advantage on attack rolls against a creature if at least one of the mngwa’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The mngwa has advantage on attack rolls against a creature if at least one of the mngwa's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - **Running Leap:** With a 10-foot running start, the mngwa can long jump up to 25 feet.
 - **Speak with Felines:** The mngwa can communicate with felines as if they shared a language.
 

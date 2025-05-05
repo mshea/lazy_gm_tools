@@ -23,7 +23,7 @@
 
 - **Awful Stench:** The vulture has a disgusting body odor. Any creature that starts its turn within 5 feet of the vulture must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn.
 - **Keen Sight and Smell:** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
-- **Pack Tactics:** The vulture has advantage on attack rolls against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The vulture has advantage on attack rolls against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions
 

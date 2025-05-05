@@ -19,10 +19,10 @@
 ### Special Abilities
 
 - **Keen Smell:** The harefolk has advantage on Wisdom (Perception) checks that rely on smell.
-- **Ready for Trouble:** The harefolk can’t be surprised, and it has advantage on initiative rolls if it isn’t incapacitated or unconscious.
-- **Shapechanger Sensitivity:** The harefolk has advantage on Intelligence (Investigation) and Wisdom (Insight) checks to determine if a creature is a shapechanger. It automatically succeeds when the shapechanger is a werewolf. In addition, the harefolk has advantage on its first attack roll each turn against a creature with the Shapechanger trait or Change Shape action, regardless of whether the harefolk was previously aware of the shapechanger’s nature.
+- **Ready for Trouble:** The harefolk can't be surprised, and it has advantage on initiative rolls if it isn't incapacitated or unconscious.
+- **Shapechanger Sensitivity:** The harefolk has advantage on Intelligence (Investigation) and Wisdom (Insight) checks to determine if a creature is a shapechanger. It automatically succeeds when the shapechanger is a werewolf. In addition, the harefolk has advantage on its first attack roll each turn against a creature with the Shapechanger trait or Change Shape action, regardless of whether the harefolk was previously aware of the shapechanger's nature.
 - **Snow Camouflage:** The harefolk has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
-- **Snow Walker:** The harefolk can move across icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn’t cost it extra movement.
+- **Snow Walker:** The harefolk can move across icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
 
 ### Actions
 

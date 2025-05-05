@@ -22,10 +22,10 @@
 
 ### Special Abilities
 
-- **Devil’s Sight:** Magical darkness doesn’t impede the nephirron’s darkvision.
+- **Devil's Sight:** Magical darkness doesn't impede the nephirron's darkvision.
 - **Magic Resistance:** The nephirron has advantage on saving throws against spells and other magical effects.
 - **Master Liar:** The nephirron has advantage on Charisma (Deception) checks when telling a lie.
-- **Innate Spellcasting:** The nephirron devil’s spellcasting ability is Charisma (spell save DC 20). The nephirron can innately cast the following spells, requiring no material components:
+- **Innate Spellcasting:** The nephirron devil's spellcasting ability is Charisma (spell save DC 20). The nephirron can innately cast the following spells, requiring no material components:
 At will: detect thoughts, protection from evil and good, teleport (self plus 150 pounds only)
 3/day each: flame strike, scrying, wall of ice
 1/day each: confusion, mass suggestion, shapechange (dragon or humanoid form only)

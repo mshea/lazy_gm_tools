@@ -32,7 +32,7 @@
 
 - **Multiattack:** Two Greataxe attacks. When Thunderous Roar is available it can use the roar in place of one Greataxe attack.
 - **Greataxe:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 18 (2d12+5) slashing damage + 13 (3d8) force.
-- **Thunderous Roar (Recharge 5–6):** Unleashes a terrifying roar in a 30' cone. Each creature in that area: 36 (8d8) thunder (DC 16 Con half). In addition each hostile creature within 60' of archon that can hear it: DC 15 Wis save or be frightened for 1 min. Creatures in the 30' cone have disadvantage on this save. A frightened creature can re-save at end of each of its turns success ends effect on itself.
+- **Thunderous Roar (Recharge 5-6):** Unleashes a terrifying roar in a 30' cone. Each creature in that area: 36 (8d8) thunder (DC 16 Con half). In addition each hostile creature within 60' of archon that can hear it: DC 15 Wis save or be frightened for 1 min. Creatures in the 30' cone have disadvantage on this save. A frightened creature can re-save at end of each of its turns success ends effect on itself.
 
 ### Reactions
 

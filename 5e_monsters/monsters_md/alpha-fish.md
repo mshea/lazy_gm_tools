@@ -27,6 +27,6 @@
 
 - **Multiattack:** The alpha fish uses its Fin Flare. It then makes two headbutt attacks.
 - **Headbutt:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
-- **Fin Flare:** The alpha fish flares its fins in an attempt to frighten its opponents. Each creature within 30 feet that can see the fish must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the alpha fish’s Fin Flare for the next 24 hours.
+- **Fin Flare:** The alpha fish flares its fins in an attempt to frighten its opponents. Each creature within 30 feet that can see the fish must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the alpha fish's Fin Flare for the next 24 hours.
 
 

@@ -24,7 +24,7 @@
 
 - **Turn Resistance:** The mari lwyd has advantage on saving throws against any effect that turns undead.
 - **Turned by Rhyme:** A creature can use its action to formally challenge the mari lwyd to a duel of rhymes. If no creature attacks the mari lwyd until the beginning of its next turn, it uses its action to recite a rhyme. The challenger must respond to the rhyme and succeed on a DC 14 Charisma (Performance) check. On a success, the mari lwyd is treated as if it is turned for 1 minute or until it takes damage.
-- **Innate Spellcasting:** The mari lwyd’s innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+- **Innate Spellcasting:** The mari lwyd's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 At will: chill touch, mage hand
 3/day each: animate dead, hideous laughter, suggestion
 

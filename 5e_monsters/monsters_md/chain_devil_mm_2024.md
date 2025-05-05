@@ -18,7 +18,7 @@
 
 - **Resistances**: Bludgeoning, Cold, Piercing, Slashing
 - **Immunities**: Fire, Poison; Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical {@variantrule Darkness|XPHB}); Passive Perception 11
+- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
 - **Languages**: Infernal; telepathy 120 ft.
 - **CR** 8 (XP 3,900; PB +3)
 

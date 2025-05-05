@@ -15,7 +15,7 @@
 - **Skills:** perception +2
 - **Damage Immunities:** nonmagic bludgeoning, piercing, and slashing attacks not made with silvered weapons
 - **Senses:** darkvision 60' (otter &amp; hybrid forms only), passive Perception 14
-- **Languages:** Common (can’t speak in otter form)
+- **Languages:** Common (can't speak in otter form)
 
 ### Special Abilities
 

@@ -16,6 +16,7 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 9 | -1 | -1 |
 
+- **Gear** Half Plate Armor, Longbow, Longsword, Shield
 - **Senses**: darkvision 60 ft.; Passive Perception 10
 - **Languages**: Common, Goblin
 - **CR** 1/2 (XP 100; PB +2)

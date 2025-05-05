@@ -32,4 +32,4 @@
 
 ### Bonus Actions
 
-- **Change Shape:** The morphoi transforms into a Medium Humanoid or back into its true form, which is a Plant. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form when it dies.
+- **Change Shape:** The morphoi transforms into a Medium Humanoid or back into its true form, which is a Plant. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form when it dies.

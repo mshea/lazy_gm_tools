@@ -29,6 +29,6 @@
 - **Multiattack:** One Bite attack and one Headbutt attack.
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 14 (2d10+3) piercing damage.
 - **Headbutt:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 12 (2d8+3) bludgeoning damage + 7 (2d6) poison.
-- **Forceful Spit (Recharge 4–6):** Launches a stream of pessurized water from its mouth in a 30' line that is 5 ft. wide  Each creature in that line: 21 (6d6) bludgeoning damage and is pushed up to 20' away from the lionfish and is knocked prone (DC 14 Dex half damage and is pushed up to 10 ft. away from the lionfish and isn’t knocked prone.)
+- **Forceful Spit (Recharge 4-6):** Launches a stream of pessurized water from its mouth in a 30' line that is 5 ft. wide  Each creature in that line: 21 (6d6) bludgeoning damage and is pushed up to 20' away from the lionfish and is knocked prone (DC 14 Dex half damage and is pushed up to 10 ft. away from the lionfish and isn't knocked prone.)
 
 

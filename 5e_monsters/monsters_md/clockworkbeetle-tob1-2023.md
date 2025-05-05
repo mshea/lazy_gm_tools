@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Construct Nature:** The clockwork beetle doesn’t require air, food, drink, or sleep.
+- **Construct Nature:** The clockwork beetle doesn't require air, food, drink, or sleep.
 - **Immutable Form:** The clockwork beetle is immune to any spell or effect that would alter its form.
 - **Limited Telepathy:** The clockwork beetle can magically transmit simple messages and images to its owner, provided the owner is within 100 feet of it.
 - **Magic Resistance:** The clockwork beetle has advantage on saving throws against spells and other magical effects.

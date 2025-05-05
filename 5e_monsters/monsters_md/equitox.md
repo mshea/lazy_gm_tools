@@ -22,15 +22,15 @@
 
 ### Special Abilities
 
-- **Befouling Aura:** At each of its turns' start all within 30': disadvantage on next attack/ability check as moisture within it is diseased (DC 18 Con negates). If creature spends 1+ min in equitox’s aura or drinks water within aura: contract gullylung fever disease (below; DC 18 Con negates). Creatures immune to poisoned are immune to this.
-- **Gullylung Fever:** Creature infected with this disease manifests symptoms 1d4 days after infection: difficulty breathing dehydration and water-themed nightmares. Until cured at end of each long rest infected creature must make DC 18 Con save or its Str score is reduced by 1d4. Reduction lasts until creature finishes long rest after disease is cured. If disease reduces creature’s Str to 0 creature dies. A creature that succeeds on two saves recovers from the disease.
+- **Befouling Aura:** At each of its turns' start all within 30': disadvantage on next attack/ability check as moisture within it is diseased (DC 18 Con negates). If creature spends 1+ min in equitox's aura or drinks water within aura: contract gullylung fever disease (below; DC 18 Con negates). Creatures immune to poisoned are immune to this.
+- **Gullylung Fever:** Creature infected with this disease manifests symptoms 1d4 days after infection: difficulty breathing dehydration and water-themed nightmares. Until cured at end of each long rest infected creature must make DC 18 Con save or its Str score is reduced by 1d4. Reduction lasts until creature finishes long rest after disease is cured. If disease reduces creature's Str to 0 creature dies. A creature that succeeds on two saves recovers from the disease.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 
 ### Actions
 
 - **Multiattack:** Two Gores. If it hits one creature with both target: DC 18 Con save or contract gullylung fever disease (see above).
 - **Gore:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 18 (2d12+5) piercing damage + 10 (3d6) necrotic.
-- **Evaporation Wave (Recharge 6):** Exhales hot dry breath in a 60' cone. Each creature in the area that isn’t a Construct or Undead: 22 (5d8) fire and 22 (5d8) necrotic (DC 18 Con half). In addition any water in the area that isn’t being worn or carried evaporates.
+- **Evaporation Wave (Recharge 6):** Exhales hot dry breath in a 60' cone. Each creature in the area that isn't a Construct or Undead: 22 (5d8) fire and 22 (5d8) necrotic (DC 18 Con half). In addition any water in the area that isn't being worn or carried evaporates.
 
 
 

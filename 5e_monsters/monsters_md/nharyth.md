@@ -30,6 +30,6 @@ The nharyth can plant up to 24 spines in a web when creating it. Once it has use
 
 - **Multiattack:** The nharyth makes two spined slap attacks. Alternatively, it can use Spine Shot twice.
 - **Spined Slap:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage plus 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
-- **Spine Shot:** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 12 (3d6 + 2) piercing damage, and the target must succeed on a DC 16 Constitution saving throw or its speed is halved until the end of its next turn. If the nharyth scores a critical hit, the target doesn’t make a saving throw and is paralyzed until the end of its next turn instead.
+- **Spine Shot:** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 12 (3d6 + 2) piercing damage, and the target must succeed on a DC 16 Constitution saving throw or its speed is halved until the end of its next turn. If the nharyth scores a critical hit, the target doesn't make a saving throw and is paralyzed until the end of its next turn instead.
 
 

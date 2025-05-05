@@ -17,6 +17,7 @@
 | CHA | 8 | -1 | -1 |
 
 - **Skills**: Perception +4, Stealth +5
+- **Gear** Hand Crossbow
 - **Senses**: darkvision 60 ft.; Passive Perception 14
 - **Languages**: Common (can't speak in rat form)
 - **CR** 2 (XP 450; PB +2)

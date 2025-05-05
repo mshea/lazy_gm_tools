@@ -20,7 +20,7 @@
 ### Special Abilities
 
 - **Reduce:** If it starts its turn enlarged it can choose to end the effect and return to its normal size (no action required).
-- **Standing Leap:** The warrior’s long jump is up to 20' and its high jump is up to 10 ft. with or with o a running start. The warrior can’t use this trait while enlarged.
+- **Standing Leap:** The warrior's long jump is up to 20' and its high jump is up to 10 ft. with or with o a running start. The warrior can't use this trait while enlarged.
 
 ### Actions
 

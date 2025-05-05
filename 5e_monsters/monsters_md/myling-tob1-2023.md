@@ -22,12 +22,12 @@
 
 ### Special Abilities
 
-- **Enfeebling Attacks:** Each time the myling deals necrotic damage to a creature that is below half its hp maximum, the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
-- **Undead Nature:** The myling doesn’t require air, food, drink, or sleep.
+- **Enfeebling Attacks:** Each time the myling deals necrotic damage to a creature that is below half its hp maximum, the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+- **Undead Nature:** The myling doesn't require air, food, drink, or sleep.
 
 ### Actions
 
-- **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 7 (2d6) necrotic damage, and the target must succeed on a DC 13 Dexterity saving throw or the myling attaches to it. While attached, the myling sinks its teeth into the target and can’t attack, and at the start of each of the myling’s turns, the target takes 17 (5d6) necrotic damage.
+- **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 7 (2d6) necrotic damage, and the target must succeed on a DC 13 Dexterity saving throw or the myling attaches to it. While attached, the myling sinks its teeth into the target and can't attack, and at the start of each of the myling's turns, the target takes 17 (5d6) necrotic damage.
 
 ### Bonus Actions
 

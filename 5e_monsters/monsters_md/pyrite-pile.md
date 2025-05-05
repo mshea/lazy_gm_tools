@@ -16,7 +16,7 @@
 - **Damage Resistances:** nonmagic B/P/S attacks
 - **Condition Immunities:** exhaustion, paralyzed, petrified, poisoned, unconscious
 - **Senses:** darkvision 60', tremorsense 60', passive Perception 9
-- **Languages:** understands Dwarvish and Terran but can’t speak
+- **Languages:** understands Dwarvish and Terran but can't speak
 
 ### Special Abilities
 

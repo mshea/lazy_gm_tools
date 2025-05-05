@@ -21,9 +21,9 @@
 
 ### Special Abilities
 
-- **Devil’s Sight:** Magical darkness doesn’t impede the moldering devil’s darkvision.
+- **Devil's Sight:** Magical darkness doesn't impede the moldering devil's darkvision.
 - **Field Hopper:** The moldering devil can fly up to 40' on its turn but it must start and end its movement on a solid surface such as a roof or the ground. If it is flying at the end of its turn it falls to the ground and takes falling damage.
-- **Rotting Death:** When it dies all foodstuffs water and beverages within 100' of it are subjected to the devil’s Touch of Rot trait.
+- **Rotting Death:** When it dies all foodstuffs water and beverages within 100' of it are subjected to the devil's Touch of Rot trait.
 - **Touch of Rot:** Any foodstuff water or beverage whether fresh or preserved that comes into contact with the moldering devil immediately decays and becomes inedible or undrinkable. If a creature consumes such food or drink it must make a DC 11 Con save. On a failure it takes 7 (2d6) poison and is poisoned for 24 hrs. On a success it takes half the damage and is poisoned for 1 hr.
 
 ### Actions

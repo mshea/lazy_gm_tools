@@ -23,11 +23,11 @@
 ### Special Abilities
 
 - **Earth Glide:** Can burrow through nonmagical unworked earth/stone with o disturbing material it moves through.
-- **Elemental Nature:** Doesn’t require air food drink or sleep.
+- **Elemental Nature:** Doesn't require air food drink or sleep.
 - **Persistence of Stone (Recharge: Short/Long Rest):** When reduced to below half its hp max Fossil Barrage recharges.
 - **Roiling Roots:** Its stony roots make the ground within 15 ft. of it difficult terrain for creatures other than the rockwood.
 - **Siege Monster:** Double damage to objects/structures.
-- **Towering Reach:** Doesn’t have disadvantage on ranged attack rolls from being within 5 ft. of a hostile creature though it may still have disadvantage from other sources.
+- **Towering Reach:** Doesn't have disadvantage on ranged attack rolls from being within 5 ft. of a hostile creature though it may still have disadvantage from other sources.
 
 ### Actions
 

@@ -17,6 +17,7 @@
 | CHA | 10 | +0 | +0 |
 
 - **Skills**: Athletics +5, Perception +2
+- **Gear** Greatsword, Heavy Crossbow, Splint Armor
 - **Senses**: Passive Perception 12
 - **Languages**: Common plus one other language
 - **CR** 3 (XP 700; PB +2)

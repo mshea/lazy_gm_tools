@@ -28,7 +28,7 @@
 - **Multiattack:** Two Spines or one Ram and one Spine.
 - **Ram:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 14 (2d10+3) bludgeoning damage.
 - **Spine:** Melee Weapon Attack: +5 to hit, 10 ft., one target, 6 (1d6+3) piercing damage + 7 (2d6) poison.
-- **Deadfall (Recharge 5–6):** If stick is 15 ft.+ off the ground can fall to the ground landing on its feet in a space it can see within 20' of it that contains 1+ other creatures. Each of them: 21 (6d6) bludgeoning damage and knocked prone (DC 13 Dex half not knocked prone and pushed 5 ft. out of stick’s space into unoccupied space of creature’s choice). Also each creature within 10 ft. of stick when it lands: 10 (3d6) bludgeoning damage and knocked prone (DC 13 Dex negates both).
+- **Deadfall (Recharge 5-6):** If stick is 15 ft.+ off the ground can fall to the ground landing on its feet in a space it can see within 20' of it that contains 1+ other creatures. Each of them: 21 (6d6) bludgeoning damage and knocked prone (DC 13 Dex half not knocked prone and pushed 5 ft. out of stick's space into unoccupied space of creature's choice). Also each creature within 10 ft. of stick when it lands: 10 (3d6) bludgeoning damage and knocked prone (DC 13 Dex negates both).
 
 ### Bonus Actions
 

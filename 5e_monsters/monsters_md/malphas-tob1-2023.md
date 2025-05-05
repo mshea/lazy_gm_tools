@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Shadow-Infused Weapons:** The malphas’s weapon attacks are magical. When it hits with any weapon, the weapon deals an extra 3d6 necrotic damage (included in the attack).
+- **Shadow-Infused Weapons:** The malphas's weapon attacks are magical. When it hits with any weapon, the weapon deals an extra 3d6 necrotic damage (included in the attack).
 - **Sunlight Sensitivity:** While in sunlight, the malphas has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 ### Actions
@@ -34,4 +34,4 @@
 
 ### Reactions
 
-- **Shadow Call:** When the malphas is hit by a ranged attack, it can make one Shadow Bolt attack against the attacker. The malphas doesn’t have disadvantage on this attack from being within 5 feet of a hostile creature, though it may still have disadvantage from other sources.
+- **Shadow Call:** When the malphas is hit by a ranged attack, it can make one Shadow Bolt attack against the attacker. The malphas doesn't have disadvantage on this attack from being within 5 feet of a hostile creature, though it may still have disadvantage from other sources.

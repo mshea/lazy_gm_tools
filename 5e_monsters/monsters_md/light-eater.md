@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **False Appearance:** While motionless indistinguishable from normal rock.
-- **Light Absorption:** When it starts its turn within 5 ft. of a source of light light is reduced while eater remains within 100' of light source. Bright light becomes dim and dim becomes darkness. If eater reduces light source’s light to darkness eater sheds multicolored bright light in 20' radius and dim light for additional 20' for 1 hr and light source is extinguished if it is nonmagical flame or dispelled if it was created by 2nd level or lower spell.
+- **Light Absorption:** When it starts its turn within 5 ft. of a source of light light is reduced while eater remains within 100' of light source. Bright light becomes dim and dim becomes darkness. If eater reduces light source's light to darkness eater sheds multicolored bright light in 20' radius and dim light for additional 20' for 1 hr and light source is extinguished if it is nonmagical flame or dispelled if it was created by 2nd level or lower spell.
 - **Light Sense:** Can pinpoint location of any light source within 100' of it and sense general direction of any within 1 mile.
 
 ### Actions

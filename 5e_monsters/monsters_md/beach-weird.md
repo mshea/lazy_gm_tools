@@ -21,9 +21,9 @@
 
 ### Special Abilities
 
-- **Elemental Nature:** Doesn’t require air food drink or sleep.
+- **Elemental Nature:** Doesn't require air food drink or sleep.
 - **Invisible in Water:** Is invisible while fully immersed in water.
-- **Swim in Sand:** Can burrow through sand at half its swim speed. It can’t make attacks while immersed in sand.
+- **Swim in Sand:** Can burrow through sand at half its swim speed. It can't make attacks while immersed in sand.
 - **Tidepool Bound:** Dies if it moves more than 100' from the tide pools to which it is bound or if those tide pools remain waterless for more than 24 hrs.
 
 ### Actions

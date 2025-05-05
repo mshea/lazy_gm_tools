@@ -30,4 +30,4 @@
 - **Multiattack:** The zmey headling makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 16 (2d12 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
-- **Fire Breath (Recharge 5–6):** The zmey headling exhales fire in a 30-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. The headling can choose for this breath to not harm plants or Plant creatures.
+- **Fire Breath (Recharge 5-6):** The zmey headling exhales fire in a 30-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. The headling can choose for this breath to not harm plants or Plant creatures.

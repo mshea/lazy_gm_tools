@@ -27,10 +27,10 @@
 
 - **Multiattack:** Two Claw attacks. It can replace one attack with use of Constricting Tail.
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
-- **Constricting Tail:** A Large or smaller creature within 5 ft. of the lizard must make DC 12 Dex save or be grappled (escape DC 14). Until this grapple ends the target is restrained can’t breathe and begins to suffocate and the giant mole lizard can’t use Constricting Tail on another target.
+- **Constricting Tail:** A Large or smaller creature within 5 ft. of the lizard must make DC 12 Dex save or be grappled (escape DC 14). Until this grapple ends the target is restrained can't breathe and begins to suffocate and the giant mole lizard can't use Constricting Tail on another target.
 
 ### Bonus Actions
 
-- **Mass Shove:** Each Large or smaller creature within 10 ft. of the giant mole lizard and that isn’t grappled by it must make DC 14 Str save or be pushed up to 15 ft. away from the lizard and knocked prone.
+- **Mass Shove:** Each Large or smaller creature within 10 ft. of the giant mole lizard and that isn't grappled by it must make DC 14 Str save or be pushed up to 15 ft. away from the lizard and knocked prone.
 
 

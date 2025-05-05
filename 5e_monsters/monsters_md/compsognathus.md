@@ -19,7 +19,7 @@
 ### Special Abilities
 
 - **Grasslands Camouflage:** The compsognathus has advantage on Dexterity (Stealth) checks made to hide in tall grass.
-- **Pack Tactics:** The compsognathus has advantage on attack rolls against a creature if at least one of the compsognathus’ allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The compsognathus has advantage on attack rolls against a creature if at least one of the compsognathus' allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions
 

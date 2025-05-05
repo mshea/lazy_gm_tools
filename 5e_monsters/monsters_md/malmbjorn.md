@@ -29,13 +29,13 @@
 ### Actions
 
 - **Mulitattack:** Makes one Bite and two Adamantine Claws.
-- **Bite:** Melee Weapon Attack: +12 to hit, 10 ft., one target, 34 (5d10+7) piercing damage and target is grappled (escape DC 18). Until grapple ends target restrained attacker can’t Bite another.
+- **Bite:** Melee Weapon Attack: +12 to hit, 10 ft., one target, 34 (5d10+7) piercing damage and target is grappled (escape DC 18). Until grapple ends target restrained attacker can't Bite another.
 - **Adamantine Claw:** Melee Weapon Attack: +12 to hit, 10 ft., one target, 29 (5d8+7) slashing damage. This attack deals double damage to objects and structures.
-- **Metal Volley (Recharge 5–6):** Shakes itself launching shards from its hide. Each creature within 20 feet: 45 (13d6) slashing damage (DC 18 Dex half).
+- **Metal Volley (Recharge 5-6):** Shakes itself launching shards from its hide. Each creature within 20 feet: 45 (13d6) slashing damage (DC 18 Dex half).
 
 ### Bonus Actions
 
-- **Metal Eater:** Swallows one Med or smaller ferrous metal object within 5 ft. of it. If the object is being held or worn by a creature that creature must make DC 18 Str save or malmbjorn swallows the object. If the creature holding or wearing the object is also grappled by the malmbjorn it has disadvantage on this save. Nonmagical objects are digested and destroyed at the start of malmbjorn’s next turn. Magic objects remain intact in malmbjorn’s stomach for 8 hrs then are destroyed. Artifacts are never destroyed in this way.
+- **Metal Eater:** Swallows one Med or smaller ferrous metal object within 5 ft. of it. If the object is being held or worn by a creature that creature must make DC 18 Str save or malmbjorn swallows the object. If the creature holding or wearing the object is also grappled by the malmbjorn it has disadvantage on this save. Nonmagical objects are digested and destroyed at the start of malmbjorn's next turn. Magic objects remain intact in malmbjorn's stomach for 8 hrs then are destroyed. Artifacts are never destroyed in this way.
 
 ### Reactions
 

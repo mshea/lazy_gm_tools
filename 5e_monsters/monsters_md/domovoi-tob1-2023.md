@@ -33,4 +33,4 @@
 
 ### Bonus Actions
 
-- **Protector’s Step:** The domovoi magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space within a structure protected by its House Guardian trait or within 30 feet of the exterior of that structure. Swirls of golden light, sparkles of starlight, or tendrils of inky shadow (the domovoi’s choice) appear at the origin and destination when it uses this bonus action.
+- **Protector's Step:** The domovoi magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space within a structure protected by its House Guardian trait or within 30 feet of the exterior of that structure. Swirls of golden light, sparkles of starlight, or tendrils of inky shadow (the domovoi's choice) appear at the origin and destination when it uses this bonus action.

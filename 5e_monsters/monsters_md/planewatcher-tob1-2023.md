@@ -31,9 +31,9 @@
 ### Actions
 
 - **Multiattack:** The planewatcher makes one Radiant Lasso attack and two Enervating Blast attacks, or it makes three Enervating Blast attacks. It can replace two attacks with a use of Planar Ultimatum.
-- **Radiant Lasso:** Melee Weapon Attack: +8 to hit, reach 30 ft., one target. Hit: 22 (4d6 + 4) radiant damage, and the target is grappled (escape DC 16) if the planewatcher isn’t already grappling a creature. Until this grapple ends, the target is restrained, can’t tell a lie, and can’t teleport or be transported to another plane of existence unless the planewatcher wills it.
+- **Radiant Lasso:** Melee Weapon Attack: +8 to hit, reach 30 ft., one target. Hit: 22 (4d6 + 4) radiant damage, and the target is grappled (escape DC 16) if the planewatcher isn't already grappling a creature. Until this grapple ends, the target is restrained, can't tell a lie, and can't teleport or be transported to another plane of existence unless the planewatcher wills it.
 - **Enervating Blast:** Melee or Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 23 (4d8 + 5) force damage, and the target has disadvantage on Strength and Dexterity checks until the end of its next turn.
-- **Planar Ultimatum:** The planewatcher demands one creature grappled by it to return to the creature’s home plane within 24 hours. If the creature doesn’t swear to do so, it must make a DC 17 Constitution saving throw, taking 45 (10d8) radiant damage on a failed save, or half as much damage on a successful one If the creature swears to return, it becomes affected by the geas spell for 30 days, which compels the creature to return to its home plane as soon as possible.
+- **Planar Ultimatum:** The planewatcher demands one creature grappled by it to return to the creature's home plane within 24 hours. If the creature doesn't swear to do so, it must make a DC 17 Constitution saving throw, taking 45 (10d8) radiant damage on a failed save, or half as much damage on a successful one If the creature swears to return, it becomes affected by the geas spell for 30 days, which compels the creature to return to its home plane as soon as possible.
 
 ### Bonus Actions
 

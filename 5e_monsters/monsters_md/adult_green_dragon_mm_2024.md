@@ -46,7 +46,7 @@
 
 ***Mind Invasion.*** The dragon uses Spellcasting to cast *Mind Spike* (level 3 version).
 
-***Noxious Miasma.*** *Constitution Saving Throw*: DC 17, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:*  7 (2d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. Success or Failure The dragon can't take this action again until the start of its next turn.
+***Noxious Miasma.*** *Constitution Saving Throw*: DC 17, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:*  7 (2d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 

@@ -23,8 +23,8 @@
 
 ### Special Abilities
 
-- **Devil’s Sight:** Magical darkness doesn’t impede the spawn’s darkvision.
-- **Hive Bond:** While the spawn is within 60 feet of at least one member of its hive, it has advantage on initiative rolls and on Wisdom (Perception) checks. The spawn can’t be surprised if at least one other member is aware of the danger and within 300 feet of it.
+- **Devil's Sight:** Magical darkness doesn't impede the spawn's darkvision.
+- **Hive Bond:** While the spawn is within 60 feet of at least one member of its hive, it has advantage on initiative rolls and on Wisdom (Perception) checks. The spawn can't be surprised if at least one other member is aware of the danger and within 300 feet of it.
 - **Magic Resistance:** The spawn has advantage on saving throws against spells and other magical effects.
 - **Speak with Insects:** The spawn can communicate with insects as if they shared a language.
 

@@ -19,9 +19,9 @@
 ### Special Abilities
 
 - **Compress:** The dragonette can squeeze through a space as narrow as 1 inch wide.
-- **Leaping Withdraw:** The dragonette’s long jump is up to 20 feet, and its high jump is up to 10 feet, with or without a running start. If the dragonette leaps out of a creature’s reach, it doesn’t provoke opportunity attacks.
-- **Tongue Pick:** The dragonette can use its tongue to pick locks and disarm traps, as if its tongue was a set of thieves’ tools. It is proficient in using its tongue in this way.
-- **Vermin Hunter:** Swarms of beasts don’t have resistance to piercing and slashing damage from the dragonette. In addition, as a bonus action, the dragonette can use Scale Slash against a swarm of beasts occupying its space.
+- **Leaping Withdraw:** The dragonette's long jump is up to 20 feet, and its high jump is up to 10 feet, with or without a running start. If the dragonette leaps out of a creature's reach, it doesn't provoke opportunity attacks.
+- **Tongue Pick:** The dragonette can use its tongue to pick locks and disarm traps, as if its tongue was a set of thieves' tools. It is proficient in using its tongue in this way.
+- **Vermin Hunter:** Swarms of beasts don't have resistance to piercing and slashing damage from the dragonette. In addition, as a bonus action, the dragonette can use Scale Slash against a swarm of beasts occupying its space.
 
 ### Actions
 

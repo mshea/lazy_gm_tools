@@ -27,6 +27,6 @@
 - **Multiattack:** Two Claws attacks and one Tail Slap attack.
 - **Claws:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 10 (2d6+4) slashing damage.
 - **Tail Slap:** Melee Weapon Attack: +6 to hit, 10 ft., one target, 8 (1d8+4) piercing damage and the target must make DC 14 Str save or be knocked prone.
-- **Tuck In:** Curls its entire body forming an armored ball. While an armored ball it moves by rolling has resistance to B/P/S damage is immune to the prone condition and it can’t make Claw or Tail Slap attacks or climb. The dire pangolin can uncurl its body as a bonus action.
+- **Tuck In:** Curls its entire body forming an armored ball. While an armored ball it moves by rolling has resistance to B/P/S damage is immune to the prone condition and it can't make Claw or Tail Slap attacks or climb. The dire pangolin can uncurl its body as a bonus action.
 
 

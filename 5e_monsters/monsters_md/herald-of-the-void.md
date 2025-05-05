@@ -31,7 +31,7 @@
 - **Multiattack:** The herald makes two void claw attacks. Alternatively, it can use its Void Ray twice.
 - **Void Claw:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) cold damage plus 4 (1d8) force damage.
 - **Void Ray:** Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 9 (2d8) cold damage and 9 (2d8) force damage.
-- **The Final Song (Recharge 5-6):** The herald utters a melody of cosmic doom in a 30-foot cone. Each creature in that area must make a DC 17 Wisdom saving throw, taking 27 (6d8) psychic damage on a failed save, or half as much damage on a successful one. This melody doesn’t affect creatures that understand Void Speech.
+- **The Final Song (Recharge 5-6):** The herald utters a melody of cosmic doom in a 30-foot cone. Each creature in that area must make a DC 17 Wisdom saving throw, taking 27 (6d8) psychic damage on a failed save, or half as much damage on a successful one. This melody doesn't affect creatures that understand Void Speech.
 
 The herald of the void can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The herald regains spent legendary actions at the start of its turn.
 
@@ -39,5 +39,5 @@ The herald of the void can take 3 legendary actions, choosing from the options b
 
 - **Move:** The herald flies up to half its flying speed without provoking opportunity attacks.
 - **Void Claw (Costs 2 Actions):** The herald makes one void claw attack.
-- **Discorporate (Costs 2 Actions):** The herald chooses up to two creatures it can see within 30 feet of it. Each target must succeed on a DC 17 Constitution saving throw or become intangible until the end of its next turn. While intangible, the creature is incapacitated, drops whatever it’s holding, and is unable to interact with physical objects. The creature is still visible and able to speak.
+- **Discorporate (Costs 2 Actions):** The herald chooses up to two creatures it can see within 30 feet of it. Each target must succeed on a DC 17 Constitution saving throw or become intangible until the end of its next turn. While intangible, the creature is incapacitated, drops whatever it's holding, and is unable to interact with physical objects. The creature is still visible and able to speak.
 - **Song of Mighty Doom (Costs 3 Actions):** The herald emits a cacophonous dirge praising the Void. Each creature other than the herald within 30 feet of the herald and that understands Void Speech gains 10 temporary hp.

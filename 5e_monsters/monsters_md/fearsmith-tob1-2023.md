@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Distortion Gaze:** Those who meet the gaze of the fear smith experience the world seeming to twist at unnatural angles beneath their feet. When a creature that can see the fear smith’s eye starts its turn within 30 feet of the fear smith, the fear smith can force the creature to make a DC 16 Wisdom saving throw if the fear smith isn’t incapacitated and can see the creature. On a failed save, the creature is disoriented until the start of its next turn. While disoriented, a creature can’t take the Dash or Disengage action, and when it moves for the first time on its turn, it must succeed on a DC 16 Dexterity saving throw or fall prone.
+- **Distortion Gaze:** Those who meet the gaze of the fear smith experience the world seeming to twist at unnatural angles beneath their feet. When a creature that can see the fear smith's eye starts its turn within 30 feet of the fear smith, the fear smith can force the creature to make a DC 16 Wisdom saving throw if the fear smith isn't incapacitated and can see the creature. On a failed save, the creature is disoriented until the start of its next turn. While disoriented, a creature can't take the Dash or Disengage action, and when it moves for the first time on its turn, it must succeed on a DC 16 Dexterity saving throw or fall prone.
 - **Hidden Eye:** The fear smith has advantage on saving throws against being blinded.
 - **Magic Resistance:** The fear smith has advantage on saving throws against spells and other magical effects.
 

@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Magical Darkness Hypersensitivity:** While in an area of magical darkness, the lantern dragonette can’t fly or use Lantern Belly, and it takes 3 (1d6) necrotic damage each minute.
+- **Magical Darkness Hypersensitivity:** While in an area of magical darkness, the lantern dragonette can't fly or use Lantern Belly, and it takes 3 (1d6) necrotic damage each minute.
 
 ### Actions
 

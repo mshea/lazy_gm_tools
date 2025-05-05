@@ -21,13 +21,13 @@
 
 ### Special Abilities
 
-- **Barnacle Shivers:** Characterized by inescapable cold and shiveringthat slowly pervades victim’s body this is a disease that infects creatures attacked by blood barnacles. Until disease is cured infected creature can’t regain hp except magically and its hp max decreases by 3 (1d6) for every 24 hrs that elapse. Reduction lasts until disease is cured. Creature dies if disease reduces its hp max to 0. A Humanoid or Beast slain by this disease rises 24 hrs later as a zombie. Zombie isn’t under barnacle’s control but it views barnacle as an ally.
-- **Blood Sense:** Can pinpoint by scent location of creatures that aren’t Constructs or Undead and that don’t have all of their hp within 60' of it and can sense general direction of such creatures within 1 mile of it.
+- **Barnacle Shivers:** Characterized by inescapable cold and shiveringthat slowly pervades victim's body this is a disease that infects creatures attacked by blood barnacles. Until disease is cured infected creature can't regain hp except magically and its hp max decreases by 3 (1d6) for every 24 hrs that elapse. Reduction lasts until disease is cured. Creature dies if disease reduces its hp max to 0. A Humanoid or Beast slain by this disease rises 24 hrs later as a zombie. Zombie isn't under barnacle's control but it views barnacle as an ally.
+- **Blood Sense:** Can pinpoint by scent location of creatures that aren't Constructs or Undead and that don't have all of their hp within 60' of it and can sense general direction of such creatures within 1 mile of it.
 - **False Appearance:** While motionless indistinguishable from normal barnacle.
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one creature,. 5 (1d6+2) piercing damage and barnacle attaches to target. While attached barnacle doesn’t attack. Instead at start of each of barnacle’s turns target loses 5 (1d6+2) hp due to blood loss. Barnacle can detach itself by spending 5 ft. of its movement. A creature including target can take its action to detach barnacle via DC 12 Str check. When barnacle is removed target takes 2 (1d4) piercing damage. If creature ends its turn with barnacle attached to it that creature: DC 12 Con save or contract barnacle shivers (see above).
+- **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one creature,. 5 (1d6+2) piercing damage and barnacle attaches to target. While attached barnacle doesn't attack. Instead at start of each of barnacle's turns target loses 5 (1d6+2) hp due to blood loss. Barnacle can detach itself by spending 5 ft. of its movement. A creature including target can take its action to detach barnacle via DC 12 Str check. When barnacle is removed target takes 2 (1d4) piercing damage. If creature ends its turn with barnacle attached to it that creature: DC 12 Con save or contract barnacle shivers (see above).
 
 ### Reactions
 

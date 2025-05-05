@@ -29,7 +29,7 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage + 9 (2d8) acid.
 - **Scimitar:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 7 (1d6+4) slashing damage.
 - **Noxious Blast:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 12 (2d8+3) acid.
-- **Noxious Sands (Recharge 4–6):** Vomits a cloud of tainted sand in a 15 ft. cone. Each creature in the area: 14 (4d6) slashing damage and 14 (4d6) acid (DC 13 Dex half).
+- **Noxious Sands (Recharge 4-6):** Vomits a cloud of tainted sand in a 15 ft. cone. Each creature in the area: 14 (4d6) slashing damage and 14 (4d6) acid (DC 13 Dex half).
 - **Spellcasting:** Cha (DC 14) no material components: At will: disguise self minor illusion3/day ea: charm person suggestion1/day ea: dream fear
 
 

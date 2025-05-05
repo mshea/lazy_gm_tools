@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Construct Nature:** The fellforged doesn’t require air, food, drink, or sleep.
+- **Construct Nature:** The fellforged doesn't require air, food, drink, or sleep.
 - **Inhabiting Spirit:** The fellforged is inhabited and animated by a specter. If the fellforged fails a saving throw against an effect that turns undead, the specter is expelled into an unoccupied space within 5 feet of the fellforged with the hp total it had before it was expelled. The specter otherwise uses the statistics of a specter.
 - **Sunlight Sensitivity:** While in sunlight, the fellforged has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
@@ -34,4 +34,4 @@
 
 ### Bonus Actions
 
-- **Burst Gears:** The specter within the fellforged strains the construct’s body, sending broken springs and gears flying. Each creature within 5 feet of the fellforged must make a DC 14 Dexterity saving throw, taking 7 (2d6) piercing damage on a failed save, or half as much damage on a successful one. Each time the fellforged uses this bonus action, its speed is reduced by 5 feet, and it can’t use this bonus action if its speed is 0. Its speed returns to normal when it finishes a long rest.
+- **Burst Gears:** The specter within the fellforged strains the construct's body, sending broken springs and gears flying. Each creature within 5 feet of the fellforged must make a DC 14 Dexterity saving throw, taking 7 (2d6) piercing damage on a failed save, or half as much damage on a successful one. Each time the fellforged uses this bonus action, its speed is reduced by 5 feet, and it can't use this bonus action if its speed is 0. Its speed returns to normal when it finishes a long rest.

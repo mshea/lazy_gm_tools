@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Regeneration:** The fleshdreg regains 5 hp at the start of its turn if it has at least 1 hp. If the fleshdreg uses its Disgorge Innards action, this trait doesn’t function at the start of its next turn.
+- **Regeneration:** The fleshdreg regains 5 hp at the start of its turn if it has at least 1 hp. If the fleshdreg uses its Disgorge Innards action, this trait doesn't function at the start of its next turn.
 
 ### Actions
 

@@ -19,6 +19,7 @@
 - **Resistances**: Cold, Lightning
 - **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 - **Skills**: Arcana +19, History +12, Insight +9, Perception +9
+- **Gear** Component Pouch
 - **Senses**: truesight 120 ft.; Passive Perception 19
 - **Languages**: All
 - **CR** 21 (XP 33,000, or 41,000 in lair)
@@ -52,6 +53,6 @@
 
 ***Deathly Teleport.*** The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.
 
-***Disrupt Life.*** *Constitution Saving Throw*: DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. *Failure:*  31 (9d6) Necrotic damage. *Success:*  Half damage. Success or Failure The lich can't take this action again until the start of its next turn.
+***Disrupt Life.*** *Constitution Saving Throw*: DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. *Failure:*  31 (9d6) Necrotic damage. *Success:*  Half damage. *Failure or Success*:  The lich can't take this action again until the start of its next turn.
 
 ***Frightening Gaze.*** The lich casts *Fear*, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.

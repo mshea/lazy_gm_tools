@@ -21,7 +21,7 @@
 
 ### Special Abilities
 
-- **Innate Spellcasting:** The storm maiden’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+- **Innate Spellcasting:** The storm maiden's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 At will: create or destroy water, ray of frost, misty step, thunderwave
 1/day each: sleet storm, wind wall
 

@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Flyby:** The aridni doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+- **Flyby:** The aridni doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - **Magic Resistance:** The aridni has advantage on saving throws against spells and other magical effects.
 
 ### Actions
@@ -36,7 +36,7 @@
 ### Bonus Actions
 
 - **Enchanted Arrows:** The aridni enchants one arrow with minor magic. The next time it hits a creature with a Pixie Bow attack before the start of its next turn, the target must succeed on a DC 14 Wisdom saving throw or suffer one of the following effects:
-- **Confusion:** The target can’t take reactions and acts randomly until the end of its next turn, as if it had failed the saving throw against the confusion spell.
+- **Confusion:** The target can't take reactions and acts randomly until the end of its next turn, as if it had failed the saving throw against the confusion spell.
 - **Fear:** The target is frightened until the end of its next turn and must spend its next turn moving away from the aridni by the safest available route.
 - **Laughter:** The target falls prone and is incapacitated with laughter until the end of its next turn.
 - **Sleep:** The target falls unconscious for 1 minute. It wakes up if it takes damage or if another creature takes an action to shake it awake.<br><br><br><br><br>Aridni in Midgard

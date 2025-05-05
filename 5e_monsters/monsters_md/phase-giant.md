@@ -18,7 +18,7 @@
 
 ### Special Abilities
 
-- **Ethereal Jaunt:** As a bonus action, the phase giant can magically shift from the Material Plane to the Ethereal Plane, or vice versa. Any equipment it is wearing or carrying shifts with it. A creature grappled by the phase giant doesn’t shift with it, and the grapple ends if the phase giant shifts while grappling a creature.
+- **Ethereal Jaunt:** As a bonus action, the phase giant can magically shift from the Material Plane to the Ethereal Plane, or vice versa. Any equipment it is wearing or carrying shifts with it. A creature grappled by the phase giant doesn't shift with it, and the grapple ends if the phase giant shifts while grappling a creature.
 
 ### Actions
 

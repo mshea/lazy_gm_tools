@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Ethereal Jaunt:** As a bonus action, the kami can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
-- **Flyby:** The kami doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+- **Flyby:** The kami doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - **Magic Resistance:** The kami has advantage on saving throws against spells and other magical effects
 - **Keen Hearing and Sight:** The kami has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 

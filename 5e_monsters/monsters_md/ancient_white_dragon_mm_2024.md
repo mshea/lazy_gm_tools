@@ -40,7 +40,7 @@
 
 ## Legendary Actions
 
-***Freezing Burst.*** *Constitution Saving Throw*: DC 20, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:*  14 (4d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. Success or Failure The dragon can't take this action again until the start of its next turn.
+***Freezing Burst.*** *Constitution Saving Throw*: DC 20, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:*  14 (4d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 

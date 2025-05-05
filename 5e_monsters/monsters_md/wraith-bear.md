@@ -21,8 +21,8 @@
 
 ### Special Abilities
 
-- **Detect Relatives:** The wraith bear knows the direction to its nearest living relative on the same plane, but not the relative’s exact location.
-- **Draining Regeneration:** The wraith bear regains 10 hp at the start of its turn if it has at least 1 hp and there are living plants within 5 feet of it. When the wraith bear regains hp, all plant life within 5 feet of it dies, and it can’t regain hp from those same plants again.
+- **Detect Relatives:** The wraith bear knows the direction to its nearest living relative on the same plane, but not the relative's exact location.
+- **Draining Regeneration:** The wraith bear regains 10 hp at the start of its turn if it has at least 1 hp and there are living plants within 5 feet of it. When the wraith bear regains hp, all plant life within 5 feet of it dies, and it can't regain hp from those same plants again.
 - **Incorporeal Movement:** The wraith bear can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
 ### Actions

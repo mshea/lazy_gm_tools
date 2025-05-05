@@ -19,6 +19,6 @@
 ### Actions
 
 - **Stingers:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 1 piercing damage plus 3 (1d6) necrotic damage, and the target must succeed on a DC 11 Constitution saving throw or be blinded until the end of its next turn.
-- **Douse Light:** The nyctli magically dispels or douses a single magical or nonmagical light source within 30 feet of it. The nyctli can’t dispel light created by a spell of 3rd level or higher.
+- **Douse Light:** The nyctli magically dispels or douses a single magical or nonmagical light source within 30 feet of it. The nyctli can't dispel light created by a spell of 3rd level or higher.
 
 

@@ -16,6 +16,7 @@
 | WIS | 7 | -2 | -2 |
 | CHA | 7 | -2 | -2 |
 
+- **Gear** Greatclub, Javelin x 3
 - **Senses**: darkvision 60 ft.; Passive Perception 8
 - **Languages**: Common, Giant
 - **CR** 2 (XP 450; PB +2)

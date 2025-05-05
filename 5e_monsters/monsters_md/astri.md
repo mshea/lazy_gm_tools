@@ -24,8 +24,8 @@
 - **Enforce Good Deeds:** A creature that has received assistance, such as food or healing, from the astri must succeed on a DC 16 Wisdom saving throw or be affected by the geas spell for 30 days. While under the geas, the affected creature must assist nonhostile creatures suffering from injury or exhaustion by alleviating the injury or exhaustion.
 - **Helping Hand:** The astri can take the Help action as a bonus action on each of its turns.
 - **Magic Resistance:** The astri has advantage on saving throws against spells and other magical effects.
-- **Magic Weapons:** The astri’s weapon attacks are magical.
-- **Innate Spellcasting:** The astri’s spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The astri can cast the following spells, requiring no material components:
+- **Magic Weapons:** The astri's weapon attacks are magical.
+- **Innate Spellcasting:** The astri's spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The astri can cast the following spells, requiring no material components:
 At will: create or destroy water, detect poison and disease, produce flame, purify food and drink
 3/day each: bless, create food and water, lesser restoration
 1/day each: remove curse

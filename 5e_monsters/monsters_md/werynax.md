@@ -28,7 +28,7 @@
 - **Multiattack:** The werynax makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
-- **Arcane Bombardment (Recharge 6):** The werynax unleashes an explosion of multicolored arcane energy from its outstretched wings. Each creature within 20 feet of the werynax must make a DC 15 Dexterity saving throw. On a failure, a creature takes 21 (6d6) force damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.
-- **Nature’s Healing (2/Day):** The werynax taps into the power inherent in the land around it. It regains 13 (3d8) hp and is freed from any disease, poison, blindness, or deafness.
+- **Arcane Bombardment (Recharge 6):** The werynax unleashes an explosion of multicolored arcane energy from its outstretched wings. Each creature within 20 feet of the werynax must make a DC 15 Dexterity saving throw. On a failure, a creature takes 21 (6d6) force damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn't stunned.
+- **Nature's Healing (2/Day):** The werynax taps into the power inherent in the land around it. It regains 13 (3d8) hp and is freed from any disease, poison, blindness, or deafness.
 
 

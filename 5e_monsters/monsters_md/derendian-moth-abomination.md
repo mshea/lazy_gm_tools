@@ -24,8 +24,8 @@
 - **Antennae:** The Derendian moth abomination has advantage on Wisdom (Perception) checks that rely on smell.
 - **Assimilation:** The Derendian moth abomination has six tentacles. Whenever it takes 30 or more damage in a single turn, one of its tentacles is shorn from its body. Whenever a non-undead creature drops to 0 hit points within 200 feet of the Derendian moth abomination, it can use its reaction to sprout one additional tentacle, up to a maximum of ten. Additional tentacles atrophy after one day.
 - **Legendary Resistance (3/Day):** If the Derendian moth abomination fails a saving throw, it can choose to succeed instead.
-- **Magic Weapons:** The Derendian moth abomination’s weapon attacks are magical.
-- **Unbound:** The Derendian moth abomination’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the moth’s speed nor cause it to be paralyzed or restrained.
+- **Magic Weapons:** The Derendian moth abomination's weapon attacks are magical.
+- **Unbound:** The Derendian moth abomination's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the moth's speed nor cause it to be paralyzed or restrained.
 
 ### Actions
 
@@ -40,4 +40,4 @@ The Derendian moth abomination can take 3 legendary actions, choosing from the o
 
 - **Detect:** The abomination makes a Perception check.
 - **Pursue:** The abomination moves its flying speed.
-- **Lay Eggs (Costs 2 Actions):** The Derendian moth abomination ejects a sticky mass of eggs within 5 feet of itself. At the beginning of the abomination’s next turn, the eggs hatch as a swarm of insects that attacks the abomination’s enemies.
+- **Lay Eggs (Costs 2 Actions):** The Derendian moth abomination ejects a sticky mass of eggs within 5 feet of itself. At the beginning of the abomination's next turn, the eggs hatch as a swarm of insects that attacks the abomination's enemies.

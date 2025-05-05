@@ -24,7 +24,7 @@
 - **False Appearance:** While the crystalline monolith remains motionless, it is indistinguishable from a giant crystal.
 - **Magic Resistance:** The crystalline monolith has advantage on saving throws against spells and other magical effects.
 - **Powerful Mind:** The crystalline monolith has advantage on Intelligence saving throws and ability checks.
-- **Innate Spellcasting (Psionics):** The crystalline monolith’s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
+- **Innate Spellcasting (Psionics):** The crystalline monolith's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 At will: detect magic, detect thoughts, mage hand, silent image
 3/day each: clairvoyance, hypnotic pattern, stinking cloud, telekinesis
 1/day each: confusion, dominate person, suggestion

@@ -31,6 +31,6 @@
 - **Multiattack:** Two Scythe or Death Knell attacks.
 - **Scythe:** Melee Weapon Attack: +10 to hit, 15 ft., one target, 17 (2d10+6) slashing damage + 10 (3d6) necrotic.
 - **Death Knell:** Ranged Spell Attack: +7 to hit, 60 ft., one target, 16 (3d8+3) necrotic or 22 (3d12+3) necrotic if the target is missing any of its hp.
-- **Grim Reaping (Recharge 5–6):** Spins with its scythe extended and makes one Scythe attack vs. each creature within its reach. A creature that takes necrotic from this attack can’t regain hp until the end of its next turn.
+- **Grim Reaping (Recharge 5-6):** Spins with its scythe extended and makes one Scythe attack vs. each creature within its reach. A creature that takes necrotic from this attack can't regain hp until the end of its next turn.
 
 

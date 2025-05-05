@@ -29,7 +29,7 @@
 - **Multiattack:** One Beak attack and two Claws attacks.
 - **Beak:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 8 (1d8+4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
-- **Piercing Roll (Recharge 4–6):** Tucks in its head and throws itself spikes first into nearby foes. Alke moves up to 25 ft. in a straight line and can move through space of any Med or smaller creature. The first time it enters a creature’s space during this move creature takes 14 (4d6) bludgeoning damage and 14 (4d6) piercing damage and is knocked prone (DC 15 Str half not knocked prone.)
+- **Piercing Roll (Recharge 4-6):** Tucks in its head and throws itself spikes first into nearby foes. Alke moves up to 25 ft. in a straight line and can move through space of any Med or smaller creature. The first time it enters a creature's space during this move creature takes 14 (4d6) bludgeoning damage and 14 (4d6) piercing damage and is knocked prone (DC 15 Str half not knocked prone.)
 
 ### Reactions
 

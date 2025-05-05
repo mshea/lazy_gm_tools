@@ -17,6 +17,7 @@
 | CHA | 17 | +3 | +6 |
 
 - **Skills**: Acrobatics +7, Perception +5
+- **Gear** Pistol, Rapier
 - **Senses**: Passive Perception 15
 - **Languages**: Common plus one other language
 - **CR** 6 (XP 2,300; PB +3)

@@ -19,7 +19,7 @@
 ### Special Abilities
 
 - **Hold Breath:** The otterfolk can hold its breath for 15 minutes.
-- **Pack Tactics:** The otterfolk has advantage on attack rolls against a creature if at least one of the otterfolk’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The otterfolk has advantage on attack rolls against a creature if at least one of the otterfolk's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - **Reptile Foe:** The otterfolk has advantage on Wisdom (Survival) checks to track reptilian creatures and on Intelligence checks to recall information about them.
 
 ### Actions

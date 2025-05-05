@@ -28,10 +28,10 @@
 
 - **Multiattack:** Two Crystal Limb attacks. It can replace one attack with use of Biomineralize.
 - **Crystal Limb:** Melee Weapon Attack: +6 to hit, 10 ft., one target, 13 (2d8+4) piercing damage and it impales target on its limb grappling target (escape DC 14) if it is a Med or smaller creature. When this grapple ends target takes 9 (2d8) slashing damage. Crystallite has two Crystal Limbs each of which can grapple one target.
-- **Biomineralize:** Absorbs lifeforce from one creature grappled by it. Target 14 (4d6) necrotic (DC 14 Con half). Target’s hp max is reduced by amount equal to necrotic taken and crystallite regains hp equal to that amount. Reduction lasts until target finishes a long rest. Target dies if this reduces its hp max to 0.
+- **Biomineralize:** Absorbs lifeforce from one creature grappled by it. Target 14 (4d6) necrotic (DC 14 Con half). Target's hp max is reduced by amount equal to necrotic taken and crystallite regains hp equal to that amount. Reduction lasts until target finishes a long rest. Target dies if this reduces its hp max to 0.
 
 ### Reactions
 
-- **Calcify:** When it takes 5+ damage on a single turn it can reduce its hp max by an amount equal to damage taken and gains a +1 bonus to AC. Reduction and bonus last until it finishes a long rest. Can’t increase its AC above 20 using this.
+- **Calcify:** When it takes 5+ damage on a single turn it can reduce its hp max by an amount equal to damage taken and gains a +1 bonus to AC. Reduction and bonus last until it finishes a long rest. Can't increase its AC above 20 using this.
 
 

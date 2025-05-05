@@ -22,18 +22,18 @@
 
 - **Amorphous:** Move through space 1ft.+ wide with o squeezing.
 - **Corrosive Form:** A creature that touches it or hits it with melee attack while within 5 ft. of it takes 10 (3d6) acid.
-- **Ooze Nature:** Doesn’t require sleep.
+- **Ooze Nature:** Doesn't require sleep.
 - **Spider Climb:** Difficult surfaces even ceilings no ability check.
 
 ### Actions
 
 - **Multiattack:** One Pseudopod and three Weapon Thrashes.
-- **Weapon Thrash:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 10 (2d4+5) bludgeoning damage/P/S (the ooze’s choice) damage.
+- **Weapon Thrash:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 10 (2d4+5) bludgeoning damage/P/S (the ooze's choice) damage.
 - **Pseudopod:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 10 (2d4+5) bludgeoning damage + 18 (4d8) acid.
 
 ### Reactions
 
-- **Shed Oozling:** When it has more than 10 hp and is subjected to acid cold lightning or slashing it can lose 10 hp to create an oozling: same stats as scintillating ooze except it is Tiny has 10 hp can’t make Weapon Thrashes and can’t use this reaction or legendary actions.
+- **Shed Oozling:** When it has more than 10 hp and is subjected to acid cold lightning or slashing it can lose 10 hp to create an oozling: same stats as scintillating ooze except it is Tiny has 10 hp can't make Weapon Thrashes and can't use this reaction or legendary actions.
 
 
 

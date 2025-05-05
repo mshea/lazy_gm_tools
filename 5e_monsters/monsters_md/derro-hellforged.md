@@ -34,6 +34,6 @@
 
 ### Reactions
 
-- **Voice of Authority (Recharge 5–6):** When a creature hits hellforged with an attack hellforged shrieks a one-word command. Attacker must make DC 15 Wis save or carry out this command on its next turn. This reaction works like the command spell except the attacker doesn’t have to understand the hellforged’s language. Hellforged must see the attacker and be able to speak to use this reaction.
+- **Voice of Authority (Recharge 5-6):** When a creature hits hellforged with an attack hellforged shrieks a one-word command. Attacker must make DC 15 Wis save or carry out this command on its next turn. This reaction works like the command spell except the attacker doesn't have to understand the hellforged's language. Hellforged must see the attacker and be able to speak to use this reaction.
 
 

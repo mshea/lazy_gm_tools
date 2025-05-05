@@ -20,7 +20,7 @@
 
 ### Special Abilities
 
-- **Consume Soul:** A creature slain by the kachlian can’t be restored to life unless the kachlian is killed within 24 hours of slaying the creature. After 24 hours, the soul becomes part of the kachlian, and the creature can be restored only with a wish spell.
+- **Consume Soul:** A creature slain by the kachlian can't be restored to life unless the kachlian is killed within 24 hours of slaying the creature. After 24 hours, the soul becomes part of the kachlian, and the creature can be restored only with a wish spell.
 - **Spellcasting:** The kachlian is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The kachlian has the following wizard spells prepared:
 Cantrips (at will): chill touch, minor illusion, ray of frost, shocking grasp
 1st level (4 slots): detect magic, hideous laughter, identify, magic missile

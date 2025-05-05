@@ -26,7 +26,7 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) piercing damage.
 - **Spines:** Melee Weapon Attack: +4 to hit, 5 ft., one creature,. 4 (1d4+2) piercing damage and a spine sticks into the target. Until a creature takes an action to remove the spine target has disadvantage on attack rolls.
-- **Reeking Breath (Recharge 5–6):** Exhales a cloud of nauseating gas in a 15 ft. cone. Each creature in the area: DC 13 Con save or be poisoned for 1 min. A poisoned creature can re-save at end of each of its turns success ends effect on itself.
+- **Reeking Breath (Recharge 5-6):** Exhales a cloud of nauseating gas in a 15 ft. cone. Each creature in the area: DC 13 Con save or be poisoned for 1 min. A poisoned creature can re-save at end of each of its turns success ends effect on itself.
 
 ### Bonus Actions
 

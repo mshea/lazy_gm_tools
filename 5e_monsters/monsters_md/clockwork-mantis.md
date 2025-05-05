@@ -20,10 +20,10 @@
 
 ### Special Abilities
 
-- **Hobbling Strike:** When the clockwork mantis makes a successful opportunity attack, the target’s speed is reduced to 0 until the start of its next turn.
+- **Hobbling Strike:** When the clockwork mantis makes a successful opportunity attack, the target's speed is reduced to 0 until the start of its next turn.
 - **Immutable Form:** The clockwork mantis is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The clockwork mantis has advantage on saving throws against spells and other magical effects.
-- **Standing Leap:** The clockwork mantis’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+- **Standing Leap:** The clockwork mantis's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 ### Actions
 

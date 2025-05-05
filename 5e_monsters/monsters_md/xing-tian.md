@@ -20,7 +20,7 @@
 
 ### Special Abilities
 
-- **Indomitable:** Any spell or effect that would make the xing tian paralyzed, restrained, or stunned ends at the end of the xing tian’s next turn, regardless of the spell or effect’s normal duration.
+- **Indomitable:** Any spell or effect that would make the xing tian paralyzed, restrained, or stunned ends at the end of the xing tian's next turn, regardless of the spell or effect's normal duration.
 - **Sure-Footed:** The xing tian has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
 ### Actions

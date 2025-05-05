@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **Keen Smell:** The qiqirn has advantage on Wisdom (Perception) checks that rely on smell.
-- **Self-loathing:** A creature the qiqirn can hear can use its action to say “qiqirn” and make a Charisma (Intimidation) check. If it does so, the qiqirn must succeed on a Wisdom saving throw with a DC equal to the creature’s Charisma (Intimidation) check or be frightened of that creature until the end of its next turn. If the qiqirn succeeds on the saving throw, it can’t be frightened by that creature for the next 24 hours.
+- **Self-loathing:** A creature the qiqirn can hear can use its action to say “qiqirn” and make a Charisma (Intimidation) check. If it does so, the qiqirn must succeed on a Wisdom saving throw with a DC equal to the creature's Charisma (Intimidation) check or be frightened of that creature until the end of its next turn. If the qiqirn succeeds on the saving throw, it can't be frightened by that creature for the next 24 hours.
 
 ### Actions
 

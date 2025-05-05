@@ -17,6 +17,7 @@
 | CHA | 12 | +1 | +1 |
 
 - **Skills**: Perception +7
+- **Gear** Handaxe x 4
 - **Senses**: darkvision 60 ft.; Passive Perception 17
 - **Languages**: Common (can't speak in bear form)
 - **CR** 5 (XP 1,800; PB +3)

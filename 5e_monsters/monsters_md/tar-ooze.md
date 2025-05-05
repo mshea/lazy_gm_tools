@@ -20,8 +20,8 @@
 
 ### Special Abilities
 
-- **Fire Hazard:** When the ooze takes fire damage, it bursts into flame. The ooze continues burning until it takes cold damage or is immersed in water. A creature that touches the ooze or hits it with a melee attack while within 5 feet of it while it is burning takes 5 (1d10) fire damage. While burning, the ooze’s weapon attacks deal an extra 5 (1d10) fire damage.
-- **Sticky Situation:** A creature covered in the ooze’s tar has its speed halved for 1 minute. In addition, the tar ignites if touched by a source of fire or if a creature covered with tar takes fire damage. The tar burns until a creature takes an action to snuff out the flames. A creature that starts its turn covered with burning tar takes 10 (2d10) fire damage. A humanoid that dies while covered in tar rises 1 hour later as tar ghoul, unless the humanoid is restored to life or its body is destroyed.
+- **Fire Hazard:** When the ooze takes fire damage, it bursts into flame. The ooze continues burning until it takes cold damage or is immersed in water. A creature that touches the ooze or hits it with a melee attack while within 5 feet of it while it is burning takes 5 (1d10) fire damage. While burning, the ooze's weapon attacks deal an extra 5 (1d10) fire damage.
+- **Sticky Situation:** A creature covered in the ooze's tar has its speed halved for 1 minute. In addition, the tar ignites if touched by a source of fire or if a creature covered with tar takes fire damage. The tar burns until a creature takes an action to snuff out the flames. A creature that starts its turn covered with burning tar takes 10 (2d10) fire damage. A humanoid that dies while covered in tar rises 1 hour later as tar ghoul, unless the humanoid is restored to life or its body is destroyed.
 
 ### Actions
 

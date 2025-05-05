@@ -19,7 +19,7 @@
 ### Special Abilities
 
 - **Deep Roots:** Has advantage on Str and Dex saves made vs. effects that would move it vs. its will along the ground.
-- **Dozens of Eyes:** Has advantage on Wis (Perception) checks that rely on sight and on saves vs. being blinded. In addition if the tuberkith isn’t blinded creatures attacking it can’t benefit from traits and features that rely on a creature’s allies distracting or surrounding the tuberkith such as the Pack Tactics trait or Sneak Attack feature.
+- **Dozens of Eyes:** Has advantage on Wis (Perception) checks that rely on sight and on saves vs. being blinded. In addition if the tuberkith isn't blinded creatures attacking it can't benefit from traits and features that rely on a creature's allies distracting or surrounding the tuberkith such as the Pack Tactics trait or Sneak Attack feature.
 
 ### Actions
 

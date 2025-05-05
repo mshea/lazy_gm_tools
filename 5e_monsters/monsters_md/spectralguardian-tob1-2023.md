@@ -25,7 +25,7 @@
 
 - **Disgrace Bound:** The spectral guardian is bound to a tomb, castle ruins, or other place related to the disgrace in life that caused it to rise as a spectral guardian in death. If the guardian starts its turn more than 1 mile from its bound location, it loses its Spectral Blade action until it returns to the region. If it remains outside the region, it automatically teleports back to its bound location after 24 hours, regardless of distance.
 - **Incorporeal Movement:** The spectral guardian can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
-- **Undead Nature:** The spectral guardian doesn’t require air, food, drink, or sleep.
+- **Undead Nature:** The spectral guardian doesn't require air, food, drink, or sleep.
 
 ### Actions
 

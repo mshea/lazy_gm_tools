@@ -28,11 +28,11 @@
 
 ### Actions
 
-- **Multiattack:** The pridelord makes three Bite or Mambele attacks. It can replace one attack with a use of Pridelord’s Roar, if available.
+- **Multiattack:** The pridelord makes three Bite or Mambele attacks. It can replace one attack with a use of Pridelord's Roar, if available.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 - **Mambele (Humanoid Form Only):** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage or 11 (2d6 + 4) piercing damage if used to make a melee attack.
-- **Pridelord’s Roar (Recharge 4–6):** Each nkosi of the pridelord’s choice within 30 feet of it that can hear it has advantage on the next attack roll it makes before the start of the pridelord’s next turn.
+- **Pridelord's Roar (Recharge 4-6):** Each nkosi of the pridelord's choice within 30 feet of it that can hear it has advantage on the next attack roll it makes before the start of the pridelord's next turn.
 
 ### Bonus Actions
 
-- **Change Shape:** The pridelord transforms into a Large lion or back into its true form, which is Humanoid. Its statistics, other than its size, speed, and AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+- **Change Shape:** The pridelord transforms into a Large lion or back into its true form, which is Humanoid. Its statistics, other than its size, speed, and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.

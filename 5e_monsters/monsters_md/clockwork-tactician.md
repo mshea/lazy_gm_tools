@@ -21,7 +21,7 @@
 
 ### Special Abilities
 
-- **Construct Nature:** Doesn’t require air food drink or sleep.
+- **Construct Nature:** Doesn't require air food drink or sleep.
 - **Immutable Form:** Immune: form-altering spells/effects.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Magic Weapons:** Weapon attacks are magical.

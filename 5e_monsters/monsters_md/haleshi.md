@@ -23,7 +23,7 @@
 
 - **Amphibious:** The haleshi can breathe air and water.
 - **Charming Defense:** While the haleshi is wearing no armor and wielding no shield, its AC includes its Charisma modifier (included in the Armor Class).
-- **Innate Spellcasting:** The haleshi’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
+- **Innate Spellcasting:** The haleshi's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
 3/day each: charm person, invisibility (self only)
 1/day each: major image, water walk, zone of truth
 
@@ -31,7 +31,7 @@
 
 - **Multiattack:** The haleshi makes two attacks with its stupefying touch.
 - **Stupefying Touch:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 16 (3d8 + 3) psychic damage, and the target must succeed on a DC 15 Intelligence saving throw or be incapacitated until the end of its next turn.
-- **Clamport (3/Day):** The haleshi touches a clam within 5 feet of it, which enlarges and swallows the haleshi and up to three willing Medium or smaller creatures within 15 feet of the haleshi. The clam then teleports to a body of water the haleshi has visited that is large enough to hold the clam’s passengers and releases them. After releasing the passengers, the clam returns to normal.
+- **Clamport (3/Day):** The haleshi touches a clam within 5 feet of it, which enlarges and swallows the haleshi and up to three willing Medium or smaller creatures within 15 feet of the haleshi. The clam then teleports to a body of water the haleshi has visited that is large enough to hold the clam's passengers and releases them. After releasing the passengers, the clam returns to normal.
 
 ### Reactions
 

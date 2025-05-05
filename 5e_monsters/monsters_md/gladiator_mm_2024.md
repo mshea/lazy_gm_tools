@@ -17,6 +17,7 @@
 | CHA | 15 | +2 | +2 |
 
 - **Skills**: Athletics +10, Performance +5
+- **Gear** Shield, Spear x 3, Studded Leather Armor
 - **Senses**: Passive Perception 11
 - **Languages**: Common
 - **CR** 5 (XP 1,800; PB +3)

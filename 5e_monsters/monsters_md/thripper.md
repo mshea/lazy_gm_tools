@@ -20,7 +20,7 @@
 
 ### Special Abilities
 
-- **Feybane Weapons:** Its weapons are cold iron and are magical when used vs. fey. When it hits a fey with any weapon the weapon’s damage is force instead of its normal damage type.
+- **Feybane Weapons:** Its weapons are cold iron and are magical when used vs. fey. When it hits a fey with any weapon the weapon's damage is force instead of its normal damage type.
 - **Fey Sense:** Can pinpoint by scent the location of fey within 60' of it and can sense the general direction of fey within 1 mile of it.
 - **Soft Wings:** Can fly up to 40' on its turn but must start and end its move on solid surface (roof ground etc.). If it is flying at the end of its turn it falls to the ground and takes falling damage.
 
@@ -32,6 +32,6 @@
 
 ### Reactions
 
-- **Glamour Counter:** When creature thripper can see within 30' of it casts spell can counter the spell. This works like counterspell spell with +6 spellcasting ability check except thripper can counter only enchantment or illusion spells and it must make the ability check regardless of spell’s level.
+- **Glamour Counter:** When creature thripper can see within 30' of it casts spell can counter the spell. This works like counterspell spell with +6 spellcasting ability check except thripper can counter only enchantment or illusion spells and it must make the ability check regardless of spell's level.
 
 

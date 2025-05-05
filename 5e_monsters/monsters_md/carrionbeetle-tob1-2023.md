@@ -25,4 +25,4 @@
 - **Multiattack:** The beetle makes one Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft, one target. Hit: 10 (1d12 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
-- **Acid Spit (Recharge 5–6):** The carrion beetle spits acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 26 (4d12) acid damage on a failed save, or half as much damage on a successful one.
+- **Acid Spit (Recharge 5-6):** The carrion beetle spits acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 26 (4d12) acid damage on a failed save, or half as much damage on a successful one.

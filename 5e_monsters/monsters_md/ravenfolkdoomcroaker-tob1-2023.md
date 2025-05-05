@@ -25,7 +25,7 @@
 
 - **Magic Resistance:** The doom croaker has advantage on saving throws against spells and other magical effects.
 - **Mimicry:** The ravenfolk doom croaker can mimic animal sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 15 Wisdom (Insight) check.
-- **Rune-Powered Weapons:** The ravenfolk’s weapon attacks are magical. When the ravenfolk hits with any weapon, the weapon deals an extra 2d8 radiant damage (included in the attack).
+- **Rune-Powered Weapons:** The ravenfolk's weapon attacks are magical. When the ravenfolk hits with any weapon, the weapon deals an extra 2d8 radiant damage (included in the attack).
 
 ### Actions
 

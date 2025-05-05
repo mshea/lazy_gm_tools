@@ -24,7 +24,7 @@
 - **Final Fury:** When reduced to 0 hp its head and neck separate from body. Snake-like remnant immediately attacks nearest creature moving up to its speed if necessary even if it has already taken its turn this round. This remnant has same stats as original tigebra except it is Medium has 30 hp and can make only one Bite on its turn. Head remains active for 1d4 rounds or until killed.
 - **Keen Hearing and Smell:** Has advantage on Wis (Perception) checks that rely on hearing or smell.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
-- **Potent Poison:** A creature that normally has resistance to poison doesn’t have resistance to the tigebra’s poison. If a creature normally has immunity to poison it has resistance to the tigebra’s poison instead.
+- **Potent Poison:** A creature that normally has resistance to poison doesn't have resistance to the tigebra's poison. If a creature normally has immunity to poison it has resistance to the tigebra's poison instead.
 
 ### Actions
 
@@ -34,6 +34,6 @@
 
 ### Bonus Actions
 
-- **Hypnotic Gaze:** Gazes on one creature it can see within 60' of it. If target can see it: paralyzed until end of its next turn (DC 17 Wis negates immune to tigebra’s Hypnotic Gaze 24 hrs).
+- **Hypnotic Gaze:** Gazes on one creature it can see within 60' of it. If target can see it: paralyzed until end of its next turn (DC 17 Wis negates immune to tigebra's Hypnotic Gaze 24 hrs).
 
 

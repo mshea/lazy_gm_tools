@@ -17,6 +17,7 @@
 | CHA | 11 | +0 | +0 |
 
 - **Skills**: Nature +4, Perception +5, Stealth +6, Survival +5
+- **Gear** Leather Armor, Longbow, Shortsword
 - **Senses**: Passive Perception 15
 - **Languages**: Common plus one other language
 - **CR** 1/2 (XP 100; PB +2)

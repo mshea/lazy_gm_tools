@@ -23,8 +23,8 @@
 
 ### Special Abilities
 
-- **Duelist’s Mobility:** Opportunity attacks made against the duelist have disadvantage. If the duelist is prone at the start of its turn, it can immediately stand without costing movement.
-- **Fey Ancestry:** The shadow fey has advantage on saving throws against being charmed, and magic can’t put it to sleep.
+- **Duelist's Mobility:** Opportunity attacks made against the duelist have disadvantage. If the duelist is prone at the start of its turn, it can immediately stand without costing movement.
+- **Fey Ancestry:** The shadow fey has advantage on saving throws against being charmed, and magic can't put it to sleep.
 - **Sunlight Sensitivity:** While in sunlight, the shadow fey has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 ### Actions

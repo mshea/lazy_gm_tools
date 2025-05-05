@@ -19,7 +19,7 @@
 
 ### Special Abilities
 
-- **Lubricious Plumage:** Its skin exudes an oil that permeates its plumage. The moon weaver can’t be restrained by magical or nonmagical webbing and it ignores all movement restrictions caused by webbing.
+- **Lubricious Plumage:** Its skin exudes an oil that permeates its plumage. The moon weaver can't be restrained by magical or nonmagical webbing and it ignores all movement restrictions caused by webbing.
 
 ### Actions
 

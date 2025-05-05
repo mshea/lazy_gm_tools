@@ -33,6 +33,6 @@
 
 ### Reactions
 
-- **Runic Shield:** Adds 4 to its AC vs. one attack that would hit it as green runes encircle the giant. To do so giant must see the attacker and can’t be invisible
+- **Runic Shield:** Adds 4 to its AC vs. one attack that would hit it as green runes encircle the giant. To do so giant must see the attacker and can't be invisible
 
 

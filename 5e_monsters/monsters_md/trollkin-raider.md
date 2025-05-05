@@ -18,8 +18,8 @@
 
 ### Special Abilities
 
-- **Regeneration:** The trollkin regains 1 hp at the start of its turn. If the trollkin takes acid or fire damage, this trait doesn’t function at the start of the trollkin’s next turn. The trollkin dies only if it starts its turn with 0 hp and doesn’t regenerate.
-- **Thick Hide:** The trollkin’s skin is thick and tough, granting it a +1 bonus to Armor Class. This bonus is included in the trollkin’s AC.
+- **Regeneration:** The trollkin regains 1 hp at the start of its turn. If the trollkin takes acid or fire damage, this trait doesn't function at the start of the trollkin's next turn. The trollkin dies only if it starts its turn with 0 hp and doesn't regenerate.
+- **Thick Hide:** The trollkin's skin is thick and tough, granting it a +1 bonus to Armor Class. This bonus is included in the trollkin's AC.
 
 ### Actions
 

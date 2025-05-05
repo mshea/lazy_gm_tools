@@ -16,6 +16,7 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 14 | +2 | +4 |
 
+- **Gear** Dagger x 6, Leather Armor
 - **Senses**: Passive Perception 11
 - **Languages**: Common plus one other language
 - **CR** 1 (XP 200; PB +2)

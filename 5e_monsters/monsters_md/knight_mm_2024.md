@@ -17,6 +17,7 @@
 | CHA | 15 | +2 | +2 |
 
 - **Immunities**: Frightened
+- **Gear** Greatsword, Heavy Crossbow, Plate Armor
 - **Senses**: Passive Perception 10
 - **Languages**: Common plus one other language
 - **CR** 3 (XP 700; PB +2)

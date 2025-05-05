@@ -20,7 +20,7 @@
 ### Special Abilities
 
 - **Infernal Runes:** Its tattoos give it a +2 bonus to its AC (included above). In addition the ogre has advantage on saves vs. spells and other magical effects.
-- **Unholy Blade:** Infused with unholy power the ogre’s weapon attacks are magical. When it hits with any weapon weapon deals an extra 2d6 necrotic (included below).
+- **Unholy Blade:** Infused with unholy power the ogre's weapon attacks are magical. When it hits with any weapon weapon deals an extra 2d6 necrotic (included below).
 
 ### Actions
 

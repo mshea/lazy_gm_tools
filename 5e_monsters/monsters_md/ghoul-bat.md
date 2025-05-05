@@ -20,8 +20,8 @@
 
 ### Special Abilities
 
-- **Echolocation:** The ghoul bat can’t use its blindsight while deafened.
-- **Keen Hearing:** The ghoul bat has advantage on Wisdom (Perception) checks that rely on hearing. Undead Nature. Ghoul bats don’t require air, food, drink, or sleep.
+- **Echolocation:** The ghoul bat can't use its blindsight while deafened.
+- **Keen Hearing:** The ghoul bat has advantage on Wisdom (Perception) checks that rely on hearing. Undead Nature. Ghoul bats don't require air, food, drink, or sleep.
 
 ### Actions
 

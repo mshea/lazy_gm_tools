@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Eldritch Weapons:** The noctiny’s weapon attacks are magical. When the noctiny hits with any weapon, the weapon deals an extra 1d6 force damage (included in the attack).
+- **Eldritch Weapons:** The noctiny's weapon attacks are magical. When the noctiny hits with any weapon, the weapon deals an extra 1d6 force damage (included in the attack).
 - **Magic Resistance:** The noctiny has advantage on saving throws against spells and other magical effects.
 
 ### Actions

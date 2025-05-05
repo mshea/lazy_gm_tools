@@ -21,8 +21,8 @@
 
 ### Special Abilities
 
-- **Elemental Nature:** Doesn’t require air food drink or sleep.
-- **Stinging Dust:** Is surrounded by a cloud of swirling dust and small stones. A creature that starts its turn within 5 ft. of the khamaseen must make DC 12 Con save or have disadvantage on attack rolls until the start of its next turn. On a successful save the creature is immune to the khamaseen’s Stinging Dust for the next 24 hrs.
+- **Elemental Nature:** Doesn't require air food drink or sleep.
+- **Stinging Dust:** Is surrounded by a cloud of swirling dust and small stones. A creature that starts its turn within 5 ft. of the khamaseen must make DC 12 Con save or have disadvantage on attack rolls until the start of its next turn. On a successful save the creature is immune to the khamaseen's Stinging Dust for the next 24 hrs.
 
 ### Actions
 

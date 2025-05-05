@@ -25,7 +25,7 @@
 - **Forest Cleanser:** When the ashen custodian hits a plant or plant creature with her Cleansing Strike, the target takes an extra 2d8 fire damage.
 - **Magic Resistance:** The ashen custodian has advantage on saving throws against spells and other magical effects.
 - **Warming Presence:** When a hostile creature starts its turn within 10 feet of the ashen custodian, the creature must succeed on a DC 15 Constitution saving throw or take 3 (1d6) fire damage. When a friendly creature within 10 feet of the ashen custodian regains hp, the creature regains an extra 1d6 hp.
-- **Innate Spellcasting:** The ashen custodian’s innate spellcasting ability is Charisma (spell save DC 15). The ashen custodian can innately cast the following spells, requiring no material components:
+- **Innate Spellcasting:** The ashen custodian's innate spellcasting ability is Charisma (spell save DC 15). The ashen custodian can innately cast the following spells, requiring no material components:
 At will: druidcraft, produce flame
 3/day each: burning hands, cure wounds, flame blade, fog cloud
 1/day each: conjure elemental (fire elemental only), wall of fire

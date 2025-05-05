@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Magic Resistance:** The ramag has advantage on saving throws against spells or other magical effects.
-- **Portal Sense:** The ramag can pinpoint the location of planar portals within 100 feet of it and can sense the general direction of planar portals within 1 mile of it. In addition, if the ramag spends 10 minutes studying a portal, it can determine the portal’s destination and any requirements to use or activate it.
+- **Portal Sense:** The ramag can pinpoint the location of planar portals within 100 feet of it and can sense the general direction of planar portals within 1 mile of it. In addition, if the ramag spends 10 minutes studying a portal, it can determine the portal's destination and any requirements to use or activate it.
 
 ### Actions
 
@@ -32,4 +32,4 @@
 
 ### Bonus Actions
 
-- **Portal Traveler (Recharge 5–6):** The ramag creates and steps into a small portal and out of an identical portal in a space it can see within 60 feet of it. If a creature is in the destination space, the creature must make a DC 13 Intelligence saving throw. On a failure, the ramag trades spaces with the creature. On a success, the ramag fails to teleport. Whatever the result, the portal disappears.
+- **Portal Traveler (Recharge 5-6):** The ramag creates and steps into a small portal and out of an identical portal in a space it can see within 60 feet of it. If a creature is in the destination space, the creature must make a DC 13 Intelligence saving throw. On a failure, the ramag trades spaces with the creature. On a success, the ramag fails to teleport. Whatever the result, the portal disappears.

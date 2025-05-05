@@ -24,7 +24,7 @@
 
 - **Hungry Dead Nature:** The darakhul requires no air or sleep.
 - **Master of Disguise:** A darakhul in a prepared disguise has advantage on Charisma (Deception) checks made to pass as a living creature. While using this ability, it loses its Stench.
-- **Stench:** Any creature that starts its turn within 5 feet of the darakhul must succeed on a DC 12 Constitution saving throw or be poisoned until the start of its next turn. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the darakhul’s Stench for the next 24 hours. A darakhul using this ability can’t also benefit from Master of Disguise.
+- **Stench:** Any creature that starts its turn within 5 feet of the darakhul must succeed on a DC 12 Constitution saving throw or be poisoned until the start of its next turn. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the darakhul's Stench for the next 24 hours. A darakhul using this ability can't also benefit from Master of Disguise.
 - **Sunlight Sensitivity:** While in sunlight, the darakhul has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 - **Turning Defiance:** The darakhul and any ghouls within 30 feet of it have advantage on saving throws against effects that turn Undead.
 

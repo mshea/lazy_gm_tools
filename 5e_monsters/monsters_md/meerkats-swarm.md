@@ -20,7 +20,7 @@
 
 ### Special Abilities
 
-- **Corral:** A creature in the swarm’s space must make DC 12 Dex save to leave its space. The creature has advantage on its save if the swarm has half of its hp or fewer.
+- **Corral:** A creature in the swarm's space must make DC 12 Dex save to leave its space. The creature has advantage on its save if the swarm has half of its hp or fewer.
 - **Keen Sight:** Advantage: sight Wis (Percept) checks.
 - **Snake Hunter:** Has advantage on saves vs. being poisoned.
 - **Swarm:** Can occupy another creature's space and vice versa and swarm can move through any opening large enough for a Tiny meerkat. Swarm can't regain hp or gain temp hp.

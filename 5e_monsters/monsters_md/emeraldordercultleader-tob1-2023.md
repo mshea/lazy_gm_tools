@@ -23,9 +23,9 @@
 
 ### Special Abilities
 
-- **Blessed Weapons:** The cult leader’s weapons are blessed by its deity, and its weapon attacks are magical. When the cult leader hits with any weapon, the weapon deals an extra 3d8 radiant damage (included in the attack).
+- **Blessed Weapons:** The cult leader's weapons are blessed by its deity, and its weapon attacks are magical. When the cult leader hits with any weapon, the weapon deals an extra 3d8 radiant damage (included in the attack).
 - **Divine Blessing:** While the cult leader is conscious and wearing no armor and wielding no shield, it adds its Wisdom modifier to its Armor Class (included above). In addition, it has advantage on saving throws against being charmed or frightened.
-- **Prophetic Tactics:** The cult leader has advantage on initiative rolls. In addition, at the start of each of the cult leader’s turns, one friendly creature within 30 feet of the cult leader has advantage on the first attack roll it makes before the start of the cult leader’s next turn.
+- **Prophetic Tactics:** The cult leader has advantage on initiative rolls. In addition, at the start of each of the cult leader's turns, one friendly creature within 30 feet of the cult leader has advantage on the first attack roll it makes before the start of the cult leader's next turn.
 
 ### Actions
 

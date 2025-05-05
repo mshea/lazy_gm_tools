@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Leaping Pounce:** If the war ostrich jumps at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the ostrich can make one Beak attack against it as a bonus action.
-- **Standing Leap:** The war ostrich’s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
+- **Standing Leap:** The war ostrich's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
 ### Actions
 

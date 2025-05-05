@@ -21,8 +21,8 @@
 
 - **Arcane Weapons:** Its weapon attacks are magical. When it hits with any weapon weapon deals extra 2d4 force (included below).
 - **Dedicated Warrior:** The myrmidon has advantage on saves vs. being charmed and frightened.
-- **Limited Magic Immunity:** Can’t be affected or detected by spells of 1st level or lower unless it wishes to be. Has advantage on saves vs. all other spells and magical effects.
-- **Tiger Tag Team:** Advantage on attack rolls vs. a creature if 1+ friendly rakshasa is within 5 ft. of creature and that rakshasa isn’t incapacitated.
+- **Limited Magic Immunity:** Can't be affected or detected by spells of 1st level or lower unless it wishes to be. Has advantage on saves vs. all other spells and magical effects.
+- **Tiger Tag Team:** Advantage on attack rolls vs. a creature if 1+ friendly rakshasa is within 5 ft. of creature and that rakshasa isn't incapacitated.
 
 ### Actions
 

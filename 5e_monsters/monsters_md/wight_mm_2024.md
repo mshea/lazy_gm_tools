@@ -19,6 +19,7 @@
 - **Resistances**: Necrotic
 - **Immunities**: Poison; Exhaustion, Poisoned
 - **Skills**: Perception +3, Stealth +4
+- **Gear** Studded Leather Armor
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **Languages**: Common plus one other language
 - **CR** 3 (XP 700; PB +2)

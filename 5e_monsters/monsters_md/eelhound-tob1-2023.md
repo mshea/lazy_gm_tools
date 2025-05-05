@@ -23,11 +23,11 @@
 ### Special Abilities
 
 - **Amphibious:** The eel hound can breathe air and water.
-- **Pack Tactics:** The eel hound has advantage on attack rolls against a creature if at least one of the hound’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The eel hound has advantage on attack rolls against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the hound can’t Bite another target.
+- **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the hound can't Bite another target.
 - **Slick Spittle:** The eel hound covers the ground in a 5-foot square centered on a point it can see within 10 feet of it with its slippery spittle. Each creature standing in that area must succeed on a DC 13 Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a DC 13 Dexterity saving throw or fall prone. The spittle remains on the ground for 1 minute.
 
 ### Bonus Actions

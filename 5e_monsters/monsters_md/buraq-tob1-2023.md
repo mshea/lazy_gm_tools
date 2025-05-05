@@ -23,9 +23,9 @@
 
 ### Special Abilities
 
-- **Angelic Weapons:** The buraq’s attacks are magical. When the buraq hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
+- **Angelic Weapons:** The buraq's attacks are magical. When the buraq hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
 - **Magic Resistance:** The buraq has advantage on saving throws against spells and other magical effects.
-- **Night Journey:** When outdoors at night, the distance of the buraq’s vision is not limited by nonmagical darkness. Once per month, the buraq can declare it is on a night journey, and for the next 24 hours, it can Teleport as a bonus action. When on a night journey, the buraq can teleport as often as it wants, and its destination must always be in an area of nonmagical darkness within its line of sight. At any point during the night journey, the buraq can use a bonus action to return itself and its rider to the location where it began the night journey.
+- **Night Journey:** When outdoors at night, the distance of the buraq's vision is not limited by nonmagical darkness. Once per month, the buraq can declare it is on a night journey, and for the next 24 hours, it can Teleport as a bonus action. When on a night journey, the buraq can teleport as often as it wants, and its destination must always be in an area of nonmagical darkness within its line of sight. At any point during the night journey, the buraq can use a bonus action to return itself and its rider to the location where it began the night journey.
 - **Powerful Steed:** The buraq is considered to be a Large animal for the purpose of determining its carrying capacity and its ability to carry a rider.
 
 ### Actions

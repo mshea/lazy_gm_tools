@@ -23,10 +23,10 @@
 
 ### Special Abilities
 
-- **Last Laugh:** Unless it is destroyed in a manner amusing to the god of death that created it, the grim jester gains a new body in 1d20 days, regaining all its hp and becoming active again. The new body appears in a place of the god’s choosing.
+- **Last Laugh:** Unless it is destroyed in a manner amusing to the god of death that created it, the grim jester gains a new body in 1d20 days, regaining all its hp and becoming active again. The new body appears in a place of the god's choosing.
 - **Mock the Dying:** Death saving throws made within 60 feet of the grim jester have disadvantage.
 - **Turn Resistance:** The grim jester has advantage on saving throws against any effect that turns undead.
-- **Undead Nature:** The grim jester doesn’t require air, food, drink, or sleep.
+- **Undead Nature:** The grim jester doesn't require air, food, drink, or sleep.
 
 ### Actions
 
@@ -36,4 +36,4 @@
 
 ### Bonus Actions
 
-- **Joker’s Shuffle (Recharge 6):** The grim jester exchanges locations with a Medium or smaller creature it can see within 60 feet of it. The jester and target each teleport to the other’s space, and each becomes covered in a magical illusion to look and sound like the other. A creature must take an action to visually inspect an illusion and succeed on a DC 19 Intelligence (Investigation) check to discern that the jester and target are disguised. The illusions last for 1 minute, until the jester dies, or until the jester dismisses them as a bonus action.
+- **Joker's Shuffle (Recharge 6):** The grim jester exchanges locations with a Medium or smaller creature it can see within 60 feet of it. The jester and target each teleport to the other's space, and each becomes covered in a magical illusion to look and sound like the other. A creature must take an action to visually inspect an illusion and succeed on a DC 19 Intelligence (Investigation) check to discern that the jester and target are disguised. The illusions last for 1 minute, until the jester dies, or until the jester dismisses them as a bonus action.

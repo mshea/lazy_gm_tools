@@ -18,7 +18,7 @@
 
 ### Special Abilities
 
-- **Regeneration:** Gains 3 hp at the start of its turn. If the trollkin takes acid or fire this ability doesn’t function at the start of its next turn. It dies only if it starts its turn with 0 hp and doesn’t regenerate.
+- **Regeneration:** Gains 3 hp at the start of its turn. If the trollkin takes acid or fire this ability doesn't function at the start of its next turn. It dies only if it starts its turn with 0 hp and doesn't regenerate.
 - **Thick Skin:** Its skin is thick and tough granting it a +1 bonus to Armor Class (already factored into its AC).
 
 ### Actions

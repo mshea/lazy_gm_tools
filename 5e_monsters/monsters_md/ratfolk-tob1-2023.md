@@ -22,8 +22,8 @@
 
 ### Special Abilities
 
-- **Nimbleness:** The ratfolk can move through the space of any Medium or larger hostile creature, and such a space isn’t difficult terrain for the ratfolk.
-- **Pack Tactics:** The ratfolk has advantage on attack rolls against a creature if at least one of the ratfolk’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Nimbleness:** The ratfolk can move through the space of any Medium or larger hostile creature, and such a space isn't difficult terrain for the ratfolk.
+- **Pack Tactics:** The ratfolk has advantage on attack rolls against a creature if at least one of the ratfolk's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions
 

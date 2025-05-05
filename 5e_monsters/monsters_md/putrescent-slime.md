@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **Amorphous:** The putrescent slime can move through a space as narrow as 1 inch wide without squeezing.
-- **Stench:** Any creature that starts its turn within 5 feet of the putrescent slime must succeed on a DC 13 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the putrescent slime’s Stench for 24 hours.
+- **Stench:** Any creature that starts its turn within 5 feet of the putrescent slime must succeed on a DC 13 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the putrescent slime's Stench for 24 hours.
 
 ### Actions
 

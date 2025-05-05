@@ -21,8 +21,8 @@
 
 ### Special Abilities
 
-- **Blood Frenzy:** The kembingur has advantage on melee attack rolls against any creature that doesn’t have all its hp.
-- **Blood Scent:** The kembingur can smell blood in the water within 5 miles of it. It can determine whether the blood is fresh or old and what type of creature shed the blood. In addition, the kembingur has advantage on Wisdom (Perception) and Wisdom (Survival) checks to find or track a creature that doesn’t have all its hp.
+- **Blood Frenzy:** The kembingur has advantage on melee attack rolls against any creature that doesn't have all its hp.
+- **Blood Scent:** The kembingur can smell blood in the water within 5 miles of it. It can determine whether the blood is fresh or old and what type of creature shed the blood. In addition, the kembingur has advantage on Wisdom (Perception) and Wisdom (Survival) checks to find or track a creature that doesn't have all its hp.
 - **Hold Breath:** The kembingur can hold its breath for 1 hour.
 - **Siege Monster:** The kembingur deals double damage to objects and structures.
 

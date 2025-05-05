@@ -29,7 +29,7 @@
 - **Multiattack:** Three Slams or two Muck-Coated Slam attacks.
 - **Slam:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 14 (2d8+5) bludgeoning damage.
 - **Muck-Coated Slam (Saturated Only):** Melee Weapon Attack: +8 to hit, 10 ft., one target, 24 (3d12+5) bludgeoning damage and the target: DC 15 Dex save or its speed is reduced by 10 ft. as mud and muck coat it. A creature including target can take an action to clean off the mud and muck.
-- **Water Jet (Saturated Only Recharge 4–6):** Releases all absorbed water as a powerful jet in a 60' line that is 5 ft. wide. Each creature in that line: 40 (9d8) bludgeoning damage and is pushed up to 15 ft. away from it and knocked prone (DC 14 Dex half damage and isn’t pushed or knocked prone). After using Water Jet it is no longer saturated.
+- **Water Jet (Saturated Only Recharge 4-6):** Releases all absorbed water as a powerful jet in a 60' line that is 5 ft. wide. Each creature in that line: 40 (9d8) bludgeoning damage and is pushed up to 15 ft. away from it and knocked prone (DC 14 Dex half damage and isn't pushed or knocked prone). After using Water Jet it is no longer saturated.
 
 ### Bonus Actions
 

@@ -19,7 +19,7 @@
 ### Special Abilities
 
 - **Calming Presence:** A creature that enters a space within 5 ft. of weevil or that starts its turn there: DC 13 Cha save or be indifferent to all creatures that it is hostile toward while it remains within 60' of weevil. This indifference ends if the creature is attacked or harmed by a spell or if it witnesses any of its allies being harmed.
-- **Diligent Preservation:** A creature that isn’t a Construct or Undead and that starts its turn with 0 hp within 60' of weevil becomes stable. In addition any corpse within 60' of weevil is protected from decay and can’t become Undead while it remains within 60' of weevil and for 24 hrs after it leaves the area.
+- **Diligent Preservation:** A creature that isn't a Construct or Undead and that starts its turn with 0 hp within 60' of weevil becomes stable. In addition any corpse within 60' of weevil is protected from decay and can't become Undead while it remains within 60' of weevil and for 24 hrs after it leaves the area.
 
 ### Actions
 

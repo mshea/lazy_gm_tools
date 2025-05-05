@@ -17,6 +17,7 @@
 | CHA | 16 | +3 | +3 |
 
 - **Skills**: Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of hand +4, Stealth +6
+- **Gear** Hand Crossbow, Shortsword, Thieves' Tools
 - **Senses**: Passive Perception 16
 - **Languages**: Common plus one other language
 - **CR** 1 (XP 200; PB +2)

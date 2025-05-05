@@ -16,20 +16,20 @@
 - **Damage Resistances:** poison
 - **Condition Immunities:** exhaustion, paralyzed, petrified, poisoned, prone, unconscious
 - **Senses:** blindsight 60', passive Perception 12
-- **Languages:** understands Terran but can’t speak
+- **Languages:** understands Terran but can't speak
 
 ### Special Abilities
 
-- **Elemental Nature:** Doesn’t require air food drink or sleep.
+- **Elemental Nature:** Doesn't require air food drink or sleep.
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
-- **Limited Telepathy:** Magically transmit simple messages and images to any creature within 120' of it that can understand a language. This telepathy doesn’t allow receiving creature to telepathically respond.
+- **Limited Telepathy:** Magically transmit simple messages and images to any creature within 120' of it that can understand a language. This telepathy doesn't allow receiving creature to telepathically respond.
 - **Spider Climb:** Difficult surfaces even ceilings no ability check.
-- **Stone Walk:** Difficult terrain composed of earth or stone doesn’t cost the myrmex extra movement.
+- **Stone Walk:** Difficult terrain composed of earth or stone doesn't cost the myrmex extra movement.
 
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +3 to hit, 5 ft., one target, 5 (1d4+3) piercing damage + 3 (1d6) poison.
-- **Earth Shift:** Ranged Spell Attack: +2 to hit 60' 1 tgt in contact with the ground. Target is pushed up to 10 ft. in a direction of myrmex’s choice and its speed is reduced by 5 ft. until end of its next turn.
+- **Earth Shift:** Ranged Spell Attack: +2 to hit 60' 1 tgt in contact with the ground. Target is pushed up to 10 ft. in a direction of myrmex's choice and its speed is reduced by 5 ft. until end of its next turn.
 
 ### Bonus Actions
 

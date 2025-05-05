@@ -22,7 +22,7 @@
 
 - **Undead Commander:** As a bonus action, the destroyer commands an undead ally within 30 feet of it to use a reaction to make one attack against a creature the destroyer attacked this round.
 - **Void Strength:** The destroyer has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
-- **Void Weapons:** The satarre’s weapon attacks are magical. When the satarre hits with any weapon, the weapon deals an extra 1d8 necrotic damage (included in the attack).
+- **Void Weapons:** The satarre's weapon attacks are magical. When the satarre hits with any weapon, the weapon deals an extra 1d8 necrotic damage (included in the attack).
 
 ### Actions
 

@@ -24,7 +24,7 @@
 - **Diving Head Slam:** If the tetomatli is flying and moves at least 20 feet straight toward a target and then hits it with a head slam attack on the same turn, the tetomatli can use Tremor as a bonus action, if it is available.
 - **Heavy Flier:** The tetomatli can fly up to 30 feet each round, but it must start and end its movement on a solid surface such as a roof or the ground. If it is flying at the end of its turn, it falls to the ground and takes falling damage.
 - **Magic Resistance:** The tetomatli has advantage on saving throws against spells and other magical effects.
-- **Magic Weapons:** The tetomatli’s weapon attacks are magical.
+- **Magic Weapons:** The tetomatli's weapon attacks are magical.
 - **Siege Monster:** The tetomatli deals double damage to objects and structures.
 
 ### Actions

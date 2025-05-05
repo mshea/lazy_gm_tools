@@ -22,7 +22,7 @@
 ### Special Abilities
 
 - **Magic Resistance:** The conjoined queen has advantage on saving throws against spells and other magical effects.
-- **Pheromones:** A creature that starts its turn within 30 feet of the conjoined queen must succeed on a DC 14 Constitution saving throw or be charmed for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. While charmed, the creature drops anything it is holding and is stunned. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the conjoined queen’s Pheromones for the next 24 hours.
+- **Pheromones:** A creature that starts its turn within 30 feet of the conjoined queen must succeed on a DC 14 Constitution saving throw or be charmed for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. While charmed, the creature drops anything it is holding and is stunned. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the conjoined queen's Pheromones for the next 24 hours.
 - **Tunneler:** The queen can burrow through solid rock at half her burrowing speed and leaves a 5-foot-diameter tunnel in her wake.
 - **Spellcasting:** The conjoined queen is a 9th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The queen has the following sorcerer spells prepared:
 Cantrips (at will): acid splash, mage hand, prestidigitation, ray of frost
@@ -37,6 +37,6 @@ Cantrips (at will): acid splash, mage hand, prestidigitation, ray of frost
 - **Multiattack:** The conjoined queen makes two slam attacks and one sting attack.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Sting:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 14 (4d6) poison damage.
-- **Queen’s Wrathful Clattering (1/Day):** The conjoined queen clacks her long chitinous legs together, inciting rage in her allies. Each ally within 60 feet of the queen who can hear her has advantage on its next attack roll, and its speed is increased by 10 until the end of its next turn.
+- **Queen's Wrathful Clattering (1/Day):** The conjoined queen clacks her long chitinous legs together, inciting rage in her allies. Each ally within 60 feet of the queen who can hear her has advantage on its next attack roll, and its speed is increased by 10 until the end of its next turn.
 
 

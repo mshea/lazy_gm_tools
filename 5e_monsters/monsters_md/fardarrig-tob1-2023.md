@@ -24,7 +24,7 @@
 ### Actions
 
 - **Multiattack:** The far darrig makes two Antler Glaive attacks.
-- **Antler Glaive:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) piercing damage or slashing damage (the far darrig’s choice) plus 3 (1d6) force damage. The target must succeed on a DC 13 Strength saving throw or be knocked prone.
+- **Antler Glaive:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) piercing damage or slashing damage (the far darrig's choice) plus 3 (1d6) force damage. The target must succeed on a DC 13 Strength saving throw or be knocked prone.
 - **Woodland Friends (1/Day):** The far darrig magically calls 1d4 elk or giant weasels. The called Beasts arrive in 1d4 rounds, acting as allies of the far darrig and obeying its spoken commands. The Beasts remain for 1 hour, until the far darrig dies, or until the far darrig dismisses them as a bonus action.
 
 ### Bonus Actions

@@ -19,7 +19,7 @@
 
 ### Special Abilities
 
-- **Blood Frenzy:** Has advantage on melee attack rolls vs. a creature that doesn’t have all its hp.
+- **Blood Frenzy:** Has advantage on melee attack rolls vs. a creature that doesn't have all its hp.
 - **Keen Sight and Smell:** Has advantage on Wis (Perception) checks that rely on sight or smell.
 
 ### Actions

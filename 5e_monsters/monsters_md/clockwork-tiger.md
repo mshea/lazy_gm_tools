@@ -33,6 +33,6 @@
 
 ### Reactions
 
-- **Deflecting Leap:** When the clockwork tiger’s ward is the target of an attack the tiger can see, the tiger can move up to 10 feet toward its ward without provoking opportunity attacks. If it ends this movement within 5 feet of its ward, the tiger becomes the target of the attack instead.
+- **Deflecting Leap:** When the clockwork tiger's ward is the target of an attack the tiger can see, the tiger can move up to 10 feet toward its ward without provoking opportunity attacks. If it ends this movement within 5 feet of its ward, the tiger becomes the target of the attack instead.
 
 

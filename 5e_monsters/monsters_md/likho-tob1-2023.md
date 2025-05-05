@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Limited Telepathy:** The likho can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn’t allow the receiving creature to telepathically respond.
+- **Limited Telepathy:** The likho can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
 - **Pounce:** If the likho moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the likho can make one Claw attack against it as a bonus action.
 - **Magic Resistance:** The likho has advantage on saving throws against spells and other magical effects.
 

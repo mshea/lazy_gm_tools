@@ -37,5 +37,5 @@
 
 ## Bonus Actions
 
-***Shadow Stealth.*** While in Dim Light or Darkness, the shadow takes the Hide action.
+***Shadow Stealth.*** While in Dim Light or darkness, the shadow takes the Hide action.
 

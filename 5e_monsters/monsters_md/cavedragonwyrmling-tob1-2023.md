@@ -29,4 +29,4 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 3 (1d6) poison damage.
-- **Poison Breath (Recharge 5–6):** The dragon exhales a cone of black, poisonous gas in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw. On a failure, a creature takes 14 (4d6) poison damage and is poisoned until the end of its next turn. On a success, a creature takes half the damage and isn’t poisoned.
+- **Poison Breath (Recharge 5-6):** The dragon exhales a cone of black, poisonous gas in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw. On a failure, a creature takes 14 (4d6) poison damage and is poisoned until the end of its next turn. On a success, a creature takes half the damage and isn't poisoned.

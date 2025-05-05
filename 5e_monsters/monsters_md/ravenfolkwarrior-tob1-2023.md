@@ -24,7 +24,7 @@
 ### Special Abilities
 
 - **Mimicry:** The ravenfolk warrior can mimic animal sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.
-- **Rune-Powered Weapons:** The ravenfolk’s weapon attacks are magical. When the ravenfolk hits with any weapon, the weapon deals an extra 1d8 radiant damage (included in the attack).
+- **Rune-Powered Weapons:** The ravenfolk's weapon attacks are magical. When the ravenfolk hits with any weapon, the weapon deals an extra 1d8 radiant damage (included in the attack).
 
 ### Actions
 
@@ -36,4 +36,4 @@
 
 ### Reactions
 
-- **Odin’s Call (Recharge 6):** When the ravenfolk warrior takes damage while below half its hp maximum, it moves up to half its speed without provoking opportunity attacks.
+- **Odin's Call (Recharge 6):** When the ravenfolk warrior takes damage while below half its hp maximum, it moves up to half its speed without provoking opportunity attacks.

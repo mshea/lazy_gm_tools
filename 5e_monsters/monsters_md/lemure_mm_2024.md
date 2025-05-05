@@ -18,7 +18,7 @@
 
 - **Resistances**: Cold
 - **Immunities**: Fire, Poison; Charmed, Frightened, Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical {@variantrule Darkness|XPHB}); Passive Perception 10
+- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
 - **Languages**: Understands Infernal but can't speak
 - **CR** 0 (XP 0 or 10; PB +2)
 

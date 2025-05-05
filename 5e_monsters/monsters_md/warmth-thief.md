@@ -22,8 +22,8 @@
 
 ### Special Abilities
 
-- **Aura of Warmth Stealing:** At the start of each of the warmth thief’s turns, each creature within 5 feet of the warmth thief must succeed on a DC 16 Constitution saving throw or take 7 (2d6) cold damage. The warmth thief regains hp equal to the single highest amount of cold damage dealt.
-- **Cold Physiology:** A warmth thief can’t abide constant warmth. Each hour it spends in an area with a temperature above 40 degrees Fahrenheit, the warmth thief must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion that can’t be removed until it finishes a long rest in an area with a temperature below 40 degrees.
+- **Aura of Warmth Stealing:** At the start of each of the warmth thief's turns, each creature within 5 feet of the warmth thief must succeed on a DC 16 Constitution saving throw or take 7 (2d6) cold damage. The warmth thief regains hp equal to the single highest amount of cold damage dealt.
+- **Cold Physiology:** A warmth thief can't abide constant warmth. Each hour it spends in an area with a temperature above 40 degrees Fahrenheit, the warmth thief must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion that can't be removed until it finishes a long rest in an area with a temperature below 40 degrees.
 
 ### Actions
 

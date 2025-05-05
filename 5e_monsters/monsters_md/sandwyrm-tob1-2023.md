@@ -29,4 +29,4 @@
 
 ### Reactions
 
-- **Spine Trap:** When the sandwyrm is burrowed just below the surface of sand with its back spines exposed and a Medium or smaller creature enters the spines’ space, the sandwyrm closes the spines on the creature. The creature must succeed on a DC 15 Dexterity saving throw or be restrained. When the sandwyrm moves, a restrained creature moves with it. The sandwyrm can have only one creature restrained at a time. A creature, including the restrained creature, can take an action to free the restrained creature by succeeding on a DC 15 Strength check.
+- **Spine Trap:** When the sandwyrm is burrowed just below the surface of sand with its back spines exposed and a Medium or smaller creature enters the spines' space, the sandwyrm closes the spines on the creature. The creature must succeed on a DC 15 Dexterity saving throw or be restrained. When the sandwyrm moves, a restrained creature moves with it. The sandwyrm can have only one creature restrained at a time. A creature, including the restrained creature, can take an action to free the restrained creature by succeeding on a DC 15 Strength check.

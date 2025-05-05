@@ -26,7 +26,7 @@
 - **Incorporeal Movement:** The haugbui can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 - **Sunlight Sensitivity:** While in sunlight, the haugbui has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 - **Turn Resistance:** The haugbui has advantage on saving throws against any effect that turns undead.
-- **Undead Nature:** The hangbui doesn’t require air, food, drink, or sleep.
+- **Undead Nature:** The hangbui doesn't require air, food, drink, or sleep.
 
 ### Actions
 
@@ -37,4 +37,4 @@
 
 ### Bonus Actions
 
-- **Sepulchral Scrying (Recharge 6):** While within 1 mile of its burial mound, the haugbui creates an invisible sensor within 5 miles of the mound for 1 minute. When it uses this bonus action and as a bonus action on each of its turns for the duration, the haugbui can switch between using its own senses and projecting its senses through the sensor. While projecting its senses through the sensor, it can see, hear, telepathically communicate, and cast spells as if it was in the sensor’s space, and it is blinded and deafened with regard to its own senses. The sensor can be dispelled (DC 14).
+- **Sepulchral Scrying (Recharge 6):** While within 1 mile of its burial mound, the haugbui creates an invisible sensor within 5 miles of the mound for 1 minute. When it uses this bonus action and as a bonus action on each of its turns for the duration, the haugbui can switch between using its own senses and projecting its senses through the sensor. While projecting its senses through the sensor, it can see, hear, telepathically communicate, and cast spells as if it was in the sensor's space, and it is blinded and deafened with regard to its own senses. The sensor can be dispelled (DC 14).

@@ -23,8 +23,8 @@
 
 ### Special Abilities
 
-- **Alchemical Fireball:** The clockwork myrmidon’s alchemical flame reservoir explodes when the construct is destroyed, spraying nearby creatures with burning fuel. Each creature within 10 feet of the myrmidon when it is destroyed must make a DC 16 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. This explosion doesn’t occur if the clockwork myrmidon has already fired its alchemical flame jet four times.
-- **Construct Nature:** The clockwork myrmidon doesn’t require air, food, drink, or sleep.
+- **Alchemical Fireball:** The clockwork myrmidon's alchemical flame reservoir explodes when the construct is destroyed, spraying nearby creatures with burning fuel. Each creature within 10 feet of the myrmidon when it is destroyed must make a DC 16 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. This explosion doesn't occur if the clockwork myrmidon has already fired its alchemical flame jet four times.
+- **Construct Nature:** The clockwork myrmidon doesn't require air, food, drink, or sleep.
 - **Immutable Form:** The clockwork myrmidon is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The clockwork myrmidon has advantage on saving throws against spells and other magical effects.
 
@@ -37,4 +37,4 @@
 
 ### Bonus Actions
 
-- **Grease Spray (4/Day):** The clockwork myrmidon’s chest fires a spray of alchemical grease on a point on the ground within 30 feet of it. The grease covers a 10-foot square centered on that point, and the area is difficult terrain. Each creature standing in the area must succeed on a DC 16 Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a DC 16 Dexterity saving throw or fall prone.
+- **Grease Spray (4/Day):** The clockwork myrmidon's chest fires a spray of alchemical grease on a point on the ground within 30 feet of it. The grease covers a 10-foot square centered on that point, and the area is difficult terrain. Each creature standing in the area must succeed on a DC 16 Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a DC 16 Dexterity saving throw or fall prone.

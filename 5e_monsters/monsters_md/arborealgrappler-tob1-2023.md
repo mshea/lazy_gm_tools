@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Boscage Brachiation:** The arboreal grappler doesn’t provoke opportunity attacks when it climbs out of an enemy’s reach.
+- **Boscage Brachiation:** The arboreal grappler doesn't provoke opportunity attacks when it climbs out of an enemy's reach.
 - **Mobile Grappler:** The arboreal grappler can move at its full speed when dragging a Medium or smaller creature it has grappled.
 - **Spider Climb:** The arboreal grappler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 

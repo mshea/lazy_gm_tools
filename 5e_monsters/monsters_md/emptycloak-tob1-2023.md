@@ -23,10 +23,10 @@
 
 ### Special Abilities
 
-- **Construct Nature:** The empty cloak doesn’t require air, food, drink, or sleep.
+- **Construct Nature:** The empty cloak doesn't require air, food, drink, or sleep.
 - **Diligent Sentinel:** The empty cloak has advantage on Wisdom (Perception) checks.
 - **Shadow Construction:** Made mostly of shadow, the empty cloak bursts into pieces then dissipates when a creature scores a critical hit against it.
-- **Wrapping Embrace:** The empty cloak can occupy a Medium or smaller creature’s space and vice versa. It has advantage on attack rolls against any creature in the same space as it.
+- **Wrapping Embrace:** The empty cloak can occupy a Medium or smaller creature's space and vice versa. It has advantage on attack rolls against any creature in the same space as it.
 
 ### Actions
 
@@ -36,4 +36,4 @@
 
 ### Bonus Actions
 
-- **Protective Embrace:** When a creature the cloak can see attacks a creature in the cloak’s space, the cloak can briefly wrap itself around the creature in its space. The creature in its space takes only half the damage from the attack, and the cloak takes the other half.
+- **Protective Embrace:** When a creature the cloak can see attacks a creature in the cloak's space, the cloak can briefly wrap itself around the creature in its space. The creature in its space takes only half the damage from the attack, and the cloak takes the other half.

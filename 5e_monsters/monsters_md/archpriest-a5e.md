@@ -66,12 +66,6 @@
 
 ### Bonus Actions
 
-- **Divine Word (7th-Level; V):** The archpriest utters a primordial imprecation that targets other creatures within 30 feet. A target suffers an effect based on its current hit points.
-- **Fewer than 50 hit points: deafened for 1 minute:** 
-- **Fewer than 40 hit points: blinded and deafened for 10 minutes:** 
-- **Fewer than 30 hit points: stunned:** 
-- **Fewer than 20 hit points: instantly killed outright:** 
-- **Additionally:** Such a creature does not suffer this effect if it is already on its plane of origin. The archpriest can't cast this spell and a 1st-level or higher spell on the same turn.
-- **Archpriests head religious orders and often serve on a monarchs council:** Sometimes an archpriest is the highest-ranking leader in the land, and they are often considered the direct mouthpieces of their gods by those who worship.
+- **Divine Word (7th-Level; V):** The archpriest utters a primordial imprecation that targets other creatures within 30 feet. A target suffers an effect based on its current hit points.<br> - Fewer than 50 hit points: Deafened for 1 minute.<br> - Fewer than 40 hit points: Blinded and Deafened for 10 minutes.<br> - Fewer than 30 hit points: Stunned, Blinded, and Deafened for 1 hour.<br> - Fewer than 20 hit points: instantly killed outright.<br> Additionally, any celestial, elemental, fey, or fiend affected by this spell is immediately forced back to its home plane, and for 24 hours it is unable to return to the archpriest's current plane by any means less powerful than a *wish* spell. Such a creature does not suffer this effect if it is already on its plane of origin. The archpriest can't cast this spell and a 1st-level or higher spell on the same turn.
 
 

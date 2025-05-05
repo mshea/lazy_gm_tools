@@ -20,7 +20,7 @@
 
 ### Special Abilities
 
-- **Flyby:** The haladron doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+- **Flyby:** The haladron doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - **Immortal Nature:** Doesn't require food drink or sleep
 - **Immutable Form:** Immune: form-altering spells/effects.
 

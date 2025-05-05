@@ -19,9 +19,9 @@
 
 ### Special Abilities
 
-- **Blood Frenzy:** The wereshark has advantage on melee attack rolls against any creature that doesn’t have all its hp.
+- **Blood Frenzy:** The wereshark has advantage on melee attack rolls against any creature that doesn't have all its hp.
 - **Hold Breath (Hybrid Form Only):** While out of water, the wereshark can hold its breath for 1 hour.
-- **Shapechanger:** The wereshark can use its action to polymorph into a Large shark-humanoid hybrid or into a Large hunter shark, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form, with the exceptions that only its shark and hybrid forms retain its swimming speed, and its shark form doesn’t retain its walking speed. Any equipment it is wearing or carrying isn’t transformed. The wereshark reverts to its true form if it dies.
+- **Shapechanger:** The wereshark can use its action to polymorph into a Large shark-humanoid hybrid or into a Large hunter shark, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form, with the exceptions that only its shark and hybrid forms retain its swimming speed, and its shark form doesn't retain its walking speed. Any equipment it is wearing or carrying isn't transformed. The wereshark reverts to its true form if it dies.
 - **Water Breathing (Shark or Hybrid Form Only):** The wereshark can breathe only underwater.
 
 ### Actions

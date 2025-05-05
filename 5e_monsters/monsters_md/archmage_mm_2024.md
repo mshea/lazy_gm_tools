@@ -18,6 +18,7 @@
 
 - **Immunities**: Psychic; Charmed ((with Mind Blank))
 - **Skills**: Arcana +13, History +9, Perception +6
+- **Gear** Wand
 - **Senses**: Passive Perception 16
 - **Languages**: Common plus five other languages
 - **CR** 12 (XP 8,400; PB +4)

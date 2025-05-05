@@ -28,7 +28,7 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 18 (3d8+5) piercing damage + 7 (2d6) psychic.
 - **Claw:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 15 (3d6+5) slashing damage.
 - **Psychic Bolt:** Ranged Spell Attack: +8 to hit, 60 ft., one target, 18 (4d6+4) psychic.
-- **Mind Ravage (Recharge 5–6):** Unleashes a torrent of psychic energy. Each creature within 20' of catonoctrix: 45 (10d8) psychic and is stunned for 1 min (DC 16 Int half damage and isn’t stunned). A stunned creature can re-save at end of each of its turns success ends effect on itself.
+- **Mind Ravage (Recharge 5-6):** Unleashes a torrent of psychic energy. Each creature within 20' of catonoctrix: 45 (10d8) psychic and is stunned for 1 min (DC 16 Int half damage and isn't stunned). A stunned creature can re-save at end of each of its turns success ends effect on itself.
 - **Spellcasting (Psionics):** Int (DC 15) no spell components: At will: detect thoughts divination1/day ea: confusion scrying suggestion
 
 ### Reactions

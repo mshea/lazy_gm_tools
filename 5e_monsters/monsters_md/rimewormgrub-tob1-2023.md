@@ -23,9 +23,9 @@
 ### Special Abilities
 
 - **Amphibious:** The rime worm grub can breathe air and water.
-- **Ravenous Larva:** The rime worm grub can make an opportunity attack against any creature that leaves its reach, even if the creature takes the Disengage action. In addition, it has advantage on melee attack rolls against any creature that doesn’t have all its hp.
+- **Ravenous Larva:** The rime worm grub can make an opportunity attack against any creature that leaves its reach, even if the creature takes the Disengage action. In addition, it has advantage on melee attack rolls against any creature that doesn't have all its hp.
 - **Snow Camouflage:** The rime worm grub has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
-- **Snow Stride:** The rime worm grub can burrow through nonmagical snow and ice in addition to sand, earth, and mud. In addition, difficult terrain composed of snow or ice doesn’t cost it extra movement.
+- **Snow Stride:** The rime worm grub can burrow through nonmagical snow and ice in addition to sand, earth, and mud. In addition, difficult terrain composed of snow or ice doesn't cost it extra movement.
 
 ### Actions
 

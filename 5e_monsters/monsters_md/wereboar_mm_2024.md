@@ -17,6 +17,7 @@
 | CHA | 8 | -1 | -1 |
 
 - **Skills**: Perception +2
+- **Gear** Javelin x 6
 - **Senses**: Passive Perception 12
 - **Languages**: Common (can't speak in boar form)
 - **CR** 4 (XP 1,100; PB +2)

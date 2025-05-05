@@ -22,10 +22,10 @@
 
 ### Special Abilities
 
-- **Construct Nature:** The weaving spider doesn’t require air, food, drink, or sleep.
+- **Construct Nature:** The weaving spider doesn't require air, food, drink, or sleep.
 - **Immutable Form:** The weaving spider is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The weaving spider has advantage on saving throws against spells and other magical effects.
-- **Unmaking:** The weaving spider’s speed and its slim, sharp blade can slice cloth, leather, and paper into scraps very quickly. Whenever a weaving spider’s Trimming Blade attack roll exceeds the target’s Armor Class by 5 or more, the target must succeed on a DC 13 Dexterity saving throw or one nonmagical cloth, leather, or paper object on the target becomes damaged and unusable until repaired. This effect can deface or ruin clothing, backpacks, journals, and similar objects, but it can’t destroy armor.
+- **Unmaking:** The weaving spider's speed and its slim, sharp blade can slice cloth, leather, and paper into scraps very quickly. Whenever a weaving spider's Trimming Blade attack roll exceeds the target's Armor Class by 5 or more, the target must succeed on a DC 13 Dexterity saving throw or one nonmagical cloth, leather, or paper object on the target becomes damaged and unusable until repaired. This effect can deface or ruin clothing, backpacks, journals, and similar objects, but it can't destroy armor.
 
 ### Actions
 

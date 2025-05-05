@@ -15,7 +15,7 @@
 - **Skills:** perception +0
 - **Damage Resistances:** acid, piercing, slashing
 - **Senses:** darkvision 120', tremorsense 30', passive Perception 14
-- **Languages:** understands Undercommon but can’t speak
+- **Languages:** understands Undercommon but can't speak
 
 ### Special Abilities
 

@@ -24,7 +24,7 @@
 - **Multiattack:** One Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 15 (2d10+4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
-- **Light Beam (Recharge 5–6):** Emits a beam of white light in a 60' line that is 5 ft. wide. Each creature in that line: 36 (8d8) radiant (DC 15 Dex half). 
+- **Light Beam (Recharge 5-6):** Emits a beam of white light in a 60' line that is 5 ft. wide. Each creature in that line: 36 (8d8) radiant (DC 15 Dex half). 
 - **Spellcasting:** Int (DC 14) no material components: At will: dancing lights3/day ea: charm person color spray1/day: prismatic spray
 
 

@@ -22,8 +22,8 @@
 ### Special Abilities
 
 - **Magic Resistance:** The mead archon has advantage on saving throws against spells and other magical effects.
-- **Magic Weapons:** The mead archon’s weapon attacks are magical.
-- **Innate Spellcasting:** The mead archon’s spellcasting ability is Charisma (spell save DC 15). The archon can innately cast the following spells, requiring only verbal components:
+- **Magic Weapons:** The mead archon's weapon attacks are magical.
+- **Innate Spellcasting:** The mead archon's spellcasting ability is Charisma (spell save DC 15). The archon can innately cast the following spells, requiring only verbal components:
 1/day each: aid, enhance ability, lesser restoration, protection from poison, zone of truth
 
 ### Actions

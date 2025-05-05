@@ -49,5 +49,5 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Storm Bolt.*** The kraken uses Lightning Strike.
 
-***Toxic Ink.*** *Constitution Saving Throw*: DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. *Failure:*  The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. Success or Failure The kraken can't take this action again until the start of its next turn.
+***Toxic Ink.*** *Constitution Saving Throw*: DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. *Failure:*  The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. *Failure or Success*:  The kraken can't take this action again until the start of its next turn.
 

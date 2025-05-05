@@ -19,6 +19,7 @@
 - **Resistances**: Necrotic
 - **Immunities**: Charmed ((except from its vampire master))
 - **Skills**: Perception +4, Persuasion +4, Stealth +7
+- **Gear** Dagger x 10
 - **Senses**: darkvision 60 ft.; Passive Perception 14
 - **Languages**: Common plus one other language
 - **CR** 3 (XP 700; PB +2)

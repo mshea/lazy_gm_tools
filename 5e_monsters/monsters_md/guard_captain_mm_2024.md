@@ -17,6 +17,7 @@
 | CHA | 13 | +1 | +1 |
 
 - **Skills**: Athletics +6, Perception +4
+- **Gear** Breastplate, Javelin x 6, Longsword, Shield
 - **Senses**: Passive Perception 14
 - **Languages**: Common
 - **CR** 4 (XP 1,100; PB +2)

@@ -30,11 +30,11 @@
 
 - **Multiattack:** One Slam attack and two Shortsword attacks or it makes two Thorn Shot attacks.
 - **Shortsword:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 9 (1d6+6) piercing damage.
-- **Slam:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 15 (2d8+6) bludgeoning damage and target: DC 15 Con save. On failure target takes 14 (4d6) poison and is poisoned 1 min. On success target takes half damage and isn’t poisoned. Poisoned target can re-save at end of each of its turns success ends effect on itself.
+- **Slam:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 15 (2d8+6) bludgeoning damage and target: DC 15 Con save. On failure target takes 14 (4d6) poison and is poisoned 1 min. On success target takes half damage and isn't poisoned. Poisoned target can re-save at end of each of its turns success ends effect on itself.
 - **Thorn Shot:** Melee Weapon Attack: +10 to hit 30/120' one target 10 (2d4+5) piercing damage + 7 (2d6) poison.
 
 ### Reactions
 
-- **Spore Cloud:** When it takes damage from a ranged attack emits a burst of thick yellow spores that surround infested duelist and heavily obscure area within 5 ft. of it. Spores dissipate at start of duelist’s next turn.
+- **Spore Cloud:** When it takes damage from a ranged attack emits a burst of thick yellow spores that surround infested duelist and heavily obscure area within 5 ft. of it. Spores dissipate at start of duelist's next turn.
 
 

@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Fey Ancestry:** The shadow fey has advantage on saving throws against being charmed, and magic can’t put it to sleep.
+- **Fey Ancestry:** The shadow fey has advantage on saving throws against being charmed, and magic can't put it to sleep.
 - **Sunlight Sensitivity:** While in sunlight, the shadow fey has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 ### Actions

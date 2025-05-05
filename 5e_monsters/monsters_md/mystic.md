@@ -21,10 +21,10 @@
 ### Special Abilities
 
 - **Keeper of Secrets:** The satarre mystic has advantage on all Intelligence (Arcana) checks related to the planes and planar travel.
-- **Levitate:** As a bonus action, a mystic can rise or descend vertically up to 10 feet and can remain suspended there. This trait works like the levitate spell, except there is no duration, and the mystic doesn’t need to concentrate to continue levitating each round.
+- **Levitate:** As a bonus action, a mystic can rise or descend vertically up to 10 feet and can remain suspended there. This trait works like the levitate spell, except there is no duration, and the mystic doesn't need to concentrate to continue levitating each round.
 - **Planar Commander:** As a bonus action, the mystic commands an angel, elemental, or fiend ally within 30 feet of it to use a reaction to make one attack against a creature that dealt damage to the mystic in the previous round.
 - **Void Fortitude:** If damage reduces the satarre mystic to 0 hp, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the satarre mystic drops to 1 hp instead.
-- **Void Weapons:** The satarre’s weapon attacks are magical. When the satarre hits with any weapon, the weapon deals an extra 1d8 necrotic damage (included in the attack).
+- **Void Weapons:** The satarre's weapon attacks are magical. When the satarre hits with any weapon, the weapon deals an extra 1d8 necrotic damage (included in the attack).
 
 ### Actions
 

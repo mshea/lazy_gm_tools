@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Hidden Home:** The kikimora can spend 1 minute scribing a magical symbol on a wall, baseboard, cupboard, or other semi-permanent object within a structure. The symbol remains until the kikimora inscribes another symbol elsewhere. While within 5 feet of the surface where the symbol is inscribed, the kikimora can use an action to touch the symbol and be transported to an extradimensional space just large enough to hold the kikimora and up to 50 pounds of nonmagical objects. Only the kikimora can enter this space, along with any nonmagical objects it is wearing or carrying, up to the extradimensional space’s limits. While inside the extradimensional space, the kikimora can see out as if through a 2-foot-by-2-foot window centered on the symbol and can exit the space as an action, appearing in an unoccupied space within 10 feet of the surface where the symbol is inscribed.
+- **Hidden Home:** The kikimora can spend 1 minute scribing a magical symbol on a wall, baseboard, cupboard, or other semi-permanent object within a structure. The symbol remains until the kikimora inscribes another symbol elsewhere. While within 5 feet of the surface where the symbol is inscribed, the kikimora can use an action to touch the symbol and be transported to an extradimensional space just large enough to hold the kikimora and up to 50 pounds of nonmagical objects. Only the kikimora can enter this space, along with any nonmagical objects it is wearing or carrying, up to the extradimensional space's limits. While inside the extradimensional space, the kikimora can see out as if through a 2-foot-by-2-foot window centered on the symbol and can exit the space as an action, appearing in an unoccupied space within 10 feet of the surface where the symbol is inscribed.
 - **Magic Resistance:** The kikimora has advantage on saving throws against spells and other magical effects.
 
 ### Actions
@@ -35,4 +35,4 @@
 
 ### Bonus Actions
 
-- **Homeward Step:** While within a structure containing its hidden home (see the Hidden Home trait), the kikimora magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space within 15 feet of the hidden home’s symbol.
+- **Homeward Step:** While within a structure containing its hidden home (see the Hidden Home trait), the kikimora magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space within 15 feet of the hidden home's symbol.

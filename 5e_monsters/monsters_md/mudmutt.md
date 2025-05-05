@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **Amphibious:** Can breathe air and water.
-- **Hop By:** Doesn't provoke opportunity attacks when it jumps out of an enemy’s reach.
+- **Hop By:** Doesn't provoke opportunity attacks when it jumps out of an enemy's reach.
 - **Pack Tactics:** Advantage on attacks vs. creature if 1+ unincapacitated attacker ally is within 5 ft. of target.
 - **Standing Leap:** Its long jump is up to 20' and its high jump is up to 10 ft. with or with o a running start.
 - **Swamp Camouflage:** Has advantage on Dex (Stealth) checks made to hide in swampy terrain.
@@ -32,6 +32,6 @@
 - **Bite:** Melee Weapon Attack: +8 to hit, 5 ft., one creature,. 16 (2d10+5) piercing damage.
 - **Kick:** Melee Weapon Attack: +8 to hit, 5 ft., one creature,. 14 (2d8+5) bludgeoning damage.
 - **Sticky Tongue:** Melee Weapon Attack: +8 to hit, 20 ft., one creature,. 12 (2d6+5) bludgeoning damage and the target: DC 15 Str save or pulled up to 15 ft. to mudmutt.
-- **Sonic Croak (Recharge 5–6):** Unleashes an earpiercing croak in a 30' cone. Each creature in that area: 18 (4d8) thunder and is stunned until the end of its next turn (DC 15 Con half damage and isn’t stunned). Creatures submerged in water have disadvantage on the save and take 27 (6d8) thunder instead of 18 (4d8).
+- **Sonic Croak (Recharge 5-6):** Unleashes an earpiercing croak in a 30' cone. Each creature in that area: 18 (4d8) thunder and is stunned until the end of its next turn (DC 15 Con half damage and isn't stunned). Creatures submerged in water have disadvantage on the save and take 27 (6d8) thunder instead of 18 (4d8).
 
 

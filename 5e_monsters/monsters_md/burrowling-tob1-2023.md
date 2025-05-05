@@ -22,8 +22,8 @@
 
 ### Special Abilities
 
-- **Burrow Awareness:** A burrowling has advantage on Wisdom (Perception) checks if at least one other burrowling within 10 feet of it isn’t incapacitated.
-- **Pack Tactics:** The burrowling has advantage on attack rolls against a creature if at least one of the burrowling’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Burrow Awareness:** A burrowling has advantage on Wisdom (Perception) checks if at least one other burrowling within 10 feet of it isn't incapacitated.
+- **Pack Tactics:** The burrowling has advantage on attack rolls against a creature if at least one of the burrowling's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions
 

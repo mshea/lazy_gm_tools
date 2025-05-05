@@ -16,6 +16,7 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 11 | +0 | +2 |
 
+- **Gear** Chain Mail, Heavy Crossbow, Warhammer
 - **Senses**: Passive Perception 10
 - **Languages**: Common plus one other language
 - **CR** 4 (XP 1,100; PB +2)

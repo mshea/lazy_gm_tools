@@ -21,7 +21,7 @@
 
 ### Special Abilities
 
-- **Aura of Oathbreaking:** Any creature that begins its turn within 30' of wraith: DC 13 Cha save or become cursed losing its resolve in important oaths it has taken. While cursed creature has disadvantage on Con saves to maintain concentration and can’t add its proficiency bonus to ability checks and saves in which it is proficient. On success creature is immune to wraith’s Aura of Oathbreaking for 24 hrs.
+- **Aura of Oathbreaking:** Any creature that begins its turn within 30' of wraith: DC 13 Cha save or become cursed losing its resolve in important oaths it has taken. While cursed creature has disadvantage on Con saves to maintain concentration and can't add its proficiency bonus to ability checks and saves in which it is proficient. On success creature is immune to wraith's Aura of Oathbreaking for 24 hrs.
 - **Incorporeal Movement:** Move through others/objects as difficult terrain. Takes 5 (1d10) force if it ends turn in object.
 - **Oathseeker:** Can pinpoint the location of any cleric paladin celestial or other divine connected creature within 60' of it.
 - **Sunlight Sensitivity:** In sunlight disadvantage on attacks and Wis (Perception) checks that use sight.

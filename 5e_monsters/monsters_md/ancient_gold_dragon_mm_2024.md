@@ -46,7 +46,7 @@
 
 ## Legendary Actions
 
-***Banish.*** *Charisma Saving Throw*: DC 24, one creature the dragon can see within 120 feet. *Failure:*  24 (7d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. Success or Failure The dragon can't take this action again until the start of its next turn.
+***Banish.*** *Charisma Saving Throw*: DC 24, one creature the dragon can see within 120 feet. *Failure:*  24 (7d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
 
 ***Guiding Light.*** The dragon uses Spellcasting to cast *Guiding Bolt* (level 4 version).
 

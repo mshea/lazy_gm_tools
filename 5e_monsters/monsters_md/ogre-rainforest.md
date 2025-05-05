@@ -31,6 +31,6 @@
 
 ### Bonus Actions
 
-- **Change Shape:** Transforms into a Large boar or back into its true ogre form. Its stats are the same in each form. Any equipment it is wearing or carrying isn’t transformed. Reverts on death.
+- **Change Shape:** Transforms into a Large boar or back into its true ogre form. Its stats are the same in each form. Any equipment it is wearing or carrying isn't transformed. Reverts on death.
 
 

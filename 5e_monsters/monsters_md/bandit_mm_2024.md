@@ -16,6 +16,7 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
+- **Gear** Leather Armor, Light Crossbow, Scimitar
 - **Senses**: Passive Perception 10
 - **Languages**: Common, Thieves' cant
 - **CR** 1/8 (XP 25; PB +2)

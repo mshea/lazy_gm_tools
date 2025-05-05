@@ -18,7 +18,7 @@
 
 ### Special Abilities
 
-- **Cavern Traveler:** Difficult terrain composed of stalagmites, tight spaces, and other rocky underground terrain doesn’t cost it extra movement. In addition, the derro explorer has advantage on ability checks to climb rocky underground terrain.
+- **Cavern Traveler:** Difficult terrain composed of stalagmites, tight spaces, and other rocky underground terrain doesn't cost it extra movement. In addition, the derro explorer has advantage on ability checks to climb rocky underground terrain.
 - **Humanoid Hunter:** When the derro explorer hits a humanoid with a weapon attack, the weapon deals an extra 1d6 damage of its type.
 - **Insanity:** The derro has advantage on saving throws against being charmed or frightened.
 

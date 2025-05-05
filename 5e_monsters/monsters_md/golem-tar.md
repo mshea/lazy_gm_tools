@@ -17,12 +17,12 @@
 - **Damage Immunities:** fire, poison, psychic; nonmagic bludgeoning, piercing, and slashing attacks not made with adamantine weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, petrified, poisoned, prone
 - **Senses:** darkvision 60', passive Perception 10 
-- **Languages:** understands the languages of its creator but can’t speak
+- **Languages:** understands the languages of its creator but can't speak
 
 ### Special Abilities
 
-- **Construct Nature:** Doesn’t require air food drink or sleep.
-- **Fire Hazard:** When it takes fire it bursts into flame. Golem continues burning until it takes cold is immersed in water or uses Quench. A creature that touches burning golem or hits it with melee attack while within 5 ft. of it: 5 (1d10) fire. While burning golem’s weapon attacks deal extra 5 (1d10) fire on a hit.
+- **Construct Nature:** Doesn't require air food drink or sleep.
+- **Fire Hazard:** When it takes fire it bursts into flame. Golem continues burning until it takes cold is immersed in water or uses Quench. A creature that touches burning golem or hits it with melee attack while within 5 ft. of it: 5 (1d10) fire. While burning golem's weapon attacks deal extra 5 (1d10) fire on a hit.
 - **Hardened Tar:** If it takes cold in the same round it is reduced to 0 hp it is paralyzed for 1 min remaining alive. If it takes fire while paralyzed it regains a number of hp equal to the fire dealt. Otherwise it dies when the condition ends.
 - **Immutable Form:** Immune: form-altering spells/effects.
 - **Magic Resistance:** Advantage: spell/magic effect saves.

@@ -21,13 +21,13 @@
 ### Special Abilities
 
 - **Magic Resistance:** Advantage: spell/magic effect saves.
-- **Protective Frenzy:** For 1 min after a splinter matron’s tree takes damage she has advantage on attack rolls vs. any creature that damaged her tree and when she hits such a creature with her Claw the Claw deals an extra 1d8 slashing.
+- **Protective Frenzy:** For 1 min after a splinter matron's tree takes damage she has advantage on attack rolls vs. any creature that damaged her tree and when she hits such a creature with her Claw the Claw deals an extra 1d8 slashing.
 
 ### Actions
 
 - **Multiattack:** Two Claw or Splinter attacks.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 14 (3d6+4) slashing damage + 7 (2d6) poison. If the target is a creature other than an Undead or Construct: 4 (1d8) piercing damage at the start of each of its turns as splinters break off from the claws and dig into the wound (DC 15 Con negates piercing). Any creature can take an action to remove the splinters with successful DC 14 Wis (Medicine) check. The splinters fall out of the wound if target receives magical healing.
 - **Splinter:** Ranged Weapon Attack: +7 to hit 30/120' one target 22 (4d8+4) piercing damage.
-- **Splinter Spray (Recharge 6):** Blasts a spray of splinters in a 15 ft. cone. Each creature in the area: 45 (10d8) piercing damage and is blinded for 1 min (DC 15 Dex half damage and isn’t blinded). A blinded creature can make a DC 15 Con save at end of each of its turns ending effect on itself on a success
+- **Splinter Spray (Recharge 6):** Blasts a spray of splinters in a 15 ft. cone. Each creature in the area: 45 (10d8) piercing damage and is blinded for 1 min (DC 15 Dex half damage and isn't blinded). A blinded creature can make a DC 15 Con save at end of each of its turns ending effect on itself on a success
 
 

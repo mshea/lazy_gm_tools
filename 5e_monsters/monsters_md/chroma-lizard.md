@@ -28,6 +28,6 @@
 - **Multiattack:** Dazzling Display then one Bite and one Claws.
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 14 (2d10+3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (1d10+3) slashing damage.
-- **Dazzling Display:** Causes its chrome scales to ripple casting dizzying reflections of light. Each creature that can see the chroma lizard must make DC 15 Con save or be blinded until the end of its next turn. The lizard can’t use this action while in darkness and creatures have advantage on the save if the chroma lizard is in dim light.
+- **Dazzling Display:** Causes its chrome scales to ripple casting dizzying reflections of light. Each creature that can see the chroma lizard must make DC 15 Con save or be blinded until the end of its next turn. The lizard can't use this action while in darkness and creatures have advantage on the save if the chroma lizard is in dim light.
 
 

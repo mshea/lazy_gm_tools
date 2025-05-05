@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Flyby:** The bucca doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+- **Flyby:** The bucca doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - **Sunlight Hypersensitivity:** The bucca takes 1 radiant damage each minute it is exposed to sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 - **Treasure Sense:** The bucca can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
 

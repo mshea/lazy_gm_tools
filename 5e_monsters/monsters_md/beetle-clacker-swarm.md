@@ -19,11 +19,11 @@
 
 ### Special Abilities
 
-- **Constant Clacking:** A creature that starts its turn in the swarm’s space takes 5 (1d10) thunder.
-- **Swarm:** Can occupy another creature’s space and vice versa and swarm can move through any opening large enough for a Tiny creature. Swarm can’t regain hp or gain temp hp.
+- **Constant Clacking:** A creature that starts its turn in the swarm's space takes 5 (1d10) thunder.
+- **Swarm:** Can occupy another creature's space and vice versa and swarm can move through any opening large enough for a Tiny creature. Swarm can't regain hp or gain temp hp.
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +3 to hit 0' 1 tgt in the swarm’s space. 14 (4d6) piercing damage or 7 (2d6) piercing damage if the swarm has half of its hp or fewer.
+- **Bite:** Melee Weapon Attack: +3 to hit 0' 1 tgt in the swarm's space. 14 (4d6) piercing damage or 7 (2d6) piercing damage if the swarm has half of its hp or fewer.
 
 

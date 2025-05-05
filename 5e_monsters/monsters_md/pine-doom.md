@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **False Appearance:** While the pine doom remains motionless, it is indistinguishable from an ordinary pine tree.
-- **Sticky Pine Tar:** A creature that touches the pine doom is grappled (escape DC 16). Until this grapple ends, the creature is restrained. In addition, when a creature hits the pine doom with a bludgeoning or piercing weapon while within 5 feet of it, the creature must succeed on a DC 16 Strength saving throw or the weapon becomes stuck to the tree. A stuck weapon can’t be used. A creature can take its action to remove one stuck weapon from the pine doom by succeeding on a DC 16 Strength check. Splashing the pine doom with a gallon of alcohol frees all creatures and objects stuck to it and suppresses this trait for 1 minute.
+- **Sticky Pine Tar:** A creature that touches the pine doom is grappled (escape DC 16). Until this grapple ends, the creature is restrained. In addition, when a creature hits the pine doom with a bludgeoning or piercing weapon while within 5 feet of it, the creature must succeed on a DC 16 Strength saving throw or the weapon becomes stuck to the tree. A stuck weapon can't be used. A creature can take its action to remove one stuck weapon from the pine doom by succeeding on a DC 16 Strength check. Splashing the pine doom with a gallon of alcohol frees all creatures and objects stuck to it and suppresses this trait for 1 minute.
 - **Siege Monster:** The pine doom deals double damage to objects and structures.
 
 ### Actions

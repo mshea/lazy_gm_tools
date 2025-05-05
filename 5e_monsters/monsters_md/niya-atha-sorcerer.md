@@ -28,7 +28,7 @@
 - **Multiattack:** Three Scepter attacks or two Ice Shard attacks.
 - **Scepter:** Melee Weapon Attack: +3 to hit, 5 ft., one target, 4 (1d6+1) bludgeoning damage + 4 (1d8) cold if not enlarged or 8 (2d6+1) bludgeoning damage if enlarged.
 - **Ice Shard:** Ranged Spell Attack: +6 to hit 60/240' one target 9 (1d10+4) piercing damage + 9 (2d8) cold.
-- **Summon Iceberg (Recharge 5–6):** Chooses a point it can see within 120' of it. Each creature within a 20' of that point: 11 (2d10) bludgeoning damage and 7 (2d6) cold and is restrained until the end of its next turn (DC 14 Dex half damage and isn’t restrained). Can’t use this action while enlarged.
+- **Summon Iceberg (Recharge 5-6):** Chooses a point it can see within 120' of it. Each creature within a 20' of that point: 11 (2d10) bludgeoning damage and 7 (2d6) cold and is restrained until the end of its next turn (DC 14 Dex half damage and isn't restrained). Can't use this action while enlarged.
 
 ### Bonus Actions
 

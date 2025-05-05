@@ -17,6 +17,7 @@
 | CHA | 11 | +0 | +0 |
 
 - **Skills**: Stealth +6, Survival +3
+- **Gear** Chain Shirt, Javelin x 6, Morningstar
 - **Senses**: darkvision 60 ft.; Passive Perception 11
 - **Languages**: Common, Goblin
 - **CR** 3 (XP 700; PB +2)

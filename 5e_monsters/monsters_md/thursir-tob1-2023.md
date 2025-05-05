@@ -32,4 +32,4 @@
 
 ### Bonus Actions
 
-- **Runic Blood (3/Day):** The thursir touches a weapon, painting the thurs rune on the weapon in the thursir’s blood. When the thursir hits with the weapon while the rune is active, the weapon deals an extra 9 (2d8) lightning damage, and the target can’t take reactions until the start of its next turn. The rune lasts for 1 minute.
+- **Runic Blood (3/Day):** The thursir touches a weapon, painting the thurs rune on the weapon in the thursir's blood. When the thursir hits with the weapon while the rune is active, the weapon deals an extra 9 (2d8) lightning damage, and the target can't take reactions until the start of its next turn. The rune lasts for 1 minute.

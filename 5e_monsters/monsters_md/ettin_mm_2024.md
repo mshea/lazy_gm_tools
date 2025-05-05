@@ -18,6 +18,7 @@
 
 - **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
 - **Skills**: Perception +4
+- **Gear** Battleaxe, Morningstar
 - **Senses**: darkvision 60 ft.; Passive Perception 14
 - **Languages**: Giant
 - **CR** 4 (XP 1,100; PB +2)

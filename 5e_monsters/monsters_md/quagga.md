@@ -19,7 +19,7 @@
 ### Special Abilities
 
 - **Keen Sight and Smell:** Has advantage on Wis (Perception) checks that rely on sight or smell.
-- **Knife Dancer:** When the quagga hits a creature with Twin Blade attack it doesn’t provoke opportunity attacks when it moves out of that creature’s reach.
+- **Knife Dancer:** When the quagga hits a creature with Twin Blade attack it doesn't provoke opportunity attacks when it moves out of that creature's reach.
 - **Pack Tactics:** Advantage on attacks vs. creature if 1+ unincapacitated attacker ally is within 5 ft. of target.
 - **Trampling Charge:** If the quagga moves at least 20' straight toward a target and then hits it with Twin Blade attack on the same turn that target must make DC 14 Str save or be knocked prone. If the target is prone the quagga can make one Hooves attack vs. it as a bonus action.
 

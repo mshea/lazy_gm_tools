@@ -25,6 +25,6 @@
 
 - **Head Bash:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
 - **Stomp:** Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature. Hit: 28 (4d10 + 6) bludgeoning damage.
-- **Earth-Shaking Thump (Recharge 5-6):** The mei jiao shou rears up and lands heavily, kicking up a shower of debris and rattling and cracking the ground. Each creature in contact with the ground within 30 feet of the mei jiao shou must make a DC 16 Dexterity saving throw. On a failure, a creature takes 22 (4d10) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage and isn’t knocked prone. The area then becomes difficult terrain.
+- **Earth-Shaking Thump (Recharge 5-6):** The mei jiao shou rears up and lands heavily, kicking up a shower of debris and rattling and cracking the ground. Each creature in contact with the ground within 30 feet of the mei jiao shou must make a DC 16 Dexterity saving throw. On a failure, a creature takes 22 (4d10) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone. The area then becomes difficult terrain.
 
 

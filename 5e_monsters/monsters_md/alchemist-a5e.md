@@ -23,10 +23,10 @@
 - **Alchemy Schooling:** The alchemist gains their proficiency bonus and an expertise die (+1d6) on checks made with alchemists supplies.
 - **Crafting:** So long as the alchemist has the required components and equipment, they are able to craft potions of up to legendary rarity and other magic items of up to very rare rarity.
 - **Potion Crafter:** The alchemist has the following potions on hand:
-- **Potion of climbing: For 1 hour, the drinker gains a climb speed equal to its Speed and has advantage on Athletics checks made to climb:** 
-- **Potion of greater healing (3): Restores 14 (4d4 + 4) hit points:** 
-- **Potion of superior healing: Restores 28 (8d4 + 8) hit points:** 
-- **Potion of water breathing: For 1 hour, the drinker can breathe underwater:** 
+- **Potion of climbing:** For 1 hour, the drinker gains a climb speed equal to its Speed and has advantage on Athletics checks made to climb
+- **Potion of greater healing (3):** Restores 14 (4d4 + 4) hit points
+- **Potion of superior healing:**  Restores 28 (8d4 + 8) hit points
+- **Potion of water breathing:** For 1 hour, the drinker can breathe underwater
 
 ### Actions
 

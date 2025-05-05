@@ -24,6 +24,6 @@
 
 ### Actions
 
-- **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage and the target is grappled (escape DC 13). Until this grapple ends, the bear can’t use its claws on another target.
+- **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage and the target is grappled (escape DC 13). Until this grapple ends, the bear can't use its claws on another target.
 
 

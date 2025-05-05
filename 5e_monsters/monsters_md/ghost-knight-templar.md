@@ -31,7 +31,7 @@
 
 - **Multiattack:** Three Shadow Blade attacks.
 - **Shadow Blade:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 9 (1d8+5) slashing damage + 10 (3d6) necrotic.
-- **Stride of Damnation (Recharge 5–6):** Moves up to its speed through its enemies. This move doesn’t provoke opportunity attacks. Each creature through which templar passes: 35 (10d6) cold (DC 16 Dex half damage). It can’t use this while mounted.
+- **Stride of Damnation (Recharge 5-6):** Moves up to its speed through its enemies. This move doesn't provoke opportunity attacks. Each creature through which templar passes: 35 (10d6) cold (DC 16 Dex half damage). It can't use this while mounted.
 
 ### Bonus Actions
 

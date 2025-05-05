@@ -34,7 +34,7 @@
 - **Claw:** Melee Weapon Attack: +16 to hit, 10 ft., one target, 15 (2d6+8) slashing damage.
 - **Tail:** Melee Weapon Attack: +16 to hit, 20 ft., one target, 17 (2d8+8) slashing damage.
 - **Frightful Presence:** All it picks within 120' and aware of it frightened 1 min (DC 20 Wis negates) Can re-save at end of each of its turns. Save/effect ends: immune 24 hrs.
-- **Breath Weapon (Recharge 5–6):** Uses one of the following:Sand Blast. Exhales superheated sand in a 90' cone. Each creature in area: 44 (8d10) piercing damage and 44 (8d10) fire (DC 25 Dex half). If a creature fails its save by 5+ it suffers one level of exhaustion as it dehydrates.Blinding Sand. Breathes fine sand in a 90' cone. Each creature in area: blinded for 1 min (DC 25 Con negates). Blinded creature can take an action to clear its eyes of sand ending effect for it.
+- **Breath Weapon (Recharge 5-6):** Uses one of the following:Sand Blast. Exhales superheated sand in a 90' cone. Each creature in area: 44 (8d10) piercing damage and 44 (8d10) fire (DC 25 Dex half). If a creature fails its save by 5+ it suffers one level of exhaustion as it dehydrates.Blinding Sand. Breathes fine sand in a 90' cone. Each creature in area: blinded for 1 min (DC 25 Con negates). Blinded creature can take an action to clear its eyes of sand ending effect for it.
 
 
 

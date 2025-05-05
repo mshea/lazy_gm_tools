@@ -17,6 +17,7 @@
 | CHA | 14 | +2 | +2 |
 
 - **Skills**: Athletics +4, Deception +4
+- **Gear** Pistol, Scimitar, Studded Leather Armor
 - **Senses**: Passive Perception 10
 - **Languages**: Common, Thieves' cant
 - **CR** 2 (XP 450; PB +2)

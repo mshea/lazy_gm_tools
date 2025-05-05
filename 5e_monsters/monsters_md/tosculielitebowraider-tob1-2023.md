@@ -24,7 +24,7 @@
 
 - **Archer:** A ranged weapon deals one extra die of its damage when the tosculi hits with it (included in the attack).
 - **Hive Sense:** The tosculi can pinpoint the location of its hive queen when she is within 300 feet of it, and it can sense the general direction and distance to the hive where its queen makes her home.
-- **Point Blank Hunter:** When the tosculi makes a ranged attack with a bow, it doesn’t have disadvantage on the attack roll from being within 5 feet of a hostile creature, though it may still have disadvantage from other sources.
+- **Point Blank Hunter:** When the tosculi makes a ranged attack with a bow, it doesn't have disadvantage on the attack roll from being within 5 feet of a hostile creature, though it may still have disadvantage from other sources.
 
 ### Actions
 

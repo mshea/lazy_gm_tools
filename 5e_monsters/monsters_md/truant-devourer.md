@@ -27,12 +27,12 @@
 
 ### Actions
 
-- **Multiattack:** Three Devourer’s Cleaver or Necrotic Bolt attacks. It can replace one attack with Life Drain attack.
-- **Devourer’s Cleaver:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 10 (2d6+3) slashing damage + 9 (2d8) necrotic.
+- **Multiattack:** Three Devourer's Cleaver or Necrotic Bolt attacks. It can replace one attack with Life Drain attack.
+- **Devourer's Cleaver:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 10 (2d6+3) slashing damage + 9 (2d8) necrotic.
 - **Life Drain:** Melee Spell Attack: +8 to hit, 5 ft., one creature,. 17 (3d8+4) necrotic. Target's hp max is reduced by amount equal to damage taken (DC 16 Con negates hp max). Reduction lasts until target finishes a long rest. Target dies if this reduces its hp max to 0.
 - **Necrotic Bolt:** Ranged Spell Attack: +8 to hit, 120 ft., one target, 17 (3d8+4) necrotic.
 - **Invisibility:** Magically turns invisible (with items worn/carried) until it attacks uses Grasping Claws or concentration ends (as a spell).
-- **Grasping Claws (Recharge 5–6):** Calls dozens of ghostly skeletal claws to erupt from a point on the ground it can see within 60' of it. All within 15 ft. of that point: 31 (7d8) necrotic and restrained 1 min (DC 16 Dex half damage not restrained). Restrained creature can re-save at end of each of its turns success ends effect on itself.
+- **Grasping Claws (Recharge 5-6):** Calls dozens of ghostly skeletal claws to erupt from a point on the ground it can see within 60' of it. All within 15 ft. of that point: 31 (7d8) necrotic and restrained 1 min (DC 16 Dex half damage not restrained). Restrained creature can re-save at end of each of its turns success ends effect on itself.
 
 ### Bonus Actions
 

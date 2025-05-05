@@ -20,9 +20,9 @@
 ### Special Abilities
 
 - **Ambusher:** In the first round of combat, the empusa has advantage on attack rolls against any creature she has surprised.
-- **Magical Copper:** The empusa’s claw and kick attacks are magical.
+- **Magical Copper:** The empusa's claw and kick attacks are magical.
 - **Nimble Fighter:** The empusa can take the Dash or Disengage action as a bonus action on each of her turns.
-- **Shapechanger:** The empusa can use her action to polymorph into a Small or Medium beast that has a challenge rating no higher than her own, or back into her true form. Her statistics, other than her size, are the same in each form. While transformed, at least one of her limbs has a coppery color. Any equipment she is wearing or carrying isn’t transformed. She reverts to her true form if she dies.
+- **Shapechanger:** The empusa can use her action to polymorph into a Small or Medium beast that has a challenge rating no higher than her own, or back into her true form. Her statistics, other than her size, are the same in each form. While transformed, at least one of her limbs has a coppery color. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 
 ### Actions
 

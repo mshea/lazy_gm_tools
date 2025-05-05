@@ -22,9 +22,9 @@
 
 ### Special Abilities
 
-- **Blinding Salt Spray:** When the salt golem takes damage, thousands of tiny salt crystals erupt from the golem’s body, and each creature within 5 feet of the golem must succeed on a DC 17 Dexterity saving throw or be blinded until the end of its next turn.
-- **Construct Nature:** The golem doesn’t require air, food, drink, or sleep.
-- **Dehydrating Fists:** The salt golem’s Slam attacks are magical. When the golem hits with a Slam attack, the attack deals an extra 4d8 necrotic damage (included in the attack).
+- **Blinding Salt Spray:** When the salt golem takes damage, thousands of tiny salt crystals erupt from the golem's body, and each creature within 5 feet of the golem must succeed on a DC 17 Dexterity saving throw or be blinded until the end of its next turn.
+- **Construct Nature:** The golem doesn't require air, food, drink, or sleep.
+- **Dehydrating Fists:** The salt golem's Slam attacks are magical. When the golem hits with a Slam attack, the attack deals an extra 4d8 necrotic damage (included in the attack).
 - **Immutable Form:** The golem is immune to any spell or effect that would alter its form.
 - **Magic Resistance:** The golem has advantage on saving throws against spells and other magical effects.
 

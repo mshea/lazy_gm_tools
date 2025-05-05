@@ -24,7 +24,7 @@
 
 - **Danger Sense:** While conscious, the wolf reaver dwarf has advantage on Dexterity saving throws.
 - **Dwarven Resilience:** The wolf reaver dwarf has advantage on saving throws against poison.
-- **Pack Tactics:** The wolf reaver dwarf has advantage on attack rolls against a creature if at least one of the dwarf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The wolf reaver dwarf has advantage on attack rolls against a creature if at least one of the dwarf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - **Reckless:** At the start of its turn, the wolf reaver dwarf can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
 ### Actions

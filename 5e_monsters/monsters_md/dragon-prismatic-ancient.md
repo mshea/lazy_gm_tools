@@ -30,7 +30,7 @@
 - **Claw:** Melee Weapon Attack: +14 to hit, 10 ft., one target, 14 (2d6+7) slashing damage.
 - **Tail:** Melee Weapon Attack: +14 to hit, 20 ft., one target, 16 (2d8+7) bludgeoning damage.
 - **Frightful Presence:** All it picks within 120' and aware of it frightened 1 min (DC 19 Wis negates) Can re-save at end of each of its turns. Save/effect ends: immune 24 hrs.
-- **Breath Weapon (Recharge 5–6):** Uses one of the following:Light Beam. Emits beam of white light in a 120' line that is 10 ft. wide. Each creature in line: 90 (20d8) radiant (DC 23 Dex half).Rainbow Blast. Emits multicolored light in 90' cone. Each creature in area: 72 (16d8) damage (DC 23 Dex half). Dragon splits damage among acid cold fire lightning or poison choosing a number of d8s for each type totaling 16d8. Must choose at least two types.
+- **Breath Weapon (Recharge 5-6):** Uses one of the following:Light Beam. Emits beam of white light in a 120' line that is 10 ft. wide. Each creature in line: 90 (20d8) radiant (DC 23 Dex half).Rainbow Blast. Emits multicolored light in 90' cone. Each creature in area: 72 (16d8) damage (DC 23 Dex half). Dragon splits damage among acid cold fire lightning or poison choosing a number of d8s for each type totaling 16d8. Must choose at least two types.
 - **Spellcasting:** Int (DC 20) no material components: At will: charm person dancing lights prismatic spray1/day: prismatic wall
 
 

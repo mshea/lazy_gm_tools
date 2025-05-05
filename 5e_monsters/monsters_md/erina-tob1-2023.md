@@ -24,7 +24,7 @@
 
 - **Keen Smell:** The erina has advantage on Wisdom (Perception) checks that rely on smell.
 - **Hardy:** The erina has advantage on saving throws against poison.
-- **Spines:** A creature that touches the erina or hits it with a melee attack while within 5 feet of it takes 2 (1d4) piercing damage. In addition, a creature grappled by or grappling the erina takes 2 (1d4) piercing damage at the start of the erina’s turn.
+- **Spines:** A creature that touches the erina or hits it with a melee attack while within 5 feet of it takes 2 (1d4) piercing damage. In addition, a creature grappled by or grappling the erina takes 2 (1d4) piercing damage at the start of the erina's turn.
 
 ### Actions
 

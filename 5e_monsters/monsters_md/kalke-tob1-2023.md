@@ -23,12 +23,12 @@
 ### Special Abilities
 
 - **Magic Resistance:** The kalke has advantage on saving throws against spells and magical effects.
-- **Sense Magic:** The kalke senses magic within 120 feet of it at will and can sense the general direction of spells being cast within 1 mile of it. This trait otherwise works like the detect magic spell but isn’t itself magical.
+- **Sense Magic:** The kalke senses magic within 120 feet of it at will and can sense the general direction of spells being cast within 1 mile of it. This trait otherwise works like the detect magic spell but isn't itself magical.
 
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
-- **Use Magic Item (Recharge 5–6):** The kalke activates a magic item in its possession and can ignore all class, race, and level requirements on the item. The kalke must make a DC 11 Intelligence saving throw. On a success, the item activates normally. On a failure, the item doesn’t activate and can’t be used again until the next dawn. If the kalke fails the saving throw by 5 or more, it causes a magical backlash. Each creature within 5 feet of the kalke, including the kalke, must make a DC 11 Dexterity saving throw, taking 5 (2d4) force damage on a failed save, or half as much damage on a successful one.
+- **Use Magic Item (Recharge 5-6):** The kalke activates a magic item in its possession and can ignore all class, race, and level requirements on the item. The kalke must make a DC 11 Intelligence saving throw. On a success, the item activates normally. On a failure, the item doesn't activate and can't be used again until the next dawn. If the kalke fails the saving throw by 5 or more, it causes a magical backlash. Each creature within 5 feet of the kalke, including the kalke, must make a DC 11 Dexterity saving throw, taking 5 (2d4) force damage on a failed save, or half as much damage on a successful one.
 
 ### Bonus Actions
 

@@ -46,7 +46,7 @@
 
 ***Chill.*** The dragon uses Spellcasting to cast *Hold Monster*. The dragon can't take this action again until the start of its next turn.
 
-***Cold Gale.*** *Dexterity Saving Throw*: DC 23, each creature in a 60-foot-long, 10-foot-wide Line. *Failure:*  14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. *Success:*  Half damage only. Success or Failure The dragon can't take this action again until the start of its next turn.
+***Cold Gale.*** *Dexterity Saving Throw*: DC 23, each creature in a 60-foot-long, 10-foot-wide Line. *Failure:*  14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. *Success:*  Half damage only. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 

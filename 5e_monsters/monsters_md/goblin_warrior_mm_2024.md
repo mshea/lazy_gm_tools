@@ -17,6 +17,7 @@
 | CHA | 8 | -1 | -1 |
 
 - **Skills**: Stealth +6
+- **Gear** Leather Armor, Scimitar, Shield, Shortbow
 - **Senses**: darkvision 60 ft.; Passive Perception 9
 - **Languages**: Common, Goblin
 - **CR** 1/4 (XP 50; PB +2)

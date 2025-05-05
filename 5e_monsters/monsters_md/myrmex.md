@@ -16,20 +16,20 @@
 - **Damage Resistances:** poison; nonmagic B/P/S attacks
 - **Condition Immunities:** exhaustion, paralyzed, petrified, poisoned, prone, unconscious 
 - **Senses:** blindsight 60', passive Perception 15
-- **Languages:** understands Terran but can’t speak
+- **Languages:** understands Terran but can't speak
 
 ### Special Abilities
 
-- **Elemental Nature:** Doesn’t require air food drink or sleep.
+- **Elemental Nature:** Doesn't require air food drink or sleep.
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
-- **Limited Telepathy:** Magically transmit simple messages and images to any creature within 120' of it that can understand a language. This telepathy doesn’t allow receiving creature to telepathically respond.
-- **Stone Walk:** Difficult terrain composed of earth or stone doesn’t cost the myrmex extra movement.
+- **Limited Telepathy:** Magically transmit simple messages and images to any creature within 120' of it that can understand a language. This telepathy doesn't allow receiving creature to telepathically respond.
+- **Stone Walk:** Difficult terrain composed of earth or stone doesn't cost the myrmex extra movement.
 
 ### Actions
 
 - **Multiattack:** Three Bite attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d8+3) piercing damage + 3 (1d6) poison.
-- **Earth Shift:** Ranged Spell Attack: +5 to hit 60' 1 tgt in contact with ground. Target pushed up to 15 ft. in direction of myrmex’s choice speed half til end of its next turn.
+- **Earth Shift:** Ranged Spell Attack: +5 to hit 60' 1 tgt in contact with ground. Target pushed up to 15 ft. in direction of myrmex's choice speed half til end of its next turn.
 - **Wall of Earth:** Makes a wall of earth spring out of earth or rock on a point it can sense within 30' of it. Works like wall of stone spell except  can create only one 10 ft. × 10 ft. panel with AC 13 and 15 hp.
 
 ### Bonus Actions

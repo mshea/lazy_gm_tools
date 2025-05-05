@@ -23,8 +23,8 @@
 ### Special Abilities
 
 - **Call of the Void:** If creature within 5 ft. of knight attempts to move away from it that creature: DC 13 Str save or be unable to move away from knight. If creature uses magic to move (ex: misty step or freedom of movement) it automatically succeeds.
-- **Construct Nature:** Doesn’t require air food drink or sleep.
-- **Immoveable:** Can’t be moved vs. its will except by magical means. In addition knight has disadvantage on Dex (Acrobatics) and Dex (Stealth) checks.
+- **Construct Nature:** Doesn't require air food drink or sleep.
+- **Immoveable:** Can't be moved vs. its will except by magical means. In addition knight has disadvantage on Dex (Acrobatics) and Dex (Stealth) checks.
 - **Implosive End:** When Void knight dies it collapses in on itself releasing a wave of Void energy. Creature within 5 ft. of it: 18 (4d8) force (DC 16 Dex half).
 
 ### Actions
@@ -32,6 +32,6 @@
 - **Multiattack:** Two Void Gauntlet attacks or three Void Bolts.
 - **Void Gauntlet:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 13 (2d6+6) slashing damage + 18 (4d8) force. If the target is a Med or smaller creature it must make DC 16 Str save or be knocked prone. 
 - **Void Bolt:** Ranged Spell Attack: +7 to hit, 120 ft., one target, 21 (4d8+3) force.
-- **Pull of the Void (Recharge 5–6):** Sends Void tendrils at up to three creatures it can see within 60' of it that are not behind total cover. Each target must make DC 16 strength Saving throw or be pulled up to 30' toward the knight. Then each creature within 5 ft. of knight takes 36 (8d8) force.
+- **Pull of the Void (Recharge 5-6):** Sends Void tendrils at up to three creatures it can see within 60' of it that are not behind total cover. Each target must make DC 16 strength Saving throw or be pulled up to 30' toward the knight. Then each creature within 5 ft. of knight takes 36 (8d8) force.
 
 

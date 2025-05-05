@@ -19,7 +19,7 @@
 
 ### Special Abilities
 
-- **Construct Nature:** Doesn’t require air food drink or sleep.
+- **Construct Nature:** Doesn't require air food drink or sleep.
 - **Druidic Vengeance:** Knows scent and appearance of each creature it was created to kill. Advantage on attacks vs. such creatures and on Wis (Perception) and Wis (Survival) checks to find and track them.
 - **Immutable Form:** Immune: form-altering spells/effects.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
@@ -29,7 +29,7 @@
 
 - **Multiattack:** Uses Frightening Gaze then two Claws.
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d8+3) slashing damage + 10 (3d6) necrotic.
-- **Frightening Gaze:** Fixes its gaze on one creature it can see within 60' of it. Target frightened 1 min (DC 15 Wis negates). Creature can re-save at end of each of its turns success ends effect on itself. If save succeeds or effect ends for it creature immune to faux-garou’s Frightening Gaze for the next 24 hrs.
+- **Frightening Gaze:** Fixes its gaze on one creature it can see within 60' of it. Target frightened 1 min (DC 15 Wis negates). Creature can re-save at end of each of its turns success ends effect on itself. If save succeeds or effect ends for it creature immune to faux-garou's Frightening Gaze for the next 24 hrs.
 
 ### Bonus Actions
 

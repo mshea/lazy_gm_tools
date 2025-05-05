@@ -23,12 +23,12 @@
 ### Special Abilities
 
 - **Nimble Escape:** The bogie can take the Disengage or Hide action as a bonus action on each of its turns.
-- **Pack Tactics:** The bogie has advantage on attack rolls against a creature if at least one of the bogie’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The bogie has advantage on attack rolls against a creature if at least one of the bogie's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions
 
 - **Icicle Fist:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage plus 2 (1d4) cold damage.
-- **Spiteful Hail:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 2 (1d4) cold damage, and the target’s speed is reduced by 10 until the end of its next turn.
+- **Spiteful Hail:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 2 (1d4) cold damage, and the target's speed is reduced by 10 until the end of its next turn.
 
 ### Reactions
 

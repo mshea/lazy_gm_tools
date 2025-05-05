@@ -27,7 +27,7 @@
 
 ### Actions
 
-- **Life Drain:** Melee Spell Attack. +4 to hit, reach 5 ft., one creature. Hit: 14 (4d6) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
+- **Life Drain:** Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 14 (4d6) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Final Curtain:** The dark father targets a corpse it can see within 30 feet that has been dead for no longer than 1 hour. A stream of dark energy flows between the corpse and the dark father. At the end of the dark father's next turn, the dark father absorbs the corpse and it vanishes completely. Any worn items or possessions are unaffected. A corpse destroyed in this manner can't be retrieved other than by a wish spell or similar magic.
 
 ### Reactions

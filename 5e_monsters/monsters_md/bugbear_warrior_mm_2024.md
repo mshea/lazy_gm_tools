@@ -17,6 +17,7 @@
 | CHA | 9 | -1 | -1 |
 
 - **Skills**: Stealth +6, Survival +2
+- **Gear** Hide Armor, Light Hammer x 3
 - **Senses**: darkvision 60 ft.; Passive Perception 10
 - **Languages**: Common, Goblin
 - **CR** 1 (XP 200; PB +2)

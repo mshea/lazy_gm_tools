@@ -18,7 +18,7 @@
 
 ### Special Abilities
 
-- **Fool’s Gold:** If a creature steals one of the gorao-ka’s money pouches, it loses 1d20 gp each time it finishes a long rest. A creature that steals more than one money pouch deducts an extra 1d20 gp for each additional stolen pouch. This effect ends when the thief freely gives double the amount of money it stole to another creature or organization. A gorao-ka carries 1d10 pouches, each containing 1d20 gp. If the gorao-ka is killed, all the gold in its pouches turns into worthless stones after 1 minute.
+- **Fool's Gold:** If a creature steals one of the gorao-ka's money pouches, it loses 1d20 gp each time it finishes a long rest. A creature that steals more than one money pouch deducts an extra 1d20 gp for each additional stolen pouch. This effect ends when the thief freely gives double the amount of money it stole to another creature or organization. A gorao-ka carries 1d10 pouches, each containing 1d20 gp. If the gorao-ka is killed, all the gold in its pouches turns into worthless stones after 1 minute.
 - **Silver Fountain:** When the gorao-ka is reduced to 0 hp, it explodes in a spray of silver pieces. Each creature within 5 feet of the gorao-ka that participated in killing it, such as by attacking it or casting a spell on it, must make a DC 12 Dexterity saving throw or take 7 (2d6) bludgeoning damage. The silver pieces disappear after 1 minute.
 
 ### Actions

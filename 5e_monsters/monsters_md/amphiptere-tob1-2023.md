@@ -22,8 +22,8 @@
 
 ### Special Abilities
 
-- **Flyby:** The amphiptere doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
-- **Swarming:** Up to two amphipteres can share the same space at the same time. The amphiptere has advantage on melee attack rolls if it is sharing its space with another amphiptere that isn’t incapacitated.
+- **Flyby:** The amphiptere doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+- **Swarming:** Up to two amphipteres can share the same space at the same time. The amphiptere has advantage on melee attack rolls if it is sharing its space with another amphiptere that isn't incapacitated.
 
 ### Actions
 

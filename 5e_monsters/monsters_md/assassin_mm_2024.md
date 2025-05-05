@@ -18,6 +18,7 @@
 
 - **Resistances**: Poison
 - **Skills**: Acrobatics +7, Perception +6, Stealth +10
+- **Gear** Light Crossbow, Shortsword, Studded Leather Armor
 - **Senses**: Passive Perception 16
 - **Languages**: Common, Thieves' cant
 - **CR** 8 (XP 3,900; PB +3)

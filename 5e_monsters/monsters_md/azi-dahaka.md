@@ -31,7 +31,7 @@
 
 - **Multiattack:** Azi Dahaka makes three bite attacks and two claw attacks.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage
-- **Claw:** Melee Weapon Attack. +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
+- **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 - **Storm Breath (Recharge 5-6):** Azi Dahaka exhales a blast of wind and lightning in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw. On a failure, a target takes 22 (4d10) bludgeoning damage and 18 (4d8) lightning damage, is pushed 25 feet away from Azi Dahaka, and is knocked prone. On a success, a target takes half the bludgeoning and lightning damage and is pushed, but isn't knocked prone. All nonmagical flames in the cone are extinguished.
 
 Azi Dahaka can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Azi Dahaka regains spent legendary actions at the start of its turn.

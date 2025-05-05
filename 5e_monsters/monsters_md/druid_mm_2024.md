@@ -17,6 +17,7 @@
 | CHA | 11 | +0 | +0 |
 
 - **Skills**: Medicine +5, Nature +3, Perception +5
+- **Gear** Studded Leather Armor
 - **Senses**: Passive Perception 15
 - **Languages**: Common, Druidic, Sylvan
 - **CR** 2 (XP 450; PB +2)

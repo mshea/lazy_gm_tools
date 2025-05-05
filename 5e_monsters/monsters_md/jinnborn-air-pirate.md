@@ -21,7 +21,7 @@
 
 - **Elemental Weapons:** Its weapon attacks are imbued with its elemental power. When the jinnborn hits with any weapon the weapon deals an extra 1d6 lightning (included in the attack).
 - **Flamboyant Defense:** While it is wearing no armor and wielding no shield its AC includes its Cha modifier.
-- **Knows the Ropes:** Has proficiency with airships sandships or waterborne ships (the jinnborn’s choice). It adds its proficiency bonus to any check it makes to control the chosen type of ship and it adds its proficiency bonus to any saves made while on the chosen type of vehicle.
+- **Knows the Ropes:** Has proficiency with airships sandships or waterborne ships (the jinnborn's choice). It adds its proficiency bonus to any check it makes to control the chosen type of ship and it adds its proficiency bonus to any saves made while on the chosen type of vehicle.
 
 ### Actions
 

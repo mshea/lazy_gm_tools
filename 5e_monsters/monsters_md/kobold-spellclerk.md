@@ -20,7 +20,7 @@
 ### Special Abilities
 
 - **Cunning Action:** On each of its turns, the spellclerk can use a bonus action to take the Dash, Disengage, or Hide action.
-- **Pack Tactics:** The kobold has advantage on attack rolls against a creature if at least one of the kobold’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The kobold has advantage on attack rolls against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - **Sunlight Sensitivity:** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 - **Spellcasting:** The kobold spellclerk is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
 Cantrips (at will): fire bolt, message, minor illusion

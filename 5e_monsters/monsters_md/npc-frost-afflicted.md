@@ -20,7 +20,7 @@
 
 ### Special Abilities
 
-- **Burning Cold:** A creature with resistance to cold doesn’t have resistance to the cold dealt by the frost-afflicted. A creature with immunity to cold is unaffected by this trait.
+- **Burning Cold:** A creature with resistance to cold doesn't have resistance to the cold dealt by the frost-afflicted. A creature with immunity to cold is unaffected by this trait.
 - **Icy Nature:** The frost-afflicted is infused with minor elemental power and it requires only half the amount of food and drink that a typical humanoid of its size needs.
 
 ### Actions

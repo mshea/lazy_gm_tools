@@ -32,6 +32,6 @@
 
 ### Reactions
 
-- **Time-Assisted Counterattack:** The akaasit’s awareness of the near future allows it to see attacks before they happen. When a creature the akaasit can see attacks it while within 5 feet of it, the akaasit can attack the creature before the creature’s attack hits. The akaasit makes a single arm blade attack against the creature. If the creature is reduced to 0 hp as a result of the akaasit’s attack, the creature’s attack doesn’t hit the akaasit.
+- **Time-Assisted Counterattack:** The akaasit's awareness of the near future allows it to see attacks before they happen. When a creature the akaasit can see attacks it while within 5 feet of it, the akaasit can attack the creature before the creature's attack hits. The akaasit makes a single arm blade attack against the creature. If the creature is reduced to 0 hp as a result of the akaasit's attack, the creature's attack doesn't hit the akaasit.
 
 

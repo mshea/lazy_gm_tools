@@ -28,10 +28,10 @@
 
 ### Actions
 
-- **Multiattack:** Two Ice Blade attacks and one Winter’s Touch attack.
+- **Multiattack:** Two Ice Blade attacks and one Winter's Touch attack.
 - **Ice Blade:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 8 (1d8+4) piercing damage + 14 (4d6) cold.
-- **Winter’s Touch:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 6 (1d4+4) slashing damage + 7 (2d6) cold and target must make a DC 15 Con save. Fail: creature begins to freeze and has disadvantage on weapon attack rolls or ability checks that use Str or Dex. It must re-save at end of its next turn becoming incapacitated and unable to move or speak as it freezes solid on a failure or ending effect on success. Creature remains frozen until it spends 12+ hrs in a warm area thawing out or until it takes at least 10 fire.
-- **Icicle Barrage (Recharge 5–6):** Icicles fly from its hand in 30' cone. Each creature in area: 17 (5d6) piercing damage and 17 (5d6) cold (DC 16 Dex half).
+- **Winter's Touch:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 6 (1d4+4) slashing damage + 7 (2d6) cold and target must make a DC 15 Con save. Fail: creature begins to freeze and has disadvantage on weapon attack rolls or ability checks that use Str or Dex. It must re-save at end of its next turn becoming incapacitated and unable to move or speak as it freezes solid on a failure or ending effect on success. Creature remains frozen until it spends 12+ hrs in a warm area thawing out or until it takes at least 10 fire.
+- **Icicle Barrage (Recharge 5-6):** Icicles fly from its hand in 30' cone. Each creature in area: 17 (5d6) piercing damage and 17 (5d6) cold (DC 16 Dex half).
 
 ### Reactions
 

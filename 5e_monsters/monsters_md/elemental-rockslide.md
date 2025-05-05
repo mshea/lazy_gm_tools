@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **Charge:** If it moves 20'+ straight to foe and hits with Slam attack on same turn target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature it must make DC 16 Str save or be knocked prone. If the elemental used Nimble Separation before making this Slam attack the target has disadvantage on the save.
-- **Elemental Nature:** Doesn’t require air food drink or sleep.
+- **Elemental Nature:** Doesn't require air food drink or sleep.
 - **Stone Camouflage:** Advantage on Dex (Stealth) checks made to hide in rocky terrain.
 
 ### Actions

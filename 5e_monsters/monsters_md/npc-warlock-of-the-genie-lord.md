@@ -20,17 +20,17 @@
 
 ### Special Abilities
 
-- **Elemental Weapons:** When it hits with any weapon deals extra 3d6 acid cold fire lightning or thunder (included below) warlock’s choice.
+- **Elemental Weapons:** When it hits with any weapon deals extra 3d6 acid cold fire lightning or thunder (included below) warlock's choice.
 
 ### Actions
 
 - **Multiattack:** Two Elemental Burst or Dagger attacks. It can replace one attack with use of Spellcasting.
 - **Dagger:** Melee or Ranged Weapon Attack: +6 to hit 5 ft. or range 20/60' one target 5 (1d4+3) piercing damage + 10 (3d6) acid cold fire lightning or thunder (warlock's choice).
-- **Elemental Burst:** Melee or Ranged Spell Attack: +7 to hit 5 ft. or range 120' one target 14 (3d6+4) acid cold fire lightning or thunder (warlock’s choice).
+- **Elemental Burst:** Melee or Ranged Spell Attack: +7 to hit 5 ft. or range 120' one target 14 (3d6+4) acid cold fire lightning or thunder (warlock's choice).
 - **Spellcasting:** Cha (DC 15). At will: levitate water breathing3/day ea: fire shield fly gust of wind1/day ea: conjure minor elementals (as an action) wall of stone
 
 ### Reactions
 
-- **Genie Lord’s Favor:** When it takes acid cold fire lightning or thunder warlock has advantage on next Elemental Burst attack it makes before end of its next turn provided Elemental Burst deals same damage as damage warlock took.
+- **Genie Lord's Favor:** When it takes acid cold fire lightning or thunder warlock has advantage on next Elemental Burst attack it makes before end of its next turn provided Elemental Burst deals same damage as damage warlock took.
 
 

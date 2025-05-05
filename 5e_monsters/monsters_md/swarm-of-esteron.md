@@ -22,10 +22,10 @@
 
 - **Amphibious:** The swarm can breathe air and water.
 - **Keen Smell:** The swarm has advantage on Wisdom (Perception) checks that rely on smell.
-- **Swarm:** The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny esteron. The swarm can’t regain hit points or gain temporary hit points.
+- **Swarm:** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny esteron. The swarm can't regain hit points or gain temporary hit points.
 
 ### Actions
 
-- **Bites:** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half its hp or fewer.
+- **Bites:** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half its hp or fewer.
 
 

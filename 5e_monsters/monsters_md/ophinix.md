@@ -27,6 +27,6 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage. If the ophinix is charged with electricity, the target also takes 5 (2d4) lightning damage.
 - **Generate Static:** The ophinix rubs along a dry surface and charges its fur with static electricity. Its fur remains charged with electricity for 1 minute or until it uses Lightning Strike.
-- **Lightning Strike (Recharge Special):** The ophinix releases its static electricity at up to three targets it can see within 30 feet of it. Each creature must make a DC 12 Dexterity saving throw, taking 5 (2d4) lightning damage on a failed save, or half as much damage on a successful one. After using Lightning Strike, the ophinix is no longer charged with electricity. It can’t use Lightning Strike if isn’t charged with electricity.
+- **Lightning Strike (Recharge Special):** The ophinix releases its static electricity at up to three targets it can see within 30 feet of it. Each creature must make a DC 12 Dexterity saving throw, taking 5 (2d4) lightning damage on a failed save, or half as much damage on a successful one. After using Lightning Strike, the ophinix is no longer charged with electricity. It can't use Lightning Strike if isn't charged with electricity.
 
 

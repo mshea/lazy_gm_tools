@@ -24,7 +24,7 @@
 
 - **Dark Devotion:** The scorpion cultist has advantage on saving throws against being charmed or frightened.
 - **Keen Senses:** The scorpion cultist has advantage on Wisdom (Perception) checks.
-- **Scorpion’s Blessing:** The scorpion cultist has advantage on saving throws against poison. In addition, when the scorpion cultist hits with any weapon, the weapon deals an extra 1d4 poison damage (included in the attack).
+- **Scorpion's Blessing:** The scorpion cultist has advantage on saving throws against poison. In addition, when the scorpion cultist hits with any weapon, the weapon deals an extra 1d4 poison damage (included in the attack).
 
 ### Actions
 

@@ -26,7 +26,7 @@
 
 - **Multiattack:** The chameleon hydra makes as many bite attacks as it has heads. It can use its Sticky Tongue or Reel in place of a bite attack.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.
-- **Sticky Tongue:** Melee Weapon Attack: +9 to hit, reach 50 ft., one target. Hit: The target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the hydra can’t use the same sticky tongue on another target.
+- **Sticky Tongue:** Melee Weapon Attack: +9 to hit, reach 50 ft., one target. Hit: The target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the hydra can't use the same sticky tongue on another target.
 - **Reel:** The hydra pulls a creature grappled by it up to 25 feet straight toward it.
 
 

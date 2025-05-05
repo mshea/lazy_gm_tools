@@ -31,6 +31,6 @@
 - **Multiattack:** One Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 16 (2d10+5) piercing damage.
 - **Claw:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 12 (2d6+5) slashing damage.
-- **Breath Weapon (Recharge 5–6):** Uses one of the following:Sand Blast. Exhales superheated sand in a 30' cone. Each creature in area: 22 (4d10) piercing damage and 22 (4d10) fire (DC 17 Dex half). If a creature fails its save by 5+ it suffers one level of exhaustion as it dehydrates.Blinding Sand. Breathes fine sand in a 30' cone. Each creature in area: blinded for 1 min (DC 17 Con negates). Blinded creature can take an action to clear its eyes of sand ending effect for it.
+- **Breath Weapon (Recharge 5-6):** Uses one of the following:Sand Blast. Exhales superheated sand in a 30' cone. Each creature in area: 22 (4d10) piercing damage and 22 (4d10) fire (DC 17 Dex half). If a creature fails its save by 5+ it suffers one level of exhaustion as it dehydrates.Blinding Sand. Breathes fine sand in a 30' cone. Each creature in area: blinded for 1 min (DC 17 Con negates). Blinded creature can take an action to clear its eyes of sand ending effect for it.
 
 

@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Amphibious:** Can breathe air and water.
-- **Fleeting Memory:** When it leaves creature’s sight creature must make DC 16 Wis save or remember swarm only as softly glowing lights.
+- **Fleeting Memory:** When it leaves creature's sight creature must make DC 16 Wis save or remember swarm only as softly glowing lights.
 - **Illumination:** Bright light in 20' radius and dim light an extra 20'.
 - **Immortal Nature:** Doesn't require food drink or sleep
 - **Magic Resistance:** Advantage: spell/magic effect saves.
@@ -32,8 +32,8 @@
 
 ### Actions
 
-- **Flurry of Tools:** Melee Weapon Attack: +8 to hit 0' 1 tgt in the swarm’s space. 10 (4d4) bludgeoning damage + 10 (4d4) piercing damage and 10 (4d4) slashing damage or 5 (2d4) bludgeoning damage + 5 (2d4) piercing damage and 4 (2d4) slashing damage if the swarm has half of its hp or fewer.
-- **Dismantle:** Destroys up to a 5 ft. cube of nonmagical debris structure or object that isn’t being worn or carried.
+- **Flurry of Tools:** Melee Weapon Attack: +8 to hit 0' 1 tgt in the swarm's space. 10 (4d4) bludgeoning damage + 10 (4d4) piercing damage and 10 (4d4) slashing damage or 5 (2d4) bludgeoning damage + 5 (2d4) piercing damage and 4 (2d4) slashing damage if the swarm has half of its hp or fewer.
+- **Dismantle:** Destroys up to a 5 ft. cube of nonmagical debris structure or object that isn't being worn or carried.
 - **Spellcasting:** Cha (DC 14) no material components: At will: floating disk mending spare the dying3/day ea: gentle repose knock sending1/day ea: locate creature passwall
 
 

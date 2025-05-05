@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Deft Snow Walk:** The fraughashar can move across icy surfaces without needing to make an ability check, and difficult terrain composed of ice and snow doesn’t cost it extra movement. In addition, the fraughashar has advantage on Strength and Dexterity saving throws made against effects that would knock it prone while in icy or snowy terrain.
+- **Deft Snow Walk:** The fraughashar can move across icy surfaces without needing to make an ability check, and difficult terrain composed of ice and snow doesn't cost it extra movement. In addition, the fraughashar has advantage on Strength and Dexterity saving throws made against effects that would knock it prone while in icy or snowy terrain.
 
 ### Actions
 

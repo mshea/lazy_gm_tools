@@ -41,6 +41,5 @@
 ### Reactions
 
 - **Deft Dodge (1/Round):** When an attacker that the grandmaster can see hits them with an attack, the grandmaster halves the attacks damage against them.
-- **Ascetic grandmasters lead the finest monasteries in the world or travel alone seeking worthy challenges and students:** They often appear unassuming, but challenging the speed and strength of these legendary martial artists is akin to challenging a hurricane.
 
 

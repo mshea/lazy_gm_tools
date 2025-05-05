@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Good Dog:** If a Humanoid that hasn’t harmed hound in last 24 hrs and takes action to offer it bit of food or speak kind words to it hound must make DC 12 Wis save or be charmed by that Humanoid for 1 hr or until Humanoid or its companions do anything harmful to hound. Also hound has disadvantage on saves vs. command spell.
+- **Good Dog:** If a Humanoid that hasn't harmed hound in last 24 hrs and takes action to offer it bit of food or speak kind words to it hound must make DC 12 Wis save or be charmed by that Humanoid for 1 hr or until Humanoid or its companions do anything harmful to hound. Also hound has disadvantage on saves vs. command spell.
 - **Incorporeal Movement:** Move through others/objects as difficult terrain. Takes 5 (1d10) force if it ends turn in object.
 - **Pack Tactics:** Advantage on attacks vs. creature if 1+ unincapacitated attacker ally is within 5 ft. of target.
 - **Undead Nature:** Doesn't require air food drink or sleep.
@@ -34,6 +34,6 @@
 
 ### Reactions
 
-- **Multiply (3/Day):** When it takes damage while below half its hp max it creates a spectral hound. Spectral hound uses the stats of a shadow except it doesn’t have Sunlight Weakness trait and can’t make new shadows when it kills Humanoids. It appears in an unoccupied space within 5 ft. of the relentless hound and acts on same initiative as that hound. After spectral hound finishes a long rest it becomes a relentless hound.
+- **Multiply (3/Day):** When it takes damage while below half its hp max it creates a spectral hound. Spectral hound uses the stats of a shadow except it doesn't have Sunlight Weakness trait and can't make new shadows when it kills Humanoids. It appears in an unoccupied space within 5 ft. of the relentless hound and acts on same initiative as that hound. After spectral hound finishes a long rest it becomes a relentless hound.
 
 

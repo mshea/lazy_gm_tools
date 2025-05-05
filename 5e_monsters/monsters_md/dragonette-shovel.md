@@ -19,7 +19,7 @@
 ### Special Abilities
 
 - **Floral Camouflage:** Advantage on Dex (Stealth) checks made to hide among ample obscuring flowers fruits or vegetables.
-- **Messy Digger:** Opportunity attacks vs. it have disadvantage when dragonette burrows out of an enemy’s reach.
+- **Messy Digger:** Opportunity attacks vs. it have disadvantage when dragonette burrows out of an enemy's reach.
 - **Squat Body:** Advantage on ability checks/saves vs. effects to move it vs. its will and if effect moves it vs. its will along the ground can use a reaction to reduce distance moved by up to 10 ft..
 
 ### Actions

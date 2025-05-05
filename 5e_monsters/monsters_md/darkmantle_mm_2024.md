@@ -26,5 +26,5 @@
 While attached to a target, the darkmantle can attack only the target but has Advantage on its attack rolls. Its Speed becomes 0, it can't benefit from any bonus to its Speed, and it moves with the target.
 A creature can take an action to try to detach the darkmantle from itself, doing so with a successful DC 13 Strength (Athletics) check. On its turn, the darkmantle can detach itself by using 5 feet of movement.
 
-***Darkness Aura (1/Day).*** Magical Darkness fills a 15-foot Emanation originating from the darkmantle. This effect lasts while the darkmantle maintains  Concentration on it, up to 10 minutes. Darkvision can't penetrate this area, and no light can illuminate it.
+***Darkness Aura (1/Day).*** Magical darkness fills a 15-foot Emanation originating from the darkmantle. This effect lasts while the darkmantle maintains  Concentration on it, up to 10 minutes. Darkvision can't penetrate this area, and no light can illuminate it.
 

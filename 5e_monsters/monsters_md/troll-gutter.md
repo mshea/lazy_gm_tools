@@ -22,7 +22,7 @@
 - **Amphibious:** Can breathe air and water.
 - **Keen Smell:** Advantage: smell Wis (Percept) checks.
 - **Psychoactive Sweat:** Any creature that starts its turn within 5 ft. of the troll must make DC 13 Con save or be poisoned until the start of its next turn.
-- **Regeneration:** The troll regains 10 hp at the start of its turn. If the troll takes acid or fire this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hp and doesn’t regenerate.
+- **Regeneration:** The troll regains 10 hp at the start of its turn. If the troll takes acid or fire this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hp and doesn't regenerate.
 
 ### Actions
 

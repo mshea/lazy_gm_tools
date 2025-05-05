@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Hungry Dead Nature:** The ghoul requires no air or sleep.
-- **Pack Tactics:** The beggar ghoul has advantage on attack rolls against a creature if at least one of the beggar ghoul’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The beggar ghoul has advantage on attack rolls against a creature if at least one of the beggar ghoul's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - **Savage Hunger:** Its Bite attack is a critical hit if the beggar ghoul bites a creature it has surprised.
 
 ### Actions

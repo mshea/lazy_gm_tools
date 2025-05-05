@@ -23,9 +23,9 @@
 
 ### Special Abilities
 
-- **Ice Glide:** The elemental can burrow through nonmagical ice. While doing so, the elemental doesn’t disturb the material it moves through.
-- **Ice Walk:** The ice elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn’t cost it extra movement.
-- **Splinter:** A creature that hits the ice elemental with a melee weapon attack that deals bludgeoning damage while within 5 feet of the elemental takes 3 (1d6) piercing damage as shards of ice fly out from the elemental’s body.
+- **Ice Glide:** The elemental can burrow through nonmagical ice. While doing so, the elemental doesn't disturb the material it moves through.
+- **Ice Walk:** The ice elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
+- **Splinter:** A creature that hits the ice elemental with a melee weapon attack that deals bludgeoning damage while within 5 feet of the elemental takes 3 (1d6) piercing damage as shards of ice fly out from the elemental's body.
 
 ### Actions
 

@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Beard Weakness:** A creature grappling the scheznyki can take its action to cut off the scheznyki’s beard by succeeding on a DC 15 Strength check while holding an edged weapon. If its beard is cut off, the scheznyki can’t use Spellcasting until its beard regrows.
+- **Beard Weakness:** A creature grappling the scheznyki can take its action to cut off the scheznyki's beard by succeeding on a DC 15 Strength check while holding an edged weapon. If its beard is cut off, the scheznyki can't use Spellcasting until its beard regrows.
 - **Brute:** A melee weapon deals one extra die of its damage when the scheznyki hits with it (included in the attack).
 - **Magic Resistance:** The scheznyki has advantage on saving throws against spells and other magical effects.
 

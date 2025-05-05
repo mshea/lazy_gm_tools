@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Poisoned Weapons:** The selang’s weapons are coated with a magical poison. When the selang hits with any weapon, the weapon deals an extra 3d6 poison damage (included in the attack).
+- **Poisoned Weapons:** The selang's weapons are coated with a magical poison. When the selang hits with any weapon, the weapon deals an extra 3d6 poison damage (included in the attack).
 
 ### Actions
 

@@ -27,7 +27,7 @@
 
 - **Multiattack:** Three Slam attacks.
 - **Slam:** Melee Weapon Attack: +11 to hit, 10 ft., one target, 23 (3d10+7) bludgeoning damage and the target must make DC 16 Str save or be knocked prone.
-- **Thunderous Bellow (Recharge 5–6):** The thundercall hadrosaur unleashes a ground-shattering bellow in a 120' cone. All in area make a DC 16 Con save. On a failure a creature takes 38 (7d10) thunder and is knocked prone. On a success a creature takes half the damage and isn’t knocked prone.
+- **Thunderous Bellow (Recharge 5-6):** The thundercall hadrosaur unleashes a ground-shattering bellow in a 120' cone. All in area make a DC 16 Con save. On a failure a creature takes 38 (7d10) thunder and is knocked prone. On a success a creature takes half the damage and isn't knocked prone.
 
 ### Reactions
 

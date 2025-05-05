@@ -17,6 +17,7 @@
 | CHA | 11 | +0 | +0 |
 
 - **Skills**: Arcana +6, History +6, Perception +4
+- **Gear** Wand
 - **Senses**: Passive Perception 14
 - **Languages**: Common and any three languages
 - **CR** 6 (XP 2,300; PB +3)

@@ -34,6 +34,6 @@
 - **Trunk Maul:** Melee Weapon Attack: +11 to hit, 10 ft., one target, 20 (4d6+6) bludgeoning damage + 22 (5d8) force.
 - **Stomp:** Melee Weapon Attack: +11 to hit 10 ft. one prone creature. 22 (3d10+6) bludgeoning damage.
 - **Trumpeting Blast:** Ranged Spell Attack: +10 to hit, 120 ft., one target, 19 (4d6+5) thunder.
-- **Sundering Quake (Recharge 5–6):** Slams its forelegs into the ground. Each creature in contact with the ground within 20' of it: 49 (14d6) force (DC 19 Dex half). Each structure in contact with the ground within 20' of archon also takes the damage and collapses if the damage reduces it to 0 hp.
+- **Sundering Quake (Recharge 5-6):** Slams its forelegs into the ground. Each creature in contact with the ground within 20' of it: 49 (14d6) force (DC 19 Dex half). Each structure in contact with the ground within 20' of archon also takes the damage and collapses if the damage reduces it to 0 hp.
 
 

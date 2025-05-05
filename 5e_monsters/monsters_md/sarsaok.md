@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Charge:** If the sarsaok moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, the target takes an extra 13 (3d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
-- **Divine Horns:** The sarsaok’s gore attack is magical. In addition, its gore attack ignores the target’s resistances to piercing or fire damage.
+- **Divine Horns:** The sarsaok's gore attack is magical. In addition, its gore attack ignores the target's resistances to piercing or fire damage.
 - **Heated Body:** Any creature that touches the sarsaok or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage.
 
 ### Actions

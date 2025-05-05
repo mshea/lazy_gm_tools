@@ -24,7 +24,7 @@
 ### Special Abilities
 
 - **Hold Breath:** The bukavac can hold its breath for 20 minutes.
-- **Standing Leap:** A bukavac’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+- **Standing Leap:** A bukavac's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 ### Actions
 
@@ -32,4 +32,4 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (1d12 + 5) slashing damage, and the target is grappled (escape DC 16) if it is a Medium or smaller creature. The bukavac can have no more than two creatures grappled at a time.
 - **Gore:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) piercing damage.
-- **Croaking Blast (Recharge 5–6):** A bukavac can emit a howling thunderclap in a 15-foot radius. Each creature in that area must make a DC 16 Constitution saving throw. On a failure, a creature takes 36 (8d8) thunder damage and is deafened until cured by the lesser restoration spell or similar magic. On a success, a creature takes half the damage and isn’t deafened.
+- **Croaking Blast (Recharge 5-6):** A bukavac can emit a howling thunderclap in a 15-foot radius. Each creature in that area must make a DC 16 Constitution saving throw. On a failure, a creature takes 36 (8d8) thunder damage and is deafened until cured by the lesser restoration spell or similar magic. On a success, a creature takes half the damage and isn't deafened.

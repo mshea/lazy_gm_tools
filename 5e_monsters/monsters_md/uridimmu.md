@@ -21,10 +21,10 @@
 
 ### Special Abilities
 
-- **Chaos Mace:** The uridimmu’s attacks with its mace are magical. When the uridimmu hits with its mace, the mace deals an extra 4d8 fire, lightning, or radiant damage (included in the attack). The uridimmu chooses the type of damage when making the attack.
-- **Heroic Aura:** Each friendly creature within 20 feet of the uridimmu can’t be charmed or frightened. In addition, when a friendly creature within 20 feet of the uridimmu makes an attack roll or a saving throw, it can roll a d4 and add the result to the attack roll or saving throw. The uridimmu’s aura doesn’t work in the area of an antimagic field spell or while in a temple, shrine, or other structure dedicated to a chaotic deity.
+- **Chaos Mace:** The uridimmu's attacks with its mace are magical. When the uridimmu hits with its mace, the mace deals an extra 4d8 fire, lightning, or radiant damage (included in the attack). The uridimmu chooses the type of damage when making the attack.
+- **Heroic Aura:** Each friendly creature within 20 feet of the uridimmu can't be charmed or frightened. In addition, when a friendly creature within 20 feet of the uridimmu makes an attack roll or a saving throw, it can roll a d4 and add the result to the attack roll or saving throw. The uridimmu's aura doesn't work in the area of an antimagic field spell or while in a temple, shrine, or other structure dedicated to a chaotic deity.
 - **Magic Resistance:** The uridimmu has advantage on saving throws against spells and other magical effects.
-- **Innate Spellcasting:** The uridimmu’s spellcasting ability is Charisma (spell save DC 18). The uridimmu can innately cast the following spells, requiring no material components:
+- **Innate Spellcasting:** The uridimmu's spellcasting ability is Charisma (spell save DC 18). The uridimmu can innately cast the following spells, requiring no material components:
 At will: detect evil and good, light, protection from evil and good
 3/day each: dispel magic, glyph of warding, lightning bolt
 1/day each: flame strike, heal, wall of fire

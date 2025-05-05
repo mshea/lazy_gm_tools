@@ -22,8 +22,8 @@
 
 ### Special Abilities
 
-- **Antimagic Susceptibility:** The witchlight is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the witchlight must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
-- **Construct Nature:** The witchlight doesn’t require air, food, drink, or sleep.
+- **Antimagic Susceptibility:** The witchlight is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the witchlight must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+- **Construct Nature:** The witchlight doesn't require air, food, drink, or sleep.
 - **Variable Illumination:** The witchlight sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The witchlight can alter the radius as a bonus action.
 
 ### Actions

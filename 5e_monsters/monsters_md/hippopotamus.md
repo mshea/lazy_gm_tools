@@ -23,6 +23,6 @@
 ### Actions
 
 - **Gore:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 18 (3d8+5) piercing damage.
-- **Thunderous Bray (Recharge 5–6):** Emits a resounding bray in a 15 ft. cone. All in area make a DC 13 Con save. On a failure a creature takes 14 (4d6) thunder and is incapacitated until the end of its next turn. On a success a creature takes half the damage and isn’t incapacitated.
+- **Thunderous Bray (Recharge 5-6):** Emits a resounding bray in a 15 ft. cone. All in area make a DC 13 Con save. On a failure a creature takes 14 (4d6) thunder and is incapacitated until the end of its next turn. On a success a creature takes half the damage and isn't incapacitated.
 
 

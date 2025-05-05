@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Bred to the Saddle:** The gerridae can’t be charmed or frightened while it has a rider.
+- **Bred to the Saddle:** The gerridae can't be charmed or frightened while it has a rider.
 - **Water Bound:** For every hour the gerridae spends on dry land, its hp maximum is reduced by 2 (1d4).
 - **Water Walker:** The gerridae can move across the surface of water as if it were harmless, solid ground. This trait works like the water walk spell.
 

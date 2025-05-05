@@ -24,9 +24,9 @@
 ### Special Abilities
 
 - **Distracting Babble:** When a spellcaster that is concentrating on a spell starts its turn within 20 feet of the mamura, the spellcaster must succeed on a DC 15 Constitution saving throw or lose concentration on the spell. In addition, if a spellcaster within 20 feet of the mamura casts a spell, it must succeed on a DC 15 Constitution saving throw or the spell fails to cast, using the action, bonus action, or reaction to cast the spell but not expending the spell slot.
-- **Flyby:** The mamura doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+- **Flyby:** The mamura doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - **Magic Resistance:** The mamura has advantage on saving throws against spells and other magical effects.
-- **Radial Eyes:** The mamura has advantage on Wisdom (Perception) checks that rely on sight and on saving throws against being blinded. In addition, if the mamura isn’t blinded, creatures attacking it can’t benefit from traits and features that rely on a creature’s allies distracting or surrounding the mamura, such as the Pack Tactics trait or Sneak Attack class feature.
+- **Radial Eyes:** The mamura has advantage on Wisdom (Perception) checks that rely on sight and on saving throws against being blinded. In addition, if the mamura isn't blinded, creatures attacking it can't benefit from traits and features that rely on a creature's allies distracting or surrounding the mamura, such as the Pack Tactics trait or Sneak Attack class feature.
 
 ### Actions
 

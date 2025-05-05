@@ -21,7 +21,7 @@
 
 ### Special Abilities
 
-- **Cryophobia:** Whenever the chill haunt is subjected to cold damage, it takes no damage, but it must succeed on a DC 13 Wisdom saving throw or become frightened of the source of the damage for 1 minute. This trait overrides the haunt’s normal immunity to the frightened condition.
+- **Cryophobia:** Whenever the chill haunt is subjected to cold damage, it takes no damage, but it must succeed on a DC 13 Wisdom saving throw or become frightened of the source of the damage for 1 minute. This trait overrides the haunt's normal immunity to the frightened condition.
 - **Fire Absorption:** Whenever the chill haunt is subjected to fire damage, it takes no damage and instead regains a number of hp equal to the fire damage dealt.
 - **Incorporeal Movement:** The chill haunt can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 

@@ -18,8 +18,8 @@
 
 ### Special Abilities
 
-- **Arboreal Tactician:** The sulsha is adept at fighting while climbing. It doesn’t provoke opportunity attacks when it climbs out of an enemy’s reach, and it has advantage on attack rolls against a creature if the creature is climbing.
-- **Standing Leap:** The sulsha’s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
+- **Arboreal Tactician:** The sulsha is adept at fighting while climbing. It doesn't provoke opportunity attacks when it climbs out of an enemy's reach, and it has advantage on attack rolls against a creature if the creature is climbing.
+- **Standing Leap:** The sulsha's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
 ### Actions
 

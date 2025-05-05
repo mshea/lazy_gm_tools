@@ -33,6 +33,6 @@
 ### Bonus Actions
 
 - **Shapeshift:** The jackalwere magically changes its form, along with its equipment, to that of a specific Medium humanoid or a jackal-human hybrid or its true form, which is a Small jackal. While shapeshifted, its statistics are otherwise unchanged. It reverts to its true form if it dies.
-- **Combat The jackalwere shifts to hybrid form and uses Sleep Gaze on an unsuspecting target:** It then fights with its scimitar, staying next to at least one ally. A jackalwere is fearless when facing enemies armed with mundane weapons, but it retreats if it is outnumbered by enemies capable of bypassing its resistances.
+- **Combat:**  The jackalwere shifts to hybrid form and uses Sleep Gaze on an unsuspecting target.<br>It then fights with its scimitar, staying next to at least one ally. A jackalwere is fearless when facing enemies armed with mundane weapons, but it retreats if it is outnumbered by enemies capable of bypassing its resistances.
 
 

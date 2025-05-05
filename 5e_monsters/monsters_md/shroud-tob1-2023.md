@@ -23,9 +23,9 @@
 ### Special Abilities
 
 - **Amorphous:** The shroud can move through a space as narrow as 1 inch wide without squeezing.
-- **Shadow Evolution:** If the shroud deals at least 12 necrotic damage to a creature that isn’t a Construct or Undead in 1 minute or less, the shroud transforms into a shadow at the start of the turn after it last dealt damage. It uses the statistics of the shadow, except it reduces the shadow’s hp by an amount equal to the damage the shroud took before it transformed.
+- **Shadow Evolution:** If the shroud deals at least 12 necrotic damage to a creature that isn't a Construct or Undead in 1 minute or less, the shroud transforms into a shadow at the start of the turn after it last dealt damage. It uses the statistics of the shadow, except it reduces the shadow's hp by an amount equal to the damage the shroud took before it transformed.
 - **Sunlight Weakness:** While in sunlight, the shroud has disadvantage on attack rolls, ability checks, and saving throws.
-- **Undead Nature:** The shroud doesn’t require air, food, drink, or sleep.
+- **Undead Nature:** The shroud doesn't require air, food, drink, or sleep.
 
 ### Actions
 

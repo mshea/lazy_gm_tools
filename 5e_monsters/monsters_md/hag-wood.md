@@ -24,7 +24,7 @@
 - **One with the Woods:** While hag remains motionless in forest terrain is indistinguishable from an old decomposing log or tree stump.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Speak with Beasts and Plants:** Can communicate with Beasts and Plants as if they shared a language.
-- **Woodland Walk:** Difficult terrain made of plants doesn’t cost hag extra move. Can pass through plants with o being slowed by them nor taking damage from them if they have thorns spines or similar.
+- **Woodland Walk:** Difficult terrain made of plants doesn't cost hag extra move. Can pass through plants with o being slowed by them nor taking damage from them if they have thorns spines or similar.
 
 ### Actions
 

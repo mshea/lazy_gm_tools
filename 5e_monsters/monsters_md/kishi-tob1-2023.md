@@ -23,7 +23,7 @@
 
 ### Special Abilities
 
-- **Fiendish Weapons:** The kishi’s weapon attacks are magical. When the kishi hits with any weapon, the weapon deals an extra 2d8 cold damage (included in the attack).
+- **Fiendish Weapons:** The kishi's weapon attacks are magical. When the kishi hits with any weapon, the weapon deals an extra 2d8 cold damage (included in the attack).
 - **Two Heads:** The kishi has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
 - **Magic Resistance:** The kishi has advantage on saving throws against spells and other magical effects.
 
@@ -37,4 +37,4 @@
 ### Bonus Actions
 
 - **Trophy Shield:** The kishi absorbs some of the essence of a creature it killed since the end of its previous turn and magically creates a grisly trophy of the creature on its shield or spear. For 1 hour, its Armor Class becomes 20, and creatures of the same type as the slain creature have disadvantage on attack rolls against the kishi.
-- **Summon Demon (1/Day):** The kishi demon magically calls 1d4 giant hyenas that are Fiends with the kishi’s damage resistances and immunities. It has a 50 percent chance of calling one kishi demon instead. The called creatures arrive in 1d4 rounds, acting as allies of the kishi and obeying its telepathic commands. The creatures remain for 1 hour, until the kishi dies, or until the kishi dismisses them as a bonus action.
+- **Summon Demon (1/Day):** The kishi demon magically calls 1d4 giant hyenas that are Fiends with the kishi's damage resistances and immunities. It has a 50 percent chance of calling one kishi demon instead. The called creatures arrive in 1d4 rounds, acting as allies of the kishi and obeying its telepathic commands. The creatures remain for 1 hour, until the kishi dies, or until the kishi dismisses them as a bonus action.

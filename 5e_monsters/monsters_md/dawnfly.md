@@ -29,7 +29,7 @@
 - **Multiattack:** One Bite attack and three Tail attacks.
 - **Bite:** Melee Weapon Attack: +12 to hit, 5 ft., one target, 19 (3d8+6) piercing damage + 7 (2d6) poison.
 - **Tail:** Melee Weapon Attack: +12 to hit, 15 ft., one target, 22 (3d10+6) bludgeoning damage.
-- **Wing Slice (Recharge 4–6):** Flies up to 40' in straight line and can move through space of any Huge or smaller creature. First time it enters creature’s space during this move creature: 54 (12d8) slashing damage and stunned until end of its next turn and if dawnfly's wings are ignited from Winged Inferno extra 14 (4d6) fire (DC 19 Dex half isn’t stunned).
+- **Wing Slice (Recharge 4-6):** Flies up to 40' in straight line and can move through space of any Huge or smaller creature. First time it enters creature's space during this move creature: 54 (12d8) slashing damage and stunned until end of its next turn and if dawnfly's wings are ignited from Winged Inferno extra 14 (4d6) fire (DC 19 Dex half isn't stunned).
 
 ### Bonus Actions
 

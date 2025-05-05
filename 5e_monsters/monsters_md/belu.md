@@ -27,7 +27,7 @@
 
 - **Multiattack:** Three Slam attacks.
 - **Slam:** Melee Weapon Attack: +10 to hit, 10 ft., one target, 20 (4d6+6) bludgeoning damage and target: DC 16 Str save or pushed up to 10 ft. away from it and knocked prone.
-- **Shatterstone (Recharge 5–6):** Hurls enchanted rock at point it can see within 60' of it. Rock shatters on impact and each creature within 10 ft. of that point: 44 (8d10) slashing damage (DC 16 Dex half).
+- **Shatterstone (Recharge 5-6):** Hurls enchanted rock at point it can see within 60' of it. Rock shatters on impact and each creature within 10 ft. of that point: 44 (8d10) slashing damage (DC 16 Dex half).
 - **Spellcasting:** Cha (DC 14) no material components: At will: entangle speak with plants stone shape2/day: plant growth
 
 ### Bonus Actions

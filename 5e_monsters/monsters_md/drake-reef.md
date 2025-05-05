@@ -28,7 +28,7 @@
 - **Multiattack:** One Bite attack and two Slam attacks.
 - **Bite:** Melee Weapon Attack: +11 to hit, 15 ft., one target, 26 (3d12+7) slashing damage.
 - **Slam:** Melee Weapon Attack: +11 to hit, 5 ft., one target, 17 (3d6+7) bludgeoning damage.
-- **Concussive Snap (Recharge 5–6):** Snaps its jaws emitting concussive force in a 90' cone. Each creature in that area: 35 (10d6) thunder is pushed up to 15 ft. away from the drake and stops holding its breath if it was doing so. (DC 15 Con half damage isn’t pushed and doesn’t lose its held breath). Constructs and objects and structures have disadvantage on the save.
+- **Concussive Snap (Recharge 5-6):** Snaps its jaws emitting concussive force in a 90' cone. Each creature in that area: 35 (10d6) thunder is pushed up to 15 ft. away from the drake and stops holding its breath if it was doing so. (DC 15 Con half damage isn't pushed and doesn't lose its held breath). Constructs and objects and structures have disadvantage on the save.
 
 ### Bonus Actions
 

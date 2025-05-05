@@ -24,7 +24,7 @@
 - **Paralyzing Throes:** When the ghul dies, it explodes in a puff of noxious smoke. Each creature within 5 feet of it must succeed on a DC 13 Constitution saving throw or be paralyzed until the end of its next turn.
 - **Turn Resistance:** The ghul has advantage on saving throws against any effect that turns undead.
 - **Variable Immunity:** As a bonus action, the ghul changes one of its damage resistances to immunity to that type of damage until the start of its next turn.
-- **Innate Spellcasting:** The ghul’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+- **Innate Spellcasting:** The ghul's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 At will: chill touch, fire bolt, ray of frost, shocking grasp
 3/day each: fog cloud, rolling thunder, misty step, spire of stone
 1/day each: blur, fireball, gaseous form, frozen razors, stinking cloud

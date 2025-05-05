@@ -25,6 +25,6 @@
 
 - **Multiattack:** Two Gnarly Club attacks or it makes one Gnarly Club attack and uses Taunting Threat.
 - **Gnarly Club:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) bludgeoning damage and the target must make DC 12 Str save or be knocked prone.
-- **Taunting Threat:** The husker throws a series of rude and menacing gestures at one creature it can see within 30' of it. The target must make a DC 13 Cha save. On a failure the target takes 7 (2d6) psychic and has disadvantage on all attacks not made vs. the husker until the end of its next turn. On a success the target takes half the damage and doesn’t have disadvantage on attacks not made vs. the husker.
+- **Taunting Threat:** The husker throws a series of rude and menacing gestures at one creature it can see within 30' of it. The target must make a DC 13 Cha save. On a failure the target takes 7 (2d6) psychic and has disadvantage on all attacks not made vs. the husker until the end of its next turn. On a success the target takes half the damage and doesn't have disadvantage on attacks not made vs. the husker.
 
 

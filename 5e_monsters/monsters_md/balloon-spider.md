@@ -19,7 +19,7 @@
 
 ### Special Abilities
 
-- **Erratic Discharge:** A creature that starts its turn within 10 feet of the balloon spider must make a DC 12 Constitution saving throw. On a failure, the creature takes 2 (1d4) lightning damage and can move or take an action on its turn, but not both. On a success, the creature gains the benefits of the haste spell until the end of its turn. If a creature’s saving throw is successful, it is immune to the spider’s Erratic Discharge for the next 24 hours.
+- **Erratic Discharge:** A creature that starts its turn within 10 feet of the balloon spider must make a DC 12 Constitution saving throw. On a failure, the creature takes 2 (1d4) lightning damage and can move or take an action on its turn, but not both. On a success, the creature gains the benefits of the haste spell until the end of its turn. If a creature's saving throw is successful, it is immune to the spider's Erratic Discharge for the next 24 hours.
 
 ### Actions
 

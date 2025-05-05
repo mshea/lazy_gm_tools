@@ -21,7 +21,7 @@
 
 - **Cruelty:** If the infernal centaur scores a critical hit with a melee attack, it can make a second attack against the same target as a bonus action. It has advantage on this attack roll.
 - **Hell Hound Affinity:** Hell hounds view infernal centaurs as leaders of their packs. A hell hound refuses to attack an infernal centaur unless the centaur attacks it first. If magically coerced, the hell hound has disadvantage on attack rolls against the centaur. The centaur has advantage on Charisma (Persuasion) checks against hell hounds.
-- **Pack Tactics:** The centaur has advantage on attack rolls against a creature if at least one of the centaur’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The centaur has advantage on attack rolls against a creature if at least one of the centaur's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions
 

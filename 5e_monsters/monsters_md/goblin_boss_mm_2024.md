@@ -17,6 +17,7 @@
 | CHA | 10 | +0 | +0 |
 
 - **Skills**: Stealth +6
+- **Gear** Chain Shirt, Scimitar, Shield, Shortbow
 - **Senses**: darkvision 60 ft.; Passive Perception 9
 - **Languages**: Common, Goblin
 - **CR** 1 (XP 200; PB +2)

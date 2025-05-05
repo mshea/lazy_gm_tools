@@ -25,7 +25,7 @@
 
 ### Actions
 
-- **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (2d4+3) piercing damage and the target must make DC 11 Dex save or be knocked prone. The DC increases by 1 for each other porcellina that hit the target since the end of this porcellina’s previous turn to a max of DC 15.
+- **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (2d4+3) piercing damage and the target must make DC 11 Dex save or be knocked prone. The DC increases by 1 for each other porcellina that hit the target since the end of this porcellina's previous turn to a max of DC 15.
 
 ### Reactions
 

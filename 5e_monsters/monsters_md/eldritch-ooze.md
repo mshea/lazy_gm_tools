@@ -21,9 +21,9 @@
 ### Special Abilities
 
 - **Amorphous:** The eldritch ooze can move through a space as narrow as 1 inch wide without squeezing.
-- **Maddening Form:** When a creature with an Intelligence of 3 or higher that can see the eldritch ooze starts its turn within 30 feet of the ooze, the ooze can force it to make a DC 14 Wisdom saving throw if the ooze isn’t incapacitated and can see the creature. If the creature fails, it takes 7 (2d6) psychic damage and is incapacitated until the end of its turn.
+- **Maddening Form:** When a creature with an Intelligence of 3 or higher that can see the eldritch ooze starts its turn within 30 feet of the ooze, the ooze can force it to make a DC 14 Wisdom saving throw if the ooze isn't incapacitated and can see the creature. If the creature fails, it takes 7 (2d6) psychic damage and is incapacitated until the end of its turn.
 
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can’t see the eldritch ooze until the start of its next turn, when it can avert its eyes again. If the creature looks at the ooze in the meantime, it must immediately make the saving throw.
+Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the eldritch ooze until the start of its next turn, when it can avert its eyes again. If the creature looks at the ooze in the meantime, it must immediately make the saving throw.
 - **Spider Climb:** The eldritch ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 ### Actions
@@ -32,6 +32,6 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 ### Reactions
 
-- **Split:** When an eldritch ooze that is Medium or larger is subjected to lightning or slashing damage, it splits into two new oozes if it has at least 10 hp. Each new ooze has hp equal to half the original ooze’s, rounded down. New oozes are one size smaller than the original ooze.
+- **Split:** When an eldritch ooze that is Medium or larger is subjected to lightning or slashing damage, it splits into two new oozes if it has at least 10 hp. Each new ooze has hp equal to half the original ooze's, rounded down. New oozes are one size smaller than the original ooze.
 
 

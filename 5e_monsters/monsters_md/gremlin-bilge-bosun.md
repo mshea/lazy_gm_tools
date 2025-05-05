@@ -21,7 +21,7 @@
 ### Special Abilities
 
 - **Amphibious:** Can breathe air and water.
-- **Aura of Mechanical Mishap:** The bilge gremlin’s presence interferes with nonmagical objects that have moving parts such as clocks crossbows or hinges within 20' of it. Such objects that aren’t being worn or carried malfunction while within the aura and if in the aura for more than 1 min they cease to function until repaired. If a creature in the aura uses a nonmagical object with moving parts roll a d6. On a 4 5 or 6 weapons such as crossbows or firearms misfire and jam and other objects cease to function. A creature can take its action to restore the malfunctioning object by succeeding on a DC 13 Int check.
+- **Aura of Mechanical Mishap:** The bilge gremlin's presence interferes with nonmagical objects that have moving parts such as clocks crossbows or hinges within 20' of it. Such objects that aren't being worn or carried malfunction while within the aura and if in the aura for more than 1 min they cease to function until repaired. If a creature in the aura uses a nonmagical object with moving parts roll a d6. On a 4 5 or 6 weapons such as crossbows or firearms misfire and jam and other objects cease to function. A creature can take its action to restore the malfunctioning object by succeeding on a DC 13 Int check.
 - **Filth Dweller:** The bilge gremlin is immune to disease.
 
 ### Actions

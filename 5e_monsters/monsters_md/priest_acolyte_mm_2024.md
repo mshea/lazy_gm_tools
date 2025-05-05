@@ -17,6 +17,7 @@
 | CHA | 11 | +0 | +0 |
 
 - **Skills**: Medicine +4, Religion +2
+- **Gear** Chain Shirt, Holy Symbol, Mace
 - **Senses**: Passive Perception 12
 - **Languages**: Common
 - **CR** 1/4 (XP 50; PB +2)

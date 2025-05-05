@@ -27,7 +27,7 @@
 
 ### Actions
 
-- **Talons:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 9 (2d6+2) slashing damage. If target is a creature: DC 11 Con save or contract a disease. Until disease is cured target can’t regain hp except by magical means and target’s hp max decreases by 3 (1d6) every 24 hrs. If target’s hp max drops to 0 as a result of this disease target dies.
+- **Talons:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 9 (2d6+2) slashing damage. If target is a creature: DC 11 Con save or contract a disease. Until disease is cured target can't regain hp except by magical means and target's hp max decreases by 3 (1d6) every 24 hrs. If target's hp max drops to 0 as a result of this disease target dies.
 - **Bad Omen (1/Day):** Places a bad omen on a creature it can see within 20' of it. Target: DC 10 Wis save or be cursed for 1 min. While cursed target has disadvantage on attack rolls vs. bone collector. Target can re-save at end of each of its turns success ends effect on itself.
 
 

@@ -23,9 +23,9 @@
 
 ### Special Abilities
 
-- **Inscrutable:** The hundun is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the hundun’s intentions or sincerity have disadvantage.
+- **Inscrutable:** The hundun is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the hundun's intentions or sincerity have disadvantage.
 - **Magic Resistance:** The hundun has advantage on saving throws against spells and other magical effects.
-- **Radiant Fists:** The hundun’s Slam attacks are magical. When the hundun hits with a Slam attack, the attack deals an extra 2d6 radiant damage (included in the attack).
+- **Radiant Fists:** The hundun's Slam attacks are magical. When the hundun hits with a Slam attack, the attack deals an extra 2d6 radiant damage (included in the attack).
 
 ### Actions
 

@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Devil’s Sight:** Magic darkness doesn’t impede its darkvision.
+- **Devil's Sight:** Magic darkness doesn't impede its darkvision.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Necrotic Weapons:** Its weapon attacks are magical. When it hits with any weapon weapon deals+4d8 necrotic (included below).
 
@@ -31,7 +31,7 @@
 - **Multiattack:** 3 Claws or Necrotic Bolts. Can replace 1 with Spellcasting.
 - **Claw:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 11 (2d6+4) slashing damage + 18 (4d8) necrotic.
 - **Necrotic Bolt:** Ranged Spell Attack: +10 to hit, 120 ft., one target, 27 (5d8+5) necrotic.
-- **Desiccating Breath (Recharge 5–6):** Inhales drawing moisture from surrounding creatures. Each non-Construct/Undead creature within 15 ft. of shetani: 54 (12d8) necrotic (DC 18 Con half). If a creature fails the save by 5+ it suffers one level of exhaustion.
+- **Desiccating Breath (Recharge 5-6):** Inhales drawing moisture from surrounding creatures. Each non-Construct/Undead creature within 15 ft. of shetani: 54 (12d8) necrotic (DC 18 Con half). If a creature fails the save by 5+ it suffers one level of exhaustion.
 - **Spellcasting:** Cha (DC 18): At will: charm person silent image3/day ea: major image suggestion1/day ea: mirage arcane (as an action) programmed illusion
 
 ### Bonus Actions

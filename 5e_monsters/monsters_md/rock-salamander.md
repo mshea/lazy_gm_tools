@@ -16,7 +16,7 @@
 - **Damage Immunities:** poison
 - **Condition Immunities:** exhaustion, paralyzed, petrified, poisoned, unconscious
 - **Senses:** darkvision 60', tremorsense 60', passive Perception 11
-- **Languages:** understands Terran but can’t speak
+- **Languages:** understands Terran but can't speak
 
 ### Special Abilities
 
@@ -27,6 +27,6 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) piercing damage.
-- **Manipulate Stone:** If it is touching stone it can manipulate stone contiguous with its location to create one of the following:Rumbling Earth: One creature touching stone within 10 ft. of salamander is knocked prone (DC 12 Dex negates).Softened Earth One creature touching stone within 10 ft. of salamander is restrained by softened mud-like stone until the end of its next turn (DC 12 Str negates).Stone Armor Salamander’s AC +2 until start of its next turn.
+- **Manipulate Stone:** If it is touching stone it can manipulate stone contiguous with its location to create one of the following:Rumbling Earth: One creature touching stone within 10 ft. of salamander is knocked prone (DC 12 Dex negates).Softened Earth One creature touching stone within 10 ft. of salamander is restrained by softened mud-like stone until the end of its next turn (DC 12 Str negates).Stone Armor Salamander's AC +2 until start of its next turn.
 
 

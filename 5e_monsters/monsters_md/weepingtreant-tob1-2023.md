@@ -24,7 +24,7 @@
 
 - **Siege Monster:** The weeping treant deals double damage to objects and structures.
 - **Speak with Plants:** The weeping treant can communicate with plants as if they shared a language.
-- **Weep Acid:** Thick tears of dark, acidic sap stream continuously down the treant’s face and trunk. A creature that touches the weeping treant or hits it with a melee attack while within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take 3 (1d6) acid damage.
+- **Weep Acid:** Thick tears of dark, acidic sap stream continuously down the treant's face and trunk. A creature that touches the weeping treant or hits it with a melee attack while within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take 3 (1d6) acid damage.
 
 ### Actions
 

@@ -17,6 +17,7 @@
 | CHA | 13 | +1 | +1 |
 
 - **Skills**: Deception +3, Persuasion +3, Religion +2
+- **Gear** Holy Symbol, Leather Armor
 - **Senses**: Passive Perception 12
 - **Languages**: Common
 - **CR** 2 (XP 450; PB +2)

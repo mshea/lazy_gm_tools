@@ -30,4 +30,4 @@
 
 - **Multiattack:** The mindrot thrall makes two Claw attacks.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
-- **Spore Breath (Recharge 4–6):** The thrall exhales a blast of acidic spores from its rotten lungs in a 15-foot cone. Each creature in the area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 18 (4d8) acid damage and is infected with the mindrot disease (see the Mindrot trait). On a success, a creature takes half the damage and isn’t infected.
+- **Spore Breath (Recharge 4-6):** The thrall exhales a blast of acidic spores from its rotten lungs in a 15-foot cone. Each creature in the area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 18 (4d8) acid damage and is infected with the mindrot disease (see the Mindrot trait). On a success, a creature takes half the damage and isn't infected.

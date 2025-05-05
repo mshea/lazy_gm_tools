@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Harrying Attacks:** If the gnoll attacks more than one creature in the same turn, the first target has disadvantage on attack rolls until the end of its next turn.
-- **Pack Tactics:** The gnoll has advantage on attack rolls against a creature if at least one of the gnoll’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- **Pack Tactics:** The gnoll has advantage on attack rolls against a creature if at least one of the gnoll's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions
 

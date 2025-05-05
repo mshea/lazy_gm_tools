@@ -18,7 +18,7 @@
 - **Damage Resistances:** nonmagic B/P/S attacks 
 - **Condition Immunities:** deafened, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 - **Senses:** truesight 120', passive Perception 20
-- **Languages:** understands all languages but can’t speak
+- **Languages:** understands all languages but can't speak
 
 ### Special Abilities
 
@@ -31,8 +31,8 @@
 - **Multiattack:** Can use Universal Music then one Discordant Wave and one Slam or two Discordant Waves.
 - **Discordant Wave:** Melee or Ranged Spell Attack: +10 to hit 5 ft. or range 60/120' one target 27 (5d8+5) thunder. Target and each creature within 10 ft. of it: DC 18 Con save or become deafened until end of its next turn.
 - **Slam:** Melee Weapon Attack: +13 to hit, 5 ft., one target, 24 (3d10+8) bludgeoning damage + 22 (5d8) thunder.
-- **Universal Music:** Each creature of symphony’s choice within 120' of it: DC 18 Con save or be incapacitated 1 min. Creature that fails save by 5+ is stunned 1 min instead. Stunned or incapacitated creature can re-save at end of each of its turns success ends effect on itself. If creature’s save is successful or effect ends creature is immune to symphony’s Universal Music for next 24 hrs.
-- **Celestial Crescendo (Recharge 5–6):** Sound waves explode from it. Each creature within 30' of it: 45 (10d8) thunder and is deafened for 1 min (DC 18  Con half damage not deafened). A creature can re-save at end of each of its turns success ends effect on itself.
+- **Universal Music:** Each creature of symphony's choice within 120' of it: DC 18 Con save or be incapacitated 1 min. Creature that fails save by 5+ is stunned 1 min instead. Stunned or incapacitated creature can re-save at end of each of its turns success ends effect on itself. If creature's save is successful or effect ends creature is immune to symphony's Universal Music for next 24 hrs.
+- **Celestial Crescendo (Recharge 5-6):** Sound waves explode from it. Each creature within 30' of it: 45 (10d8) thunder and is deafened for 1 min (DC 18  Con half damage not deafened). A creature can re-save at end of each of its turns success ends effect on itself.
 
 
 

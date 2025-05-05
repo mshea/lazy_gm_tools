@@ -16,6 +16,7 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 9 | -1 | -1 |
 
+- **Gear** Greataxe, Hide Armor
 - **Senses**: Passive Perception 10
 - **Languages**: Common
 - **CR** 2 (XP 450; PB +2)

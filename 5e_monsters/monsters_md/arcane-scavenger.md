@@ -22,7 +22,7 @@
 
 ### Special Abilities
 
-- **Construct Nature:** Doesn’t require air food drink or sleep.
+- **Construct Nature:** Doesn't require air food drink or sleep.
 - **Eldritch Overload:** When reduced to half its max hp or fewer its speed is doubled and it gains additional action each turn. The action must be to Dash Disengage Hide or Use an Object or to make one Grabbing Claws or Excavation Beam attack. Effect lasts for 3 rounds. At end of its third turn the scavenger takes 10 (3d6) fire.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 - **Ruinous Detonation:** When it dies it explodes and each creature within 30' of it: 21 (6d6) force is flung up to 40' away from scavenger and is knocked prone (DC 16 Dex half damage and isn't flung or knocked prone).

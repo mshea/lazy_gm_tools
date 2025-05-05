@@ -28,6 +28,6 @@
 - **Bite:** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 23 (3d10 + 7) piercing damage.
 - **Claw:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) slashing damage.
 - **Eye Ray:** Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit: 17 (5d6) cold damage.
-- **Freezing Eye (Recharge 5-6):** The graknork’s blue eye flares open and releases a beam of icy energy in a line that is 120-feet long and 10 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw. On a failure, a creature takes 35 (10d6) cold damage and is restrained for 1 minute as its limbs freeze. On a success, a creature takes half the damage and isn’t restrained. A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the restrained creature can be freed if it takes at least 10 fire damage.
+- **Freezing Eye (Recharge 5-6):** The graknork's blue eye flares open and releases a beam of icy energy in a line that is 120-feet long and 10 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw. On a failure, a creature takes 35 (10d6) cold damage and is restrained for 1 minute as its limbs freeze. On a success, a creature takes half the damage and isn't restrained. A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the restrained creature can be freed if it takes at least 10 fire damage.
 
 

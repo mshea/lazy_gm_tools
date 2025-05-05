@@ -22,7 +22,7 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 7 (1d10+2) piercing damage.
-- **Light Beam (Recharge 5–6):** The prismatic dragon emits a beam of white light in a 30' line that is 5 ft. wide. All in line make a DC 12 Dex save taking 18 (4d8) radiant on a failed save or half damage if made.
+- **Light Beam (Recharge 5-6):** The prismatic dragon emits a beam of white light in a 30' line that is 5 ft. wide. All in line make a DC 12 Dex save taking 18 (4d8) radiant on a failed save or half damage if made.
 - **Spellcasting:** Int (DC 12) no material components: At will: dancing lights1/day ea: charm person color spray
 
 

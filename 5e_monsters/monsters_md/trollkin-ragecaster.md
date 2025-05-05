@@ -19,16 +19,16 @@
 
 ### Special Abilities
 
-- **Brutal Claws:** Its claw deals one extra die of its damage when trollkin isn’t ragecasting (included in the attack).
+- **Brutal Claws:** Its claw deals one extra die of its damage when trollkin isn't ragecasting (included in the attack).
 - **Magic Resistance:** Advantage: spell/magic effect saves.
-- **Regeneration:** Regains 10 hp at the start of its turn. If it takes acid or fire this trait doesn’t function at start of its next turn. Dies only if it starts turn with 0 hp and doesn’t regenerate.
+- **Regeneration:** Regains 10 hp at the start of its turn. If it takes acid or fire this trait doesn't function at start of its next turn. Dies only if it starts turn with 0 hp and doesn't regenerate.
 - **Thick Hide:** Its skin is thick and tough granting it a +1 bonus to Armor Class (already factored into its AC).
 
 ### Actions
 
 - **Multiattack:** Two Claws or two Elemental Blast attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 16 (3d8+3) slashing damage when not ragecasting or 12 (2d8+3) slashing damage while ragecasting.
-- **Elemental Blast (Ragecasting Only):** Ranged Spell Attack: +7 to hit, 120 ft., one target, 14 (3d6+4) cold fire lightning or thunder (trollkin’s choice).
+- **Elemental Blast (Ragecasting Only):** Ranged Spell Attack: +7 to hit, 120 ft., one target, 14 (3d6+4) cold fire lightning or thunder (trollkin's choice).
 - **Spellcasting (Ragecasting Only):** Cha (DC 15) no material components: At will: thunderwave3/day ea: call lightning firebal1/day: fire shield
 
 ### Bonus Actions

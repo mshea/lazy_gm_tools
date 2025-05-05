@@ -17,7 +17,7 @@
 | CHA | 18 | +4 | +8 |
 
 - **Immunities**: Fire, Poison; Poisoned
-- **Senses**: darkvision 150 ft. (unimpeded by magical {@variantrule Darkness|XPHB}); Passive Perception 13
+- **Senses**: darkvision 150 ft. (unimpeded by magical darkness); Passive Perception 13
 - **Languages**: Infernal; telepathy 120 ft.
 - **CR** 11 (XP 7,200; PB +4)
 

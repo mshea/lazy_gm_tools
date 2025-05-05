@@ -27,7 +27,7 @@
 
 - **Multiattack:** Uses Hearth Blessing then two Runic Staff attacks.
 - **Runic Staff:** Melee Weapon Attack: +5 to hit, 10 ft., one target, 10 (2d6+3) bludgeoning damage and 4 (1d8) fire.
-- **Hearth Blessing:** Calls upon her deity and connection with the hearth to enhance her allies. She empowers one friendly creature she can see within 30' of her with one of the following options until start of her next turn.Hearth’s Burn Target’s weapon ignites and when target hits with the weapon weapon deals extra 3 (1d6) fire.Hearth’s Comfort If target is charmed or frightened condition immediately ends. In addition target gains 5 (1d10) temp hp.Hearth’s Protection Target’s Armor Class increases by 2 and its armor is immune to spells and effects that target or affect the armor such as heat metal spell or a rust monster’s antennae.
+- **Hearth Blessing:** Calls upon her deity and connection with the hearth to enhance her allies. She empowers one friendly creature she can see within 30' of her with one of the following options until start of her next turn.Hearth's Burn Target's weapon ignites and when target hits with the weapon weapon deals extra 3 (1d6) fire.Hearth's Comfort If target is charmed or frightened condition immediately ends. In addition target gains 5 (1d10) temp hp.Hearth's Protection Target's Armor Class increases by 2 and its armor is immune to spells and effects that target or affect the armor such as heat metal spell or a rust monster's antennae.
 - **Spellcasting:** Wis (DC 13): At will: mending spare the dying thaumaturgy3/day ea: cure wounds heat metal1/day: haste
 
 

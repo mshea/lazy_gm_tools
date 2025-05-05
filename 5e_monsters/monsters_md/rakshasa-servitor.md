@@ -20,7 +20,7 @@
 
 ### Special Abilities
 
-- **Limited Magic Immunity:** Can’t be affected or detected by cantrips unless it wishes to be. Has advantage on saves vs. all other spells and magical effects.
+- **Limited Magic Immunity:** Can't be affected or detected by cantrips unless it wishes to be. Has advantage on saves vs. all other spells and magical effects.
 
 ### Actions
 

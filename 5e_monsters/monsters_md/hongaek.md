@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Exacerbate Affliction:** The hongaek has advantage on attack rolls against a creature that is suffering from a disease or that has the poisoned condition.
-- **Gas Form:** The hongaek can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing, but it can’t move through water or other liquids.
+- **Gas Form:** The hongaek can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing, but it can't move through water or other liquids.
 - **Prolong Affliction:** Each creature within 30 feet of the hongaek that is suffering a disease or that has the poisoned condition has disadvantage on saving throws against the disease or poison afflicting it. In addition, the hongaek can pinpoint the location of such creatures within 30 feet of it.
 - **Innate Spellcasting (1/Day):** The hongaek can innately cast contagion, requiring no material components. Its innate spellcasting ability is Charisma.
 

@@ -17,6 +17,7 @@
 | CHA | 11 | +0 | +0 |
 
 - **Skills**: Perception +5, Stealth +4
+- **Gear** Longbow
 - **Senses**: darkvision 60 ft.; Passive Perception 15
 - **Languages**: Common (can't speak in tiger form)
 - **CR** 4 (XP 1,100; PB +2)

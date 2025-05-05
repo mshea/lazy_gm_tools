@@ -27,6 +27,6 @@
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 7 (1d8+3) bludgeoning damage + 3 (1d6) piercing damage.
-- **Shoot Spines (Recharge 5–6):** Sprays spines in a burst around itself. Each creature within 15 ft. of it must make a DC 13 Dex save. On a failure a creature takes 10 (3d6) piercing damage and is paralyzed until the end of its next turn. On a success a creature takes half the damage and isn’t paralyzed.
+- **Shoot Spines (Recharge 5-6):** Sprays spines in a burst around itself. Each creature within 15 ft. of it must make a DC 13 Dex save. On a failure a creature takes 10 (3d6) piercing damage and is paralyzed until the end of its next turn. On a success a creature takes half the damage and isn't paralyzed.
 
 

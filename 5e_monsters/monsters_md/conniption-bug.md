@@ -26,7 +26,7 @@
 
 ### Actions
 
-- **Barbed Mandibles:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) piercing damage. Target is grappled (escape DC 13) if it is a Med or smaller creature and bug doesn’t have another creature grappled. Until this grapple ends target takes 4 (1d8) piercing damage at start of each of its turns and bug can’t make Barbed Mandible attacks vs. other targets.
+- **Barbed Mandibles:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) piercing damage. Target is grappled (escape DC 13) if it is a Med or smaller creature and bug doesn't have another creature grappled. Until this grapple ends target takes 4 (1d8) piercing damage at start of each of its turns and bug can't make Barbed Mandible attacks vs. other targets.
 - **Barbed Claws:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 7 (2d4+2) piercing damage.
 
 

@@ -19,7 +19,7 @@
 - **Resistances**: Cold
 - **Immunities**: Fire, Poison; Poisoned
 - **Skills**: Deception +5, Insight +5, Perception +8
-- **Senses**: darkvision 120 ft. (unimpeded by magical {@variantrule Darkness|XPHB}); Passive Perception 18
+- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 18
 - **Languages**: Infernal; telepathy 120 ft.
 - **CR** 5 (XP 1,800; PB +3)
 

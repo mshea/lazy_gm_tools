@@ -21,7 +21,7 @@
 
 ### Special Abilities
 
-- **Impaling Charge:** If it moves 20+' straight toward a target and then hits it with Horn attack on same turn karkadann impales target on its horn grappling the target if it is a Large or smaller creature (escape DC 15). Until the grapple ends the target is restrained takes 18 (4d8) piercing damage at start of each of its turns and karkadann can’t make horn attacks vs. other targets.
+- **Impaling Charge:** If it moves 20+' straight toward a target and then hits it with Horn attack on same turn karkadann impales target on its horn grappling the target if it is a Large or smaller creature (escape DC 15). Until the grapple ends the target is restrained takes 18 (4d8) piercing damage at start of each of its turns and karkadann can't make horn attacks vs. other targets.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 
 ### Actions

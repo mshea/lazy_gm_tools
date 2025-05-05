@@ -23,8 +23,8 @@
 
 ### Special Abilities
 
-- **Devil’s Sight:** Magical darkness doesn’t impede the chort devil’s darkvision.
-- **Hellish Weapons:** The chort devil’s weapon attacks are magical. When the devil hits with any weapon, the weapon deals an extra 4d6 fire damage (included in the attack).
+- **Devil's Sight:** Magical darkness doesn't impede the chort devil's darkvision.
+- **Hellish Weapons:** The chort devil's weapon attacks are magical. When the devil hits with any weapon, the weapon deals an extra 4d6 fire damage (included in the attack).
 - **Magic Resistance:** The chort devil has advantage on saving throws against spells and other magical effects.
 
 ### Actions

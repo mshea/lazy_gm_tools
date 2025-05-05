@@ -20,7 +20,7 @@
 
 ### Special Abilities
 
-- **Bloodthirsty:** When the vampiric vanguard is below half its hp max it has advantage on all melee attack rolls vs. creatures that aren’t Constructs or Undead.
+- **Bloodthirsty:** When the vampiric vanguard is below half its hp max it has advantage on all melee attack rolls vs. creatures that aren't Constructs or Undead.
 - **Spider Climb:** Difficult surfaces even ceilings no ability check.
 - **Vampire Weaknesses:** Has the following flaws: Forbiddance: Can't enter a residence with o an invitation from one of the occupants.Harmed by Running Water: Takes 20 acid when it ends its turn in running water.Stake to the Heart: Destroyed if a wood piercing weapon is driven into its heart while it is incapacitated in its resting place.Sunlight Hypersensitivity: Takes 20 radiant when it starts its turn in sunlight. If in sunlight disadvantage on attacks/ability checks.
 

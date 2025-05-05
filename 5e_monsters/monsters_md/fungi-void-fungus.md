@@ -17,7 +17,7 @@
 - **Damage Resistances:** cold, fire
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned
 - **Senses:** blindsight 120' (blind beyond), passive Perception 15
-- **Languages:** understands Common and Void Speech but can’t speak, telepathy 60'
+- **Languages:** understands Common and Void Speech but can't speak, telepathy 60'
 
 ### Special Abilities
 

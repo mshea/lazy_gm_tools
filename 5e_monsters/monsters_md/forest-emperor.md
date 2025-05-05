@@ -22,7 +22,7 @@
 
 - **Forest Camouflage:** The forest emperor has advantage on Dexterity (Stealth) checks made to hide in forest terrain.
 - **Keen Smell:** The forest emperor has advantage on Wisdom (Perception) checks that rely on smell.
-- **Rattle:** The forest emperor constantly rattles its tail when in combat. Each creature that starts its turn within 60 feet of the forest emperor and that can hear it must succeed on a DC 18 Wisdom saving throw or become frightened until the start of its next turn. A creature that succeeds on two saving throws is unaffected by the forest emperor’s rattle for the next 24 hours.
+- **Rattle:** The forest emperor constantly rattles its tail when in combat. Each creature that starts its turn within 60 feet of the forest emperor and that can hear it must succeed on a DC 18 Wisdom saving throw or become frightened until the start of its next turn. A creature that succeeds on two saving throws is unaffected by the forest emperor's rattle for the next 24 hours.
 
 ### Actions
 

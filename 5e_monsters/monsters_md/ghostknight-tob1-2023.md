@@ -22,12 +22,12 @@
 
 ### Special Abilities
 
-- **Locked Saddle:** The ghost knight can’t be knocked prone, dismounted, or moved against its will while mounted.
-- **Mounted Warrior:** The ghost knight is rarely seen without its warhorse skeleton mount. The warhorse skeleton wears custom barding that raises its Armor Class to 15, and it has immunity to necrotic damage. While the ghost knight is mounted, its mount can’t be charmed or frightened.
-- **Necrotic Weapons:** The ghost knight’s weapon attacks are magical. When the knight hits with any weapon, the weapon deals an extra 2d6 necrotic damage (included in the attack).
+- **Locked Saddle:** The ghost knight can't be knocked prone, dismounted, or moved against its will while mounted.
+- **Mounted Warrior:** The ghost knight is rarely seen without its warhorse skeleton mount. The warhorse skeleton wears custom barding that raises its Armor Class to 15, and it has immunity to necrotic damage. While the ghost knight is mounted, its mount can't be charmed or frightened.
+- **Necrotic Weapons:** The ghost knight's weapon attacks are magical. When the knight hits with any weapon, the weapon deals an extra 2d6 necrotic damage (included in the attack).
 - **Spirited Charge:** If the ghost knight moves at least 20 feet straight toward a creature while mounted and then hits with a Lance attack on the same turn, the ghost knight can use a bonus action to command its mount to make one melee weapon attack against that creature as a reaction.
 - **Turning Defiance:** The ghost knight and any undead within 30 feet of it have advantage on saving throws against effects that turn undead.
-- **Undead Nature:** The ghost knight doesn’t require air, food, drink, or sleep.
+- **Undead Nature:** The ghost knight doesn't require air, food, drink, or sleep.
 
 ### Actions
 

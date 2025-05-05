@@ -23,6 +23,6 @@
 
 ### Actions
 
-- **Impaling Proboscis:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 14 (2d10 + 3) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 13). Until the grapple ends, the target is restrained, the mosquito can automatically hit the target with its impaling proboscis, and the mosquito can’t make impaling proboscis attacks against other targets.
+- **Impaling Proboscis:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 14 (2d10 + 3) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 13). Until the grapple ends, the target is restrained, the mosquito can automatically hit the target with its impaling proboscis, and the mosquito can't make impaling proboscis attacks against other targets.
 
 

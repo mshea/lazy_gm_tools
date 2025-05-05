@@ -19,7 +19,7 @@
 
 ### Special Abilities
 
-- **Limited Magic Immunity:** Can’t be affected or detected by spells of 4th level or lower unless it wishes to be. Has advantage on saves vs. all other spells and magical effects.
+- **Limited Magic Immunity:** Can't be affected or detected by spells of 4th level or lower unless it wishes to be. Has advantage on saves vs. all other spells and magical effects.
 
 ### Actions
 
@@ -31,7 +31,7 @@
 ### Bonus Actions
 
 - **Cunning Action:** Takes the Dash Disengage or Hide action.
-- **Gain the Upper Hand:** The slayer studies one creature it can see within 30' of it granting the slayer advantage on the next attack roll it makes vs. the target before start of the slayer’s next turn. If the attack hits slayer’s weapon attack deals extra 9 (2d8) piercing damage.
+- **Gain the Upper Hand:** The slayer studies one creature it can see within 30' of it granting the slayer advantage on the next attack roll it makes vs. the target before start of the slayer's next turn. If the attack hits slayer's weapon attack deals extra 9 (2d8) piercing damage.
 
 ### Reactions
 

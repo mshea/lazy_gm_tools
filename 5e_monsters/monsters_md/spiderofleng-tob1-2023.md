@@ -25,7 +25,7 @@
 
 - **Eldritch Understanding:** The spider of Leng can read and use any spell scroll or magic item, ignoring all class, race, and level requirements.
 - **Poisonous Blood:** A creature that hits the spider of Leng with a melee attack while within 5 feet of it takes 4 (1d8) poison damage.
-- **Poisonous Death:** When the spider of Leng dies, the poisonous blood in its body vaporizes, forming a cloud in the spider’s space until initiative count 20 on the next round. Each creature within 5 feet of the spider and each creature that enters the cloud for the first time on a turn must make a DC 15 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one.
+- **Poisonous Death:** When the spider of Leng dies, the poisonous blood in its body vaporizes, forming a cloud in the spider's space until initiative count 20 on the next round. Each creature within 5 feet of the spider and each creature that enters the cloud for the first time on a turn must make a DC 15 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one.
 
 ### Actions
 

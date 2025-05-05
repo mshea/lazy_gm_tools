@@ -15,12 +15,11 @@
 - **Skills:** perception +2
 - **Damage Resistances:** poison
 - **Senses:** passive Perception 14
-- **Languages:** understands Common but can’t speak
+- **Languages:** understands Common but can't speak
 
 ### Special Abilities
 
-- **zztitlespacingadjust -:** 
-- **Flyby:** The archaeopteryx doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+- **Flyby:** The archaeopteryx doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - **Magic Resistance:** Advantage: spell/magic effect saves.
 
 ### Actions
@@ -32,6 +31,6 @@
 
 ### Bonus Actions
 
-- **Imbue Poison:** The guardian archaeopteryx chooses a friendly creature it can see within 30' of it and imbues that creature’s attacks with magical poison. The next time the friendly creature hits with an attack before the start of archaeopteryx’s next turn target of attack takes an extra 2 (1d4) poison and must make DC 11 Con save or be poisoned until end of its next turn.
+- **Imbue Poison:** The guardian archaeopteryx chooses a friendly creature it can see within 30' of it and imbues that creature's attacks with magical poison. The next time the friendly creature hits with an attack before the start of archaeopteryx's next turn target of attack takes an extra 2 (1d4) poison and must make DC 11 Con save or be poisoned until end of its next turn.
 
 

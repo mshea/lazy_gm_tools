@@ -23,7 +23,7 @@
 ### Special Abilities
 
 - **Grassland Camouflage:** Advantage: Dex (Stealth) to hide in grassland.
-- **Scarecrow:** Any creature that starts its turn within 10 ft. of sodwose: frightened until the end of its next turn (DC 15 Wis negates and is immune to sodwose’s Scarecrow for the next 24 hrs).
+- **Scarecrow:** Any creature that starts its turn within 10 ft. of sodwose: frightened until the end of its next turn (DC 15 Wis negates and is immune to sodwose's Scarecrow for the next 24 hrs).
 
 ### Actions
 

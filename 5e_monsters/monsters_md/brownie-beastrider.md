@@ -20,7 +20,7 @@
 ### Special Abilities
 
 - **Magic Resistance:** Advantage: spell/magic effect saves.
-- **Mounted Warrior:** While mounted the brownie’s mount can’t be charmed or frightened.
+- **Mounted Warrior:** While mounted the brownie's mount can't be charmed or frightened.
 - **Speak with Beasts:** Can communicate with Beasts as if they shared a language.
 
 ### Actions

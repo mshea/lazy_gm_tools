@@ -24,11 +24,11 @@
 ### Special Abilities
 
 - **Magic Resistance:** The temple dog has advantage on saving throws against spells and other magical effects.
-- **Protector’s Instincts:** The temple dog has advantage on initiative rolls while in its temple or within 30 feet of a priest of its deity.
-- **Radiant Jaws:** The temple dog’s Bite attacks are magical. When it hits with a Bite attack, the Bite deals an extra 2d6 radiant damage (included in the attack).
+- **Protector's Instincts:** The temple dog has advantage on initiative rolls while in its temple or within 30 feet of a priest of its deity.
+- **Radiant Jaws:** The temple dog's Bite attacks are magical. When it hits with a Bite attack, the Bite deals an extra 2d6 radiant damage (included in the attack).
 - **Rushing Bite:** If the temple dog moves at least 15 feet straight toward a target and then hits it with a Bite attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away from the temple dog. If the target is pushed, the temple dog can move up to 10 feet straight toward the target without provoking opportunity attacks.
 
 ### Actions
 
-- **Multiattack:** The temple dog makes two Bite attacks. If both attacks hit a Medium or smaller target, the temple dog sinks in its teeth, shaking its head violently, and the target must succeed on a DC 15 Strength saving throw or take 9 (2d8) slashing damage and be grappled (escape DC 15). Until this grapple ends, the target is restrained, and temple dog can’t Bite another target.
+- **Multiattack:** The temple dog makes two Bite attacks. If both attacks hit a Medium or smaller target, the temple dog sinks in its teeth, shaking its head violently, and the target must succeed on a DC 15 Strength saving throw or take 9 (2d8) slashing damage and be grappled (escape DC 15). Until this grapple ends, the target is restrained, and temple dog can't Bite another target.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) radiant damage.

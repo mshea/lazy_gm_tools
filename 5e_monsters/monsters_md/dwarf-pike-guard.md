@@ -27,6 +27,6 @@
 
 ### Reactions
 
-- **Brace Pike:** When a creature enters the pike guard’s reach the pike guard can brace its pike. If it does so it has advantage on its next attack roll vs. that creature.
+- **Brace Pike:** When a creature enters the pike guard's reach the pike guard can brace its pike. If it does so it has advantage on its next attack roll vs. that creature.
 
 
