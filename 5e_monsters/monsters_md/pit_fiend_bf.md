@@ -32,3 +32,10 @@
 - **Mace:** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6+8) bludgeoning damage plus 14 (4d6) fire damage.
 - **Tail:** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 24 (3d10+8) bludgeoning damage plus 14 (4d6) fire damage, and the target must succeed on a DC 21 STR save or be knocked prone.
 - **Hurl Flame:** _Ranged Spell Attack:_ +10 to hit, range 120 ft., one target. _Hit:_ 25 (6d6+4) fire damage.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

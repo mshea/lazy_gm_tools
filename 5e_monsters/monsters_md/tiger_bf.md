@@ -25,3 +25,10 @@
 - **Multiattack:** The tiger makes one Bite attack and one Claws attack. If both attacks hit one creature, the target must succeed on a DC 13 CON save at the start of its next turn or lose 5 (2d4) HP, as the wound continues bleeding.
 - **Bite:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d6+3) piercing damage.
 - **Claws:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4+3) slashing damage.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

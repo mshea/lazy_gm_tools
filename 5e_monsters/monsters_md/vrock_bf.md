@@ -32,3 +32,10 @@
 ### Bonus Actions
 
 - **Startling Screech:** The vrock emits a horrific screech at one creature it can see within 30 feet of it. The target must succeed on a DC 14 CON save or be able to take either an action or bonus action on its turn, not both, and it can't take reactions.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

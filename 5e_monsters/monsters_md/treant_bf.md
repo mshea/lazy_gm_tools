@@ -34,3 +34,10 @@
 ### Bonus Actions
 
 - **Halt Intruders:** The treant calls to the roots beneath up to two creatures it can see within 30 feet of it. Each target must succeed on a DC 17 STR save or be restrained by roots until the end of its next turn. The treant can target only creatures in contact with the ground and can't target creatures in contact with a manufactured floor, such as the wooden floor of a building.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -32,3 +32,10 @@
 
 - **Create Whirlwind:** The djinni creates whirlwinds of air around up to two creatures it can see within 60 feet of it. Each target must succeed on a DC 17 STR check or be restrained by a whirlwind. A creature, including the target, can take its action to free the restrained target by succeeding on a DC 17 STR check.<br>While at least one creature is restrained by one of these whirlwinds, the djinni can use this bonus action to move the whirlwind up to 30 feet, and the restrained target moves with it.
 - **Genie Shape:** The djinni magically transforms into a Medium cloud of sparkling, blue air or back into its bipedal form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its bipedal form if it dies. The djinni can't use this bonus action to transform into its bipedal form while inside a Medium or smaller container.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

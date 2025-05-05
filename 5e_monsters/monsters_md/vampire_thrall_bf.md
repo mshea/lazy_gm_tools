@@ -31,3 +31,10 @@
 ### Reactions
 
 - **Repay the Gift:** When a friendly vampire the thrall can see within 5 feet of it is hit by an attack that would reduce the vampire to 0 HP, the thrall can give some of its life force to save the vampire. The thrall loses 10 (3d6) HP, and the vampire regains HP equal to that amount.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

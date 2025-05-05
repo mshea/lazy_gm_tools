@@ -26,3 +26,10 @@
 - **Bite:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
 - **Claw:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6+3) slashing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 DEX save, taking 27 (5d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

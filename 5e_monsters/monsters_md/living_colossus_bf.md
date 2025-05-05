@@ -39,3 +39,10 @@
 ### Reactions
 
 - **Bolstering Spirit:** When a friendly creature the living colossus can see within 60 feet of it, other than itself, takes damage, the living colossus can share some of the life force of the spirit animating it with that friendly creature. The target gains 14 (4d6) temporary HP for 1 minute. If the target would take enough damage to reduce it to 0 HP, it instead regains 14 (4d8) HP.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

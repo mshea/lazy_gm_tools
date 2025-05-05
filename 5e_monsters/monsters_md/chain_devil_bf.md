@@ -35,3 +35,10 @@
 ### Reactions
 
 - **Unnerving Mask:** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can command its mask to shift to look like one of the creature's departed loved ones or bitter enemies. If the creature can see the mask, it must succeed on a DC 15 WIS save or be frightened until the end of its turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

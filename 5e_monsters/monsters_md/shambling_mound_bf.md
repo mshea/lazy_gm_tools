@@ -31,3 +31,10 @@
 ### Bonus Actions
 
 - **Engulf:** The shambling mound engulfs a Medium or smaller creature grappled by it. In addition to being grappled, the engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 CON save at the start of each of the mound's turns or take 4 (1d8) bludgeoning damage and 3 (1d6) poison damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

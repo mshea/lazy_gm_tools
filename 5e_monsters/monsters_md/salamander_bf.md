@@ -33,3 +33,10 @@
 ### Bonus Actions
 
 - **Tighten Grip:** The salamander tightens its grip around one creature it is grappling. Until the start of the salamander's next turn, the target has disadvantage on any check made to escape the grapple, and other than a successful check to escape the grapple, the target can't be moved, knocked prone, or otherwise removed from the salamander's grasp without the salamander's permission.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

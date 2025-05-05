@@ -26,3 +26,10 @@
 - **Dagger:** _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 2 (1d4) piercing damage plus 13 (3d8) force damage.
 - **Arcane Bolt:** _Ranged Spell Attack:_ +6 to hit, range 60 ft., one target. _Hit:_ 16 (3d8+3) force damage.
 - **Spellcasting:** The mage casts one of the following spells, using INT as the spellcasting ability (spell save DC 14).<br>At will: _detect magic_, _light_, _mage hand_, _prestidigitation_<br>3/day each: _fly_, _mage armor_, _mirror image_<br>2/day each: _fireball_, _haste_, _slow_<br>1/day each: _cone of cold_, _greater invisibility_
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

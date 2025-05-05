@@ -49,3 +49,10 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Move:** The lich moves up to its speed without provoking opportunity attacks. If the lich is levitating, it can use this legendary action to move horizontally, propelling itself with a blast of arcane power.
 - **Cast a Spell (Costs 2 Actions):** The lich uses Spellcasting.
 - **Disrupt Life (Costs 3 Actions):** Each creature within 20 feet of the lich that isn't Undead must make a DC 20 CON save, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. The lich regains HP equal to the single highest amount of necrotic damage dealt.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

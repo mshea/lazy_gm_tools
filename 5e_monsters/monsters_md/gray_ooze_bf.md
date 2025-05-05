@@ -34,3 +34,10 @@
 ### Reactions
 
 - **Solidify:** When the ooze is hit by an attack, it can partially solidify its body, reducing the damage it takes by 2 (1d4). If it has taken fire damage since the start of its last turn, the damage it takes is reduced by 3 (1d6) instead. The ooze can't use this reaction if it has taken cold damage since the start of its last turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

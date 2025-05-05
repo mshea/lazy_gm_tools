@@ -44,3 +44,10 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Tail Attack:** The dragon makes a Tail attack.
 - **Elemental Roar (Costs 2 Actions):** The dragon roars at up to two creatures of its choice within 120 feet of it. Each target must succeed on a DC 18 CHA save or be vulnerable to fire damage until the end of its next turn. A target resistant to fire damage isn't resistant to it for the duration. A target immune to fire damage is still immune to it, even if the target fails the save.
 - **Wing Attack (Costs 2 Actions):** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 DEX save or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed without provoking opportunity attacks.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

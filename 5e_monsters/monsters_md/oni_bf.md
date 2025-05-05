@@ -35,3 +35,10 @@
 ### Bonus Actions
 
 - **Change Shape:** The oni magically transforms into a Small or Medium Humanoid, a Large ogre, or back into its true form, which is Giant. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying transforms with it, except for its glaive, which adjusts to fit its new form. If the oni dies, it reverts to its true form, and the glaive reverts to its normal size.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

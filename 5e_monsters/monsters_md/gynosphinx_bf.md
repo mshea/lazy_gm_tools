@@ -41,3 +41,10 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Teleport:** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Cast a Spell (Costs 2 Actions):** The sphinx uses Spellcasting.
 - **Psychic Burst (Costs 2 Actions):** The sphinx sends out a burst of psychic energy. Each creature within 20 feet of the sphinx that has an INT of 8 or higher must succeed on a DC 17 INT save or be incapacitated until the end of its next turn, as it reels from the psychic onslaught.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

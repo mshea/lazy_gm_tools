@@ -30,3 +30,10 @@
 ### Bonus Actions
 
 - **Burning Hoofprints:** The nightmare increases the intensity of the heat on its hooves. Until the start of its next turn, it leaves burning hoofprints in any surface through which it walks, creating a trail of fire in its wake. A creature that enters a space with burning hoofprints for the first time on a turn or starts its turn there must succeed on a DC 13 DEX save or take 3 (1d6) fire damage. The hoofprints stop burning at the start of the nightmare's next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

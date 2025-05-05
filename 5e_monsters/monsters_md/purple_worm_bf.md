@@ -32,3 +32,10 @@
 ### Bonus Actions
 
 - **Rapid Digestion:** The purple worm's digestive system absorbs some of the already digested material from creatures it has swallowed. If the purple worm has at least one swallowed creature inside it, the purple worm regains 9 (2d8) HP. This healing increases by 4 (1d8) for each creature currently inside the purple worm, to a maximum of 10d8.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

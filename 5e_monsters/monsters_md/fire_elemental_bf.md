@@ -35,3 +35,10 @@
 ### Bonus Actions
 
 - **Fiery Dash (Recharge 4-6):** The elemental moves up to 20 feet in a straight line and can move through the space of any Large or smaller creature without provoking opportunity attacks. Each space along that line catches fire until the start of the elemental's next turn. A creature that enters a burning space for the first time on a turn or starts its turn there must succeed on a DC 14 DEX save or take 5 (1d10) fire damage.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

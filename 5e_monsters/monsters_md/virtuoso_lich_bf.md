@@ -42,3 +42,10 @@ The virtuoso lich can take 3 legendary actions, choosing from the options below.
 - **Move:** The lich moves up to its speed without provoking opportunity attacks.
 - **Cast a Spell (Costs 2 Actions):** The lich uses Spellcasting.
 - **Unrestrained Art (Costs 3 Actions):** The lich unleashes the full force of its artistic talents. Each creature with 15 feet of the lich must make a DC 17 DEX save. On a failure, a creature takes 9 (2d8) damage of the type chosen with the Versatile Artist trait and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -33,3 +33,10 @@
 ### Bonus Actions
 
 - **That One!:** One of the ettin's heads picks a creature the ettin can see within 30 feet of it, gaining advantage on its next attack against that creature. The other head doesn't like being told what to do and has disadvantage on its next attack against that creature. Each weapon attack notes which head controls that weapon.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

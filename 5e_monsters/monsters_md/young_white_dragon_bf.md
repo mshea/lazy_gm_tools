@@ -27,3 +27,10 @@
 - **Bite:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
 - **Claw:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6+4) slashing damage.
 - **Cold Breath (Recharge 5-6):** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 CON save, taking 31 (7d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

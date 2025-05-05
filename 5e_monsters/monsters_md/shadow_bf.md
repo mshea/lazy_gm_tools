@@ -34,3 +34,10 @@
 
 - **Shadow Bond:** One creature the shadow can see within 5 feet of it must succeed on a DC 12 WIS save or the shadow bonds with the target's shadow for 1 minute. While bonded with the target's shadow, the shadow can use this bonus action to teleport to an unoccupied space within 5 feet of that creature, provided the creature is within 120 feet of the shadow.
 - **Shadow Stealth:** The shadow takes the Hide action. It can use this bonus action only while in dim light or darkness.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

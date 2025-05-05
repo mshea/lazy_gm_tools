@@ -35,3 +35,10 @@
 - **Radiant Burst (Recharge 6):** A pulse of divine power ripples out from the planetar's golden halo. Each hostile creature within 15 feet of the planetar must make a DC 19 DEX save, taking 56 (16d6) radiant damage on a failed save, or half as much damage on a successful one. Each friendly creature within 15 feet of the planetar is empowered with divine energy and has advantage on all melee attack rolls it makes before the start of the planetar's next turn.
 - **Healing Touch (4/Day):** The planetar touches another creature. The target magically regains 30 (6d8+3) HP and is freed from any curse, disease, poison, blindness, or deafness.
 - **Spellcasting:** The planetar casts one of the following spells, requiring no material components and using CHA as the spellcasting ability (spell save DC 19).<br>At will: _command_, _invisibility_ (self only)<br>3/day each: _daylight_, _raise dead_ (as an action)
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.
