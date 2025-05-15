@@ -5,6 +5,7 @@
 - **Armor Class:** 15 (leather armor)
 - **Hit Points:** 112 (15d8+45)
 - **Speed:** walk 30 ft.
+
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 377
 

@@ -5,6 +5,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 22 (3d10+6)
 - **Speed:** walk 10 ft. fly 60 ft.
+
 - **Challenge Rating:** 1 (200 XP)
 - **Source:** [A5e Monstrous Menagerie](https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e) page 451
 

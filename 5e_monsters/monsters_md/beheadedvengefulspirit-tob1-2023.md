@@ -5,6 +5,7 @@
 - **Armor Class:** 15 (Angry Defiance)
 - **Hit Points:** 54 (12d8)
 - **Speed:** walk 60 ft.
+
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 384
 

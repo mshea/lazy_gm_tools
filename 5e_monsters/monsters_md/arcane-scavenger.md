@@ -5,6 +5,7 @@
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 127 (17d10+34)
 - **Speed:** walk 10 ft. fly 40 ft.
+
 - **Challenge Rating:** 9 (5,000 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 41
 

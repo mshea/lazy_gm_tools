@@ -5,6 +5,7 @@
 - **Armor Class:** 15 (studded leather)
 - **Hit Points:** 45 (7d8+14)
 - **Speed:** walk 30 ft.
+
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 121
 

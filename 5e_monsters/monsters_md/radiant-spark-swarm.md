@@ -5,6 +5,7 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 38 (7d8+7)
 - **Speed:** hover True ft. walk 0 ft. fly 60 ft.
+
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 305
 

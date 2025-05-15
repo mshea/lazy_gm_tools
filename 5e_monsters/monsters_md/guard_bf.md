@@ -5,6 +5,8 @@
 - **Armor Class:** 14 (chain shirt)
 - **Hit Points:** 8 
 - **Speed:** walk 30 ft.
+- **Perception**: 13
+- **Stealth**: 11
 - **Challenge Rating:** 1/8 (25 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

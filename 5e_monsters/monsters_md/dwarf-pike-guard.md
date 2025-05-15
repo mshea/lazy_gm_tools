@@ -5,6 +5,7 @@
 - **Armor Class:** 16 (chain mail)
 - **Hit Points:** 30 (4d8+12)
 - **Speed:** walk 25 ft.
+
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 166
 

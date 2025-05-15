@@ -5,6 +5,8 @@
 - **Armor Class:** 9
 - **Hit Points:** 129 
 - **Speed:** walk 30 ft.
+- **Perception**: 13
+- **Stealth**: 9
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

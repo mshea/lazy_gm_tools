@@ -5,6 +5,8 @@
 - **Armor Class:** 10 (13 with mage armor)
 - **Hit Points:** 40 
 - **Speed:** walk 30 ft.
+- **Perception**: 11
+- **Stealth**: 11
 - **Challenge Rating:** 1 (200 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

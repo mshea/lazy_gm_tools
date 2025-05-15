@@ -5,6 +5,8 @@
 - **Armor Class:** 13 (barding scraps)
 - **Hit Points:** 25 
 - **Speed:** walk 60 ft.
+- **Perception**: 11
+- **Stealth**: 13
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

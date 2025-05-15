@@ -5,6 +5,8 @@
 - **Armor Class:** 10 (n humanoid form, 11 (natural armor) in boar or hybrid for)
 - **Hit Points:** 100 
 - **Speed:** walk 30 ft.
+- **Perception**: 12
+- **Stealth**: 10
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

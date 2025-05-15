@@ -5,6 +5,8 @@
 - **Armor Class:** 11 (16 with barkskin)
 - **Hit Points:** 66 
 - **Speed:** walk 30 ft.
+- **Perception**: 13
+- **Stealth**: 11
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

@@ -5,6 +5,7 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 67 (9d8+27)
 - **Speed:** walk 30 ft. burrow 20 ft.
+
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 308
 

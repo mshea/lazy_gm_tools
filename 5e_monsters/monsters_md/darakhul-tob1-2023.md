@@ -5,6 +5,7 @@
 - **Armor Class:** 18 (scale mail, shield)
 - **Hit Points:** 78 (12d8 + 24)
 - **Speed:** walk 30 ft.
+
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 202
 

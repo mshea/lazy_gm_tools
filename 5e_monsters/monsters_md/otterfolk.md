@@ -5,6 +5,7 @@
 - **Armor Class:** 14 (leather armor)
 - **Hit Points:** 18 (4d6+4)
 - **Speed:** swim 30 ft. walk 25 ft. climb 15 ft.
+
 - **Challenge Rating:** 1/4 (50 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 288
 

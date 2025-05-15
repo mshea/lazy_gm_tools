@@ -5,6 +5,7 @@
 - **Armor Class:** 13 (studded leather)
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** walk 30 ft.
+
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 287
 

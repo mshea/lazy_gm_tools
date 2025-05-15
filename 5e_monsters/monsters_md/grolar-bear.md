@@ -5,6 +5,7 @@
 - **Armor Class:** 14 (natural)
 - **Hit Points:** 68 (8d10+24)
 - **Speed:** walk 40 ft. swim 30 ft. climb 20 ft.
+
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 222
 

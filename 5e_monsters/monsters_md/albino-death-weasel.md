@@ -5,6 +5,7 @@
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 45 (6d10+12)
 - **Speed:** burrow 30 ft. walk 50 ft.
+
 - **Challenge Rating:** 1 (200 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 374
 

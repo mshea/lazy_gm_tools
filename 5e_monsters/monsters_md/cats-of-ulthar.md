@@ -5,6 +5,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 55 (10d10)
 - **Speed:** walk 40 ft.
+
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 58
 

@@ -5,6 +5,7 @@
 - **Armor Class:** 22 (natural armor)
 - **Hit Points:** 333 (18d20+144)
 - **Speed:** burrow 30 ft. climb 40 ft. fly 80 ft. walk 40 ft.
+
 - **Challenge Rating:** 23 (50,000 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 118
 

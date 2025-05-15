@@ -5,6 +5,7 @@
 - **Armor Class:** 17 (shield)
 - **Hit Points:** 117 (18d8+36)
 - **Speed:** walk 30 ft. climb 30 ft.
+
 - **Challenge Rating:** 7 (2,900 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 290
 

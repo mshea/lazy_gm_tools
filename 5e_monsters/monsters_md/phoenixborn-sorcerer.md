@@ -5,6 +5,7 @@
 - **Armor Class:** 13 (16 mage armor)
 - **Hit Points:** 60 (11d8+11)
 - **Speed:** walk 20 ft. fly 40 ft.
+
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 316
 

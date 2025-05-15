@@ -5,6 +5,7 @@
 - **Armor Class:** 15 (studded leather)
 - **Hit Points:** 66 (12d6+24)
 - **Speed:** walk 30 ft. burrow 10 ft.
+
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 257
 

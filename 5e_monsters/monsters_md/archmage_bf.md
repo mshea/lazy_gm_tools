@@ -5,6 +5,8 @@
 - **Armor Class:** 17 (Magic Ward)
 - **Hit Points:** 212 
 - **Speed:** walk 30 ft.
+- **Perception**: 16
+- **Stealth**: 12
 - **Challenge Rating:** 12 (8,400 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

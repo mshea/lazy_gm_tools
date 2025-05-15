@@ -5,6 +5,7 @@
 - **Armor Class:** 17 (bone kilt)
 - **Hit Points:** 135 (18d10+36)
 - **Speed:** walk 30 ft.
+
 - **Challenge Rating:** 8 (3,900 XP)
 - **Source:** [Tome of Beasts 2](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition) page 37
 

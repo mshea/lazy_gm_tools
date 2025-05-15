@@ -5,6 +5,8 @@
 - **Armor Class:** 17 (Nature's Champion)
 - **Hit Points:** 210 
 - **Speed:** walk 30 ft.
+- **Perception**: 19
+- **Stealth**: 12
 - **Challenge Rating:** 12 (8,400 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

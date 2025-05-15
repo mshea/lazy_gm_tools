@@ -5,6 +5,7 @@
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 195 (17d12 + 85)
 - **Speed:** walk 60 ft.
+
 - **Challenge Rating:** 12 (8,400 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 111
 

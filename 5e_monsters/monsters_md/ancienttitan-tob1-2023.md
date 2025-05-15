@@ -5,6 +5,7 @@
 - **Armor Class:** 15 (breastplate)
 - **Hit Points:** 198 (12d20 + 72)
 - **Speed:** walk 30 ft.
+
 - **Challenge Rating:** 12 (8,400 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 361
 

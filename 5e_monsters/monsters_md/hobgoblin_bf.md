@@ -5,6 +5,8 @@
 - **Armor Class:** 18 (chain mail, shield)
 - **Hit Points:** 18 
 - **Speed:** walk 30 ft.
+- **Perception**: 10
+- **Stealth**: 8 (13 without armor)
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

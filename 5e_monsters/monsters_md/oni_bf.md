@@ -5,6 +5,8 @@
 - **Armor Class:** 16 (chain mail)
 - **Hit Points:** 134 
 - **Speed:** walk 30 ft. fly 30 ft. hover True ft.
+- **Perception**: 14
+- **Stealth**: 13
 - **Challenge Rating:** 7 (2,900 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

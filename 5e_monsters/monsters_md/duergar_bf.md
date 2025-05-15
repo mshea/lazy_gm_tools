@@ -5,6 +5,8 @@
 - **Armor Class:** 16 (scale mail, shield)
 - **Hit Points:** 36 
 - **Speed:** walk 25 ft.
+- **Perception**: 10
+- **Stealth**: 12
 - **Challenge Rating:** 1 (200 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

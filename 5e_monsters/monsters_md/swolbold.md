@@ -5,6 +5,7 @@
 - **Armor Class:** 14 (scale mail)
 - **Hit Points:** 65 (10d8+20)
 - **Speed:** walk 20 ft.
+
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 240
 

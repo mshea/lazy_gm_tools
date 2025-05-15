@@ -5,6 +5,7 @@
 - **Armor Class:** 17 (Patron’s Blessing)
 - **Hit Points:** 77 (14d8 + 14)
 - **Speed:** walk 30 ft.
+
 - **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 171
 

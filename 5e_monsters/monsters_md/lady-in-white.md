@@ -5,6 +5,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 49 (11d8)
 - **Speed:** fly 30 ft. hover True ft. walk 0 ft.
+
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 246
 

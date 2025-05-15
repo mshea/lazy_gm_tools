@@ -5,6 +5,7 @@
 - **Armor Class:** 14 (clockwork armor)
 - **Hit Points:** 67 (9d10+18)
 - **Speed:** fly 30 ft. swim 30 ft. walk 30 ft.
+
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 11
 

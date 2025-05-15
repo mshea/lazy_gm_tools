@@ -5,6 +5,8 @@
 - **Armor Class:** 15 (scale mail barding)
 - **Hit Points:** 22 
 - **Speed:** walk 60 ft.
+- **Perception**: 11
+- **Stealth**: 11
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

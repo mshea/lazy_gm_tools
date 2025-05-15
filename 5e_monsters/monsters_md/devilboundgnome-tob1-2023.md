@@ -5,6 +5,7 @@
 - **Armor Class:** 17 (Infernal Blessing)
 - **Hit Points:** 104 (19d6 + 38)
 - **Speed:** walk 25 ft.
+
 - **Challenge Rating:** 9 (5,000 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 408
 

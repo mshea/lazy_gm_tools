@@ -5,6 +5,8 @@
 - **Armor Class:** 12 (coral armor)
 - **Hit Points:** 9 
 - **Speed:** walk 10 ft. swim 40 ft.
+- **Perception**: 12
+- **Stealth**: 12
 - **Challenge Rating:** 1/8 (25 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

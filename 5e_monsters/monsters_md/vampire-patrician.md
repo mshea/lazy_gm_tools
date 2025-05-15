@@ -5,6 +5,7 @@
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 119 (14d8+56)
 - **Speed:** walk 30 ft.
+
 - **Challenge Rating:** 10 (5,900 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 365
 

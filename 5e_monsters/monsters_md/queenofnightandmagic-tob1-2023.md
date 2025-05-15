@@ -5,6 +5,7 @@
 - **Armor Class:** 22 (Regal Bearing)
 - **Hit Points:** 225 (30d8 + 90)
 - **Speed:** walk 60 ft. fly 30 ft.
+
 - **Challenge Rating:** 21 (33,000 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 178
 

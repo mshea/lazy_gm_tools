@@ -5,6 +5,8 @@
 - **Armor Class:** 15 (leather armor)
 - **Hit Points:** 80 
 - **Speed:** walk 30 ft. climb 15 ft.
+- **Perception**: 12
+- **Stealth**: 16
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

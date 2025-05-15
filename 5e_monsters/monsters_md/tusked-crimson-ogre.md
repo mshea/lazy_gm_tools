@@ -5,6 +5,7 @@
 - **Armor Class:** 14 (half plate)
 - **Hit Points:** 93 (11d10+33)
 - **Speed:** walk 40 ft.
+
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** [Creature Codex](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd) page 279
 

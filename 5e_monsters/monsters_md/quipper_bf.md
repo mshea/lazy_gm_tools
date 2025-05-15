@@ -5,6 +5,8 @@
 - **Armor Class:** 10
 - **Hit Points:** 8 
 - **Speed:** walk 0 ft. swim 40 ft.
+- **Perception**: 8
+- **Stealth**: 10
 - **Challenge Rating:** 0 (25 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 

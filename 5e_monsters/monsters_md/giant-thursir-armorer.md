@@ -5,6 +5,7 @@
 - **Armor Class:** 19 (splint, shield)
 - **Hit Points:** 138 (12d10+72)
 - **Speed:** walk 40 ft.
+
 - **Challenge Rating:** 6 (2,300 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 206
 

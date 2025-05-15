@@ -5,6 +5,7 @@
 - **Armor Class:** 12 (leather armor)
 - **Hit Points:** 22 (4d6 + 8)
 - **Speed:** walk 20 ft. burrow 20 ft.
+
 - **Challenge Rating:** 1/4 (50 XP)
 - **Source:** [Tome of Beasts 2023](https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/) page 166
 

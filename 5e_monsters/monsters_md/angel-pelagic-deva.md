@@ -5,6 +5,7 @@
 - **Armor Class:** 17 (Living Coral Armor)
 - **Hit Points:** 142 (15d8+75)
 - **Speed:** walk 20 ft. swim 90 ft.
+
 - **Challenge Rating:** 11 (7,200 XP)
 - **Source:** [Tome of Beasts 3](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/) page 27
 

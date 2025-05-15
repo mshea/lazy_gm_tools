@@ -5,6 +5,8 @@
 - **Armor Class:** 14 (Impenetrable Ego)
 - **Hit Points:** 7 
 - **Speed:** walk 30 ft.
+- **Perception**: 12
+- **Stealth**: 11
 - **Challenge Rating:** 1/8 (25 XP)
 - **Source:** [Black Flag](https://koboldpress.com/kpstore/product/tovrpg-pg-mv/)
 
