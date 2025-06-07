@@ -1,0 +1,10 @@
+
+# Staff of Voices
+
+* **Rarity:** rare
+* **Type:** Staff
+* **Attunement:** No
+* **Source:** Vault of Magic
+
+
+The length of this wooden staff is carved with images of mouths whispering, speaking, and screaming. This staff can be wielded as a magic quarterstaff. While holding this staff, you can't be deafened, and you can act normally in areas where sound is prevented, such as in the area of a silence spell. Any creature that is not deafened can hear your voice clearly from up to 1,000 feet away if you wish them to hear it. The staff has 10 charges for the following properties. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the mouths carved into the staff give a collective sigh and close, and the staff becomes a nonmagical quarterstaff. Spells. While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: divine word (7 charges), magic mouth (2 charges), speak with animals (1 charge), speak with dead (3 charges), speak with plants (3 charges), or word of recall (6 charges). You can also use an action to cast the vicious mockery cantrip from the staff without using any charges. Thunderous Shout. While holding the staff, you can use an action to expend 1 charge and release a chorus of mighty shouts in a 15-foot cone from it. Each creature in the area must make a Constitution saving throw. On a failure, a creature takes 2d8 thunder damage and is deafened for 1 minute. On a success, a creature takes half the damage and is deafened until the end of its next turn. A deafened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

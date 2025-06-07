@@ -1,0 +1,10 @@
+
+# Asp's Kiss
+
+* **Rarity:** legendary
+* **Type:** Weapon
+* **Attunement:** Yes
+* **Source:** Vault of Magic
+
+
+This haladie features two short, slightly curved blades attached to a single hilt with a short, blue-sheened spike on the hand guard. You gain a +2 bonus to attack and damage rolls made with this magic weapon. While attuned to this sword, you have immunity to poison damage, and, when you take the Dash action, the extra movement you gain is double your speed instead of equal to your speed. When you use the Attack action with this sword, you can make one attack with its hand guard spike (treat as a dagger) as a bonus action. You can use an action to cause indigo poison to coat the blades of this sword. The poison remains for 1 minute or until two attacks using the blade of this weapon hit one or more creatures. The target must succeed on a DC 17 Constitution saving throw or take 2d10 poison damage and its hit point maximum is reduced by an amount equal to the poison damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. The sword can't be used this way again until the next dawn. When you kill a creature with this weapon, it sheds a single, blue tear as it takes its last breath.

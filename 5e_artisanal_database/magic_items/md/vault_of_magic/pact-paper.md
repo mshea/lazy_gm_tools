@@ -1,0 +1,10 @@
+
+# Pact Paper
+
+* **Rarity:** rare
+* **Type:** Scroll
+* **Attunement:** No
+* **Source:** Vault of Magic
+
+
+This smooth paper is like vellum but is prepared from dozens of scales cast off by a Pact Drake (see Creature Codex). A contract can be inked on this paper, and the paper limns all falsehoods on it with a fiery glow. A command word clears the paper, allowing for several drafts. Another command word locks the contract in place and leaves space for signatures. Creatures signing the contract are afterward bound by the contract with all other signatories alerted when one of the signatories breaks the contract. The creature breaking the contract must succeed on a DC 15 Charisma saving throw or become blinded, deafened, and stunned for 1d6 minutes. A creature can repeat the saving throw at the end of each of minute, ending the conditions on itself on a success. After the conditions end, the creature has disadvantage on saving throws until it finishes a long rest. Once a contract has been locked in place and signed, the paper can't be cleared. If the contract has a duration or stipulation for its end, the pact paper is destroyed when the contract ends, releasing all signatories from any further obligations and immediately ending any effects on them.

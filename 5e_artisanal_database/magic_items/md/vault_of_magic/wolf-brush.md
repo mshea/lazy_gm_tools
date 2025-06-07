@@ -1,0 +1,10 @@
+
+# Wolf Brush
+
+* **Rarity:** very rare
+* **Type:** Weapon
+* **Attunement:** Yes
+* **Source:** Vault of Magic
+
+
+From a distance, this weapon bears a passing resemblance to a fallen tree branch. This unique polearm was first crafted by a famed martial educator and military general from the collected weapons of his fallen compatriots. Each point on this branching spear has a history of its own and is infused with the pain of loss and the glory of military service. When wielded in battle, each of the small, branching spear points attached to the polearm's shaft pulses with a warm glow and burns with the desire to protect the righteous. When not using it, you can fold the branches inward and sheathe the polearm in a leather wrap. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While you hold this weapon, it sheds dim light in a 5-foot radius. You can fold and wrap the weapon as an action, extinguishing the light. While holding or carrying the weapon, you have resistance to piercing damage. The weapon has 10 charges for the following other properties. The weapon regains 1d8 + 2 charges daily at dawn. In addition, it regains 1 charge when exposed to powerful magical sunlight, such as the light created by the sunbeam and sunburst spells, and it regains 1 charge each round it remains exposed to such sunlight. Spike Barrage. While wielding this weapon, you can use an action to expend 1 or more of its charges and sweep the weapon in a small arc to release a barrage of spikes in a 15-foot cone. Each creature in the area must make a DC 17 Dexterity saving throw, taking 1d10 piercing damage for each charge you expend on a failed save, or half as much damage on a successful one. Spiked Wall. While wielding this weapon, you can use an action to expend 6 charges to cast the wall of thorns spell (save DC 17) from it.

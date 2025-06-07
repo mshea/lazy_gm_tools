@@ -1,0 +1,10 @@
+
+# Staff of the Peaks
+
+* **Rarity:** legendary
+* **Type:** Staff
+* **Attunement:** No
+* **Source:** Vault of Magic
+
+
+This staff is made of rock crystal yet weighs the same as a wooden staff. The staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to spell attack rolls. In addition, you are immune to the effects of high altitude and severe cold weather, such as hypothermia and frostbite. The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff shatters into fine stone fragments and is destroyed. Spells. While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: control weather (8 charges), fault line* (6 charges), gust of wind (2 charges), ice storm (4 charges), jump (1 charge), snow boulder* (4 charges), or wall of stone (5 charges). Spells marked with an asterisk (*) can be found in Deep Magic for 5th Edition. Stone Strike. When you hit a creature or object made of stone or earth with this staff, you can expend 5 of its charges to shatter the target. The target must make a DC 17 Constitution saving throw, taking an extra 10d6 force damage on a failed save, or half as much damage on a successful one. If the target is an object that is being worn or carried, the creature wearing or carrying it must make the saving throw, but only the object takes the damage. If this damage reduces the target to 0 hit points, it shatters and is destroyed.

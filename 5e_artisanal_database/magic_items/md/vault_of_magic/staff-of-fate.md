@@ -1,0 +1,10 @@
+
+# Staff of Fate
+
+* **Rarity:** very rare
+* **Type:** Staff
+* **Attunement:** No
+* **Source:** Vault of Magic
+
+
+One half of this staff is crafted of white ash and capped in gold, while the other is ebony and capped in silver. The staff has 10 charges for the following properties. It regains 1d6 + 4 charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff splits into two halves with a resounding crack and becomes nonmagical. Fortune. While holding the staff, you can use an action to expend 1 of its charges and touch a creature with the gold end of the staff, giving it good fortune. The target can choose to use its good fortune and have advantage on one ability check, attack roll, or saving throw. This effect ends after the target has used the good fortune three times or when 24 hours have passed. Misfortune. While holding the staff, you can use an action to touch a creature with the silver end of the staff. The target must succeed on a DC 15 Wisdom saving throw or have disadvantage on one of the following (your choice): ability checks, attack rolls, or saving throws. If the target fails the saving throw, the staff regains 1 expended charge. This effect lasts until removed by the remove curse spell or until you use an action to expend 1 of its charges and touch the creature with the gold end of the staff. Spells. While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: augury (2 charges), bane (1 charge), bless (1 charge), remove curse (3 charges), or divination (4 charges). You can also use an action to cast the guidance spell from the staff without using any charges.

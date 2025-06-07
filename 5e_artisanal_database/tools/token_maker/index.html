@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<style>
+body {
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
+}
+p, li {
+    line-height: 1.5em;
+}
+ul, ol {
+    padding-left: 20px;
+    margin-left: 0;
+}
+li {
+    margin-left: 0;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
+canvas {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    background: #ccc;
+    margin-top: 1rem;
+    border-radius: 50%;
+    cursor: grab;
+    touch-action: none;
+}
+
+input[type="color"] {
+    width: 50px;
+    height: 30px;
+    padding: 0;
+    border: none;
+    vertical-align: middle;
+}
+
+button, #fileButton {
+    font-size: 18px;
+    padding: 10px 16px;
+    border: none;
+    background-color: #d3d3d3;
+    color: #000;
+    border-radius: 6px;
+    cursor: pointer;
+    display: inline-block;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    width: auto;
+    min-width: 140px;
+    text-align: center;
+    margin: 0.5rem 0.5rem 0.5rem 0;
+}
+
+button:active, #fileButton:active {
+    background-color: #a9a9a9;
+}
+
+#fileButton {
+    position: relative;
+    overflow: hidden;
+}
+
+#fileButton input[type="file"] {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+
+#ringColorLabel {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 1rem 0;
+}
+
+#ringColor {
+    flex-shrink: 0;
+    cursor: pointer;
+}
+</style>
+<title>VTT Token Generator</title>
+</head>
+<body>
+<h1>VTT Token Generator</h1>
+<p>Upload an image, use your mouse wheel or pinchies to zoom in and out, and download a PNG token for your VTT.</p>
+
+<label id="fileButton" role="button" aria-label="Choose File" tabindex="0">
+  Choose File
+  <input type="file" id="imageInput" accept="image/*" />
+</label>
+
+<div id="ringColorLabel">
+  <input type="color" id="ringColor" value="#333333" />
+  <span>Ring Color</span>
+</div>
+
+<button id="downloadBtn" aria-label="Generate Token" type="button">Generate Token</button>
+
+<p><canvas id="tokenCanvas" width="512" height="512"></canvas></p>
+
+<script>
+const imageInput = document.getElementById('imageInput');
+const ringColor = document.getElementById('ringColor');
+const canvas = document.getElementById('tokenCanvas');
+const ctx = canvas.getContext('2d');
+const downloadBtn = document.getElementById('downloadBtn');
+
+let uploadedImage = null;
+let imgX = 0, imgY = 0;
+let imgScale = 1;
+let isDragging = false;
+let dragStartX = 0, dragStartY = 0;
+
+let lastDist = null;
+let touchDragging = false;
+let touchStartX = 0, touchStartY = 0;
+let touchImgX = 0, touchImgY = 0;
+
+function resetView() {
+  imgScale = Math.min(canvas.width / uploadedImage.width, canvas.height / uploadedImage.height);
+  imgX = (canvas.width - uploadedImage.width * imgScale) / 2;
+  imgY = (canvas.height - uploadedImage.height * imgScale) / 2;
+}
+
+function render() {
+  const size = canvas.width;
+  ctx.clearRect(0, 0, size, size);
+
+  ctx.save();
+  ctx.beginPath();
+  ctx.arc(size / 2, size / 2, size / 2 - 10, 0, Math.PI * 2);
+  ctx.closePath();
+  ctx.clip();
+
+  if (uploadedImage) {
+    ctx.drawImage(uploadedImage, imgX, imgY, uploadedImage.width * imgScale, uploadedImage.height * imgScale);
+  }
+  ctx.restore();
+
+  ctx.beginPath();
+  ctx.arc(size / 2, size / 2, size / 2 - 5, 0, Math.PI * 2);
+  ctx.strokeStyle = ringColor.value;
+  ctx.lineWidth = 10;
+  ctx.stroke();
+}
+
+imageInput.addEventListener('change', (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (event) => {
+    const img = new Image();
+    img.onload = () => {
+      uploadedImage = img;
+      resetView();
+      render();
+    };
+    img.src = event.target.result;
+  };
+  reader.readAsDataURL(file);
+});
+
+ringColor.addEventListener('input', () => {
+  if (!uploadedImage) return;
+  render();
+});
+
+canvas.addEventListener('mousedown', (e) => {
+  isDragging = true;
+  dragStartX = e.offsetX - imgX;
+  dragStartY = e.offsetY - imgY;
+  canvas.style.cursor = 'grabbing';
+});
+
+canvas.addEventListener('mouseup', () => {
+  isDragging = false;
+  canvas.style.cursor = 'grab';
+});
+
+canvas.addEventListener('mouseleave', () => {
+  isDragging = false;
+  canvas.style.cursor = 'grab';
+});
+
+canvas.addEventListener('mousemove', (e) => {
+  if (isDragging && uploadedImage) {
+    imgX = e.offsetX - dragStartX;
+    imgY = e.offsetY - dragStartY;
+    render();
+  }
+});
+
+canvas.addEventListener('wheel', (e) => {
+  if (!uploadedImage) return;
+  e.preventDefault();
+  const scaleAmount = -e.deltaY * 0.001;
+  const prevScale = imgScale;
+  imgScale *= (1 + scaleAmount);
+  imgScale = Math.max(0.1, Math.min(10, imgScale));
+
+  const rect = canvas.getBoundingClientRect();
+  const mx = e.clientX - rect.left;
+  const my = e.clientY - rect.top;
+
+  const dx = mx - imgX;
+  const dy = my - imgY;
+
+  imgX -= dx * (imgScale / prevScale - 1);
+  imgY -= dy * (imgScale / prevScale - 1);
+
+  render();
+}, { passive: false });
+
+canvas.addEventListener('touchstart', (e) => {
+  if (e.touches.length === 2) {
+    lastDist = getDistance(e.touches[0], e.touches[1]);
+  } else if (e.touches.length === 1) {
+    touchDragging = true;
+    touchStartX = e.touches[0].clientX;
+    touchStartY = e.touches[0].clientY;
+    touchImgX = imgX;
+    touchImgY = imgY;
+  }
+}, { passive: false });
+
+canvas.addEventListener('touchmove', (e) => {
+  if (e.touches.length === 2 && uploadedImage) {
+    e.preventDefault();
+    const newDist = getDistance(e.touches[0], e.touches[1]);
+    const scaleChange = newDist / lastDist;
+    const prevScale = imgScale;
+    imgScale *= scaleChange;
+    imgScale = Math.max(0.1, Math.min(10, imgScale));
+
+    const rect = canvas.getBoundingClientRect();
+    const mx = (e.touches[0].clientX + e.touches[1].clientX) / 2 - rect.left;
+    const my = (e.touches[0].clientY + e.touches[1].clientY) / 2 - rect.top;
+
+    const dx = mx - imgX;
+    const dy = my - imgY;
+
+    imgX -= dx * (imgScale / prevScale - 1);
+    imgY -= dy * (imgScale / prevScale - 1);
+
+    lastDist = newDist;
+    render();
+  } else if (touchDragging && e.touches.length === 1 && uploadedImage) {
+    e.preventDefault();
+    const dx = e.touches[0].clientX - touchStartX;
+    const dy = e.touches[0].clientY - touchStartY;
+    imgX = touchImgX + dx;
+    imgY = touchImgY + dy;
+    render();
+  }
+}, { passive: false });
+
+canvas.addEventListener('touchend', (e) => {
+  if (e.touches.length === 0) {
+    touchDragging = false;
+    lastDist = null;
+  }
+}, { passive: false });
+
+function getDistance(touch1, touch2) {
+  const dx = touch2.clientX - touch1.clientX;
+  const dy = touch2.clientY - touch1.clientY;
+  return Math.sqrt(dx * dx + dy * dy);
+}
+
+downloadBtn.addEventListener('click', () => {
+  if (!uploadedImage) {
+    alert('Upload an image first.');
+    return;
+  }
+  render();
+  const dataUrl = canvas.toDataURL('image/png');
+  const a = document.createElement('a');
+  a.href = dataUrl;
+  a.download = 'token.png';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+});
+</script>
+
+<p>This tool is released under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.</p>
+<p>No images are saved to any server when using this tool. All file manipulation happens in your local web browser.</p>
+</body>
+</html>

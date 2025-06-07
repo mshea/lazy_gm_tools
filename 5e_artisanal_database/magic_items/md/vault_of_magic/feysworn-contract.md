@@ -1,0 +1,10 @@
+
+# Feysworn Contract
+
+* **Rarity:** rare
+* **Type:** Scroll
+* **Attunement:** No
+* **Source:** Vault of Magic
+
+
+This long scroll is written in flowing Elvish, the words flickering with a pale witchlight, and marked with the seal of a powerful fey or a fey lord or lady. When you use an action to present this scroll to a fey whose Challenge Rating is equal to or less than your level, the binding powers of the scroll compel it to listen to you. You can then attempt to strike a bargain with the fey, negotiating a service from it in exchange for a reward. The fey is under no compulsion to strike the bargain; it is compelled only to parley long enough for you to present a bargain and allow for negotiations. If you or your allies attack or otherwise attempt to harm the fey, the truce is broken, and the creature can act normally. If the fey refuses the offer, it is free to take any actions it wishes. Should you and the fey reach an agreement that is satisfactory to both parties, you must sign the agreement and have the fey do likewise (or make its mark, if it has no form of writing). The writing on the scroll changes to reflect the terms of the agreement struck. The magic of the charter holds both you and the fey to the agreement until its service is rendered and the reward paid, at which point the scroll fades into nothingness. Fey are notoriously clever folk, and while they must adhere to the letter of any bargains they make, they always look for any advantage in their favor. If either party breaks the bargain, that creature immediately takes 10d6 poison damage, and the charter is destroyed, ending the contract.

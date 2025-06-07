@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta charset="UTF-8">
+<style>
+body {
+  max-width: 700px;
+  margin: auto;
+  font-size: 18px;
+  font-family: sans-serif;
+  padding: 10px;
+}
+button, select {
+  font-size: 18px;
+  min-height: 44px;
+  padding: 12px 16px;
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+</style>
+<title>D&D 2024 Treasure Generator</title>
+</head>
+<body>
+<h1>D&D 2024 Treasure Generator</h1>
+
+<select id="tier">
+  <option value="tier1">1st–4th Level</option>
+  <option value="tier2">5th–10th Level</option>
+  <option value="tier3">11th–16th Level</option>
+  <option value="tier4">17th+ Level</option>
+</select>
+<br><br><button onclick="generate()">Generate</button>
+
+<div id="output"></div>
+
+<!-- Load external data file -->
+<script src="data.js"></script>
+
+<script>
+function parseInput(text) {
+  const lines = text.trim().split('\n');
+  const result = {};
+  let currentKey = null;
+  for (let line of lines) {
+    if (!line.trim()) continue;
+    // Check if line starts with whitespace (either spaces or tabs)
+    if (!line.match(/^[\s]/)) {
+      currentKey = line.trim();
+      result[currentKey] = [];
+    } else if (currentKey) {
+      const trimmed = line.trim();
+      
+      // Check for weight marker at the end (content ^54)
+      const match = trimmed.match(/^(.*?)\s+\^(\d+)$/);
+      if (match) {
+        const weight = parseInt(match[2]);
+        for (let i = 0; i < weight; i++) result[currentKey].push(match[1]);
+      } else {
+        result[currentKey].push(trimmed);
+      }
+    }
+  }
+  return result;
+}
+
+
+
+function pick(list) {
+  return list[Math.floor(Math.random() * list.length)];
+}
+
+function addCommasToNumber(num) {
+  return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+}
+
+function fillTemplate(template, data) {
+  // Handle multiple items with ranges like [[1-4]]x {any_key} FIRST
+  template = template.replace(/\[\[(\d+)-(\d+)\]\]x\s*\{([^}]+)\}/g, (match, min, max, key) => {
+    const count = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
+    const items = [];
+    
+    for (let i = 0; i < count; i++) {
+      let item = pick(data[key] || ['']);
+      
+      // Recursively process the item to handle nested substitutions
+      item = fillTemplate(item, data);
+      
+      // Only add GP values for art objects (keys that start with "art_")
+      if (key.startsWith('art_')) {
+        const keyParts = key.split('_');
+        if (keyParts.length > 1 && !isNaN(keyParts[keyParts.length - 1])) {
+          const numericValue = keyParts[keyParts.length - 1];
+          const formattedValue = ` (${addCommasToNumber(numericValue)} GP)`;
+          item = `${item}${formattedValue}`;
+        }
+      }
+      
+      items.push(item);
+    }
+    return items.join('<br>');
+  });
+  
+  // Handle patterns like [[8-12]] × 10 GP {gem_10} - note the Unicode multiplication symbol
+  template = template.replace(/\[\[(\d+)-(\d+)\]\]\s*×\s*(\d+)\s*GP\s*\{(gem_\d+)\}/g, (match, min, max, gpValue, key) => {
+    const count = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
+    const formattedGP = addCommasToNumber(gpValue);
+    const gem = pick(data[key] || ['']);
+    return `${count} × ${formattedGP} GP ${gem}`;
+  });
+  
+  // Handle patterns like [[8-12]] × 250 GP gold bars (no gem reference)
+  template = template.replace(/\[\[(\d+)-(\d+)\]\]\s*×\s*(\d+)\s*GP\s*([^{]*?)(?=<br>|$)/g, (match, min, max, gpValue, item) => {
+    const count = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
+    const formattedGP = addCommasToNumber(gpValue);
+    return `${count} × ${formattedGP} GP ${item.trim()}`;
+  });
+  
+  // Handle regular number ranges like [[50-150]]
+  template = template.replace(/\[\[(\d+)-(\d+)\]\]/g, (match, min, max) => {
+    const value = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
+    return addCommasToNumber(value);
+  });
+  
+  // Handle pipe-separated options with mixed braces like {{option1}|{option2}|{option3}}
+  let processedTemplate = template;
+  let startIndex = 0;
+  
+  while (true) {
+    const openIndex = processedTemplate.indexOf('{{', startIndex);
+    if (openIndex === -1) break;
+    
+    // Find the matching closing }}
+    let braceCount = 0;
+    let closeIndex = -1;
+    for (let i = openIndex + 2; i < processedTemplate.length - 1; i++) {
+      if (processedTemplate.substr(i, 2) === '{{') {
+        braceCount++;
+        i++; // Skip next character
+      } else if (processedTemplate.substr(i, 2) === '}}') {
+        if (braceCount === 0) {
+          closeIndex = i;
+          break;
+        } else {
+          braceCount--;
+          i++; // Skip next character
+        }
+      }
+    }
+    
+    if (closeIndex === -1) break;
+    
+    const fullMatch = processedTemplate.substring(openIndex, closeIndex + 2);
+    const content = processedTemplate.substring(openIndex + 2, closeIndex);
+    
+    // Split on | and clean up each option
+    const options = content.split('|').map(option => {
+      // Remove surrounding braces completely
+      return option.replace(/^\{/, '').replace(/\}$/, '').trim();
+    }).filter(option => option !== '');
+
+    const selectedOption = pick(options);
+    
+    // The selected option should be a key name, so look it up in data
+    const result = pick(data[selectedOption] || [selectedOption]);
+    
+    // Replace the match with the result
+    processedTemplate = processedTemplate.substring(0, openIndex) + result + processedTemplate.substring(closeIndex + 2);
+    startIndex = openIndex + result.length;
+  }
+  
+  template = processedTemplate;
+  
+  // Handle single item references like {gem_10} and {art_XXX}
+  // Also handle pipe-separated options in single braces like {option1|option2|option3}
+  template = template.replace(/\{([^}]+)\}/g, (match, content) => {
+    // Check if it contains pipes (multiple options)
+    if (content.includes('|')) {
+      const options = content.split('|').map(option => option.trim()).filter(option => option !== '');
+      const selectedOption = pick(options);
+      const result = pick(data[selectedOption] || [selectedOption]);
+      return result;
+    } else {
+      // Single key lookup
+      const item = pick(data[content] || ['']);
+      return item;
+    }
+  });
+  return template;
+}
+
+function generate() {
+  const tier = document.getElementById('tier').value;
+  const parsed = parseInput(dataText); // dataText comes from data.js
+  const output = document.getElementById('output');
+  
+  // Start with a random template
+  let result = pick(parsed[tier]);
+  
+  // Keep processing until no more substitutions can be made
+  let maxIterations = 10; // Prevent infinite loops
+  let iterations = 0;
+  let previousResult = '';
+  
+  while (result !== previousResult && iterations < maxIterations) {
+    previousResult = result;
+    result = fillTemplate(result, parsed);
+    iterations++;
+  }
+  
+  // Split into items and filter out empty ones
+  const items = result.split('<br>').filter(item => item.trim() !== '');
+  
+  // Capitalize the first character of each bullet point
+  const formattedItems = items.map(item => {
+    const trimmed = item.trim();
+    if (trimmed) {
+      return '- ' + trimmed.charAt(0).toUpperCase() + trimmed.slice(1);
+    }
+    return '';
+  }).filter(item => item !== '');
+  
+  output.innerHTML = '<p>' + formattedItems.join('<br>') + '</p>';
+}
+
+// Load data when page loads
+window.onload = () => generate();
+</script>
+</body>
+</html>

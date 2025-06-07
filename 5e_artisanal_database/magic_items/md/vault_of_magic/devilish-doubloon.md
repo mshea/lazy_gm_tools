@@ -1,0 +1,10 @@
+
+# Devilish Doubloon
+
+* **Rarity:** very rare
+* **Type:** Wondrous item
+* **Attunement:** No
+* **Source:** Vault of Magic
+
+
+This gold coin bears the face of a leering devil on the obverse. If it is placed among other coins, it changes its appearance to mimic its neighbors, doing so over the course of 1 hour. This is a purely cosmetic change, and it returns to its original appearance when grasped by a creature with an Intelligence of 5 or higher. You can use a bonus action to toss the coin up to 20 feet. When the coin lands, it transforms into a barbed devil. The devil vanishes after 1 hour or when it is reduced to 0 hit points. When the devil vanishes, the coin reappears in a collection of at least 20 gold coins elsewhere on the same plane where it vanished. The devil is friendly to you and your companions. Roll initiative for the devil, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the devil, it defends itself from hostile creatures but otherwise takes no actions. If you are reduced to 0 hit points and the devil is still alive, it moves to your body and uses its action to grab your soul. You must succeed on a DC 15 Charisma saving throw or the devil steals your soul and you die. If the devil fails to grab your soul, it vanishes as if slain. If the devil grabs your soul, it uses its next action to transport itself back to the Hells, disappearing in a flash of brimstone. If the devil returns to the Hells with your soul, its coin doesn't reappear, and you can be restored to life only by means of a true resurrection or wish spell.

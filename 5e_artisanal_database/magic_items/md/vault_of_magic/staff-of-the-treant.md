@@ -1,0 +1,10 @@
+
+# Staff of the Treant
+
+* **Rarity:** very rare
+* **Type:** Staff
+* **Attunement:** No
+* **Source:** Vault of Magic
+
+
+This unassuming staff appears to be little more than the branch of a tree. While holding this staff, your skin becomes bark-like, and the hair on your head transforms into a chaplet of green leaves. This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it. Nature’s Guardian. While holding this staff, you have resistance to cold and necrotic damage, but you have vulnerability to fire and radiant damage. In addition, you have advantage on attack rolls against aberrations and undead, but you have disadvantage on saving throws against spells and other magical effects from fey and plant creatures. One with the Woods. While holding this staff, your AC can’t be less than 16, regardless of what kind of armor you are wearing, and you can’t be tracked when you travel through terrain with excessive vegetation, such as a forest or grassland. Tree Friend. While holding this staff, you can use an action to animate a tree you can see within 60 feet of you. The tree uses the statistics of an animated tree and is friendly to you and your companions. Roll initiative for the tree, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t directly harm other trees or the natural world. If you don’t issue any commands to the three, it defends itself from hostile creatures but otherwise takes no actions. Once used, this property can’t be used again until the next dawn. Venerated Tree. If you spend 1 hour in silent reverence at the base of a Huge or larger tree, you can use an action to plant this staff in the soil above the tree’s roots and awaken the tree as a treant. The treant isn’t under your control, but it regards you as a friend as long as you don’t harm it or the natural world around it. Roll a d20. On a 1, the staff roots into the ground, growing into a sapling, and losing its magic. Otherwise, after you awaken a treant with this staff, you can’t do so again until 30 days have passed.

@@ -1,0 +1,10 @@
+
+# Justicar's Mask
+
+* **Rarity:** rare
+* **Type:** Wondrous item
+* **Attunement:** Yes
+* **Source:** Vault of Magic
+
+
+This stern-faced mask is crafted of silver. While wearing the mask, your gaze can root enemies to the spot. When a creature that can see the mask starts its turn within 30 feet of you, you can use a reaction to force it to make a DC 15 Wisdom saving throw, if you can see the creature and aren't incapacitated. On a failure, the creature is restrained. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Otherwise, the condition lasts until removed with the dispel magic spell or until you end it (no action required). Justicars are arbiters of law and order, operating independently of any official city guard or watch divisions. They are recognizable by their black, hooded robes, silver masks, and the rods they carry as weapons. These stern sentinels are overseen by The Magister, a powerful wizard of whom little is known other than their title. The Magister has made it their duty to oversee order in the city and executes their plans through the Justicars, giving them the Magister's mark, a signet ring, as a symbol of their authority. While some officers and members of the watch may be resentful of the Justicars' presence, many are grateful for their aid, especially in situations that could require magic. Justicar's are a small, elite group, typically acting as solo agents, though extremely dangerous situations bring them together in pairs or larger groups as needed. The Justicars are outfitted with three symbols of authority that are also imbued with power: their masks, rods, and rings. Each by itself is a useful item, but they are made stronger when worn together. The combined powers of this trinity of items make a Justicar a formidable force in the pursuit of law and order.

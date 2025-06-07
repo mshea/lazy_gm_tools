@@ -1,0 +1,14 @@
+
+# Flag of the Cursed Fleet
+
+* **Rarity:** legendary
+* **Type:** Wondrous item
+* **Attunement:** No
+* **Source:** Vault of Magic
+
+
+This dreaded item is a black flag painted with an unsettlingly realistic skull. A spell or other effect that can sense the presence of magic, such as detect magic, reveals an aura of necromancy around the flag. Beasts with an Intelligence of 3 or lower don’t willingly board a vessel where this flag flies. A successful DC 17 Wisdom (Animal Handling) check convinces an unwilling beast to board the vessel, though it remains uneasy and skittish while aboard. 
+Cursed Crew. When this baleful flag flies atop the mast of a waterborne vehicle, it curses the vessel and all those that board it. When a creature that isn’t a humanoid dies aboard the vessel, it rises 1 minute later as a zombie under the ship captain’s control. When a humanoid dies aboard the vessel, it rises 1 minute later as a ghoul under the ship captain’s control. A ghoul retains any knowledge of sailing or maintaining a waterborne vehicle that it had in life. 
+Cursed Captain. If the ship flying this flag doesn’t have a captain, the undead crew seeks out a powerful humanoid or intelligent undead to bring aboard and coerce into becoming the captain. When an undead with an Intelligence of 10 or higher boards the captainless vehicle, it must succeed on a DC 17 Wisdom saving throw or become magically bound to the ship and the flag. If the creature exits the vessel and boards it again, the creature must repeat the saving throw. The flag fills the captain with the desire to attack other vessels to grow its crew and commandeer larger vessels when possible, bringing the flag with it. If the flag is destroyed or removed from a waterborne vehicle for at least 7 days, the zombie and ghoul crew crumbles to dust, and the captain is freed of the flag’s magic, if the captain was bound to it. 
+Unholy Vessel. While aboard a vessel flying this flag, an undead creature has advantage on saving throws against effects that turn undead, and if it fails the saving throw, it isn’t destroyed, no matter its CR. In addition, the captain and crew can’t be frightened while aboard a vessel flying this flag. 
+When a creature that isn’t a construct or undead and isn’t part of the crew boards the vessel, it must succeed on a DC 17 Constitution saving throw or be poisoned while it remains on board. If the creature exits the vessel and boards it again, the creature must repeat the saving throw.

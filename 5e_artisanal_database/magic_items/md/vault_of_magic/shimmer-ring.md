@@ -1,0 +1,10 @@
+
+# Shimmer Ring
+
+* **Rarity:** rare
+* **Type:** Ring
+* **Attunement:** Yes
+* **Source:** Vault of Magic
+
+
+This ring is crafted of silver with an inlay of mother-of-pearl. While wearing the ring, you can use an action to speak a command word and cause the ring to shed white and sparkling bright light in a 20-foot radius and dim light for an additional 20 feet. The light lasts until you use a bonus action to repeat the command word. The ring has 6 charges for the following properties. It regains 1d6 charges daily at dawn. Bestow Shimmer. While wearing the ring, you can use a bonus action to expend 1 of its charges to charge a weapon you wield with silvery energy until the start of your next turn. When you hit with an attack using the charged weapon, the target takes an extra 1d6 radiant damage. Shimmering Aura. While wearing the ring, you can use an action to expend 1 of its charges to surround yourself with a silvery, shimmering aura of light for 1 minute. This bright light extends from you in a 5-foot radius and is sunlight. While you are surrounded in this light, you have resistance to radiant damage. Shimmering Bolt. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a bolt of silvery light and makes its attack roll with a +7 bonus. On a hit, the target takes 2d6 radiant damage for each charge you expend.

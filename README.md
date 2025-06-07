@@ -8,7 +8,9 @@ In this repository you'll find:
 
 **The Forge of Foes Stat Tool (fof_stats.html)**. A single-page HTML file to help you generate 5e statistics for 5e monsters using the material found in *[Forge of Foes](https://shop.slyflourish.com/collections/the-lazy-dungeon-master-series/products/forge-of-foes)*.
 
-**The 5e Artisanal Monster Database (/5e_monsters/)**. A monster database built from [Open5e](https://open5e.com) in HTML and markdown, all set up to run locally through your own browser.
+**The 5e Artisanal Database (/5e_artisanal_database/) (deprecated)**. A collection of rules, datasources, tools, and generators for 5e RPGs. Data comes from [Open5e](https://open5e.com) and all the material is in HTML and markdown, all set up to run locally through your own browser.
+
+**The 5e Artisanal Monster Database (/5e_monsters/) (deprecated)**. A monster database built from [Open5e](https://open5e.com) in HTML and markdown, all set up to run locally through your own browser.
 
 **The Dyson Map Selector (/dyson_maps/)**. A tool to find maps from a library of commercially-licensed [Dyson Logos](https://dysonlogos.blog) maps. Please consider joining [Dyson's Patreon](https://www.patreon.com/dysonlogos/).
 

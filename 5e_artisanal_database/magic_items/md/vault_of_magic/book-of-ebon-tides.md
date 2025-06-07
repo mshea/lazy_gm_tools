@@ -1,0 +1,25 @@
+
+# Book of Ebon Tides
+
+* **Rarity:** very rare
+* **Type:** Wondrous item
+* **Attunement:** Yes
+* **Source:** Vault of Magic
+
+
+This strange, twilight-hued tome was written on pages of pure shadow weave, bound in traditional birch board covers wrapped with shadow goblin hide, and imbued with the memories of forests on the Plane of Shadow. Its covers often reflect light as if it were resting in a forest grove, and some owners swear that a goblin face appears on them now and again. The sturdy lock on one side opens only for wizards, elves, and Shadow Fey (see Tome of Beasts). The book has 15 charges, and it regains 2d6 + 3 expended charges daily in the twilight before dawn. If you expend the last charge, roll a 1d20. On a 1, the book retains its Ebon Tides and Shadow Lore properties but loses its Spells property. When the magic ritual completes, make an Intelligence (Arcana) check and consult the Terrain Changes table for the appropriate DCs. You can change the terrain in any one way listed at your result or lower. For example, if your result was 17, you could turn a small forest up to 30 feet across into a grassland, create a grove of trees up to 240 feet across, create a 6-foot-wide flowing stream, overgrow 1,500 feet of an existing road, or other similar option. Only natural terrain you can see can be affected; built structures, such as homes or castles, remain untouched, though roads and trails can be overgrown or hidden. On a failure, the terrain is unchanged. On a 1, an Overshadow (see Tome of Beasts 2) also appears and attacks you. On a 20, you can choose two options. Deities, Fey Lords and Ladies (see Tome of Beasts), archdevils, demon lords, and other powerful rulers in the Plane of Shadow can prevent these terrain modifications from happening in their presence or anywhere within their respective domains. Spells marked with an asterisk (*) can be found in Deep Magic for 5th Edition. At the GM's discretion, spells from Deep Magic for 5th Edition can be replaced with other spells of similar levels and similarly related to darkness, illusion, or shadows, such as invisibility or major image. | DC | Effect |
+| --- | --------------------------------------------------------------------------------------------------- |
+| 8 | Obscuring a path and removing all signs of passage (30 feet per point over 7) |
+| 10 | Creating a grove of trees (30 feet across per point over 9) |
+| 11 | Creating or drying up a lake or pond (up to 10 feet across per point over 10) |
+| 12 | Creating a flowing stream (1 foot wide per point over 11) |
+| 13 | Overgrowing an existing road with brush or trees (300 feet per point over 12) |
+| 14 | Shifting a river to a new course (300 feet per point over 13) |
+| 15 | Moving a forest (300 feet per point over 14) |
+| 16 | Creating a small hill, riverbank, or cliff (10 feet tall per point over 15) |
+| 17 | Turning a small forest into grassland or clearing, or vice versa (30 feet across per point over 16) |
+| 18 | Creating a new river (10 feet wide per point over 17) |
+| 19 | Turning a large forest into grassland, or vice versa (300 feet across per point over 19) |
+| 20 | Creating a new mountain (1,000 feet high per point over 19) |
+| 21 | Drying up an existing river (reducing width by 10 feet per point over 20) |
+| 22 | Shrinking an existing hill or mountain (reducing 1,000 feet per point over 21) | Written by an elvish princess at the Court of Silver Words, this volume encodes her understanding and mastery of shadow. Whimsical illusions suffuse every page, animating its illuminated capital letters and ornamental figures. The book is a famous work among the sable elves of that plane, and it opens to the touch of any elfmarked or sable elf character.

@@ -1,0 +1,10 @@
+
+# Trick Shot Mirror
+
+* **Rarity:** varies
+* **Type:** Wondrous item
+* **Attunement:** Yes
+* **Source:** Vault of Magic
+
+
+A trick shot mirror is a round, steel-framed hand mirror with no handle, but its 5-inch diameter makes it easy to hold. A trick shot mirror comes in different styles, but each allows you to adjust the trajectory of an attack or spell. Each mirror has 3 charges, and it regains all expended charges daily at dawn. Ricocheting Trick Shot Mirror (Uncommon). While holding the mirror, you can use an action to expend 1 of the mirror’s charges and cause the mirror to fly from your hand and float in an unoccupied space within 60 feet of you for 1 minute. When you make a ranged attack, you determine your line of sight as if you were in your space or the mirror’s space. You must be able to see the mirror to do so. The mirror doesn’t extend the range of your attack, and you still have disadvantage on the attack roll if you attack a target outside of your weapon’s or spell’s normal range. You can use a bonus action to command the mirror to fly back to your open hand. Spellbending Trick Shot Mirror (Rare). While holding the mirror and casting a spell that forms a line, you can expend 1 or more of the mirror’s charges to focus part of the spell into the mirror and change the angle of the line. Choose one space along the line. The line bends at a 90-degree angle in the space in the direction of your choice. This bend doesn’t extend the length of the line, but it could redirect the line in such a way as to hit a creature previously not within the line’s area of effect. For each charge you expend, you can bend the line in an additional space.

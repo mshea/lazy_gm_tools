@@ -1,0 +1,42 @@
+# Ancient Aboleth
+
+*Huge* *Aberration*
+
+- **Armor Class:** 17
+- **Hit Points:** 342 (36d10+144)
+- **Speed:** walk 10 ft. swim 40 ft.
+- **Challenge Rating:** 11 (7,200 XP)
+- **Source:** A5e Monstrous Menagerie, page 17
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 20 (+5) | 12 (+1) | 18 (+4) | 20 (+5) | 20 (+5) | 18 (+4) |
+
+- **Saving Throws**: Dex +5, Con +8, Int +9, Wis +9
+- **Skills:** deception +8, history +9, stealth +5
+- **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 15
+- **Languages:** Deep Speech, telepathy 120 ft.
+
+### Special Abilities
+
+- **Amphibious:** The aboleth can breathe air and water.
+- **Innate Spellcasting:** The aboleths spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no components: 3/day each: detect thoughts (range 120 ft, desc: ), project image (range 1 mile), phantasmal force
+
+### Actions
+
+- **Multiattack:** The aboleth attacks three times with its tentacle.
+- **Tentacle:** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (4d6 + 5) bludgeoning damage. The aboleth can choose instead to deal 0 damage. If the target is a creature  it makes a DC 16 Constitution saving throw. On a failure  it contracts a disease called the Sea Change. On a success  it is immune to this disease for 24 hours. While affected by this disease  the target has disadvantage on Wisdom saving throws. After 1 hour  the target grows gills  it can breathe water  its skin becomes slimy  and it begins to suffocate if it goes 12 hours without being immersed in water for at least 1 hour. This disease can be removed with a disease-removing spell cast with at least a 4th-level spell slot  and it ends 24 hours after the aboleth dies.
+- **Slimy Cloud (1/Day, While Bloodied):** While underwater  the aboleth exudes a cloud of inky slime in a 30-foot-radius sphere. Each non-aboleth creature in the area when the cloud appears makes a DC 16 Constitution saving throw. On a failure  it takes 44 (8d10) poison damage and is poisoned for 1 minute. The slime extends around corners  and the area is heavily obscured for 1 minute or until a strong current dissipates the cloud.
+
+
+
+### Legendary Actions
+
+- **The aboleth can take 2 legendary actions:** Only one legendary action can be used at a time and only at the end of another creatures turn. It regains spent legendary actions at the start of its turn.
+- **Move:** The aboleth moves up to its swim speed without provoking opportunity attacks.
+- **Telepathic Summon:** One creature within 90 feet makes a DC 16 Wisdom saving throw. On a failure, it must use its reaction, if available, to move up to its speed toward the aboleth by the most direct route that avoids hazards, not avoiding opportunity attacks. This is a magical charm effect.
+- **Baleful Charm (Costs 2 Actions):** The aboleth targets one creature within 60 feet that has contracted Sea Change. The target makes a DC 16 Wisdom saving throw. On a failure, it is magically charmed by the aboleth until the aboleth dies. The target can repeat this saving throw every 24 hours and when it takes damage from the aboleth or the aboleths allies. While charmed in this way, the target can communicate telepathically with the aboleth over any distance and it follows the aboleths orders.
+- **Soul Drain (Costs 2 Actions):** One creature charmed by the aboleth takes 22 (4d10) psychic damage, and the aboleth regains hit points equal to the damage dealt.
+- **Elite Recovery:** The aboleth ends one negative effect currently affecting it. It can use this action as long as it has at least 1 hit point, even while unconscious or incapacitated.
+- **Look Upon My Works (1/Day):** Each creature within 90 feet makes a DC 16 Wisdom saving throw. On a failure, the creature sees a fragmentary vision of the aboleths memories, taking 33 (6d10) psychic damage. After taking the damage, the creature forgets the vision, but it may learn one piece of lore.
+- **Lunging Attack:** The aboleth moves up to its swim speed without provoking opportunity attacks and makes a tentacle attack.
