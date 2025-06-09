@@ -4,6 +4,63 @@
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
 <style>
+.main-search-container {
+    margin: 20px 0;
+    padding: 0;
+}
+
+.main-search-input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.main-search-input:focus {
+    border-color: #888;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(136, 136, 136, 0.2);
+}
+
+.search-button {
+    background-color: #666;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.search-button:hover {
+    background-color: #555;
+}
+
+.search-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+@media (min-width: 600px) {
+    .search-form {
+        flex-direction: row;
+        align-items: center;
+    }
+    
+    .main-search-input {
+        flex: 1;
+        margin-right: 10px;
+    }
+    
+    .search-button {
+        margin-top: 0;
+    }
+}
 body {
     max-width: 700px;
     margin: auto;
@@ -29,11 +86,50 @@ th, td {
     padding: 5px;
     text-align: left;
 }
+
 </style>
 <title>5e Artisanal Database</title>
 </head>
 <body>
 <h1>5e Artisanal Database</h1>
+
+<div class="main-search-container">
+    <form class="search-form" onsubmit="performSearch(event)">
+        <input 
+            type="text" 
+            id="mainSearchInput" 
+            class="main-search-input" 
+            placeholder="Search rules, spells, monsters, and more..." 
+            autocomplete="off"
+        >
+        <button type="submit" class="search-button">Search</button>
+    </form>
+</div>
+
+<!-- Add this JavaScript before the closing </body> tag -->
+<script>
+function performSearch(event) {
+    event.preventDefault(); // Prevent form submission
+    
+    const searchInput = document.getElementById('mainSearchInput');
+    const query = searchInput.value.trim();
+    
+    if (query) {
+        // Redirect to search page with query parameter
+        window.location.href = `./search/index.html?q=${encodeURIComponent(query)}`;
+    } else {
+        // If no query, just go to search page
+        window.location.href = './search/index.html';
+    }
+}
+
+// Allow Enter key to trigger search
+document.getElementById('mainSearchInput').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+        performSearch(e);
+    }
+});
+</script>
 
 <h2>Rulesets</h2>
 <ul>
@@ -77,8 +173,7 @@ th, td {
 
 <h2>About the 5e Artisanal Database</h2>
 
-<p>The 5e Artisanal Database is a database of open-licensed content for your 5e-based tabletop roleplaying games. Mobile friendly, downloadable, and self-hostable using your own web server or locally using your own web browser.</p>
-<p><a href="5e_artisanal_database.zip">Download your own copy</a> which you can run in a browser or host on your own local webserver and includes markdown versions of everything in this database.</p>
+<p>The 5e Artisanal Database is a database of open-licensed content for your 5e-based tabletop roleplaying games. Mobile friendly, downloadable, and self-hostable using your own web server or locally using your own web browser. <a href="5e_artisanal_database.zip">Download your own copy</a>.</p>
 
 <p>The 5e Artisanal Database is a feature for <a href="https://www.patreon.com/c/slyflourish">Patreons of Sly Flourish</a>. If you are not a patron, please <a href="https://www.patreon.com/c/slyflourish">join up</a> to support this work and get access to a whole lot more.</a>
 

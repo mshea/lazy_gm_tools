@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="user-scalable=yes, width=device-width">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<style>
+body {
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
+}
+p, li {
+    line-height: 1.5em;
+}
+ul, ol {
+    padding-left: 20px;
+    margin-left: 0;
+}
+li {
+    margin-left: 0;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
+/* Search-specific styles */
+.search-container {
+    margin: 20px 0;
+}
+
+.search-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.search-input:focus {
+    border-color: #888;
+    outline: none;
+}
+
+.search-results {
+    margin-top: 20px;
+}
+
+.result-item {
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.result-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.result-title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.result-title a:hover {
+    text-decoration: underline;
+    color: #666;
+}
+
+.result-source {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.result-snippet {
+    color: #555;
+    line-height: 1.4;
+}
+
+.no-results {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+    margin: 20px 0;
+}
+
+.loading {
+    text-align: center;
+    color: #666;
+    margin: 20px 0;
+}
+
+.search-stats {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.highlight {
+    background-color: #ffff99;
+    padding: 1px 2px;
+}
+
+.filter-container {
+    margin: 20px 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}
+
+.filter-header {
+    padding: 15px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 4px 4px 0 0;
+    user-select: none;
+}
+
+.filter-header:hover {
+    background-color: #e8e8e8;
+}
+
+.filter-header h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+}
+
+.filter-toggle {
+    font-size: 18px;
+    color: #666;
+    transition: transform 0.2s ease;
+}
+
+.filter-toggle.collapsed {
+    transform: rotate(-90deg);
+}
+
+.filter-content {
+    padding: 15px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+}
+
+.filter-content.collapsed {
+    max-height: 0;
+    padding: 0 15px;
+    opacity: 0;
+}
+
+.source-filters {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 15px;
+}
+
+.filter-section {
+    margin-bottom: 15px;
+}
+
+.filter-section:last-child {
+    margin-bottom: 0;
+}
+
+.filter-section-title {
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 8px;
+    padding: 8px 4px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    user-select: none;
+}
+
+.filter-section-title:hover {
+    background-color: #f0f0f0;
+    border-radius: 4px;
+}
+
+.filter-section-title input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    margin: 0;
+}
+
+.section-toggle {
+    margin-left: auto;
+    font-size: 14px;
+    color: #666;
+    transition: transform 0.2s ease;
+}
+
+.section-toggle.collapsed {
+    transform: rotate(-90deg);
+}
+
+.filter-subsection {
+    margin-left: 25px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+}
+
+.filter-subsection.collapsed {
+    max-height: 0;
+    opacity: 0;
+    margin-bottom: 0;
+}
+
+.filter-subsection-title {
+    font-weight: 600;
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 6px;
+}
+
+.source-filter {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px;
+    margin-bottom: 6px;
+    background-color: #f8f8f8;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.source-filter:hover {
+    background-color: #eeeeee;
+}
+
+.source-filter input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.source-filter label {
+    font-size: 15px;
+    cursor: pointer;
+    user-select: none;
+    flex: 1;
+    padding: 4px 0;
+}
+
+@media (max-width: 600px) {
+    .source-filter {
+        padding: 16px;
+        gap: 16px;
+    }
+    
+    .source-filter input[type="checkbox"] {
+        width: 24px;
+        height: 24px;
+    }
+    
+    .source-filter label {
+        font-size: 16px;
+        padding: 6px 0;
+    }
+    
+    .filter-subsection {
+        margin-left: 10px;
+    }
+}
+
+.filter-actions {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.filter-actions button {
+    background-color: #666;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    white-space: nowrap;
+    min-height: 44px;
+}
+
+.filter-actions button:hover {
+    background-color: #555;
+}
+
+@media (max-width: 600px) {
+    .filter-actions {
+        justify-content: center;
+    }
+    
+    .filter-actions button {
+        flex: 1;
+        min-width: 120px;
+        padding: 16px 24px;
+        font-size: 16px;
+        min-height: 48px;
+    }
+}
+</style>
+<title>5e Artisanal Database - Search</title>
+</head>
+<body>
+<h1>Search</h1>
+
+<div class="search-container">
+    <input type="text" id="searchInput" class="search-input" placeholder="Search rules, spells, monsters, and more..." autocomplete="off">
+</div>
+
+<div class="filter-container">
+    <div class="filter-header" onclick="toggleFilters()">
+        <h3>Filter by Source</h3>
+        <span id="filterToggle" class="filter-toggle collapsed">►</span>
+    </div>
+    <div id="filterContent" class="filter-content collapsed">
+        <div id="sourceFilters" class="source-filters">
+            <!-- Checkboxes will be populated dynamically -->
+        </div>
+        <div class="filter-actions">
+            <button type="button" onclick="selectAllSources()">Select All</button>
+            <button type="button" onclick="deselectAllSources()">Deselect All</button>
+        </div>
+    </div>
+</div>
+
+<div id="searchStats" class="search-stats" style="display: none;"></div>
+<div id="searchResults" class="search-results"></div>
+
+<script src="../css_js/lunr.js"></script>
+<script src="search-data.js"></script>
+<script>
+class SearchEngine {
+    constructor() {
+        this.index = null;
+        this.documents = window.searchDocuments || [];
+        this.preBuiltIndex = window.searchIndex || null;
+        this.isIndexReady = false;
+        this.availableSources = [];
+        this.init();
+    }
+
+    async init() {
+        if (!this.documents || this.documents.length === 0) {
+            document.getElementById('searchResults').innerHTML = `
+                <div style="color: #d32f2f; background-color: #ffebee; padding: 10px; border-radius: 4px; margin: 10px 0;">
+                    No search data loaded. Please run <code>npm run build-index</code> or ensure <code>search-data.js</code> contains your document data.
+                </div>
+            `;
+            return;
+        }
+        
+        this.loadSearchIndex();
+        this.setupSourceFilters();
+        this.setupEventListeners();
+        
+        // Check if there's a query parameter from the main page
+        this.handleUrlQuery();
+    }
+
+    loadSearchIndex() {
+        if (this.preBuiltIndex) {
+            console.log(`Loading pre-built search index with ${this.documents.length} documents...`);
+            
+            // Load the pre-built Lunr index
+            this.index = lunr.Index.load(this.preBuiltIndex);
+            this.isIndexReady = true;
+            
+            console.log('Pre-built search index loaded successfully!');
+        } else {
+            console.log('No pre-built index found, building index from documents...');
+            this.buildSearchIndex();
+        }
+    }
+
+    buildSearchIndex() {
+        console.log(`Building search index with ${this.documents.length} documents...`);
+        
+        // Store reference to documents for the Lunr callback
+        const documents = this.documents;
+        
+        // Build Lunr index
+        this.index = lunr(function () {
+            this.ref('id');
+            this.field('title', { boost: 10 });
+            this.field('content');
+            this.field('source');
+            this.field('category');
+            
+            documents.forEach((doc) => {
+                this.add(doc);
+            });
+        });
+
+        this.isIndexReady = true;
+        console.log('Search index built successfully!');
+    }
+
+    handleUrlQuery() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const query = urlParams.get('q');
+        
+        if (query) {
+            const searchInput = document.getElementById('searchInput');
+            searchInput.value = query;
+            this.performSearch(query);
+        }
+    }
+
+    setupSourceFilters() {
+        // Organize documents by type
+        const rulesets = new Set();
+        const databases = {
+            monsters: new Set(),
+            spells: new Set(),
+            magic_items: new Set()
+        };
+        
+        this.documents.forEach(doc => {
+            if (doc.type === 'ruleset') {
+                rulesets.add(doc.source);
+            } else if (doc.type in databases) {
+                databases[doc.type].add(doc.category);
+            }
+        });
+        
+        const filtersContainer = document.getElementById('sourceFilters');
+        
+        // Create Rulesets section
+        if (rulesets.size > 0) {
+            const rulesetsSection = document.createElement('div');
+            rulesetsSection.className = 'filter-section';
+            
+            const rulesetsTitle = document.createElement('div');
+            rulesetsTitle.className = 'filter-section-title';
+            
+            const masterCheckbox = document.createElement('input');
+            masterCheckbox.type = 'checkbox';
+            masterCheckbox.id = 'master-rulesets';
+            masterCheckbox.checked = true;
+            masterCheckbox.addEventListener('change', (e) => {
+                e.stopPropagation();
+                this.toggleAllInSection('ruleset');
+            });
+            
+            const titleText = document.createElement('span');
+            titleText.textContent = 'Rulesets';
+            titleText.onclick = () => this.toggleSection('rulesets');
+            
+            const toggleIcon = document.createElement('span');
+            toggleIcon.className = 'section-toggle collapsed';
+            toggleIcon.textContent = '►';
+            toggleIcon.onclick = () => this.toggleSection('rulesets');
+            
+            rulesetsTitle.appendChild(masterCheckbox);
+            rulesetsTitle.appendChild(titleText);
+            rulesetsTitle.appendChild(toggleIcon);
+            rulesetsSection.appendChild(rulesetsTitle);
+            
+            const subsection = document.createElement('div');
+            subsection.className = 'filter-subsection collapsed';
+            subsection.id = 'section-rulesets';
+            
+            Array.from(rulesets).sort().forEach(ruleset => {
+                const filterDiv = document.createElement('div');
+                filterDiv.className = 'source-filter';
+                
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.id = `filter-ruleset-${ruleset.replace(/[^a-zA-Z0-9]/g, '')}`;
+                checkbox.value = `ruleset-${ruleset}`;
+                checkbox.checked = true;
+                checkbox.dataset.type = 'ruleset';
+                checkbox.dataset.source = ruleset;
+                checkbox.dataset.section = 'rulesets';
+                
+                const label = document.createElement('label');
+                label.htmlFor = checkbox.id;
+                label.textContent = ruleset;
+                
+                filterDiv.appendChild(checkbox);
+                filterDiv.appendChild(label);
+                subsection.appendChild(filterDiv);
+                
+                checkbox.addEventListener('change', () => {
+                    this.updateMasterCheckbox('rulesets');
+                    this.performSearch(document.getElementById('searchInput').value.trim());
+                });
+            });
+            
+            rulesetsSection.appendChild(subsection);
+            filtersContainer.appendChild(rulesetsSection);
+        }
+        
+        // Create Database sections
+        const dbTypeNames = {
+            monsters: 'Monsters',
+            spells: 'Spells', 
+            magic_items: 'Magic Items'
+        };
+        
+        Object.entries(databases).forEach(([dbType, sources]) => {
+            if (sources.size > 0) {
+                const dbSection = document.createElement('div');
+                dbSection.className = 'filter-section';
+                
+                const dbTitle = document.createElement('div');
+                dbTitle.className = 'filter-section-title';
+                
+                const masterCheckbox = document.createElement('input');
+                masterCheckbox.type = 'checkbox';
+                masterCheckbox.id = `master-${dbType}`;
+                masterCheckbox.checked = true;
+                masterCheckbox.addEventListener('change', (e) => {
+                    e.stopPropagation();
+                    this.toggleAllInSection(dbType);
+                });
+                
+                const titleText = document.createElement('span');
+                titleText.textContent = dbTypeNames[dbType];
+                titleText.onclick = () => this.toggleSection(dbType);
+                
+                const toggleIcon = document.createElement('span');
+                toggleIcon.className = 'section-toggle collapsed';
+                toggleIcon.textContent = '►';
+                toggleIcon.onclick = () => this.toggleSection(dbType);
+                
+                dbTitle.appendChild(masterCheckbox);
+                dbTitle.appendChild(titleText);
+                dbTitle.appendChild(toggleIcon);
+                dbSection.appendChild(dbTitle);
+                
+                const subsection = document.createElement('div');
+                subsection.className = 'filter-subsection collapsed';
+                subsection.id = `section-${dbType}`;
+                
+                Array.from(sources).sort().forEach(source => {
+                    const filterDiv = document.createElement('div');
+                    filterDiv.className = 'source-filter';
+                    
+                    const checkbox = document.createElement('input');
+                    checkbox.type = 'checkbox';
+                    checkbox.id = `filter-${dbType}-${source.replace(/[^a-zA-Z0-9]/g, '')}`;
+                    checkbox.value = `${dbType}-${source}`;
+                    checkbox.checked = true;
+                    checkbox.dataset.type = dbType;
+                    checkbox.dataset.source = source;
+                    checkbox.dataset.section = dbType;
+                    
+                    const label = document.createElement('label');
+                    label.htmlFor = checkbox.id;
+                    label.textContent = source;
+                    
+                    filterDiv.appendChild(checkbox);
+                    filterDiv.appendChild(label);
+                    subsection.appendChild(filterDiv);
+                    
+                    checkbox.addEventListener('change', () => {
+                        this.updateMasterCheckbox(dbType);
+                        this.performSearch(document.getElementById('searchInput').value.trim());
+                    });
+                });
+                
+                dbSection.appendChild(subsection);
+                filtersContainer.appendChild(dbSection);
+            }
+        });
+    }
+
+    toggleSection(sectionName) {
+        const section = document.getElementById(`section-${sectionName}`);
+        const toggle = section.previousElementSibling.querySelector('.section-toggle');
+        
+        if (section.classList.contains('collapsed')) {
+            section.classList.remove('collapsed');
+            toggle.classList.remove('collapsed');
+            toggle.textContent = '▼';
+        } else {
+            section.classList.add('collapsed');
+            toggle.classList.add('collapsed');
+            toggle.textContent = '►';
+        }
+    }
+
+    toggleAllInSection(sectionType) {
+        const masterCheckbox = document.getElementById(`master-${sectionType}`);
+        const sectionCheckboxes = document.querySelectorAll(`#sourceFilters input[data-section="${sectionType}"]`);
+        
+        sectionCheckboxes.forEach(checkbox => {
+            checkbox.checked = masterCheckbox.checked;
+        });
+        
+        this.performSearch(document.getElementById('searchInput').value.trim());
+    }
+
+    updateMasterCheckbox(sectionType) {
+        const masterCheckbox = document.getElementById(`master-${sectionType}`);
+        const sectionCheckboxes = document.querySelectorAll(`#sourceFilters input[data-section="${sectionType}"]`);
+        const checkedBoxes = document.querySelectorAll(`#sourceFilters input[data-section="${sectionType}"]:checked`);
+        
+        if (checkedBoxes.length === 0) {
+            masterCheckbox.checked = false;
+            masterCheckbox.indeterminate = false;
+        } else if (checkedBoxes.length === sectionCheckboxes.length) {
+            masterCheckbox.checked = true;
+            masterCheckbox.indeterminate = false;
+        } else {
+            masterCheckbox.checked = false;
+            masterCheckbox.indeterminate = true;
+        }
+    }
+
+    getSelectedSources() {
+        const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]:checked');
+        return Array.from(checkboxes).map(checkbox => ({
+            type: checkbox.dataset.type,
+            source: checkbox.dataset.source
+        }));
+    }
+
+    setupEventListeners() {
+        const searchInput = document.getElementById('searchInput');
+        let searchTimeout;
+
+        searchInput.addEventListener('input', (e) => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => {
+                this.performSearch(e.target.value.trim());
+            }, 300);
+        });
+
+        searchInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                clearTimeout(searchTimeout);
+                this.performSearch(e.target.value.trim());
+            }
+        });
+    }
+
+    performSearch(query) {
+        const resultsContainer = document.getElementById('searchResults');
+        const statsContainer = document.getElementById('searchStats');
+
+        if (!query) {
+            resultsContainer.innerHTML = '';
+            statsContainer.style.display = 'none';
+            return;
+        }
+
+        if (!this.isIndexReady) {
+            resultsContainer.innerHTML = '<div class="loading">Search index is still loading...</div>';
+            return;
+        }
+
+        try {
+            const results = this.index.search(query);
+            
+            // Filter results by selected sources
+            const selectedFilters = this.getSelectedSources();
+            const filteredResults = results.filter(result => {
+                const doc = this.documents.find(d => d.id == result.ref);
+                if (!doc) return false;
+                
+                return selectedFilters.some(filter => {
+                    if (filter.type === 'ruleset') {
+                        return doc.type === 'ruleset' && doc.source === filter.source;
+                    } else {
+                        return doc.type === filter.type && doc.category === filter.source;
+                    }
+                });
+            });
+            
+            this.displayResults(filteredResults, query);
+        } catch (error) {
+            console.error('Search error:', error);
+            resultsContainer.innerHTML = '<div class="no-results">Search error occurred. Please try a different query.</div>';
+        }
+    }
+
+    displayResults(results, query) {
+        const resultsContainer = document.getElementById('searchResults');
+        const statsContainer = document.getElementById('searchStats');
+
+        if (results.length === 0) {
+            resultsContainer.innerHTML = '<div class="no-results">No results found for your search.</div>';
+            statsContainer.style.display = 'none';
+            return;
+        }
+
+        statsContainer.innerHTML = `Found ${results.length} result${results.length === 1 ? '' : 's'} for "${query}"`;
+        statsContainer.style.display = 'block';
+
+        const resultsHTML = results.map(result => {
+            const doc = this.documents.find(d => d.id == result.ref);
+            if (!doc) return '';
+
+            const snippet = this.generateSnippet(doc.content, query);
+            const categoryInfo = doc.category && doc.category !== 'root' ? ` > ${doc.category}` : '';
+            
+            return `
+                <div class="result-item">
+                    <div class="result-title">
+                        <a href="${doc.url}" target="_blank">${this.highlightText(doc.title, query)}</a>
+                    </div>
+                    <div class="result-source">${doc.source}${categoryInfo}</div>
+                    <div class="result-snippet">${snippet}</div>
+                </div>
+            `;
+        }).join('');
+
+        resultsContainer.innerHTML = resultsHTML;
+    }
+
+    generateSnippet(content, query, maxLength = 200) {
+        const words = query.toLowerCase().split(/\s+/);
+        
+        let bestPos = 0;
+        let maxMatches = 0;
+        
+        for (let i = 0; i < content.length - maxLength; i += 20) {
+            const snippet = content.substr(i, maxLength).toLowerCase();
+            const matches = words.reduce((count, word) => {
+                return count + (snippet.includes(word) ? 1 : 0);
+            }, 0);
+            
+            if (matches > maxMatches) {
+                maxMatches = matches;
+                bestPos = i;
+            }
+        }
+        
+        let snippet = content.substr(bestPos, maxLength);
+        if (bestPos > 0) snippet = '...' + snippet;
+        if (bestPos + maxLength < content.length) snippet += '...';
+        
+        return this.highlightText(snippet, query);
+    }
+
+    highlightText(text, query) {
+        if (!query) return text;
+        
+        const words = query.split(/\s+/).filter(word => word.length > 0);
+        let highlightedText = text;
+        
+        words.forEach(word => {
+            const regex = new RegExp(`(${this.escapeRegExp(word)})`, 'gi');
+            highlightedText = highlightedText.replace(regex, '<span class="highlight">$1</span>');
+        });
+        
+        return highlightedText;
+    }
+
+    escapeRegExp(string) {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    new SearchEngine();
+});
+
+// Global functions for filter buttons
+function selectAllSources() {
+    const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = true;
+    });
+    // Trigger search update
+    const searchInput = document.getElementById('searchInput');
+    if (searchInput.value.trim()) {
+        window.searchEngine.performSearch(searchInput.value.trim());
+    }
+}
+
+function deselectAllSources() {
+    const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = false;
+    });
+    // Trigger search update
+    const searchInput = document.getElementById('searchInput');
+    if (searchInput.value.trim()) {
+        window.searchEngine.performSearch(searchInput.value.trim());
+    }
+}
+
+function toggleFilters() {
+    const filterContent = document.getElementById('filterContent');
+    const filterToggle = document.getElementById('filterToggle');
+    
+    if (filterContent.classList.contains('collapsed')) {
+        // Expand
+        filterContent.classList.remove('collapsed');
+        filterToggle.classList.remove('collapsed');
+        filterToggle.textContent = '▼';
+    } else {
+        // Collapse
+        filterContent.classList.add('collapsed');
+        filterToggle.classList.add('collapsed');
+        filterToggle.textContent = '►';
+    }
+}
+</script>
+
+</body>
+</html>
