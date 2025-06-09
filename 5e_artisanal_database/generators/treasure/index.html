@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<!--
+  Code: CC0 1.0 Universal (Public Domain)
+  Data: License described in the main license.html file of the database.
+-->
+<!DOCTYPE html><!DOCTYPE html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta charset="UTF-8">
@@ -25,14 +29,6 @@ button, select {
 <body>
 <h1>Lazy 5e Treasure Generator</h1>
 
-<p>A general-purpose 5e treasure generator.</p>
-<ul>
-<li>Reward one treasure parcel per session.</li>
-<li>Averages 400GP at tier 1, 4,000 GP at tier 2, 30,000 GP at tier 3, and 200,000 GP at tier 4.</li>
-<li>Uses standard 5.1 SRD (D&D 2014) treasure.</li>
-<li>Relics are optional. Relics costs are not factored into average treasure values.</li>
-</ul>
-
 <select id="tier">
   <option value="tier1">1st–4th Level</option>
   <option value="tier2">5th–10th Level</option>
@@ -43,6 +39,15 @@ button, select {
 
 <div id="output"></div>
 
+<h2>About This Generator</h2>
+<p>The Lazy 5e Generator is a general-purpose 5e treasure generator built for any 5e game. Treasure is based on 5.1 SRD (D&D 2014) magic items and spells.</p>
+<ul>
+<li>Treasure hordes are intended to be rewarded per-session.</li>
+<li>Monetary treasure averages 400 GP at tier 1, 4,000 GP at tier 2, 30,000 GP at tier 3, and 200,000 GP at tier 4.</li>
+<li>Treasure distribution includes two consumable magic items and one permanent magic item of various rarities based on tier.</li>
+<li>Relics are optional and can include spells of any level. They're intended to be chaotic and potentially very powerful. Relics costs are not factored into average treasure values.</li>
+</ul>
+
 <!-- Load external data file -->
 <script src="data.js"></script>
 
@@ -51,16 +56,17 @@ function parseInput(text) {
   const lines = text.trim().split('\n');
   const result = {};
   let currentKey = null;
+  
   for (let line of lines) {
     if (!line.trim()) continue;
-    // Check if line starts with whitespace (either spaces or tabs)
+    
     if (!line.match(/^[\s]/)) {
+      // New section
       currentKey = line.trim();
       result[currentKey] = [];
     } else if (currentKey) {
       const trimmed = line.trim();
-      
-      // Check for weight marker at the end (content ^54)
+      // Handle weight markers (content ^54)
       const match = trimmed.match(/^(.*?)\s+\^(\d+)$/);
       if (match) {
         const weight = parseInt(match[2]);
@@ -73,8 +79,6 @@ function parseInput(text) {
   return result;
 }
 
-
-
 function pick(list) {
   return list[Math.floor(Math.random() * list.length)];
 }
@@ -84,48 +88,7 @@ function addCommasToNumber(num) {
 }
 
 function fillTemplate(template, data) {
-  // Handle multiple items with ranges like [[1-4]]x {any_key} FIRST
-  template = template.replace(/\[\[(\d+)-(\d+)\]\]x\s*\{([^}]+)\}/g, (match, min, max, key) => {
-    const count = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
-    const items = [];
-    
-    for (let i = 0; i < count; i++) {
-      let item = pick(data[key] || ['']);
-      
-      // Recursively process the item to handle nested substitutions
-      item = fillTemplate(item, data);
-      
-      // Only add GP values for art objects (keys that start with "art_")
-      if (key.startsWith('art_')) {
-        const keyParts = key.split('_');
-        if (keyParts.length > 1 && !isNaN(keyParts[keyParts.length - 1])) {
-          const numericValue = keyParts[keyParts.length - 1];
-          const formattedValue = ` (${addCommasToNumber(numericValue)} GP)`;
-          item = `${item}${formattedValue}`;
-        }
-      }
-      
-      items.push(item);
-    }
-    return items.join('<br>');
-  });
-  
-  // Handle patterns like [[8-12]] × 10 GP {gem_10} - note the Unicode multiplication symbol
-  template = template.replace(/\[\[(\d+)-(\d+)\]\]\s*×\s*(\d+)\s*GP\s*\{(gem_\d+)\}/g, (match, min, max, gpValue, key) => {
-    const count = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
-    const formattedGP = addCommasToNumber(gpValue);
-    const gem = pick(data[key] || ['']);
-    return `${count} × ${formattedGP} GP ${gem}`;
-  });
-  
-  // Handle patterns like [[8-12]] × 250 GP gold bars (no gem reference)
-  template = template.replace(/\[\[(\d+)-(\d+)\]\]\s*×\s*(\d+)\s*GP\s*([^{]*?)(?=<br>|$)/g, (match, min, max, gpValue, item) => {
-    const count = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
-    const formattedGP = addCommasToNumber(gpValue);
-    return `${count} × ${formattedGP} GP ${item.trim()}`;
-  });
-  
-  // Handle regular number ranges like [[50-150]]
+  // Handle number ranges like [[50-150]]
   template = template.replace(/\[\[(\d+)-(\d+)\]\]/g, (match, min, max) => {
     const value = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
     return addCommasToNumber(value);
@@ -195,44 +158,34 @@ function fillTemplate(template, data) {
       return item;
     }
   });
+  
   return template;
 }
 
 function generate() {
   const tier = document.getElementById('tier').value;
-  const parsed = parseInput(dataText); // dataText comes from data.js
+  const parsed = parseInput(dataText);
   const output = document.getElementById('output');
   
-  // Start with a random template
   let result = pick(parsed[tier]);
   
-  // Keep processing until no more substitutions can be made
-  let maxIterations = 10; // Prevent infinite loops
-  let iterations = 0;
-  let previousResult = '';
-  
-  while (result !== previousResult && iterations < maxIterations) {
-    previousResult = result;
-    result = fillTemplate(result, parsed);
-    iterations++;
+  // Process templates until no more changes
+  for (let i = 0; i < 10; i++) {
+    const newResult = fillTemplate(result, parsed);
+    if (newResult === result) break;
+    result = newResult;
   }
   
-  // Split into items and filter out empty ones
-  const items = result.split('<br>').filter(item => item.trim() !== '');
+  // Format output
+  const items = result.split('<br>')
+    .map(item => item.trim())
+    .filter(item => item !== '')
+    .map(item => '- ' + item.charAt(0).toUpperCase() + item.slice(1));
   
-  // Capitalize the first character of each bullet point
-  const formattedItems = items.map(item => {
-    const trimmed = item.trim();
-    if (trimmed) {
-      return '- ' + trimmed.charAt(0).toUpperCase() + trimmed.slice(1);
-    }
-    return '';
-  }).filter(item => item !== '');
-  
-  output.innerHTML = '<p>' + formattedItems.join('<br>') + '</p>';
+  output.innerHTML = '<p>' + items.join('<br>') + '</p>';
 }
 
-// Load data when page loads
+// Generate on page load
 window.onload = () => generate();
 </script>
 </body>
