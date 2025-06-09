@@ -4,7 +4,7 @@ The 5e Artisanal Database (5eADB) is a self-contained set of rules, datasets, to
 
 This project is intended to run either on a private web server or locally in one's web browser without having to host it. One can download the zip file for the project, double-click "index.html" in the root directory, and then navigate the 5eADB just like they could on a web server.
 
-Please note, the 5eADB is a reward for patrons of Sly Flourish. If you are not a patron, please join up here:
+Please note, the 5eADB is a reward for patrons of Sly Flourish. If you are not a patron, please join here:
 
 <https://www.patreon.com/c/slyflourish>
 
@@ -32,10 +32,6 @@ Navigate down the folders under the root directory to find "md" directories for 
 
 Copy the whole directory and all subdirectories to the directory you use to host HTML files. There is no server-side code for the 5eADB – it's all HTML with some javascript and markdown files.
 
-### Licensing
-
-See the "licensing.html" file in the root directory for licensing information.
-
 ### Architecture
 
 The 5eADB is a set of directories, HTML files, and some Javascript. Each tool or source sits in a directory with an "index.html" file to run that particular tool. The homepage index.html file has links to each of the sources, datasets, tools, and generators.
@@ -48,7 +44,12 @@ The 5eADB is a set of directories, HTML files, and some Javascript. Each tool or
 
 **Generators** include random generators for NPCs, items, monuments, locations, treasure, and more. They include links to items contained in the datasets. Each includes embedded Javascript inside HTML and either an embedded or external data file. These generators use a syntax similar to perchance and can be modified to add other random elements without having to modify the javascript directly. Like the rest of this application, these generators are self-contained and can run locally or remotely.
 
+**Search**. The search feature of this application uses lunr.js. It has a pre-cached index loaded by the search page the first time it's loaded. The index is already pre-built so it loads fast once the data is downloaded. Like the rest of the site, the search feature works either online or in your local browser.
+
 **Markdown and HTML files**. The whole 5eADB includes markdown and HTML files for sources and datasets. The directory structure separates HTML and markdown files into separate directories for each source so users can copy the markdown directory into another application like [Obsidian](https://obsidian.md). Each source and dataset page includes a link to show the markdown version of that page making it easy to copy and paste into a markdown application like Obsidian or Notion. When run locally, one needs to "view source" to see the formatted markdown version or all linebreaks are stripped out.
 
 **Mobile Friendly**. This entire app has been built to work well on small devices like mobile phones. It should work well on both big and small screens.
 
+### Licensing
+
+See the "licensing.html" file in the root directory for licensing information. Outside of lunr.js and datatables.js, all embedded javascript code in this application is released under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission. lunr.js and datatables.js are both released under MIT licenses as described in the licensing.html file.
