@@ -1,3 +1,14 @@
+<!--
+Code released under a CC0 1.0 Universal license. 
+You can copy, modify, and distribute the code for 
+this tool, even for commercial purposes, all 
+without asking permission.
+
+Content of this tool released under the licenses 
+described in "licenses.html" in the root folder of this
+application.
+-->
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,23 +47,23 @@ th {
     background-color: #f0f0f0;
 }
 .input-section {
-    margin: 20px 0;
-    padding: 15px;
+    margin: 15px 0;
+    padding: 10px;
     border: 2px solid #ccc;
     border-radius: 5px;
 }
 .character-group, .monster-group {
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    margin: 10px 0;
-    padding: 10px;
+    gap: 8px;
+    margin: 8px 0;
+    padding: 8px;
     background-color: #f9f9f9;
     border-radius: 3px;
 }
 .input-row {
     display: flex;
-    gap: 15px;
+    gap: 12px;
     align-items: flex-end;
     flex-wrap: wrap;
 }
@@ -63,7 +74,7 @@ th {
 }
 .input-group label {
     font-weight: bold;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
     font-size: 16px;
 }
 .add-button {
@@ -94,9 +105,13 @@ th {
 .method-selector {
     margin: 20px 0;
 }
+.input-section h3, .results h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
 .results {
-    margin: 20px 0;
-    padding: 15px;
+    margin: 15px 0;
+    padding: 12px;
     border: 2px solid #333;
     border-radius: 5px;
     background-color: #f8f8f8;
@@ -128,9 +143,9 @@ input, select {
 <title>5e Encounter Calculator</title>
 </head>
 <body>
-<h1>5e Encounter Calculator</h1>
-
 <p><a href="../../index.html">5e Artisanal Database</a> > 5e Encounter Calculator</p>
+
+<h1>5e Encounter Calculator</h1>
 
 <div class="input-section">
     <h3>Player Characters</h3>
@@ -489,12 +504,14 @@ function updateRemoveButtons() {
     
     charGroups.forEach((group, index) => {
         const removeBtn = group.querySelector('.remove-button');
-        removeBtn.style.display = charGroups.length > 1 ? 'inline-block' : 'none';
+        // Never show remove button on the first group (index 0)
+        removeBtn.style.display = index > 0 ? 'inline-block' : 'none';
     });
     
     monsterGroups.forEach((group, index) => {
         const removeBtn = group.querySelector('.remove-button');
-        removeBtn.style.display = monsterGroups.length > 1 ? 'inline-block' : 'none';
+        // Never show remove button on the first group (index 0)
+        removeBtn.style.display = index > 0 ? 'inline-block' : 'none';
     });
 }
 
@@ -600,23 +617,25 @@ function calculateEncounter() {
     let singleMonsterDeadly = 0;
     
     if (avgLevel >= 17) {
-        // 17+ uses total character levels
-        deadlyThreshold = totalCharacterLevels;
-        lazyBenchmarkText = `Deadly if total monster CR > ${totalCharacterLevels}`;
-    } else if (avgLevel >= 11) {
-        // 11-16 uses 3/4 of total character levels OR total character levels
-        const lowerThreshold = totalCharacterLevels * 0.75;
+        // 17+ uses 1/2 to total character levels
+        const lowerThreshold = totalCharacterLevels * 0.5;
         const upperThreshold = totalCharacterLevels;
         deadlyThreshold = lowerThreshold; // Use lower threshold for calculation
-        lazyBenchmarkText = `Deadly if total monster CR > ${lowerThreshold} to ${upperThreshold}`;
+        lazyBenchmarkText = `Deadly if total monster CR ≥ ${lowerThreshold} to ${upperThreshold}`;
+    } else if (avgLevel >= 11) {
+        // 11-16 uses 1/2 to 3/4 of total character levels
+        const lowerThreshold = totalCharacterLevels * 0.5;
+        const upperThreshold = totalCharacterLevels * 0.75;
+        deadlyThreshold = lowerThreshold; // Use lower threshold for calculation
+        lazyBenchmarkText = `Deadly if total monster CR ≥ ${lowerThreshold} to ${upperThreshold}`;
     } else if (avgLevel >= 5) {
         // 5-10 uses 1/2 of total character levels
         deadlyThreshold = totalCharacterLevels * 0.5;
-        lazyBenchmarkText = `Deadly if total monster CR > ${deadlyThreshold}`;
+        lazyBenchmarkText = `Deadly if total monster CR ≥ ${deadlyThreshold}`;
     } else {
         // 1-4 uses 1/4 of total character levels
         deadlyThreshold = totalCharacterLevels * 0.25;
-        lazyBenchmarkText = `Deadly if total monster CR > ${deadlyThreshold}`;
+        lazyBenchmarkText = `Deadly if total monster CR ≥ ${deadlyThreshold}`;
     }
     
     // Single monster deadly calculation
