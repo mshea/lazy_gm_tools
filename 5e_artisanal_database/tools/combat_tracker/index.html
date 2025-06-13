@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<!--
+The code for this tool is released under a CC0 1.0 Universal license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.
+Learn about the licensing of the data of this tool in the license.html file located in the root director of this application.
+-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<style>
+body {
+    max-width: 800px;
+    margin: auto;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+/* Remove spinner arrows from all number inputs */
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}
+p, li {
+    line-height: 1.3em;
+}
+ul, ol {
+    padding-left: 20px;
+    margin-left: 0;
+}
+li {
+    margin-left: 0;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0;
+    font-size: 16px;
+    table-layout: auto;
+}
+th, td {
+    border: 1px solid #999;
+    padding: 4px;
+    text-align: left;
+}
+th {
+    background-color: #e0e0e0;
+    font-weight: bold;
+    font-size: 16px;
+}
+.init-col {
+    width: min-content;
+}
+.name-col {
+    width: 100%;
+}
+.ac-col {
+    width: min-content;
+}
+.hp-col {
+    width: min-content;
+    min-width: 280px;
+}
+.controls {
+    margin: 10px 0;
+    padding: 8px;
+    border: 1px solid #999;
+    background-color: #e8e8e8;
+}
+.controls h3 {
+    margin: 0 0 8px 0;
+    font-size: 16px;
+}
+.controls input, .controls button {
+    margin: 2px;
+    padding: 6px;
+    font-size: 14px;
+}
+.controls input {
+    background-color: white;
+    color: black;
+    border: 1px solid #999;
+    font-size: 16px;
+}
+.controls button {
+    background-color: #666;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.controls button:hover {
+    background-color: #555;
+}
+.hp-controls {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    flex-wrap: wrap;
+}
+.hp-controls button {
+    background-color: #888;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0;
+    min-width: 28px;
+}
+.hp-controls button:hover {
+    background-color: #777;
+}
+.hp-controls input {
+    width: 50px;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    padding: 3px;
+    background-color: white;
+    color: black;
+    border: 1px solid #999;
+}
+.hp-controls span {
+    font-size: 16px;
+    margin: 0 2px;
+}
+.current-turn {
+    background-color: #d0d0d0;
+    font-weight: bold;
+}
+.remove-btn {
+    background-color: #999;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+.remove-btn:hover {
+    background-color: #777;
+}
+.round-counter {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+    text-align: center;
+    color: black;
+}
+.turn-controls {
+    text-align: center;
+    margin: 10px 0;
+}
+.turn-controls button {
+    background-color: #777;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 2px;
+}
+.turn-controls button:hover {
+    background-color: #666;
+}
+.combat-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    margin: 10px 0;
+}
+.combat-controls button {
+    background-color: #888;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-size: 16px;
+    flex: 1;
+    min-width: 70px;
+    max-width: 120px;
+}
+.combat-controls button:hover {
+    background-color: #777;
+}
+</style>
+<title>Combat Tracker - 5e Artisanal Database</title>
+<script src="./monsters.js"></script>
+</head>
+<body>
+<p><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</p>
+
+<h1>Combat Tracker</h1>
+
+<div class="controls">
+    <h3>Add Combatant</h3>
+    <div style="position: relative;">
+        <input type="text" id="nameInput" placeholder="Name or search monsters..." required>
+        <div id="monsterResults" style="position: absolute; top: 100%; left: 0; right: 0; max-height: 200px; overflow-y: auto; border: 1px solid #999; background-color: white; display: none; z-index: 1000;">
+        </div>
+    </div>
+    <input type="number" id="initiativeInput" placeholder="Initiative (optional)" min="0" max="30">
+    <input type="number" id="maxHpInput" placeholder="Max HP (optional)" min="1">
+    <input type="number" id="acInput" placeholder="AC (optional)" min="1" max="30">
+    <input type="number" id="quantityInput" placeholder="Qty" min="1" max="20" value="1" style="width: 50px;">
+    <button onclick="addCombatant()">Add Combatant</button>
+</div>
+
+<div class="combat-controls">
+    <button onclick="nextTurn()">Next Turn</button>
+    <button onclick="resetCombat()">Reset</button>
+    <button onclick="exportCombat()">Export</button>
+    <input type="file" id="importFile" accept=".json" style="display: none" onchange="importCombat(event)">
+    <button onclick="document.getElementById('importFile').click()">Import</button>
+</div>
+
+<table id="combatTable">
+    <thead>
+        <tr>
+            <th class="init-col">Init</th>
+            <th class="name-col">Name</th>
+            <th class="ac-col">AC</th>
+            <th class="hp-col">HP</th>
+        </tr>
+    </thead>
+    <tbody id="combatBody">
+    </tbody>
+</table>
+
+<script>
+let combatants = [];
+let currentTurnIndex = 0;
+let round = 1;
+let monsters = [];
+
+// Dummy monster data
+const dummyMonsters = [
+    { name: "Goblin", ac: 15, hp: 7, init: 2 },
+    { name: "Orc", ac: 13, hp: 15, init: 1 },
+    { name: "Hobgoblin", ac: 18, hp: 11, init: 1 },
+    { name: "Bugbear", ac: 16, hp: 27, init: 2 },
+    { name: "Ogre", ac: 11, hp: 59, init: -1 },
+    { name: "Troll", ac: 15, hp: 84, init: 0 },
+    { name: "Hill Giant", ac: 13, hp: 105, init: -1 },
+    { name: "Stone Giant", ac: 17, hp: 126, init: 2 },
+    { name: "Fire Giant", ac: 18, hp: 162, init: 0 },
+    { name: "Frost Giant", ac: 15, hp: 138, init: 0 },
+    { name: "Ancient Red Dragon", ac: 22, hp: 546, init: 0 },
+    { name: "Adult Blue Dragon", ac: 19, hp: 225, init: 0 },
+    { name: "Young Green Dragon", ac: 18, hp: 136, init: 2 },
+    { name: "Owlbear", ac: 13, hp: 59, init: 1 },
+    { name: "Displacer Beast", ac: 13, hp: 85, init: 2 },
+    { name: "Bulezau", ac: 14, hp: 52, init: 0 },
+    { name: "Ankheg", ac: 14, hp: 39, init: 0 },
+    { name: "Basilisk", ac: 12, hp: 52, init: -1 },
+    { name: "Beholder", ac: 18, hp: 180, init: 0 },
+    { name: "Mind Flayer", ac: 15, hp: 71, init: 2 }
+];
+
+// Initialize monsters - check if custom monsters.js loaded, otherwise use dummy data
+if (typeof customMonsters !== 'undefined') {
+    monsters = customMonsters;
+    console.log('Loaded custom monsters:', monsters.length);
+} else {
+    monsters = dummyMonsters;
+    console.log('Using dummy monsters:', monsters.length);
+}
+
+let selectedMonsterIndex = -1;
+let filteredMonsters = [];
+
+function searchMonsters() {
+    const searchTerm = document.getElementById('nameInput').value.toLowerCase().trim();
+    const resultsDiv = document.getElementById('monsterResults');
+    
+    if (searchTerm.length < 2) {
+        resultsDiv.style.display = 'none';
+        selectedMonsterIndex = -1;
+        filteredMonsters = [];
+        return;
+    }
+    
+    filteredMonsters = monsters.filter(monster => 
+        monster.name.toLowerCase().includes(searchTerm)
+    ).slice(0, 8);
+    
+    if (filteredMonsters.length === 0) {
+        resultsDiv.style.display = 'none';
+        selectedMonsterIndex = -1;
+        return;
+    }
+    
+    selectedMonsterIndex = -1; // Reset selection
+    renderMonsterResults();
+    resultsDiv.style.display = 'block';
+}
+
+function renderMonsterResults() {
+    const resultsDiv = document.getElementById('monsterResults');
+    resultsDiv.innerHTML = filteredMonsters.map((monster, index) => 
+        `<div style="padding: 4px; cursor: pointer; border-bottom: 1px solid #ddd; font-size: 16px; ${index === selectedMonsterIndex ? 'background-color: #e0e0e0;' : ''}" 
+              onclick="selectMonsterByIndex(${index})"
+              onmouseover="this.style.backgroundColor='#f0f0f0'" 
+              onmouseout="this.style.backgroundColor='${index === selectedMonsterIndex ? '#e0e0e0' : 'white'}'">
+            <strong>${monster.name}</strong> - AC ${monster.ac}, HP ${monster.hp}, Init ${monster.init >= 0 ? '+' + monster.init : monster.init}
+         </div>`
+    ).join('');
+}
+
+function selectMonsterByIndex(index) {
+    if (index >= 0 && index < filteredMonsters.length) {
+        const monster = filteredMonsters[index];
+        selectMonster(monster.name, monster.ac, monster.hp, monster.init);
+    }
+}
+
+function selectMonster(name, ac, hp, init) {
+    // Check how many of this monster type already exist
+    const existingCount = combatants.filter(c => c.name.startsWith(name)).length;
+    
+    let finalName = name;
+    if (existingCount > 0) {
+        const suffix = String.fromCharCode(65 + existingCount);
+        finalName = `${name} ${suffix}`;
+    }
+    
+    document.getElementById('nameInput').value = finalName;
+    document.getElementById('acInput').value = ac;
+    document.getElementById('maxHpInput').value = hp;
+    document.getElementById('initiativeInput').value = 10 + init;
+    document.getElementById('monsterResults').style.display = 'none';
+    document.getElementById('quantityInput').focus();
+}
+
+// Hide monster results when clicking outside
+document.addEventListener('click', function(event) {
+    const resultsDiv = document.getElementById('monsterResults');
+    const nameInput = document.getElementById('nameInput');
+    if (!resultsDiv.contains(event.target) && event.target !== nameInput) {
+        resultsDiv.style.display = 'none';
+    }
+});
+
+// Add event listener for monster search in name field
+document.addEventListener('DOMContentLoaded', function() {
+    const nameInput = document.getElementById('nameInput');
+    if (nameInput) {
+        nameInput.addEventListener('input', searchMonsters);
+        
+        // Add keyboard navigation
+        nameInput.addEventListener('keydown', function(event) {
+            const resultsDiv = document.getElementById('monsterResults');
+            
+            if (resultsDiv.style.display === 'none' || filteredMonsters.length === 0) {
+                return;
+            }
+            
+            switch(event.key) {
+                case 'ArrowDown':
+                    event.preventDefault();
+                    selectedMonsterIndex = Math.min(selectedMonsterIndex + 1, filteredMonsters.length - 1);
+                    renderMonsterResults();
+                    break;
+                    
+                case 'ArrowUp':
+                    event.preventDefault();
+                    selectedMonsterIndex = Math.max(selectedMonsterIndex - 1, -1);
+                    renderMonsterResults();
+                    break;
+                    
+                case 'Enter':
+                    // Only handle Enter if a monster is selected, otherwise let it pass through
+                    if (selectedMonsterIndex >= 0) {
+                        event.preventDefault();
+                        selectMonsterByIndex(selectedMonsterIndex);
+                    }
+                    // If no monster selected, let the general Enter handler move to next field
+                    break;
+                    
+                case 'Escape':
+                    resultsDiv.style.display = 'none';
+                    selectedMonsterIndex = -1;
+                    break;
+            }
+        });
+    }
+});
+
+function addCombatant() {
+    const name = document.getElementById('nameInput').value.trim();
+    const initiative = parseInt(document.getElementById('initiativeInput').value) || 0;
+    const maxHp = parseInt(document.getElementById('maxHpInput').value) || null;
+    const ac = parseInt(document.getElementById('acInput').value) || null;
+    const quantity = parseInt(document.getElementById('quantityInput').value) || 1;
+    
+    if (!name) {
+        alert('Please fill in Name.');
+        return;
+    }
+    
+    if (quantity < 1 || quantity > 20) {
+        alert('Quantity must be between 1 and 20.');
+        return;
+    }
+    
+    // Get existing count for this monster type
+    const existingCount = combatants.filter(c => c.name.startsWith(name)).length;
+    
+    // Add multiple combatants
+    for (let i = 0; i < quantity; i++) {
+        let finalName = name;
+        
+        // If adding multiple, or if name already exists, add suffix
+        if (quantity > 1 || existingCount > 0) {
+            const suffix = String.fromCharCode(65 + existingCount + i);
+            finalName = `${name} ${suffix}`;
+        }
+        
+        const combatant = {
+            id: Date.now() + i,
+            name: finalName,
+            initiative: initiative,
+            maxHp: maxHp,
+            currentHp: maxHp,
+            ac: ac
+        };
+        
+        combatants.push(combatant);
+    }
+    
+    sortCombatantsByInitiative();
+    renderCombatTable();
+    clearInputs();
+}
+
+function sortCombatantsByInitiative() {
+    combatants.sort((a, b) => b.initiative - a.initiative);
+}
+
+function clearInputs() {
+    document.getElementById('nameInput').value = '';
+    document.getElementById('initiativeInput').value = '';
+    document.getElementById('maxHpInput').value = '';
+    document.getElementById('acInput').value = '';
+    document.getElementById('quantityInput').value = '1';
+}
+
+function renderCombatTable() {
+    const tbody = document.getElementById('combatBody');
+    tbody.innerHTML = '';
+    
+    combatants.forEach((combatant, index) => {
+        const row = document.createElement('tr');
+        
+        // Add current turn highlighting
+        if (index === currentTurnIndex && combatants.length > 0) {
+            row.classList.add('current-turn');
+        }
+        
+        row.innerHTML = `
+            <td><input type="number" value="${combatant.initiative}" onchange="updateInitiative(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black;" min="1" max="30"></td>
+            <td style="position: relative;">
+                <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: calc(100% - 35px); font-weight: bold; color: black;">
+                <button class="remove-btn" onclick="removeCombatant(${combatant.id})" title="Remove" style="position: absolute; right: 2px; top: 50%; transform: translateY(-50%); padding: 4px 8px; font-size: 16px; line-height: 1; min-width: 30px;">×</button>
+            </td>
+            <td style="font-size: 16px; font-weight: bold; color: black; text-align: center;">${combatant.ac || '-'}</td>
+            ${combatant.maxHp ? `<td>
+                <div class="hp-controls">
+                    <button onclick="modifyHp(${combatant.id}, 5)">+5</button>
+                    <button onclick="modifyHp(${combatant.id}, 1)">+1</button>
+                    <input type="text" value="${combatant.currentHp}" onchange="setHp(${combatant.id}, this.value)" style="width: 40px; font-size: 14px; text-align: center; margin: 0; padding: 2px; background-color: white; color: black; border: 1px solid #999;">
+                    <span style="font-size: 14px;">/ </span>
+                    <input type="number" value="${combatant.maxHp}" onchange="setMaxHp(${combatant.id}, this.value)" min="1" style="width: 40px; font-size: 14px; text-align: center; margin: 0; padding: 2px; background-color: white; color: black; border: 1px solid #999;">
+                    <button onclick="modifyHp(${combatant.id}, -1)">-1</button>
+                    <button onclick="modifyHp(${combatant.id}, -5)">-5</button>
+                </div>
+            </td>` : '<td>-</td>'}
+        `;
+        
+        tbody.appendChild(row);
+    });
+}
+
+function modifyHp(id, amount) {
+    const combatant = combatants.find(c => c.id === id);
+    if (combatant) {
+        combatant.currentHp = Math.max(0, Math.min(combatant.maxHp, combatant.currentHp + amount));
+        renderCombatTable();
+    }
+}
+
+function setHp(id, value) {
+    const combatant = combatants.find(c => c.id === id);
+    if (combatant) {
+        const inputString = value.toString().trim();
+        
+        if (inputString.startsWith('+')) {
+            // Number with + sign = healing, add to current HP
+            const healAmount = parseInt(inputString.substring(1)) || 0;
+            combatant.currentHp = Math.min(combatant.maxHp, combatant.currentHp + healAmount);
+        } else if (inputString.startsWith('-')) {
+            // Negative number = damage, subtract from current HP
+            const damageAmount = parseInt(inputString.substring(1)) || 0;
+            combatant.currentHp = Math.max(0, combatant.currentHp - damageAmount);
+        } else {
+            // Plain number = set HP directly
+            const newHp = parseInt(inputString) || 0;
+            combatant.currentHp = Math.max(0, Math.min(combatant.maxHp, newHp));
+        }
+        
+        renderCombatTable();
+    }
+}
+
+function updateName(id, newName) {
+    const combatant = combatants.find(c => c.id === id);
+    if (combatant) {
+        combatant.name = newName.trim() || combatant.name;
+        renderCombatTable();
+    }
+}
+
+function updateInitiative(id, newInitiative) {
+    const combatant = combatants.find(c => c.id === id);
+    if (combatant) {
+        const initiative = parseInt(newInitiative);
+        if (!isNaN(initiative) && initiative >= 1 && initiative <= 30) {
+            combatant.initiative = initiative;
+            
+            // Find the current combatant before resorting
+            const currentCombatant = combatants[currentTurnIndex];
+            
+            // Resort the list
+            sortCombatantsByInitiative();
+            
+            // Find where the current combatant ended up after resorting
+            if (currentCombatant) {
+                currentTurnIndex = combatants.findIndex(c => c.id === currentCombatant.id);
+                if (currentTurnIndex === -1) currentTurnIndex = 0;
+            }
+            
+            renderCombatTable();
+        }
+    }
+}
+
+function setMaxHp(id, value) {
+    const combatant = combatants.find(c => c.id === id);
+    if (combatant) {
+        const newMaxHp = Math.max(1, parseInt(value) || 1);
+        combatant.maxHp = newMaxHp;
+        
+        // If current HP is higher than new max, adjust it down
+        if (combatant.currentHp > newMaxHp) {
+            combatant.currentHp = newMaxHp;
+        }
+        
+        renderCombatTable();
+    }
+}
+
+function removeCombatant(id) {
+    const index = combatants.findIndex(c => c.id === id);
+    if (index !== -1) {
+        combatants.splice(index, 1);
+        
+        // Adjust current turn index if necessary
+        if (currentTurnIndex >= combatants.length) {
+            currentTurnIndex = 0;
+        }
+        
+        renderCombatTable();
+    }
+}
+
+function nextTurn() {
+    if (combatants.length === 0) return;
+    
+    currentTurnIndex = (currentTurnIndex + 1) % combatants.length;
+    
+    // If we've gone back to the first combatant, increment the round
+    if (currentTurnIndex === 0) {
+        round++;
+        document.getElementById('roundCounter').textContent = round;
+    }
+    
+    renderCombatTable();
+}
+
+function previousTurn() {
+    if (combatants.length === 0) return;
+    
+    // If we're at the first combatant, going back means previous round
+    if (currentTurnIndex === 0) {
+        round = Math.max(1, round - 1);
+        document.getElementById('roundCounter').textContent = round;
+    }
+    
+    currentTurnIndex = currentTurnIndex === 0 ? combatants.length - 1 : currentTurnIndex - 1;
+    renderCombatTable();
+}
+
+function newRound() {
+    round++;
+    currentTurnIndex = 0;
+    document.getElementById('roundCounter').textContent = round;
+    renderCombatTable();
+}
+
+function resetCombat() {
+    if (confirm('Are you sure you want to reset the combat? This will remove all combatants.')) {
+        combatants = [];
+        currentTurnIndex = 0;
+        round = 1;
+        document.getElementById('roundCounter').textContent = round;
+        renderCombatTable();
+    }
+}
+
+function exportCombat() {
+    const combatData = {
+        combatants: combatants,
+        currentTurnIndex: currentTurnIndex,
+        round: round,
+        exportDate: new Date().toISOString()
+    };
+    
+    const dataStr = JSON.stringify(combatData, null, 2);
+    const dataBlob = new Blob([dataStr], {type: 'application/json'});
+    
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(dataBlob);
+    link.download = `combat_${new Date().toISOString().slice(0, 19).replace(/:/g, '-')}.json`;
+    link.click();
+    
+    // Clean up
+    URL.revokeObjectURL(link.href);
+}
+
+function importCombat(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+    
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        try {
+            const combatData = JSON.parse(e.target.result);
+            
+            // Validate the data structure
+            if (!combatData.combatants || !Array.isArray(combatData.combatants)) {
+                alert('Invalid combat file format.');
+                return;
+            }
+            
+            // Validate each combatant has required fields
+            for (const combatant of combatData.combatants) {
+                if (!combatant.name || typeof combatant.initiative !== 'number' || 
+                    typeof combatant.maxHp !== 'number' || typeof combatant.currentHp !== 'number' ||
+                    typeof combatant.ac !== 'number' || !combatant.id) {
+                    alert('Invalid combatant data in file.');
+                    return;
+                }
+            }
+            
+            // Import the data
+            combatants = combatData.combatants;
+            currentTurnIndex = combatData.currentTurnIndex || 0;
+            round = combatData.round || 1;
+            
+            // Ensure currentTurnIndex is valid
+            if (currentTurnIndex >= combatants.length) {
+                currentTurnIndex = 0;
+            }
+            
+            document.getElementById('roundCounter').textContent = round;
+            renderCombatTable();
+            
+            alert(`Combat imported successfully! ${combatants.length} combatants loaded.`);
+            
+        } catch (error) {
+            alert('Error reading combat file. Please check the file format.');
+            console.error('Import error:', error);
+        }
+    };
+    
+    reader.readAsText(file);
+    
+    // Clear the input so the same file can be imported again if needed
+    event.target.value = '';
+}
+
+// Handle Enter key in form inputs
+document.addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        const activeElement = document.activeElement;
+        
+        if (activeElement.id === 'nameInput') {
+            // If monster dropdown is open and one is selected, select it first
+            if (selectedMonsterIndex >= 0 && document.getElementById('monsterResults').style.display !== 'none') {
+                selectMonsterByIndex(selectedMonsterIndex);
+            }
+            document.getElementById('initiativeInput').focus();
+        } else if (activeElement.id === 'initiativeInput') {
+            document.getElementById('maxHpInput').focus();
+        } else if (activeElement.id === 'maxHpInput') {
+            document.getElementById('acInput').focus();
+        } else if (activeElement.id === 'acInput') {
+            document.getElementById('quantityInput').focus();
+        } else if (activeElement.id === 'quantityInput') {
+            addCombatant();
+        }
+    }
+});
+
+// Initialize
+renderCombatTable();
+</script>
+
+</body>
+</html>
