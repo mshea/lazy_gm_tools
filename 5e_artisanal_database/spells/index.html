@@ -20,6 +20,170 @@ padding: 10px;
 p, li {
 line-height: 1.5em;
 }
+/* Mobile-friendly font sizes */
+input, button, select, label {
+font-size: 16px !important;
+}
+/* Filter panel styling */
+.filter-panel {
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    border-radius: 4px;
+}
+
+.filter-header {
+    padding: 10px 15px;
+    cursor: pointer;
+    background: #e8e8e8;
+    border-bottom: 1px solid #ccc;
+    border-radius: 4px 4px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-header:hover {
+    background: #ddd;
+}
+
+.filter-header h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+}
+
+.filter-toggle {
+    font-size: 14px;
+    color: #666;
+    font-weight: normal;
+}
+
+.filter-content {
+    padding: 15px;
+    display: block;
+}
+
+.filter-content.collapsed {
+    display: none;
+}
+
+.filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 15px;
+}
+
+.filter-column {
+    flex: 1;
+    min-width: 200px;
+}
+
+.filter-column h4 {
+    margin: 0 0 8px 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: #555;
+}
+
+.filter-options {
+    border: 1px solid #ddd;
+    background: white;
+    padding: 8px;
+    border-radius: 3px;
+}
+
+.filter-options#sourceFilters {
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.filter-option {
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
+    font-size: 16px;
+}
+
+.filter-option input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+.filter-option label {
+    cursor: pointer;
+    flex: 1;
+    font-size: 16px;
+}
+
+.level-comparison {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    background: #fafafa;
+    border-radius: 3px;
+}
+
+.level-comparison h5 {
+    margin: 0 0 8px 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.level-comparison-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 5px;
+    flex-wrap: wrap;
+}
+
+.level-comparison select,
+.level-comparison input[type="number"] {
+    font-size: 16px;
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.level-comparison input[type="number"] {
+    width: 80px;
+}
+
+.filter-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.filter-actions button {
+    padding: 8px 16px;
+    border: 1px solid #ccc;
+    background: white;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.filter-actions button:hover {
+    background: #f0f0f0;
+}
+
+.filter-actions button.primary {
+    background: #007acc;
+    color: white;
+    border-color: #007acc;
+}
+
+.filter-actions button.primary:hover {
+    background: #005fa3;
+}
+
+.filter-summary {
+    font-size: 12px;
+    color: #666;
+    margin-left: auto;
+}
 </style>
 </head>
 <body>
@@ -29,7 +193,59 @@ line-height: 1.5em;
 <li>Use the search to find or filter on various columns.</li>
 <li>Click column headers to sort ascending or descending.</li>
 <li>Link to pages or copy and paste HTML or markdown versions into your notes.</li>
+<li>Use the collapsible filters below to narrow down spells by Level, Classes, or Source.</li>
 </ul>
+
+<div class="filter-panel">
+    <div class="filter-header" onclick="toggleFilters()">
+        <h3>Spell Filters</h3>
+        <span class="filter-toggle" id="filterToggle">▶ Show Filters</span>
+    </div>
+    <div class="filter-content collapsed" id="filterContent">
+        <div class="filter-row">
+            <div class="filter-column">
+                <h4>Spell Level</h4>
+                <div class="level-comparison">
+                    <h5>Level Comparison</h5>
+                    <div class="level-comparison-row">
+                        <input type="checkbox" id="levelComparisonEnabled">
+                        <label for="levelComparisonEnabled">Enable level comparison:</label>
+                    </div>
+                    <div class="level-comparison-row" id="levelComparisonControls" style="display: none;">
+                        <select id="levelOperator">
+                            <option value="<">Less than</option>
+                            <option value="=">Equal to</option>
+                            <option value=">">Greater than</option>
+                        </select>
+                        <input type="number" id="levelValue" min="0" max="9" step="1" placeholder="Level">
+                    </div>
+                </div>
+                <div class="filter-options" id="levelFilters">
+                    <!-- Level checkboxes will be populated by JavaScript -->
+                </div>
+            </div>
+            <div class="filter-column">
+                <h4>Classes</h4>
+                <div class="filter-options" id="classesFilters">
+                    <!-- Classes checkboxes will be populated by JavaScript -->
+                </div>
+            </div>
+            <div class="filter-column">
+                <h4>Source</h4>
+                <div class="filter-options" id="sourceFilters">
+                    <!-- Source checkboxes will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+        <div class="filter-actions">
+            <button type="button" class="primary" onclick="applyFilters()">Apply Filters</button>
+            <button type="button" onclick="clearAllFilters()">Clear All</button>
+            <button type="button" onclick="selectAllFilters()">Select All</button>
+            <div class="filter-summary" id="filterSummary">No filters applied</div>
+        </div>
+    </div>
+</div>
+
 <table id="monsterTable" class="display">
 <thead>
 <tr>
@@ -10840,11 +11056,237 @@ line-height: 1.5em;
 
 <script>
 $(document).ready(function() {
-    $('#monsterTable').DataTable({
-        "pageLength": 25
+    const table = $('#monsterTable').DataTable({
+        pageLength: 25,
+        order: [[0, "asc"]]
     });
+    
+    // Filter state
+    const filters = {
+        level: new Set(),
+        classes: new Set(),
+        source: new Set()
+    };
+    
+    // Get unique values for each filterable column
+    function getUniqueValues(columnIndex) {
+        const values = new Set();
+        table.column(columnIndex).data().each(function(value) {
+            if (value && value.trim()) {
+                if (columnIndex === 2) { // Classes column - split by comma and trim
+                    const classes = value.split(',').map(c => c.trim()).filter(c => c);
+                    classes.forEach(cls => values.add(cls));
+                } else {
+                    values.add(value.trim());
+                }
+            }
+        });
+        return Array.from(values).sort((a, b) => {
+            if (columnIndex === 1) { // Level column - sort numerically
+                const aVal = parseInt(a) || 0;
+                const bVal = parseInt(b) || 0;
+                return aVal - bVal;
+            }
+            return a.localeCompare(b); // Sort alphabetically for other columns
+        });
+    }
+    
+    // Populate filter checkboxes
+    function populateFilters() {
+        const filterConfigs = [
+            { columnIndex: 1, containerId: 'levelFilters', filterKey: 'level' },
+            { columnIndex: 2, containerId: 'classesFilters', filterKey: 'classes' },
+            { columnIndex: 3, containerId: 'sourceFilters', filterKey: 'source' }
+        ];
+        
+        filterConfigs.forEach(config => {
+            const values = getUniqueValues(config.columnIndex);
+            const container = $(`#${config.containerId}`);
+            container.empty();
+            
+            values.forEach(value => {
+                const safeId = `filter_${config.filterKey}_${value.replace(/[^a-zA-Z0-9]/g, '_')}`;
+                const option = $(`
+                    <div class="filter-option">
+                        <input type="checkbox" id="${safeId}" value="${value}" data-filter="${config.filterKey}">
+                        <label for="${safeId}">${value}</label>
+                    </div>
+                `);
+                container.append(option);
+            });
+        });
+        
+        // Add change event listeners to all filter checkboxes
+        $('.filter-option input[type="checkbox"]').on('change', function() {
+            const filterKey = $(this).data('filter');
+            const value = $(this).val();
+            
+            if ($(this).is(':checked')) {
+                filters[filterKey].add(value);
+            } else {
+                filters[filterKey].delete(value);
+            }
+            
+            updateFilterSummary();
+        });
+    }
+    
+    // Update filter summary
+    function updateFilterSummary() {
+        const parts = [];
+        const summary = $('#filterSummary');
+        
+        // Check Level filters
+        const levelComparisonEnabled = $('#levelComparisonEnabled').is(':checked');
+        if (levelComparisonEnabled) {
+            const levelValue = $('#levelValue').val();
+            const levelOperator = $('#levelOperator').val();
+            if (levelValue) {
+                parts.push(`Level ${levelOperator} ${levelValue}`);
+            }
+        } else if (filters.level.size > 0) {
+            parts.push(`${filters.level.size} Level`);
+        }
+        
+        // Check other filters
+        if (filters.classes.size > 0) parts.push(`${filters.classes.size} Classes`);
+        if (filters.source.size > 0) parts.push(`${filters.source.size} Source`);
+        
+        if (parts.length === 0) {
+            summary.text('No filters applied');
+        } else {
+            summary.text(`Active filters: ${parts.join(', ')}`);
+        }
+    }
+    
+    // Global functions for filter actions
+    window.applyFilters = function() {
+        table.draw();
+    };
+    
+    window.clearAllFilters = function() {
+        $('.filter-option input[type="checkbox"]').prop('checked', false);
+        $('#levelComparisonEnabled').prop('checked', false);
+        $('#levelComparisonControls').hide();
+        $('#levelFilters').show();
+        $('#levelValue').val('');
+        filters.level.clear();
+        filters.classes.clear();
+        filters.source.clear();
+        updateFilterSummary();
+        table.draw();
+    };
+    
+    window.selectAllFilters = function() {
+        $('.filter-option input[type="checkbox"]').prop('checked', true);
+        
+        // Populate all filter sets
+        $('.filter-option input[type="checkbox"]').each(function() {
+            const filterKey = $(this).data('filter');
+            const value = $(this).val();
+            filters[filterKey].add(value);
+        });
+        
+        updateFilterSummary();
+        table.draw();
+    };
+    
+    // Custom search function
+    $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
+        // Check Level filter
+        const levelComparisonEnabled = $('#levelComparisonEnabled').is(':checked');
+        
+        if (levelComparisonEnabled) {
+            // Use level comparison
+            const levelValue = parseInt($('#levelValue').val());
+            const levelOperator = $('#levelOperator').val();
+            
+            if (!isNaN(levelValue)) {
+                const spellLevel = parseInt(data[1].trim()) || 0;
+                
+                switch (levelOperator) {
+                    case '=':
+                        if (spellLevel !== levelValue) return false;
+                        break;
+                    case '>':
+                        if (spellLevel <= levelValue) return false;
+                        break;
+                    case '<':
+                        if (spellLevel >= levelValue) return false;
+                        break;
+                }
+            }
+        } else if (filters.level.size > 0) {
+            // Use individual level checkboxes
+            const level = data[1].trim();
+            if (!filters.level.has(level)) {
+                return false;
+            }
+        }
+        
+        // Check Classes filter
+        if (filters.classes.size > 0) {
+            const spellClasses = data[2].trim().split(',').map(c => c.trim()).filter(c => c);
+            const hasMatchingClass = spellClasses.some(cls => filters.classes.has(cls));
+            if (!hasMatchingClass) {
+                return false;
+            }
+        }
+        
+        // Check Source filter
+        if (filters.source.size > 0) {
+            const source = data[3].trim();
+            if (!filters.source.has(source)) {
+                return false;
+            }
+        }
+        
+        return true;
+    });
+    
+    // Level comparison functionality
+    $('#levelComparisonEnabled').on('change', function() {
+        const controls = $('#levelComparisonControls');
+        const levelFilters = $('#levelFilters');
+        
+        if ($(this).is(':checked')) {
+            controls.show();
+            levelFilters.hide();
+            // Clear individual level filters when using comparison
+            $('.filter-option input[data-filter="level"]').prop('checked', false);
+            filters.level.clear();
+        } else {
+            controls.hide();
+            levelFilters.show();
+        }
+        updateFilterSummary();
+    });
+    
+    // Level comparison value changes
+    $('#levelOperator, #levelValue').on('change input', function() {
+        if ($('#levelComparisonEnabled').is(':checked')) {
+            updateFilterSummary();
+        }
+    });
+    
+    // Initialize filters after table is ready
+    populateFilters();
+    updateFilterSummary();
 });
 
+// Toggle filter panel visibility
+function toggleFilters() {
+    const content = document.getElementById('filterContent');
+    const toggle = document.getElementById('filterToggle');
+    
+    if (content.classList.contains('collapsed')) {
+        content.classList.remove('collapsed');
+        toggle.textContent = '▼ Hide Filters';
+    } else {
+        content.classList.add('collapsed');
+        toggle.textContent = '▶ Show Filters';
+    }
+}
 </script>
 </body>
 </html>
