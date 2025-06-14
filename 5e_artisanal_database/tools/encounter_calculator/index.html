@@ -182,7 +182,7 @@ input, select {
 }
 </style>
 <title>5e Encounter Calculator</title>
-<script src="monsters.js"></script>
+<script src="../../css_js/monster_encounter_stats.js"></script>
 </head>
 <body>
 <p><a href="../../index.html">5e Artisanal Database</a> > 5e Encounter Calculator</p>
@@ -325,6 +325,7 @@ input, select {
         </div>
     </div>
     <button type="button" class="add-button" onclick="addMonsterGroup()">+ Add Monster Group</button>
+    <button type="button" class="add-button" onclick="exportForCombatTracker()" style="margin-left: 10px;">Export for Combat Tracker</button>
 </div>
 
 <div class="results" id="results">
@@ -369,26 +370,40 @@ const sampleMonsters = [
 
 let availableMonsters = sampleMonsters;
 
-if (typeof monsters !== 'undefined' && Array.isArray(monsters)) {
-    // Handle nested array format: const monsters = [[{...}, {...}]]
-    let monsterData = monsters;
-    if (monsters.length > 0 && Array.isArray(monsters[0])) {
-        monsterData = monsters[0]; // Extract the inner array
+if (typeof customMonsters !== 'undefined' && Array.isArray(customMonsters)) {
+    // Handle nested array format: const customMonsters = [[{...}, {...}]]
+    let monsterData = customMonsters;
+    if (customMonsters.length > 0 && Array.isArray(customMonsters[0])) {
+        monsterData = customMonsters[0]; // Extract the inner array
     }
     
-    // Validate that monsters have the expected structure
+    // Validate that customMonsters have the expected structure and convert CR
     const validMonsters = monsterData.filter(monster => 
         monster && 
         typeof monster === 'object' && 
         typeof monster.name === 'string' && 
         (typeof monster.cr === 'string' || typeof monster.cr === 'number')
-    );
+    ).map(monster => {
+        // Convert decimal CR strings to proper format
+        let cr = monster.cr;
+        if (typeof cr === 'string' && cr.includes('.')) {
+            const numCR = parseFloat(cr);
+            if (numCR < 1) {
+                // Convert decimals like "0.125" to "0.125", "0.25" to "0.25", "0.5" to "0.5"
+                cr = numCR.toString();
+            } else {
+                // Convert whole numbers like "10.000" to "10"
+                cr = Math.floor(numCR).toString();
+            }
+        }
+        return { ...monster, cr: cr };
+    });
     
     if (validMonsters.length > 0) {
         availableMonsters = validMonsters;
-        console.log('Loaded ' + validMonsters.length + ' monsters from external file');
+        console.log('Loaded ' + validMonsters.length + ' customMonsters from external file');
     } else {
-        console.log('External monsters.js found but no valid monsters detected, using sample data');
+        console.log('External customMonsters.js found but no valid customMonsters detected, using sample data');
     }
 } else {
     console.log('Using sample monster data');
@@ -857,9 +872,68 @@ function calculateEncounter() {
     
     resultText += '<strong>D&D 2014 Method</strong><br>';
     resultText += 'Thresholds: Easy ' + total2014Easy + ' | Medium ' + total2014Medium + ' | Hard ' + total2014Hard + ' | Deadly ' + total2014Deadly + '<br>';
-    resultText += 'Multiplier (' + totalMonsters + ' monsters): ×' + multiplier2014 + ' | Adjusted XP: ' + adjusted2014XP + ' | ' + difficulty2014;
+    resultText += 'Multiplier (' + totalMonsters + ' customMonsters): ×' + multiplier2014 + ' | Adjusted XP: ' + adjusted2014XP + ' | ' + difficulty2014;
     
     document.getElementById('encounterResult').innerHTML = resultText;
+}
+
+function exportForCombatTracker() {
+    const monsterGroups = document.querySelectorAll('.monster-group');
+    const combatants = [];
+    let combatantId = Date.now();
+    
+    monsterGroups.forEach(group => {
+        const countSelect = group.querySelector('.monster-count');
+        const crSelect = group.querySelector('.monster-cr');
+        const nameDisplay = group.querySelector('.monster-name-display');
+        
+        const count = parseInt(countSelect.value) || 1;
+        const cr = crSelect.value;
+        const displayText = nameDisplay.textContent || 'Unknown Monster';
+        // Extract just the monster name (remove the CR part)
+        const monsterName = displayText.replace(/ \(CR .*\)$/, '');
+        
+        // Find monster data from our available list
+        const monsterData = availableMonsters.find(m => m.name === monsterName);
+        console.log('Display text:', displayText, 'Extracted name:', monsterName, 'Found:', monsterData);
+        
+        for (let i = 0; i < count; i++) {
+            const finalName = count > 1 ? `${monsterName} ${String.fromCharCode(65 + i)}` : monsterName;
+            
+            const combatant = {
+                id: combatantId++,
+                name: finalName,
+                initiative: monsterData ? (10 + (monsterData.init || 0)) : 10,
+                maxHp: monsterData ? monsterData.hp : null,
+                currentHp: monsterData ? monsterData.hp : null,
+                ac: monsterData ? monsterData.ac : null
+            };
+            
+            combatants.push(combatant);
+        }
+    });
+    
+    if (combatants.length === 0) {
+        alert('No monsters to export. Please add some monsters first.');
+        return;
+    }
+    
+    const combatData = {
+        combatants: combatants,
+        currentTurnIndex: 0,
+        exportDate: new Date().toISOString()
+    };
+    
+    const dataStr = JSON.stringify(combatData, null, 2);
+    const dataBlob = new Blob([dataStr], {type: 'application/json'});
+    
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(dataBlob);
+    link.download = `encounter_for_combat_tracker_${new Date().toISOString().slice(0, 19).replace(/:/g, '-')}.json`;
+    link.click();
+    
+    // Clean up
+    URL.revokeObjectURL(link.href);
 }
 
 calculateEncounter();

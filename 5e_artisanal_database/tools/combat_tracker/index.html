@@ -198,7 +198,7 @@ th {
 }
 </style>
 <title>Combat Tracker - 5e Artisanal Database</title>
-<script src="./monsters.js"></script>
+<script src="../../css_js/monster_encounter_stats.js"></script>
 </head>
 <body>
 <p><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</p>
@@ -657,12 +657,22 @@ function importCombat(event) {
                 }
             }
             
-            // Import the data
-            combatants = combatData.combatants;
-            currentTurnIndex = combatData.currentTurnIndex || 0;
+            // Import the data - append to existing combatants instead of replacing
+            const newCombatants = combatData.combatants;
             
-            // Ensure currentTurnIndex is valid
-            if (currentTurnIndex >= combatants.length) {
+            // Generate new IDs for imported combatants to avoid conflicts
+            newCombatants.forEach(combatant => {
+                combatant.id = Date.now() + Math.random();
+            });
+            
+            // Add new combatants to existing list
+            combatants.push(...newCombatants);
+            
+            // Resort by initiative
+            sortCombatantsByInitiative();
+            
+            // Keep current turn index if we had combatants, otherwise start fresh
+            if (combatants.length > 0 && currentTurnIndex >= combatants.length) {
                 currentTurnIndex = 0;
             }
             
