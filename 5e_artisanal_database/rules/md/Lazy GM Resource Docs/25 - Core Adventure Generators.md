@@ -8,8 +8,7 @@ Use these tables together to generate and inspire full adventures, or use indivi
 
 Use these tables to generate a patron or NPC for your adventure, applying an NPC stat block to create villains, hirelings, rivals, or heralds.
 
-**Behavior: **`dice: [[25 - Core Adventure Generators#^patrons-and-npcs]]|Behavior`  
-**Ancestry: **`dice: [[25 - Core Adventure Generators#^patrons-and-npcs]]|Ancestry`
+Roll on the table below for Behavior and Ancestry:
 
 | d20 | Behavior      | Ancestry          |
 | --- | ------------- | ----------------- |
@@ -65,9 +64,7 @@ Any quests the characters are asked to fulfill might be distilled down to one of
 
 The location of the quest might also contain specific monuments or items tied to the adventure's goals.
 
-**Location: **`dice: [[25 - Core Adventure Generators#^locations-monuments-and-items]]|Location`  
-**Monument: **`dice: [[25 - Core Adventure Generators#^locations-monuments-and-items]]|Monument`  
-**Item: **`dice: [[25 - Core Adventure Generators#^locations-monuments-and-items]]|Item`
+Roll on the table below for Location, Monument, and Item:
 
 | d20 | Location     | Monument      | Item     |
 | --- | ------------ | ------------- | -------- |
@@ -96,9 +93,7 @@ The location of the quest might also contain specific monuments or items tied to
 
 Locations, monuments, or items can be flavored by determining their condition, description, and origin.
 
-**Condition: **`dice: [[25 - Core Adventure Generators#^condition-description-and-origin]]|Condition`  
-**Description: **`dice: [[25 - Core Adventure Generators#^condition-description-and-origin]]|Description`  
-**Origin: **`dice: [[25 - Core Adventure Generators#^condition-description-and-origin]]|Origin`
+Roll on the table below for Condition, Description, and Origin:
 
 | d20 | Condition   | Description | Origin     |
 | --- | ----------- | ----------- | ---------- |
@@ -287,4 +282,3 @@ Some commonly discovered relics might grant a single- use spell, while less comm
 19. *Haste*
 20. *Fly*
 
-^1d20-spells

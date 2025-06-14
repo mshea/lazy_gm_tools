@@ -8,7 +8,7 @@ Once you have a dungeon level selected, roll a d20 and look across to see which 
 
 There are a few ways to choose the number of monsters in an encounter. First, think about what makes sense. Ghouls travel in packs, but a rug of smothering is probably found alone. You might roll dice to determine the number of monsters-for example, 3d6 ghouls. You might also choose to have one monster leading others-a pack of ghouls led by a ghast, for example.
 
-Before the number of monsters is set, you can gauge whether your intended encounter is deadly or not by using the "[5e Quick Encounter Building](<15 - 5e Quick Encounter Building.md>)" section of this document.
+Before the number of monsters is set, you can gauge whether your intended encounter is deadly or not by using the "5e Quick Encounter Building" section of this document.
 
 |               | Monster List |       |       |       |       |       |       |       |       |       |
 | ------------- | ------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -239,4 +239,3 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 9. Ancient blue dragon
 10. Ancient red dragon
 
-^monster-list-10-cr-1624

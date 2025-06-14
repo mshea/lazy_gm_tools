@@ -70,4 +70,3 @@ Characters might learn these secrets from quest-giving NPCs, notes found on defe
 9. What unnatural being has appeared in the world?
 10. What unusual creature was seen walking the wilds?
 
-^plot-and-story-secrets

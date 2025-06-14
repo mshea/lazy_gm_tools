@@ -172,4 +172,3 @@ Filling the various chambers and locations in your game with interesting feature
 99. Well
 100. Windmill
 
-^100-monument-structures

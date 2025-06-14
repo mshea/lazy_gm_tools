@@ -4,7 +4,7 @@ The code for this tool is released under a CC0 1.0 Universal license. You can co
 Learn about the licensing of the data of this tool in the license.html file located in the root director of this application.
 -->
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
 <style>
@@ -16,6 +16,11 @@ body {
     padding: 10px;
     background-color: white;
     color: black;
+}
+
+/* Prevent iOS zoom on inputs */
+input, button, select, textarea {
+    font-size: 16px !important;
 }
 
 /* Remove spinner arrows from all number inputs */
@@ -58,14 +63,13 @@ th {
     width: min-content;
 }
 .name-col {
-    width: 100%;
+    min-width: 230px;
 }
 .ac-col {
     width: min-content;
 }
 .hp-col {
-    width: min-content;
-    min-width: 280px;
+    
 }
 .controls {
     margin: 10px 0;
@@ -80,7 +84,7 @@ th {
 .controls input, .controls button {
     margin: 2px;
     padding: 6px;
-    font-size: 14px;
+    font-size: 16px;
 }
 .controls input {
     background-color: white;
@@ -477,9 +481,9 @@ function renderCombatTable() {
                 <div class="hp-controls">
                     <button onclick="modifyHp(${combatant.id}, 5)">+5</button>
                     <button onclick="modifyHp(${combatant.id}, 1)">+1</button>
-                    <input type="text" value="${combatant.currentHp}" onchange="setHp(${combatant.id}, this.value)" style="width: 40px; font-size: 14px; text-align: center; margin: 0; padding: 2px; background-color: white; color: black; border: 1px solid #999;">
-                    <span style="font-size: 14px;">/ </span>
-                    <input type="number" value="${combatant.maxHp}" onchange="setMaxHp(${combatant.id}, this.value)" min="1" style="width: 40px; font-size: 14px; text-align: center; margin: 0; padding: 2px; background-color: white; color: black; border: 1px solid #999;">
+                    <input type="text" value="${combatant.currentHp}" onchange="setHp(${combatant.id}, this.value)" style="width: 40px; font-size: 16px; text-align: center; margin: 0; padding: 2px; background-color: white; color: black; border: 1px solid #999;">
+                    <span style="font-size: 16px;">/ </span>
+                    <input type="number" value="${combatant.maxHp}" onchange="setMaxHp(${combatant.id}, this.value)" min="1" style="width: 40px; font-size: 16px; text-align: center; margin: 0; padding: 2px; background-color: white; color: black; border: 1px solid #999;">
                     <button onclick="modifyHp(${combatant.id}, -1)">-1</button>
                     <button onclick="modifyHp(${combatant.id}, -5)">-5</button>
                 </div>
@@ -582,55 +586,24 @@ function removeCombatant(id) {
     }
 }
 
-function nextTurn() {
-    if (combatants.length === 0) return;
-    
-    currentTurnIndex = (currentTurnIndex + 1) % combatants.length;
-    
-    // If we've gone back to the first combatant, increment the round
-    if (currentTurnIndex === 0) {
-        round++;
-        document.getElementById('roundCounter').textContent = round;
-    }
-    
-    renderCombatTable();
-}
-
-function previousTurn() {
-    if (combatants.length === 0) return;
-    
-    // If we're at the first combatant, going back means previous round
-    if (currentTurnIndex === 0) {
-        round = Math.max(1, round - 1);
-        document.getElementById('roundCounter').textContent = round;
-    }
-    
-    currentTurnIndex = currentTurnIndex === 0 ? combatants.length - 1 : currentTurnIndex - 1;
-    renderCombatTable();
-}
-
-function newRound() {
-    round++;
-    currentTurnIndex = 0;
-    document.getElementById('roundCounter').textContent = round;
-    renderCombatTable();
-}
-
 function resetCombat() {
     if (confirm('Are you sure you want to reset the combat? This will remove all combatants.')) {
         combatants = [];
         currentTurnIndex = 0;
-        round = 1;
-        document.getElementById('roundCounter').textContent = round;
         renderCombatTable();
     }
+}
+
+function nextTurn() {
+    if (combatants.length === 0) return;
+    currentTurnIndex = (currentTurnIndex + 1) % combatants.length;
+    renderCombatTable();
 }
 
 function exportCombat() {
     const combatData = {
         combatants: combatants,
         currentTurnIndex: currentTurnIndex,
-        round: round,
         exportDate: new Date().toISOString()
     };
     
@@ -663,9 +636,7 @@ function importCombat(event) {
             
             // Validate each combatant has required fields
             for (const combatant of combatData.combatants) {
-                if (!combatant.name || typeof combatant.initiative !== 'number' || 
-                    typeof combatant.maxHp !== 'number' || typeof combatant.currentHp !== 'number' ||
-                    typeof combatant.ac !== 'number' || !combatant.id) {
+                if (!combatant.name || typeof combatant.initiative !== 'number' || !combatant.id) {
                     alert('Invalid combatant data in file.');
                     return;
                 }
@@ -674,17 +645,13 @@ function importCombat(event) {
             // Import the data
             combatants = combatData.combatants;
             currentTurnIndex = combatData.currentTurnIndex || 0;
-            round = combatData.round || 1;
             
             // Ensure currentTurnIndex is valid
             if (currentTurnIndex >= combatants.length) {
                 currentTurnIndex = 0;
             }
             
-            document.getElementById('roundCounter').textContent = round;
             renderCombatTable();
-            
-            alert(`Combat imported successfully! ${combatants.length} combatants loaded.`);
             
         } catch (error) {
             alert('Error reading combat file. Please check the file format.');

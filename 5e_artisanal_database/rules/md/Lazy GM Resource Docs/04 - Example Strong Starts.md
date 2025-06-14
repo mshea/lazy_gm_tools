@@ -60,4 +60,3 @@ Subterranean adventures lend themselves to the widest possible range of strong s
 9. Stars swim in a moonlit well, then rise up to reveal themselves as will-o'-wisps.
 10. A spectral hound guides the characters to the camp of a reclusive mage.
 
-^dungeons-caves-and-caverns

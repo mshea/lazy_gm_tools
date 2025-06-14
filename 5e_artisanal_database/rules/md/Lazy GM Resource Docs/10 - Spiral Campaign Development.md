@@ -109,4 +109,3 @@ As the campaign spirals outward, the characters will become aware of local adven
 19. Dead hollow tree
 20. Sundered shipwreck
 
-^local-adventure-locations

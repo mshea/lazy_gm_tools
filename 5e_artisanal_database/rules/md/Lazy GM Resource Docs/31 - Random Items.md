@@ -198,7 +198,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## Potions of Healing
 
-**Roll: **`dice: 1d20`
+Roll on the table below:
 
 | d20     | Potion of        | Rarity    | HP Regained |
 | ------- | ---------------- | --------- | ----------- |
@@ -207,4 +207,3 @@ Also included is a table noting the four types of *healing potions* and how many
 | 17 - 19 | Superior healing | Rare      | 8d4 + 8     |
 | 20      | Supreme healing  | Very rare | 10d4 + 20   |
 
-^potions-of-healing

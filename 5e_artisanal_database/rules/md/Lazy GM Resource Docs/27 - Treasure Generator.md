@@ -81,4 +81,3 @@ Permanent magic items can be included with treasure as desired, with the uncommo
 39. *Wand of magic missiles*
 40. *Wand of web*
 
-^40-magical-treasures

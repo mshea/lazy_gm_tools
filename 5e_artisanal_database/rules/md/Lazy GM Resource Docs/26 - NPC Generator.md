@@ -106,4 +106,3 @@ Assign a profession to your NPC to add color to their stat block. The commoner i
 19. Knight
 20. Mage
 
-^1d20-professions

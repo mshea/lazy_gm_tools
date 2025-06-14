@@ -54,4 +54,3 @@ For single-session games, consider establishing a single group relationship for 
 19. Dueling partner of
 20. On the run with
 
-^character-connections

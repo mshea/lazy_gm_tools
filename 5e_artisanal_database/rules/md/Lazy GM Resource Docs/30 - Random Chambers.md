@@ -349,4 +349,3 @@ These lists are ordered with typical rooms lower in the list and fantastic or da
 19. Ooze vaults
 20. Lightning chamber
 
-^wizards-lair

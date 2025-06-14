@@ -94,4 +94,3 @@ Whenever the characters enter a new town or start a new session there, adding so
 19. The border to the fey realm grows thin
 20. The world of shadow bleeds over into the material realm
 
-^1d20-fantastic-events
