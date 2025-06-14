@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<!--
+The code for this tool is released under a CC0 1.0 Universal license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.
+Learn about the licensing of the data of this tool in the license.html file located in the root director of this application.
+-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<style>
+body {
+    max-width: 1200px;
+    margin: auto;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+/* Prevent iOS zoom on inputs */
+input, button, select, textarea {
+    font-size: 16px !important;
+}
+
+.controls {
+    margin: 10px 0;
+    padding: 8px;
+    border: 1px solid #999;
+    background-color: #e8e8e8;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.controls h3 {
+    margin: 0;
+    font-size: 18px;
+    width: 100%;
+}
+
+.controls input, .controls button {
+    margin: 2px;
+    padding: 6px;
+    font-size: 16px;
+}
+
+.controls input[type="file"] {
+    background-color: white;
+    color: black;
+    border: 1px solid #999;
+}
+
+.controls input[type="text"], .controls input[type="number"], .controls textarea {
+    background-color: white;
+    color: black;
+    border: 1px solid #999;
+    width: 150px;
+    resize: vertical;
+}
+
+.controls button {
+    background-color: #666;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.controls button:hover {
+    background-color: #555;
+}
+
+.controls button.active {
+    background-color: #444;
+}
+
+.map-container {
+    position: relative;
+    margin: 20px 0;
+    border: 2px solid #999;
+    background-color: #f0f0f0;
+    min-height: 400px;
+    overflow: auto;
+    max-height: 80vh;
+}
+
+.zoom-controls {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background: rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    border-radius: 6px;
+    pointer-events: auto;
+}
+
+.zoom-controls button {
+    background-color: rgba(102, 102, 102, 0.9);
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 4px;
+    min-width: 40px;
+}
+
+.zoom-controls button:hover {
+    background-color: rgba(85, 85, 85, 0.9);
+}
+
+.map-canvas {
+    position: relative;
+    display: inline-block;
+    cursor: crosshair;
+}
+
+.map-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.text-label {
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    text-shadow: 
+        -3px -3px 0 white,
+        3px -3px 0 white,
+        -3px 3px 0 white,
+        3px 3px 0 white,
+        -4px 0 0 white,
+        4px 0 0 white,
+        0 -4px 0 white,
+        0 4px 0 white,
+        -2px -2px 0 white,
+        2px -2px 0 white,
+        -2px 2px 0 white,
+        2px 2px 0 white,
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        -1px 1px 0 white,
+        1px 1px 0 white;
+    cursor: move;
+    user-select: none;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    font-family: Arial, sans-serif;
+    white-space: pre-line;
+    text-align: center;
+    line-height: 1.2;
+}
+
+.text-label:hover {
+    outline: 2px dashed #666;
+}
+
+.text-label.selected {
+    outline: 2px solid #007acc;
+}
+
+.label-controls {
+    margin: 0;
+    padding: 8px;
+    border: 1px solid #999;
+    background-color: #f9f9f9;
+    display: none;
+}
+
+.label-controls.active {
+    display: block;
+}
+
+.label-controls h4 {
+    margin: 0 0 5px 0;
+    font-size: 18px;
+}
+
+.label-controls input {
+    background-color: white;
+    color: black;
+    border: 1px solid #999;
+    padding: 4px;
+    margin: 2px;
+}
+
+.no-map {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+    padding: 60px 20px;
+}
+
+.size-control {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.file-controls {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.file-controls button {
+    background-color: #666;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 24px;
+    border-radius: 4px;
+}
+</style>
+<title>Map Annotator - 5e Artisanal Database</title>
+</head>
+<body>
+<p><a href="../../index.html">5e Artisanal Database</a> → Map Annotator</p>
+
+<h1>Map Annotator</h1>
+
+<div class="file-controls" style="margin: 10px 0;">
+    <input type="file" id="mapFile" accept="image/*" style="display: none" onchange="loadMap(event)">
+    <button onclick="document.getElementById('mapFile').click()">Load Map</button>
+    <button onclick="clearMap()">Clear Map</button>
+    <button onclick="exportMap()">Export Annotated Map</button>
+    <button onclick="saveProject()">Save Project</button>
+    <input type="file" id="projectFile" accept=".json" style="display: none" onchange="loadProject(event)">
+    <button onclick="document.getElementById('projectFile').click()">Load Project</button>
+    <button onclick="clearAllLabels()">Clear All Labels</button>
+</div>
+
+<div style="display: flex; gap: 20px; margin: 20px 0 30px 0; align-items: flex-start;">
+    <div class="controls" style="display: block; margin: 0; width: 400px;">
+        <h3 style="margin-bottom: 15px;">Add Labels <span style="font-size: 14px; font-weight: normal;">(Click on map to place label)</span></h3>
+        <div>
+            <textarea id="labelText" placeholder="Label text (use Shift+Enter for new lines)" rows="2" maxlength="200"></textarea>
+            <div class="size-control">
+                <input type="number" id="labelSize" value="16" min="8" max="72" step="2">
+                <span>px</span>
+            </div>
+        </div>
+    </div>
+    <div id="labelControls" class="label-controls controls" style="margin: 0; width: 400px;">
+        <h4>Edit Selected Label</h4>
+        <textarea id="editLabelText" placeholder="Label text (use Shift+Enter for new lines)" rows="2"></textarea>
+        <div class="size-control">
+            <input type="number" id="editLabelSize" min="8" max="72" step="2">
+            <span>px</span>
+        </div>
+        <button onclick="updateSelectedLabel()">Update</button>
+        <button onclick="deleteSelectedLabel()">Delete</button>
+    </div>
+</div>
+
+<div id="mapContainer" class="map-container">
+    <div class="no-map">Load a map image (JPG or PNG) to start adding labels</div>
+</div>
+
+<script>
+let currentMap = null;
+let labels = [];
+let selectedLabel = null;
+let labelIdCounter = 1;
+let currentZoom = 1;
+let mapCanvas = null;
+
+function loadMap(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+    
+    if (!file.type.startsWith('image/')) {
+        alert('Please select an image file (JPG or PNG).');
+        return;
+    }
+    
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        const container = document.getElementById('mapContainer');
+        
+        // Create canvas container
+        mapCanvas = document.createElement('div');
+        mapCanvas.className = 'map-canvas';
+        mapCanvas.onclick = handleCanvasClick;
+        
+        // Create image
+        const img = document.createElement('img');
+        img.className = 'map-image';
+        img.src = e.target.result;
+        img.onload = function() {
+            currentMap = {
+                src: e.target.result,
+                width: img.naturalWidth,
+                height: img.naturalHeight,
+                filename: file.name
+            };
+            
+            currentZoom = 1;
+            updateZoom();
+        };
+        
+        mapCanvas.appendChild(img);
+        
+        // Clear existing content
+        const existingContent = container.querySelector('.no-map');
+        const existingCanvas = container.querySelector('.map-canvas');
+        const existingZoomControls = container.querySelector('.zoom-controls');
+        if (existingContent) existingContent.remove();
+        if (existingCanvas) existingCanvas.remove();
+        if (existingZoomControls) existingZoomControls.remove();
+        
+        container.appendChild(mapCanvas);
+        
+        // Add zoom controls to the map container
+        const zoomControls = document.createElement('div');
+        zoomControls.className = 'zoom-controls';
+        zoomControls.innerHTML = `
+            <button onclick="zoomIn()" title="Zoom In">+</button>
+            <button onclick="zoomOut()" title="Zoom Out">−</button>
+            <button onclick="resetZoom()" title="Reset View">Reset</button>
+        `;
+        container.appendChild(zoomControls);
+        
+        // Clear existing labels
+        labels = [];
+        selectedLabel = null;
+        hideEditControls();
+    };
+    
+    reader.readAsDataURL(file);
+}
+
+function zoomIn() {
+    currentZoom = Math.min(currentZoom * 1.2, 5);
+    updateZoom();
+}
+
+function zoomOut() {
+    currentZoom = Math.max(currentZoom / 1.2, 0.1);
+    updateZoom();
+}
+
+function resetZoom() {
+    currentZoom = 1;
+    updateZoom();
+}
+
+function updateZoom() {
+    if (!mapCanvas) return;
+    
+    const img = mapCanvas.querySelector('.map-image');
+    if (img) {
+        img.style.transform = `scale(${currentZoom})`;
+        img.style.transformOrigin = 'top left';
+        
+        // Update canvas size to accommodate scaled image
+        mapCanvas.style.width = (img.naturalWidth * currentZoom) + 'px';
+        mapCanvas.style.height = (img.naturalHeight * currentZoom) + 'px';
+        
+        renderLabels(); // Re-render labels at new zoom
+    }
+}
+
+function handleMouseWheel(event) {
+    if (!currentMap || !mapCanvas) return;
+    
+    // Only zoom if Alt key (or Cmd on Mac) is held
+    if (!event.altKey && !event.metaKey) return;
+    
+    // Check if mouse is over the map container
+    const mapContainer = document.getElementById('mapContainer');
+    const rect = mapContainer.getBoundingClientRect();
+    const isOverMap = event.clientX >= rect.left && event.clientX <= rect.right && 
+                      event.clientY >= rect.top && event.clientY <= rect.bottom;
+    
+    if (!isOverMap) return;
+    
+    event.preventDefault();
+    
+    // Zoom in/out based on wheel direction
+    if (event.deltaY < 0) {
+        // Scroll up = zoom in
+        currentZoom = Math.min(currentZoom * 1.1, 5);
+    } else {
+        // Scroll down = zoom out
+        currentZoom = Math.max(currentZoom / 1.1, 0.1);
+    }
+    
+    updateZoom();
+}
+
+function handleCanvasClick(event) {
+    if (!currentMap) return;
+    
+    // Prevent any default behavior that might cause scrolling
+    event.preventDefault();
+    event.stopPropagation();
+    
+    const labelText = document.getElementById('labelText').value.trim();
+    if (!labelText) {
+        alert('Please enter label text first.');
+        document.getElementById('labelText').focus();
+        return;
+    }
+    
+    const canvas = event.currentTarget;
+    const img = canvas.querySelector('.map-image');
+    const imgRect = img.getBoundingClientRect();
+    
+    // Get click position relative to the displayed image
+    const clickX = event.clientX - imgRect.left;
+    const clickY = event.clientY - imgRect.top;
+    
+    // Convert to original image coordinates
+    // Account for both zoom and any CSS scaling
+    const scaleX = img.naturalWidth / (img.offsetWidth * currentZoom);
+    const scaleY = img.naturalHeight / (img.offsetHeight * currentZoom);
+    
+    const originalX = clickX * scaleX;
+    const originalY = clickY * scaleY;
+    
+    console.log(`Click at (${clickX}, ${clickY}), converted to original (${originalX}, ${originalY})`);
+    console.log(`Image natural: ${img.naturalWidth}x${img.naturalHeight}, offset: ${img.offsetWidth}x${img.offsetHeight}, zoom: ${currentZoom}`);
+    
+    // Make sure click is within image bounds
+    if (originalX < 0 || originalY < 0 || originalX > img.naturalWidth || originalY > img.naturalHeight) {
+        return;
+    }
+    
+    addLabel(originalX, originalY, labelText);
+    
+    // Clear the input and deselect any previously selected label
+    document.getElementById('labelText').value = '';
+    deselectLabel();
+    document.getElementById('labelText').focus();
+}
+
+function addLabel(x, y, text) {
+    const size = parseInt(document.getElementById('labelSize').value) || 16;
+    
+    const label = {
+        id: labelIdCounter++,
+        x: x,
+        y: y,
+        text: text,
+        size: size
+    };
+    
+    labels.push(label);
+    renderLabels();
+}
+
+function renderLabels() {
+    if (!mapCanvas) return;
+    
+    // Remove existing label elements
+    const existingLabels = mapCanvas.querySelectorAll('.text-label');
+    existingLabels.forEach(label => label.remove());
+    
+    // Add all labels
+    labels.forEach(label => {
+        const labelElement = document.createElement('div');
+        labelElement.className = 'text-label';
+        labelElement.style.whiteSpace = 'pre-line'; // Allow line breaks
+        labelElement.textContent = label.text;
+        
+        // Convert from original image coordinates to display coordinates
+        const img = mapCanvas.querySelector('.map-image');
+        if (img) {
+            const scaleX = (img.offsetWidth * currentZoom) / img.naturalWidth;
+            const scaleY = (img.offsetHeight * currentZoom) / img.naturalHeight;
+            
+            labelElement.style.left = (label.x * scaleX) + 'px';
+            labelElement.style.top = (label.y * scaleY) + 'px';
+            labelElement.style.fontSize = (label.size * Math.min(scaleX, scaleY)) + 'px';
+        }
+        
+        labelElement.dataset.labelId = label.id;
+        
+        // Add click handler for selection
+        labelElement.onclick = function(e) {
+            e.stopPropagation();
+            selectLabel(label.id);
+        };
+        
+        // Add drag functionality
+        makeDraggable(labelElement, label);
+        
+        if (selectedLabel && selectedLabel.id === label.id) {
+            labelElement.classList.add('selected');
+        }
+        
+        mapCanvas.appendChild(labelElement);
+    });
+}
+
+function makeDraggable(element, label) {
+    let isDragging = false;
+    let startX, startY, startLeft, startTop;
+    
+    element.onmousedown = function(e) {
+        if (e.button !== 0) return; // Only left mouse button
+        
+        isDragging = true;
+        startX = e.clientX;
+        startY = e.clientY;
+        startLeft = label.x;
+        startTop = label.y;
+        
+        document.onmousemove = function(e) {
+            if (!isDragging) return;
+            
+            const img = mapCanvas.querySelector('.map-image');
+            if (!img) return;
+            
+            const scaleX = (img.offsetWidth * currentZoom) / img.naturalWidth;
+            const scaleY = (img.offsetHeight * currentZoom) / img.naturalHeight;
+            
+            const deltaX = (e.clientX - startX) / scaleX;
+            const deltaY = (e.clientY - startY) / scaleY;
+            
+            label.x = startLeft + deltaX;
+            label.y = startTop + deltaY;
+            
+            element.style.left = (label.x * scaleX) + 'px';
+            element.style.top = (label.y * scaleY) + 'px';
+            
+            e.preventDefault();
+        };
+        
+        document.onmouseup = function() {
+            isDragging = false;
+            document.onmousemove = null;
+            document.onmouseup = null;
+        };
+        
+        e.preventDefault();
+        e.stopPropagation();
+    };
+}
+
+function selectLabel(labelId) {
+    selectedLabel = labels.find(label => label.id === labelId);
+    if (selectedLabel) {
+        document.getElementById('editLabelText').value = selectedLabel.text;
+        document.getElementById('editLabelSize').value = selectedLabel.size;
+        showEditControls();
+        renderLabels(); // Re-render to show selection
+    }
+}
+
+function deselectLabel() {
+    selectedLabel = null;
+    hideEditControls();
+    renderLabels();
+}
+
+function showEditControls() {
+    document.getElementById('labelControls').classList.add('active');
+}
+
+function hideEditControls() {
+    document.getElementById('labelControls').classList.remove('active');
+}
+
+function updateSelectedLabel() {
+    if (!selectedLabel) return;
+    
+    const newText = document.getElementById('editLabelText').value.trim();
+    const newSize = parseInt(document.getElementById('editLabelSize').value) || 16;
+    
+    if (!newText) {
+        alert('Label text cannot be empty.');
+        return;
+    }
+    
+    selectedLabel.text = newText;
+    selectedLabel.size = newSize;
+    renderLabels();
+}
+
+function deleteSelectedLabel() {
+    if (!selectedLabel) return;
+    
+    if (confirm('Delete this label?')) {
+        labels = labels.filter(label => label.id !== selectedLabel.id);
+        selectedLabel = null;
+        hideEditControls();
+        renderLabels();
+    }
+}
+
+
+function clearAllLabels() {
+    if (labels.length === 0) {
+        alert('No labels to clear.');
+        return;
+    }
+    
+    if (confirm(`Delete all ${labels.length} labels?`)) {
+        labels = [];
+        selectedLabel = null;
+        hideEditControls();
+        renderLabels();
+    }
+}
+
+function clearMap() {
+    if (confirm('Clear the current map and all labels?')) {
+        currentMap = null;
+        labels = [];
+        selectedLabel = null;
+        currentZoom = 1;
+        mapCanvas = null;
+        hideEditControls();
+        
+        const container = document.getElementById('mapContainer');
+        container.innerHTML = '<div class="no-map">Load a map image (JPG or PNG) to start adding labels</div>';
+        document.getElementById('mapFile').value = '';
+    }
+}
+
+function exportMap() {
+    if (!currentMap) {
+        alert('No map loaded to export.');
+        return;
+    }
+    
+    // Create a canvas to draw the map and labels
+    const canvas = document.createElement('canvas');
+    const ctx = canvas.getContext('2d');
+    
+    // Create image element
+    const img = new Image();
+    img.onload = function() {
+        canvas.width = img.width;
+        canvas.height = img.height;
+        
+        // Draw the map
+        ctx.drawImage(img, 0, 0);
+        
+        // Draw labels if any exist
+        if (labels.length > 0) {
+            console.log('Exporting labels:', labels);
+            labels.forEach(label => {
+                console.log(`Drawing label at (${label.x}, ${label.y}) with text: "${label.text}"`);
+                const lines = label.text.split('\n').filter(line => line.trim() !== ''); // Remove empty lines
+                const lineHeight = label.size * 1.2; // Line spacing
+                
+                // Calculate the total height of the text block
+                const totalHeight = (lines.length - 1) * lineHeight;
+                const startY = label.y - totalHeight / 2;
+                
+                lines.forEach((line, index) => {
+                    const finalX = label.x;
+                    const finalY = startY + (index * lineHeight);
+                    
+                    ctx.font = `bold ${label.size}px Arial`;
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'middle';
+                    
+                    // Draw white outline (stroke) - make it much thicker for better visibility
+                    ctx.strokeStyle = 'white';
+                    ctx.lineWidth = Math.max(6, label.size / 3);
+                    ctx.strokeText(line, finalX, finalY);
+                    
+                    // Draw black text (fill)
+                    ctx.fillStyle = 'black';
+                    ctx.fillText(line, finalX, finalY);
+                    
+                    console.log(`Drew line "${line}" at (${finalX}, ${finalY})`);
+                });
+            });
+        }
+        
+        // Download the result
+        canvas.toBlob(function(blob) {
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            const filename = currentMap.filename.replace(/\.[^/.]+$/, '') + '_annotated.png';
+            link.download = filename;
+            link.click();
+            URL.revokeObjectURL(link.href);
+        });
+    };
+    
+    img.src = currentMap.src;
+}
+
+function saveProject() {
+    if (!currentMap) {
+        alert('No map loaded to save.');
+        return;
+    }
+    
+    const projectData = {
+        map: currentMap,
+        labels: labels,
+        version: '1.0',
+        savedDate: new Date().toISOString()
+    };
+    
+    const dataStr = JSON.stringify(projectData, null, 2);
+    const dataBlob = new Blob([dataStr], {type: 'application/json'});
+    
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(dataBlob);
+    const filename = currentMap.filename.replace(/\.[^/.]+$/, '') + '_project.json';
+    link.download = filename;
+    link.click();
+    
+    URL.revokeObjectURL(link.href);
+}
+
+function loadProject(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+    
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        try {
+            const projectData = JSON.parse(e.target.result);
+            
+            if (!projectData.map || !projectData.labels) {
+                alert('Invalid project file format.');
+                return;
+            }
+            
+            // Load the map
+            currentMap = projectData.map;
+            
+            const container = document.getElementById('mapContainer');
+            const canvas = document.createElement('div');
+            canvas.className = 'map-canvas';
+            canvas.onclick = handleCanvasClick;
+            
+            const img = document.createElement('img');
+            img.className = 'map-image';
+            img.src = currentMap.src;
+            
+            canvas.appendChild(img);
+            container.innerHTML = '';
+            container.appendChild(canvas);
+            
+            // Add zoom controls to the map container
+            const zoomControls = document.createElement('div');
+            zoomControls.className = 'zoom-controls';
+            zoomControls.innerHTML = `
+                <button onclick="zoomIn()" title="Zoom In">+</button>
+                <button onclick="zoomOut()" title="Zoom Out">−</button>
+                <button onclick="resetZoom()" title="Reset View">Reset</button>
+            `;
+            container.appendChild(zoomControls);
+            
+            // Load labels
+            labels = projectData.labels;
+            if (labels.length > 0) {
+                labelIdCounter = Math.max(...labels.map(l => l.id)) + 1;
+            }
+            
+            selectedLabel = null;
+            hideEditControls();
+            
+            // Wait for image to load before rendering labels
+            img.onload = function() {
+                renderLabels();
+            };
+            
+        } catch (error) {
+            alert('Error loading project file.');
+            console.error('Load error:', error);
+        }
+    };
+    
+    reader.readAsText(file);
+    event.target.value = '';
+}
+
+// Handle Enter key in inputs
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter' && !event.shiftKey) {
+        const activeElement = document.activeElement;
+        
+        if (activeElement.id === 'labelText' && currentMap) {
+            // Don't prevent default for textarea - let it add a line break if Shift is held
+            // Focus stays on input for quick labeling
+            document.getElementById('labelText').focus();
+        }
+    }
+});
+
+// Handle Escape key to deselect
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape' && selectedLabel) {
+        deselectLabel();
+    }
+});
+
+// Initialize
+document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('labelText').focus();
+});
+
+// Add mouse wheel zoom support
+document.addEventListener('wheel', handleMouseWheel, { passive: false });
+</script>
+
+<p>This tool is released under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.</p>
+<p>No images are saved to any server when using this tool. All file manipulation happens in your local web browser.</p>
+
+</body>
+</html>
