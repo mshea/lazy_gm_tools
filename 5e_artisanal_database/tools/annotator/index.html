@@ -52,11 +52,12 @@ input, button, select, textarea {
     border: 1px solid #999;
 }
 
-.controls input[type="text"], .controls input[type="number"] {
+.controls input[type="text"], .controls input[type="number"], .controls textarea {
     background-color: white;
     color: black;
     border: 1px solid #999;
     width: 150px;
+    resize: vertical;
 }
 
 .controls button {
@@ -86,6 +87,32 @@ input, button, select, textarea {
     max-height: 80vh;
 }
 
+.zoom-controls {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.zoom-controls button {
+    background-color: rgba(102, 102, 102, 0.9);
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+    min-width: 40px;
+}
+
+.zoom-controls button:hover {
+    background-color: rgba(85, 85, 85, 0.9);
+}
+
 .map-canvas {
     position: relative;
     display: inline-block;
@@ -103,20 +130,30 @@ input, button, select, textarea {
     color: black;
     font-weight: bold;
     text-shadow: 
+        -3px -3px 0 white,
+        3px -3px 0 white,
+        -3px 3px 0 white,
+        3px 3px 0 white,
+        -4px 0 0 white,
+        4px 0 0 white,
+        0 -4px 0 white,
+        0 4px 0 white,
+        -2px -2px 0 white,
+        2px -2px 0 white,
+        -2px 2px 0 white,
+        2px 2px 0 white,
         -1px -1px 0 white,
         1px -1px 0 white,
         -1px 1px 0 white,
-        1px 1px 0 white,
-        -2px 0 0 white,
-        2px 0 0 white,
-        0 -2px 0 white,
-        0 2px 0 white;
+        1px 1px 0 white;
     cursor: move;
     user-select: none;
     transform: translate(-50%, -50%);
     z-index: 10;
     font-family: Arial, sans-serif;
-    white-space: nowrap;
+    white-space: pre-line;
+    text-align: center;
+    line-height: 1.2;
 }
 
 .text-label:hover {
@@ -188,7 +225,7 @@ input, button, select, textarea {
 
 <div class="controls">
     <h3>Add Labels</h3>
-    <input type="text" id="labelText" placeholder="Label text" maxlength="50">
+    <textarea id="labelText" placeholder="Label text (use Shift+Enter for new lines)" rows="2" maxlength="200"></textarea>
     <div class="size-control">
         <label>Size:</label>
         <input type="number" id="labelSize" value="16" min="8" max="72" step="2">
@@ -200,7 +237,7 @@ input, button, select, textarea {
 
 <div id="labelControls" class="label-controls">
     <h4>Edit Selected Label</h4>
-    <input type="text" id="editLabelText" placeholder="Label text">
+    <textarea id="editLabelText" placeholder="Label text (use Shift+Enter for new lines)" rows="2"></textarea>
     <div class="size-control">
         <label>Size:</label>
         <input type="number" id="editLabelSize" min="8" max="72" step="2">
@@ -212,6 +249,11 @@ input, button, select, textarea {
 </div>
 
 <div id="mapContainer" class="map-container">
+    <div class="zoom-controls" id="zoomControls" style="display: none;">
+        <button onclick="zoomIn()" title="Zoom In">+</button>
+        <button onclick="zoomOut()" title="Zoom Out">−</button>
+        <button onclick="resetZoom()" title="Reset Zoom">1:1</button>
+    </div>
     <div class="no-map">Load a map image (JPG or PNG) to start adding labels</div>
 </div>
 
@@ -221,6 +263,8 @@ let labels = [];
 let selectedLabel = null;
 let addModeEnabled = true;
 let labelIdCounter = 1;
+let currentZoom = 1;
+let mapCanvas = null;
 
 function loadMap(event) {
     const file = event.target.files[0];
@@ -236,9 +280,9 @@ function loadMap(event) {
         const container = document.getElementById('mapContainer');
         
         // Create canvas container
-        const canvas = document.createElement('div');
-        canvas.className = 'map-canvas';
-        canvas.onclick = handleCanvasClick;
+        mapCanvas = document.createElement('div');
+        mapCanvas.className = 'map-canvas';
+        mapCanvas.onclick = handleCanvasClick;
         
         // Create image
         const img = document.createElement('img');
@@ -251,11 +295,22 @@ function loadMap(event) {
                 height: img.naturalHeight,
                 filename: file.name
             };
+            
+            // Show zoom controls
+            document.getElementById('zoomControls').style.display = 'flex';
+            currentZoom = 1;
+            updateZoom();
         };
         
-        canvas.appendChild(img);
-        container.innerHTML = '';
-        container.appendChild(canvas);
+        mapCanvas.appendChild(img);
+        
+        // Clear only the content, keep zoom controls
+        const existingContent = container.querySelector('.no-map');
+        const existingCanvas = container.querySelector('.map-canvas');
+        if (existingContent) existingContent.remove();
+        if (existingCanvas) existingCanvas.remove();
+        
+        container.appendChild(mapCanvas);
         
         // Clear existing labels
         labels = [];
@@ -264,6 +319,37 @@ function loadMap(event) {
     };
     
     reader.readAsDataURL(file);
+}
+
+function zoomIn() {
+    currentZoom = Math.min(currentZoom * 1.2, 5);
+    updateZoom();
+}
+
+function zoomOut() {
+    currentZoom = Math.max(currentZoom / 1.2, 0.1);
+    updateZoom();
+}
+
+function resetZoom() {
+    currentZoom = 1;
+    updateZoom();
+}
+
+function updateZoom() {
+    if (!mapCanvas) return;
+    
+    const img = mapCanvas.querySelector('.map-image');
+    if (img) {
+        img.style.transform = `scale(${currentZoom})`;
+        img.style.transformOrigin = 'top left';
+        
+        // Update canvas size to accommodate scaled image
+        mapCanvas.style.width = (img.naturalWidth * currentZoom) + 'px';
+        mapCanvas.style.height = (img.naturalHeight * currentZoom) + 'px';
+        
+        renderLabels(); // Re-render labels at new zoom
+    }
 }
 
 function handleCanvasClick(event) {
@@ -277,24 +363,30 @@ function handleCanvasClick(event) {
     }
     
     const canvas = event.currentTarget;
-    const rect = canvas.getBoundingClientRect();
-    const x = event.clientX - rect.left;
-    const y = event.clientY - rect.top;
-    
-    // Calculate position relative to the actual image
     const img = canvas.querySelector('.map-image');
     const imgRect = img.getBoundingClientRect();
-    const canvasRect = canvas.getBoundingClientRect();
     
-    const relativeX = event.clientX - imgRect.left;
-    const relativeY = event.clientY - imgRect.top;
+    // Get click position relative to the displayed image
+    const clickX = event.clientX - imgRect.left;
+    const clickY = event.clientY - imgRect.top;
+    
+    // Convert to original image coordinates
+    // Account for both zoom and any CSS scaling
+    const scaleX = img.naturalWidth / (img.offsetWidth * currentZoom);
+    const scaleY = img.naturalHeight / (img.offsetHeight * currentZoom);
+    
+    const originalX = clickX * scaleX;
+    const originalY = clickY * scaleY;
+    
+    console.log(`Click at (${clickX}, ${clickY}), converted to original (${originalX}, ${originalY})`);
+    console.log(`Image natural: ${img.naturalWidth}x${img.naturalHeight}, offset: ${img.offsetWidth}x${img.offsetHeight}, zoom: ${currentZoom}`);
     
     // Make sure click is within image bounds
-    if (relativeX < 0 || relativeY < 0 || relativeX > img.width || relativeY > img.height) {
+    if (originalX < 0 || originalY < 0 || originalX > img.naturalWidth || originalY > img.naturalHeight) {
         return;
     }
     
-    addLabel(relativeX, relativeY, labelText);
+    addLabel(originalX, originalY, labelText);
     
     // Clear the input
     document.getElementById('labelText').value = '';
@@ -317,21 +409,30 @@ function addLabel(x, y, text) {
 }
 
 function renderLabels() {
-    const canvas = document.querySelector('.map-canvas');
-    if (!canvas) return;
+    if (!mapCanvas) return;
     
     // Remove existing label elements
-    const existingLabels = canvas.querySelectorAll('.text-label');
+    const existingLabels = mapCanvas.querySelectorAll('.text-label');
     existingLabels.forEach(label => label.remove());
     
     // Add all labels
     labels.forEach(label => {
         const labelElement = document.createElement('div');
         labelElement.className = 'text-label';
+        labelElement.style.whiteSpace = 'pre-line'; // Allow line breaks
         labelElement.textContent = label.text;
-        labelElement.style.left = label.x + 'px';
-        labelElement.style.top = label.y + 'px';
-        labelElement.style.fontSize = label.size + 'px';
+        
+        // Convert from original image coordinates to display coordinates
+        const img = mapCanvas.querySelector('.map-image');
+        if (img) {
+            const scaleX = (img.offsetWidth * currentZoom) / img.naturalWidth;
+            const scaleY = (img.offsetHeight * currentZoom) / img.naturalHeight;
+            
+            labelElement.style.left = (label.x * scaleX) + 'px';
+            labelElement.style.top = (label.y * scaleY) + 'px';
+            labelElement.style.fontSize = (label.size * Math.min(scaleX, scaleY)) + 'px';
+        }
+        
         labelElement.dataset.labelId = label.id;
         
         // Add click handler for selection
@@ -347,7 +448,7 @@ function renderLabels() {
             labelElement.classList.add('selected');
         }
         
-        canvas.appendChild(labelElement);
+        mapCanvas.appendChild(labelElement);
     });
 }
 
@@ -367,14 +468,20 @@ function makeDraggable(element, label) {
         document.onmousemove = function(e) {
             if (!isDragging) return;
             
-            const deltaX = e.clientX - startX;
-            const deltaY = e.clientY - startY;
+            const img = mapCanvas.querySelector('.map-image');
+            if (!img) return;
+            
+            const scaleX = (img.offsetWidth * currentZoom) / img.naturalWidth;
+            const scaleY = (img.offsetHeight * currentZoom) / img.naturalHeight;
+            
+            const deltaX = (e.clientX - startX) / scaleX;
+            const deltaY = (e.clientY - startY) / scaleY;
             
             label.x = startLeft + deltaX;
             label.y = startTop + deltaY;
             
-            element.style.left = label.x + 'px';
-            element.style.top = label.y + 'px';
+            element.style.left = (label.x * scaleX) + 'px';
+            element.style.top = (label.y * scaleY) + 'px';
             
             e.preventDefault();
         };
@@ -475,15 +582,19 @@ function clearMap() {
         currentMap = null;
         labels = [];
         selectedLabel = null;
+        currentZoom = 1;
+        mapCanvas = null;
         hideEditControls();
-        document.getElementById('mapContainer').innerHTML = '<div class="no-map">Load a map image (JPG or PNG) to start adding labels</div>';
+        
+        const container = document.getElementById('mapContainer');
+        container.innerHTML = '<div class="zoom-controls" id="zoomControls" style="display: none;"><button onclick="zoomIn()" title="Zoom In">+</button><button onclick="zoomOut()" title="Zoom Out">−</button><button onclick="resetZoom()" title="Reset Zoom">1:1</button></div><div class="no-map">Load a map image (JPG or PNG) to start adding labels</div>';
         document.getElementById('mapFile').value = '';
     }
 }
 
 function exportMap() {
-    if (!currentMap || labels.length === 0) {
-        alert('No map or labels to export.');
+    if (!currentMap) {
+        alert('No map loaded to export.');
         return;
     }
     
@@ -500,21 +611,39 @@ function exportMap() {
         // Draw the map
         ctx.drawImage(img, 0, 0);
         
-        // Draw labels
-        labels.forEach(label => {
-            ctx.font = `bold ${label.size}px Arial`;
-            ctx.textAlign = 'center';
-            ctx.textBaseline = 'middle';
-            
-            // Draw white outline (stroke)
-            ctx.strokeStyle = 'white';
-            ctx.lineWidth = 4;
-            ctx.strokeText(label.text, label.x, label.y);
-            
-            // Draw black text (fill)
-            ctx.fillStyle = 'black';
-            ctx.fillText(label.text, label.x, label.y);
-        });
+        // Draw labels if any exist
+        if (labels.length > 0) {
+            console.log('Exporting labels:', labels);
+            labels.forEach(label => {
+                console.log(`Drawing label at (${label.x}, ${label.y}) with text: "${label.text}"`);
+                const lines = label.text.split('\n').filter(line => line.trim() !== ''); // Remove empty lines
+                const lineHeight = label.size * 1.2; // Line spacing
+                
+                // Calculate the total height of the text block
+                const totalHeight = (lines.length - 1) * lineHeight;
+                const startY = label.y - totalHeight / 2;
+                
+                lines.forEach((line, index) => {
+                    const finalX = label.x;
+                    const finalY = startY + (index * lineHeight);
+                    
+                    ctx.font = `bold ${label.size}px Arial`;
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'middle';
+                    
+                    // Draw white outline (stroke) - make it much thicker for better visibility
+                    ctx.strokeStyle = 'white';
+                    ctx.lineWidth = Math.max(6, label.size / 3);
+                    ctx.strokeText(line, finalX, finalY);
+                    
+                    // Draw black text (fill)
+                    ctx.fillStyle = 'black';
+                    ctx.fillText(line, finalX, finalY);
+                    
+                    console.log(`Drew line "${line}" at (${finalX}, ${finalY})`);
+                });
+            });
+        }
         
         // Download the result
         canvas.toBlob(function(blob) {
@@ -610,11 +739,12 @@ function loadProject(event) {
 }
 
 // Handle Enter key in inputs
-document.addEventListener('keypress', function(event) {
-    if (event.key === 'Enter') {
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter' && !event.shiftKey) {
         const activeElement = document.activeElement;
         
         if (activeElement.id === 'labelText' && addModeEnabled && currentMap) {
+            // Don't prevent default for textarea - let it add a line break if Shift is held
             // Focus stays on input for quick labeling
             document.getElementById('labelText').focus();
         }
