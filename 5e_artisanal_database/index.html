@@ -3,6 +3,8 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#2c3e50">
 <style>
 .main-search-container {
     margin: 20px 0;
@@ -182,5 +184,42 @@ document.getElementById('mainSearchInput').addEventListener('keypress', function
 
 <h2>Sources</h2>
 <p>The 5e Artisanal Database collects rules and tools for several openly-released 5e roleplaying game systems including the <a href="./srds/SRD_CC_v5.1.pdf">D&D 2014 5.1 SRD</a>, the <a href="./srds/SRD_CC_v5.2.1.pdf">D&D 2024 5.2 SRD</a>, <a href="https://a5esrd.com/a5esrd">Level Up Advanced 5e</a>, <a href="https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/">Tome of Beasts 1</a>, <a href="https://koboldpress.com/tome-of-beasts-2/">2</a>, <a href="https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/">3</a>, the <a href="https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/">Creature Codex</a>, the <a href="./srds/Black-Flag-Roleplaying.pdf">Kobold Press Black Flag SRD</a>, the <a href="https://slyflourish.com/lazy_gm_resource_document.html">Lazy GM's Resource Document</a>, and the <a href="https://slyflourish.com/lazy_5e_monster_building_resource_document.html">Lazy GM's Monster Resource Document</a>. See <a href="./licensing.html">Licensing</a> for license details.</p>
+
+<script>
+// Register service worker for PWA functionality
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js')
+      .then(registration => {
+        console.log('Service Worker registered successfully:', registration.scope);
+        
+        // Check for updates
+        registration.addEventListener('updatefound', () => {
+          const newWorker = registration.installing;
+          
+          newWorker.addEventListener('statechange', () => {
+            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+              // New content is available, show update prompt
+              if (confirm('New version available! Would you like to update now?')) {
+                newWorker.postMessage({ type: 'SKIP_WAITING' });
+                window.location.reload();
+              }
+            }
+          });
+        });
+      })
+      .catch(error => {
+        console.log('Service Worker registration failed:', error);
+      });
+  });
+}
+
+// Listen for service worker updates
+navigator.serviceWorker?.addEventListener('controllerchange', () => {
+  // New service worker has taken control, reload to get latest content
+  window.location.reload();
+});
+</script>
+
 </body>
 </html>
