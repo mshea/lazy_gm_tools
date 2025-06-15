@@ -190,8 +190,8 @@ th {
     cursor: pointer;
     font-size: 16px;
     flex: 1;
-    min-width: 70px;
-    max-width: 120px;
+    min-width: 60px;
+    max-width: 90px;
 }
 .combat-controls button:hover {
     background-color: #777;
@@ -222,9 +222,10 @@ th {
 <div class="combat-controls">
     <button onclick="nextTurn()">Next Turn</button>
     <button onclick="resetCombat()">Reset</button>
-    <button onclick="exportCombat()">Export</button>
     <input type="file" id="importFile" accept=".json" style="display: none" onchange="importCombat(event)">
     <button onclick="document.getElementById('importFile').click()">Import</button>
+    <button onclick="exportCombat()">Export JSON</button>
+    <button onclick="copyInitiativeText()">Copy Text</button>
 </div>
 
 <table id="combatTable">
@@ -632,6 +633,33 @@ function exportCombat() {
     
     // Clean up
     URL.revokeObjectURL(link.href);
+}
+
+function copyInitiativeText() {
+    if (combatants.length === 0) {
+        alert('No combatants to export.');
+        return;
+    }
+    
+    // Create text with initiative order (just names and initiative)
+    let text = "**Initiative**\n";
+    combatants.forEach((combatant, index) => {
+        text += `- ${combatant.initiative}: ${combatant.name}\n`;
+    });
+    
+    // Copy to clipboard
+    navigator.clipboard.writeText(text).then(function() {
+        alert('Initiative order copied to clipboard!');
+    }).catch(function(err) {
+        // Fallback for older browsers
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        document.body.appendChild(textArea);
+        textArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textArea);
+        alert('Initiative order copied to clipboard!');
+    });
 }
 
 function importCombat(event) {

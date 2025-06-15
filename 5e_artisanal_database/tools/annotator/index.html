@@ -509,41 +509,73 @@ function makeDraggable(element, label) {
     let isDragging = false;
     let startX, startY, startLeft, startTop;
     
+    function startDrag(clientX, clientY) {
+        isDragging = true;
+        startX = clientX;
+        startY = clientY;
+        startLeft = label.x;
+        startTop = label.y;
+    }
+    
+    function onDrag(clientX, clientY, e) {
+        if (!isDragging) return;
+        
+        const img = mapCanvas.querySelector('.map-image');
+        if (!img) return;
+        
+        const scaleX = (img.offsetWidth * currentZoom) / img.naturalWidth;
+        const scaleY = (img.offsetHeight * currentZoom) / img.naturalHeight;
+        
+        const deltaX = (clientX - startX) / scaleX;
+        const deltaY = (clientY - startY) / scaleY;
+        
+        label.x = startLeft + deltaX;
+        label.y = startTop + deltaY;
+        
+        element.style.left = (label.x * scaleX) + 'px';
+        element.style.top = (label.y * scaleY) + 'px';
+        
+        e.preventDefault();
+    }
+    
+    function endDrag() {
+        isDragging = false;
+        document.onmousemove = null;
+        document.onmouseup = null;
+        document.ontouchmove = null;
+        document.ontouchend = null;
+    }
+    
+    // Mouse events
     element.onmousedown = function(e) {
         if (e.button !== 0) return; // Only left mouse button
         
-        isDragging = true;
-        startX = e.clientX;
-        startY = e.clientY;
-        startLeft = label.x;
-        startTop = label.y;
+        startDrag(e.clientX, e.clientY);
         
         document.onmousemove = function(e) {
-            if (!isDragging) return;
-            
-            const img = mapCanvas.querySelector('.map-image');
-            if (!img) return;
-            
-            const scaleX = (img.offsetWidth * currentZoom) / img.naturalWidth;
-            const scaleY = (img.offsetHeight * currentZoom) / img.naturalHeight;
-            
-            const deltaX = (e.clientX - startX) / scaleX;
-            const deltaY = (e.clientY - startY) / scaleY;
-            
-            label.x = startLeft + deltaX;
-            label.y = startTop + deltaY;
-            
-            element.style.left = (label.x * scaleX) + 'px';
-            element.style.top = (label.y * scaleY) + 'px';
-            
-            e.preventDefault();
+            onDrag(e.clientX, e.clientY, e);
         };
         
-        document.onmouseup = function() {
-            isDragging = false;
-            document.onmousemove = null;
-            document.onmouseup = null;
+        document.onmouseup = endDrag;
+        
+        e.preventDefault();
+        e.stopPropagation();
+    };
+    
+    // Touch events for mobile
+    element.ontouchstart = function(e) {
+        if (e.touches.length !== 1) return; // Only single touch
+        
+        const touch = e.touches[0];
+        startDrag(touch.clientX, touch.clientY);
+        
+        document.ontouchmove = function(e) {
+            if (e.touches.length !== 1) return;
+            const touch = e.touches[0];
+            onDrag(touch.clientX, touch.clientY, e);
         };
+        
+        document.ontouchend = endDrag;
         
         e.preventDefault();
         e.stopPropagation();
