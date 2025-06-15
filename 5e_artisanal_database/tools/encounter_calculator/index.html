@@ -167,6 +167,12 @@ input, select {
     margin-top: 4px;
     font-size: 14px;
 }
+.button-row {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+}
 @media (max-width: 600px) {
     .input-row {
         flex-direction: column;
@@ -178,6 +184,13 @@ input, select {
     .remove-button {
         align-self: center;
         margin-top: 10px;
+    }
+    .button-row {
+        flex-direction: column;
+        gap: 8px;
+    }
+    .button-row .add-button {
+        width: 100%;
     }
 }
 </style>
@@ -324,8 +337,10 @@ input, select {
             </div>
         </div>
     </div>
-    <button type="button" class="add-button" onclick="addMonsterGroup()">+ Add Monster Group</button>
-    <button type="button" class="add-button" onclick="exportForCombatTracker()" style="margin-left: 10px;">Export for Combat Tracker</button>
+    <div class="button-row">
+        <button type="button" class="add-button" onclick="addMonsterGroup()">+ Add Monster Group</button>
+        <button type="button" class="add-button" onclick="exportForCombatTracker()">Export for Combat Tracker</button>
+    </div>
 </div>
 
 <div class="results" id="results">
