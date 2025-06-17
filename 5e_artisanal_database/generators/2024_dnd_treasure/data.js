@@ -94,64 +94,64 @@ gem_5000
   Rubys (clear red to deep crimson)
   
 art_25
-  {condition} {race} silver ewer
-  {condition} {race} carved bone statuette
-  {condition} {race} gold bracelet
-  {condition} {race} cloth-of-gold vestments
-  {condition} {race} black velvet mask stitched with silver thread
-  {condition} {race} copper chalice with silver filigree
-  {condition} {race} pair of engraved bone dice
-  {condition} {race} handheld mirror set in a painted wooden frame
-  {condition} {race} embroidered silk handkerchief
-  {condition} {race} gold locket with a painted portrait inside
+  {condition} {race} silver ewer (25 GP)
+  {condition} {race} carved bone statuette (25 GP)
+  {condition} {race} gold bracelet (25 GP)
+  {condition} {race} cloth-of-gold vestments (25 GP)
+  {condition} {race} black velvet mask stitched with silver thread (25 GP)
+  {condition} {race} copper chalice with silver filigree (25 GP)
+  {condition} {race} pair of engraved bone dice (25 GP)
+  {condition} {race} handheld mirror set in a painted wooden frame (25 GP)
+  {condition} {race} embroidered silk handkerchief (25 GP)
+  {condition} {race} gold locket with a painted portrait inside (25 GP)
 
 art_250
-  {condition} {race} gold ring set with bloodstones
-  {condition} {race} carved ivory statuette
-  {condition} {race} bejeweled gold bracelet
-  {condition} {race} silver necklace with a gemstone pendant
-  {condition} {race} bronze crown
-  {condition} {race} silk vestments with gold embroidery
-  {condition} {race} well-made tapestry that is 10 feet by 10 feet
-  {condition} {race} brass mug with jade inlay
-  {condition} {race} box of turquoise animal figurines
-  {condition} {race} gold birdcage with electrum filigree
+  {condition} {race} gold ring set with bloodstones (250 GP)
+  {condition} {race} carved ivory statuette (250 GP)
+  {condition} {race} bejeweled gold bracelet (250 GP)
+  {condition} {race} silver necklace with a gemstone pendant (250 GP)
+  {condition} {race} bronze crown (250 GP)
+  {condition} {race} silk vestments with gold embroidery (250 GP)
+  {condition} {race} well-made tapestry that is 10 feet by 10 feet (250 GP)
+  {condition} {race} brass mug with jade inlay (250 GP)
+  {condition} {race} box of turquoise animal figurines (250 GP)
+  {condition} {race} gold birdcage with electrum filigree (250 GP)
 
 art_750
-  {condition} {race} silver chalice set with moonstones
-  {condition} {race} bundle of sheet music representing the lost dirges of a famous composer
-  {condition} {race} carved wooden harp with ivory inlay and zircon gems
-  {condition} {race} gold idol
-  {condition} {race} gold comb shaped like a dragon with red garnets as eyes
-  {condition} {race} bottle stopper cork embossed with gold leaf and set with amethysts
-  {condition} {race} detailed, life-sized dragonborn skull cast in electrum
-  {condition} {race} silver and gold brooch
-  {condition} {race} obsidian statuette with gold fittings and inlay
-  {condition} {race} painted gold war mask
+  {condition} {race} silver chalice set with moonstones (750 GP)
+  {condition} {race} bundle of sheet music representing the lost dirges of a famous composer (750 GP)
+  {condition} {race} carved wooden harp with ivory inlay and zircon gems (750 GP)
+  {condition} {race} gold idol (750 GP)
+  {condition} {race} gold comb shaped like a dragon with red garnets as eyes (750 GP)
+  {condition} {race} bottle stopper cork embossed with gold leaf and set with amethysts (750 GP)
+  {condition} {race} detailed, life-sized dragonborn skull cast in electrum (750 GP)
+  {condition} {race} silver and gold brooch (750 GP)
+  {condition} {race} obsidian statuette with gold fittings and inlay (750 GP)
+  {condition} {race} painted gold war mask (750 GP)
 
 art_2500
-  {condition} {race} fine gold chain set with a fire opal
-  {condition} {race} old masterpiece painting
-  {condition} {race} embroidered silk and velvet mantle set with numerous moonstones
-  {condition} {race} platinum bracelet set with an emerald
-  {condition} {race} embroidered glove set with jewel chips
-  {condition} {race} jeweled anklet
-  {condition} {race} gold music box
-  {condition} {race} gold circlet set with four aquamarines
-  {condition} {race} eye patch decorated with tiny blue sapphires and moonstones
-  {condition} {race} a necklace string of small pink pearls
+  {condition} {race} fine gold chain set with a fire opal (2,500 GP)
+  {condition} {race} old masterpiece painting (2,500 GP)
+  {condition} {race} embroidered silk and velvet mantle set with numerous moonstones (2,500 GP)
+  {condition} {race} platinum bracelet set with an emerald (2,500 GP)
+  {condition} {race} embroidered glove set with jewel chips (2,500 GP)
+  {condition} {race} jeweled anklet (2,500 GP)
+  {condition} {race} gold music box (2,500 GP)
+  {condition} {race} gold circlet set with four aquamarines (2,500 GP)
+  {condition} {race} eye patch decorated with tiny blue sapphires and moonstones (2,500 GP)
+  {condition} {race} a necklace string of small pink pearls (2,500 GP)
 
 art_7500
-  {condition} {race} jeweled gold crown
-  {condition} {race} jeweled platinum ring
-  {condition} {race} gold statuette set with rubies
-  {condition} {race} gold cup set with emeralds
-  {condition} {race} gold jewelry box with platinum filigree
-  {condition} {race} set of gold nesting dolls
-  {condition} {race} jade game board with gold playing pieces
-  {condition} {race} bejeweled ivory drinking horn with gold filigree
-  {condition} {race} gilded royal coach or funeral barge
-  {condition} {race} ceremonial gold armor with black pearls
+  {condition} {race} jeweled gold crown (7,500 GP)
+  {condition} {race} jeweled platinum ring (7,500 GP)
+  {condition} {race} gold statuette set with rubies (7,500 GP)
+  {condition} {race} gold cup set with emeralds (7,500 GP)
+  {condition} {race} gold jewelry box with platinum filigree (7,500 GP)
+  {condition} {race} set of gold nesting dolls (7,500 GP)
+  {condition} {race} jade game board with gold playing pieces (7,500 GP)
+  {condition} {race} bejeweled ivory drinking horn with gold filigree (7,500 GP)
+  {condition} {race} gilded royal coach or funeral barge (7,500 GP)
+  {condition} {race} ceremonial gold armor with black pearls (7,500 GP)
 
 magic_items_1_4
   {common_themes} (common) ^54
