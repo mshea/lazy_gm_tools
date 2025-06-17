@@ -5,41 +5,43 @@
 <meta charset="UTF-8">
 <style>
 body {
-  max-width: 700px;
-  margin: auto;
-  font-size: 18px;
-  font-family: sans-serif;
-  padding: 10px;
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
 }
-
 p, li {
-  line-height: 1.5em;
+    line-height: 1.5em;
 }
-
 ul, ol {
-  padding-left: 20px;
-  margin-left: 0;
+    padding-left: 20px;
+    margin-left: 0;
 }
-
 li {
-  margin-left: 0;
+    margin-left: 0;
 }
-
 table {
-  border-collapse: collapse;
+    border-collapse: collapse;
 }
-
 th, td {
-  border: 1px solid black;
-  padding: 5px;
-  text-align: left;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
 }
-
-button, select, input, textarea {
-  font-size: 18px;
-  touch-action: manipulation;
+button, select {
+    font-size: 18px;
+    min-height: 44px;
+    padding: 12px 16px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    cursor: pointer;
 }
-
+button:hover {
+    background-color: #e9e9e9;
+}
 </style>
 <title>Location Generator</title>
 </head>
@@ -48,199 +50,14 @@ button, select, input, textarea {
 
 <h1>Location Generator</h1>
 
-<div id="controls">
-  <button onclick="generate()">Generate</button>
+<button onclick="generateContent()">Roll</button>
+
+<div id="output">
+    <em>Click the button above to generate content...</em>
 </div>
-<div id="output"></div>
 
+<script src="generator_text.js"></script>
+<script src="../../css_js/generator.js"></script>
 
-<script>
-const dataText = `
-template
-  {race} {condition} {location}.
-
-condition
-  aberrant
-  abyssal
-  acidic
-  ancient
-  astral
-  bladed
-  bloody
-  buried
-  cracked
-  crumbling
-  crystalline
-  cursed
-  cyclopean
-  defiled
-  dreamscape
-  earthen
-  eldritch
-  emerald
-  entombed
-  ethereal
-  flaming
-  floating
-  flooded
-  foggy
-  frozen
-  glass
-  glowing
-  glyphed
-  hallowed
-  haunted
-  holy
-  infested
-  lightning-touched
-  moontouched
-  musical
-  necrotic
-  obsidian
-  oozing
-  opal
-  poisonous
-  psionic
-  radiant
-  ruby
-  ruined
-  sapphire
-  shadowy
-  shadowy
-  spiked
-  startouched
-  stormy
-  temporal
-  titanic
-  twilight
-  unearthed
-  unhallowed
-  unholy
-
-location
-  aerie
-  amphitheater
-  aqueduct
-  arena
-  asylum
-  aviary
-  barrow
-  bastion
-  boneyard
-  cairn
-  catacomb
-  cathedral
-  cave
-  cavern
-  chasm
-  citadel
-  city
-  colosseum
-  dungeon
-  fighting pit
-  fortress
-  gate
-  graveyard
-  grotto
-  hollow statue
-  keep
-  mausoleum
-  mill
-  mine
-  monastery
-  mountain
-  ossuary
-  oubliette 
-  portal
-  pyramid
-  ruin
-  shipwreck 
-  sinkhole
-  stronghold
-  temple
-  tomb
-  tower
-  vault
-  watchtower
-  well
-  windmill
-  ziggurat
-
-race
-  human
-  elven
-  dwarven
-  halfling
-  gnomish
-  dragonborn
-  orcish
-  bestial
-  primordial
-  gearforged
-  constructed
-  elemental
-  draconic
-  fiendish
-  giant
-  shadow-touched
-  aberrant
-  fungoid
-  goblinoid
-  infernal
-  celestial
-  outerplanar
-  faerie
-  monstrous
-  ooze-touched
-  undead
-  plant-touched
-  minotaur
-  shadowborn
-  serpentine  
-`;
-
-
-function parseInput(text) {
-    const lines = text.trim().split('\n');
-    const result = {};
-    let currentKey = null;
-    for (let line of lines) {
-        if (!line.trim()) continue;
-        if (!line.startsWith(' ')) {
-            currentKey = line.trim().replace(':', '');
-            result[currentKey] = [];
-        } else if (currentKey) {
-            result[currentKey].push(line.trim());
-        }
-    }
-    return result;
-}
-
-function pick(list) {
-    return list[Math.floor(Math.random() * list.length)];
-}
-
-function fillTemplate(template, data) {
-    return template.replace(/{(.*?)}/g, (_, key) => pick(data[key] || ['']));
-}
-
-function generate(count = 10) {
-    const parsed = parseInput(dataText);
-    const template = (parsed.template || [''])[0];
-    delete parsed.template;
-
-    const output = document.getElementById('output');
-    output.innerHTML = '';
-    for (let i = 0; i < count; i++) {
-        const text = fillTemplate(template, parsed);
-        const p = document.createElement('p');
-        p.textContent = text.charAt(0).toUpperCase() + text.slice(1);
-        output.appendChild(p);
-}
-
-}
-
-window.onload = () => generate();
-</script>
 </body>
 </html>

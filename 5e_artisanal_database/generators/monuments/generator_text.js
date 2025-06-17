@@ -1,0 +1,196 @@
+const dataText = `
+template
+  {race} {condition} {monument}.
+
+condition
+  aberrant
+  abyssal
+  acidic
+  ancient
+  astral
+  bladed
+  bloody
+  buried
+  cracked
+  crumbling
+  crystalline
+  cursed
+  cyclopean
+  defiled
+  dreamscape
+  earthen
+  eldritch
+  emerald
+  entombed
+  ethereal
+  flaming
+  floating
+  flooded
+  foggy
+  frozen
+  glass
+  glowing
+  glyphed
+  hallowed
+  haunted
+  holy
+  infested
+  lightning-touched
+  moontouched
+  musical
+  necrotic
+  obsidian
+  oozing
+  opal
+  poisonous
+  psionic
+  radiant
+  ruby
+  ruined
+  sapphire
+  shadowy
+  shadowy
+  spiked
+  startouched
+  stormy
+  temporal
+  titanic
+  twilight
+  unearthed
+  unhallowed
+  unholy
+
+monument
+  aerie
+  altar
+  aqueduct
+  arcane circle
+  archway
+  aviary
+  barrow
+  battlefield
+  bell
+  bone pile
+  boneyard
+  bonfire
+  brazier
+  bridge
+  cage
+  cairn
+  campsite
+  canal
+  carcass
+  carriage 
+  cauldron
+  cave
+  cenotaph 
+  cesspit
+  charnel pit
+  columns
+  crater
+  crossroads
+  crystal
+  dome
+  doorway
+  earthmote
+  effigy
+  fighting pit
+  firepit
+  fossil
+  fountain
+  gallows
+  gateway
+  geode
+  geyser
+  graveyard
+  gravestone
+  grotto
+  grove
+  hollow
+  huge skull
+  idol
+  illusion
+  keep
+  lantern
+  machine
+  mausoleum
+  megalith
+  meteorite
+  midden
+  mill
+  mine
+  mirror
+  monolith
+  monument
+  mosaic
+  nest
+  obelisk 
+  orb
+  orrery
+  oubliette 
+  petrified creature
+  pillar
+  pit
+  planar rift
+  platform
+  podium
+  pool
+  rock
+  ruin
+  sacred circle
+  sarcophagus
+  shipwreck 
+  shrine
+  sigil
+  sinkhole
+  slab
+  spell effect
+  sphere
+  spire
+  statue
+  stone circle
+  stone tablets
+  sundial
+  throne
+  tomb
+  totem
+  tower
+  trash heap
+  tree
+  wall
+  waymarker
+  well
+  windmill
+
+race
+  human
+  elven
+  dwarven
+  halfling
+  gnomish
+  dragonborn
+  orcish
+  bestial
+  primordial
+  gearforged
+  constructed
+  elemental
+  draconic
+  fiendish
+  giant
+  shadow-touched
+  aberrant
+  fungoid
+  goblinoid
+  infernal
+  celestial
+  outerplanar
+  faerie
+  monstrous
+  ooze-touched
+  undead
+  plant-touched
+  minotaur
+  shadowborn
+  serpentine  
+`;

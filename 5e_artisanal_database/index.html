@@ -174,6 +174,7 @@ document.getElementById('mainSearchInput').addEventListener('keypress', function
 <li><a href="./generators/dm_relics/index.html">Deep Magic Relics</a></li>
 <li><a href="./generators/weapons/index.html">Unique Weapons</a></li>
 <li><a href="./generators/armor/index.html">Unique Armor</a></li>
+<li><a href="./generators/generator_template/index.html">Generator Template</a></li>
 </ul>
 
 <h2>About the 5e Artisanal Database</h2>
@@ -193,6 +194,9 @@ if ('serviceWorker' in navigator) {
       .then(registration => {
         console.log('Service Worker registered successfully:', registration.scope);
         
+        // Force check for updates on each load
+        registration.update();
+        
         // Check for updates
         registration.addEventListener('updatefound', () => {
           const newWorker = registration.installing;
@@ -211,6 +215,23 @@ if ('serviceWorker' in navigator) {
       .catch(error => {
         console.log('Service Worker registration failed:', error);
       });
+  });
+  
+  // Listen for messages from service worker
+  navigator.serviceWorker.addEventListener('message', event => {
+    if (event.data && event.data.type === 'SW_ACTIVATED') {
+      console.log('Service Worker activated with cache:', event.data.cacheName);
+      
+      // Test cache availability
+      caches.open(event.data.cacheName).then(cache => {
+        cache.keys().then(keys => {
+          console.log('Cache contains', keys.length, 'items');
+          if (keys.length < 1000) {
+            console.warn('Cache may be incomplete, only', keys.length, 'items cached');
+          }
+        });
+      });
+    }
   });
 }
 

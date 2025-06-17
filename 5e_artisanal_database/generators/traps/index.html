@@ -5,39 +5,42 @@
 <meta charset="UTF-8">
 <style>
 body {
-  max-width: 700px;
-  margin: auto;
-  font-size: 18px;
-  font-family: sans-serif;
-  padding: 10px;
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
 }
-
 p, li {
-  line-height: 1.5em;
+    line-height: 1.5em;
 }
-
 ul, ol {
-  padding-left: 20px;
-  margin-left: 0;
+    padding-left: 20px;
+    margin-left: 0;
 }
-
 li {
-  margin-left: 0;
+    margin-left: 0;
 }
-
 table {
-  border-collapse: collapse;
+    border-collapse: collapse;
 }
-
 th, td {
-  border: 1px solid black;
-  padding: 5px;
-  text-align: left;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
 }
-
-button, select, input, textarea {
-  font-size: 18px;
-  touch-action: manipulation;
+button, select {
+    font-size: 18px;
+    min-height: 44px;
+    padding: 12px 16px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #e9e9e9;
 }
 
 </style>
@@ -48,168 +51,14 @@ button, select, input, textarea {
 
 <h1>Trap Generator</h1>
 
-<div id="controls">
-  <button onclick="generate()">Generate</button>
+<button onclick="generateContent()">Roll</button>
+
+<div id="output">
+    <em>Click the button above to generate content...</em>
 </div>
-<div id="output"></div>
 
+<script src="generator_text.js"></script>
+<script src="../../css_js/generator.js"></script>
 
-<script>
-const dataText = `
-template
-  {element} {trap} and {element} {trap} triggered by {trigger}.
-
-trap
-  darts  
-  spears  
-  swinging spiked chains  
-  hammers  
-  swinging glaives  
-  spiked pits  
-  rocks  
-  javelins  
-  animated statues  
-  pillars  
-  ballistae  
-  barbed nets  
-  bolas  
-  catapults  
-  bear traps  
-  caltrops  
-  crushing walls  
-  floor tiles  
-  monster summoners  
-  alarms  
-  razor-wire  
-  skulls  
-  swinging axes  
-  snares  
-  cages  
-  crossbows  
-  swinging blades  
-  scythes  
-  metal disks  
-  beams  
-  glyphs  
-  spores
-
-element
-  flaming  
-  icy  
-  electrical  
-  poisonous  
-  ethereal  
-  unholy  
-  necrotic  
-  diseased  
-  acidic  
-  dazzling  
-  infested  
-  moldy  
-  fungus-encrusted  
-  deafening  
-  fear-inducing  
-  confusion-inducing  
-  energy-draining  
-  entangling  
-  fatiguing  
-  invisible  
-  nauseating  
-  forceful  
-  panic-inducing  
-  silencing  
-  stunning  
-  ooze-covered  
-  gaseous  
-  negative energy  
-  shadowy  
-  radiant  
-  arcane  
-  psychic  
-  sleep-inducing  
-  sonic  
-  explosive  
-  blinding  
-  gravity reversing
-
-trigger
-  a child's toy  
-  a jeweled skull  
-  floor plates  
-  giant knockers  
-  beams of light  
-  golden angelic statue  
-  a crystal goblet on a pedestal  
-  mischievous ghosts  
-  the correct answer to an easy riddle  
-  a rough gemstone  
-  an old wooden chest  
-  an onyx demonic skull  
-  a forbidden scroll  
-  a jeweled pillar  
-  steep stairs  
-  a sacrificial bowl and dagger  
-  a jeweled crown on a skeleton's head  
-  delicate pots  
-  an ancient leatherbound tome  
-  tripwires  
-  a gilded sarcophagus  
-  delicate magic-detecting spheres  
-  a bound prisoner  
-  a weapon on an altar  
-  an idol on pedestal  
-  alternating floor tiles  
-  iron-bound chests  
-  tiny threads strung across the room  
-  glass orbs that vibrate with sound  
-  hidden magnets  
-  an ornate throne  
-  a hidden enemy  
-  hanging ropes  
-`;
-
-
-function parseInput(text) {
-    const lines = text.trim().split('\n');
-    const result = {};
-    let currentKey = null;
-    for (let line of lines) {
-        if (!line.trim()) continue;
-        if (!line.startsWith(' ')) {
-            currentKey = line.trim().replace(':', '');
-            result[currentKey] = [];
-        } else if (currentKey) {
-            result[currentKey].push(line.trim());
-        }
-    }
-    return result;
-}
-
-function pick(list) {
-    return list[Math.floor(Math.random() * list.length)];
-}
-
-function fillTemplate(template, data) {
-    return template.replace(/{(.*?)}/g, (_, key) => pick(data[key] || ['']));
-}
-
-function generate(count = 10) {
-    const parsed = parseInput(dataText);
-    const template = (parsed.template || [''])[0];
-    delete parsed.template;
-
-    const output = document.getElementById('output');
-    output.innerHTML = '';
-    for (let i = 0; i < count; i++) {
-        const text = fillTemplate(template, parsed);
-        const p = document.createElement('p');
-        p.textContent = text.charAt(0).toUpperCase() + text.slice(1);
-        output.appendChild(p);
-}
-
-}
-
-window.onload = () => generate();
-</script>
 </body>
 </html>

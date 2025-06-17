@@ -20,9 +20,9 @@ You can find the link to the current version of the 5e Artisanal Database on the
 
 <https://www.patreon.com/posts/sly-flourish-34953933>
 
-### Run it locally in your own web browser
+### Run it locally in your own desktop web browser
 
-Click on "index.html" in the top level directory of the 5eADB. It should launch in your default web browser and you can access all features there just like you were navigating it on the web.
+On a desktop or laptop computer, download the zip file and click on "index.html" in the top level directory of the 5eADB. It launches in your default web browser and you can access all features there just like you were navigating it on the web.
 
 ### Copy "md" directories to your Obsidian Vault
 
@@ -50,6 +50,10 @@ The 5eADB is a set of directories, HTML files, and some Javascript. Each tool or
 
 **Mobile Friendly**. This entire app has been built to work well on small devices like mobile phones. It should work well on both big and small screens.
 
+**Progressive Web App Enabled**. I've attempted to make this application a "progressive web app". When you save this app to your home screen on a mobile device, it attempts to download the entire payload of the app so it can run offline. This doesn't work 100% of the time, however, as different browsers have different restrictions for the number of files and the size of the apps.
+
 ### Licensing
 
-See the "licensing.html" file in the root directory for licensing information. Outside of lunr.js and datatables.js, all embedded javascript code in this application is released under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission. lunr.js and datatables.js are both released under MIT licenses as described in the licensing.html file.
+See the "licensing.html" file in the root directory for licensing information. Outside of lunr.js and datatables.js, all embedded javascript code in this application is released under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). You can copy, modify, and distribute the code for these tools, even for commercial purposes, all without asking permission. 
+
+lunr.js and datatables.js are both released under MIT licenses as described in the licensing.html file.

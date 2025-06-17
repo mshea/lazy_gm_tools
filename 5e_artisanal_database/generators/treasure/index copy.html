@@ -1,0 +1,193 @@
+<!--
+  Code: CC0 1.0 Universal (Public Domain)
+  Data: License described in the main license.html file of the database.
+-->
+<!DOCTYPE html><!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta charset="UTF-8">
+<style>
+body {
+  max-width: 700px;
+  margin: auto;
+  font-size: 18px;
+  font-family: sans-serif;
+  padding: 10px;
+}
+button, select {
+  font-size: 18px;
+  min-height: 44px;
+  padding: 12px 16px;
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+</style>
+<title>Lazy 5e Treasure Generator</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → Lazy 5e Treasure Generator</div>
+<h1>Lazy 5e Treasure Generator</h1>
+
+<select id="tier">
+  <option value="tier1">1st–4th Level</option>
+  <option value="tier2">5th–10th Level</option>
+  <option value="tier3">11th–16th Level</option>
+  <option value="tier4">17th+ Level</option>
+</select>
+<br><br><button onclick="generate()">Generate</button>
+
+<div id="output"></div>
+
+<h2>About This Generator</h2>
+<p>The Lazy 5e Generator is a general-purpose 5e treasure generator built for any 5e game. Treasure is based on 5.1 SRD (D&D 2014) magic items and spells.</p>
+<ul>
+<li>Treasure hordes are intended to be rewarded per-session.</li>
+<li>Monetary treasure averages 400 GP at tier 1, 4,000 GP at tier 2, 30,000 GP at tier 3, and 200,000 GP at tier 4.</li>
+<li>Treasure distribution includes two consumable magic items and one permanent magic item of various rarities based on tier.</li>
+<li>Relics are optional and can include spells of any level. They're intended to be chaotic and potentially very powerful. Relics costs are not factored into average treasure values.</li>
+</ul>
+
+<!-- Load external data file -->
+<script src="data.js"></script>
+
+<script>
+function parseInput(text) {
+  const lines = text.trim().split('\n');
+  const result = {};
+  let currentKey = null;
+  
+  for (let line of lines) {
+    if (!line.trim()) continue;
+    
+    if (!line.match(/^[\s]/)) {
+      // New section
+      currentKey = line.trim();
+      result[currentKey] = [];
+    } else if (currentKey) {
+      const trimmed = line.trim();
+      // Handle weight markers (content ^54)
+      const match = trimmed.match(/^(.*?)\s+\^(\d+)$/);
+      if (match) {
+        const weight = parseInt(match[2]);
+        for (let i = 0; i < weight; i++) result[currentKey].push(match[1]);
+      } else {
+        result[currentKey].push(trimmed);
+      }
+    }
+  }
+  return result;
+}
+
+function pick(list) {
+  return list[Math.floor(Math.random() * list.length)];
+}
+
+function addCommasToNumber(num) {
+  return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+}
+
+function fillTemplate(template, data) {
+  // Handle number ranges like [[50-150]]
+  template = template.replace(/\[\[(\d+)-(\d+)\]\]/g, (match, min, max) => {
+    const value = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
+    return addCommasToNumber(value);
+  });
+  
+  // Handle pipe-separated options with mixed braces like {{option1}|{option2}|{option3}}
+  let processedTemplate = template;
+  let startIndex = 0;
+  
+  while (true) {
+    const openIndex = processedTemplate.indexOf('{{', startIndex);
+    if (openIndex === -1) break;
+    
+    // Find the matching closing }}
+    let braceCount = 0;
+    let closeIndex = -1;
+    for (let i = openIndex + 2; i < processedTemplate.length - 1; i++) {
+      if (processedTemplate.substr(i, 2) === '{{') {
+        braceCount++;
+        i++; // Skip next character
+      } else if (processedTemplate.substr(i, 2) === '}}') {
+        if (braceCount === 0) {
+          closeIndex = i;
+          break;
+        } else {
+          braceCount--;
+          i++; // Skip next character
+        }
+      }
+    }
+    
+    if (closeIndex === -1) break;
+    
+    const fullMatch = processedTemplate.substring(openIndex, closeIndex + 2);
+    const content = processedTemplate.substring(openIndex + 2, closeIndex);
+    
+    // Split on | and clean up each option
+    const options = content.split('|').map(option => {
+      // Remove surrounding braces completely
+      return option.replace(/^\{/, '').replace(/\}$/, '').trim();
+    }).filter(option => option !== '');
+
+    const selectedOption = pick(options);
+    
+    // The selected option should be a key name, so look it up in data
+    const result = pick(data[selectedOption] || [selectedOption]);
+    
+    // Replace the match with the result
+    processedTemplate = processedTemplate.substring(0, openIndex) + result + processedTemplate.substring(closeIndex + 2);
+    startIndex = openIndex + result.length;
+  }
+  
+  template = processedTemplate;
+  
+  // Handle single item references like {gem_10} and {art_XXX}
+  // Also handle pipe-separated options in single braces like {option1|option2|option3}
+  template = template.replace(/\{([^}]+)\}/g, (match, content) => {
+    // Check if it contains pipes (multiple options)
+    if (content.includes('|')) {
+      const options = content.split('|').map(option => option.trim()).filter(option => option !== '');
+      const selectedOption = pick(options);
+      const result = pick(data[selectedOption] || [selectedOption]);
+      return result;
+    } else {
+      // Single key lookup
+      const item = pick(data[content] || ['']);
+      return item;
+    }
+  });
+  
+  return template;
+}
+
+function generate() {
+  const tier = document.getElementById('tier').value;
+  const parsed = parseInput(dataText);
+  const output = document.getElementById('output');
+  
+  let result = pick(parsed[tier]);
+  
+  // Process templates until no more changes
+  for (let i = 0; i < 10; i++) {
+    const newResult = fillTemplate(result, parsed);
+    if (newResult === result) break;
+    result = newResult;
+  }
+  
+  // Format output
+  const items = result.split('<br>')
+    .map(item => item.trim())
+    .filter(item => item !== '')
+    .map(item => '- ' + item.charAt(0).toUpperCase() + item.slice(1));
+  
+  output.innerHTML = '<p>' + items.join('<br>') + '</p>';
+}
+
+// Generate on page load
+window.onload = () => generate();
+</script>
+</body>
+</html>

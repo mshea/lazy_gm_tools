@@ -1,8 +1,8 @@
 // Service Worker for 5e Artisanal Database
 // Caches ALL files on first install by fetching the cache manifest
 
-const CACHE_NAME = '5e-adb-v1.0.5';
-const CHUNK_SIZE = 50; // Files per chunk for iOS compatibility
+const CACHE_NAME = '5e-adb-v1.0.6';
+const CHUNK_SIZE = 30; // Smaller chunks for better iOS reliability
 
 // Install event - fetch manifest and cache everything
 self.addEventListener('install', event => {
@@ -57,9 +57,9 @@ async function cacheFilesInChunks(files) {
       await cache.addAll(chunk);
       console.log(`Service Worker: Chunk ${chunkNum}/${totalChunks} cached successfully`);
       
-      // Small delay between chunks to be gentle on iOS
+      // Longer delay between chunks for iOS stability
       if (chunkNum < totalChunks) {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        await new Promise(resolve => setTimeout(resolve, 250));
       }
       
     } catch (error) {
@@ -72,7 +72,7 @@ async function cacheFilesInChunks(files) {
   console.log('Service Worker: Chunked caching complete');
 }
 
-// Activate event - clean up old caches
+// Activate event - clean up old caches and take control immediately
 self.addEventListener('activate', event => {
   console.log('Service Worker: Activating...');
   
@@ -88,7 +88,18 @@ self.addEventListener('activate', event => {
       );
     }).then(() => {
       console.log('Service Worker: Activated successfully');
+      // Force immediate control of all clients
       return self.clients.claim();
+    }).then(() => {
+      // Send message to all clients that we're ready
+      return self.clients.matchAll().then(clients => {
+        clients.forEach(client => {
+          client.postMessage({
+            type: 'SW_ACTIVATED',
+            cacheName: CACHE_NAME
+          });
+        });
+      });
     })
   );
 });
