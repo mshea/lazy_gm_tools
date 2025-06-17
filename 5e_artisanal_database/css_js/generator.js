@@ -38,7 +38,11 @@ function pick(list) {
     return list[Math.floor(Math.random() * list.length)];
 }
 
-function fillTemplate(template, data) {
+function addCommasToNumber(num) {
+    return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+}
+
+function fillTemplate(template, data, useCommas = false) {
     let result = template;
     
     // Handle nested table references and quantity ranges in a loop
@@ -49,7 +53,7 @@ function fillTemplate(template, data) {
         // Handle quantity ranges [[min-max]]
         result = result.replace(/\[\[(\d+)-(\d+)\]\]/g, (match, min, max) => {
             const value = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
-            return value.toLocaleString();
+            return useCommas ? addCommasToNumber(value) : value.toLocaleString();
         });
         
         // Handle pipe-separated options with double braces like {{table1}|{table2}|{table3}}
@@ -122,30 +126,47 @@ function fillTemplate(template, data) {
             }
         }
         
-        // Handle regular pipe-separated choices {"option1"|"option2"} with optional weights
+        // Handle regular pipe-separated choices {"option1"|"option2"} or {option1|option2} with optional weights
         result = result.replace(/\{([^}]+)\}/g, (match, content) => {
-            // Check if this is a pipe-separated choice with quotes
-            if (content.includes('"') && content.includes('|')) {
+            // Check if this contains pipe separator (multiple options)
+            if (content.includes('|')) {
                 // Extract weight if present
                 const weightMatch = content.match(/\s*\^(\d+)$/);
                 const weight = weightMatch ? parseInt(weightMatch[1]) : 1;
                 const cleanContent = content.replace(/\s*\^\d+$/, '');
                 
-                // Split by pipes and extract quoted options
+                // Split by pipes and handle both quoted and unquoted options
                 const options = cleanContent.split('|').map(opt => {
-                    const quoted = opt.trim().match(/^"([^"]+)"$/);
-                    return quoted ? quoted[1] : opt.trim();
+                    const trimmed = opt.trim();
+                    // Check if it's quoted
+                    const quoted = trimmed.match(/^"([^"]+)"$/);
+                    if (quoted) {
+                        return quoted[1];
+                    }
+                    // Unquoted option - could be a table name or literal value
+                    return trimmed;
                 });
                 
                 if (options.length > 1) {
                     // Create weighted array - last option gets the weight
                     const choices = [];
                     for (let i = 0; i < options.length - 1; i++) {
-                        choices.push(options[i]);
+                        const option = options[i];
+                        // Check if it's a table name in data
+                        const tableResult = data[option];
+                        if (tableResult && Array.isArray(tableResult) && tableResult.length > 0) {
+                            choices.push(pick(tableResult));
+                        } else {
+                            choices.push(option);
+                        }
                     }
                     // Add the last option with weight
+                    const lastOption = options[options.length - 1];
+                    const lastTableResult = data[lastOption];
+                    const lastResult = (lastTableResult && Array.isArray(lastTableResult) && lastTableResult.length > 0) 
+                        ? pick(lastTableResult) : lastOption;
                     for (let i = 0; i < weight; i++) {
-                        choices.push(options[options.length - 1]);
+                        choices.push(lastResult);
                     }
                     return choices[Math.floor(Math.random() * choices.length)];
                 }
@@ -165,7 +186,7 @@ function fillTemplate(template, data) {
 // Defaults to 10 returns in an ordered list.
 
 function generateContent() {
-    const parsed = parseInput(dataText);
+    const parsed = parseInput(window.dataText || dataText);
     const templates = parsed.template || [''];
     delete parsed.template;
 
@@ -183,7 +204,47 @@ function generateContent() {
     output.innerHTML = html;
 }
 
+// Treasure-specific generator function
+function generateTreasure() {
+    // Check if we have a tier selector (treasure generator)
+    const tierElement = document.getElementById('tier');
+    if (!tierElement) {
+        // Fall back to standard generation
+        generateContent();
+        return;
+    }
+    
+    const tier = tierElement.value;
+    const parsed = parseInput(window.dataText || dataText);
+    const output = document.getElementById('output');
+    
+    let result = pick(parsed[tier]);
+    
+    // Process templates until no more changes, using comma formatting for treasure
+    for (let i = 0; i < 10; i++) {
+        const newResult = fillTemplate(result, parsed, true); // true = use comma formatting
+        if (newResult === result) break;
+        result = newResult;
+    }
+    
+    // Format output as bulleted list
+    const items = result.split('<br>')
+        .map(item => item.trim())
+        .filter(item => item !== '')
+        .map(item => '- ' + item.charAt(0).toUpperCase() + item.slice(1));
+    
+    output.innerHTML = '<p>' + items.join('<br>') + '</p>';
+}
+
+// Alias for backward compatibility
+window.generate = generateTreasure;
+
 // Generate samples on page load to show functionality
 window.addEventListener('load', function() {
-    generateContent();
+    // Check if this is a treasure generator
+    if (document.getElementById('tier')) {
+        generateTreasure();
+    } else {
+        generateContent();
+    }
 });
