@@ -1,34 +1,10 @@
 <!DOCTYPE html>
 <head>
-<meta name="viewport" content="user-scalable=yes, width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<link rel="stylesheet" href="../css_js/5eadb.css">
 <style>
-body {
-    max-width: 700px;
-    margin: auto;
-    font-size: 18px;
-    font-family: sans-serif;
-    padding: 10px;
-}
-p, li {
-    line-height: 1.5em;
-}
-ul, ol {
-    padding-left: 20px;
-    margin-left: 0;
-}
-li {
-    margin-left: 0;
-}
-table {
-    border-collapse: collapse;
-}
-th, td {
-    border: 1px solid black;
-    padding: 5px;
-    text-align: left;
-}
 
 /* Search-specific styles */
 .search-container {
@@ -47,6 +23,29 @@ th, td {
 .search-input:focus {
     border-color: #888;
     outline: none;
+}
+
+.search-buttons {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.search-buttons button {
+    background-color: #f8f9fa;
+    color: #3c4043;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.search-buttons button:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f1f3f4;
+    border: 1px solid #dadce0;
+    color: #202124;
 }
 
 .search-results {
@@ -330,6 +329,10 @@ th, td {
 
 <div class="search-container">
     <input type="text" id="searchInput" class="search-input" placeholder="Search rules, spells, monsters, and more..." autocomplete="off">
+    <div class="search-buttons">
+        <button type="button" id="searchButton" onclick="performManualSearch()">Search</button>
+        <button type="button" id="luckyButton" onclick="performLuckySearch()">I'm Feeling Lucky</button>
+    </div>
 </div>
 
 <div class="filter-container">
@@ -423,12 +426,92 @@ class SearchEngine {
     handleUrlQuery() {
         const urlParams = new URLSearchParams(window.location.search);
         const query = urlParams.get('q');
+        const sources = urlParams.get('sources');
+        const lucky = urlParams.get('lucky') || urlParams.get('btnI'); // Support both 'lucky' and Google's 'btnI'
         
+        // Handle query parameter
         if (query) {
             const searchInput = document.getElementById('searchInput');
             searchInput.value = query;
+        }
+        
+        // Handle sources parameter
+        if (sources) {
+            this.applySourceFiltersFromUrl(sources);
+        }
+        
+        // Handle lucky search parameter
+        if (lucky && query) {
+            // Perform lucky search automatically
+            setTimeout(() => {
+                const firstResult = this.performLuckySearch(query);
+                if (firstResult && firstResult.url) {
+                    window.location.href = firstResult.url;
+                } else {
+                    // Fall back to regular search if no lucky result
+                    this.performSearch(query);
+                }
+            }, 100); // Small delay to ensure filters are applied
+        } else if (query) {
+            // Perform regular search if we have a query but no lucky parameter
             this.performSearch(query);
         }
+    }
+    
+    applySourceFiltersFromUrl(sourcesParam) {
+        // First, uncheck all checkboxes
+        const allCheckboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
+        allCheckboxes.forEach(checkbox => checkbox.checked = false);
+        
+        // Parse sources parameter: "ruleset:5.1 SRD,monsters:Monsters,spells:5.1 SRD"
+        const sourceEntries = sourcesParam.split(',');
+        
+        sourceEntries.forEach(entry => {
+            const [type, source] = entry.split(':');
+            if (type && source) {
+                const decodedSource = decodeURIComponent(source);
+                const checkbox = document.querySelector(`#sourceFilters input[data-type="${type}"][data-source="${decodedSource}"]`);
+                if (checkbox) {
+                    checkbox.checked = true;
+                }
+            }
+        });
+        
+        // Update master checkboxes
+        this.updateAllMasterCheckboxes();
+    }
+    
+    encodeSourceFiltersToUrl() {
+        const selectedSources = this.getSelectedSources();
+        if (selectedSources.length === 0) return '';
+        
+        return selectedSources
+            .map(filter => `${filter.type}:${encodeURIComponent(filter.source)}`)
+            .join(',');
+    }
+    
+    updateUrlParameters(query = null) {
+        const url = new URL(window.location);
+        
+        // Update query parameter
+        if (query !== null) {
+            if (query.trim()) {
+                url.searchParams.set('q', query.trim());
+            } else {
+                url.searchParams.delete('q');
+            }
+        }
+        
+        // Update sources parameter
+        const sourcesParam = this.encodeSourceFiltersToUrl();
+        if (sourcesParam) {
+            url.searchParams.set('sources', sourcesParam);
+        } else {
+            url.searchParams.delete('sources');
+        }
+        
+        // Update browser history without reload
+        window.history.replaceState({}, '', url);
     }
 
     setupSourceFilters() {
@@ -509,6 +592,7 @@ class SearchEngine {
                 checkbox.addEventListener('change', () => {
                     this.updateMasterCheckbox('rulesets');
                     this.performSearch(document.getElementById('searchInput').value.trim());
+                    this.updateUrlParameters();
                 });
             });
             
@@ -582,6 +666,7 @@ class SearchEngine {
                     checkbox.addEventListener('change', () => {
                         this.updateMasterCheckbox(dbType);
                         this.performSearch(document.getElementById('searchInput').value.trim());
+                        this.updateUrlParameters();
                     });
                 });
                 
@@ -615,6 +700,7 @@ class SearchEngine {
         });
         
         this.performSearch(document.getElementById('searchInput').value.trim());
+        this.updateUrlParameters();
     }
 
     updateMasterCheckbox(sectionType) {
@@ -633,6 +719,17 @@ class SearchEngine {
             masterCheckbox.indeterminate = true;
         }
     }
+    
+    updateAllMasterCheckboxes() {
+        // Update master checkboxes for all sections
+        const sections = ['rulesets', 'monsters', 'spells', 'magic_items'];
+        sections.forEach(section => {
+            const masterCheckbox = document.getElementById(`master-${section}`);
+            if (masterCheckbox) {
+                this.updateMasterCheckbox(section);
+            }
+        });
+    }
 
     getSelectedSources() {
         const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]:checked');
@@ -649,14 +746,18 @@ class SearchEngine {
         searchInput.addEventListener('input', (e) => {
             clearTimeout(searchTimeout);
             searchTimeout = setTimeout(() => {
-                this.performSearch(e.target.value.trim());
+                const query = e.target.value.trim();
+                this.performSearch(query);
+                this.updateUrlParameters(query);
             }, 300);
         });
 
         searchInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
                 clearTimeout(searchTimeout);
-                this.performSearch(e.target.value.trim());
+                const query = e.target.value.trim();
+                this.performSearch(query);
+                this.updateUrlParameters(query);
             }
         });
     }
@@ -777,10 +878,51 @@ class SearchEngine {
     escapeRegExp(string) {
         return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     }
+
+    performLuckySearch(query) {
+        if (!query) {
+            return null;
+        }
+
+        if (!this.isIndexReady) {
+            console.log('Search index not ready for lucky search');
+            return null;
+        }
+
+        try {
+            const results = this.index.search(query);
+            
+            // Filter results by selected sources
+            const selectedFilters = this.getSelectedSources();
+            const filteredResults = results.filter(result => {
+                const doc = this.documents.find(d => d.id == result.ref);
+                if (!doc) return false;
+                
+                return selectedFilters.some(filter => {
+                    if (filter.type === 'ruleset') {
+                        return doc.type === 'ruleset' && doc.source === filter.source;
+                    } else {
+                        return doc.type === filter.type && doc.category === filter.source;
+                    }
+                });
+            });
+            
+            if (filteredResults.length > 0) {
+                const firstResult = filteredResults[0];
+                const doc = this.documents.find(d => d.id == firstResult.ref);
+                return doc;
+            }
+            
+            return null;
+        } catch (error) {
+            console.error('Lucky search error:', error);
+            return null;
+        }
+    }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    new SearchEngine();
+    window.searchEngine = new SearchEngine();
 });
 
 // Global functions for filter buttons
@@ -789,6 +931,9 @@ function selectAllSources() {
     checkboxes.forEach(checkbox => {
         checkbox.checked = true;
     });
+    // Update master checkboxes and URL
+    window.searchEngine.updateAllMasterCheckboxes();
+    window.searchEngine.updateUrlParameters();
     // Trigger search update
     const searchInput = document.getElementById('searchInput');
     if (searchInput.value.trim()) {
@@ -801,10 +946,50 @@ function deselectAllSources() {
     checkboxes.forEach(checkbox => {
         checkbox.checked = false;
     });
+    // Update master checkboxes and URL
+    window.searchEngine.updateAllMasterCheckboxes();
+    window.searchEngine.updateUrlParameters();
     // Trigger search update
     const searchInput = document.getElementById('searchInput');
     if (searchInput.value.trim()) {
         window.searchEngine.performSearch(searchInput.value.trim());
+    }
+}
+
+function performManualSearch() {
+    const searchInput = document.getElementById('searchInput');
+    const query = searchInput.value.trim();
+    
+    if (!query) {
+        alert('Please enter a search term first!');
+        searchInput.focus();
+        return;
+    }
+    
+    // Perform regular search and update URL
+    window.searchEngine.performSearch(query);
+    window.searchEngine.updateUrlParameters(query);
+}
+
+function performLuckySearch() {
+    const searchInput = document.getElementById('searchInput');
+    const query = searchInput.value.trim();
+    
+    if (!query) {
+        alert('Please enter a search term first!');
+        searchInput.focus();
+        return;
+    }
+    
+    const firstResult = window.searchEngine.performLuckySearch(query);
+    
+    if (firstResult && firstResult.url) {
+        // Update URL parameters before navigating
+        window.searchEngine.updateUrlParameters(query);
+        // Navigate to the first result
+        window.open(firstResult.url, '_blank');
+    } else {
+        alert('No results found for your search. Try adjusting your filters or search terms.');
     }
 }
 
