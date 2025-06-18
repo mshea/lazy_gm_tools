@@ -1,3 +1,4 @@
+./css_js/5eadb.css
 ./css_js/jquery-3.6.0.min.js
 ./css_js/jquery.dataTables.css
 ./css_js/jquery.dataTables.js

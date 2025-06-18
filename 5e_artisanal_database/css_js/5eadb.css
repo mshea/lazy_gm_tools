@@ -1,0 +1,80 @@
+/* 5e Artisanal Database Shared Styles */
+
+body {
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+p, li {
+    line-height: 1.5em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
+button, select {
+    font-size: 18px;
+    min-height: 44px;
+    padding: 12px 16px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+    touch-action: manipulation;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+button:hover {
+    background-color: #e9e9e9;
+}
+
+/* Main page search styles */
+.main-search-container {
+    margin: 20px 0;
+    padding: 0;
+}
+
+.main-search-input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.main-search-input:focus {
+    border-color: #888;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(136, 136, 136, 0.2);
+}
+
+.search-button {
+    width: 100%;
+    background-color: #666;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.search-button:hover {
+    background-color: #555;
+}
