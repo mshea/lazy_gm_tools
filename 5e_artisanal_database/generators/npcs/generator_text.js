@@ -3,15 +3,16 @@ template
   <strong>{name} {surname_first}{surname_last}</strong>. A {personality} {species} {npc_type} with {trait} who dresses {dress} and wants to {goal}. They want the characters to {quest}.
 
 species
-  human
-  elf
-  dwarf
-  halfling
-  gnome
-  dragonborn
-  orc
-  goblin
-  kobold
+  human ^10
+  elf ^5
+  dwarf ^5
+  halfling ^5
+  gnome ^2
+  dragonborn ^2
+  orc ^2
+  goblin ^2
+  kobold ^2
+  tiefling ^2
   infernal
   birdfolk
   celestial
