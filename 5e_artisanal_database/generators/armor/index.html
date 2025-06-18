@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<meta name="viewport" content="user-scalable=yes, width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
 <style>
@@ -38,6 +38,10 @@ button, select {
     border-radius: 4px;
     background-color: #f9f9f9;
     cursor: pointer;
+    touch-action: manipulation;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 button:hover {
     background-color: #e9e9e9;
