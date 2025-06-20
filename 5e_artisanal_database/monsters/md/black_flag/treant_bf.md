@@ -4,15 +4,15 @@
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 185 
-- **Speed:** walk 30 ft.- **Perception**: 17
-- **Stealth**: 9
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +6 | -1 | +9 | +1 | +7 | +1 |
+| 22 (+6) | 8 (-1) | 28 (+9) | 12 (+1) | 24 (+7) | 12 (+1) |
 
+- **Saving Throws**: Str +6, Dex +-1, Con +9, Int +1, Wis +7, Cha +1
 - **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning,piercing,Plant Resilience
 - **Senses:** tremorsense 30 ft.
@@ -35,10 +35,3 @@
 ### Bonus Actions
 
 - **Halt Intruders:** The treant calls to the roots beneath up to two creatures it can see within 30 feet of it. Each target must succeed on a DC 17 STR save or be restrained by roots until the end of its next turn. The treant can target only creatures in contact with the ground and can't target creatures in contact with a manufactured floor, such as the wooden floor of a building.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

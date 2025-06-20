@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14
 - **Hit Points:** 121 
-- **Speed:** walk 50 ft. fly 50 ft. hover True ft.- **Perception**: 18
-- **Stealth**: 14
+- **Speed:** walk 50 ft. fly 50 ft. hover True ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +4 | +2 | +0 | +5 | +0 |
+| 16 (+3) | 18 (+4) | 14 (+2) | 10 (+0) | 20 (+5) | 10 (+0) |
 
+- **Saving Throws**: Str +3, Dex +4, Con +2, Int +0, Wis +5, Cha +0
 - **Damage Immunities:** Elemental Resilience
 - **Damage Resistances:** Elemental Resilience
 - **Senses:** darkvision 60 ft.
@@ -33,10 +33,3 @@
 ### Bonus Actions
 
 - **Steal Breath:** The invisible stalker calls on the air in the lungs of one breathing creature it can see within 30 feet of it, causing the air to leave the creature. The target must succeed on a DC 15 CON save or be unable to speak or cast spells with verbal components until the end of its next turn. A creature that fails the save by 5 or more is also incapacitated and suffocating for the duration, as it coughs uncontrollably.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

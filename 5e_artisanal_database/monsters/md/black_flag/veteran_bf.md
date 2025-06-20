@@ -4,15 +4,15 @@
 
 - **Armor Class:** 16 (breastplate)
 - **Hit Points:** 68 
-- **Speed:** walk 30 ft.- **Perception**: 12
-- **Stealth**: 14
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | +2 | +2 | +0 | +0 | +0 |
+| 20 (+5) | 14 (+2) | 14 (+2) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Saving Throws**: Str +5, Dex +2, Con +2, Int +0, Wis +0, Cha +0
 - **Senses:** -
 - **Languages:** Common plus any one language
 
@@ -30,10 +30,3 @@
 ### Reactions
 
 - **Parry:** The veteran adds 2 to its AC against one melee attack that would hit it. To do so, the veteran must see the attacker and be wielding a melee weapon.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

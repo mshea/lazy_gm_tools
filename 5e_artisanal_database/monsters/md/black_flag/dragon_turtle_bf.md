@@ -4,15 +4,15 @@
 
 - **Armor Class:** 20 (natural armor)
 - **Hit Points:** 318 
-- **Speed:** walk 20 ft. swim 40 ft.- **Perception**: 17
-- **Stealth**: 16
+- **Speed:** walk 20 ft. swim 40 ft.
 - **Challenge Rating:** 17 (18,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +7 | +6 | +11 | +0 | +7 | +1 |
+| 24 (+7) | 22 (+6) | 32 (+11) | 10 (+0) | 24 (+7) | 12 (+1) |
 
+- **Saving Throws**: Str +7, Dex +6, Con +11, Int +0, Wis +7, Cha +1
 - **Damage Resistances:** fire
 - **Senses:** darkvision 120 ft.
 - **Languages:** Aquan,Common,Draconic
@@ -33,10 +33,3 @@
 ### Reactions
 
 - **Siege Follow-Through:** If the dragon turtle destroys an object or structure with an attack, it can make a Bite or Tail attack against a creature it can see within 5 feet of that object or structure.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

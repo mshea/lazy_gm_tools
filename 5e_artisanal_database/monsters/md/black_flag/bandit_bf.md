@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12 (leather armor)
 - **Hit Points:** 9 
-- **Speed:** walk 30 ft.- **Perception**: 10
-- **Stealth**: 13
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +1 | +1 | +0 | +0 | +0 |
+| 10 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Saving Throws**: Str +0, Dex +1, Con +1, Int +0, Wis +0, Cha +0
 - **Senses:** -
 - **Languages:** any one language (usually Common)
 
@@ -28,10 +28,3 @@
 ### Bonus Actions
 
 - **Steal Item:** The bandit steals an object from one creature it can see within 5 feet of it. The target must succeed on a DC 11 DEX save or lose one object it is wearing or carrying of the bandit's choice. The object must weigh no more than 10 pounds, can't be a weapon, and can't be wrapped around or firmly attached to the target, such as a shirt or armor.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

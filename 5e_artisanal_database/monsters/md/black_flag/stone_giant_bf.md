@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 156 
-- **Speed:** walk 40 ft.- **Perception**: 14
-- **Stealth**: 15
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 7 (2,900 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +6 | +5 | +8 | +0 | +4 | -1 |
+| 22 (+6) | 20 (+5) | 26 (+8) | 10 (+0) | 18 (+4) | 8 (-1) |
 
+- **Saving Throws**: Str +6, Dex +5, Con +8, Int +0, Wis +4, Cha +-1
 - **Damage Vulnerabilities:** thunder,Giant Attributes
 - **Damage Resistances:** lightning,petrified,Giant Attributes
 - **Senses:** darkvision 60 ft.
@@ -36,10 +36,3 @@
 ### Reactions
 
 - **Missile Deflection:** If a creature the giant can see makes a ranged weapon attack against the giant, the giant can add 3 to its AC. If the attack misses, the giant can catch the missile, provided the attack included a projectile, and throw it back at the attacker, using the giant's normal ranged weapon attack bonus and the weapon's normal damage.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

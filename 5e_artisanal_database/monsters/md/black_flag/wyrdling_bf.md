@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 40 
-- **Speed:** walk 30 ft.- **Perception**: 13
-- **Stealth**: 12
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +2 | +1 | +1 | +5 | +2 |
+| 10 (+0) | 14 (+2) | 12 (+1) | 12 (+1) | 20 (+5) | 14 (+2) |
 
+- **Saving Throws**: Str +0, Dex +2, Con +1, Int +1, Wis +5, Cha +2
 - **Damage Resistances:** psychic,charmed,frightened
 - **Senses:** -
 - **Languages:** Common
@@ -33,10 +33,3 @@
 ### Reactions
 
 - **Call on Fate:** When the wyrdling is attacked by a creature it can see, it can pluck the strands of fate around the creature, imposing disadvantage on that attack roll. If the attack misses, the wyrdling or one friendly creature it can see within 30 feet of it has advantage on the next attack roll it makes against the attacker before the end of the wyrdling's next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 14 
-- **Speed:** walk 30 ft. climb 30 ft.- **Perception**: 10
-- **Stealth**: 12
+- **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -3 | +2 | +1 | -5 | -2 | -4 |
+| 4 (-3) | 14 (+2) | 12 (+1) | 1 (-5) | 6 (-2) | 2 (-4) |
 
+- **Saving Throws**: Str +-3, Dex +2, Con +1, Int +-5, Wis +-2, Cha +-4
 - **Damage Resistances:** prone
 - **Senses:** keensense 30 ft.
 - **Languages:** -
@@ -24,10 +24,3 @@
 ### Bonus Actions
 
 - **Swift Hunter:** The centipede moves up to its speed toward a hostile creature that it can see.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

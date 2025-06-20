@@ -6,7 +6,7 @@
 - **Hit Points:** 90 (20d8)
 - **Speed:** walk 40 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** A5e Monstrous Menagerie,
+- **Source:** A5e Monstrous Menagerie
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

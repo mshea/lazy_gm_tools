@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 148 
-- **Speed:** walk 40 ft. fly 80 ft. swim 40 ft.- **Perception**: 17
-- **Stealth**: 13
+- **Speed:** walk 40 ft. fly 80 ft. swim 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | +3 | +7 | +2 | +4 | +6 |
+| 20 (+5) | 16 (+3) | 24 (+7) | 14 (+2) | 18 (+4) | 22 (+6) |
 
+- **Saving Throws**: Str +5, Dex +3, Con +7, Int +2, Wis +4, Cha +6
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 120 ft., keensense 30 ft.
 - **Languages:** Common,Draconic
@@ -33,10 +33,3 @@
 ### Bonus Actions
 
 - **Change Shape:** The dragon magically transforms into a Beast or Humanoid that has a challenge rating no higher than its own, or back into its true form, which is Dragon. Any equipment it is wearing or carrying transforms with it or is borne by the new form (the dragon's choice). It reverts to its true form if it dies. In a new form, the dragon retains its HP, ability to speak, proficiencies, and INT, WIS, and CHA scores, as well as this bonus action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

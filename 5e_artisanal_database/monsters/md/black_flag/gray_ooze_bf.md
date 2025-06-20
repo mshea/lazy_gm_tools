@@ -4,15 +4,15 @@
 
 - **Armor Class:** 8
 - **Hit Points:** 29 
-- **Speed:** walk 15 ft. climb 15 ft.- **Perception**: 8
-- **Stealth**: 12
+- **Speed:** walk 15 ft. climb 15 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +1 | -2 | +3 | -5 | -2 | -4 |
+| 12 (+1) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 2 (-4) |
 
+- **Saving Throws**: Str +1, Dex +-2, Con +3, Int +-5, Wis +-2, Cha +-4
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** Ooze Resilience
 - **Damage Resistances:** acid,fire,Ooze Resilience
@@ -35,10 +35,3 @@
 ### Reactions
 
 - **Solidify:** When the ooze is hit by an attack, it can partially solidify its body, reducing the damage it takes by 2 (1d4). If it has taken fire damage since the start of its last turn, the damage it takes is reduced by 3 (1d6) instead. The ooze can't use this reaction if it has taken cold damage since the start of its last turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

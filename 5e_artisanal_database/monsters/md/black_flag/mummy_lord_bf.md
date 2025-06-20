@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 270 
-- **Speed:** walk 20 ft.- **Perception**: 19
-- **Stealth**: 10
+- **Speed:** walk 20 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +0 | +8 | +5 | +9 | +8 |
+| 18 (+4) | 10 (+0) | 26 (+8) | 20 (+5) | 28 (+9) | 26 (+8) |
 
+- **Saving Throws**: Str +4, Dex +0, Con +8, Int +5, Wis +9, Cha +8
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** necrotic; bludgeoning,piercing,and slashing damage from nonmagical attacks,charmed,frightened,paralyzed,Undead Resilience
 - **Senses:** darkvision 60 ft.
@@ -49,10 +49,3 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Sandy Teleport:** The mummy lord transforms into loose sand and teleports up to 60 feet to an unoccupied space it can see, reforming in that space. Any equipment it is wearing or carrying transforms with it.
 - **Call Servitors (Costs 2 Actions):** The mummy lord uses Undead Servitors.
 - **Unleash Divine Energy (Costs 2 Actions):** The mummy lord unleashes a wave of divine energy. Each creature within 10 feet of it must make a DC 17 CON save. On a failure, a creature takes 14 (4d6) necrotic damage or radiant damage (the mummy lord's choice) and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn't stunned.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

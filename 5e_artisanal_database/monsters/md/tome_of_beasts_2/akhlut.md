@@ -6,7 +6,7 @@
 - **Hit Points:** 120 (16d10+32)
 - **Speed:** walk 40 ft. swim 60 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** Tome of Beasts 2, page 0
+- **Source:** Tome of Beasts 2
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

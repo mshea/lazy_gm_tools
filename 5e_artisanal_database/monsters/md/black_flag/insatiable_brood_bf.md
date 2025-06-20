@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13
 - **Hit Points:** 63 
-- **Speed:** walk 0 ft. fly 50 ft.- **Perception**: 11
-- **Stealth**: 15
+- **Speed:** walk 0 ft. fly 50 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +5 | +1 | -3 | +1 | -2 |
+| 10 (+0) | 20 (+5) | 12 (+1) | 4 (-3) | 12 (+1) | 6 (-2) |
 
+- **Saving Throws**: Str +0, Dex +5, Con +1, Int +-3, Wis +1, Cha +-2
 - **Damage Immunities:** Swarm Resilience
 - **Damage Resistances:** cold,Swarm Resilience
 - **Senses:** darkvision 60 ft.
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Void Gaze:** The insatiable brood turns all its individual heads in one direction, and its hundreds of Void-filled eyes stare at one creature the brood can see within 30 feet of it. The target must succeed on a DC 13 WIS save or be frightened until the end of its next turn. If the target fails the save by 5 or more, it suffers a random, short-term dread effect for 1 minute.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

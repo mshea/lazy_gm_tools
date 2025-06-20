@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (natural armor, shield)
 - **Hit Points:** 22 
-- **Speed:** walk 30 ft. climb 15 ft. swim 30 ft.- **Perception**: 13
-- **Stealth**: 14
+- **Speed:** walk 30 ft. climb 15 ft. swim 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +0 | +1 | -2 | +3 | -2 |
+| 14 (+2) | 10 (+0) | 12 (+1) | 6 (-2) | 16 (+3) | 6 (-2) |
 
+- **Saving Throws**: Str +2, Dex +0, Con +1, Int +-2, Wis +3, Cha +-2
 - **Senses:** -
 - **Languages:** Draconic
 
@@ -31,10 +31,3 @@
 ### Reactions
 
 - **Shoving Counter:** If a creature misses the lizardfolk with an attack and the lizardfolk is wielding a shield, the lizardfolk can shove its shield into the creature. The attacker must succeed on a DC 12 STR save or be pushed up to 10 feet away from the lizardfolk and knocked prone.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

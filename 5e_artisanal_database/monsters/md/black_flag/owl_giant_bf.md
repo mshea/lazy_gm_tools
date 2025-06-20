@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 15 
-- **Speed:** walk 5 ft. fly 60 ft.- **Perception**: 15
-- **Stealth**: 13
+- **Speed:** walk 5 ft. fly 60 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +1 | +2 | +1 | -1 | +1 | +0 |
+| 12 (+1) | 14 (+2) | 12 (+1) | 8 (-1) | 12 (+1) | 10 (+0) |
 
+- **Saving Throws**: Str +1, Dex +2, Con +1, Int +-1, Wis +1, Cha +0
 - **Senses:** darkvision 120 ft.
 - **Languages:** Giant Owl,understands Common,Elvish,and Sylvan but can't speak them
 
@@ -29,10 +29,3 @@
 ### Reactions
 
 - **Puffed Up Display:** When a creature the owl is aware of and that is within 30 feet of it attacks it, the owl can suddenly turn its piercing gaze on the creature, puff up its feathers, and release a quick hiss, startling the creature. The attacker has disadvantage on the attack roll.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 17 
-- **Speed:** walk 40 ft. climb 20 ft.- **Perception**: 10
-- **Stealth**: 14
+- **Speed:** walk 40 ft. climb 20 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -2 | +4 | +1 | -2 | +0 | -1 |
+| 6 (-2) | 18 (+4) | 12 (+1) | 6 (-2) | 10 (+0) | 8 (-1) |
 
+- **Saving Throws**: Str +-2, Dex +4, Con +1, Int +-2, Wis +0, Cha +-1
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic,frightened,grappled,paralyzed,petrified,prone,restrained,Undead Resilience
 - **Damage Resistances:** acid,cold,fire,lightning,thunder; bludgeoning,piercing,and slashing damage from nonmagical attacks
@@ -35,10 +35,3 @@
 
 - **Shadow Bond:** One creature the shadow can see within 5 feet of it must succeed on a DC 12 WIS save or the shadow bonds with the target's shadow for 1 minute. While bonded with the target's shadow, the shadow can use this bonus action to teleport to an unoccupied space within 5 feet of that creature, provided the creature is within 120 feet of the shadow.
 - **Shadow Stealth:** The shadow takes the Hide action. It can use this bonus action only while in dim light or darkness.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

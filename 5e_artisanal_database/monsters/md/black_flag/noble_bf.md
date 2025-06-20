@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (Impenetrable Ego)
 - **Hit Points:** 7 
-- **Speed:** walk 30 ft.- **Perception**: 12
-- **Stealth**: 11
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +1 | +0 | +1 | +2 | +5 |
+| 10 (+0) | 12 (+1) | 10 (+0) | 12 (+1) | 14 (+2) | 20 (+5) |
 
+- **Saving Throws**: Str +0, Dex +1, Con +0, Int +1, Wis +2, Cha +5
 - **Damage Resistances:** Impenetrable Ego
 - **Senses:** -
 - **Languages:** any two languages
@@ -28,10 +28,3 @@
 ### Reactions
 
 - **Parry:** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

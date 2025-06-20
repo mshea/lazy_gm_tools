@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 14 
-- **Speed:** walk 0 ft. fly 30 ft.- **Perception**: 11
-- **Stealth**: 14
+- **Speed:** walk 0 ft. fly 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -3 | +2 | +0 | -4 | +1 | -3 |
+| 4 (-3) | 14 (+2) | 10 (+0) | 2 (-4) | 12 (+1) | 4 (-3) |
 
+- **Saving Throws**: Str +-3, Dex +2, Con +0, Int +-4, Wis +1, Cha +-3
 - **Damage Vulnerabilities:** deafened
 - **Damage Immunities:** Swarm Resilience
 - **Damage Resistances:** blinded,Swarm Resilience
@@ -30,10 +30,3 @@
 ### Actions
 
 - **Bites:** _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its HP or fewer.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

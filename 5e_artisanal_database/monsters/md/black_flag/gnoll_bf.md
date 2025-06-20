@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (hide armor, shield)
 - **Hit Points:** 22 
-- **Speed:** walk 30 ft.- **Perception**: 10
-- **Stealth**: 13
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +1 | +0 | -2 | +0 | -2 |
+| 14 (+2) | 12 (+1) | 10 (+0) | 6 (-2) | 10 (+0) | 6 (-2) |
 
+- **Saving Throws**: Str +2, Dex +1, Con +0, Int +-2, Wis +0, Cha +-2
 - **Senses:** darkvision 60 ft.
 - **Languages:** Gnoll
 
@@ -32,10 +32,3 @@
 ### Reactions
 
 - **Rampage:** When the gnoll reduces a creature to 0 HP, it can move up to half its speed and make one Bite attack. If it does, attack rolls against it have advantage until the start of its next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 216 
-- **Speed:** walk 30 ft. burrow 20 ft.- **Perception**: 10
-- **Stealth**: 15
+- **Speed:** walk 30 ft. burrow 20 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +11 | +1 | +9 | -3 | +0 | -3 |
+| 32 (+11) | 12 (+1) | 28 (+9) | 4 (-3) | 10 (+0) | 4 (-3) |
 
+- **Saving Throws**: Str +11, Dex +1, Con +9, Int +-3, Wis +0, Cha +-3
 - **Damage Immunities:** cold,fire
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.
@@ -31,10 +31,3 @@
 ### Bonus Actions
 
 - **Vent Heat (119 HP or Fewer):** As the remorhaz's life force ebbs, its body generates more heat to protect itself. It can open valves in its carapace to vent this excess heat. Each creature within 5 feet of the remorhaz must succeed on a DC 17 CON save or suffer one level of exhaustion.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

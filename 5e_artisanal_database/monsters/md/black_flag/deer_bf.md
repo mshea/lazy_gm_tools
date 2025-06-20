@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13
 - **Hit Points:** 8 
-- **Speed:** walk 50 ft.- **Perception**: 12
-- **Stealth**: 13
+- **Speed:** walk 50 ft.
 - **Challenge Rating:** 0 (25 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +3 | +0 | -4 | +2 | -3 |
+| 10 (+0) | 16 (+3) | 10 (+0) | 2 (-4) | 14 (+2) | 4 (-3) |
 
+- **Saving Throws**: Str +0, Dex +3, Con +0, Int +-4, Wis +2, Cha +-3
 - **Damage Vulnerabilities:** frightened
 - **Senses:** -
 - **Languages:** -
@@ -24,10 +24,3 @@
 ### Bonus Actions
 
 - **Skittish:** The deer takes the Dash or Disengage action.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

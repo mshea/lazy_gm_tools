@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 217 
-- **Speed:** walk 40 ft.- **Perception**: 18
-- **Stealth**: 15
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 16 (15,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +9 | +5 | +10 | +4 | +8 | +10 |
+| 28 (+9) | 20 (+5) | 30 (+10) | 18 (+4) | 26 (+8) | 30 (+10) |
 
+- **Saving Throws**: Str +9, Dex +5, Con +10, Int +4, Wis +8, Cha +10
 - **Damage Immunities:** Demonic Resilience
 - **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks,Demonic Resilience
 - **Senses:** truesight 120 ft.
@@ -41,10 +41,3 @@
 ### Reactions
 
 - **Parry:** The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

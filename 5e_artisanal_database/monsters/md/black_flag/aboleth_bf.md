@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 165 
-- **Speed:** walk 10 ft. swim 40 ft.- **Perception**: 20
-- **Stealth**: 9
+- **Speed:** walk 10 ft. swim 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | -1 | +6 | +8 | +6 | +4 |
+| 20 (+5) | 8 (-1) | 22 (+6) | 26 (+8) | 22 (+6) | 18 (+4) |
 
+- **Saving Throws**: Str +5, Dex +-1, Con +6, Int +8, Wis +6, Cha +4
 - **Damage Immunities:** psychic
 - **Damage Resistances:** acid,Aberrant Resilience
 - **Senses:** darkvision 120 ft.
@@ -41,10 +41,3 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 - **Detect:** The aboleth automatically detects every creature and trap within 60 feet of it, pinpointing the current location of each.
 - **Swim:** The aboleth swims up to half its speed without provoking opportunity attacks.
 - **Slime Drain (Costs 2 Actions):** One creature infected with _slime pox_ within 30 feet of the aboleth takes 10 (3d6) acid damage, and the aboleth regains HP equal to the damage the creature takes.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

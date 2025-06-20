@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 63 
-- **Speed:** walk 50 ft.- **Perception**: 13
-- **Stealth**: 12
+- **Speed:** walk 50 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +2 | +2 | -1 | +3 | +0 |
+| 18 (+4) | 14 (+2) | 14 (+2) | 8 (-1) | 16 (+3) | 10 (+0) |
 
+- **Saving Throws**: Str +4, Dex +2, Con +2, Int +-1, Wis +3, Cha +0
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** -
 - **Languages:** Elvish,Sylvan
@@ -32,10 +32,3 @@
 ### Reactions
 
 - **Defensive Kick:** When a creature the centaur can see within 5 feet of it hits it with an attack, the centaur can kick the attacker. The attacker must succeed on a DC 14 STR save or be knocked prone or pushed up to 5 feet away from the centaur (the centaur's choice).
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

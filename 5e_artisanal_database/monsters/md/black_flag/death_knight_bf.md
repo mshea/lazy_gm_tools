@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (plate)
 - **Hit Points:** 140 
-- **Speed:** walk 30 ft.- **Perception**: 15
-- **Stealth**: 10
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +0 | +3 | +1 | +5 | +4 |
+| 18 (+4) | 10 (+0) | 16 (+3) | 12 (+1) | 20 (+5) | 18 (+4) |
 
+- **Saving Throws**: Str +4, Dex +0, Con +3, Int +1, Wis +5, Cha +4
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic,frightened,Undead Resilience
 - **Senses:** darkvision 90 ft.
@@ -39,10 +39,3 @@
 
 - **Parry:** The death knight adds 3 to its AC against one melee attack that would hit it. To do so, the death knight must see the attacker and be wielding a melee weapon.
 - **Soul Drain:** When the death knight reduces a Humanoid to 0 HP, it can absorb the creature's soul. The target must succeed on a DC 15 WIS save or immediately die, its soul becoming trapped in the death knight's sword. The death knight has advantage on attack rolls for 1 minute after absorbing a soul.<br>The creature can't be restored to life until the death knight is permanently destroyed.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

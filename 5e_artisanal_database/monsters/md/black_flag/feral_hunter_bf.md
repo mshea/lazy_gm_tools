@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (leather armor)
 - **Hit Points:** 83 
-- **Speed:** walk 30 ft.- **Perception**: 14
-- **Stealth**: 15
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +3 | +0 | +0 | +2 | +1 |
+| 10 (+0) | 16 (+3) | 10 (+0) | 10 (+0) | 14 (+2) | 12 (+1) |
 
+- **Saving Throws**: Str +0, Dex +3, Con +0, Int +0, Wis +2, Cha +1
 - **Damage Vulnerabilities:** necrotic
 - **Damage Resistances:** frightened,Fey Resilience
 - **Senses:** darkvision 60 ft.
@@ -38,10 +38,3 @@
 ### Reactions
 
 - **Reposition:** When the feral hunter takes damage, it can move up to 10 feet without provoking opportunity attacks.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

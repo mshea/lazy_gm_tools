@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 175 
-- **Speed:** walk 40 ft. fly 60 ft.- **Perception**: 17
-- **Stealth**: 10
+- **Speed:** walk 40 ft. fly 60 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +8 | +0 | +10 | +1 | +7 | +8 |
+| 26 (+8) | 10 (+0) | 30 (+10) | 12 (+1) | 24 (+7) | 26 (+8) |
 
+- **Saving Throws**: Str +8, Dex +0, Con +10, Int +1, Wis +7, Cha +8
 - **Damage Vulnerabilities:** Giant Attributes
 - **Damage Resistances:** cold,Giant Attributes
 - **Senses:** -
@@ -38,10 +38,3 @@
 ### Reactions
 
 - **Cirrus Deflection:** The cloud giant creates a bit of hardened cloud between it and an attacker, increasing the giant's AC by 4. To do so, it must be able to see the attacker.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

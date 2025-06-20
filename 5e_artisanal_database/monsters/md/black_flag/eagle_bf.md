@@ -4,15 +4,15 @@
 
 - **Armor Class:** 11
 - **Hit Points:** 8 
-- **Speed:** walk 10 ft. fly 60 ft.- **Perception**: 14
-- **Stealth**: 11
+- **Speed:** walk 10 ft. fly 60 ft.
 - **Challenge Rating:** 0 (25 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -2 | +1 | +0 | -4 | +2 | -2 |
+| 6 (-2) | 12 (+1) | 10 (+0) | 2 (-4) | 14 (+2) | 6 (-2) |
 
+- **Saving Throws**: Str +-2, Dex +1, Con +0, Int +-4, Wis +2, Cha +-2
 - **Damage Vulnerabilities:** blinded
 - **Senses:** -
 - **Languages:** -
@@ -25,10 +25,3 @@
 ### Actions
 
 - **Talons:** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4+1) slashing damage.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

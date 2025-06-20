@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 88 
-- **Speed:** walk 20 ft. climb 20 ft.- **Perception**: 10
-- **Stealth**: 12
+- **Speed:** walk 20 ft. climb 20 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +2 | -1 | +0 | +2 |
+| 16 (+3) | 14 (+2) | 14 (+2) | 8 (-1) | 10 (+0) | 14 (+2) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +2, Int +-1, Wis +0, Cha +2
 - **Damage Immunities:** charmed,frightened,Demonic Resilience
 - **Damage Resistances:** Demonic Resilience
 - **Senses:** darkvision 60 ft.
@@ -33,10 +33,3 @@
 ### Bonus Actions
 
 - **Whirl of Ink:** Tattoos leap off the unska's body and latch onto a creature the unska can see within 30 feet of it. The target must succeed on a DC 14 WIS save or be charmed, disoriented, or frightened (the unska's choice) until the end of its next turn. When a disoriented creature moves, it moves in a random direction.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

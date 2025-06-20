@@ -4,15 +4,15 @@
 
 - **Armor Class:** 11
 - **Hit Points:** 8 
-- **Speed:** walk 40 ft.- **Perception**: 13
-- **Stealth**: 11
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 0 (25 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -1 | +1 | +0 | -4 | +1 | -2 |
+| 8 (-1) | 12 (+1) | 10 (+0) | 2 (-4) | 12 (+1) | 6 (-2) |
 
+- **Saving Throws**: Str +-1, Dex +1, Con +0, Int +-4, Wis +1, Cha +-2
 - **Senses:** -
 - **Languages:** -
 
@@ -24,10 +24,3 @@
 ### Actions
 
 - **Bite:** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4+1) piercing damage, and the target must succeed on a DC 10 CON save or contract shriveling fever disease, named for the way the disease causes an infected creature's muscles to shrivel. Until the disease is cured, the creature is poisoned, and at the end of each long rest, the infected creature must succeed on a DC 10 CON save or its STR score is reduced by 1d4. This reduction lasts until the creature finishes a long rest after the disease is cured. If the disease reduces the creature's STR to 0, the creature dies. A creature that succeeds on two saves recovers from the disease.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

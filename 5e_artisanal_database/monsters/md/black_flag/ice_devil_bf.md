@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 193 
-- **Speed:** walk 40 ft.- **Perception**: 17
-- **Stealth**: 17
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 14 (11,500 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | +7 | +9 | +4 | +7 | +9 |
+| 20 (+5) | 24 (+7) | 28 (+9) | 18 (+4) | 24 (+7) | 28 (+9) |
 
+- **Saving Throws**: Str +5, Dex +7, Con +9, Int +4, Wis +7, Cha +9
 - **Damage Immunities:** cold,Devilish Resilience
 - **Damage Resistances:** blinded,Devilish Resilience
 - **Senses:** darkvision 120 ft., keensense 60 ft.
@@ -39,10 +39,3 @@
 ### Reactions
 
 - **Ice Shield:** When the ice devil or a friendly creature it can see is hit by an attack, the devil can create a magical barrier of ice to disrupt the attack. The target halves the damage from the attack.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

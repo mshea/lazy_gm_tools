@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 63 
-- **Speed:** walk 30 ft. fly 80 ft.- **Perception**: 13
-- **Stealth**: 12
+- **Speed:** walk 30 ft. fly 80 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +2 | +3 | -4 | +1 | -1 |
+| 18 (+4) | 14 (+2) | 16 (+3) | 2 (-4) | 12 (+1) | 8 (-1) |
 
+- **Saving Throws**: Str +4, Dex +2, Con +3, Int +-4, Wis +1, Cha +-1
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** -
@@ -29,10 +29,3 @@
 - **Multiattack:** The griffon makes one Beak attack and one Claws attack.
 - **Beak:** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8+4) piercing damage.
 - **Claws:** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6+4) slashing damage.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

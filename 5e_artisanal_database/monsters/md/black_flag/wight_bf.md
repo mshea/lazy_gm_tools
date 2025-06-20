@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (studded leather)
 - **Hit Points:** 69 
-- **Speed:** walk 30 ft.- **Perception**: 13
-- **Stealth**: 14
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +3 | +0 | +1 | +2 |
+| 16 (+3) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +3, Int +0, Wis +1, Cha +2
 - **Damage Immunities:** Undead Resilience,frightened
 - **Damage Resistances:** necrotic; bludgeoning,piercing,and slashing damage from nonmagical attacks
 - **Senses:** darkvision 60 ft.
@@ -35,10 +35,3 @@
 ### Bonus Actions
 
 - **Command Horde:** The wight commands up to five friendly skeletons or zombies to do one of the following:<br>- **Protect.** Until the start of the wight's next turn, each time a friendly creature within 5 feet of a target is attacked, the target can use its reaction to intercept the attack, becoming the target instead.<br>- **Overwhelm.** Until the start of the wight's next turn, each target has advantage on attack rolls against a creature on its turn if at least one other target is within 5 feet of the creature and the allied target isn't incapacitated.<br>- **Shamble.** Each target uses its reaction to move up to its speed in a direction chosen by the wight. If this movement provokes an opportunity attack, that attack is made with disadvantage.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

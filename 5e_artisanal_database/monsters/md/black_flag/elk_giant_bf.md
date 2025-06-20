@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 60 
-- **Speed:** walk 60 ft.- **Perception**: 14
-- **Stealth**: 13
+- **Speed:** walk 60 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +3 | +2 | -2 | +2 | +0 |
+| 18 (+4) | 16 (+3) | 14 (+2) | 6 (-2) | 14 (+2) | 10 (+0) |
 
+- **Saving Throws**: Str +4, Dex +3, Con +2, Int +-2, Wis +2, Cha +0
 - **Senses:** -
 - **Languages:** Giant Elk,understands Common,Elvish,and Sylvan but can't speak them
 
@@ -29,10 +29,3 @@
 ### Bonus Actions
 
 - **Bolstering Bugle (27 HP or Higher):** The elk bugles its might at its opponents, bolstering its confidence. It has advantage on the next attack roll it makes before the start of its next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 7
 - **Hit Points:** 122 
-- **Speed:** walk 20 ft. climb 20 ft.- **Perception**: None
-- **Stealth**: 7
+- **Speed:** walk 20 ft. climb 20 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | -3 | +3 | -5 | -2 | -5 |
+| 20 (+5) | 4 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
+- **Saving Throws**: Str +5, Dex +-3, Con +3, Int +-5, Wis +-2, Cha +-5
 - **Damage Immunities:** acid,lightning,slashing,grappled,Ooze Resilience
 - **Damage Resistances:** Ooze Resilience
 - **Senses:** keensense 60 ft. (can't sense beyond this radius)
@@ -38,10 +38,3 @@
 ### Reactions
 
 - **Split:** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 HP. Each new pudding has HP equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 45 
-- **Speed:** walk 10 ft. fly 15 ft. hover True ft.- **Perception**: 8
-- **Stealth**: 14
+- **Speed:** walk 10 ft. fly 15 ft. hover True ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +0 | -5 | -4 | -5 |
+| 16 (+3) | 14 (+2) | 10 (+0) | 1 (-5) | 2 (-4) | 1 (-5) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +0, Int +-5, Wis +-4, Cha +-5
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** blinded,deafened,Construct Resilience
 - **Senses:** keensense 60 ft. (can't sense beyond this radius)
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Rolling Charge (25 HP or Fewer):** If it isn't grappling a creature, the rug curls up and rolls along the ground up to triple its speed straight toward a creature it can sense. If it stops within 5 feet of the target, it can make one Smother attack against the target.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

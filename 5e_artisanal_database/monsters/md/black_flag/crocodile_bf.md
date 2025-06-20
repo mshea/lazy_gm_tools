@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 25 
-- **Speed:** walk 20 ft. swim 30 ft.- **Perception**: 10
-- **Stealth**: 12
+- **Speed:** walk 20 ft. swim 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +0 | +1 | -4 | +0 | -3 |
+| 14 (+2) | 10 (+0) | 12 (+1) | 2 (-4) | 10 (+0) | 4 (-3) |
 
+- **Saving Throws**: Str +2, Dex +0, Con +1, Int +-4, Wis +0, Cha +-3
 - **Damage Resistances:** charmed
 - **Senses:** -
 - **Languages:** -
@@ -28,10 +28,3 @@
 ### Bonus Actions
 
 - **Death Roll:** One creature grappled by the crocodile must make a DC 12 STR save, taking 5 (2d4) slashing damage on a failed save, or half as much damage on a successful one.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

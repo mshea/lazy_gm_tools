@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 51 
-- **Speed:** walk 30 ft. fly 60 ft. swim 30 ft.- **Perception**: 14
-- **Stealth**: 12
+- **Speed:** walk 30 ft. fly 60 ft. swim 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +4 | +1 | +2 | +4 |
+| 16 (+3) | 14 (+2) | 18 (+4) | 12 (+1) | 14 (+2) | 18 (+4) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +4, Int +1, Wis +2, Cha +4
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 60 ft., keensense 10 ft.
 - **Languages:** Draconic
@@ -29,10 +29,3 @@
 - **Claw:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6+3) slashing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 DEX save, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
 - **Repulsion Breath (Recharge 6):** The dragon exhales repulsion energy in a 15-foot cone. Each creature in that area must succeed on a DC 12 STR save or be pushed up to 5 feet away from the dragon.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

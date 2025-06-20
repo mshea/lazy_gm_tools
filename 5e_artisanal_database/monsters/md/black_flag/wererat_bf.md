@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 57 
-- **Speed:** walk 30 ft.- **Perception**: 12
-- **Stealth**: 14
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +4 | +1 | +0 | +0 | -1 |
+| 10 (+0) | 18 (+4) | 12 (+1) | 10 (+0) | 10 (+0) | 8 (-1) |
 
+- **Saving Throws**: Str +0, Dex +4, Con +1, Int +0, Wis +0, Cha +-1
 - **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks
 - **Senses:** darkvision 60 ft.
 - **Languages:** Common (can't speak in rat form)
@@ -33,10 +33,3 @@
 ### Bonus Actions
 
 - **Change Shape:** The wererat transforms into a Tiny or Small rat, a Medium rat-humanoid hybrid, or back into its true form, which is Humanoid. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 138 
-- **Speed:** walk 30 ft.- **Perception**: 14
-- **Stealth**: 12
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +2 | +7 | +0 | +4 | +5 |
+| 18 (+4) | 14 (+2) | 24 (+7) | 10 (+0) | 18 (+4) | 20 (+5) |
 
+- **Saving Throws**: Str +4, Dex +2, Con +7, Int +0, Wis +4, Cha +5
 - **Damage Immunities:** Devilish Resilience
 - **Damage Resistances:** grappled,Devilish Resilience
 - **Senses:** darkvision 120 ft.
@@ -36,10 +36,3 @@
 ### Reactions
 
 - **Unnerving Mask:** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can command its mask to shift to look like one of the creature's departed loved ones or bitter enemies. If the creature can see the mask, it must succeed on a DC 15 WIS save or be frightened until the end of its turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

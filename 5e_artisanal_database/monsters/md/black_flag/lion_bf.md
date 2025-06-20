@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 42 
-- **Speed:** walk 50 ft.- **Perception**: 13
-- **Stealth**: 16
+- **Speed:** walk 50 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +1 | -4 | +1 | -1 |
+| 16 (+3) | 14 (+2) | 12 (+1) | 2 (-4) | 12 (+1) | 8 (-1) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +1, Int +-4, Wis +1, Cha +-1
 - **Senses:** -
 - **Languages:** -
 
@@ -32,10 +32,3 @@
 ### Bonus Actions
 
 - **Rattling Roar (Recharge 4-6):** The lion releases a bone-shaking roar in a 15-foot cone. Each creature in the area must succeed on a DC 13 CON save or have disadvantage on attack rolls until the end of its next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

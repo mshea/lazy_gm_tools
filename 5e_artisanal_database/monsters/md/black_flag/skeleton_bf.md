@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13 (armor scraps)
 - **Hit Points:** 14 
-- **Speed:** walk 30 ft.- **Perception**: 9
-- **Stealth**: 14
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +2 | +2 | -2 | -1 | -3 |
+| 10 (+0) | 14 (+2) | 14 (+2) | 6 (-2) | 8 (-1) | 4 (-3) |
 
+- **Saving Throws**: Str +0, Dex +2, Con +2, Int +-2, Wis +-1, Cha +-3
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** Undead Resilience
 - **Damage Resistances:** piercing
@@ -33,10 +33,3 @@
 ### Reactions
 
 - **Counterattack (Recharge 6):** When a creature the skeleton can see hits it with an attack, the skeleton can make one Shortsword or Shortbow attack against the attacker.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

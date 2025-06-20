@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 95 
-- **Speed:** walk 30 ft.- **Perception**: 13
-- **Stealth**: 14
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +4 | +3 | +0 | +1 | +0 |
+| 16 (+3) | 18 (+4) | 16 (+3) | 10 (+0) | 12 (+1) | 10 (+0) |
 
+- **Saving Throws**: Str +3, Dex +4, Con +3, Int +0, Wis +1, Cha +0
 - **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks
 - **Senses:** darkvision 60 ft.
 - **Languages:** Common (can't speak in tiger form)
@@ -34,10 +34,3 @@
 
 - **Bleed Prey:** The weretiger chooses a creature it can see within 30 feet of it to be its prey until the prey dies, until the weretiger dies, or until the weretiger uses this bonus action on another creature. While within 60 feet of its prey, the weretiger can pinpoint its prey's location. In addition, if the weretiger hits the prey with at least two melee weapon attacks, the weretiger rends the prey's flesh, and the prey must succeed on a DC 13 CON save or lose 7 (2d6) HP at the start of its next turn, as the wound bleeds excessively.
 - **Change Shape:** The weretiger transforms into a Large tiger, a Medium tiger-humanoid hybrid, or back into its true form, which is Humanoid. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

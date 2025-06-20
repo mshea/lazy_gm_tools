@@ -6,7 +6,7 @@
 - **Hit Points:** 52 (8d8+16)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Creature Codex, page 0
+- **Source:** Creature Codex
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

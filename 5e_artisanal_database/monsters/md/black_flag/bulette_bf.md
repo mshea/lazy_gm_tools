@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 108 
-- **Speed:** walk 40 ft. burrow 40 ft.- **Perception**: 16
-- **Stealth**: 10
+- **Speed:** walk 40 ft. burrow 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +7 | +0 | +5 | -4 | +0 | -3 |
+| 24 (+7) | 10 (+0) | 20 (+5) | 2 (-4) | 10 (+0) | 4 (-3) |
 
+- **Saving Throws**: Str +7, Dex +0, Con +5, Int +-4, Wis +0, Cha +-3
 - **Damage Resistances:** bludgeoning,Monstrosity Resilience
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.
 - **Languages:** -
@@ -31,10 +31,3 @@
 ### Bonus Actions
 
 - **Seek Prey:** The bulette looks and sniffs around for new prey, releasing a satisfied, guttural chirp when it settles on one. One creature the bulette can see or sense within 30 feet of it and that can see or hear the bulette must make a DC 15 WIS save. On a failure, the target is frightened until the end of its next turn, and the bulette has advantage on the next attack roll it makes against the creature before the start of its next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

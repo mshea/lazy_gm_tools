@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 68 
-- **Speed:** walk 20 ft.- **Perception**: 9
-- **Stealth**: 9
+- **Speed:** walk 20 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | -1 | +2 | -4 | -1 | -2 |
+| 16 (+3) | 8 (-1) | 14 (+2) | 2 (-4) | 8 (-1) | 6 (-2) |
 
+- **Saving Throws**: Str +3, Dex +-1, Con +2, Int +-4, Wis +-1, Cha +-2
 - **Damage Resistances:** poison,petrified,Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** -
@@ -27,10 +27,3 @@
 - **Multiattack:** The basilisk makes two Bite or Poison Spit attacks. If both Bite or Poison Spit attacks hit one creature, the target is poisoned until the end of its next turn.
 - **Bite:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8+3) piercing damage plus 7 (2d6) poison damage.
 - **Poison Spit:** _Ranged Weapon Attack:_ +5 to hit, range 20/60 ft., one target. _Hit:_ 13 (3d6+3) poison damage.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 292 
-- **Speed:** walk 40 ft. fly 80 ft.- **Perception**: 19
-- **Stealth**: 12
+- **Speed:** walk 40 ft. fly 80 ft.
 - **Challenge Rating:** 19 (22,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +14 | +2 | +12 | +5 | +9 | +12 |
+| 38 (+14) | 14 (+2) | 34 (+12) | 20 (+5) | 28 (+9) | 34 (+12) |
 
+- **Saving Throws**: Str +14, Dex +2, Con +12, Int +5, Wis +9, Cha +12
 - **Damage Immunities:** fire,Demonic Resilience
 - **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks,Demonic Resilience
 - **Senses:** truesight 120 ft.
@@ -37,10 +37,3 @@
 ### Bonus Actions
 
 - **Teleport:** The balor magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

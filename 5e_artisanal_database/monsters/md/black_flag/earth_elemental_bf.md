@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 114 
-- **Speed:** walk 30 ft. burrow 30 ft.- **Perception**: 13
-- **Stealth**: 9
+- **Speed:** walk 30 ft. burrow 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | -1 | +5 | -2 | +0 | -3 |
+| 20 (+5) | 8 (-1) | 20 (+5) | 6 (-2) | 10 (+0) | 4 (-3) |
 
+- **Saving Throws**: Str +5, Dex +-1, Con +5, Int +-2, Wis +0, Cha +-3
 - **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** lightning,Elemental Resilience
 - **Damage Resistances:** Elemental Resilience
@@ -36,10 +36,3 @@
 ### Bonus Actions
 
 - **Earth Tremor (Recharge 4-6):** The earth elemental causes the ground on a point it can see within 30 feet of it to rumble and shake violently. Each creature within 10 feet of that point must succeed on a DC 16 DEX save or be knocked prone.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

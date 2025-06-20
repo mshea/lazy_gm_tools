@@ -4,15 +4,15 @@
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 156 
-- **Speed:** walk 30 ft. climb 30 ft.- **Perception**: 16
-- **Stealth**: 18
+- **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +8 | +3 | +3 | +2 | +8 |
+| 16 (+3) | 26 (+8) | 16 (+3) | 16 (+3) | 14 (+2) | 26 (+8) |
 
+- **Saving Throws**: Str +3, Dex +8, Con +3, Int +3, Wis +2, Cha +8
 - **Damage Immunities:** poison,poisoned
 - **Damage Resistances:** Fey Resilience
 - **Senses:** darkvision 120 ft.
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Illusory Appearance:** The hag covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of its general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if the hag dies.<br>The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching it would feel its rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 INT (Investigation) check to discern that the hag is disguised.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

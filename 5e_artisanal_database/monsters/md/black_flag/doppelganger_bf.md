@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14
 - **Hit Points:** 80 
-- **Speed:** walk 30 ft.- **Perception**: 13
-- **Stealth**: 16
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +4 | +2 | +0 | +3 | +4 |
+| 10 (+0) | 18 (+4) | 14 (+2) | 10 (+0) | 16 (+3) | 18 (+4) |
 
+- **Saving Throws**: Str +0, Dex +4, Con +2, Int +0, Wis +3, Cha +4
 - **Damage Immunities:** charmed
 - **Senses:** darkvision 60 ft.
 - **Languages:** Common,telepathy 60 ft.
@@ -32,10 +32,3 @@
 
 - **Change Shape:** The doppelganger transforms into a Small or Medium Humanoid it has seen or back into its true form, which is Monstrosity. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 - **Read Thoughts:** The doppelganger magically reads the surface thoughts - what is foremost in the mind at the moment - of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading the target's thoughts until its concentration is broken (as if concentrating on a spell) or it uses Read Thoughts on a different target.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

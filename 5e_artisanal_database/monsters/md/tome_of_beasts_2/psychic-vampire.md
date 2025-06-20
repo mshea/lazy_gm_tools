@@ -6,7 +6,7 @@
 - **Hit Points:** 144 (17d8+68)
 - **Speed:** walk 30 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** Tome of Beasts 2, page 0
+- **Source:** Tome of Beasts 2
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 216 
-- **Speed:** walk 30 ft. fly 60 ft. swim 90 ft.- **Perception**: 16
-- **Stealth**: 16
+- **Speed:** walk 30 ft. fly 60 ft. swim 90 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | +6 | +6 | +7 | +2 | +9 |
+| 20 (+5) | 22 (+6) | 22 (+6) | 24 (+7) | 14 (+2) | 28 (+9) |
 
+- **Saving Throws**: Str +5, Dex +6, Con +6, Int +7, Wis +2, Cha +9
 - **Damage Immunities:** acid,cold
 - **Senses:** darkvision 120 ft.
 - **Languages:** Aquan,Common
@@ -35,10 +35,3 @@
 
 - **Clouded Eyes:** The sila condenses the air or water around the head or eyes of up to two creatures it can see within 30 feet of it. Each target must succeed on a DC 17 DEX save or be blinded until the end of its next turn.
 - **Genie Shape:** The sila magically transforms into a Medium cloud of thick mist that leaves droplets of water on everything it touches or back into its bipedal form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its bipedal form if it dies. The sila can't use this bonus action to transform into its bipedal form while inside a Medium or smaller container.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 177 
-- **Speed:** walk 30 ft. climb 30 ft. fly 30 ft. swim 20 ft.- **Perception**: 17
-- **Stealth**: 19
+- **Speed:** walk 30 ft. climb 30 ft. fly 30 ft. swim 20 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +9 | +4 | +3 | +7 | +9 |
+| 18 (+4) | 28 (+9) | 18 (+4) | 16 (+3) | 24 (+7) | 28 (+9) |
 
+- **Saving Throws**: Str +4, Dex +9, Con +4, Int +3, Wis +7, Cha +9
 - **Damage Immunities:** Vampiric Resilience
 - **Damage Resistances:** necrotic; bludgeoning,piercing,and slashing damage from nonmagical attacks,charmed
 - **Senses:** darkvision 120 ft.
@@ -54,10 +54,3 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Move:** The vampire moves up to its speed without provoking opportunity attacks.
 - **Call Children (Costs 2 Actions):** The vampire uses Children of the Night.
 - **Excessive Bleeding (Costs 2 Actions):** Each creature within 15 feet of the vampire that doesn't have all its HP must succeed on a DC 17 CON save or lose 14 (4d6) HP as its wounds bleed profusely. Before the end of its next turn, the vampire has advantage on the next attack roll it makes against a creature that failed this save.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

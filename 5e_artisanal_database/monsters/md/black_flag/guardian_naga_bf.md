@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 176 
-- **Speed:** walk 40 ft.- **Perception**: 18
-- **Stealth**: 18
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 10 (5,900 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +8 | +7 | +7 | +8 | +8 |
+| 18 (+4) | 26 (+8) | 24 (+7) | 24 (+7) | 26 (+8) | 26 (+8) |
 
+- **Saving Throws**: Str +4, Dex +8, Con +7, Int +7, Wis +8, Cha +8
 - **Damage Immunities:** poison,charmed,poisoned
 - **Damage Resistances:** necrotic,radiant,Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
@@ -35,10 +35,3 @@
 ### Bonus Actions
 
 - **Protector's Step:** The naga magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space within the sacred site or temple it protects or within 30 feet of the exterior of such a site. Swirls of golden light or tendrils of inky shadow (the naga's choice) appear at the origin and destination when it uses this bonus action.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

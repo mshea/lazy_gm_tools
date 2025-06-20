@@ -6,7 +6,7 @@
 - **Hit Points:** 7 (2d4+2)
 - **Speed:** burrow 5 ft. walk 40 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** Tome of Beasts 2, page 0
+- **Source:** Tome of Beasts 2
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

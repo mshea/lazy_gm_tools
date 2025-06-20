@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 68 
-- **Speed:** walk 15 ft.- **Perception**: 14
-- **Stealth**: 12
+- **Speed:** walk 15 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +1 | -1 | +4 | -1 |
+| 16 (+3) | 14 (+2) | 12 (+1) | 8 (-1) | 18 (+4) | 8 (-1) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +1, Int +-1, Wis +4, Cha +-1
 - **Damage Immunities:** poison
 - **Damage Resistances:** Plant Resilience
 - **Senses:** keensense 120 ft. (can't sense beyond this radius)
@@ -35,10 +35,3 @@
 ### Bonus Actions
 
 - **Fetid Feast:** The spore lord draws sustenance from a Medium or larger pile of carrion or rotting vegetation within 5 feet of it. It regains 7 (2d6) HP. The spore lord can't use Fetid Feast on a pile of carrion or vegetation if it or another mycolid has already used Fetid Feast on that pile.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

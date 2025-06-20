@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 163 
-- **Speed:** walk 20 ft.- **Perception**: 9
-- **Stealth**: 9
+- **Speed:** walk 20 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | -1 | +4 | -4 | -1 | -5 |
+| 20 (+5) | 8 (-1) | 18 (+4) | 2 (-4) | 8 (-1) | 1 (-5) |
 
+- **Saving Throws**: Str +5, Dex +-1, Con +4, Int +-4, Wis +-1, Cha +-5
 - **Damage Immunities:** acid,Golem Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** understands the languages of its creator but can't speak
@@ -36,10 +36,3 @@
 ### Bonus Actions
 
 - **Mold Hand:** The clay golem molds its hand into the shape of a weapon or back into a hand. The golem's Slam attack deals bludgeoning, piercing, or slashing damage, depending on the type of weapon chosen, until the golem uses this bonus action again. For example, a hand shaped like an axe deals slashing damage.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

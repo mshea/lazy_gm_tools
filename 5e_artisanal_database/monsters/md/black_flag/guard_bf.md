@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (chain shirt)
 - **Hit Points:** 8 
-- **Speed:** walk 30 ft.- **Perception**: 13
-- **Stealth**: 11
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +1 | +1 | +1 | +0 | +1 | +0 |
+| 12 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
+- **Saving Throws**: Str +1, Dex +1, Con +1, Int +0, Wis +1, Cha +0
 - **Senses:** -
 - **Languages:** any one language (usually Common)
 
@@ -23,10 +23,3 @@
 ### Reactions
 
 - **Protector's Parry:** When a friendly creature the guard can see within 5 feet of it is the target of an attack, the guard can interpose its weapon between the creature and the attacker. The friendly creature adds 2 to its AC against that attack. To use this reaction, the guard must be able to see the attacker and be wielding a melee weapon.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

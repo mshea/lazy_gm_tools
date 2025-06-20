@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 63 
-- **Speed:** walk 30 ft.- **Perception**: 12
-- **Stealth**: 12
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | +2 | +4 | -1 | +2 | +0 |
+| 20 (+5) | 14 (+2) | 18 (+4) | 8 (-1) | 14 (+2) | 10 (+0) |
 
+- **Saving Throws**: Str +5, Dex +2, Con +4, Int +-1, Wis +2, Cha +0
 - **Damage Immunities:** Devilish Resilience
 - **Damage Resistances:** Devilish Resilience
 - **Senses:** darkvision 120 ft.
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Enhance Pain:** The bearded devil enhances the pain in one creature it can see within 30 feet of it that is poisoned from the devil's Beard Spines attack or suffering an infernal wound from the devil's Glaive attack. The target must succeed on a DC 13 CON save or be incapacitated until the end of its next turn, as it doubles over in pain.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

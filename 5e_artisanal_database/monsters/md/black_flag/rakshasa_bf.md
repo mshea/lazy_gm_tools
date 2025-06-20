@@ -4,15 +4,15 @@
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 166 
-- **Speed:** walk 40 ft. fly 30 ft. hover True ft.- **Perception**: 18
-- **Stealth**: 18
+- **Speed:** walk 40 ft. fly 30 ft. hover True ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +8 | +4 | +1 | +8 | +10 |
+| 14 (+2) | 26 (+8) | 18 (+4) | 12 (+1) | 26 (+8) | 30 (+10) |
 
+- **Saving Throws**: Str +2, Dex +8, Con +4, Int +1, Wis +8, Cha +10
 - **Damage Vulnerabilities:** piercing damage from magical attacks
 - **Damage Immunities:** bludgeoning,piercing,and slashing damage from nonmagical attacks,prone
 - **Senses:** truesight 60 ft.
@@ -34,10 +34,3 @@
 
 - **Charming Gaze:** The rakshasa turns its gaze toward one creature it can see within 60 feet of it. If the target can see the rakshasa, the target must succeed on a DC 18 CHA save or be charmed for 1 minute. A charmed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The rakshasa can have up to three creatures charmed in this way at a time.
 - **Illusory Appearance:** The rakshasa covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of its general size and Humanoid shape. The illusion ends if the rakshasa takes a bonus action to end it or if the rakshasa dies. The changes wrought by this effect fail to hold up to physical inspection. For example, a creature touching the disguised rakshasa might feel its fur instead of Humanoid flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 25 INT (Investigation) check to discern that the rakshasa is disguised.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

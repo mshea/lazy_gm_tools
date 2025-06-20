@@ -4,15 +4,15 @@
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 94 
-- **Speed:** walk 40 ft. swim 40 ft.- **Perception**: 15
-- **Stealth**: 16
+- **Speed:** walk 40 ft. swim 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +6 | +4 | -3 | +2 | -2 |
+| 14 (+2) | 22 (+6) | 18 (+4) | 4 (-3) | 14 (+2) | 6 (-2) |
 
+- **Saving Throws**: Str +2, Dex +6, Con +4, Int +-3, Wis +2, Cha +-2
 - **Damage Immunities:** acid,Demonic Resilience
 - **Damage Resistances:** Demonic Resilience
 - **Senses:** darkvision 60 ft., keensense 10 ft.
@@ -37,10 +37,3 @@
 ### Reactions
 
 - **Acidic Retribution:** When the mire fiend takes damage, including any damage that reduces it to 0 HP, it can expel acid from its stinger in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 14 DEX save, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

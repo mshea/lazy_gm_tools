@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 42 
-- **Speed:** walk 50 ft.- **Perception**: 13
-- **Stealth**: 12
+- **Speed:** walk 50 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +2 | -4 | +1 | -2 |
+| 16 (+3) | 14 (+2) | 14 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +2, Int +-4, Wis +1, Cha +-2
 - **Senses:** -
 - **Languages:** -
 
@@ -31,10 +31,3 @@
 ### Reactions
 
 - **Rampage:** When the hyena reduces a creature to 0 HP, it can move up to half its speed and make one Bite attack. If it does, attack rolls against it have advantage until the start of its next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

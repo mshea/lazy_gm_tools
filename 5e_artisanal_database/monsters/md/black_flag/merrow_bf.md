@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 60 
-- **Speed:** walk 10 ft. swim 40 ft.- **Perception**: 12
-- **Stealth**: 10
+- **Speed:** walk 10 ft. swim 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +0 | +2 | -1 | +0 | -1 |
+| 18 (+4) | 10 (+0) | 14 (+2) | 8 (-1) | 10 (+0) | 8 (-1) |
 
+- **Saving Throws**: Str +4, Dex +0, Con +2, Int +-1, Wis +0, Cha +-1
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Aquan,Common
@@ -33,10 +33,3 @@
 
 - **Shoving Rush:** The merrow takes the Dash action. If it moves, it can propel itself into one creature it can see along its path. The target must succeed on a DC 14 STR save or be knocked prone. This movement doesn't provoke opportunity attacks from a target that fails this save.
 - **Recall Harpoon:** The merrow pulls on the cord connected to its harpoon, returning the harpoon to its empty hand. If the harpoon is stuck in a creature, that creature must succeed on a DC 14 STR save or be pulled up to 20 feet toward the merrow. Regardless, the harpoon is dislodged and returned to the merrow's hand.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

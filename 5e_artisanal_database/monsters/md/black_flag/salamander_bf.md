@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 114 
-- **Speed:** walk 30 ft.- **Perception**: 10
-- **Stealth**: 12
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +2 | +0 | +0 | +2 |
+| 16 (+3) | 14 (+2) | 14 (+2) | 10 (+0) | 10 (+0) | 14 (+2) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +2, Int +0, Wis +0, Cha +2
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire
 - **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Tighten Grip:** The salamander tightens its grip around one creature it is grappling. Until the start of the salamander's next turn, the target has disadvantage on any check made to escape the grapple, and other than a successful check to escape the grapple, the target can't be moved, knocked prone, or otherwise removed from the salamander's grasp without the salamander's permission.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

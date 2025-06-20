@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14
 - **Hit Points:** 85 
-- **Speed:** walk 0 ft. fly 60 ft. hover True ft.- **Perception**: 12
-- **Stealth**: 17
+- **Speed:** walk 0 ft. fly 60 ft. hover True ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -2 | +4 | +3 | +1 | +2 | +2 |
+| 6 (-2) | 18 (+4) | 16 (+3) | 12 (+1) | 14 (+2) | 14 (+2) |
 
+- **Saving Throws**: Str +-2, Dex +4, Con +3, Int +1, Wis +2, Cha +2
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic,charmed,grappled,paralyzed,petrified,prone,restrained,Undead Resilience
 - **Damage Resistances:** acid,cold,fire,lightning,thunder; bludgeoning,piercing,and slashing damage from nonmagical attacks
@@ -39,10 +39,3 @@
 ### Reactions
 
 - **Unravel Life:** When a creature the wraith can see within 30 feet of it and that isn't a Construct or Undead regains HP, the wraith can corrupt the healing energies, halving the amount of healing that creature receives.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

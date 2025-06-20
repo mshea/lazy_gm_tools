@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (leather armor, shield)
 - **Hit Points:** 12 
-- **Speed:** walk 30 ft.- **Perception**: 9
-- **Stealth**: 14
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -1 | +4 | +0 | +0 | -1 | -1 |
+| 8 (-1) | 18 (+4) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) |
 
+- **Saving Throws**: Str +-1, Dex +4, Con +0, Int +0, Wis +-1, Cha +-1
 - **Senses:** darkvision 60 ft.
 - **Languages:** Common,Goblin
 
@@ -25,10 +25,3 @@
 ### Bonus Actions
 
 - **Nimble Escape:** The goblin takes the Disengage or Hide action.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

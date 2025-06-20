@@ -4,15 +4,15 @@
 
 - **Armor Class:** 21 (natural armor)
 - **Hit Points:** 306 
-- **Speed:** walk 50 ft. fly 150 ft.- **Perception**: 24
-- **Stealth**: 16
+- **Speed:** walk 50 ft. fly 150 ft.
 - **Challenge Rating:** 21 (33,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +8 | +6 | +8 | +14 | +14 | +17 |
+| 26 (+8) | 22 (+6) | 26 (+8) | 38 (+14) | 38 (+14) | 44 (+17) |
 
+- **Saving Throws**: Str +8, Dex +6, Con +8, Int +14, Wis +14, Cha +17
 - **Damage Immunities:** necrotic,poison,poisoned,Angelic Resilience
 - **Damage Resistances:** Angelic Resilience
 - **Senses:** truesight 120 ft.
@@ -48,10 +48,3 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Teleport:** The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Searing Burst (Costs 2 Actions):** The solar emits divine energy. Each creature of its choice within 10 feet of it must make a DC 22 Dexterity saving throw, taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
 - **Intimidating Glare (Costs 3 Actions):** The solar glares at up to three creatures it can see within 30 feet of it. Each target must succeed on a DC 22 CHA save or be cowed until the end of its next turn. While cowed, a creature's speed is halved, and it can't look at the solar.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

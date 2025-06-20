@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (scale mail)
 - **Hit Points:** 100 
-- **Speed:** walk 30 ft. climb 15 ft. swim 30 ft.- **Perception**: 12
-- **Stealth**: 10 (15 without armor)
+- **Speed:** walk 30 ft. climb 15 ft. swim 30 ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +1 | +2 | +0 | +2 | +2 |
+| 16 (+3) | 12 (+1) | 14 (+2) | 10 (+0) | 14 (+2) | 14 (+2) |
 
+- **Saving Throws**: Str +3, Dex +1, Con +2, Int +0, Wis +2, Cha +2
 - **Damage Immunities:** charmed,frightened
 - **Senses:** -
 - **Languages:** Common,Draconic
@@ -38,10 +38,3 @@
 ### Reactions
 
 - **Inspiring Hiss:** When a friendly lizardfolk the ruler can see within 30 feet of it is hit by an attack, the ruler can hiss out inspiring words to encourage the lizardfolk to keep going. The target gains 5 (2d4) temporary HP for 1 minute.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

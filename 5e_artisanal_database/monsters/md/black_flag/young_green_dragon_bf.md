@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 148 
-- **Speed:** walk 40 ft. fly 80 ft. swim 40 ft.- **Perception**: 17
-- **Stealth**: 14
+- **Speed:** walk 40 ft. fly 80 ft. swim 40 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +4 | +6 | +5 | +4 | +5 |
+| 18 (+4) | 18 (+4) | 22 (+6) | 20 (+5) | 18 (+4) | 20 (+5) |
 
+- **Saving Throws**: Str +4, Dex +4, Con +6, Int +5, Wis +4, Cha +5
 - **Damage Immunities:** poison,poisoned
 - **Senses:** darkvision 120 ft., keensense 30 ft.
 - **Languages:** Common,Draconic
@@ -28,10 +28,3 @@
 - **Bite:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
 - **Claw:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6+4) slashing damage.
 - **Poison Breath (Recharge 5-6):** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 CON save, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

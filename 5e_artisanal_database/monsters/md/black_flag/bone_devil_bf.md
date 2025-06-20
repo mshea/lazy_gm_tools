@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 144 
-- **Speed:** walk 40 ft. fly 40 ft.- **Perception**: 16
-- **Stealth**: 13
+- **Speed:** walk 40 ft. fly 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +3 | +4 | +5 | +6 | +7 |
+| 18 (+4) | 16 (+3) | 18 (+4) | 20 (+5) | 22 (+6) | 24 (+7) |
 
+- **Saving Throws**: Str +4, Dex +3, Con +4, Int +5, Wis +6, Cha +7
 - **Damage Immunities:** Devilish Resilience
 - **Damage Resistances:** Devilish Resilience
 - **Senses:** darkvision 120 ft.
@@ -33,10 +33,3 @@
 ### Bonus Actions
 
 - **Devilish Command:** The bone devil shouts one of the following commands at one creature it can see within 30 feet of it. The target must succeed on a DC 15 CHA save or obey the command. A lesser devil, such as a barbed devil or lemure, has disadvantage on this save.<br>- **Attack.** The target uses its reaction to make one melee or ranged attack (the devil's choice) against one creature the target can see within its weapon's range.<br>- **Beg for Mercy.** The target immediately falls prone and can't cast spells with verbal components on its next turn as it is magically compelled to speak pleas of mercy.<br>- **Flee.** The target uses its reaction to move up to its speed directly away from the bone devil. This movement doesn't provoke opportunity attacks, but the target doesn't avoid damaging terrain, such as lava.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

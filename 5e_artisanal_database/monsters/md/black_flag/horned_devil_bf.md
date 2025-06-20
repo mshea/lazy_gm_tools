@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 185 
-- **Speed:** walk 20 ft. fly 60 ft.- **Perception**: 17
-- **Stealth**: 17
+- **Speed:** walk 20 ft. fly 60 ft.
 - **Challenge Rating:** 11 (7,200 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +10 | +7 | +5 | +1 | +7 | +7 |
+| 30 (+10) | 24 (+7) | 20 (+5) | 12 (+1) | 24 (+7) | 24 (+7) |
 
+- **Saving Throws**: Str +10, Dex +7, Con +5, Int +1, Wis +7, Cha +7
 - **Damage Immunities:** Devilish Resilience
 - **Damage Resistances:** Devilish Resilience
 - **Senses:** darkvision 120 ft.
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Headbutt:** The horned devil slams its horned head into a creature it can see within 5 feet of it. The target must make a DC 17 STR save. On a failure, the target takes 7 (2d6) bludgeoning damage and is knocked prone. On a success, the target takes half the damage and isn't knocked prone.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

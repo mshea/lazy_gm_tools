@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 255 
-- **Speed:** walk 50 ft. burrow 30 ft.- **Perception**: 14
-- **Stealth**: 8
+- **Speed:** walk 50 ft. burrow 30 ft.
 - **Challenge Rating:** 15 (13,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +9 | -2 | +11 | -5 | +4 | -3 |
+| 28 (+9) | 6 (-2) | 32 (+11) | 1 (-5) | 18 (+4) | 4 (-3) |
 
+- **Saving Throws**: Str +9, Dex +-2, Con +11, Int +-5, Wis +4, Cha +-3
 - **Damage Immunities:** prone
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** keensense 60 ft., tremorsense 60 ft.
@@ -33,10 +33,3 @@
 ### Bonus Actions
 
 - **Rapid Digestion:** The purple worm's digestive system absorbs some of the already digested material from creatures it has swallowed. If the purple worm has at least one swallowed creature inside it, the purple worm regains 9 (2d8) HP. This healing increases by 4 (1d8) for each creature currently inside the purple worm, to a maximum of 10d8.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

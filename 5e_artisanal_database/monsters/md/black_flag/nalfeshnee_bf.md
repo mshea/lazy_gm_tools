@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 196 
-- **Speed:** walk 20 ft. fly 30 ft.- **Perception**: 16
-- **Stealth**: 10
+- **Speed:** walk 20 ft. fly 30 ft.
 - **Challenge Rating:** 13 (10,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | +0 | +11 | +8 | +6 | +7 |
+| 20 (+5) | 10 (+0) | 32 (+11) | 26 (+8) | 22 (+6) | 24 (+7) |
 
+- **Saving Throws**: Str +5, Dex +0, Con +11, Int +8, Wis +6, Cha +7
 - **Damage Immunities:** Demonic Resilience
 - **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks,Demonic Resilience
 - **Senses:** truesight 120 ft.
@@ -38,10 +38,3 @@
 ### Reactions
 
 - **Sudden Feast:** When a creature the nalfeshnee can see within 20 feet of it is reduced to 0 HP or dies, the nalfeshnee can move up to its speed toward the creature without provoking opportunity attacks then feast on the creature, if it moves to within 5 feet of the creature. The nalfeshnee regains HP equal to twice the creature's CR or class level, and the creature has disadvantage on the next death save it makes, if it is making death saves.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

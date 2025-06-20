@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 60 
-- **Speed:** walk 20 ft.- **Perception**: 11
-- **Stealth**: 12
+- **Speed:** walk 20 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +0 | +3 | -4 | -1 | -3 |
+| 16 (+3) | 10 (+0) | 16 (+3) | 2 (-4) | 8 (-1) | 4 (-3) |
 
+- **Saving Throws**: Str +3, Dex +0, Con +3, Int +-4, Wis +-1, Cha +-3
 - **Damage Resistances:** Plant Resilience
 - **Senses:** keensense 60 ft. (can't sense beyond this radius)
 - **Languages:** -
@@ -32,10 +32,3 @@
 ### Bonus Actions
 
 - **Instinct to Pursue:** The bloatblossom takes the Dash action toward an uninfected Humanoid it can see or sense.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

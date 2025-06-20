@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 92 
-- **Speed:** walk 50 ft.- **Perception**: 16
-- **Stealth**: 12
+- **Speed:** walk 50 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +2 | +2 | +0 | +6 | +6 |
+| 18 (+4) | 14 (+2) | 14 (+2) | 10 (+0) | 22 (+6) | 22 (+6) |
 
+- **Saving Throws**: Str +4, Dex +2, Con +2, Int +0, Wis +6, Cha +6
 - **Damage Immunities:** poison,charmed,frightened,paralyzed,poisoned
 - **Damage Resistances:** Celestial Resilience
 - **Senses:** darkvision 60 ft.
@@ -47,10 +47,3 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Canter:** The unicorn moves up to half is speed without provoking opportunity attacks.
 - **Radiant Stomp (Costs 2 Actions):** The unicorn raises its hooves glowing with golden light and brings them down with a reverberating stomp. Each hostile creature within 10 feet of the unicorn must make a DC 14 STR save. On a failure, a creature takes 10 (3d6) radiant damage and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone.
 - **Heal Self (Costs 3 Actions):** The unicorn magically regains 11 (2d8+2) HP.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

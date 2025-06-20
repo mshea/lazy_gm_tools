@@ -4,15 +4,15 @@
 
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 111 
-- **Speed:** walk 20 ft. burrow 20 ft.- **Perception**: 16
-- **Stealth**: 13
+- **Speed:** walk 20 ft. burrow 20 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +0 | +6 | +0 | +0 | +0 |
+| 16 (+3) | 10 (+0) | 22 (+6) | 10 (+0) | 10 (+0) | 10 (+0) |
 
+- **Saving Throws**: Str +3, Dex +0, Con +6, Int +0, Wis +0, Cha +0
 - **Damage Vulnerabilities:** thunder
 - **Damage Resistances:** piercing and slashing damage from nonmagical attacks
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Shard Belch:** The xorn belches a mixture of stomach gas and crystalline shards in a 15-foot cone. Each creature in the area must succeed on a DC 14 DEX save or be coated in miniscule, crystalline shards until the end of its next turn. A creature coated in shards suffers bouts of pain each time it moves, reducing its speed by 10 feet and imposing disadvantage on all weapon attack rolls.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

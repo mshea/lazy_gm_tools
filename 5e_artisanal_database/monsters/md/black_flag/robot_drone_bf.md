@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 21 
-- **Speed:** walk 20 ft. fly 40 ft. hover True ft.- **Perception**: 15
-- **Stealth**: 15
+- **Speed:** walk 20 ft. fly 40 ft. hover True ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -2 | +3 | +1 | -3 | +1 | -2 |
+| 6 (-2) | 16 (+3) | 12 (+1) | 4 (-3) | 12 (+1) | 6 (-2) |
 
+- **Saving Throws**: Str +-2, Dex +3, Con +1, Int +-3, Wis +1, Cha +-2
 - **Damage Vulnerabilities:** lightning
 - **Damage Immunities:** prone,Construct Resilience
 - **Senses:** darkvision 60 ft.
@@ -33,10 +33,3 @@
 ### Bonus Actions
 
 - **Fueled Escape:** The drone takes the Dash or Disengage action, leaving a small cloud of fuel fumes behind it. Each creature within 5 feet must succeed on a DC 13 CON save or be poisoned until the end of its next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

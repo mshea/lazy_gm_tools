@@ -4,15 +4,15 @@
 
 - **Armor Class:** 25 (natural armor)
 - **Hit Points:** 680 
-- **Speed:** walk 40 ft. burrow 30 ft.- **Perception**: 19
-- **Stealth**: 13
+- **Speed:** walk 40 ft. burrow 30 ft.
 - **Challenge Rating:** 30 (155,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +10 | +3 | +10 | +5 | +9 | +9 |
+| 30 (+10) | 16 (+3) | 30 (+10) | 20 (+5) | 28 (+9) | 28 (+9) |
 
+- **Saving Throws**: Str +10, Dex +3, Con +10, Int +5, Wis +9, Cha +9
 - **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** fire,poison; bludgeoning,piercing,and slashing damage from nonmagical attacks,charmed,frightened,paralyzed,poisoned
 - **Damage Resistances:** Monstrosity Resilience
@@ -44,10 +44,3 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Move:** The tarrasque moves up to its speed without provoking opportunity attacks.
 - **Tail Attack:** The tarrasque makes one Tail attack.
 - **Tail Swipe (Costs 2 Actions):** The tarrasque whips its spiked tail in a wide arc, flailing it in a 30-foot cone. Each creature in that area must make a DC 27 DEX save. On a failure, a creature takes 45 (10d8) piercing damage and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

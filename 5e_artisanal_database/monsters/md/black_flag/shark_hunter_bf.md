@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 63 
-- **Speed:** walk 0 ft. swim 40 ft.- **Perception**: 12
-- **Stealth**: 11
+- **Speed:** walk 0 ft. swim 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +1 | +2 | -5 | +0 | -3 |
+| 16 (+3) | 12 (+1) | 14 (+2) | 1 (-5) | 10 (+0) | 4 (-3) |
 
+- **Saving Throws**: Str +3, Dex +1, Con +2, Int +-5, Wis +0, Cha +-3
 - **Senses:** keensense 30 ft.
 - **Languages:** -
 
@@ -31,10 +31,3 @@
 ### Bonus Actions
 
 - **Swift Hunter:** The shark moves up to half its speed toward a hostile creature that it can see. This movement doesn't provoke opportunity attacks.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

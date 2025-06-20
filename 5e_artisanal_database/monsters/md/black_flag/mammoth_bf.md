@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 133 
-- **Speed:** walk 40 ft.- **Perception**: 13
-- **Stealth**: 9
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +6 | -1 | +5 | -4 | +0 | -2 |
+| 22 (+6) | 8 (-1) | 20 (+5) | 2 (-4) | 10 (+0) | 6 (-2) |
 
+- **Saving Throws**: Str +6, Dex +-1, Con +5, Int +-4, Wis +0, Cha +-2
 - **Damage Resistances:** cold,prone
 - **Senses:** -
 - **Languages:** -
@@ -30,10 +30,3 @@
 ### Bonus Actions
 
 - **Trunk Grab:** The mammoth grabs one Large or smaller creature within 10 feet of it. The target must succeed on a DC 17 STR save or be grappled (escape DC 17). Until this grapple ends, the target is restrained, and the mammoth can't use Trunk Grab on another creature.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

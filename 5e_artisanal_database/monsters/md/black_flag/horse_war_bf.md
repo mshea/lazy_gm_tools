@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (scale mail barding)
 - **Hit Points:** 22 
-- **Speed:** walk 60 ft.- **Perception**: 11
-- **Stealth**: 11
+- **Speed:** walk 60 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +1 | +1 | -4 | +1 | -2 |
+| 18 (+4) | 12 (+1) | 12 (+1) | 2 (-4) | 12 (+1) | 6 (-2) |
 
+- **Saving Throws**: Str +4, Dex +1, Con +1, Int +-4, Wis +1, Cha +-2
 - **Senses:** -
 - **Languages:** -
 
@@ -27,10 +27,3 @@
 ### Reactions
 
 - **Trained Shift:** If the horse's rider is subjected to an effect that would knock it prone or dismount it, the horse can shift its body to assist the rider. The rider has advantage on the check or save to avoid the effect.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

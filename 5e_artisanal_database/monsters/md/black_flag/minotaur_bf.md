@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 80 
-- **Speed:** walk 40 ft.- **Perception**: 17
-- **Stealth**: 10
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +6 | +0 | +3 | -2 | +3 | -1 |
+| 22 (+6) | 10 (+0) | 16 (+3) | 6 (-2) | 16 (+3) | 8 (-1) |
 
+- **Saving Throws**: Str +6, Dex +0, Con +3, Int +-2, Wis +3, Cha +-1
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Abyssal
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Bleeding Frenzy (44 HP or Fewer):** The minotaur enters a frenzy until the start of its next turn. Until the frenzy ends, the minotaur deals an extra 3 (1d6) damage of the weapon's type each time it hits with a melee weapon attack, and the minotaur takes an extra 3 (1d6) damage of the weapon's type the first time it is hit with a melee weapon attack before the frenzy ends.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

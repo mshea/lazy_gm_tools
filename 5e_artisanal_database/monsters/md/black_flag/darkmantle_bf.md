@@ -4,15 +4,15 @@
 
 - **Armor Class:** 11
 - **Hit Points:** 25 
-- **Speed:** walk 10 ft. fly 30 ft.- **Perception**: 10
-- **Stealth**: 13
+- **Speed:** walk 10 ft. fly 30 ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +1 | +1 | -4 | +0 | -3 |
+| 16 (+3) | 12 (+1) | 12 (+1) | 2 (-4) | 10 (+0) | 4 (-3) |
 
+- **Saving Throws**: Str +3, Dex +1, Con +1, Int +-4, Wis +0, Cha +-3
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** keensense 60 ft.
 - **Languages:** -
@@ -32,10 +32,3 @@
 ### Bonus Actions
 
 - **Darkness Aura (1/Day):** A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

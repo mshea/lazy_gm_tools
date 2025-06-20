@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 108 
-- **Speed:** walk 25 ft. fly 40 ft.- **Perception**: 12
-- **Stealth**: 12
+- **Speed:** walk 25 ft. fly 40 ft.
 - **Challenge Rating:** 5 (1,800 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +3 | +4 | -2 | +2 | -2 |
+| 14 (+2) | 16 (+3) | 18 (+4) | 6 (-2) | 14 (+2) | 6 (-2) |
 
+- **Saving Throws**: Str +2, Dex +3, Con +4, Int +-2, Wis +2, Cha +-2
 - **Damage Immunities:** blinded
 - **Damage Resistances:** bludgeoning,charmed,Monstrosity Resilience
 - **Senses:** keensense 60 ft. (can't sense beyond this radius)
@@ -35,10 +35,3 @@
 ### Bonus Actions
 
 - **Swift Flight:** The hivebound flies up to half its speed without provoking opportunity attacks.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

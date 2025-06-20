@@ -4,15 +4,15 @@
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 138 
-- **Speed:** walk 30 ft. swim 30 ft.- **Perception**: 14
-- **Stealth**: 13
+- **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 8 (3,900 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +7 | +3 | +8 | -3 | +4 | +1 |
+| 24 (+7) | 16 (+3) | 26 (+8) | 4 (-3) | 18 (+4) | 12 (+1) |
 
+- **Saving Throws**: Str +7, Dex +3, Con +8, Int +-3, Wis +4, Cha +1
 - **Damage Immunities:** Demonic Resilience
 - **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks,Demonic Resilience
 - **Senses:** darkvision 120 ft.
@@ -37,10 +37,3 @@
 ### Bonus Actions
 
 - **Quick Leap:** The hezrou jumps horizontally up to 20 feet to an unoccupied space it can see without provoking opportunity attacks.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

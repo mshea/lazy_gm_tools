@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13
 - **Hit Points:** 54 
-- **Speed:** walk 30 ft. climb 30 ft.- **Perception**: 13
-- **Stealth**: 13
+- **Speed:** walk 30 ft. climb 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +3 | +1 | -3 | +3 | -1 |
+| 10 (+0) | 16 (+3) | 12 (+1) | 4 (-3) | 16 (+3) | 8 (-1) |
 
+- **Saving Throws**: Str +0, Dex +3, Con +1, Int +-3, Wis +3, Cha +-1
 - **Damage Immunities:** poison,poisoned
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
@@ -35,10 +35,3 @@
 ### Bonus Actions
 
 - **Web (Recharge 4-6):** The ettercap launches a gob of webbing at one creature it can see within 30 feet of it. The target must succeed on a DC 13 DEX save or be restrained. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a DC 13 STR check. The webbing can also be attacked and destroyed (AC 10; HP 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 11
 - **Hit Points:** 15 
-- **Speed:** walk 20 ft. swim 40 ft.- **Perception**: 12
-- **Stealth**: 11
+- **Speed:** walk 20 ft. swim 40 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +1 | +0 | -4 | +0 | -4 |
+| 14 (+2) | 12 (+1) | 10 (+0) | 2 (-4) | 10 (+0) | 2 (-4) |
 
+- **Saving Throws**: Str +2, Dex +1, Con +0, Int +-4, Wis +0, Cha +-4
 - **Damage Resistances:** grappled
 - **Senses:** darkvision 30 ft.
 - **Languages:** -
@@ -30,10 +30,3 @@
 ### Bonus Actions
 
 - **Reeling Tongue:** The frog lashes out its tongue at one Medium or smaller creature it can see within 15 feet of it. The target must succeed on a DC 12 STR save or be pulled up to 10 feet closer to the frog.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

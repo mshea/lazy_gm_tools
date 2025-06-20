@@ -4,15 +4,15 @@
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 14 
-- **Speed:** walk 40 ft. climb 40 ft.- **Perception**: 13
-- **Stealth**: 16
+- **Speed:** walk 40 ft. climb 40 ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +2 | +1 | -4 | +1 | -3 |
+| 14 (+2) | 14 (+2) | 12 (+1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
+- **Saving Throws**: Str +2, Dex +2, Con +1, Int +-4, Wis +1, Cha +-3
 - **Senses:** keensense 10 ft., darkvision 60 ft.
 - **Languages:** -
 
@@ -28,10 +28,3 @@
 ### Bonus Actions
 
 - **Hunter's Leap:** The spider jumps up to 20 feet horizontally or up to 10 feet vertically toward a hostile creature that it can see. This movement doesn't provoke opportunity attacks.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

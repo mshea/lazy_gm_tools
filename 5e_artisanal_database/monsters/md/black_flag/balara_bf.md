@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 114 
-- **Speed:** walk 30 ft.- **Perception**: 14
-- **Stealth**: 12
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | +2 | +2 | -2 | +2 | -1 |
+| 16 (+3) | 14 (+2) | 14 (+2) | 6 (-2) | 14 (+2) | 8 (-1) |
 
+- **Saving Throws**: Str +3, Dex +2, Con +2, Int +-2, Wis +2, Cha +-1
 - **Damage Immunities:** charmed,frightened,Undead Resilience
 - **Damage Resistances:** necrotic
 - **Senses:** darkvision 60 ft.
@@ -34,10 +34,3 @@
 ### Reactions
 
 - **Relentless Pursuit:** When a creature the balara can see moves away from it, the balara can move up to half its speed toward that creature. This movement doesn't provoke opportunity attacks.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

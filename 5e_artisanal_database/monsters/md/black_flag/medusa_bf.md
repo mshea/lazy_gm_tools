@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 112 
-- **Speed:** walk 30 ft.- **Perception**: 14
-- **Stealth**: 15
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 6 (2,300 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +0 | +4 | +3 | +2 | +1 | +6 |
+| 10 (+0) | 18 (+4) | 16 (+3) | 14 (+2) | 12 (+1) | 22 (+6) |
 
+- **Saving Throws**: Str +0, Dex +4, Con +3, Int +2, Wis +1, Cha +6
 - **Damage Immunities:** poison,poisoned
 - **Damage Resistances:** petrified,Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
@@ -34,10 +34,3 @@
 ### Reactions
 
 - **Interruptive Hiss:** When a creature the medusa can see targets it with an attack, the medusa's snakes can suddenly rise and hiss at the attacker. The attacker must succeed on a DC 14 WIS save or fail the attack roll.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

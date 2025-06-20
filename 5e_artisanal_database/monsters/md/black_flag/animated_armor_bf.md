@@ -4,15 +4,15 @@
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 34 
-- **Speed:** walk 25 ft.- **Perception**: 8
-- **Stealth**: 10
+- **Speed:** walk 25 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +4 | +0 | +1 | -5 | -2 | -5 |
+| 18 (+4) | 10 (+0) | 12 (+1) | 1 (-5) | 6 (-2) | 1 (-5) |
 
+- **Saving Throws**: Str +4, Dex +0, Con +1, Int +-5, Wis +-2, Cha +-5
 - **Damage Vulnerabilities:** acid
 - **Damage Immunities:** blinded,deafened,Construct Resilience
 - **Damage Resistances:** slashing
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Helmet Bash (19 HP or Fewer):** The animated armor slams its helmet into a creature it can sense within 5 feet of it. The target must succeed on a DC 13 STR save or take 5 (2d4) bludgeoning damage and be knocked prone.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

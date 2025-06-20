@@ -4,15 +4,15 @@
 
 - **Armor Class:** 21 (natural armor)
 - **Hit Points:** 355 
-- **Speed:** walk 40 ft. burrow 40 ft. fly 80 ft.- **Perception**: 27
-- **Stealth**: 16
+- **Speed:** walk 40 ft. burrow 40 ft. fly 80 ft.
 - **Challenge Rating:** 20 (25,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +9 | +6 | +14 | +4 | +9 | +11 |
+| 28 (+9) | 22 (+6) | 38 (+14) | 18 (+4) | 28 (+9) | 32 (+11) |
 
+- **Saving Throws**: Str +9, Dex +6, Con +14, Int +4, Wis +9, Cha +11
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 120 ft., keensense 60 ft.
 - **Languages:** Common,Draconic
@@ -39,10 +39,3 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Tail Attack:** The dragon makes a Tail attack.
 - **Elemental Roar (Costs 2 Actions):** The dragon roars at up to two creatures of its choice within 120 feet of it. Each target must succeed on a DC 19 CHA save or be vulnerable to lightning damage until the end of its next turn. A target resistant to lightning damage isn't resistant to it for the duration. A target immune to lightning damage is still immune to it, even if the target fails the save.
 - **Wing Attack (Costs 2 Actions):** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 DEX save or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed without provoking opportunity attacks.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

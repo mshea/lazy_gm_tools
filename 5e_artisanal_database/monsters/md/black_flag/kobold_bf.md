@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 9 
-- **Speed:** walk 30 ft.- **Perception**: 8
-- **Stealth**: 14
+- **Speed:** walk 30 ft.
 - **Challenge Rating:** 1/8 (25 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -2 | +4 | -1 | -1 | -2 | -1 |
+| 6 (-2) | 18 (+4) | 8 (-1) | 8 (-1) | 6 (-2) | 8 (-1) |
 
+- **Saving Throws**: Str +-2, Dex +4, Con +-1, Int +-1, Wis +-2, Cha +-1
 - **Senses:** darkvision 60 ft.
 - **Languages:** Common,Draconic
 
@@ -29,10 +29,3 @@
 ### Bonus Actions
 
 - **Scurry:** The kobold moves up to 15 feet without provoking opportunity attacks. If the kobold is aware of traps in the area, the kobold can choose if this movement triggers any of them.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 68 
-- **Speed:** walk 0 ft. fly 40 ft. hover True ft.- **Perception**: 13
-- **Stealth**: 11
+- **Speed:** walk 0 ft. fly 40 ft. hover True ft.
 - **Challenge Rating:** 4 (1,100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -2 | +2 | +0 | +0 | +3 | +4 |
+| 6 (-2) | 14 (+2) | 10 (+0) | 10 (+0) | 16 (+3) | 18 (+4) |
 
+- **Saving Throws**: Str +-2, Dex +2, Con +0, Int +0, Wis +3, Cha +4
 - **Damage Immunities:** cold,necrotic,charmed,frightened,grappled,paralyzed,petrified,prone,restrained,Undead Resilience
 - **Damage Resistances:** acid,fire,lightning,thunder; bludgeoning,piercing,and slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft.
@@ -36,10 +36,3 @@
 ### Bonus Actions
 
 - **Etherealness:** The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Ethereal Plane, and vice versa, yet it can't affect or be affected by anything on the other plane.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

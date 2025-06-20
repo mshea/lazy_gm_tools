@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (leather armor)
 - **Hit Points:** 80 
-- **Speed:** walk 30 ft. climb 15 ft.- **Perception**: 12
-- **Stealth**: 16
+- **Speed:** walk 30 ft. climb 15 ft.
 - **Challenge Rating:** 3 (700 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -1 | +6 | +0 | +1 | +2 | +0 |
+| 8 (-1) | 22 (+6) | 10 (+0) | 12 (+1) | 14 (+2) | 10 (+0) |
 
+- **Saving Throws**: Str +-1, Dex +6, Con +0, Int +1, Wis +2, Cha +0
 - **Senses:** darkvision 60 ft.
 - **Languages:** Common,Draconic
 
@@ -30,10 +30,3 @@
 ### Bonus Actions
 
 - **Hidden Scurry:** The swiftblade moves up to 15 feet without provoking opportunity attacks, and if it moves into a lightly or heavily obscured area, it takes the Hide action, using its **Stealth** value as the result of the check. If the swiftblade is aware of traps in the area, it can choose if this movement triggers any of them.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 27 
-- **Speed:** walk 30 ft. fly 30 ft. hover True ft.- **Perception**: 13
-- **Stealth**: 14
+- **Speed:** walk 30 ft. fly 30 ft. hover True ft.
 - **Challenge Rating:** 1/2 (100 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -3 | +2 | +0 | -2 | +1 | +0 |
+| 4 (-3) | 14 (+2) | 10 (+0) | 6 (-2) | 12 (+1) | 10 (+0) |
 
+- **Saving Throws**: Str +-3, Dex +2, Con +0, Int +-2, Wis +1, Cha +0
 - **Damage Vulnerabilities:** cold,thunder
 - **Damage Immunities:** fire,poison,poisoned,prone
 - **Senses:** darkvision 60 ft.
@@ -32,10 +32,3 @@
 ### Bonus Actions
 
 - **Hazy Form (1/Day):** The mephit casts the blur spell, requiring no material components and using WIS as the spellcasting ability.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

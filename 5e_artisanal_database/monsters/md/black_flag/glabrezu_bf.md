@@ -4,15 +4,15 @@
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 154 
-- **Speed:** walk 40 ft.- **Perception**: 17
-- **Stealth**: 12
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 9 (5,000 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +9 | +2 | +9 | +4 | +7 | +7 |
+| 28 (+9) | 14 (+2) | 28 (+9) | 18 (+4) | 24 (+7) | 24 (+7) |
 
+- **Saving Throws**: Str +9, Dex +2, Con +9, Int +4, Wis +7, Cha +7
 - **Damage Immunities:** Demonic Resilience
 - **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks,Demonic Resilience
 - **Senses:** truesight 120 ft.
@@ -34,10 +34,3 @@
 ### Bonus Actions
 
 - **Manipulating Whispers:** The glabrezu whispers in the mind of a creature it can see within 120 feet of it, encouraging the creature to commit wicked acts. The target must succeed on a DC 17 CHA save or succumb to one of the following urges:<br>- **Boastful Stance.** The target is overcome with surety of its own battle prowess, momentarily letting down its guard. Creatures have advantage on attack rolls against the target until the start of the glabrezu's next turn.<br>- **Confirmation of Wealth.** The target is briefly overcome with the desire to confirm the amount and status of its valuables. It uses either an action or bonus action on its next turn (the glabrezu's choice) to count and take stock of its valuables.<br>- **Wrathful Strike.** Anger fills the target, and it immediately lashes out at those nearby. The target uses its reaction to make one melee weapon attack against a creature of the glabrezu's choice within 5 feet of the target.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

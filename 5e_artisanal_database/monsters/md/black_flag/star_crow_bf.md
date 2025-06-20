@@ -4,15 +4,15 @@
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 12 
-- **Speed:** walk 20 ft. fly 60 ft. hover True ft.- **Perception**: 13
-- **Stealth**: 15
+- **Speed:** walk 20 ft. fly 60 ft. hover True ft.
 - **Challenge Rating:** 1/4 (50 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -2 | +3 | +1 | -5 | +3 | -5 |
+| 6 (-2) | 16 (+3) | 12 (+1) | 1 (-5) | 16 (+3) | 1 (-5) |
 
+- **Saving Throws**: Str +-2, Dex +3, Con +1, Int +-5, Wis +3, Cha +-5
 - **Damage Vulnerabilities:** poison
 - **Damage Immunities:** psychic,radiant,blinded,exhaustion,prone
 - **Damage Resistances:** Aberrant Resilience
@@ -32,10 +32,3 @@
 ### Bonus Actions
 
 - **Blinding Burst (Recharge 5-6):** The star crow dims then suddenly bursts with blinding light. Each creature within 30 feet of the star crow must succeed on a DC 13 CON save or be blinded until the end of its next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

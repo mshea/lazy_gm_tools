@@ -4,15 +4,15 @@
 
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 63 
-- **Speed:** walk 40 ft.- **Perception**: 11
-- **Stealth**: 9
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +5 | -1 | +2 | -4 | +1 | -2 |
+| 20 (+5) | 8 (-1) | 14 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
 
+- **Saving Throws**: Str +5, Dex +-1, Con +2, Int +-4, Wis +1, Cha +-2
 - **Damage Resistances:** bludgeoning,stunned
 - **Senses:** -
 - **Languages:** -
@@ -29,10 +29,3 @@
 ### Bonus Actions
 
 - **Quaking Stomp:** The rhinoceros rears up and slams its forefeet on the ground, shaking the area. Each creature within 10 feet of the rhinoceros must succeed on a DC 15 DEX save or be knocked prone.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

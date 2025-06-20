@@ -4,15 +4,15 @@
 
 - **Armor Class:** 14
 - **Hit Points:** 48 
-- **Speed:** walk 30 ft. swim 30 ft.- **Perception**: 10
-- **Stealth**: 14
+- **Speed:** walk 30 ft. swim 30 ft.
 - **Challenge Rating:** 2 (450 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| -1 | +4 | +0 | -5 | +0 | -4 |
+| 8 (-1) | 18 (+4) | 10 (+0) | 1 (-5) | 10 (+0) | 2 (-4) |
 
+- **Saving Throws**: Str +-1, Dex +4, Con +0, Int +-5, Wis +0, Cha +-4
 - **Damage Immunities:** Swarm Resilience
 - **Damage Resistances:** poison,poisoned,Swarm Resilience
 - **Senses:** keensense 10 ft.
@@ -27,10 +27,3 @@
 ### Actions
 
 - **Bites:** _Melee Weapon Attack:_ +6 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its HP or fewer. The target must make a DC 14 CON save, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

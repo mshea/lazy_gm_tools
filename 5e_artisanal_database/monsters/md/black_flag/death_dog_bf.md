@@ -4,15 +4,15 @@
 
 - **Armor Class:** 12
 - **Hit Points:** 40 
-- **Speed:** walk 40 ft.- **Perception**: 15
-- **Stealth**: 14
+- **Speed:** walk 40 ft.
 - **Challenge Rating:** 1 (200 XP)
-- **Source:** Black Flag,
+- **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +2 | +2 | +2 | -4 | +1 | -2 |
+| 14 (+2) | 14 (+2) | 14 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
 
+- **Saving Throws**: Str +2, Dex +2, Con +2, Int +-4, Wis +1, Cha +-2
 - **Damage Resistances:** Multiple Heads,Monstrosity Resilience
 - **Senses:** darkvision 120 ft.
 - **Languages:** -
@@ -30,10 +30,3 @@
 ### Bonus Actions
 
 - **Dual Bark:** The death dog's two heads bark at creatures in two 15-foot cones. Each creature in the area of a cone must succeed on a DC 12 CON save or be deafened until the end of its next turn. If the cones overlap each other, each creature in overlapping cones must make only one save with disadvantage rather than one save for each cone.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.
