@@ -331,9 +331,10 @@
     <input type="text" id="searchInput" class="search-input" placeholder="Search rules, spells, monsters, and more..." autocomplete="off">
     <div class="search-buttons">
         <button type="button" id="searchButton" onclick="performManualSearch()">Search</button>
-        <button type="button" id="luckyButton" onclick="performLuckySearch()">I'm Feeling Lucky</button>
+        <button type="button" id="luckyButton" onclick="performLuckySearch()">First Result</button>
     </div>
 </div>
+<p style="font-size: 80%; margin:auto; text-align: center">URL refreshes based on your filters. Add &lucky=1 to the URL to jump to the first hit.</p>
 
 <div class="filter-container">
     <div class="filter-header" onclick="toggleFilters()">
@@ -350,7 +351,6 @@
         </div>
     </div>
 </div>
-
 <div id="searchStats" class="search-stats" style="display: none;"></div>
 <div id="searchResults" class="search-results"></div>
 
