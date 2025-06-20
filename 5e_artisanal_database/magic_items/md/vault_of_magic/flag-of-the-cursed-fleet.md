@@ -1,11 +1,9 @@
-
 # Flag of the Cursed Fleet
 
-* **Rarity:** legendary
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Legendary
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This dreaded item is a black flag painted with an unsettlingly realistic skull. A spell or other effect that can sense the presence of magic, such as detect magic, reveals an aura of necromancy around the flag. Beasts with an Intelligence of 3 or lower don’t willingly board a vessel where this flag flies. A successful DC 17 Wisdom (Animal Handling) check convinces an unwilling beast to board the vessel, though it remains uneasy and skittish while aboard. 
 Cursed Crew. When this baleful flag flies atop the mast of a waterborne vehicle, it curses the vessel and all those that board it. When a creature that isn’t a humanoid dies aboard the vessel, it rises 1 minute later as a zombie under the ship captain’s control. When a humanoid dies aboard the vessel, it rises 1 minute later as a ghoul under the ship captain’s control. A ghoul retains any knowledge of sailing or maintaining a waterborne vehicle that it had in life. 

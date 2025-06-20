@@ -1,11 +1,9 @@
-
 # Vorpal Sword
 
-* **Rarity:** legendary
-* **Type:** Weapon (any sword that deals slashing damage)
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Legendary
+- **Type:** Weapon
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
 

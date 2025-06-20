@@ -1,11 +1,9 @@
-
 # Deck of Illusions
 
-* **Rarity:** uncommon
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Uncommon
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 - 1 cards.
 

@@ -1,11 +1,9 @@
-
 # Tarian Graddfeydd Ddraig
 
-* **Rarity:** very rare
-* **Type:** Armor
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Armor
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This metal shield has an outer coating consisting of hardened resinous insectoid secretions embedded with flakes from ground dragon scales collected from various dragon wyrmlings and one dragon that was killed by shadow magic. While holding this shield, you gain a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. In addition, you have resistance to acid, cold, fire, lightning, necrotic, and poison damage dealt by the breath weapons of dragons. While wielding the shield in an area of dim or bright light, you can use an action to reflect the light off the shield's dragon scale flakes to cause a cone of multicolored light to flash from it (15-foot cone if in dim light; 30-foot cone if in bright light). Each creature in the area must make a DC 17 Dexterity saving throw. For each target, roll a d6 and consult the following table to determine which color is reflected at it. The shield can't be used this way again until the next dawn. | d6 | Effect |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,11 +1,9 @@
-
 # Ring of Shooting Stars
 
-* **Rarity:** very rare
-* **Type:** Ring
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Ring
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 While wearing this ring in dim light or darkness, you can cast _dancing lights_ and _light_ from the ring at will. Casting either spell from the ring requires an action.
 

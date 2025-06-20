@@ -1,11 +1,9 @@
-
 # Bead of Force
 
-* **Rarity:** rare
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 _beads of force_ are found together.
 

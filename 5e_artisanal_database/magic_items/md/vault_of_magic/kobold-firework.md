@@ -1,11 +1,9 @@
-
 # Kobold Firework
 
-* **Rarity:** varies
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Varies
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 These small pouches and cylinders are filled with magical powders and reagents, and they each have a small fuse protruding from their closures. You can use an action to light a firework then throw it up to 30 feet. The firework activates immediately or on initiative count 20 of the following round, as detailed below. Once a firework’s effects end, it is destroyed. A firework can’t be lit underwater, and submersion in water destroys a firework. A lit firework can be destroyed early by dousing it with at least 1 gallon of water.
  Blinding Goblin-Cracker (Uncommon). This bright yellow firework releases a blinding flash of light on impact. Each creature within 15 feet of where the firework landed and that can see it must succeed on a DC 13 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

@@ -1,11 +1,9 @@
-
 # Staff of Withering
 
-* **Rarity:** rare
-* **Type:** Staff
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Staff
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This staff has 3 charges and regains 1d3 expended charges daily at dawn.
 

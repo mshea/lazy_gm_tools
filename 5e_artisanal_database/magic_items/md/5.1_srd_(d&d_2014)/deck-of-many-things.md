@@ -1,11 +1,9 @@
-
 # Deck of Many Things
 
-* **Rarity:** legendary
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Legendary
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 

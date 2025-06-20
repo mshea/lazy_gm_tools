@@ -1,11 +1,9 @@
-
 # Blue Rose
 
-* **Rarity:** rare
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Rare
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 The petals of this cerulean flower can be prepared into a compote and consumed. A single flower can make 3 doses. When you consume a dose, your Intelligence, Wisdom, and Charisma scores are reduced by 1 each. This reduction lasts until you finish a long rest. You can consume up to three doses as part of casting a spell, and you can choose to affect your spell with one of the following options for each dose you consumed: - If the spell is of the abjuration school, increase the save DC by 2.
 - If the spell has more powerful effects when cast at a higher level, treat the spell's effects as if you had cast the spell at one slot level higher than the spell slot you used.

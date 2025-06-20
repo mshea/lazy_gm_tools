@@ -1,10 +1,8 @@
-
 # Rod of Reformation
 
-* **Rarity:** rare
-* **Type:** Rod
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Rare
+- **Type:** Rod
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This rod of polished white oak is wrapped in a knotted cord with three iron rings binding each end. If you are holding the rod and fail a saving throw against a transmutation spell or other effect that would change your body or remove or alter parts of you, you can choose to succeed instead. The rod can’t be used this way again until the next dawn. The rod has 5 charges for the following properties. It regains 1d4 + 1 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the rings fall off, the cord unknots, and the entire rod slowly falls to pieces and is destroyed. Cure Transformation. While holding the rod, you can use an action to expend 1 charge while touching a creature that has been affected by a transmutation spell or other effect that changed its physical form, such as the polymorph spell or a medusa's Petrifying Gaze. The rod restores the creature to its original form. If the creature is willingly transformed, such as a druid using Wild Shape, you must make a melee weapon attack roll, using the rod. You are proficient with the rod if you are proficient with clubs. On a hit, you can expend 1 of the rod’s charges to force the target to make a DC 15 Constitution saving throw. On a failure, the target reverts to its original form. Mend Form. While holding the rod, you can use an action to expend 2 charges to reattach a creature's severed limb or body part. The limb must be held in place while you use the rod, and the process takes 1 minute to complete. You can’t reattach limbs or other body parts to dead creatures. If the limb is lost, you can spend 4 charges instead to regenerate the missing piece, which takes 2 minutes to complete. Reconstruct Form. While holding the rod, you can use an action to expend 5 charges to reconstruct the form of a creature or object that has been disintegrated, burned to ash, or similarly destroyed. An item is completely restored to its original state. A creature’s body is fully restored to the state it was in before it was destroyed. The creature isn’t restored to life, but this reconstruction of its form allows the creature to be restored to life by spells that require the body to be present, such as raise dead.

@@ -1,11 +1,9 @@
-
 # Boots of Speed
 
-* **Rarity:** rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.
 

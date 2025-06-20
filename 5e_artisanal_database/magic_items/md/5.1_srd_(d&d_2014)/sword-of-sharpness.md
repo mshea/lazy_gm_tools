@@ -1,11 +1,9 @@
-
 # Sword of Sharpness
 
-* **Rarity:** very rare
-* **Type:** Weapon (any sword that deals slashing damage)
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Weapon
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
 

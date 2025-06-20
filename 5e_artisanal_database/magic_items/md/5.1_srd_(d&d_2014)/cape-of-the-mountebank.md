@@ -1,11 +1,9 @@
-
 # Cape of the Mountebank
 
-* **Rarity:** rare
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast the _dimension door_ spell as an action. This property of the cape can't be used again until the next dawn.
 

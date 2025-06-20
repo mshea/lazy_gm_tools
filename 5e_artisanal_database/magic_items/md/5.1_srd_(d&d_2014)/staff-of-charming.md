@@ -1,11 +1,9 @@
-
 # Staff of Charming
 
-* **Rarity:** rare
-* **Type:** Staff
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Staff
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 While holding this staff, you can use an action to expend 1 of its 10 charges to cast _charm person_, _command_, _or comprehend languages_ from it using your spell save DC. The staff can also be used as a magic quarterstaff.
 

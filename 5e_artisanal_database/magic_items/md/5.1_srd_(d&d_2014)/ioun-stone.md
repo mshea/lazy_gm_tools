@@ -1,11 +1,9 @@
-
 # Ioun Stone
 
-* **Rarity:** varies
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Varies
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.
 

@@ -1,10 +1,8 @@
-
 # Circlet of Persuasion
 
-* **Rarity:** uncommon
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Uncommon
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 While wearing this circlet, you have advantage on Charisma (Persuasion) checks.

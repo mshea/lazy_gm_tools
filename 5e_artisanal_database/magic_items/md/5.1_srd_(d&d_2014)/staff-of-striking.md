@@ -1,11 +1,9 @@
-
 # Staff of Striking
 
-* **Rarity:** very rare
-* **Type:** Staff
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Staff
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
 

@@ -1,11 +1,9 @@
-
 # Mongrelmaker's Handbook
 
-* **Rarity:** very rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This thin volume holds a scant few dozen vellum pages between its mottled, scaled cover. The pages are scrawled with tight, efficient text which is broken up by outlandish pencil drawings of animals and birds combined together. With the rituals contained in this book, you can combine two or more animals into an adult hybrid of all creatures used. Each ritual requires the indicated amount of time, the indicated cost in mystic reagents, a live specimen of each type of creature to be combined, and enough floor space to draw a combining rune which encircles the component creatures. Once combined, the hybrid creature is a typical example of its new kind, though some aesthetic differences may be detectable. You can't control the creatures you create with this handbook, though the magic of the combining ritual prevents your creations from attacking you for the first 24 hours of their new lives. | Creature | Time | Cost | Component Creatures |
 | ---------------- | -------- | -------- | -------------------------------------------------------- |

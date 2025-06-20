@@ -1,11 +1,9 @@
-
 # Oil of Slipperiness
 
-* **Rarity:** uncommon
-* **Type:** Potion
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Uncommon
+- **Type:** Potion
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a _freedom of movement_ spell for 8 hours.
 

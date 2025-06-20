@@ -1,11 +1,9 @@
-
 # Dragon Slayer
 
-* **Rarity:** rare
-* **Type:** Weapon (any sword)
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Weapon
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

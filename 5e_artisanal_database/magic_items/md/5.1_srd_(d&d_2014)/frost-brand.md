@@ -1,11 +1,9 @@
-
 # Frost Brand
 
-* **Rarity:** very rare
-* **Type:** Weapon (any sword)
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Weapon
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 

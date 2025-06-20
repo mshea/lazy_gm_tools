@@ -1,10 +1,8 @@
-
 # Rod of Bubbles
 
-* **Rarity:** rare
-* **Type:** Rod
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Rare
+- **Type:** Rod
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This rod appears to be made of foamy bubbles, but it is completely solid to the touch. This rod has 3 charges. While holding it, you can use an action to expend 1 of its charges to conjure a bubble around a creature or object within 30 feet. If the target is a creature, it must make a DC 15 Strength saving throw. On a failed save, the target becomes trapped in a 10-foot sphere of water. A Huge or larger creature automatically succeeds on this saving throw. A creature trapped within the bubble is restrained unless it has a swimming speed and can't breathe unless it can breathe water. If the target is an object, it becomes soaked in water, any fire effects are extinguished, and any acid effects are negated. The bubble floats in the exact spot where it was conjured for up to 1 minute, unless blown by a strong wind or moved by water. The bubble has 50 hit points, AC 8, immunity to acid damage and vulnerability to piercing damage. The inside of the bubble also has resistance to all damage except piercing damage. The bubble disappears after 1 minute or when it is reduced to 0 hit points. When not in use, this rod can be commanded to take liquid form and be stored in a small vial. The rod regains 1d3 expended charges daily at dawn.

@@ -1,11 +1,9 @@
-
 # Rod of Alertness
 
-* **Rarity:** very rare
-* **Type:** Rod
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Rod
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 This rod has a flanged head and the following properties.
 

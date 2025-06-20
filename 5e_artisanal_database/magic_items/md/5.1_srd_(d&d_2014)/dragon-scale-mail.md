@@ -1,11 +1,9 @@
-
 # Dragon Scale Mail
 
-* **Rarity:** very rare
-* **Type:** Armor (scale mail)
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Armor
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.
 

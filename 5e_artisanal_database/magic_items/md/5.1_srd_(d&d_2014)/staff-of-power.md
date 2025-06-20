@@ -1,11 +1,9 @@
-
 # Staff of Power
 
-* **Rarity:** very rare
-* **Type:** Staff
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Staff
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
 

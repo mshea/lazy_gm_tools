@@ -1,11 +1,9 @@
-
 # Bloodpearl Bracelet
 
-* **Rarity:** uncommon (silver), very rare (gold)
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Common
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This silver or gold bracelet features three red pearls. You can use an action to remove a pearl and throw it up to 20 feet. When the pearl lands, it transforms into an ooze you determine by rolling a d6 and consulting the table that corresponds to the bracelet's color. The ooze vanishes at the next dawn or when it is reduced to 0 hit points. When you throw a pearl, your hit point maximum is reduced by the amount listed in the Blood Price column. This reduction can't be removed with the greater restoration spell or similar magic and lasts until the ooze vanishes or is reduced to 0 hit points. The ooze is friendly to you and your companions and acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the ooze acts in a fashion appropriate to its nature. Once all three pearls have been used, the bracelet can't be used again until the next dawn when the pearls regrow. | d6 | Ooze | CR | Blood Price |
 | --- | --------------------------- | --- | ---------------- |

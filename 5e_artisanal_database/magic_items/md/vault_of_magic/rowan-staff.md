@@ -1,10 +1,8 @@
-
 # Rowan Staff
 
-* **Rarity:** very rare
-* **Type:** Staff
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Staff
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 Favored by those with ties to nature and death, this staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it. While holding it, you have an advantage on saving throws against spells. The staff has 10 charges for the following properties. It regains 1d4 + 1 expended charges daily at midnight, though it regains all its charges if it is bathed in moonlight at midnight. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff. Spell. While holding this staff, you can use an action to expend 1 or more of its charges to cast animate dead, using your spell save DC and spellcasting ability. The target bones or corpse can be a Medium or smaller humanoid or beast. Each charge animates a separate target. These undead creatures are under your control for 24 hours. You can use an action to expend 1 charge each day to reassert your control of up to four undead creatures created by this staff for another 24 hours. Deanimate. You can use an action to strike an undead creature with the staff in combat. If the attack hits, the target must succeed on a DC 17 Constitution saving throw or revert to an inanimate pile of bones or corpse in its space. If the undead has the Incorporeal Movement trait, it is destroyed instead. Deanimating an undead creature expends a number of charges equal to twice the challenge rating of the creature (minimum of 1). If the staff doesn’t have enough charges to deanimate the target, the staff doesn’t deanimate the target.

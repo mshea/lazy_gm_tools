@@ -1,11 +1,9 @@
-
 # Book of Ebon Tides
 
-* **Rarity:** very rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This strange, twilight-hued tome was written on pages of pure shadow weave, bound in traditional birch board covers wrapped with shadow goblin hide, and imbued with the memories of forests on the Plane of Shadow. Its covers often reflect light as if it were resting in a forest grove, and some owners swear that a goblin face appears on them now and again. The sturdy lock on one side opens only for wizards, elves, and Shadow Fey (see Tome of Beasts). The book has 15 charges, and it regains 2d6 + 3 expended charges daily in the twilight before dawn. If you expend the last charge, roll a 1d20. On a 1, the book retains its Ebon Tides and Shadow Lore properties but loses its Spells property. When the magic ritual completes, make an Intelligence (Arcana) check and consult the Terrain Changes table for the appropriate DCs. You can change the terrain in any one way listed at your result or lower. For example, if your result was 17, you could turn a small forest up to 30 feet across into a grassland, create a grove of trees up to 240 feet across, create a 6-foot-wide flowing stream, overgrow 1,500 feet of an existing road, or other similar option. Only natural terrain you can see can be affected; built structures, such as homes or castles, remain untouched, though roads and trails can be overgrown or hidden. On a failure, the terrain is unchanged. On a 1, an Overshadow (see Tome of Beasts 2) also appears and attacks you. On a 20, you can choose two options. Deities, Fey Lords and Ladies (see Tome of Beasts), archdevils, demon lords, and other powerful rulers in the Plane of Shadow can prevent these terrain modifications from happening in their presence or anywhere within their respective domains. Spells marked with an asterisk (*) can be found in Deep Magic for 5th Edition. At the GM's discretion, spells from Deep Magic for 5th Edition can be replaced with other spells of similar levels and similarly related to darkness, illusion, or shadows, such as invisibility or major image. | DC | Effect |
 | --- | --------------------------------------------------------------------------------------------------- |

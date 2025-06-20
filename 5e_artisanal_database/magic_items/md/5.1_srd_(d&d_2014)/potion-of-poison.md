@@ -1,11 +1,9 @@
-
 # Potion of Poison
 
-* **Rarity:** uncommon
-* **Type:** Potion
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Uncommon
+- **Type:** Potion
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This concoction looks, smells, and tastes like a _potion of healing_ or other beneficial potion. However, it is actually poison masked by illusion magic. An _identify_ spell reveals its true nature.
 

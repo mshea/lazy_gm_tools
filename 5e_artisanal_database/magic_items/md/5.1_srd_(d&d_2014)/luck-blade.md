@@ -1,11 +1,9 @@
-
 # Luck Blade
 
-* **Rarity:** legendary
-* **Type:** Weapon (any sword)
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Legendary
+- **Type:** Weapon
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
 

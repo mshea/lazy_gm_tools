@@ -1,11 +1,9 @@
-
 # Staff of Swarming Insects
 
-* **Rarity:** very rare
-* **Type:** Staff
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Staff
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses.
 

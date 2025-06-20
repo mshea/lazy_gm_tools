@@ -1,11 +1,9 @@
-
 # Potion of Healing
 
-* **Rarity:** varies
-* **Type:** Potion
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Varies
+- **Type:** Potion
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.
 

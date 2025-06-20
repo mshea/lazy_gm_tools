@@ -1,11 +1,9 @@
-
 # Cube of Force
 
-* **Rarity:** rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.
 

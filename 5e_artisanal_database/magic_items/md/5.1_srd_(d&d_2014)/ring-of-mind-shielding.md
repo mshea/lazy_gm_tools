@@ -1,11 +1,9 @@
-
 # Ring of Mind Shielding
 
-* **Rarity:** uncommon
-* **Type:** Ring
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Uncommon
+- **Type:** Ring
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
 

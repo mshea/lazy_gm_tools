@@ -1,11 +1,9 @@
-
 # Staff of Thunder and Lightning
 
-* **Rarity:** very rare
-* **Type:** Staff
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Staff
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
 

@@ -1,10 +1,8 @@
-
 # Brass Clockwork Staff
 
-* **Rarity:** rare
-* **Type:** Staff
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Rare
+- **Type:** Staff
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This curved staff is made of coiled brass and glass wire. You can use an action to speak one of three command words and throw the staff on the ground within 10 feet of you. The staff transforms into one of three wireframe creatures, depending on the command word: a unicorn, a hound, or a swarm of tiny beetles. The wireframe creature or swarm is under your control and acts on its own initiative count. On your turn, you can mentally command the wireframe creature or swarm if it is within 60 feet of you and you aren't incapacitated. You decide what action the creature takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location. The wireframe unicorn lasts for up to 1 hour, uses the statistics of a warhorse, and can be used as a mount. The wireframe hound lasts for up to 5 minutes, uses the statistics of a dire wolf, and has advantage to track any creature you damaged within the past hour. The wireframe beetle swarm lasts for up to 1 minute, uses the statistics of a swarm of beetles, and can destroy nonmagical objects that aren't being worn or carried and that aren't made of stone or metal (destruction happens at a rate of 1 pound of material per round, up to a maximum of 10 pounds). At the end of the duration, the wireframe creature or swarm reverts to its staff form. It reverts to its staff form early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. If it reverts to its staff form early by being reduced to 0 hit points, the staff becomes inert and unusable until the third dawn after the creature was killed. Otherwise, the wireframe creature or swarm has all of its hit points when you transform the staff into the creature again. When a wireframe creature or swarm becomes the staff again, this property of the staff can't be used again until the next dawn.

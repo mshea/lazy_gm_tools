@@ -1,11 +1,9 @@
-
 # Orb of Dragonkind
 
-* **Rarity:** artifact
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Artifact
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 Ages past, elves and humans waged a terrible war against evil dragons. When the world seemed doomed, powerful wizards came together and worked their greatest magic, forging five _Orbs of Dragonkind_ (or _Dragon Orbs_) to help them defeat the dragons. One orb was taken to each of the five wizard towers, and there they were used to speed the war toward a victorious end. The wizards used the orbs to lure dragons to them, then destroyed the dragons with powerful magic.
 

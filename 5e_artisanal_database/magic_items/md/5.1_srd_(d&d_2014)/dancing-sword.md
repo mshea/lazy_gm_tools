@@ -1,11 +1,9 @@
-
 # Dancing Sword
 
-* **Rarity:** very rare
-* **Type:** Weapon (any sword)
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Weapon
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
 

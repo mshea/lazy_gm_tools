@@ -1,10 +1,8 @@
-
 # Fiendish Charter
 
-* **Rarity:** rare
-* **Type:** Scroll
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Rare
+- **Type:** Scroll
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This long scroll bears the mark of a powerful creature of the Lower Planes, whether an archduke of Hell, a demon lord of the Abyss, or some other powerful fiend or evil deity. When you use an action to present this scroll to a fiend whose Challenge Rating is equal to or less than your level, the binding powers of the scroll compel it to listen to you. You can then attempt to strike a bargain with the fiend, negotiating a service from it in exchange for a reward. The fiend is under no compulsion to strike the bargain; it is compelled only to parley long enough for you to present a bargain and allow for negotiations. If you or your allies attack or otherwise attempt to harm the fiend, the truce is broken, and the creature can act normally. If the fiend refuses the offer, it is free to take any actions it wishes. Should you and the fiend reach an agreement that is satisfactory to both parties, you must sign the charter in blood and have the fiend do likewise (or make its mark, if it has no form of writing). The writing on the scroll changes to reflect the terms of the agreement struck. The magic of the charter holds both you and the fiend to the agreement until its service is rendered and the reward paid, at which point the scroll ignites and burns into ash. The contract's wording should be carefully considered, as fiends are notorious for finding loopholes or adhering to the letter of the agreement to their advantage. If either party breaks the bargain, that creature immediately takes 10d6 necrotic damage, and the charter is destroyed, ending the contract.

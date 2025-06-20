@@ -1,10 +1,8 @@
-
 # Potion of Clairvoyance
 
-* **Rarity:** rare
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** 5.2 SRD (D&D 2024)
-
+- **Rarity:** Rare
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** 5.2 SRD (D&D 2024)
 
 When you drink this potion, you gain the effect of the Clairvoyance spell (no Concentration required). An eyeball bobs in this potion's yellowish liquid but vanishes when the potion is opened.

@@ -1,11 +1,9 @@
-
 # Hammer of Thunderbolts
 
-* **Rarity:** legendary
-* **Type:** Weapon (maul)
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Legendary
+- **Type:** Weapon
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

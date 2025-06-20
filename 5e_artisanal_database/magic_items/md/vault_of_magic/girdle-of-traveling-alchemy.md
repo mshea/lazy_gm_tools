@@ -1,11 +1,9 @@
-
 # Girdle of Traveling Alchemy
 
-* **Rarity:** very rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This wide leather girdle has many sewn-in pouches and holsters that hold an assortment of empty beakers and vials. Once you have attuned to the girdle, these containers magically fill with the following liquids:
 - 2 flasks of alchemist's fire

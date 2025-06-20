@@ -1,11 +1,9 @@
-
 # Holy Avenger
 
-* **Rarity:** legendary
-* **Type:** Weapon (any sword)
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Legendary
+- **Type:** Weapon
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
 

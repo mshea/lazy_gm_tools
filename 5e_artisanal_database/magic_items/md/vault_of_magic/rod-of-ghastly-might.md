@@ -1,10 +1,8 @@
-
 # Rod of Ghastly Might
 
-* **Rarity:** legendary
-* **Type:** Rod
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Legendary
+- **Type:** Rod
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 The knobbed head of this tarnished silver rod resembles the top half of a jawless, syphilitic skull, and it functions as a magic mace that grants a +2 bonus to attack and damage rolls made with it. The rod has properties associated with five different buttons that are set erratically along the haft. It has three other properties as well, detailed below. If you press **button 1**, the rod's head erupts in a fiery nimbus of abyssal energy that sheds dim light in a 5-foot radius. While the rod is ablaze, it deals an extra 1d6 fire damage and 1d6 necrotic damage to any target it hits. If you press **button 2**, the rod's head becomes enveloped in a black aura of enervating energy. When you hit a target with the rod while it is enveloped in this energy, the target must succeed on a DC 17 Constitution saving throw or deal only half damage with weapon attacks that use Strength until the end of its next turn. If you press **button 3**, a 2-foot blade springs from the tip of the rod's handle as the handle lengthens into a 5-foot haft, transforming the rod into a magic glaive that grants a +2 bonus to attack and damage rolls made with it. If you press **button 4**, a 3-pronged, bladed grappling hook affixed to a long chain springs from the tip of the rod's handle. The bladed grappling hook counts as a magic sickle with reach that grants a +2 bonus to attack and damage rolls made with it. When you hit a target with the bladed grappling hook, the target must succeed on an opposed Strength check or fall prone. If you press **button 5**, the rod assumes or remains in its normal form and you can extinguish all nonmagical flames within 30 feet of you. Turning Defiance. While holding the rod, you and any undead allies within 30 feet of you have advantage on saving throws against effects that turn undead. Contagion. When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failure, the target is afflicted with a disease. This works like the contagion spell. Once used, this property can’t be used again until the next dusk. Create Specter. As an action, you can target a humanoid within 10 feet of you that was killed by the rod or one of its effects and has been dead for no longer than 1 minute. The target’s spirit rises as a specter under your control in the space of its corpse or in the nearest unoccupied space. You can have no more than one specter under your control at one time. Once used, this property can’t be used again until the next dusk.

@@ -1,10 +1,8 @@
-
 # Smuggler's Coat
 
-* **Rarity:** very rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 When you attune yourself to this coat, it conforms to you in a color and style of your choice. It has no visible pockets, but they appear if you place your hands against the side of the coat and expect pockets. Once your hand is withdrawn, the pockets vanish and take anything placed in them to an extradimensional space. The coat can hold up to 40 pounds of material in up to 10 different extradimensional pockets. Nothing can be placed inside the coat that won't fit in a pocket. Retrieving an item from a pocket requires you to use an action. When you reach into the coat for a specific item, the correct pocket always appears with the desired item magically on top. As a bonus action, you can force the pockets to become visible on the coat. While you maintain concentration, the coat displays its four outer pockets, two on each side, four inner pockets, and two pockets on each sleeve. While the pockets are visible, any creature you allow can store or retrieve an item as an action. If the coat is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. Placing the coat inside an extradimensional space, such as a bag of holding, instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.

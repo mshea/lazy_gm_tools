@@ -1,11 +1,9 @@
-
 # Tamer's Whip
 
-* **Rarity:** rare
-* **Type:** Weapon
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Rare
+- **Type:** Weapon
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This whip is braided from leather tanned from the hides of a dozen different, dangerous beasts. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you attack a beast using this weapon, you have advantage on the attack roll.
 When you roll a 20 on the attack roll made with this weapon and the target is a beast, the beast must succeed on a DC 15 Wisdom saving throw or become charmed or frightened (your choice) for 1 minute.

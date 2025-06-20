@@ -1,11 +1,9 @@
-
 # Staff of Fire
 
-* **Rarity:** very rare
-* **Type:** Staff
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Staff
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 You have resistance to fire damage while you hold this staff.
 

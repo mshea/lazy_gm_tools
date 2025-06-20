@@ -1,11 +1,9 @@
-
 # Earrings of the Storm Oyster
 
-* **Rarity:** very rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 The deep blue pearls forming the core of these earrings come from oysters that survive being struck by lightning. While wearing these earrings, you gain the following benefits:
 - You have resistance to lightning and thunder damage.

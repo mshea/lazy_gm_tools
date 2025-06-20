@@ -1,11 +1,9 @@
-
 # Wand of Magic Missiles
 
-* **Rarity:** uncommon
-* **Type:** Wand
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Uncommon
+- **Type:** Wand
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _magic missile_ spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 

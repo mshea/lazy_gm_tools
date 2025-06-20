@@ -1,10 +1,8 @@
-
 # Locket of Dragon Vitality
 
-* **Rarity:** very rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 Legends tell of a dragon whose hide was impenetrable and so tenacious that only a blow to the heart would kill it. An unnamed hero finally defeated it and tore its heart into two. The dragon's name was lost, but its legacy remains. This magic amulet is one of two items that were crafted to hold its heart. An intricate engraving of a warrior's sword piercing a dragon's chest is detailed along the front of this untarnished silver locket. Within the locket is a clear crystal vial with a pulsing piece of a dragon's heart. The pulses become more frequent when you are close to death. Attuning to the locket requires you to mix your blood with the blood within the vial. The vial holds 3 charges of dragon blood that are automatically expended when you reach certain health thresholds. The locket regains 1 expended charge for each vial of dragon blood you place in the vial inside the locket up to a maximum of 3 charges. For the purpose of this locket, “dragon” refers to any creature with the dragon type, including drakes and wyverns. While wearing or carrying the locket, you gain the following effects: - When you reach 0 hit points, but do not die outright, the vial breaks and the dragon heart stops pulsing, rendering the item broken and irreparable. You immediately gain temporary hit points equal to your level + your Constitution modifier. If the locket has at least 1 charge of dragon blood, it does not break, but this effect can't be activated again until 3 days have passed. - When you are reduced to half of your maximum hit points, the locket expends 1 charge of dragon blood, and you become immune to any type of blood loss effect, such as the blood loss from a stirge's Blood Drain, for 1d4 + 1 hours. Any existing blood loss effects end immediately when this activates.

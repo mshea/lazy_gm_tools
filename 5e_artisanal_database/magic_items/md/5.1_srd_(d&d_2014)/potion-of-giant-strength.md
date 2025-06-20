@@ -1,11 +1,9 @@
-
 # Potion of Giant Strength
 
-* **Rarity:** varies
-* **Type:** Potion
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Varies
+- **Type:** Potion
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score (see the table below). The potion has no effect on you if your Strength is equal to or greater than that score.
 

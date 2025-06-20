@@ -1,0 +1,10 @@
+# Snake-Eye Bones
+
+- **Rarity:** Common
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** Level Up Advanced 5e
+
+Every trip to sea can become boring and one of the best ways to whittle away at the time—besides drinking rum—is to engage in a game of bones. Not every sailor on the high seas is honest and these dice were crafted with the devious amongst them in mind. Each four-sided die is made from bleached white whale bone and inlaid with jet-black markings. No matter how many times they are thrown or the number of ship hulls they strike, the dice never nick or scuff, and their markings do not fade. 
+
+The dice have 2 charges and regain 1 charge each dawn. When you speak the command word as a bonus action as the dice are being rolled, their results come up as double ones (or snake-eyes). If you expend the last charge, roll a d20\. On a result of 5 or less, the dice will roll up as double ones but both dice then crack in half rendering them useless.

@@ -1,11 +1,9 @@
-
 # Rod of Lordly Might
 
-* **Rarity:** legendary
-* **Type:** Rod
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Legendary
+- **Type:** Rod
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
 

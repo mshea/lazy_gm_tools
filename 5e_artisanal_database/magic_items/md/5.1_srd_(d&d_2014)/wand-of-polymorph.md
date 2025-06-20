@@ -1,11 +1,9 @@
-
 # Wand of Polymorph
 
-* **Rarity:** very rare
-* **Type:** Wand
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Very Rare
+- **Type:** Wand
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the _polymorph_ spell (save DC 15) from it.
 

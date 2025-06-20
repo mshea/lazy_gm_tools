@@ -1,11 +1,9 @@
-
 # Spell Scroll
 
-* **Rarity:** varies
-* **Type:** Scroll
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Varies
+- **Type:** Scroll
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 A _spell scroll_ bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.
 

@@ -1,11 +1,9 @@
-
 # Boots of the Winterlands
 
-* **Rarity:** uncommon
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Uncommon
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
 

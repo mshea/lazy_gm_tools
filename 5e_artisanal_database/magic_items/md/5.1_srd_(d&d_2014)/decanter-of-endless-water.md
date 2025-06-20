@@ -1,11 +1,9 @@
-
 # Decanter of Endless Water
 
-* **Rarity:** uncommon
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Uncommon
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
 

@@ -1,11 +1,9 @@
-
 # Potion of Resistance
 
-* **Rarity:** uncommon
-* **Type:** Potion
-* **Attunement:** No
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Uncommon
+- **Type:** Potion
+- **Attunement:** No
+- **Source:** 5.1 SRD (D&D 2014)
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
 

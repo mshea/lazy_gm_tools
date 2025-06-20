@@ -1,11 +1,9 @@
-
 # Ring of Djinni Summoning
 
-* **Rarity:** legendary
-* **Type:** Ring
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Legendary
+- **Type:** Ring
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane.
 

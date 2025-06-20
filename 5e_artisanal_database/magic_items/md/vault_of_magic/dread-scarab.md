@@ -1,11 +1,9 @@
-
 # Dread Scarab
 
-* **Rarity:** very rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 The abdomen of this beetleshaped brooch is decorated with the grim semblance of a human skull. If you hold it in your hand for 1 round, an Abyssal inscription appears on its surface, revealing its magical nature. While wearing this brooch, you gain the following benefits:
 - You have advantage on saving throws against spells.

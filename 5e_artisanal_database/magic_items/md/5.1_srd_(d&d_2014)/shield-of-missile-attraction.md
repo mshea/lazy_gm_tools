@@ -1,11 +1,9 @@
-
 # Shield of Missile Attraction
 
-* **Rarity:** rare
-* **Type:** Armor (shield)
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Armor
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 While holding this shield, you have resistance to damage from ranged weapon attacks.
 

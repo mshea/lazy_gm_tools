@@ -1,10 +1,8 @@
-
 # Staff of Parzelon
 
-* **Rarity:** legendary
-* **Type:** Staff
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Legendary
+- **Type:** Staff
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This tarnished silver staff is tipped with the unholy visage of a fiendish lion skull carved from labradorite—a likeness of the Arch-Devil Parzelon (see Creature Codex). The staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls. The staff has 20 charges for the following properties. It regains 2d8 + 4 expended charges daily at dusk. If you expend the last charge, roll a d20. On a 20, the staff regains 1d8 + 2 charges. Spells. While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: charm person (1 charge), dominate person (5 charges), lightning bolt (3 charges), locate creature (4 charges), locate object (2 charges), magic missile (1 charge), scrying (5 charges), or suggestion (2 charges). You can also use an action to cast one of the following spells from the staff without using any charges: comprehend languages, detect evil and good, detect magic, identify, or message. Extract Ageless Knowledge. As an action, you can touch the head of the staff to a corpse. You must form a question in your mind as part of this action. If the corpse has an answer to your question, it reveals the information to you. The answer is always brief—no more than one sentence—and very specific to the framed question. The corpse doesn’t need a mouth to answer; you receive the information telepathically. The corpse knows only what it knew in life, and it is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This property doesn’t return the creature’s soul to its body, only its animating spirit. Thus, the corpse can’t learn new information, doesn’t comprehend anything that has happened since it died, and can’t speculate about future events. Once the staff has been used to ask a corpse 5 questions, it can’t be used to extract knowledge from that same corpse again until 3 days have passed.

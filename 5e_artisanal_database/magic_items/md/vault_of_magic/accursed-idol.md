@@ -1,11 +1,9 @@
-
 # Accursed Idol
 
-* **Rarity:** uncommon
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Uncommon
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 Carved from a curious black stone of unknown origin, this small totem is fashioned in the macabre likeness of a Great Old One. While attuned to the idol and holding it, you gain the following benefits:
 - You can speak, read, and write Deep Speech.

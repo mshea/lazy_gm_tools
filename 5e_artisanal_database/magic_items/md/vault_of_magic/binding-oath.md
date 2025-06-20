@@ -1,10 +1,8 @@
-
 # Binding Oath
 
-* **Rarity:** very rare
-* **Type:** Scroll
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Scroll
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This lengthy scroll is the testimony of a pious individual's adherence to their faith. The author has emphatically rewritten these claims many times, and its two slim, metal rollers are wrapped in yards of parchment. When you attune to the item, you rewrite certain passages to align with your own religious views. You can use an action to throw the scroll at a Huge or smaller creature you can see within 30 feet of you. Make a ranged attack roll. On a hit, the scroll unfurls and wraps around the creature. The target is restrained until you take a bonus action to command the scroll to release the creature. If you command it to release the creature or if you miss with the attack, the scroll curls back into a rolled-up scroll. If the restrained target's alignment is the opposite of yours along the law/chaos or good/evil axis, you can use a bonus action to cause the writing to blaze with light, dealing 2d6 radiant damage to the target. A creature, including the restrained target, can use an action to make a DC 17 Strength check to tear apart the scroll. On a success, the scroll is destroyed. Such an attempt causes the writing to blaze with light, dealing 2d6 radiant damage to both the creature making the attempt and the restrained target, whether or not the attempt is successful. Alternatively, the restrained creature can use an action to make a DC 17 Dexterity check to slip free of the scroll. This action also triggers the damage effect, but it doesn't destroy the scroll. Once used, the scroll can't be used again until the next dawn.

@@ -1,11 +1,9 @@
-
 # Ring of Ursa
 
-* **Rarity:** rare
-* **Type:** Ring
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Rare
+- **Type:** Ring
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This wooden ring is set with a strip of fossilized honey. While wearing this ring, you gain the following benefits: - Your Strength score increases by 2, to a maximum of 20.
 - You have advantage on Charisma (Persuasion) checks made to interact with bearfolk. In addition, while attuned to the ring, your hair grows thick and abundant. Your facial features grow more snout-like, and your teeth elongate. If you aren't a bearfolk, you gain the following benefits while wearing the ring:

@@ -1,11 +1,9 @@
-
 # Retribution Armor
 
-* **Rarity:** very rare
-* **Type:** Armor
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Armor
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 Etchings of flames adorn this breastplate, which is wrapped in chains of red gold, silver, and black iron. While wearing this armor, you gain a +1 bonus to AC. In addition, if a creature scores a critical hit against you, you have advantage on any attacks against that creature until the end of your next turn or until you score a critical hit against that creature. - You have resistance to necrotic damage, and you are immune to poison damage. - You can't be charmed or poisoned, and you don't suffer from exhaustion.
 - You have darkvision out to a range of 60 feet.

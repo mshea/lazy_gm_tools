@@ -1,11 +1,9 @@
-
 # Tenebrous Mantle
 
-* **Rarity:** legendary
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Legendary
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This black cloak appears to be made of pure shadow and shrouds you in darkness. While wearing it, you gain the following benefits: - You have advantage on Dexterity (Stealth) checks.
 - You have resistance to necrotic damage.

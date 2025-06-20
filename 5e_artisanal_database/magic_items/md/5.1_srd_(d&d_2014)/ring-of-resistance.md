@@ -1,11 +1,9 @@
-
 # Ring of Resistance
 
-* **Rarity:** rare
-* **Type:** Ring
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Ring
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
 

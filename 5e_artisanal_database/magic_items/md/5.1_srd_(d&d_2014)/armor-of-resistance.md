@@ -1,11 +1,9 @@
-
 # Armor of Resistance
 
-* **Rarity:** rare
-* **Type:** Armor (light)
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Armor
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.
 

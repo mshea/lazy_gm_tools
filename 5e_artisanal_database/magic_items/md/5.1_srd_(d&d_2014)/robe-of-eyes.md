@@ -1,11 +1,9 @@
-
 # Robe of Eyes
 
-* **Rarity:** rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** 5.1 SRD (D&D 2014)
-
+- **Rarity:** Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** 5.1 SRD (D&D 2014)
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 

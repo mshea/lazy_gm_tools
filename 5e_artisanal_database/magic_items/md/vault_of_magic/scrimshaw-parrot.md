@@ -1,11 +1,9 @@
-
 # Scrimshaw Parrot
 
-* **Rarity:** rare
-* **Type:** Wondrous item
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Rare
+- **Type:** Wondrous Item
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This parrot is carved from bits of whalebone and decorated with bright feathers and tiny jewels. You can use an action to affix the parrot to your shoulder or arm. While the parrot is affixed, you gain the following benefits: - You have advantage on Wisdom (Perception) checks that rely on sight.
 - You can use an action to cast the comprehend languages spell from it at will.

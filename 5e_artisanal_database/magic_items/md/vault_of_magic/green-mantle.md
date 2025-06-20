@@ -1,11 +1,9 @@
-
 # Green Mantle
 
-* **Rarity:** very rare
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Very Rare
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 This garment is made of living plants—mosses, vines, and grasses—interwoven into a light, comfortable piece of clothing. When you attune to this mantle, it forms a symbiotic relationship with you, sinking roots beneath your skin. While wearing the mantle, your hit point maximum is reduced by 5, and you gain the following benefits: - If you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier.
 - You have resistance to radiant damage.

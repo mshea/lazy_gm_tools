@@ -1,11 +1,9 @@
-
 # Frungilator
 
-* **Rarity:** uncommon
-* **Type:** Wand
-* **Attunement:** No
-* **Source:** Vault of Magic
-
+- **Rarity:** Uncommon
+- **Type:** Wand
+- **Attunement:** No
+- **Source:** Vault of Magic
 
 This strangely-shaped item resembles a melted wand or a strange growth chipped from the arcane trees of elder planes. The wand has 5 charges and regains 1d4 + 1 charges daily at dusk. While holding it, you can use an action to expend 1 of its charges and point it at a target within 60 feet of you. The target must be a creature. When activated, the wand frunges creatures into a chaos matrix, which does…something. Roll a d10 and consult the following table to determine these unpredictable effects (none of them especially good). Most effects can be removed by dispel magic, greater restoration, or more powerful magic. | d10 | Frungilator Effect |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,11 +1,9 @@
-
 # Scorpion Feet
 
-* **Rarity:** legendary
-* **Type:** Wondrous item
-* **Attunement:** Yes
-* **Source:** Vault of Magic
-
+- **Rarity:** Legendary
+- **Type:** Wondrous Item
+- **Attunement:** Yes
+- **Source:** Vault of Magic
 
 These thick-soled leather sandals offer comfortable and safe passage across shifting sands. While you wear them, you gain the following benefits:
 - Your speed isn't reduced while in magical or nonmagical difficult terrain made of sand.
