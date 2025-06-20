@@ -435,10 +435,8 @@ class SearchEngine {
             searchInput.value = query;
         }
         
-        // Handle sources parameter
-        if (sources) {
-            this.applySourceFiltersFromUrl(sources);
-        }
+        // Handle sources parameters
+        this.applySourceFiltersFromUrl(urlParams);
         
         // Handle lucky search parameter
         if (lucky && query) {
@@ -458,22 +456,46 @@ class SearchEngine {
         }
     }
     
-    applySourceFiltersFromUrl(sourcesParam) {
-        // First, uncheck all checkboxes
+    applySourceFiltersFromUrl(urlParams) {
+        // Check if any filter parameters exist
+        const hasFilterParams = ['r', 'm', 's', 'i'].some(param => urlParams.has(param));
+        
+        if (!hasFilterParams) {
+            // No filter parameters - default to all sources selected
+            const allCheckboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
+            allCheckboxes.forEach(checkbox => checkbox.checked = true);
+            this.updateAllMasterCheckboxes();
+            return;
+        }
+        
+        // Filter parameters exist - uncheck all first, then apply selections
         const allCheckboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
         allCheckboxes.forEach(checkbox => checkbox.checked = false);
         
-        // Parse sources parameter: "ruleset:5.1 SRD,monsters:Monsters,spells:5.1 SRD"
-        const sourceEntries = sourcesParam.split(',');
+        // Create source code mappings
+        const sourceCodeMappings = this.createSourceCodeMappings();
         
-        sourceEntries.forEach(entry => {
-            const [type, source] = entry.split(':');
-            if (type && source) {
-                const decodedSource = decodeURIComponent(source);
-                const checkbox = document.querySelector(`#sourceFilters input[data-type="${type}"][data-source="${decodedSource}"]`);
-                if (checkbox) {
-                    checkbox.checked = true;
-                }
+        // Handle each parameter type
+        const paramTypes = {
+            'r': 'ruleset',
+            'm': 'monsters', 
+            's': 'spells',
+            'i': 'magic_items'
+        };
+        
+        Object.entries(paramTypes).forEach(([param, type]) => {
+            const paramValue = urlParams.get(param);
+            if (paramValue) {
+                const codes = paramValue.split(',');
+                codes.forEach(code => {
+                    const fullSourceName = sourceCodeMappings[code];
+                    if (fullSourceName) {
+                        const checkbox = document.querySelector(`#sourceFilters input[data-type="${type}"][data-source="${fullSourceName}"]`);
+                        if (checkbox) {
+                            checkbox.checked = true;
+                        }
+                    }
+                });
             }
         });
         
@@ -483,11 +505,50 @@ class SearchEngine {
     
     encodeSourceFiltersToUrl() {
         const selectedSources = this.getSelectedSources();
-        if (selectedSources.length === 0) return '';
+        const allSources = this.getAllAvailableSources();
         
-        return selectedSources
-            .map(filter => `${filter.type}:${encodeURIComponent(filter.source)}`)
-            .join(',');
+        // If no sources selected or all sources selected, return empty (default state)
+        if (selectedSources.length === 0 || selectedSources.length === allSources.length) {
+            return {};
+        }
+        
+        // Create source code mappings
+        const sourceCodeMappings = this.createSourceCodeMappings();
+        const reverseMapping = Object.fromEntries(
+            Object.entries(sourceCodeMappings).map(([code, source]) => [source, code])
+        );
+        
+        // Group sources by type
+        const sourcesByType = {
+            'ruleset': [],
+            'monsters': [],
+            'spells': [],
+            'magic_items': []
+        };
+        
+        selectedSources.forEach(filter => {
+            const code = reverseMapping[filter.source];
+            if (code && sourcesByType[filter.type]) {
+                sourcesByType[filter.type].push(code);
+            }
+        });
+        
+        // Build parameter object
+        const params = {};
+        const typeToParam = {
+            'ruleset': 'r',
+            'monsters': 'm',
+            'spells': 's',
+            'magic_items': 'i'
+        };
+        
+        Object.entries(sourcesByType).forEach(([type, codes]) => {
+            if (codes.length > 0) {
+                params[typeToParam[type]] = codes.join(',');
+            }
+        });
+        
+        return params;
     }
     
     updateUrlParameters(query = null) {
@@ -502,13 +563,16 @@ class SearchEngine {
             }
         }
         
-        // Update sources parameter
-        const sourcesParam = this.encodeSourceFiltersToUrl();
-        if (sourcesParam) {
-            url.searchParams.set('sources', sourcesParam);
-        } else {
-            url.searchParams.delete('sources');
-        }
+        // Clear existing filter parameters
+        ['r', 'm', 's', 'i'].forEach(param => {
+            url.searchParams.delete(param);
+        });
+        
+        // Update sources parameters
+        const sourceParams = this.encodeSourceFiltersToUrl();
+        Object.entries(sourceParams).forEach(([param, value]) => {
+            url.searchParams.set(param, value);
+        });
         
         // Update browser history without reload
         window.history.replaceState({}, '', url);
@@ -737,6 +801,63 @@ class SearchEngine {
             type: checkbox.dataset.type,
             source: checkbox.dataset.source
         }));
+    }
+
+    getAllAvailableSources() {
+        const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
+        return Array.from(checkboxes).map(checkbox => ({
+            type: checkbox.dataset.type,
+            source: checkbox.dataset.source
+        }));
+    }
+
+    createSourceCodeMappings() {
+        // Create mappings from short codes to full source names
+        const mappings = {
+            // Common abbreviations
+            'srd51': '5.1 SRD',
+            'srd52': '5.2 SRD',
+            'srd24': 'D&D 2024',
+            'a5e': 'Level Up Advanced 5e',
+            'vom': 'Vault of Magic',
+            'tov': 'Tome of Versatile Magic',
+            'monsters': 'Monsters',
+            'spells': 'Spells',
+            'items': 'Magic Items',
+            'basic': 'Basic Rules',
+            'dmg': 'Dungeon Master\'s Guide',
+            'phb': 'Player\'s Handbook',
+            'mm': 'Monster Manual',
+            'xgte': 'Xanathar\'s Guide to Everything',
+            'tce': 'Tasha\'s Cauldron of Everything',
+            'ftd': 'Fizban\'s Treasury of Dragons',
+            'mpmm': 'Mordenkainen Presents: Monsters of the Multiverse'
+        };
+        
+        // Auto-generate codes for any sources not manually mapped
+        const allSources = new Set();
+        this.documents.forEach(doc => {
+            if (doc.type === 'ruleset') {
+                allSources.add(doc.source);
+            } else {
+                allSources.add(doc.category);
+            }
+        });
+        
+        // Add auto-generated codes for unmapped sources
+        Array.from(allSources).forEach(source => {
+            if (!Object.values(mappings).includes(source)) {
+                // Create a simple code from the source name
+                const code = source.toLowerCase()
+                    .replace(/[^a-z0-9]/g, '')
+                    .substring(0, 8);
+                if (!mappings[code]) {
+                    mappings[code] = source;
+                }
+            }
+        });
+        
+        return mappings;
     }
 
     setupEventListeners() {
