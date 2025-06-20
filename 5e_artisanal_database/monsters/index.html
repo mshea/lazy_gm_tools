@@ -191,7 +191,6 @@ font-size: 16px !important;
 <div><a href="../index.html">5e Artisanal Database</a> → Monsters</div>
 <h1>Monsters</h1>
 <ul>
-<li>Use the search to find or filter on various columns.</li>
 <li>Click column headers to sort ascending or descending.</li>
 <li>Link to pages or copy and paste HTML or markdown versions into your notes.</li>
 <li>Use the collapsible filters below to narrow down monsters by Challenge Rating, Type, or Source.</li>
@@ -22317,6 +22316,7 @@ $(document).ready(function() {
             }
             
             updateFilterSummary();
+            table.draw();
         });
     }
     
@@ -22448,12 +22448,14 @@ $(document).ready(function() {
             crFilters.show();
         }
         updateFilterSummary();
+        table.draw();
     });
     
     // CR comparison value changes
     $('#crOperator, #crValue').on('change input', function() {
         if ($('#crComparisonEnabled').is(':checked')) {
             updateFilterSummary();
+            table.draw();
         }
     });
     
