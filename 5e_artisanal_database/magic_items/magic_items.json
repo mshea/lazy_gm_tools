@@ -23836,6 +23836,21 @@
   },
   {
     "model": "api.magicitem",
+    "pk": "airship",
+    "fields": {
+      "name": "Airship",
+      "desc": "A magical flying vessel capable of air travel.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
+      "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
     "pk": "ammunition-1-2-or-3",
     "fields": {
       "name": "Ammunition, +1, +2, or +3",
@@ -23920,6 +23935,21 @@
       "type": "Armor",
       "rarity": "very rare",
       "requires_attunement": "requires attunement",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
+    "pk": "antitoxin",
+    "fields": {
+      "name": "Antitoxin",
+      "desc": "As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour. abo",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
+      "requires_attunement": "",
       "route": "magicitems/"
     },
     "Source": "5.2 SRD (D&D 2024)"
@@ -24085,6 +24115,21 @@
       "type": "Wondrous Item",
       "rarity": "rare",
       "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
+    "pk": "belt-of-giant-strength",
+    "fields": {
+      "name": "Belt of Giant Strength",
+      "desc": "While wearing this belt, your Strength changes to a score granted by the belt. The type of giant determines the score (see the table below). The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
+      "requires_attunement": "requires attunement",
       "route": "magicitems/"
     },
     "Source": "5.2 SRD (D&D 2024)"
@@ -24309,6 +24354,21 @@
       "page_no": null,
       "type": "Wondrous Item",
       "rarity": "very rare",
+      "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
+    "pk": "case-map-or-scroll",
+    "fields": {
+      "name": "Case, Map or Scroll",
+      "desc": "A Map or Scroll Case holds up to 10 sheets of paper or 5 sheets of parchment.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
       "requires_attunement": "",
       "route": "magicitems/"
     },
@@ -24886,6 +24946,36 @@
   },
   {
     "model": "api.magicitem",
+    "pk": "feather-token",
+    "fields": {
+      "name": "Feather Token",
+      "desc": "This object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly by rolling on the Feather Tokens table. The type of token determines its rarity. Anchor (Uncommon). You can take a Magic action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears. Bird (Rare). You can take a Magic action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a Roc, but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 Hit Points. You can dismiss the bird as a Magic action. Fan (Uncommon). If you are on a boat or ship, you can take a Magic action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a strong wind. This wind can fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as a Magic action. Swan Boat (Rare). You can take a Magic action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-footlong, 20-foot-wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can take a Magic action while on the boat to command it to move or to turn up to 90 degrees. The boat remains for 24 hours and then disappears. You can dismiss the boat as a Magic action. Tree (Uncommon). You must be outdoors to use this token. You can take a Magic action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. Whip (Rare). You can take a Magic action to throw the token to a point within 10 feet of yourself. The token disappears, and a floating whip takes its place. You can then take a Bonus Action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 Force damage. As a Bonus Action, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of the whip. The whip disappears after 1 hour, when you take a Magic action to dismiss it, or when you die or have the Incapacitated condition.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
+      "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
+    "pk": "figurine-of-wondrous-power",
+    "fields": {
+      "name": "Figurine of Wondrous Power",
+      "desc": "A Figurine of Wondrous Power is a statuette small enough to fit in a pocket. If you take a Magic action to throw the figurine to a point on the ground within 60 feet of yourself, the figurine becomes a living creature specified in the figurine's description below. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature. The creature is Friendly to you and your allies. It understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. If you issue no commands, the creature defends itself but takes no other actions. The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if its creature form drops to 0 Hit Points or if you take a Magic action while touching the creature to make it revert to figurine form. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description. Bronze Griffon (Rare). This bronze statuette is of a griffon rampant. It can become a Griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed. Ebony Fly (Rare). This ebony statuette, carved in the likeness of a horsefly, can become a Giant Fly (see the accompanying stat block) for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed. > ### Giant Fly > > Large Beast, Unaligned > > AC 11 > > Initiative +1 (11) > > HP 15 (3d10 + 3) > > Speed Speed 30 ft., Fly 60 ft. > > | Attribute | Score | Mod | Save | > |-----------|-------|-----|------| > | Str | 14 | +2 | +2 | > | Dex | 13 | +1 | +1 | > | Con | 13 | +1 | +1 | > | Int | 2 | -4 | -4 | > | Wis | 10 | +0 | +0 | > | Cha | 3 | -4 | -4 | > > Senses Darkvision 60 ft., Passive Perception 10 > > Languages None > > CR 0 (XP 0; PB +2) Golden Lions (Rare). These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a Lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed. Ivory Goats (Rare). These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows: Goat of Terror. This figurine can become a Giant Goat for up to 3 hours. The goat can't attack, but you can (harmlessly) remove its horns and use them as weapons. One horn becomes a +1 Lance, and the other becomes a +2 Longsword. Removing a horn requires a Magic action, and the weapons disappear and the horns return when the goat reverts to figurine form. While you ride the goat, any Hostile creature that starts its turn within a 30-foot Emanation originating from the goat must succeed on a DC 15 Wisdom saving throw or have the Frightened condition for 1 minute, until you are no longer riding the goat, or until the goat reverts to figurine form. The Frightened creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the save, a creature is immune to this effect for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed. Goat of Traveling. This figurine can become a Large goat with the same statistics as a Riding Horse. It has 24 charges, and each hour or portion thereof it spends in goat form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all expended charges. Goat of Travail. This figurine can become a Giant Goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed. Marble Elephant (Rare). This marble statuette resembles a trumpeting elephant. It can become an Elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed. Obsidian Steed (Very Rare). This polished obsidian horse can become a Nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed. The figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form. Onyx Dog (Rare). This onyx statuette of a dog can become a Mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has Blindsight with a range of 60 feet. Once it has been used, it can't be used again until 7 days have passed. Serpentine Owl (Rare). This serpentine statuette of an owl can become a Giant Owl for up to 8 hours. The owl can communicate telepathically with you at any range if you and it are on the same plane of existence. Once it has been used, it can't be used again until 2 days have passed. Silver Raven (Uncommon). This silver statuette of a raven can become a Raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast Animal Messenger on it.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
+      "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
     "pk": "flame-tongue",
     "fields": {
       "name": "Flame Tongue",
@@ -25269,6 +25359,21 @@
       "page_no": null,
       "type": "Wondrous Item",
       "rarity": "rare",
+      "requires_attunement": "requires attunement",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
+    "pk": "ioun-stone",
+    "fields": {
+      "name": "Ioun Stone",
+      "desc": "Roughly marble sized, Ioun Stones are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun Stones exist, each type a distinct combination of shape and color. When you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time. Each Ioun Stone orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it. As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it. The type of stone determines its rarity and effects. Absorption (Very Rare). While this pale lavender ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 4 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic. Agility (Very Rare). Your Dexterity increases by 2, to a maximum of 20, while this deep-red sphere orbits your head. Awareness (Rare). While this dark-blue rhomboid orbits your head, you have Advantage on Initiative rolls and Wisdom (Perception) checks. Fortitude (Very Rare). Your Constitution increases by 2, to a maximum of 20, while this pink rhomboid orbits your head. Greater Absorption (Legendary). While this marbled lavender and green ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 8 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic. Insight (Very Rare). Your Wisdom increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head. Intellect (Very Rare). Your Intelligence increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head. Leadership (Very Rare). Your Charisma increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head. Mastery (Legendary). Your Proficiency Bonus increases by 1 while this pale green prism orbits your head. Protection (Rare). You gain a +1 bonus to Armor Class while this dusty-rose prism orbits your head. Regeneration (Legendary). You regain 15 Hit Points at the end of each hour this pearly white spindle orbits your head if you have at least 1 Hit Point. Reserve (Rare). This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 4 levels of spells at a time. When found, it contains 1d4 levels of stored spells chosen by the GM. Any creature can cast a spell of level 1 through 4 into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses. While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space. Strength (Very Rare). Your Strength increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head. Sustenance (Rare). You don't need to eat or drink while this clear spindle orbits your head.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
       "requires_attunement": "requires attunement",
       "route": "magicitems/"
     },
@@ -25891,6 +25996,21 @@
   },
   {
     "model": "api.magicitem",
+    "pk": "potion-of-giant-strength",
+    "fields": {
+      "name": "Potion of Giant Strength",
+      "desc": "When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score (see the table below). The potion has no effect on you if your Strength is equal to or greater than that score. This potion's transparent liquid has floating in it a sliver of light resembling a giant's fingernail.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
+      "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
     "pk": "potion-of-growth",
     "fields": {
       "name": "Potion of Growth",
@@ -25899,6 +26019,21 @@
       "page_no": null,
       "type": "Wondrous Item",
       "rarity": "uncommon",
+      "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
+    "pk": "potion-of-healing",
+    "fields": {
+      "name": "Potion of Healing",
+      "desc": "This potion is a magic item. As a Bonus Action, you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains 2d4 + 2 Hit Points.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
       "requires_attunement": "",
       "route": "magicitems/"
     },
@@ -26004,6 +26139,21 @@
       "page_no": null,
       "type": "Wondrous Item",
       "rarity": "uncommon",
+      "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
+    "pk": "potions-of-healing",
+    "fields": {
+      "name": "Potions of Healing",
+      "desc": "You regain Hit Points when you drink this potion. The number of Hit Points depends on the potion's rarity, as shown in the table below. Whatever its potency, the potion's red liquid glimmers when agitated.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
       "requires_attunement": "",
       "route": "magicitems/"
     },
@@ -26589,6 +26739,21 @@
       "page_no": null,
       "type": "Wondrous Item",
       "rarity": "legendary",
+      "requires_attunement": "",
+      "route": "magicitems/"
+    },
+    "Source": "5.2 SRD (D&D 2024)"
+  },
+  {
+    "model": "api.magicitem",
+    "pk": "spell-scroll",
+    "fields": {
+      "name": "Spell Scroll",
+      "desc": "A Spell Scroll (Cantrip) or Spell Scroll (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components. If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.",
+      "document": 33,
+      "page_no": null,
+      "type": "Wondrous Item",
+      "rarity": "varies",
       "requires_attunement": "",
       "route": "magicitems/"
     },
