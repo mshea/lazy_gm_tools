@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<title>5e Spellbook Generator</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → 5e Spellbook Generator</div>
+
+<h1>5e Wizard Spellbook Generator</h1>
+
+<p>Generate random wizard spellbooks for NPCs, treasure, or inspiration.</p>
+
+<div class="controls">
+    <label for="wizard-level">Wizard Level:</label>
+    <select id="wizard-level">
+        <option value="1">1st Level (6 spells)</option>
+        <option value="2">2nd Level (8 spells)</option>
+        <option value="3" selected>3rd Level (10 spells)</option>
+        <option value="4">4th Level (12 spells)</option>
+        <option value="5">5th Level (14 spells)</option>
+        <option value="6">6th Level (16 spells)</option>
+        <option value="7">7th Level (18 spells)</option>
+        <option value="8">8th Level (20 spells)</option>
+        <option value="9">9th Level (22 spells)</option>
+        <option value="10">10th Level (24 spells)</option>
+        <option value="11">11th Level (26 spells)</option>
+        <option value="12">12th Level (28 spells)</option>
+        <option value="13">13th Level (30 spells)</option>
+        <option value="14">14th Level (32 spells)</option>
+        <option value="15">15th Level (34 spells)</option>
+        <option value="16">16th Level (36 spells)</option>
+        <option value="17">17th Level (38 spells)</option>
+        <option value="18">18th Level (40 spells)</option>
+        <option value="19">19th Level (42 spells)</option>
+        <option value="20">20th Level (44 spells)</option>
+    </select>
+</div>
+
+<button onclick="generateSpellbook()">Generate Spellbook</button>
+
+<div id="output">
+    <em>Generating spellbook...</em>
+</div>
+
+<script src="generator_text.js"></script>
+<script>
+// Generate initial spellbook on page load
+document.addEventListener('DOMContentLoaded', function() {
+    generateSpellbook();
+});
+
+// Regenerate when wizard level changes
+document.getElementById('wizard-level').addEventListener('change', generateSpellbook);
+</script>
+
+
+</body>
+</html>
