@@ -256,7 +256,7 @@ function generateSpellbook() {
     
     spells.forEach(spell => {
         const levelText = spell.level === 0 ? 'Cantrip' : `${spell.level}${getOrdinalSuffix(spell.level)} level`;
-        output += `<li><a href="../../spells/html/5.1_srd_(d&d_2014)/${spell.slug}.html" target="_blank"><strong>${spell.name}</strong></a> (${levelText})</li>`;
+        output += `<li><a href="../../spells/html/5.1_srd_(d&d_2014)/${spell.slug}.html" target="_blank">${spell.name}</a> (${levelText})</li>`;
     });
     
     output += '</ol></div>';
