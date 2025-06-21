@@ -26,7 +26,7 @@ On a desktop or laptop computer, download the zip file and click on "index.html"
 
 ### Copy "md" directories to your Obsidian Vault
 
-Navigate down the folders under the root directory to find "md" directories for any given ruleset or dataset. Copy those md directories to your Obsidian vault directory to copy over all the markdown files for those sources. Rename them so you can see what they are in your vault.
+Navigate down the folder hierarchy under the root directory to find "md" directories for any given ruleset or dataset. Copy those md directories to your Obsidian vault directory to copy over all the markdown files for those sources. Rename them so you can see what they are in your vault.
 
 ### Host it on your own private web server
 
@@ -38,22 +38,22 @@ The 5eADB is a set of directories, HTML files, and some Javascript. Each tool or
 
 **Sources** include markdown and HTML versions of four versions of 5e including the 5.1 SRD (D&D 2014), 5.2 SRD (D&D 2024), Level Up Advanced 5e, and Black Flag (Tales of the Valiant). Each source has a main directory and subdirectories containing the markdown and HTML versions of each of the sources along with individual licensing descriptions.
 
-**Datasets** include markdown and HTML files for monsters, magic items, and spells. Top-level index.html files for these datasets use the [DataTables javascript library](https://datatables.net). They use their own local copy of these libraries so the whole package remains self-contained.
+**Datasets** include markdown and HTML files for monsters, magic items, and spells. Top-level index.html files for these datasets use the [DataTables javascript library](https://datatables.net). They use their own local copy of these javascript libraries so the whole package remains self-contained.
 
-**Tools** include things like a dice roller, the Forge of Foes monster builder, and a stand-alone token maker. Each of these are self-contained HTML files with embedded javascript and don't connect to any other portion of the 5eADB.
+**Tools** include things like a dice roller, an encounter calculator, a combat tracker, a monster builder, a token maker, and a map annotator.
 
-**Generators** include random generators for NPCs, items, monuments, locations, treasure, and more. They include links to items contained in the datasets. Each includes embedded Javascript inside HTML and either an embedded or external data file. These generators use a syntax similar to perchance and can be modified to add other random elements without having to modify the javascript directly. Like the rest of this application, these generators are self-contained and can run locally or remotely.
+**Generators** include random generators for NPCs, items, monuments, locations, treasure, and more. They include links to items contained in the datasets. These generators use a syntax similar to perchance and can be modified to add other random elements without having to modify the javascript directly. Like the rest of this application, these generators are self-contained and can run locally or remotely. See the generator template to build your own stand-alone generator.
 
-**Search**. The search feature of this application uses lunr.js. It has a pre-cached index loaded by the search page the first time it's loaded. The index is already pre-built so it loads fast once the data is downloaded. Like the rest of the site, the search feature works either online or in your local browser.
+**Search**. The search feature of this application uses [lunr.js](https://lunrjs.com). It has a pre-cached index loaded by the search page the first time it's loaded. The index is already pre-built so it loads fast once the data is downloaded. Like the rest of the site, the search feature works either online or in your local browser. The search page includes filters that update the URL so you can copy and share the URL to a specific search with specific filters. Add a &lucky=1 to the URL to have it jump to the first hit.
 
 **Markdown and HTML files**. The whole 5eADB includes markdown and HTML files for sources and datasets. The directory structure separates HTML and markdown files into separate directories for each source so users can copy the markdown directory into another application like [Obsidian](https://obsidian.md). Each source and dataset page includes a link to show the markdown version of that page making it easy to copy and paste into a markdown application like Obsidian or Notion. When run locally, one needs to "view source" to see the formatted markdown version or all linebreaks are stripped out.
 
-**Mobile Friendly**. This entire app has been built to work well on small devices like mobile phones. It should work well on both big and small screens.
+**Mobile Friendly**. This entire app has been built to work well on small devices like mobile phones.
 
-**Progressive Web App Enabled**. I've attempted to make this application a "progressive web app". When you save this app to your home screen on a mobile device, it attempts to download the entire payload of the app so it can run offline. This doesn't work 100% of the time, however, as different browsers have different restrictions for the number of files and the size of the apps.
+**Progressive Web App Enabled**. I've attempted to make this application a "progressive web app". When you save this app to your home screen on a mobile device, it attempts to download the entire payload of the app so it can run offline. This doesn't work 100% of the time. Different browsers have different restrictions for the number of files and the size of the apps.
 
 ### Licensing
 
-See the "licensing.html" file in the root directory for licensing information. Outside of lunr.js and datatables.js, all embedded javascript code in this application is released under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). You can copy, modify, and distribute the code for these tools, even for commercial purposes, all without asking permission. 
+See the "licensing.html" file in the root directory for licensing information. Outside of lunr.js and datatables.js, all javascript code in this application is released under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). You can copy, modify, and distribute the code for these tools, even for commercial purposes, all without asking permission. 
 
 lunr.js and datatables.js are both released under MIT licenses as described in the licensing.html file.
