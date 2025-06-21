@@ -84,6 +84,13 @@ const customMonsters = [
     "cr": "5.000"
   },
   {
+    "name": "Allosaurus",
+    "hp": 51,
+    "ac": 13,
+    "init": 1,
+    "cr": "2.000"
+  },
+  {
     "name": "Ancient Black Dragon",
     "hp": 367,
     "ac": 22,
@@ -182,6 +189,27 @@ const customMonsters = [
     "cr": "2.000"
   },
   {
+    "name": "Ankylosaurus",
+    "hp": 68,
+    "ac": 15,
+    "init": 0,
+    "cr": "3.000"
+  },
+  {
+    "name": "Ape",
+    "hp": 19,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.500"
+  },
+  {
+    "name": "Archelon",
+    "hp": 90,
+    "ac": 17,
+    "init": 3,
+    "cr": "4.000"
+  },
+  {
     "name": "Archmage",
     "hp": 170,
     "ac": 17,
@@ -214,7 +242,7 @@ const customMonsters = [
     "hp": 19,
     "ac": 11,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.250"
   },
   {
     "name": "Azer Sentinel",
@@ -224,6 +252,20 @@ const customMonsters = [
     "cr": "2.000"
   },
   {
+    "name": "Baboon",
+    "hp": 3,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.000"
+  },
+  {
+    "name": "Badger",
+    "hp": 5,
+    "ac": 11,
+    "init": 0,
+    "cr": "0.000"
+  },
+  {
     "name": "Balor",
     "hp": 287,
     "ac": 19,
@@ -231,18 +273,18 @@ const customMonsters = [
     "cr": "19.000"
   },
   {
+    "name": "Bandit",
+    "hp": 11,
+    "ac": 12,
+    "init": 1,
+    "cr": "0.125"
+  },
+  {
     "name": "Bandit Captain",
     "hp": 52,
     "ac": 15,
     "init": 3,
     "cr": "2.000"
-  },
-  {
-    "name": "Bandit",
-    "hp": 11,
-    "ac": 12,
-    "init": 1,
-    "cr": "1.000"
   },
   {
     "name": "Barbed Devil",
@@ -257,6 +299,13 @@ const customMonsters = [
     "ac": 15,
     "init": -1,
     "cr": "3.000"
+  },
+  {
+    "name": "Bat",
+    "hp": 1,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.000"
   },
   {
     "name": "Bearded Devil",
@@ -280,6 +329,13 @@ const customMonsters = [
     "cr": "2.000"
   },
   {
+    "name": "Black Bear",
+    "hp": 19,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.500"
+  },
+  {
     "name": "Black Dragon Wyrmling",
     "hp": 33,
     "ac": 17,
@@ -298,7 +354,14 @@ const customMonsters = [
     "hp": 22,
     "ac": 13,
     "init": 3,
-    "cr": "1.000"
+    "cr": "0.250"
+  },
+  {
+    "name": "Blood Hawk",
+    "hp": 7,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.125"
   },
   {
     "name": "Blue Dragon Wyrmling",
@@ -306,6 +369,13 @@ const customMonsters = [
     "ac": 17,
     "init": 2,
     "cr": "3.000"
+  },
+  {
+    "name": "Boar",
+    "hp": 13,
+    "ac": 11,
+    "init": 0,
+    "cr": "0.250"
   },
   {
     "name": "Bone Devil",
@@ -329,6 +399,13 @@ const customMonsters = [
     "cr": "2.000"
   },
   {
+    "name": "Brown Bear",
+    "hp": 22,
+    "ac": 11,
+    "init": 1,
+    "cr": "1.000"
+  },
+  {
     "name": "Bugbear Stalker",
     "hp": 65,
     "ac": 15,
@@ -350,6 +427,20 @@ const customMonsters = [
     "cr": "5.000"
   },
   {
+    "name": "Camel",
+    "hp": 17,
+    "ac": 10,
+    "init": -1,
+    "cr": "0.125"
+  },
+  {
+    "name": "Cat",
+    "hp": 2,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.000"
+  },
+  {
     "name": "Centaur Trooper",
     "hp": 45,
     "ac": 16,
@@ -361,7 +452,7 @@ const customMonsters = [
     "hp": 85,
     "ac": 15,
     "init": 5,
-    "cr": "8.000"
+    "cr": "11.000"
   },
   {
     "name": "Chimera",
@@ -403,7 +494,7 @@ const customMonsters = [
     "hp": 22,
     "ac": 11,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Commoner",
@@ -411,6 +502,13 @@ const customMonsters = [
     "ac": 10,
     "init": 0,
     "cr": "0.000"
+  },
+  {
+    "name": "Constrictor Snake",
+    "hp": 13,
+    "ac": 13,
+    "init": 2,
+    "cr": "0.250"
   },
   {
     "name": "Copper Dragon Wyrmling",
@@ -427,6 +525,27 @@ const customMonsters = [
     "cr": "4.000"
   },
   {
+    "name": "Crab",
+    "hp": 3,
+    "ac": 11,
+    "init": 0,
+    "cr": "0.000"
+  },
+  {
+    "name": "Crocodile",
+    "hp": 13,
+    "ac": 12,
+    "init": 0,
+    "cr": "0.500"
+  },
+  {
+    "name": "Cultist",
+    "hp": 9,
+    "ac": 12,
+    "init": 1,
+    "cr": "0.125"
+  },
+  {
     "name": "Cultist Fanatic",
     "hp": 44,
     "ac": 13,
@@ -434,18 +553,11 @@ const customMonsters = [
     "cr": "2.000"
   },
   {
-    "name": "Cultist",
-    "hp": 9,
-    "ac": 12,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
     "name": "Darkmantle",
     "hp": 22,
     "ac": 11,
     "init": 3,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Death Dog",
@@ -455,11 +567,25 @@ const customMonsters = [
     "cr": "1.000"
   },
   {
+    "name": "Deer",
+    "hp": 4,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.000"
+  },
+  {
     "name": "Deva",
     "hp": 229,
     "ac": 17,
     "init": 4,
     "cr": "10.000"
+  },
+  {
+    "name": "Dire Wolf",
+    "hp": 22,
+    "ac": 14,
+    "init": 2,
+    "cr": "1.000"
   },
   {
     "name": "Djinni",
@@ -476,6 +602,13 @@ const customMonsters = [
     "cr": "3.000"
   },
   {
+    "name": "Draft Horse",
+    "hp": 15,
+    "ac": 10,
+    "init": 0,
+    "cr": "0.250"
+  },
+  {
     "name": "Dragon Turtle",
     "hp": 356,
     "ac": 20,
@@ -487,7 +620,7 @@ const customMonsters = [
     "hp": 18,
     "ac": 11,
     "init": 0,
-    "cr": "1.000"
+    "cr": "0.250"
   },
   {
     "name": "Drider",
@@ -515,7 +648,14 @@ const customMonsters = [
     "hp": 17,
     "ac": 12,
     "init": 2,
-    "cr": "1.000"
+    "cr": "0.500"
+  },
+  {
+    "name": "Eagle",
+    "hp": 4,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.000"
   },
   {
     "name": "Earth Elemental",
@@ -530,6 +670,20 @@ const customMonsters = [
     "ac": 17,
     "init": 1,
     "cr": "11.000"
+  },
+  {
+    "name": "Elephant",
+    "hp": 76,
+    "ac": 12,
+    "init": -1,
+    "cr": "4.000"
+  },
+  {
+    "name": "Elk",
+    "hp": 11,
+    "ac": 10,
+    "init": 0,
+    "cr": "0.250"
   },
   {
     "name": "Erinyes",
@@ -574,6 +728,20 @@ const customMonsters = [
     "cr": "5.000"
   },
   {
+    "name": "Flying Snake",
+    "hp": 5,
+    "ac": 14,
+    "init": 2,
+    "cr": "0.125"
+  },
+  {
+    "name": "Frog",
+    "hp": 1,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.000"
+  },
+  {
     "name": "Frost Giant",
     "hp": 149,
     "ac": 15,
@@ -616,6 +784,202 @@ const customMonsters = [
     "cr": "1.000"
   },
   {
+    "name": "Giant Ape",
+    "hp": 168,
+    "ac": 12,
+    "init": 5,
+    "cr": "7.000"
+  },
+  {
+    "name": "Giant Badger",
+    "hp": 15,
+    "ac": 13,
+    "init": 0,
+    "cr": "0.250"
+  },
+  {
+    "name": "Giant Bat",
+    "hp": 22,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.250"
+  },
+  {
+    "name": "Giant Boar",
+    "hp": 42,
+    "ac": 13,
+    "init": 0,
+    "cr": "2.000"
+  },
+  {
+    "name": "Giant Centipede",
+    "hp": 9,
+    "ac": 14,
+    "init": 2,
+    "cr": "0.250"
+  },
+  {
+    "name": "Giant Constrictor Snake",
+    "hp": 60,
+    "ac": 12,
+    "init": 2,
+    "cr": "2.000"
+  },
+  {
+    "name": "Giant Crab",
+    "hp": 13,
+    "ac": 15,
+    "init": 1,
+    "cr": "0.125"
+  },
+  {
+    "name": "Giant Crocodile",
+    "hp": 85,
+    "ac": 14,
+    "init": -1,
+    "cr": "5.000"
+  },
+  {
+    "name": "Giant Eagle",
+    "hp": 26,
+    "ac": 13,
+    "init": 3,
+    "cr": "1.000"
+  },
+  {
+    "name": "Giant Elk",
+    "hp": 42,
+    "ac": 14,
+    "init": 6,
+    "cr": "2.000"
+  },
+  {
+    "name": "Giant Fire Beetle",
+    "hp": 4,
+    "ac": 13,
+    "init": 0,
+    "cr": "0.000"
+  },
+  {
+    "name": "Giant Frog",
+    "hp": 18,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.250"
+  },
+  {
+    "name": "Giant Goat",
+    "hp": 19,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.500"
+  },
+  {
+    "name": "Giant Hyena",
+    "hp": 45,
+    "ac": 12,
+    "init": 2,
+    "cr": "1.000"
+  },
+  {
+    "name": "Giant Lizard",
+    "hp": 19,
+    "ac": 12,
+    "init": 1,
+    "cr": "0.250"
+  },
+  {
+    "name": "Giant Octopus",
+    "hp": 45,
+    "ac": 11,
+    "init": 1,
+    "cr": "1.000"
+  },
+  {
+    "name": "Giant Owl",
+    "hp": 19,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.250"
+  },
+  {
+    "name": "Giant Rat",
+    "hp": 7,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.125"
+  },
+  {
+    "name": "Giant Scorpion",
+    "hp": 52,
+    "ac": 15,
+    "init": 1,
+    "cr": "3.000"
+  },
+  {
+    "name": "Giant Seahorse",
+    "hp": 16,
+    "ac": 14,
+    "init": 1,
+    "cr": "1.000"
+  },
+  {
+    "name": "Giant Shark",
+    "hp": 92,
+    "ac": 13,
+    "init": 3,
+    "cr": "5.000"
+  },
+  {
+    "name": "Giant Spider",
+    "hp": 26,
+    "ac": 14,
+    "init": 3,
+    "cr": "1.000"
+  },
+  {
+    "name": "Giant Toad",
+    "hp": 39,
+    "ac": 11,
+    "init": 1,
+    "cr": "1.000"
+  },
+  {
+    "name": "Giant Venomous Snake",
+    "hp": 11,
+    "ac": 14,
+    "init": 4,
+    "cr": "1.000"
+  },
+  {
+    "name": "Giant Vulture",
+    "hp": 25,
+    "ac": 10,
+    "init": 0,
+    "cr": "1.000"
+  },
+  {
+    "name": "Giant Wasp",
+    "hp": 22,
+    "ac": 13,
+    "init": 2,
+    "cr": "0.500"
+  },
+  {
+    "name": "Giant Weasel",
+    "hp": 9,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.125"
+  },
+  {
+    "name": "Giant Wolf Spider",
+    "hp": 11,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.250"
+  },
+  {
     "name": "Gibbering Mouther",
     "hp": 52,
     "ac": 9,
@@ -642,6 +1006,13 @@ const customMonsters = [
     "ac": 15,
     "init": 1,
     "cr": "1.000"
+  },
+  {
+    "name": "Goat",
+    "hp": 4,
+    "ac": 10,
+    "init": 0,
+    "cr": "0.000"
   },
   {
     "name": "Goblin Boss",
@@ -683,7 +1054,7 @@ const customMonsters = [
     "hp": 22,
     "ac": 9,
     "init": -2,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Green Dragon Wyrmling",
@@ -718,7 +1089,14 @@ const customMonsters = [
     "hp": 11,
     "ac": 11,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.250"
+  },
+  {
+    "name": "Guard",
+    "hp": 11,
+    "ac": 16,
+    "init": 1,
+    "cr": "0.125"
   },
   {
     "name": "Guard Captain",
@@ -735,13 +1113,6 @@ const customMonsters = [
     "cr": "10.000"
   },
   {
-    "name": "Guard",
-    "hp": 11,
-    "ac": 16,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
     "name": "Half-Dragon",
     "hp": 105,
     "ac": 18,
@@ -754,6 +1125,13 @@ const customMonsters = [
     "ac": 11,
     "init": 1,
     "cr": "1.000"
+  },
+  {
+    "name": "Hawk",
+    "hp": 1,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.000"
   },
   {
     "name": "Hell Hound",
@@ -784,6 +1162,13 @@ const customMonsters = [
     "cr": "1.000"
   },
   {
+    "name": "Hippopotamus",
+    "hp": 82,
+    "ac": 14,
+    "init": -2,
+    "cr": "4.000"
+  },
+  {
     "name": "Hobgoblin Captain",
     "hp": 58,
     "ac": 17,
@@ -812,11 +1197,25 @@ const customMonsters = [
     "cr": "11.000"
   },
   {
+    "name": "Hunter Shark",
+    "hp": 45,
+    "ac": 12,
+    "init": 2,
+    "cr": "2.000"
+  },
+  {
     "name": "Hydra",
     "hp": 184,
     "ac": 15,
     "init": 4,
     "cr": "8.000"
+  },
+  {
+    "name": "Hyena",
+    "hp": 5,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.000"
   },
   {
     "name": "Ice Devil",
@@ -830,7 +1229,7 @@ const customMonsters = [
     "hp": 21,
     "ac": 11,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Imp",
@@ -859,6 +1258,20 @@ const customMonsters = [
     "ac": 20,
     "init": 9,
     "cr": "16.000"
+  },
+  {
+    "name": "Jackal",
+    "hp": 3,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.000"
+  },
+  {
+    "name": "Killer Whale",
+    "hp": 90,
+    "ac": 12,
+    "init": 2,
+    "cr": "3.000"
   },
   {
     "name": "Knight",
@@ -903,6 +1316,20 @@ const customMonsters = [
     "cr": "21.000"
   },
   {
+    "name": "Lion",
+    "hp": 22,
+    "ac": 12,
+    "init": 2,
+    "cr": "1.000"
+  },
+  {
+    "name": "Lizard",
+    "hp": 2,
+    "ac": 10,
+    "init": 0,
+    "cr": "0.000"
+  },
+  {
     "name": "Mage",
     "hp": 81,
     "ac": 15,
@@ -914,14 +1341,21 @@ const customMonsters = [
     "hp": 18,
     "ac": 11,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Magmin",
     "hp": 13,
     "ac": 14,
     "init": 2,
-    "cr": "1.000"
+    "cr": "0.500"
+  },
+  {
+    "name": "Mammoth",
+    "hp": 126,
+    "ac": 13,
+    "init": 2,
+    "cr": "6.000"
   },
   {
     "name": "Manticore",
@@ -936,6 +1370,13 @@ const customMonsters = [
     "ac": 16,
     "init": 10,
     "cr": "16.000"
+  },
+  {
+    "name": "Mastiff",
+    "hp": 5,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.125"
   },
   {
     "name": "Medusa",
@@ -980,11 +1421,11 @@ const customMonsters = [
     "cr": "2.000"
   },
   {
-    "name": "Mummy Lord",
-    "hp": 187,
-    "ac": 17,
-    "init": 4,
-    "cr": "15.000"
+    "name": "Mule",
+    "hp": 11,
+    "ac": 10,
+    "init": 0,
+    "cr": "0.125"
   },
   {
     "name": "Mummy",
@@ -992,6 +1433,13 @@ const customMonsters = [
     "ac": 11,
     "init": -1,
     "cr": "3.000"
+  },
+  {
+    "name": "Mummy Lord",
+    "hp": 187,
+    "ac": 17,
+    "init": 4,
+    "cr": "15.000"
   },
   {
     "name": "Nalfeshnee",
@@ -1019,7 +1467,7 @@ const customMonsters = [
     "hp": 9,
     "ac": 15,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.125"
   },
   {
     "name": "Ochre Jelly",
@@ -1057,11 +1505,25 @@ const customMonsters = [
     "cr": "5.000"
   },
   {
+    "name": "Owl",
+    "hp": 1,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.000"
+  },
+  {
     "name": "Owlbear",
     "hp": 59,
     "ac": 13,
     "init": 1,
     "cr": "3.000"
+  },
+  {
+    "name": "Panther",
+    "hp": 13,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.250"
   },
   {
     "name": "Pegasus",
@@ -1078,11 +1540,11 @@ const customMonsters = [
     "cr": "3.000"
   },
   {
-    "name": "Pirate Captain",
-    "hp": 84,
-    "ac": 17,
-    "init": 7,
-    "cr": "6.000"
+    "name": "Piranha",
+    "hp": 1,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.000"
   },
   {
     "name": "Pirate",
@@ -1090,6 +1552,13 @@ const customMonsters = [
     "ac": 14,
     "init": 5,
     "cr": "1.000"
+  },
+  {
+    "name": "Pirate Captain",
+    "hp": 84,
+    "ac": 17,
+    "init": 7,
+    "cr": "6.000"
   },
   {
     "name": "Pit Fiend",
@@ -1106,11 +1575,25 @@ const customMonsters = [
     "cr": "16.000"
   },
   {
-    "name": "Priest Acolyte",
-    "hp": 11,
+    "name": "Plesiosaurus",
+    "hp": 68,
     "ac": 13,
+    "init": 2,
+    "cr": "2.000"
+  },
+  {
+    "name": "Polar Bear",
+    "hp": 42,
+    "ac": 12,
+    "init": 2,
+    "cr": "2.000"
+  },
+  {
+    "name": "Pony",
+    "hp": 11,
+    "ac": 10,
     "init": 0,
-    "cr": "1.000"
+    "cr": "0.125"
   },
   {
     "name": "Priest",
@@ -1120,9 +1603,23 @@ const customMonsters = [
     "cr": "2.000"
   },
   {
+    "name": "Priest Acolyte",
+    "hp": 11,
+    "ac": 13,
+    "init": 0,
+    "cr": "1.000"
+  },
+  {
     "name": "Pseudodragon",
     "hp": 10,
     "ac": 14,
+    "init": 2,
+    "cr": "0.250"
+  },
+  {
+    "name": "Pteranodon",
+    "hp": 13,
+    "ac": 13,
     "init": 2,
     "cr": "1.000"
   },
@@ -1148,6 +1645,20 @@ const customMonsters = [
     "cr": "13.000"
   },
   {
+    "name": "Rat",
+    "hp": 1,
+    "ac": 10,
+    "init": 0,
+    "cr": "0.000"
+  },
+  {
+    "name": "Raven",
+    "hp": 2,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.000"
+  },
+  {
     "name": "Red Dragon Wyrmling",
     "hp": 75,
     "ac": 17,
@@ -1155,11 +1666,32 @@ const customMonsters = [
     "cr": "4.000"
   },
   {
+    "name": "Reef Shark",
+    "hp": 22,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.500"
+  },
+  {
     "name": "Remorhaz",
     "hp": 195,
     "ac": 17,
     "init": 5,
     "cr": "11.000"
+  },
+  {
+    "name": "Rhinoceros",
+    "hp": 45,
+    "ac": 13,
+    "init": -1,
+    "cr": "2.000"
+  },
+  {
+    "name": "Riding Horse",
+    "hp": 13,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.250"
   },
   {
     "name": "Roc",
@@ -1180,7 +1712,14 @@ const customMonsters = [
     "hp": 33,
     "ac": 14,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.500"
+  },
+  {
+    "name": "Saber-Toothed Tiger",
+    "hp": 52,
+    "ac": 13,
+    "init": 3,
+    "cr": "2.000"
   },
   {
     "name": "Sahuagin Warrior",
@@ -1201,14 +1740,21 @@ const customMonsters = [
     "hp": 31,
     "ac": 13,
     "init": 3,
-    "cr": "1.000"
+    "cr": "0.500"
+  },
+  {
+    "name": "Scorpion",
+    "hp": 1,
+    "ac": 11,
+    "init": 0,
+    "cr": "0.000"
   },
   {
     "name": "Scout",
     "hp": 16,
     "ac": 13,
     "init": 2,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Sea Hag",
@@ -1218,11 +1764,18 @@ const customMonsters = [
     "cr": "2.000"
   },
   {
+    "name": "Seahorse",
+    "hp": 1,
+    "ac": 12,
+    "init": 1,
+    "cr": "0.000"
+  },
+  {
     "name": "Shadow",
     "hp": 27,
     "ac": 12,
     "init": 2,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Shambling Mound",
@@ -1257,7 +1810,7 @@ const customMonsters = [
     "hp": 13,
     "ac": 14,
     "init": 3,
-    "cr": "1.000"
+    "cr": "0.250"
   },
   {
     "name": "Solar",
@@ -1295,6 +1848,13 @@ const customMonsters = [
     "cr": "1.000"
   },
   {
+    "name": "Spider",
+    "hp": 1,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.000"
+  },
+  {
     "name": "Spirit Naga",
     "hp": 135,
     "ac": 17,
@@ -1306,7 +1866,7 @@ const customMonsters = [
     "hp": 10,
     "ac": 15,
     "init": 4,
-    "cr": "1.000"
+    "cr": "0.250"
   },
   {
     "name": "Spy",
@@ -1320,14 +1880,14 @@ const customMonsters = [
     "hp": 17,
     "ac": 10,
     "init": 0,
-    "cr": "1.000"
+    "cr": "0.250"
   },
   {
     "name": "Stirge",
     "hp": 5,
     "ac": 13,
     "init": 3,
-    "cr": "1.000"
+    "cr": "0.125"
   },
   {
     "name": "Stone Giant",
@@ -1358,6 +1918,55 @@ const customMonsters = [
     "cr": "4.000"
   },
   {
+    "name": "Swarm of Bats",
+    "hp": 11,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.250"
+  },
+  {
+    "name": "Swarm of Crawling Claws",
+    "hp": 49,
+    "ac": 12,
+    "init": 2,
+    "cr": "3.000"
+  },
+  {
+    "name": "Swarm of Insects",
+    "hp": 19,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.500"
+  },
+  {
+    "name": "Swarm of Piranhas",
+    "hp": 28,
+    "ac": 13,
+    "init": 3,
+    "cr": "1.000"
+  },
+  {
+    "name": "Swarm of Rats",
+    "hp": 14,
+    "ac": 10,
+    "init": 0,
+    "cr": "0.250"
+  },
+  {
+    "name": "Swarm of Ravens",
+    "hp": 11,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.250"
+  },
+  {
+    "name": "Swarm of Venomous Snakes",
+    "hp": 36,
+    "ac": 14,
+    "init": 4,
+    "cr": "2.000"
+  },
+  {
     "name": "Tarrasque",
     "hp": 697,
     "ac": 25,
@@ -1365,11 +1974,11 @@ const customMonsters = [
     "cr": "30.000"
   },
   {
-    "name": "Tough Boss",
-    "hp": 82,
-    "ac": 16,
-    "init": 2,
-    "cr": "4.000"
+    "name": "Tiger",
+    "hp": 30,
+    "ac": 13,
+    "init": 3,
+    "cr": "1.000"
   },
   {
     "name": "Tough",
@@ -1379,6 +1988,13 @@ const customMonsters = [
     "cr": "1.000"
   },
   {
+    "name": "Tough Boss",
+    "hp": 82,
+    "ac": 16,
+    "init": 2,
+    "cr": "4.000"
+  },
+  {
     "name": "Treant",
     "hp": 138,
     "ac": 16,
@@ -1386,11 +2002,11 @@ const customMonsters = [
     "cr": "9.000"
   },
   {
-    "name": "Troll Limb",
-    "hp": 14,
-    "ac": 13,
-    "init": 1,
-    "cr": "1.000"
+    "name": "Triceratops",
+    "hp": 114,
+    "ac": 14,
+    "init": -1,
+    "cr": "5.000"
   },
   {
     "name": "Troll",
@@ -1400,18 +2016,25 @@ const customMonsters = [
     "cr": "5.000"
   },
   {
+    "name": "Troll Limb",
+    "hp": 14,
+    "ac": 13,
+    "init": 1,
+    "cr": "1.000"
+  },
+  {
+    "name": "Tyrannosaurus Rex",
+    "hp": 136,
+    "ac": 13,
+    "init": 3,
+    "cr": "8.000"
+  },
+  {
     "name": "Unicorn",
     "hp": 97,
     "ac": 12,
     "init": 8,
     "cr": "5.000"
-  },
-  {
-    "name": "Vampire Familiar",
-    "hp": 65,
-    "ac": 15,
-    "init": 5,
-    "cr": "3.000"
   },
   {
     "name": "Vampire",
@@ -1421,6 +2044,13 @@ const customMonsters = [
     "cr": "13.000"
   },
   {
+    "name": "Vampire Familiar",
+    "hp": 65,
+    "ac": 15,
+    "init": 5,
+    "cr": "3.000"
+  },
+  {
     "name": "Vampire Spawn",
     "hp": 90,
     "ac": 16,
@@ -1428,11 +2058,18 @@ const customMonsters = [
     "cr": "5.000"
   },
   {
+    "name": "Venomous Snake",
+    "hp": 5,
+    "ac": 12,
+    "init": 2,
+    "cr": "1.000"
+  },
+  {
     "name": "Violet Fungus",
     "hp": 18,
     "ac": 5,
     "init": -5,
-    "cr": "1.000"
+    "cr": "0.250"
   },
   {
     "name": "Vrock",
@@ -1442,11 +2079,25 @@ const customMonsters = [
     "cr": "6.000"
   },
   {
+    "name": "Vulture",
+    "hp": 5,
+    "ac": 10,
+    "init": 0,
+    "cr": "0.000"
+  },
+  {
+    "name": "Warhorse",
+    "hp": 19,
+    "ac": 11,
+    "init": 1,
+    "cr": "0.500"
+  },
+  {
     "name": "Warhorse Skeleton",
     "hp": 22,
     "ac": 13,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Warrior Infantry",
@@ -1468,6 +2119,13 @@ const customMonsters = [
     "ac": 14,
     "init": 2,
     "cr": "5.000"
+  },
+  {
+    "name": "Weasel",
+    "hp": 1,
+    "ac": 13,
+    "init": 3,
+    "cr": "0.000"
   },
   {
     "name": "Werebear",
@@ -1533,11 +2191,18 @@ const customMonsters = [
     "cr": "3.000"
   },
   {
+    "name": "Wolf",
+    "hp": 11,
+    "ac": 12,
+    "init": 2,
+    "cr": "0.250"
+  },
+  {
     "name": "Worg",
     "hp": 26,
     "ac": 13,
     "init": 1,
-    "cr": "1.000"
+    "cr": "0.500"
   },
   {
     "name": "Wraith",
@@ -1635,671 +2300,6 @@ const customMonsters = [
     "hp": 15,
     "ac": 8,
     "init": -2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Swarm of Crawling Claws",
-    "hp": 49,
-    "ac": 12,
-    "init": 2,
-    "cr": "3.000"
-  },
-  {
-    "name": "Allosaurus",
-    "hp": 51,
-    "ac": 13,
-    "init": 1,
-    "cr": "2.000"
-  },
-  {
-    "name": "Ankylosaurus",
-    "hp": 68,
-    "ac": 15,
-    "init": 0,
-    "cr": "3.000"
-  },
-  {
-    "name": "Ape",
-    "hp": 19,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Archelon",
-    "hp": 90,
-    "ac": 17,
-    "init": 3,
-    "cr": "4.000"
-  },
-  {
-    "name": "Baboon",
-    "hp": 3,
-    "ac": 12,
-    "init": 2,
-    "cr": "0.000"
-  },
-  {
-    "name": "Bat",
-    "hp": 1,
-    "ac": 12,
-    "init": 2,
-    "cr": "0.000"
-  },
-  {
-    "name": "Black Bear",
-    "hp": 19,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Badger",
-    "hp": 5,
-    "ac": 11,
-    "init": 0,
-    "cr": "0.000"
-  },
-  {
-    "name": "Blood Hawk",
-    "hp": 7,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Boar",
-    "hp": 13,
-    "ac": 11,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Brown Bear",
-    "hp": 22,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Camel",
-    "hp": 17,
-    "ac": 10,
-    "init": -1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Cat",
-    "hp": 2,
-    "ac": 12,
-    "init": 2,
-    "cr": "0.000"
-  },
-  {
-    "name": "Constrictor Snake",
-    "hp": 13,
-    "ac": 13,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Crab",
-    "hp": 3,
-    "ac": 11,
-    "init": 0,
-    "cr": "0.000"
-  },
-  {
-    "name": "Crocodile",
-    "hp": 13,
-    "ac": 12,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Deer",
-    "hp": 4,
-    "ac": 13,
-    "init": 3,
-    "cr": "0.000"
-  },
-  {
-    "name": "Dire Wolf",
-    "hp": 22,
-    "ac": 14,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Draft Horse",
-    "hp": 15,
-    "ac": 10,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Eagle",
-    "hp": 4,
-    "ac": 12,
-    "init": 2,
-    "cr": "0.000"
-  },
-  {
-    "name": "Elephant",
-    "hp": 76,
-    "ac": 12,
-    "init": -1,
-    "cr": "4.000"
-  },
-  {
-    "name": "Elk",
-    "hp": 11,
-    "ac": 10,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Flying Snake",
-    "hp": 5,
-    "ac": 14,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Frog",
-    "hp": 1,
-    "ac": 11,
-    "init": 1,
-    "cr": "0.000"
-  },
-  {
-    "name": "Giant Ape",
-    "hp": 168,
-    "ac": 12,
-    "init": 5,
-    "cr": "7.000"
-  },
-  {
-    "name": "Giant Badger",
-    "hp": 15,
-    "ac": 13,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Bat",
-    "hp": 22,
-    "ac": 13,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Boar",
-    "hp": 42,
-    "ac": 13,
-    "init": 0,
-    "cr": "2.000"
-  },
-  {
-    "name": "Giant Centipede",
-    "hp": 9,
-    "ac": 14,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Constrictor Snake",
-    "hp": 60,
-    "ac": 12,
-    "init": 2,
-    "cr": "2.000"
-  },
-  {
-    "name": "Giant Crab",
-    "hp": 13,
-    "ac": 15,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Crocodile",
-    "hp": 85,
-    "ac": 14,
-    "init": -1,
-    "cr": "5.000"
-  },
-  {
-    "name": "Giant Eagle",
-    "hp": 26,
-    "ac": 13,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Elk",
-    "hp": 42,
-    "ac": 14,
-    "init": 6,
-    "cr": "2.000"
-  },
-  {
-    "name": "Giant Fire Beetle",
-    "hp": 4,
-    "ac": 13,
-    "init": 0,
-    "cr": "0.000"
-  },
-  {
-    "name": "Giant Frog",
-    "hp": 18,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Goat",
-    "hp": 19,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Hyena",
-    "hp": 45,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Lizard",
-    "hp": 19,
-    "ac": 12,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Octopus",
-    "hp": 45,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Owl",
-    "hp": 19,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Rat",
-    "hp": 7,
-    "ac": 13,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Scorpion",
-    "hp": 52,
-    "ac": 15,
-    "init": 1,
-    "cr": "3.000"
-  },
-  {
-    "name": "Giant Seahorse",
-    "hp": 16,
-    "ac": 14,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Shark",
-    "hp": 92,
-    "ac": 13,
-    "init": 3,
-    "cr": "5.000"
-  },
-  {
-    "name": "Giant Spider",
-    "hp": 26,
-    "ac": 14,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Toad",
-    "hp": 39,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Venomous Snake",
-    "hp": 11,
-    "ac": 14,
-    "init": 4,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Vulture",
-    "hp": 25,
-    "ac": 10,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Wasp",
-    "hp": 22,
-    "ac": 13,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Weasel",
-    "hp": 9,
-    "ac": 13,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Giant Wolf Spider",
-    "hp": 11,
-    "ac": 13,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Goat",
-    "hp": 4,
-    "ac": 10,
-    "init": 0,
-    "cr": "0.000"
-  },
-  {
-    "name": "Hawk",
-    "hp": 1,
-    "ac": 13,
-    "init": 3,
-    "cr": "0.000"
-  },
-  {
-    "name": "Hippopotamus",
-    "hp": 82,
-    "ac": 14,
-    "init": -2,
-    "cr": "4.000"
-  },
-  {
-    "name": "Hunter Shark",
-    "hp": 45,
-    "ac": 12,
-    "init": 2,
-    "cr": "2.000"
-  },
-  {
-    "name": "Hyena",
-    "hp": 5,
-    "ac": 11,
-    "init": 1,
-    "cr": "0.000"
-  },
-  {
-    "name": "Jackal",
-    "hp": 3,
-    "ac": 12,
-    "init": 2,
-    "cr": "0.000"
-  },
-  {
-    "name": "Killer Whale",
-    "hp": 90,
-    "ac": 12,
-    "init": 2,
-    "cr": "3.000"
-  },
-  {
-    "name": "Lion",
-    "hp": 22,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Lizard",
-    "hp": 2,
-    "ac": 10,
-    "init": 0,
-    "cr": "0.000"
-  },
-  {
-    "name": "Mammoth",
-    "hp": 126,
-    "ac": 13,
-    "init": 2,
-    "cr": "6.000"
-  },
-  {
-    "name": "Mastiff",
-    "hp": 5,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Mule",
-    "hp": 11,
-    "ac": 10,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Owl",
-    "hp": 1,
-    "ac": 11,
-    "init": 1,
-    "cr": "0.000"
-  },
-  {
-    "name": "Panther",
-    "hp": 13,
-    "ac": 13,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Piranha",
-    "hp": 1,
-    "ac": 13,
-    "init": 3,
-    "cr": "0.000"
-  },
-  {
-    "name": "Plesiosaurus",
-    "hp": 68,
-    "ac": 13,
-    "init": 2,
-    "cr": "2.000"
-  },
-  {
-    "name": "Polar Bear",
-    "hp": 42,
-    "ac": 12,
-    "init": 2,
-    "cr": "2.000"
-  },
-  {
-    "name": "Pony",
-    "hp": 11,
-    "ac": 10,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Pteranodon",
-    "hp": 13,
-    "ac": 13,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Rat",
-    "hp": 1,
-    "ac": 10,
-    "init": 0,
-    "cr": "0.000"
-  },
-  {
-    "name": "Raven",
-    "hp": 2,
-    "ac": 12,
-    "init": 2,
-    "cr": "0.000"
-  },
-  {
-    "name": "Reef Shark",
-    "hp": 22,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Rhinoceros",
-    "hp": 45,
-    "ac": 13,
-    "init": -1,
-    "cr": "2.000"
-  },
-  {
-    "name": "Riding Horse",
-    "hp": 13,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Saber-Toothed Tiger",
-    "hp": 52,
-    "ac": 13,
-    "init": 3,
-    "cr": "2.000"
-  },
-  {
-    "name": "Scorpion",
-    "hp": 1,
-    "ac": 11,
-    "init": 0,
-    "cr": "0.000"
-  },
-  {
-    "name": "Seahorse",
-    "hp": 1,
-    "ac": 12,
-    "init": 1,
-    "cr": "0.000"
-  },
-  {
-    "name": "Spider",
-    "hp": 1,
-    "ac": 12,
-    "init": 2,
-    "cr": "0.000"
-  },
-  {
-    "name": "Swarm of Bats",
-    "hp": 11,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Swarm of Insects",
-    "hp": 19,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Swarm of Piranhas",
-    "hp": 28,
-    "ac": 13,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Swarm of Rats",
-    "hp": 14,
-    "ac": 10,
-    "init": 0,
-    "cr": "1.000"
-  },
-  {
-    "name": "Swarm of Ravens",
-    "hp": 11,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Swarm of Venomous Snakes",
-    "hp": 36,
-    "ac": 14,
-    "init": 4,
-    "cr": "2.000"
-  },
-  {
-    "name": "Tiger",
-    "hp": 30,
-    "ac": 13,
-    "init": 3,
-    "cr": "1.000"
-  },
-  {
-    "name": "Triceratops",
-    "hp": 114,
-    "ac": 14,
-    "init": -1,
-    "cr": "5.000"
-  },
-  {
-    "name": "Tyrannosaurus Rex",
-    "hp": 136,
-    "ac": 13,
-    "init": 3,
-    "cr": "8.000"
-  },
-  {
-    "name": "Venomous Snake",
-    "hp": 5,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
-  },
-  {
-    "name": "Vulture",
-    "hp": 5,
-    "ac": 10,
-    "init": 0,
-    "cr": "0.000"
-  },
-  {
-    "name": "Warhorse",
-    "hp": 19,
-    "ac": 11,
-    "init": 1,
-    "cr": "1.000"
-  },
-  {
-    "name": "Weasel",
-    "hp": 1,
-    "ac": 13,
-    "init": 3,
-    "cr": "0.000"
-  },
-  {
-    "name": "Wolf",
-    "hp": 11,
-    "ac": 12,
-    "init": 2,
-    "cr": "1.000"
+    "cr": "0.250"
   }
 ];
