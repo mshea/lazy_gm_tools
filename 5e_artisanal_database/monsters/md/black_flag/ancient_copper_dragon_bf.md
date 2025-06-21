@@ -1,18 +1,19 @@
 # Ancient Copper Dragon
 
-*gargantuan* *Dragon*
+*Gargantuan* *Dragon*
 
 - **Armor Class:** 21 (natural armor)
 - **Hit Points:** 297 
 - **Speed:** walk 40 ft. climb 40 ft. fly 80 ft.
+- **Perception**: 27
+- **Stealth**: 16
 - **Challenge Rating:** 18 (20,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 26 (+8) | 22 (+6) | 36 (+13) | 20 (+5) | 28 (+9) | 30 (+10) |
+| +8 | +6 | +13 | +5 | +9 | +10 |
 
-- **Saving Throws**: Str +8, Dex +6, Con +13, Int +5, Wis +9, Cha +10
 - **Damage Immunities:** acid
 - **Senses:** darkvision 120 ft., keensense 60 ft.
 - **Languages:** Common,Draconic
@@ -44,3 +45,10 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Tail Attack:** The dragon makes a Tail attack.
 - **Elemental Roar (Costs 2 Actions):** The dragon roars at up to two creatures of its choice within 120 feet of it. Each target must succeed on a DC 18 CHA save or be vulnerable to acid damage until the end of its next turn. A target resistant to acid damage isn't resistant to it for the duration. A target immune to acid damage is still immune to it, even if the target fails the save.
 - **Wing Attack (Costs 2 Actions):** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 DEX save or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed without provoking opportunity attacks.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

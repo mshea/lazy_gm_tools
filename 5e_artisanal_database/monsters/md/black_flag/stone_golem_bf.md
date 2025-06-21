@@ -1,18 +1,19 @@
 # Stone Golem
 
-*large* *Construct*
+*Large* *Construct*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 176 
 - **Speed:** walk 30 ft.
+- **Perception**: 10
+- **Stealth**: 9
 - **Challenge Rating:** 10 (5,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 20 (+5) | 8 (-1) | 28 (+9) | 2 (-4) | 10 (+0) | 1 (-5) |
+| +5 | -1 | +9 | -4 | +0 | -5 |
 
-- **Saving Throws**: Str +5, Dex +-1, Con +9, Int +-4, Wis +0, Cha +-5
 - **Damage Immunities:** Golem Resilience
 - **Senses:** darkvision 120 ft.
 - **Languages:** understands the languages of its creator but can't speak
@@ -34,3 +35,10 @@
 ### Bonus Actions
 
 - **Rearrange Stone:** The stone golem rearranges some of the stone comprising its body, choosing one of the following arrangements. The arrangement lasts until the golem ends the effect as a bonus action, uses this bonus action again, or until it is incapacitated.<br>- **Jagged Stones.** The golem turns several of the stones on its body to point outward. Its AC is reduced by 2, and each time a creature within 5 feet of the golem hits it with a melee attack, the attacker takes 5 (2d4) piercing damage.<br>- **Protective Slabs.** The golem slides several flat stones around its body to protect its vulnerable areas. Its speed is reduced by 10 feet, and each time it takes damage, the damage is reduced by 5 (2d4).
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,18 +1,19 @@
 # Frog, Giant Poisonous
 
-*large* *Beast*
+*Large* *Beast*
 
 - **Armor Class:** 11
 - **Hit Points:** 44 
 - **Speed:** walk 30 ft. swim 30 ft.
+- **Perception**: 10
+- **Stealth**: 11
 - **Challenge Rating:** 1 (200 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 12 (+1) | 12 (+1) | 2 (-4) | 10 (+0) | 2 (-4) |
+| +3 | +1 | +1 | -4 | +0 | -4 |
 
-- **Saving Throws**: Str +3, Dex +1, Con +1, Int +-4, Wis +0, Cha +-4
 - **Senses:** darkvision 30 ft.
 - **Languages:** -
 
@@ -30,3 +31,10 @@
 ### Bonus Actions
 
 - **Reeling Tongue:** The frog lashes out its tongue at one Large or smaller creature it can see within 20 feet of it. The target must succeed on a DC 13 STR save or be pulled up to 15 feet closer to the frog.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

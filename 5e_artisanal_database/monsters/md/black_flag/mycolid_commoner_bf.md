@@ -1,19 +1,20 @@
 # Mycolid Commoner
 
-*small* *Plant*
+*Small* *Plant*
 
 - **Armor Class:** 12
 - **Hit Points:** 21 
 - **Speed:** walk 15 ft.
+- **Perception**: 13
+- **Stealth**: 12
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 14 (+2) | 10 (+0) | 6 (-2) | 16 (+3) | 4 (-3) |
+| +0 | +2 | +0 | -2 | +3 | -3 |
 
-- **Saving Throws**: Str +0, Dex +2, Con +0, Int +-2, Wis +3, Cha +-3
-- **Damage Resistances:** poison,Plant Resilience
+- **Damage Resistances:** poison, Plant Resilience
 - **Senses:** keensense 120 ft. (can't sense beyond this radius)
 - **Languages:** understands Sylvan but can't speak,telepathy 30 ft.
 
@@ -31,3 +32,10 @@
 ### Bonus Actions
 
 - **Fetid Feast:** The mycolid draws sustenance from a Medium or larger pile of carrion or rotting vegetation within 5 feet of it. It regains 5 (2d4) HP. The mycolid can't use Fetid Feast on a pile of carrion or vegetation if it or another mycolid has already used Fetid Feast on that pile.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

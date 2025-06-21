@@ -1,20 +1,21 @@
 # Erinyes
 
-*medium* *Fiend*
+*Medium* *Fiend*
 
 - **Armor Class:** 18 (plate)
 - **Hit Points:** 147 
 - **Speed:** walk 30 ft. fly 60 ft.
+- **Perception**: 16
+- **Stealth**: 17
 - **Challenge Rating:** 12 (8,400 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 24 (+7) | 26 (+8) | 14 (+2) | 22 (+6) | 26 (+8) |
+| +4 | +7 | +8 | +2 | +6 | +8 |
 
-- **Saving Throws**: Str +4, Dex +7, Con +8, Int +2, Wis +6, Cha +8
 - **Damage Immunities:** Devilish Resilience
-- **Damage Resistances:** charmed,frightened,Devilish Resilience
+- **Damage Resistances:** charmed, frightened, Devilish Resilience
 - **Senses:** truesight 120 ft.
 - **Languages:** Infernal,telepathy 120 ft.
 
@@ -37,3 +38,10 @@
 ### Reactions
 
 - **Parry:** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

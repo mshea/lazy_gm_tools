@@ -1,19 +1,20 @@
 # Lantern Hagfish
 
-*small* *Aberration*
+*Small* *Aberration*
 
 - **Armor Class:** 11
 - **Hit Points:** 9 
 - **Speed:** walk 15 ft. swim 30 ft.
+- **Perception**: 10
+- **Stealth**: 11
 - **Challenge Rating:** 1/8 (25 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 2 (-4) | 12 (+1) | 10 (+0) | 2 (-4) | 10 (+0) | 1 (-5) |
+| -4 | +1 | +0 | -4 | +0 | -5 |
 
-- **Saving Throws**: Str +-4, Dex +1, Con +0, Int +-4, Wis +0, Cha +-5
-- **Damage Resistances:** cold,grappled,prone,restrained,Aberrant Resilience
+- **Damage Resistances:** cold, grappled, prone, restrained, Aberrant Resilience
 - **Senses:** -
 - **Languages:** -
 
@@ -30,3 +31,10 @@
 ### Bonus Actions
 
 - **Slime Slide:** While on a solid surface, the lantern hagfish slides up to 15 feet in a straight line and can move through the space of any creature without provoking opportunity attacks. Each space on that surface along that line is coated in slime until the start of the hagfish's next turn. Each creature in that line, and any creature that enters a slime-coated space for the first time on a turn must succeed on a DC 11 DEX save or fall prone.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,18 +1,19 @@
 # Barbed Devil
 
-*medium* *Fiend*
+*Medium* *Fiend*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 94 
 - **Speed:** walk 30 ft.
+- **Perception**: 18
+- **Stealth**: 13
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 22 (+6) | 16 (+3) | 24 (+7) | 12 (+1) | 20 (+5) | 20 (+5) |
+| +6 | +3 | +7 | +1 | +5 | +5 |
 
-- **Saving Throws**: Str +6, Dex +3, Con +7, Int +1, Wis +5, Cha +5
 - **Damage Immunities:** Devilish Resilience
 - **Damage Resistances:** Devilish Resilience
 - **Senses:** darkvision 120 ft.
@@ -32,3 +33,10 @@
 - **Claw:** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6+3) piercing damage.
 - **Tail:** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 12 (2d8+3) piercing damage.
 - **Hurl Flame:** _Ranged Spell Attack:_ +5 to hit, range 150 ft., one target. _Hit:_ 12 (3d6+2) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

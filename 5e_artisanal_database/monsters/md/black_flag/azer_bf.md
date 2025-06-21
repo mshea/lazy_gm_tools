@@ -1,19 +1,20 @@
 # Azer
 
-*medium* *Elemental*
+*Medium* *Elemental*
 
 - **Armor Class:** 17 (natural armor, shield)
 - **Hit Points:** 49 
 - **Speed:** walk 30 ft.
+- **Perception**: 11
+- **Stealth**: 11
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 12 (+1) | 18 (+4) | 12 (+1) | 12 (+1) | 10 (+0) |
+| +3 | +1 | +4 | +1 | +1 | +0 |
 
-- **Saving Throws**: Str +3, Dex +1, Con +4, Int +1, Wis +1, Cha +0
-- **Damage Immunities:** fire,poison,poisoned
+- **Damage Immunities:** fire, poison, poisoned
 - **Senses:** -
 - **Languages:** Dwarvish,Ignan
 
@@ -31,3 +32,10 @@
 ### Bonus Actions
 
 - **Blazing Bulwark:** The azer creates fire in a 15-foot line that is 1 foot wide, originating from a point the azer can see within 15 feet of it. This line is an opaque wall that is 3 feet tall and provides half-cover to creatures behind it. A creature that moves through the line takes damage as if it touched the azer. The line of fire lasts for 1 minute or until the azer uses this bonus action again.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

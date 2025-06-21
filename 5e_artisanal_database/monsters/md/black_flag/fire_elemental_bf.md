@@ -1,19 +1,20 @@
 # Fire Elemental
 
-*large* *Elemental*
+*Large* *Elemental*
 
 - **Armor Class:** 13
 - **Hit Points:** 110 
 - **Speed:** walk 50 ft.
+- **Perception**: 10
+- **Stealth**: 13
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 16 (+3) | 16 (+3) | 6 (-2) | 10 (+0) | 6 (-2) |
+| +0 | +3 | +3 | -2 | +0 | -2 |
 
-- **Saving Throws**: Str +0, Dex +3, Con +3, Int +-2, Wis +0, Cha +-2
-- **Damage Immunities:** fire,Elemental Resilience
+- **Damage Immunities:** fire, Elemental Resilience
 - **Damage Resistances:** Elemental Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Ignan
@@ -36,3 +37,10 @@
 ### Bonus Actions
 
 - **Fiery Dash (Recharge 4-6):** The elemental moves up to 20 feet in a straight line and can move through the space of any Large or smaller creature without provoking opportunity attacks. Each space along that line catches fire until the start of the elemental's next turn. A creature that enters a burning space for the first time on a turn or starts its turn there must succeed on a DC 14 DEX save or take 5 (1d10) fire damage.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

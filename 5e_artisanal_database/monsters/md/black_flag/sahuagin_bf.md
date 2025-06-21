@@ -1,18 +1,19 @@
 # Sahuagin
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 25 
 - **Speed:** walk 30 ft. swim 40 ft.
+- **Perception**: 15
+- **Stealth**: 10
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 10 (+0) | 12 (+1) | 12 (+1) | 12 (+1) | 8 (-1) |
+| +0 | +0 | +1 | +1 | +1 | -1 |
 
-- **Saving Throws**: Str +0, Dex +0, Con +1, Int +1, Wis +1, Cha +-1
 - **Senses:** darkvision 120 ft.
 - **Languages:** Sahuagin
 
@@ -32,3 +33,10 @@
 ### Reactions
 
 - **Circling Sharks:** If the sahuagin ends its turn within 10 feet of at least two other friendly sahuagin or sharks, the sahuagin can snap its teeth at one creature within 15 feet of it that it can see and that can see or hear it. The target must succeed on a DC 11 WIS save or be frightened until the end of its next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

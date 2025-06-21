@@ -1,21 +1,22 @@
 # Storm Giant
 
-*huge* *Giant*
+*Huge* *Giant*
 
 - **Armor Class:** 16 (scale mail)
 - **Hit Points:** 243 
 - **Speed:** walk 50 ft. swim 50 ft.
+- **Perception**: 19
+- **Stealth**: 12
 - **Challenge Rating:** 13 (10,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 38 (+14) | 14 (+2) | 30 (+10) | 16 (+3) | 28 (+9) | 28 (+9) |
+| +14 | +2 | +10 | +3 | +9 | +9 |
 
-- **Saving Throws**: Str +14, Dex +2, Con +10, Int +3, Wis +9, Cha +9
 - **Damage Vulnerabilities:** Giant Attributes
-- **Damage Immunities:** lightning,thunder
-- **Damage Resistances:** cold,Giant Attributes
+- **Damage Immunities:** lightning, thunder
+- **Damage Resistances:** cold, Giant Attributes
 - **Senses:** -
 - **Languages:** Common,Giant
 
@@ -37,3 +38,10 @@
 ### Reactions
 
 - **Stormy Rebuke:** When a creature the storm giant can see hits it with a melee attack while within 5 feet of the giant, the giant can send a stormy blast at the creature. The attacker must succeed on a DC 17 STR save or be pushed up to 15 feet away from the giant and knocked prone.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

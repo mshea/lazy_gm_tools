@@ -1,18 +1,19 @@
 # Cloaker
 
-*large* *Aberration*
+*Large* *Aberration*
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 105 
 - **Speed:** walk 10 ft. fly 40 ft.
+- **Perception**: 11
+- **Stealth**: 15
 - **Challenge Rating:** 8 (3,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 20 (+5) | 12 (+1) | 12 (+1) | 12 (+1) | 14 (+2) |
+| +4 | +5 | +1 | +1 | +1 | +2 |
 
-- **Saving Throws**: Str +4, Dex +5, Con +1, Int +1, Wis +1, Cha +2
 - **Damage Resistances:** Aberrant Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Deep Speech,Undercommon
@@ -34,3 +35,10 @@
 ### Bonus Actions
 
 - **Cloak of Shadows (3/Day):** While the cloaker isn't in bright light, it pulls shadows around itself, partially obscuring its form. For 1 minute or until the cloaker is hit with an attack, the cloaker's Stealth is 20, and creatures have disadvantage on attack rolls against the cloaker.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,19 +1,20 @@
 # Androsphinx
 
-*large* *Monstrosity*
+*Large* *Monstrosity*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 284 
 - **Speed:** walk 40 ft. fly 60 ft.
+- **Perception**: 20
+- **Stealth**: 15
 - **Challenge Rating:** 17 (18,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 22 (+6) | 20 (+5) | 32 (+11) | 28 (+9) | 30 (+10) | 22 (+6) |
+| +6 | +5 | +11 | +9 | +10 | +6 |
 
-- **Saving Throws**: Str +6, Dex +5, Con +11, Int +9, Wis +10, Cha +6
-- **Damage Immunities:** psychic; bludgeoning,piercing,and slashing damage from nonmagical attacks,charmed,frightened
+- **Damage Immunities:** psychic; bludgeoning, piercing, and slashing damage from nonmagical attacks, charmed, frightened
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** truesight 120 ft.
 - **Languages:** Common,Sphinx
@@ -42,3 +43,10 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Teleport:** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Cast a Spell (Costs 2 Actions):** The sphinx uses Spellcasting.
 - **Lacerating Swipe (Costs 2 Actions):** The sphinx rears up on its hind legs, wings fluttering, and swipes in a wide arc with both its forepaws. Each creature in a 15-foot cone must succeed on a DC 18 DEX save or take 11 (2d10) slashing damage and suffer a bleeding wound. A creature with a bleeding wound loses 5 (1d10) HP at the start of each of its turns. Any creature can take an action to stanch the wound with a successful DC 18 WIS (Medicine) check. The wound also closes if the bleeding creature receives magical healing.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

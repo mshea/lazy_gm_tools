@@ -1,18 +1,19 @@
 # Master Alchemist
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 16 (studded leather)
 - **Hit Points:** 152 
 - **Speed:** walk 30 ft.
+- **Perception**: 11
+- **Stealth**: 14
 - **Challenge Rating:** 7 (2,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 18 (+4) | 22 (+6) | 24 (+7) | 12 (+1) | 14 (+2) |
+| +0 | +4 | +6 | +7 | +1 | +2 |
 
-- **Saving Throws**: Str +0, Dex +4, Con +6, Int +7, Wis +1, Cha +2
 - **Senses:** -
 - **Languages:** any two languages
 
@@ -30,3 +31,10 @@
 ### Bonus Actions
 
 - **Protective Draught (Recharge 4-6):** The master alchemist drinks one of its brews and gains resistance to acid, cold, fire, or poison damage (the master alchemist's choice) until the end of its next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

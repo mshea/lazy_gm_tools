@@ -1,19 +1,20 @@
 # Ankheg
 
-*large* *Monstrosity*
+*Large* *Monstrosity*
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 57 
 - **Speed:** walk 30 ft. burrow 10 ft.
+- **Perception**: 11
+- **Stealth**: 10
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 20 (+5) | 10 (+0) | 12 (+1) | 1 (-5) | 12 (+1) | 6 (-2) |
+| +5 | +0 | +1 | -5 | +1 | -2 |
 
-- **Saving Throws**: Str +5, Dex +0, Con +1, Int +-5, Wis +1, Cha +-2
-- **Damage Resistances:** acid,Monstrosity Resilience
+- **Damage Resistances:** acid, Monstrosity Resilience
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.
 - **Languages:** -
 
@@ -29,3 +30,10 @@
 ### Bonus Actions
 
 - **Save for Later:** The ankheg quickly digs a small hole and stuffs one creature grappled by it into the hole, burying the creature and ending the grapple. A buried creature is restrained and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a DC 13 STR check.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

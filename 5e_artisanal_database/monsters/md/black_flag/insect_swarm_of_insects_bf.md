@@ -1,18 +1,19 @@
 # Insect, Swarm of Insects
 
-*medium* *Swarm*
+*Medium* *Swarm*
 
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 24 
 - **Speed:** walk 20 ft. climb 20 ft.
+- **Perception**: 8
+- **Stealth**: 11
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 2 (-4) | 12 (+1) | 10 (+0) | 1 (-5) | 6 (-2) | 1 (-5) |
+| -4 | +1 | +0 | -5 | -2 | -5 |
 
-- **Saving Throws**: Str +-4, Dex +1, Con +0, Int +-5, Wis +-2, Cha +-5
 - **Damage Immunities:** Swarm Resilience
 - **Damage Resistances:** Swarm Resilience
 - **Senses:** keensense 10 ft.
@@ -27,3 +28,10 @@
 ### Actions
 
 - **Bites:** _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its HP or fewer.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

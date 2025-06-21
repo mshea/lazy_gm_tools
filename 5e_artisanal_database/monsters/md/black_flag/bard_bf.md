@@ -1,18 +1,19 @@
 # Bard
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 15 (studded leather)
 - **Hit Points:** 114 
 - **Speed:** walk 30 ft.
+- **Perception**: 14
+- **Stealth**: 16
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 22 (+6) | 12 (+1) | 14 (+2) | 12 (+1) | 24 (+7) |
+| +0 | +6 | +1 | +2 | +1 | +7 |
 
-- **Saving Throws**: Str +0, Dex +6, Con +1, Int +2, Wis +1, Cha +7
 - **Damage Resistances:** Artistic Expression
 - **Senses:** -
 - **Languages:** Common plus any two languages
@@ -29,3 +30,10 @@
 - **Hand Crossbow:** _Ranged Weapon Attack:_+6 to hit, range 30/120 ft., one target. _Hit:_ 6 (1d6+3) piercing damage plus 13 (3d8) damage of the type determined by Artistic Expression.
 - **Dissonant Outburst (Recharge 4-6):** Each creature within 30 feet of the bard and that can see or hear it must make a DC 15 WIS save. On a failure, a creature takes 14 (4d6) thunder damage and 7 (2d6) psychic damage and has disadvantage on attack rolls and ability checks until the end of its next turn. On a success, a creature takes half the damage and doesn't have disadvantage on attack rolls and ability checks.
 - **Spellcasting:** The bard casts one of the following spells, using CHA as the spellcasting ability (spell save DC 15).<br>At will: dancing lights, mage hand, message<br>3/day each: _faerie fire_, _hold_, _suggestion_<br>1/day each: _confusion_, _greater invisibility_
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

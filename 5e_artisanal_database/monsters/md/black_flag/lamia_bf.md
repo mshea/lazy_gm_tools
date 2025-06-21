@@ -1,19 +1,20 @@
 # Lamia
 
-*large* *Monstrosity*
+*Large* *Monstrosity*
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 95 
 - **Speed:** walk 30 ft.
+- **Perception**: 12
+- **Stealth**: 11
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 12 (+1) | 14 (+2) | 14 (+2) | 14 (+2) | 20 (+5) |
+| +3 | +1 | +2 | +2 | +2 | +5 |
 
-- **Saving Throws**: Str +3, Dex +1, Con +2, Int +2, Wis +2, Cha +5
-- **Damage Resistances:** charmed,Monstrosity Resilience
+- **Damage Resistances:** charmed, Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Abyssal,Common
 
@@ -33,3 +34,10 @@
 ### Bonus Actions
 
 - **Intoxicating Gaze:** The lamia gazes at one creature it can see within 30 feet of it. The target must succeed on a DC 13 CHA save or be charmed until the end of its next turn and cursed for 1 hour. While cursed, the target has disadvantage on WIS saves and on all ability checks.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

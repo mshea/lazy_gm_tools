@@ -1,18 +1,19 @@
 # Winter Wolf
 
-*large* *Monstrosity*
+*Large* *Monstrosity*
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 76 
 - **Speed:** walk 50 ft.
+- **Perception**: 15
+- **Stealth**: 11
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 12 (+1) | 14 (+2) | 6 (-2) | 12 (+1) | 8 (-1) |
+| +3 | +1 | +2 | -2 | +1 | -1 |
 
-- **Saving Throws**: Str +3, Dex +1, Con +2, Int +-2, Wis +1, Cha +-1
 - **Damage Immunities:** cold
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** -
@@ -34,3 +35,10 @@
 ### Bonus Actions
 
 - **Freezing Nose:** The winter wolf touches its nose to a creature it can see within 5 feet of it. The target must succeed on a DC 13 CON save or one of the following parts of its body (the winter wolf's choice) is encased in ice for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success. If the target takes fire damage, it has advantage on the next save it makes to end the effect.<br>- **Body.** The target has disadvantage on CON saves and is vulnerable to the first instance of cold damage it takes each turn.<br>- **Head.** The target can't breathe or speak.<br>- **Lower Limb.** The target's speed is reduced to 0, and it has disadvantage on DEX checks and DEX saves.<br>- **Upper Limb.** The target has disadvantage on weapon attack rolls made with that limb.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

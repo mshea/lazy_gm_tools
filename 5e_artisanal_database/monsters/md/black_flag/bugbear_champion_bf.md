@@ -1,19 +1,20 @@
 # Bugbear Champion
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 17 (chain shirt, shield)
 - **Hit Points:** 85 
 - **Speed:** walk 30 ft.
+- **Perception**: 11
+- **Stealth**: 12
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 22 (+6) | 14 (+2) | 14 (+2) | 12 (+1) | 12 (+1) | 10 (+0) |
+| +6 | +2 | +2 | +1 | +1 | +0 |
 
-- **Saving Throws**: Str +6, Dex +2, Con +2, Int +1, Wis +1, Cha +0
-- **Damage Resistances:** charmed,frightened
+- **Damage Resistances:** charmed, frightened
 - **Senses:** darkvision 60 ft.
 - **Languages:** Common,Goblin
 
@@ -31,3 +32,10 @@
 ### Reactions
 
 - **Stubborn Attacker (Recharge 5-6):** When the champion misses with an attack, it can change that miss to a hit.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

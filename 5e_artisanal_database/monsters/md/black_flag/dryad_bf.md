@@ -1,18 +1,19 @@
 # Dryad
 
-*medium* *Fey*
+*Medium* *Fey*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 38 
 - **Speed:** walk 30 ft.
+- **Perception**: 14
+- **Stealth**: 12
 - **Challenge Rating:** 1 (200 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 14 (+2) | 10 (+0) | 14 (+2) | 18 (+4) | 18 (+4) |
+| +0 | +2 | +0 | +2 | +4 | +4 |
 
-- **Saving Throws**: Str +0, Dex +2, Con +0, Int +2, Wis +4, Cha +4
 - **Damage Resistances:** Fey Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Elvish,Sylvan
@@ -35,3 +36,10 @@
 
 - **Charming Scent:** The dryad emits an alluring, floral scent toward one Beast or Humanoid it can see within 30 feet of it. The target must succeed on a DC 14 WIS save or be charmed for 1 minute. While charmed, the target views the dryad as an ally and views the dryad's requests favorably, though it isn't under the dryad's control. The charmed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The dryad can have up to two creatures charmed in this way at a time.
 - **Forest's Aid (21 HP or Fewer, 1/Day):** The dryad magically calls a horde of squirrels, rabbits, mice, and other small animals native to the forest. The horde uses the statistics of 1 swarm of rats. The called creatures arrive on initiative count 20 of the next round, acting as allies of the dryad and obeying its spoken commands. They remain for 1 hour, until the dryad dies, or until the dryad dismisses them as a bonus action.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

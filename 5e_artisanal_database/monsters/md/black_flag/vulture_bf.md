@@ -1,18 +1,19 @@
 # Vulture
 
-*medium* *Beast*
+*Medium* *Beast*
 
 - **Armor Class:** 10
 - **Hit Points:** 8 
 - **Speed:** walk 10 ft. fly 50 ft.
+- **Perception**: 13
+- **Stealth**: 10
 - **Challenge Rating:** 0 (25 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 6 (-2) | 10 (+0) | 12 (+1) | 2 (-4) | 12 (+1) | 4 (-3) |
+| -2 | +0 | +1 | -4 | +1 | -3 |
 
-- **Saving Throws**: Str +-2, Dex +0, Con +1, Int +-4, Wis +1, Cha +-3
 - **Senses:** -
 - **Languages:** -
 
@@ -29,3 +30,10 @@
 ### Reactions
 
 - **Defensive Bile:** When a creature the vulture can see hits it with a melee attack while within 5 feet of it, the vulture can spit partially digested carrion at the creature. The attacker must succeed on a DC 11 CON save or be incapacitated until the end of its next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

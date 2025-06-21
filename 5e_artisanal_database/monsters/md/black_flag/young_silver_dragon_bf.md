@@ -1,18 +1,19 @@
 # Young Silver Dragon
 
-*large* *Dragon*
+*Large* *Dragon*
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 175 
 - **Speed:** walk 40 ft. fly 80 ft.
+- **Perception**: 19
+- **Stealth**: 14
 - **Challenge Rating:** 9 (5,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 22 (+6) | 18 (+4) | 28 (+9) | 14 (+2) | 20 (+5) | 24 (+7) |
+| +6 | +4 | +9 | +2 | +5 | +7 |
 
-- **Saving Throws**: Str +6, Dex +4, Con +9, Int +2, Wis +5, Cha +7
 - **Damage Immunities:** cold
 - **Senses:** darkvision 120 ft., keensense 30 ft.
 - **Languages:** Common,Draconic
@@ -32,3 +33,10 @@
 ### Bonus Actions
 
 - **Change Shape:** The dragon magically transforms into a Beast or Humanoid that has a challenge rating no higher than its own, or back into its true form, which is Dragon. Any equipment it is wearing or carrying transforms with it or is borne by the new form (the dragon's choice). It reverts to its true form if it dies. In a new form, the dragon retains its HP, ability to speak, proficiencies, and INT, WIS, and CHA scores, as well as this bonus action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

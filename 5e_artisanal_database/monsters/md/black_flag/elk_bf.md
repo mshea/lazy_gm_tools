@@ -1,18 +1,19 @@
 # Elk
 
-*large* *Beast*
+*Large* *Beast*
 
 - **Armor Class:** 10
 - **Hit Points:** 15 
 - **Speed:** walk 50 ft.
+- **Perception**: 10
+- **Stealth**: 10
 - **Challenge Rating:** 1/4 (50 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 14 (+2) | 10 (+0) | 12 (+1) | 2 (-4) | 10 (+0) | 6 (-2) |
+| +2 | +0 | +1 | -4 | +0 | -2 |
 
-- **Saving Throws**: Str +2, Dex +0, Con +1, Int +-4, Wis +0, Cha +-2
 - **Senses:** -
 - **Languages:** -
 
@@ -24,3 +25,10 @@
 
 - **Ram:** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6+2) bludgeoning damage.
 - **Kick:** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4+2) bludgeoning damage, and the target must succeed on a DC 12 STR save or be pushed up to 10 feet away from the elk.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,20 +1,21 @@
 # Flying Sword
 
-*small* *Construct*
+*Small* *Construct*
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 11 
 - **Speed:** walk 0 ft. fly 50 ft.
+- **Perception**: 7
+- **Stealth**: 13
 - **Challenge Rating:** 1/4 (50 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 12 (+1) | 16 (+3) | 10 (+0) | 1 (-5) | 4 (-3) | 1 (-5) |
+| +1 | +3 | +0 | -5 | -3 | -5 |
 
-- **Saving Throws**: Str +1, Dex +3, Con +0, Int +-5, Wis +-3, Cha +-5
 - **Damage Vulnerabilities:** acid
-- **Damage Immunities:** blinded,deafened,prone,Construct Resilience
+- **Damage Immunities:** blinded, deafened, prone, Construct Resilience
 - **Damage Resistances:** piercing
 - **Senses:** keensense 60 ft. (can't sense beyond this radius)
 - **Languages:** -
@@ -33,3 +34,10 @@
 ### Bonus Actions
 
 - **Whirling Blade (6 HP or Fewer):** The flying sword makes a Slash attack against a target it can sense within 5 feet of it.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

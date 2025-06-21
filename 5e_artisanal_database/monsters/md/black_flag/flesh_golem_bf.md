@@ -1,19 +1,20 @@
 # Flesh Golem
 
-*medium* *Construct*
+*Medium* *Construct*
 
 - **Armor Class:** 9
 - **Hit Points:** 129 
 - **Speed:** walk 30 ft.
+- **Perception**: 13
+- **Stealth**: 9
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 8 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 4 (-3) |
+| +4 | -1 | +4 | -2 | +0 | -3 |
 
-- **Saving Throws**: Str +4, Dex +-1, Con +4, Int +-2, Wis +0, Cha +-3
-- **Damage Immunities:** lightning,Flesh Golem Resilience
+- **Damage Immunities:** lightning, Flesh Golem Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** understands the languages of its creator but can't speak
 
@@ -33,3 +34,10 @@
 - **Multiattack:** The golem makes two Slam attacks.
 - **Slam:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 17 (3d8+4) bludgeoning damage.
 - **Creator's Anguish (Recharge 5-6):** The golem releases a wave of emotional anguish from its core. Each creature within 15 feet of the golem must make a DC 15 WIS save. On a failure, a creature takes 31 (9d6) psychic damage and is incapacitated until the end of its next turn, as its mind fills with memories of its greatest failures. On a success, a creature takes half the damage and isn't incapacitated.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

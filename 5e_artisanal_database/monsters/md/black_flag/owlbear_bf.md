@@ -1,18 +1,19 @@
 # Owlbear
 
-*large* *Monstrosity*
+*Large* *Monstrosity*
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 80 
 - **Speed:** walk 40 ft.
+- **Perception**: 13
+- **Stealth**: 11
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 20 (+5) | 12 (+1) | 16 (+3) | 2 (-4) | 12 (+1) | 6 (-2) |
+| +5 | +1 | +3 | -4 | +1 | -2 |
 
-- **Saving Throws**: Str +5, Dex +1, Con +3, Int +-4, Wis +1, Cha +-2
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** -
@@ -33,3 +34,10 @@
 ### Bonus Actions
 
 - **Rend:** The owlbear violently wrenches a Medium or smaller creature it is currently grappling. The target must make a DC 15 STR save, taking 9 (2d8) slashing damage on a failed save, or half as much damage on a successful one.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

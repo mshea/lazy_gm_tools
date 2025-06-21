@@ -1,18 +1,19 @@
 # Blue Dragon Wyrmling
 
-*medium* *Dragon*
+*Medium* *Dragon*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 68 
 - **Speed:** walk 30 ft. burrow 15 ft. fly 60 ft.
+- **Perception**: 14
+- **Stealth**: 12
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 14 (+2) | 18 (+4) | 12 (+1) | 14 (+2) | 18 (+4) |
+| +3 | +2 | +4 | +1 | +2 | +4 |
 
-- **Saving Throws**: Str +3, Dex +2, Con +4, Int +1, Wis +2, Cha +4
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 60 ft., keensense 10 ft.
 - **Languages:** Draconic
@@ -27,3 +28,10 @@
 - **Bite:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
 - **Claw:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6+3) slashing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 DEX save, taking 27 (5d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

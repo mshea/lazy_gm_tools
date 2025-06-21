@@ -1,18 +1,19 @@
 # Orc Warlord
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 17 (half plate)
 - **Hit Points:** 90 
 - **Speed:** walk 30 ft.
+- **Perception**: 13
+- **Stealth**: 12
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 14 (+2) | 18 (+4) | 8 (-1) | 12 (+1) | 12 (+1) |
+| +4 | +2 | +4 | -1 | +1 | +1 |
 
-- **Saving Throws**: Str +4, Dex +2, Con +4, Int +-1, Wis +1, Cha +1
 - **Damage Immunities:** frightened
 - **Damage Resistances:** exhaustion
 - **Senses:** darkvision 60 ft.
@@ -34,3 +35,10 @@
 
 - **Warrior's Advance:** As the **orc**.
 - **Warlord's Rally (Recharge 4-6):** The warlord yells a rallying cry to its allies. Each friendly creature within 30 feet of the warlord that can hear the warlord has advantage on the next attack roll it makes before the start of the warlord's next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

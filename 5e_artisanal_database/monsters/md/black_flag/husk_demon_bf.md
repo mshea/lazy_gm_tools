@@ -1,19 +1,20 @@
 # Husk Demon
 
-*medium* *Fiend*
+*Medium* *Fiend*
 
 - **Armor Class:** 15
 - **Hit Points:** 82 
 - **Speed:** walk 40 ft. fly 25 ft.
+- **Perception**: 13
+- **Stealth**: 15
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 12 (+1) | 20 (+5) | 16 (+3) | 6 (-2) | 8 (-1) | 4 (-3) |
+| +1 | +5 | +3 | -2 | -1 | -3 |
 
-- **Saving Throws**: Str +1, Dex +5, Con +3, Int +-2, Wis +-1, Cha +-3
-- **Damage Immunities:** necrotic,exhaustion,prone,Demonic Resilience
+- **Damage Immunities:** necrotic, exhaustion, prone, Demonic Resilience
 - **Damage Resistances:** Demonic Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Abyssal,Void Speech,telepathy 60 ft.
@@ -32,3 +33,10 @@
 ### Bonus Actions
 
 - **Soul Feed:** The husk demon feasts on the light in the soul of up to two creatures it can see within 20 feet of it, causing one of the following effects. Each target must succeed on a DC 15 CHA save or suffer the chosen effect. A creature that fails the save against Soul Feed two rounds in a row suffers one level of exhaustion.<br>- **Happiness Feast.** The husk demon feasts on the target's happiness, causing the target to become crestfallen. The target has disadvantage on attack rolls until the end of its next turn.<br>- **Hope Feast.** The husk demon feasts on the target's hope, causing the target to become despondent. The target has disadvantage on saves until the end of its next turn.<br>- **Motivation Feast.** The husk demon feasts on the target's motivation, causing the target to lose its ambitions and become apathetic. The target's speed is halved until the end of its next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

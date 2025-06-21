@@ -1,18 +1,19 @@
 # Hinn
 
-*large* *Elemental*
+*Large* *Elemental*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 199 
 - **Speed:** walk 30 ft. burrow 30 ft. fly 60 ft.
+- **Perception**: 17
+- **Stealth**: 11
 - **Challenge Rating:** 11 (7,200 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 22 (+6) | 12 (+1) | 32 (+11) | 14 (+2) | 24 (+7) | 26 (+8) |
+| +6 | +1 | +11 | +2 | +7 | +8 |
 
-- **Saving Throws**: Str +6, Dex +1, Con +11, Int +2, Wis +7, Cha +8
 - **Damage Immunities:** petrified
 - **Damage Resistances:** prone
 - **Senses:** darkvision 120 ft.
@@ -35,3 +36,10 @@
 
 - **Churned Earth:** The hinn causes the ground on a point it can see within 60 feet of it to erupt. Each creature within 15 feet of that point must succeed on a DC 16 DEX save or take 10 (3d6) bludgeoning damage and be knocked prone.
 - **Genie Shape:** The hinn magically transforms into a Medium cloud of dust filled with miniscule clashing, bursting, and reforming rocks or back into its bipedal form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its bipedal form if it dies. The hinn can't use this bonus action to transform into its bipedal form while inside a Medium or smaller container.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

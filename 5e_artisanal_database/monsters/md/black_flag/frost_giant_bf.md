@@ -1,21 +1,22 @@
 # Frost Giant
 
-*huge* *Giant*
+*Huge* *Giant*
 
 - **Armor Class:** 14 (hide armor)
 - **Hit Points:** 166 
 - **Speed:** walk 40 ft.
+- **Perception**: 13
+- **Stealth**: 12
 - **Challenge Rating:** 8 (3,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 22 (+6) | 14 (+2) | 26 (+8) | 8 (-1) | 16 (+3) | 18 (+4) |
+| +6 | +2 | +8 | -1 | +3 | +4 |
 
-- **Saving Throws**: Str +6, Dex +2, Con +8, Int +-1, Wis +3, Cha +4
 - **Damage Vulnerabilities:** Giant Attributes
 - **Damage Immunities:** cold
-- **Damage Resistances:** blinded,Giant Attributes
+- **Damage Resistances:** blinded, Giant Attributes
 - **Senses:** -
 - **Languages:** Common,Giant
 
@@ -35,3 +36,10 @@
 ### Bonus Actions
 
 - **Wintry Blast:** A blast of wintry air extends in a 30-foot line that is 5 feet wide from the frost giant's outstretched hand. Each creature in the line must succeed on a DC 16 CON save or its speed is halved until the end of its next turn. A creature that fails the save by 5 or more is petrified in ice for 1 hour or until a creature spends 1 minute warming the petrified creature.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

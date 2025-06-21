@@ -1,18 +1,19 @@
 # Oni
 
-*large* *Giant*
+*Large* *Giant*
 
 - **Armor Class:** 16 (chain mail)
 - **Hit Points:** 134 
 - **Speed:** walk 30 ft. fly 30 ft. hover True ft.
+- **Perception**: 14
+- **Stealth**: 13
 - **Challenge Rating:** 7 (2,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 16 (+3) | 22 (+6) | 14 (+2) | 18 (+4) | 22 (+6) |
+| +4 | +3 | +6 | +2 | +4 | +6 |
 
-- **Saving Throws**: Str +4, Dex +3, Con +6, Int +2, Wis +4, Cha +6
 - **Damage Immunities:** prone
 - **Damage Resistances:** Giant Attributes
 - **Senses:** darkvision 60 ft.
@@ -36,3 +37,10 @@
 ### Bonus Actions
 
 - **Change Shape:** The oni magically transforms into a Small or Medium Humanoid, a Large ogre, or back into its true form, which is Giant. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying transforms with it, except for its glaive, which adjusts to fit its new form. If the oni dies, it reverts to its true form, and the glaive reverts to its normal size.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

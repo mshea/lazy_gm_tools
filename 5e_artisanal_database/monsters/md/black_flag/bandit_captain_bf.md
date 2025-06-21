@@ -1,18 +1,19 @@
 # Bandit Captain
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 16 (studded leather)
 - **Hit Points:** 51 
 - **Speed:** walk 30 ft.
+- **Perception**: 10
+- **Stealth**: 14
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 14 (+2) | 18 (+4) | 14 (+2) | 14 (+2) | 10 (+0) | 14 (+2) |
+| +2 | +4 | +2 | +2 | +0 | +2 |
 
-- **Saving Throws**: Str +2, Dex +4, Con +2, Int +2, Wis +0, Cha +2
 - **Senses:** -
 - **Languages:** any two languages
 
@@ -34,3 +35,10 @@
 ### Reactions
 
 - **Parry:** The bandit captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

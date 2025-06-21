@@ -1,18 +1,19 @@
 # Shield Guardian
 
-*large* *Construct*
+*Large* *Construct*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 139 
 - **Speed:** walk 30 ft.
+- **Perception**: 12
+- **Stealth**: 9
 - **Challenge Rating:** 7 (2,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 8 (-1) | 18 (+4) | 6 (-2) | 14 (+2) | 2 (-4) |
+| +4 | -1 | +4 | -2 | +2 | -4 |
 
-- **Saving Throws**: Str +4, Dex +-1, Con +4, Int +-2, Wis +2, Cha +-4
 - **Damage Immunities:** Construct Resilience
 - **Senses:** keensense 10 ft., darkvision 60 ft.
 - **Languages:** understands the languages of its creator and the languages of the wearer of its amulet but can't speak
@@ -38,3 +39,10 @@
 ### Reactions
 
 - **Shield:** When a creature the guardian can see makes an attack against the amulet's wearer, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

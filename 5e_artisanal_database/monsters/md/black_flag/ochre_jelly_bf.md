@@ -1,20 +1,21 @@
 # Ochre Jelly
 
-*large* *Ooze*
+*Large* *Ooze*
 
 - **Armor Class:** 8
 - **Hit Points:** 71 
 - **Speed:** walk 15 ft. climb 15 ft.
+- **Perception**: 8
+- **Stealth**: 8
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 6 (-2) | 14 (+2) | 2 (-4) | 6 (-2) | 1 (-5) |
+| +3 | -2 | +2 | -4 | -2 | -5 |
 
-- **Saving Throws**: Str +3, Dex +-2, Con +2, Int +-4, Wis +-2, Cha +-5
-- **Damage Immunities:** lightning,slashing,grappled,poisoned,Ooze Resilience
-- **Damage Resistances:** acid,Ooze Resilience
+- **Damage Immunities:** lightning, slashing, grappled, poisoned, Ooze Resilience
+- **Damage Resistances:** acid, Ooze Resilience
 - **Senses:** keensense 60 ft. (can't sense beyond this radius)
 - **Languages:** -
 
@@ -33,3 +34,10 @@
 ### Reactions
 
 - **Split:** When an ochre jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new ochre jellies if it has at least 10 HP. Each new jelly has HP equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

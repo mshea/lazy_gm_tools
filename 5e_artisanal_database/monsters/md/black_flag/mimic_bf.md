@@ -1,21 +1,22 @@
 # Mimic
 
-*medium* *Monstrosity*
+*Medium* *Monstrosity*
 
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 58 
 - **Speed:** walk 20 ft.
+- **Perception**: 11
+- **Stealth**: 11
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 12 (+1) | 14 (+2) | 4 (-3) | 12 (+1) | 8 (-1) |
+| +3 | +1 | +2 | -3 | +1 | -1 |
 
-- **Saving Throws**: Str +3, Dex +1, Con +2, Int +-3, Wis +1, Cha +-1
 - **Damage Vulnerabilities:** cold
-- **Damage Immunities:** acid,prone
-- **Damage Resistances:** grappled,Monstrosity Resilience
+- **Damage Immunities:** acid, prone
+- **Damage Resistances:** grappled, Monstrosity Resilience
 - **Senses:** keensense 60 ft.
 - **Languages:** -
 
@@ -39,3 +40,10 @@
 ### Reactions
 
 - **Prey Shield:** When a creature the mimic can see hits it with an attack while it is grappling a creature, the mimic can roll the grappled creature in front of the blow, forcing the grappled creature to take the damage instead.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

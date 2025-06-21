@@ -1,20 +1,21 @@
 # Lich
 
-*medium* *Undead*
+*Medium* *Undead*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 314 
 - **Speed:** walk 30 ft.
+- **Perception**: 19
+- **Stealth**: 13
 - **Challenge Rating:** 21 (33,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 16 (+3) | 30 (+10) | 34 (+12) | 28 (+9) | 16 (+3) |
+| +0 | +3 | +10 | +12 | +9 | +3 |
 
-- **Saving Throws**: Str +0, Dex +3, Con +10, Int +12, Wis +9, Cha +3
-- **Damage Immunities:** bludgeoning,piercing,and slashing damage from nonmagical attacks,charmed,frightened,paralyzed,Undead Resilience
-- **Damage Resistances:** cold,lightning,necrotic
+- **Damage Immunities:** bludgeoning, piercing, and slashing damage from nonmagical attacks, charmed, frightened, paralyzed, Undead Resilience
+- **Damage Resistances:** cold, lightning, necrotic
 - **Senses:** truesight 120 ft.
 - **Languages:** Common plus up to five other languages
 
@@ -50,3 +51,10 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Move:** The lich moves up to its speed without provoking opportunity attacks. If the lich is levitating, it can use this legendary action to move horizontally, propelling itself with a blast of arcane power.
 - **Cast a Spell (Costs 2 Actions):** The lich uses Spellcasting.
 - **Disrupt Life (Costs 3 Actions):** Each creature within 20 feet of the lich that isn't Undead must make a DC 20 CON save, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. The lich regains HP equal to the single highest amount of necrotic damage dealt.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

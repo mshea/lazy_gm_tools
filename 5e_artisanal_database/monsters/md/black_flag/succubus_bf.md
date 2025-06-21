@@ -1,20 +1,21 @@
 # Succubus
 
-*medium* *Fiend*
+*Medium* *Fiend*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 79 
 - **Speed:** walk 30 ft. fly 60 ft.
+- **Perception**: 15
+- **Stealth**: 13
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 8 (-1) | 16 (+3) | 12 (+1) | 14 (+2) | 12 (+1) | 24 (+7) |
+| -1 | +3 | +1 | +2 | +1 | +7 |
 
-- **Saving Throws**: Str +-1, Dex +3, Con +1, Int +2, Wis +1, Cha +7
 - **Damage Immunities:** charmed
-- **Damage Resistances:** cold,fire,lightning,poison; bludgeoning,piercing,and slashing damage from nonmagical attacks,frightened,poisoned
+- **Damage Resistances:** cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical attacks, frightened, poisoned
 - **Senses:** darkvision 60 ft.
 - **Languages:** Abyssal,Common,Infernal,telepathy 60 ft.
 
@@ -37,3 +38,10 @@
 ### Reactions
 
 - **Defend Me, Love!:** When a creature the succubus can see within 5 feet of a creature charmed by the succubus attacks the succubus, the succubus can command the charmed creature to use its reaction to make one melee weapon attack against the attacker.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,18 +1,19 @@
 # Blink Dog
 
-*medium* *Fey*
+*Medium* *Fey*
 
 - **Armor Class:** 13
 - **Hit Points:** 14 
 - **Speed:** walk 40 ft.
+- **Perception**: 13
+- **Stealth**: 13
 - **Challenge Rating:** 1/4 (50 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 12 (+1) | 16 (+3) | 12 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
+| +1 | +3 | +1 | +0 | +1 | +0 |
 
-- **Saving Throws**: Str +1, Dex +3, Con +1, Int +0, Wis +1, Cha +0
 - **Damage Resistances:** Fey Resilience
 - **Senses:** -
 - **Languages:** Blink Dog,understands Sylvan but can't speak it
@@ -27,3 +28,10 @@
 
 - **Bite:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6+3) piercing damage.
 - **Teleport (Recharge 4-6):** The blink dog teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one Bite attack.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

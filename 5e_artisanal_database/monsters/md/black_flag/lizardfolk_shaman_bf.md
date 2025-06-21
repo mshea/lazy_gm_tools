@@ -1,19 +1,20 @@
 # Lizardfolk Shaman
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 57 
 - **Speed:** walk 30 ft. climb 15 ft. swim 30 ft.
+- **Perception**: 15
+- **Stealth**: 10
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) | 20 (+5) | 10 (+0) |
+| +2 | +0 | +1 | +0 | +5 | +0 |
 
-- **Saving Throws**: Str +2, Dex +0, Con +1, Int +0, Wis +5, Cha +0
-- **Damage Resistances:** poison,poisoned
+- **Damage Resistances:** poison, poisoned
 - **Senses:** -
 - **Languages:** Common,Draconic
 
@@ -33,3 +34,10 @@
 ### Bonus Actions
 
 - **Poisoned Body (32 HP or Fewer):** The shaman coats itself in poison until the start of its next turn. It takes 3 (1d6) poison damage. In addition, the next time a creature hits the shaman with a melee attack while within 5 feet of the shaman before the start of the shaman's next turn, the attacker takes 7 (2d6) poison damage.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

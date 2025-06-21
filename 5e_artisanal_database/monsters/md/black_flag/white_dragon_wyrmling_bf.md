@@ -1,18 +1,19 @@
 # White Dragon Wyrmling
 
-*medium* *Dragon*
+*Medium* *Dragon*
 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 54 
 - **Speed:** walk 30 ft. burrow 15 ft. fly 60 ft. swim 30 ft.
+- **Perception**: 14
+- **Stealth**: 12
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 14 (+2) | 14 (+2) | 18 (+4) | 4 (-3) | 14 (+2) | 14 (+2) |
+| +2 | +2 | +4 | -3 | +2 | +2 |
 
-- **Saving Throws**: Str +2, Dex +2, Con +4, Int +-3, Wis +2, Cha +2
 - **Damage Immunities:** cold
 - **Senses:** darkvision 60 ft., keensense 10 ft.
 - **Languages:** Draconic
@@ -28,3 +29,10 @@
 - **Bite:** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
 - **Claw:** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6+2) slashing damage.
 - **Cold Breath (Recharge 5-6):** The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 CON save, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

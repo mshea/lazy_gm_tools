@@ -1,18 +1,19 @@
 # Baboon
 
-*small* *Beast*
+*Small* *Beast*
 
 - **Armor Class:** 11
 - **Hit Points:** 10 
 - **Speed:** walk 30 ft. climb 30 ft.
+- **Perception**: 11
+- **Stealth**: 11
 - **Challenge Rating:** 1/8 (25 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 8 (-1) | 12 (+1) | 10 (+0) | 4 (-3) | 12 (+1) | 6 (-2) |
+| -1 | +1 | +0 | -3 | +1 | -2 |
 
-- **Saving Throws**: Str +-1, Dex +1, Con +0, Int +-3, Wis +1, Cha +-2
 - **Senses:** darkvision 30 ft.
 - **Languages:** -
 
@@ -27,3 +28,10 @@
 ### Reactions
 
 - **Startling Display:** When a creature the baboon can see attacks it while within 5 feet of it, the baboon can bare its teeth, puff its chest, or emit a quick series of barks. The attacker must succeed on a DC 11 WIS save or have disadvantage on the attack roll.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

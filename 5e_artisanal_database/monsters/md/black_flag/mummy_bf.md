@@ -1,21 +1,22 @@
 # Mummy
 
-*medium* *Undead*
+*Medium* *Undead*
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 80 
 - **Speed:** walk 20 ft.
+- **Perception**: 12
+- **Stealth**: 9
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 8 (-1) | 16 (+3) | 6 (-2) | 14 (+2) | 12 (+1) |
+| +3 | -1 | +3 | -2 | +2 | +1 |
 
-- **Saving Throws**: Str +3, Dex +-1, Con +3, Int +-2, Wis +2, Cha +1
 - **Damage Vulnerabilities:** fire
-- **Damage Immunities:** necrotic,charmed,frightened,paralyzed,Undead Resilience
-- **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks
+- **Damage Immunities:** necrotic, charmed, frightened, paralyzed, Undead Resilience
+- **Damage Resistances:** bludgeoning, piercing, and slashing damage from nonmagical attacks
 - **Senses:** darkvision 60 ft.
 - **Languages:** the languages it knew in life
 
@@ -32,3 +33,10 @@
 ### Bonus Actions
 
 - **Dreadful Glare:** The mummy glares at one creature it can see within 60 feet of it. The target must succeed on a DC 13 WIS save or be frightened until the end of its next turn. If the target fails the save by 5 or more, it is also paralyzed for the same duration.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,18 +1,19 @@
 # Hydra
 
-*huge* *Dragon*
+*Huge* *Dragon*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 166 
 - **Speed:** walk 30 ft. swim 30 ft.
+- **Perception**: 16
+- **Stealth**: 11
 - **Challenge Rating:** 8 (3,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 20 (+5) | 12 (+1) | 20 (+5) | 2 (-4) | 10 (+0) | 6 (-2) |
+| +5 | +1 | +5 | -4 | +0 | -2 |
 
-- **Saving Throws**: Str +5, Dex +1, Con +5, Int +-4, Wis +0, Cha +-2
 - **Damage Resistances:** Multiple Heads
 - **Senses:** darkvision 60 ft.
 - **Languages:** -
@@ -33,3 +34,10 @@
 ### Bonus Actions
 
 - **Bloody Burst (Has Fewer Than Five Heads):** The hydra squeezes the stumps of its severed heads, spraying blood and gore. Each creature within 5 feet of the hydra must succeed on a DC 16 CON save or be incapacitated until the end of its next turn and poisoned for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

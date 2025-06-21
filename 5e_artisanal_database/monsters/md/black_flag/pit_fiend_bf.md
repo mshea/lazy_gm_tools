@@ -1,19 +1,20 @@
 # Pit Fiend
 
-*large* *Fiend*
+*Large* *Fiend*
 
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 323 
 - **Speed:** walk 30 ft. fly 60 ft.
+- **Perception**: 20
+- **Stealth**: 18
 - **Challenge Rating:** 20 (25,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 26 (+8) | 26 (+8) | 36 (+13) | 22 (+6) | 30 (+10) | 24 (+7) |
+| +8 | +8 | +13 | +6 | +10 | +7 |
 
-- **Saving Throws**: Str +8, Dex +8, Con +13, Int +6, Wis +10, Cha +7
-- **Damage Immunities:** charmed,frightened,Devilish Resilience
+- **Damage Immunities:** charmed, frightened, Devilish Resilience
 - **Damage Resistances:** Devilish Resilience
 - **Senses:** truesight 120 ft.
 - **Languages:** Infernal,telepathy 120 ft.
@@ -33,3 +34,10 @@
 - **Mace:** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6+8) bludgeoning damage plus 14 (4d6) fire damage.
 - **Tail:** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 24 (3d10+8) bludgeoning damage plus 14 (4d6) fire damage, and the target must succeed on a DC 21 STR save or be knocked prone.
 - **Hurl Flame:** _Ranged Spell Attack:_ +10 to hit, range 120 ft., one target. _Hit:_ 25 (6d6+4) fire damage.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

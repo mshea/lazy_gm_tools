@@ -1,18 +1,19 @@
 # Troll
 
-*large* *Giant*
+*Large* *Giant*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 94 
 - **Speed:** walk 30 ft.
+- **Perception**: 12
+- **Stealth**: 11
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 12 (+1) | 20 (+5) | 6 (-2) | 8 (-1) | 6 (-2) |
+| +4 | +1 | +5 | -2 | -1 | -2 |
 
-- **Saving Throws**: Str +4, Dex +1, Con +5, Int +-2, Wis +-1, Cha +-2
 - **Damage Vulnerabilities:** Giant Attributes
 - **Damage Resistances:** Giant Attributes
 - **Senses:** darkvision 60 ft.
@@ -33,3 +34,10 @@
 ### Bonus Actions
 
 - **Ravenous Frenzy (52 HP or Fewer):** Desperate for a meal as its injuries mount, the troll moves up to half its speed and makes one Bite attack against a creature it can see within range. The troll then regains HP equal to half the damage dealt.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,18 +1,19 @@
 # Stirge
 
-*tiny* *Beast*
+*Tiny* *Beast*
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 7 
 - **Speed:** walk 10 ft. fly 40 ft.
+- **Perception**: 9
+- **Stealth**: 12
 - **Challenge Rating:** 1/8 (25 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 4 (-3) | 14 (+2) | 10 (+0) | 2 (-4) | 8 (-1) | 6 (-2) |
+| -3 | +2 | +0 | -4 | -1 | -2 |
 
-- **Saving Throws**: Str +-3, Dex +2, Con +0, Int +-4, Wis +-1, Cha +-2
 - **Senses:** darkvision 60 ft.
 - **Languages:** -
 
@@ -23,3 +24,10 @@
 ### Reactions
 
 - **Reactive Wiggle:** When the stirge is the target of an attack from a creature within 5 feet of it while it is attached to a creature, the stirge can wiggle, exposing the flesh where it is attached. The attacker must succeed on a DC 12 DEX save or the attack targets the creature to which the stirge is attached instead of the stirge.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

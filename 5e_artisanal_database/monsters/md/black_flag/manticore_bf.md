@@ -1,18 +1,19 @@
 # Manticore
 
-*large* *Monstrosity*
+*Large* *Monstrosity*
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 80 
 - **Speed:** walk 30 ft. fly 50 ft.
+- **Perception**: 11
+- **Stealth**: 13
 - **Challenge Rating:** 3 (700 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 16 (+3) | 16 (+3) | 6 (-2) | 12 (+1) | 8 (-1) |
+| +3 | +3 | +3 | -2 | +1 | -1 |
 
-- **Saving Throws**: Str +3, Dex +3, Con +3, Int +-2, Wis +1, Cha +-1
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Common
@@ -33,3 +34,10 @@
 ### Reactions
 
 - **Spiky Retaliation:** When a creature the manticore can see hits it with a melee attack while within 5 feet of it, the manticore can jab a spike into the attacker. The attacker must succeed on a DC 13 DEX save or take 5 (2d4) poison damage.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

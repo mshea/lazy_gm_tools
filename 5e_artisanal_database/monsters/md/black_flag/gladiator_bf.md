@@ -1,18 +1,19 @@
 # Gladiator
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 16 (studded leather, shield)
 - **Hit Points:** 108 
 - **Speed:** walk 30 ft.
+- **Perception**: 11
+- **Stealth**: 12
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 24 (+7) | 14 (+2) | 22 (+6) | 10 (+0) | 12 (+1) | 14 (+2) |
+| +7 | +2 | +6 | +0 | +1 | +2 |
 
-- **Saving Throws**: Str +7, Dex +2, Con +6, Int +0, Wis +1, Cha +2
 - **Damage Resistances:** frightened
 - **Senses:** -
 - **Languages:** any one language (usually Common)
@@ -34,3 +35,10 @@
 ### Reactions
 
 - **Parry:** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

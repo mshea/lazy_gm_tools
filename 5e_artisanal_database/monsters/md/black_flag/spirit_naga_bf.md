@@ -1,20 +1,21 @@
 # Spirit Naga
 
-*large* *Monstrosity*
+*Large* *Monstrosity*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 166 
 - **Speed:** walk 40 ft.
+- **Perception**: 15
+- **Stealth**: 16
 - **Challenge Rating:** 8 (3,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 22 (+6) | 20 (+5) | 16 (+3) | 20 (+5) | 22 (+6) |
+| +4 | +6 | +5 | +3 | +5 | +6 |
 
-- **Saving Throws**: Str +4, Dex +6, Con +5, Int +3, Wis +5, Cha +6
 - **Damage Vulnerabilities:** radiant
-- **Damage Immunities:** necrotic,poison,charmed,poisoned
+- **Damage Immunities:** necrotic, poison, charmed, poisoned
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** Abyssal,Celestial,Common,Infernal
@@ -36,3 +37,10 @@
 ### Bonus Actions
 
 - **Hidden Step:** The spirit naga magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see and takes the Hide action.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

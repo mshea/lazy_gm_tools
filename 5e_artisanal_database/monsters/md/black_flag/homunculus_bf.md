@@ -1,18 +1,19 @@
 # Homunculus
 
-*tiny* *Construct*
+*Tiny* *Construct*
 
 - **Armor Class:** 13
 - **Hit Points:** 34 
 - **Speed:** walk 20 ft. fly 40 ft.
+- **Perception**: 12
+- **Stealth**: 13
 - **Challenge Rating:** 1 (200 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 4 (-3) | 16 (+3) | 10 (+0) | 14 (+2) | 10 (+0) | 6 (-2) |
+| -3 | +3 | +0 | +2 | +0 | -2 |
 
-- **Saving Throws**: Str +-3, Dex +3, Con +0, Int +2, Wis +0, Cha +-2
 - **Damage Immunities:** Construct Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** understands the languages of its creator but can't speak
@@ -26,3 +27,10 @@
 ### Actions
 
 - **Bite:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d4+3) piercing damage plus 5 (2d4) poison damage, and the target must succeed on a DC 12 CON save or be poisoned for 1 minute. If the save fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,18 +1,19 @@
 # Couatl
 
-*medium* *Celestial*
+*Medium* *Celestial*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 77 
 - **Speed:** walk 30 ft. fly 90 ft.
+- **Perception**: 17
+- **Stealth**: 15
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 20 (+5) | 16 (+3) | 18 (+4) | 24 (+7) | 22 (+6) |
+| +3 | +5 | +3 | +4 | +7 | +6 |
 
-- **Saving Throws**: Str +3, Dex +5, Con +3, Int +4, Wis +7, Cha +6
 - **Damage Immunities:** psychic
 - **Damage Resistances:** Celestial Resilience
 - **Senses:** truesight 120 ft.
@@ -39,3 +40,10 @@
 ### Reactions
 
 - **Rainbow Shield:** When a creature the couatl can see within 30 feet of it, including itself, is targeted with an attack, the couatl can interpose a shield of rainbow-hued light between the attacker and the creature. The attacker has disadvantage on the attack roll. If the protected creature hasn't attacked or harmed another creature within the last minute, the attacker's attack misses instead.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

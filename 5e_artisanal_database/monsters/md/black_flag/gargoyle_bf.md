@@ -1,20 +1,21 @@
 # Gargoyle
 
-*medium* *Elemental*
+*Medium* *Elemental*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 52 
 - **Speed:** walk 30 ft. fly 60 ft.
+- **Perception**: 10
+- **Stealth**: 10
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 10 (+0) | 20 (+5) | 6 (-2) | 10 (+0) | 6 (-2) |
+| +3 | +0 | +5 | -2 | +0 | -2 |
 
-- **Saving Throws**: Str +3, Dex +0, Con +5, Int +-2, Wis +0, Cha +-2
-- **Damage Immunities:** poison,exhaustion,petrified,poisoned
-- **Damage Resistances:** bludgeoning,piercing,and slashing from nonmagical attacks
+- **Damage Immunities:** poison, exhaustion, petrified, poisoned
+- **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft.
 - **Languages:** Terran
 
@@ -32,3 +33,10 @@
 ### Reactions
 
 - **Fearsome Mien:** When a creature the gargoyle can see hits it with an attack, the gargoyle can shift its face to appear more monstrous. The attacker must succeed on a DC 13 WIS save or be frightened of the gargoyle until the end of its next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

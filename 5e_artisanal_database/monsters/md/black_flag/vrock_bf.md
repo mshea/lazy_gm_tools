@@ -1,20 +1,21 @@
 # Vrock
 
-*large* *Fiend*
+*Large* *Fiend*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 110 
 - **Speed:** walk 40 ft. fly 60 ft.
+- **Perception**: 16
+- **Stealth**: 15
 - **Challenge Rating:** 6 (2,300 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 20 (+5) | 18 (+4) | 8 (-1) | 22 (+6) | 14 (+2) |
+| +3 | +5 | +4 | -1 | +6 | +2 |
 
-- **Saving Throws**: Str +3, Dex +5, Con +4, Int +-1, Wis +6, Cha +2
 - **Damage Immunities:** Demonic Resilience
-- **Damage Resistances:** bludgeoning,piercing,and slashing damage from nonmagical attacks,Demonic Resilience
+- **Damage Resistances:** bludgeoning, piercing, and slashing damage from nonmagical attacks, Demonic Resilience
 - **Senses:** darkvision 120 ft.
 - **Languages:** Abyssal,telepathy 120 ft.
 
@@ -33,3 +34,10 @@
 ### Bonus Actions
 
 - **Startling Screech:** The vrock emits a horrific screech at one creature it can see within 30 feet of it. The target must succeed on a DC 14 CON save or be able to take either an action or bonus action on its turn, not both, and it can't take reactions.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

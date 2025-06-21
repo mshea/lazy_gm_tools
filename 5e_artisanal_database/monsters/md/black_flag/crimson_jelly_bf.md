@@ -1,19 +1,20 @@
 # Crimson Jelly
 
-*tiny* *Ooze*
+*Tiny* *Ooze*
 
 - **Armor Class:** 12
 - **Hit Points:** 20 
 - **Speed:** walk 0 ft. fly 60 ft. swim 30 ft. hover True ft.
+- **Perception**: 10
+- **Stealth**: 14
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 2 (-4) | 18 (+4) | 10 (+0) | 1 (-5) | 10 (+0) | 8 (-1) |
+| -4 | +4 | +0 | -5 | +0 | -1 |
 
-- **Saving Throws**: Str +-4, Dex +4, Con +0, Int +-5, Wis +0, Cha +-1
-- **Damage Immunities:** necrotic,grappled,Ooze Resilience
+- **Damage Immunities:** necrotic, grappled, Ooze Resilience
 - **Damage Resistances:** Ooze Resilience
 - **Senses:** keensense 10 ft. (can't sense beyond this radius)
 - **Languages:** -
@@ -34,3 +35,10 @@
 ### Bonus Actions
 
 - **Reproduce (Requires Temporary HP):** While the crimson jelly has 1 or more temporary HP, it can split part of itself off into a new crimson jelly with HP equal to the original crimson jelly's temporary HP. The original crimson jelly then loses any temporary HP it has. The new crimson jelly otherwise has all the same statistics as its parent, except the new jelly can't gain temporary HP from Feeding Paddles attacks until it finishes a long rest.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

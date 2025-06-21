@@ -1,18 +1,19 @@
 # Deva
 
-*medium* *Celestial*
+*Medium* *Celestial*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 165 
 - **Speed:** walk 30 ft. fly 90 ft.
+- **Perception**: 19
+- **Stealth**: 14
 - **Challenge Rating:** 10 (5,900 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 18 (+4) | 18 (+4) | 16 (+3) | 28 (+9) | 28 (+9) |
+| +4 | +4 | +4 | +3 | +9 | +9 |
 
-- **Saving Throws**: Str +4, Dex +4, Con +4, Int +3, Wis +9, Cha +9
 - **Damage Immunities:** Angelic Resilience
 - **Damage Resistances:** Angelic Resilience
 - **Senses:** darkvision 120 ft.
@@ -36,3 +37,10 @@
 ### Bonus Actions
 
 - **Change Shape:** The deva magically transforms into a Large or smaller Beast or Humanoid that has a challenge rating no higher than its own, or back into its true form, which is Celestial. Any equipment it is wearing or carrying transforms with it or is borne by the new form (the deva's choice). It reverts to its true form if it dies. In a new form, the deva retains its Angelic Resilience, Angelic Senses, and Immortal Nature traits and its HP, HD, ability to speak, proficiencies, and INT, WIS, and CHA scores, as well as this bonus action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

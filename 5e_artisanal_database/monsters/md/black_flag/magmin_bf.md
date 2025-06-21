@@ -1,18 +1,19 @@
 # Magmin
 
-*small* *Elemental*
+*Small* *Elemental*
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 22 
 - **Speed:** walk 30 ft. burrow 15 ft.
+- **Perception**: 10
+- **Stealth**: 12
 - **Challenge Rating:** 1/2 (100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 6 (-2) | 14 (+2) | 12 (+1) | 8 (-1) | 10 (+0) | 10 (+0) |
+| -2 | +2 | +1 | -1 | +0 | +0 |
 
-- **Saving Throws**: Str +-2, Dex +2, Con +1, Int +-1, Wis +0, Cha +0
 - **Damage Immunities:** fire
 - **Senses:** darkvision 60 ft.
 - **Languages:** Ignan
@@ -30,3 +31,10 @@
 ### Bonus Actions
 
 - **Ignited Illumination:** The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -1,19 +1,20 @@
 # Chuul
 
-*large* *Aberration*
+*Large* *Aberration*
 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 80 
 - **Speed:** walk 30 ft. swim 30 ft.
+- **Perception**: 14
+- **Stealth**: 10
 - **Challenge Rating:** 4 (1,100 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 10 (+0) | 16 (+3) | 4 (-3) | 14 (+2) | 4 (-3) |
+| +4 | +0 | +3 | -3 | +2 | -3 |
 
-- **Saving Throws**: Str +4, Dex +0, Con +3, Int +-3, Wis +2, Cha +-3
-- **Damage Immunities:** poison,poisoned
+- **Damage Immunities:** poison, poisoned
 - **Damage Resistances:** Aberrant Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** understands Deep Speech but can't speak
@@ -33,3 +34,10 @@
 ### Bonus Actions
 
 - **Paralyzing Tentacles:** One creature grappled by the chuul must succeed on a DC 14 CON save or be poisoned for 1 minute. Until this poison ends, the creature is paralyzed. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

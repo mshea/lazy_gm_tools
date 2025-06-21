@@ -1,19 +1,20 @@
 # Gorgon
 
-*large* *Monstrosity*
+*Large* *Monstrosity*
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 96 
 - **Speed:** walk 40 ft.
+- **Perception**: 15
+- **Stealth**: 10
 - **Challenge Rating:** 5 (1,800 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 20 (+5) | 10 (+0) | 18 (+4) | 2 (-4) | 14 (+2) | 6 (-2) |
+| +5 | +0 | +4 | -4 | +2 | -2 |
 
-- **Saving Throws**: Str +5, Dex +0, Con +4, Int +-4, Wis +2, Cha +-2
-- **Damage Immunities:** poison,petrified,poisoned
+- **Damage Immunities:** poison, petrified, poisoned
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** darkvision 60 ft.
 - **Languages:** -
@@ -33,3 +34,10 @@
 ### Reactions
 
 - **Poisonous Retort:** When the gorgon is hit by an attack from a creature it can see within 10 feet of it, the gorgon can snort angrily, releasing a puff of poisonous gas at the creature. The attacker must succeed on a DC 16 CON save or be poisoned until the end of its next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

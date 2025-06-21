@@ -1,20 +1,21 @@
 # Will-o'-Wisp
 
-*tiny* *Undead*
+*Tiny* *Undead*
 
 - **Armor Class:** 17 (Ephemeral)
 - **Hit Points:** 31 
 - **Speed:** walk 0 ft. fly 50 ft. hover True ft.
+- **Perception**: 13
+- **Stealth**: 14
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 1 (-5) | 18 (+4) | 10 (+0) | 12 (+1) | 16 (+3) | 10 (+0) |
+| -5 | +4 | +0 | +1 | +3 | +0 |
 
-- **Saving Throws**: Str +-5, Dex +4, Con +0, Int +1, Wis +3, Cha +0
-- **Damage Immunities:** lightning,grappled,paralyzed,prone,restrained,unconscious,Undead Resilience
-- **Damage Resistances:** acid,cold,fire,necrotic,thunder; bludgeoning,piercing,and slashing damage from nonmagical attacks
+- **Damage Immunities:** lightning, grappled, paralyzed, prone, restrained, unconscious, Undead Resilience
+- **Damage Resistances:** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing damage from nonmagical attacks
 - **Senses:** darkvision 120 ft.
 - **Languages:** the languages it knew in life
 
@@ -39,3 +40,10 @@
 ### Reactions
 
 - **Consume Life:** When a creature the will-o'-wisp can see within 15 feet of it is reduced to 0 HP, the will-o'-wisp can consume some of that creature's fading life. The will-o'-wisp gains 7 (2d6) temporary HP, and the creature has disadvantage on the next death save it makes before the end of the wisp's next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

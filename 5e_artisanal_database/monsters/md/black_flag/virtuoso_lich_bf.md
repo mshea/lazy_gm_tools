@@ -1,20 +1,21 @@
 # Virtuoso Lich
 
-*medium* *Undead*
+*Medium* *Undead*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 185 
 - **Speed:** walk 30 ft.
+- **Perception**: 15
+- **Stealth**: 17
 - **Challenge Rating:** 12 (8,400 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 24 (+7) | 14 (+2) | 14 (+2) | 20 (+5) | 28 (+9) |
+| +0 | +7 | +2 | +2 | +5 | +9 |
 
-- **Saving Throws**: Str +0, Dex +7, Con +2, Int +2, Wis +5, Cha +9
-- **Damage Immunities:** blinded,deafened,charmed,frightened,paralyzed,Undead Resilience
-- **Damage Resistances:** necrotic; bludgeoning,piercing,and slashing damage from nonmagical attacks
+- **Damage Immunities:** blinded, deafened, charmed, frightened, paralyzed, Undead Resilience
+- **Damage Resistances:** necrotic; bludgeoning, piercing, and slashing damage from nonmagical attacks
 - **Senses:** truesight 60 ft.
 - **Languages:** Common plus up to two other languages
 
@@ -43,3 +44,10 @@ The virtuoso lich can take 3 legendary actions, choosing from the options below.
 - **Move:** The lich moves up to its speed without provoking opportunity attacks.
 - **Cast a Spell (Costs 2 Actions):** The lich uses Spellcasting.
 - **Unrestrained Art (Costs 3 Actions):** The lich unleashes the full force of its artistic talents. Each creature with 15 feet of the lich must make a DC 17 DEX save. On a failure, a creature takes 9 (2d8) damage of the type chosen with the Versatile Artist trait and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

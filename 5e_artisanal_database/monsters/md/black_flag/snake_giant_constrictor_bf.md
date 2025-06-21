@@ -1,18 +1,19 @@
 # Snake, Giant Constrictor
 
-*huge* *Beast*
+*Huge* *Beast*
 
 - **Armor Class:** 12
 - **Hit Points:** 63 
 - **Speed:** walk 30 ft. swim 30 ft.
+- **Perception**: 12
+- **Stealth**: 12
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 2 (-4) |
+| +3 | +2 | +1 | -5 | +0 | -4 |
 
-- **Saving Throws**: Str +3, Dex +2, Con +1, Int +-5, Wis +0, Cha +-4
 - **Senses:** keensense 10 ft.
 - **Languages:** -
 
@@ -25,3 +26,10 @@
 ### Bonus Actions
 
 - **Crush:** One creature grappled by the snake must succeed on a DC 14 STR or take 9 (2d8) bludgeoning damage and begin suffocating. The creature continues suffocating until the grapple ends.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

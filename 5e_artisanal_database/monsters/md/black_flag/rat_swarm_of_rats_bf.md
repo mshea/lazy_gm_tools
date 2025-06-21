@@ -1,18 +1,19 @@
 # Rat, Swarm of Rats
 
-*medium* *Swarm*
+*Medium* *Swarm*
 
 - **Armor Class:** 10
 - **Hit Points:** 14 
 - **Speed:** walk 30 ft. swim 30 ft.
+- **Perception**: 10
+- **Stealth**: 10
 - **Challenge Rating:** 1/4 (50 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 8 (-1) | 10 (+0) | 8 (-1) | 2 (-4) | 10 (+0) | 2 (-4) |
+| -1 | +0 | -1 | -4 | +0 | -4 |
 
-- **Saving Throws**: Str +-1, Dex +0, Con +-1, Int +-4, Wis +0, Cha +-4
 - **Damage Immunities:** Swarm Resilience
 - **Damage Resistances:** Swarm Resilience
 - **Senses:** darkvision 30 ft.
@@ -28,3 +29,10 @@
 ### Actions
 
 - **Bites:** _Melee Weapon Attack:_ +2 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its HP or fewer. If the target is a creature, it must make a DC 9 CON save. On a failure, the target contracts the rat plague disease (see Diseased Rats sidebar) or is poisoned until the end of its next turn (the GM's choice).
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

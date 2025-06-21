@@ -1,19 +1,20 @@
 # Iron Golem
 
-*large* *Construct*
+*Large* *Construct*
 
 - **Armor Class:** 20 (natural armor, shield)
 - **Hit Points:** 201 
 - **Speed:** walk 30 ft.
+- **Perception**: 15
+- **Stealth**: 9
 - **Challenge Rating:** 16 (15,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 34 (+12) | 8 (-1) | 20 (+5) | 2 (-4) | 10 (+0) | 1 (-5) |
+| +12 | -1 | +5 | -4 | +0 | -5 |
 
-- **Saving Throws**: Str +12, Dex +-1, Con +5, Int +-4, Wis +0, Cha +-5
-- **Damage Immunities:** fire,Golem Resilience
+- **Damage Immunities:** fire, Golem Resilience
 - **Senses:** darkvision 120 ft.
 - **Languages:** understands the languages of its creator but can't speak
 
@@ -36,3 +37,10 @@
 - **Shield Bash:** _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 29 (4d10+7) bludgeoning damage, and the target must succeed on a DC 18 STR save or be knocked prone.
 - **Spear Arm:** _Melee Weapon Attack:_ +12 to hit, reach 10 ft., one target. _Hit:_ 25 (4d8+7) piercing damage.
 - **Expel Poisonous Gas (Recharge 5-6):** The golem vents poisonous gas from small holes across its body. Each creature within 15 feet of the golem must make a DC 18 CON save, taking 54 (12d8) poison damage on a failed save, or half as much damage on a successful one.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

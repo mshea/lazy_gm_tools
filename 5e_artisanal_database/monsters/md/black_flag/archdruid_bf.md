@@ -1,18 +1,19 @@
 # Archdruid
 
-*medium* *Humanoid*
+*Medium* *Humanoid*
 
 - **Armor Class:** 17 (Nature's Champion)
 - **Hit Points:** 210 
 - **Speed:** walk 30 ft.
+- **Perception**: 19
+- **Stealth**: 12
 - **Challenge Rating:** 12 (8,400 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 14 (+2) | 12 (+1) | 22 (+6) | 28 (+9) | 12 (+1) |
+| +3 | +2 | +1 | +6 | +9 | +1 |
 
-- **Saving Throws**: Str +3, Dex +2, Con +1, Int +6, Wis +9, Cha +1
 - **Damage Resistances:** Nature's Champion
 - **Senses:** -
 - **Languages:** Common,Druidic,plus any one language
@@ -32,3 +33,10 @@
 ### Bonus Actions
 
 - **Change Shape:** The archdruid magically transforms into a Beast that has a challenge rating no higher than its own, or back into its true form, which is Humanoid. Any equipment it is wearing or carrying transforms with it. It reverts to its true form if it dies. In a new form, the archdruid retains its HP, ability to speak, proficiencies, and INT, WIS, and CHA modifiers, as well as this bonus action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form. The archdruid can choose to instead magically transform into an Elemental that has a challenge rating no higher than 6, or back into its true form. If it transforms into an Elemental, the archdruid can remain in that form for up to 6 hours then must finish a short or long rest before it can transform into an Elemental again.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

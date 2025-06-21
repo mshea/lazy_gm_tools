@@ -1,20 +1,21 @@
 # Awakened Tree
 
-*huge* *Plant*
+*Huge* *Plant*
 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 60 
 - **Speed:** walk 20 ft.
+- **Perception**: 10
+- **Stealth**: 8
 - **Challenge Rating:** 2 (450 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 18 (+4) | 6 (-2) | 14 (+2) | 10 (+0) | 10 (+0) | 6 (-2) |
+| +4 | -2 | +2 | +0 | +0 | -2 |
 
-- **Saving Throws**: Str +4, Dex +-2, Con +2, Int +0, Wis +0, Cha +-2
 - **Damage Vulnerabilities:** fire
-- **Damage Resistances:** bludgeoning,piercing,Plant Resilience
+- **Damage Resistances:** bludgeoning, piercing, Plant Resilience
 - **Senses:** -
 - **Languages:** one language known by its creator
 
@@ -31,3 +32,10 @@
 ### Bonus Actions
 
 - **Entangling Roots:** One creature on the ground the tree can see within 10 feet of it must succeed on a DC 14 STR save or be restrained by roots until the end of its next turn.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

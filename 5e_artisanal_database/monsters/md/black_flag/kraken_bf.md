@@ -1,19 +1,20 @@
 # Kraken
 
-*gargantuan* *Monstrosity*
+*Gargantuan* *Monstrosity*
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 475 
 - **Speed:** walk 20 ft. swim 60 ft.
+- **Perception**: 21
+- **Stealth**: 17
 - **Challenge Rating:** 23 (50,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 44 (+17) | 24 (+7) | 38 (+14) | 36 (+13) | 32 (+11) | 20 (+5) |
+| +17 | +7 | +14 | +13 | +11 | +5 |
 
-- **Saving Throws**: Str +17, Dex +7, Con +14, Int +13, Wis +11, Cha +5
-- **Damage Immunities:** lightning; bludgeoning,piercing,and slashing damage from nonmagical attacks,frightened,paralyzed
+- **Damage Immunities:** lightning; bludgeoning, piercing, and slashing damage from nonmagical attacks, frightened, paralyzed
 - **Damage Resistances:** Monstrosity Resilience
 - **Senses:** keensense 60 ft., truesight 120 ft.
 - **Languages:** understands Abyssal,Celestial,Infernal,and Primordial but can't speak,telepathy 120 ft.
@@ -45,3 +46,10 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 - **Swim:** The kraken swims up to half its swimming speed without provoking opportunity attacks.
 - **Tentacle Attack:** The kraken makes one Tentacle attack.
 - **Lightning Storm (Costs 2 Actions):** The kraken magically calls bolts of lightning to strike up to two creatures it can see or sense within 120 feet of it. Each creature must make a DC 22 DEX save, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

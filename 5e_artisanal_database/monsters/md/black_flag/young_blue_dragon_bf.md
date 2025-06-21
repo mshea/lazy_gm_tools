@@ -1,18 +1,19 @@
 # Young Blue Dragon
 
-*large* *Dragon*
+*Large* *Dragon*
 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 175 
 - **Speed:** walk 40 ft. burrow 20 ft. fly 80 ft.
+- **Perception**: 19
+- **Stealth**: 14
 - **Challenge Rating:** 9 (5,000 XP)
 - **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 20 (+5) | 18 (+4) | 26 (+8) | 14 (+2) | 20 (+5) | 24 (+7) |
+| +5 | +4 | +8 | +2 | +5 | +7 |
 
-- **Saving Throws**: Str +5, Dex +4, Con +8, Int +2, Wis +5, Cha +7
 - **Damage Immunities:** lightning
 - **Senses:** darkvision 120 ft., keensense 30 ft.
 - **Languages:** Common,Draconic
@@ -27,3 +28,10 @@
 - **Bite:** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10+5) piercing damage plus 5 (1d10) lightning damage.
 - **Claw:** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6+5) slashing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 DEX save, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+
+### License
+
+This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
+
+This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.
