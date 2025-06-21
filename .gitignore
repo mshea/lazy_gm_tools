@@ -1,7 +1,0 @@
-
-.DS_Store
-.DS_Store
-.claude/settings.local.json
-
-# Build scripts directory - not for public release
-5e_adb_build_scripts/
