@@ -1,7 +1,7 @@
 // Service Worker for 5e Artisanal Database
 // Caches ALL files on first install by fetching the cache manifest
 
-const CACHE_NAME = '5e-adb-v1.0.9';
+const CACHE_NAME = '5e-adb-v1.0.10';
 const CHUNK_SIZE = 30; // Smaller chunks for better iOS reliability
 
 // Install event - fetch manifest and cache everything
