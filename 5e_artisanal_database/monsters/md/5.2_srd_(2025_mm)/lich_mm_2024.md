@@ -5,7 +5,7 @@
 - **Armor Class:** 20
 - **Hit Points:** 315 (42d8 + 126)
 - **Speed:** 30 ft.
-- **Initiative**: +7 (17)
+- **Initiative**: +17 (27)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |

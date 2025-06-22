@@ -5,7 +5,7 @@
 - **Armor Class:** 18
 - **Hit Points:** 200 (16d12 + 96)
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative**: +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |

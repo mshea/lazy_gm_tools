@@ -5,7 +5,7 @@
 - **Armor Class:** 18
 - **Hit Points:** 184 (16d12 + 80)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +5 (15)
+- **Initiative**: +11 (21)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |

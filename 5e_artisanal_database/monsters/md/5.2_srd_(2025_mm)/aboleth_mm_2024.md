@@ -5,7 +5,7 @@
 - **Armor Class:** 17
 - **Hit Points:** 150 (20d10 + 40)
 - **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative**: +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |

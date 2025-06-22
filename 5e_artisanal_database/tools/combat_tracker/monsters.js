@@ -3,67 +3,67 @@ const customMonsters = [
     "name": "Aboleth",
     "hp": 150,
     "ac": 17,
-    "init": 3
+    "init": 7
   },
   {
     "name": "Adult Black Dragon",
     "hp": 195,
     "ac": 19,
-    "init": 6
+    "init": 12
   },
   {
     "name": "Adult Blue Dragon",
     "hp": 212,
     "ac": 19,
-    "init": 4
+    "init": 10
   },
   {
     "name": "Adult Brass Dragon",
     "hp": 172,
     "ac": 18,
-    "init": 4
+    "init": 10
   },
   {
     "name": "Adult Bronze Dragon",
     "hp": 212,
     "ac": 18,
-    "init": 4
+    "init": 10
   },
   {
     "name": "Adult Copper Dragon",
     "hp": 184,
     "ac": 18,
-    "init": 5
+    "init": 11
   },
   {
     "name": "Adult Gold Dragon",
     "hp": 243,
     "ac": 19,
-    "init": 6
+    "init": 14
   },
   {
     "name": "Adult Green Dragon",
     "hp": 207,
     "ac": 19,
-    "init": 5
+    "init": 11
   },
   {
     "name": "Adult Red Dragon",
     "hp": 256,
     "ac": 19,
-    "init": 4
+    "init": 12
   },
   {
     "name": "Adult Silver Dragon",
     "hp": 216,
     "ac": 19,
-    "init": 4
+    "init": 10
   },
   {
     "name": "Adult White Dragon",
     "hp": 200,
     "ac": 18,
-    "init": 4
+    "init": 10
   },
   {
     "name": "Air Elemental",
@@ -75,61 +75,61 @@ const customMonsters = [
     "name": "Ancient Black Dragon",
     "hp": 367,
     "ac": 22,
-    "init": 6
+    "init": 16
   },
   {
     "name": "Ancient Blue Dragon",
     "hp": 481,
     "ac": 22,
-    "init": 4
+    "init": 14
   },
   {
     "name": "Ancient Brass Dragon",
     "hp": 332,
     "ac": 20,
-    "init": 4
+    "init": 12
   },
   {
     "name": "Ancient Bronze Dragon",
     "hp": 444,
     "ac": 22,
-    "init": 4
+    "init": 14
   },
   {
     "name": "Ancient Copper Dragon",
     "hp": 367,
     "ac": 21,
-    "init": 5
+    "init": 15
   },
   {
     "name": "Ancient Gold Dragon",
     "hp": 546,
     "ac": 22,
-    "init": 6
+    "init": 16
   },
   {
     "name": "Ancient Green Dragon",
     "hp": 402,
     "ac": 21,
-    "init": 5
+    "init": 15
   },
   {
     "name": "Ancient Red Dragon",
     "hp": 507,
     "ac": 22,
-    "init": 4
+    "init": 14
   },
   {
     "name": "Ancient Silver Dragon",
     "hp": 468,
     "ac": 22,
-    "init": 4
+    "init": 14
   },
   {
     "name": "Ancient White Dragon",
     "hp": 333,
     "ac": 20,
-    "init": 4
+    "init": 12
   },
   {
     "name": "Animated Armor",
@@ -753,7 +753,7 @@ const customMonsters = [
     "name": "Kraken",
     "hp": 481,
     "ac": 18,
-    "init": 4
+    "init": 14
   },
   {
     "name": "Lamia",
@@ -771,7 +771,7 @@ const customMonsters = [
     "name": "Lich",
     "hp": 315,
     "ac": 20,
-    "init": 7
+    "init": 17
   },
   {
     "name": "Mage",
@@ -843,7 +843,7 @@ const customMonsters = [
     "name": "Mummy Lord",
     "hp": 187,
     "ac": 17,
-    "init": 4
+    "init": 10
   },
   {
     "name": "Mummy",
@@ -1095,13 +1095,13 @@ const customMonsters = [
     "name": "Sphinx of Lore",
     "hp": 170,
     "ac": 17,
-    "init": 6
+    "init": 10
   },
   {
     "name": "Sphinx of Valor",
     "hp": 199,
     "ac": 17,
-    "init": 4
+    "init": 12
   },
   {
     "name": "Sphinx of Wonder",
@@ -1215,7 +1215,7 @@ const customMonsters = [
     "name": "Vampire",
     "hp": 195,
     "ac": 16,
-    "init": 8
+    "init": 14
   },
   {
     "name": "Vampire Spawn",
