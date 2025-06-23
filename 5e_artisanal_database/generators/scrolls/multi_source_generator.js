@@ -91,25 +91,9 @@ window.addEventListener('load', function() {
     
     const loaded = loadSpellData();
     if (loaded) {
-        // Update source options with counts
-        updateSourceOptions();
         generateScrolls();
     } else {
         output.innerHTML = '<p><em>Failed to load spell data. Please refresh the page.</em></p>';
     }
 });
 
-// Update source dropdown options to show spell counts
-function updateSourceOptions() {
-    const sourceSelect = document.getElementById('source');
-    const sources = getAvailableSources();
-    
-    // Update each option with spell counts
-    const options = sourceSelect.querySelectorAll('option');
-    options.forEach((option) => {
-        const sourceData = sources.find(s => s.slug === option.value);
-        if (sourceData && sourceData.count > 0) {
-            option.textContent = `${sourceData.displayName} (${sourceData.count} spells)`;
-        }
-    });
-}

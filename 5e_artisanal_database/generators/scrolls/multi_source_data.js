@@ -8,23 +8,19 @@ let sourceInfo = {};
 const sourceMapping = {
     "wotc-srd": {
         directory: "5.1_srd_(d&d_2014)",
-        displayName: "D&D 2014 (5.1 SRD)",
-        count: 0
+        displayName: "D&D 2014 (5.1 SRD)"
     },
     "srd-2024": {
         directory: "5.2_srd_(d&d_2024)", 
-        displayName: "D&D 2024 (5.2 SRD)",
-        count: 0
+        displayName: "D&D 2024 (5.2 SRD)"
     },
     "dmag": {
         directory: "deep_magic_5e",
-        displayName: "Deep Magic 5e",
-        count: 0
+        displayName: "Deep Magic 5e"
     },
     "a5e": {
         directory: "level_up_advanced_5e",
-        displayName: "Level Up Advanced 5e", 
-        count: 0
+        displayName: "Level Up Advanced 5e"
     }
 };
 
@@ -64,7 +60,13 @@ function spellNameToUrl(spellName) {
 
 // Function to get spell link based on source
 function getSpellLink(spellName, source) {
-    const urlName = spellNameToUrl(spellName);
+    let urlName = spellNameToUrl(spellName);
+    
+    // Add source-specific suffixes
+    if (source === 'a5e') {
+        urlName += '-a5e';
+    }
+    
     const sourceData = sourceMapping[source];
     if (!sourceData) {
         console.warn(`Unknown source: ${source}`);
@@ -113,18 +115,7 @@ function loadSpellData() {
             spellsBySourceAndLevel[source][level].push(name);
         });
         
-        // Update source counts
-        Object.keys(sourceMapping).forEach(source => {
-            let count = 0;
-            if (spellsBySourceAndLevel[source]) {
-                Object.values(spellsBySourceAndLevel[source]).forEach(levelSpells => {
-                    count += levelSpells.length;
-                });
-            }
-            sourceMapping[source].count = count;
-        });
-        
-        console.log('Spell data loaded successfully:', sourceMapping);
+        console.log('Spell data loaded successfully');
         return true;
         
     } catch (error) {
@@ -174,17 +165,6 @@ function loadFallbackSpellData() {
     
     spellsBySourceAndLevel = fallbackSpells;
     
-    // Update source counts
-    Object.keys(sourceMapping).forEach(source => {
-        let count = 0;
-        if (spellsBySourceAndLevel[source]) {
-            Object.values(spellsBySourceAndLevel[source]).forEach(levelSpells => {
-                count += levelSpells.length;
-            });
-        }
-        sourceMapping[source].count = count;
-    });
-    
     console.log('Fallback spell data loaded successfully');
     return true;
 }
@@ -210,11 +190,3 @@ function getAllSpellsAtLevel(level) {
     return allSpells;
 }
 
-// Get available sources with their display names and counts
-function getAvailableSources() {
-    return Object.keys(sourceMapping).map(source => ({
-        slug: source,
-        displayName: sourceMapping[source].displayName,
-        count: sourceMapping[source].count
-    }));
-}
