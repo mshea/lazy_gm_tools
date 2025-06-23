@@ -3,8 +3,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
-<link rel="manifest" href="./manifest.json">
-<meta name="theme-color" content="#2c3e50">
 <link rel="stylesheet" href="./css_js/5eadb.css">
 <title>5e Artisanal Database</title>
 </head>
@@ -104,61 +102,6 @@ document.getElementById('mainSearchInput').addEventListener('keypress', function
 <h2>Sources</h2>
 <p>The 5e Artisanal Database collects rules and tools for several openly-released 5e roleplaying game systems including the <a href="./srds/SRD_CC_v5.1.pdf">D&D 2014 5.1 SRD</a>, the <a href="./srds/SRD_CC_v5.2.1.pdf">D&D 2024 5.2 SRD</a>, <a href="https://a5esrd.com/a5esrd">Level Up Advanced 5e</a>, <a href="https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/">Tome of Beasts 1</a>, <a href="https://koboldpress.com/tome-of-beasts-2/">2</a>, <a href="https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/">3</a>, the <a href="https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/">Creature Codex</a>, the <a href="./srds/Black-Flag-Roleplaying.pdf">Kobold Press Black Flag SRD</a>, the <a href="https://slyflourish.com/lazy_gm_resource_document.html">Lazy GM's Resource Document</a>, and the <a href="https://slyflourish.com/lazy_5e_monster_building_resource_document.html">Lazy GM's Monster Resource Document</a>. See <a href="./licensing.html">Licensing</a> for license details.</p>
 
-<script>
-// Register service worker for PWA functionality
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js')
-      .then(registration => {
-        console.log('Service Worker registered successfully:', registration.scope);
-        
-        // Force check for updates on each load
-        registration.update();
-        
-        // Check for updates
-        registration.addEventListener('updatefound', () => {
-          const newWorker = registration.installing;
-          
-          newWorker.addEventListener('statechange', () => {
-            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-              // New content is available, show update prompt
-              if (confirm('New version available! Would you like to update now?')) {
-                newWorker.postMessage({ type: 'SKIP_WAITING' });
-                window.location.reload();
-              }
-            }
-          });
-        });
-      })
-      .catch(error => {
-        console.log('Service Worker registration failed:', error);
-      });
-  });
-  
-  // Listen for messages from service worker
-  navigator.serviceWorker.addEventListener('message', event => {
-    if (event.data && event.data.type === 'SW_ACTIVATED') {
-      console.log('Service Worker activated with cache:', event.data.cacheName);
-      
-      // Test cache availability
-      caches.open(event.data.cacheName).then(cache => {
-        cache.keys().then(keys => {
-          console.log('Cache contains', keys.length, 'items');
-          if (keys.length < 1000) {
-            console.warn('Cache may be incomplete, only', keys.length, 'items cached');
-          }
-        });
-      });
-    }
-  });
-}
-
-// Listen for service worker updates
-navigator.serviceWorker?.addEventListener('controllerchange', () => {
-  // New service worker has taken control, reload to get latest content
-  window.location.reload();
-});
-</script>
 
 </body>
 </html>
