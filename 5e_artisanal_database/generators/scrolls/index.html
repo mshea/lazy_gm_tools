@@ -12,15 +12,27 @@
 <h1>Scroll Generator</h1>
 
 <div style="margin: 20px 0;">
-    <label for="rarity">Select Scroll Rarity:</label>
-    <select id="rarity" style="margin-left: 10px;">
-        <option value="common">Common (Cantrips & 1st level)</option>
-        <option value="uncommon">Uncommon (2nd & 3rd level)</option>
-        <option value="rare">Rare (4th & 5th level)</option>
-        <option value="very-rare">Very Rare (6th, 7th & 8th level)</option>
-        <option value="legendary">Legendary (9th level)</option>
-        <option value="lucky">I Feel Lucky (Random rarities)</option>
-    </select>
+    <div style="margin-bottom: 15px;">
+        <label for="source">Spell Source:</label>
+        <select id="source" style="margin-left: 10px;">
+            <option value="srd-2024">D&D 2024 (5.2 SRD)</option>
+            <option value="wotc-srd">D&D 2014 (5.1 SRD)</option>
+            <option value="dmag">Deep Magic 5e</option>
+            <option value="a5e">Level Up Advanced 5e</option>
+        </select>
+    </div>
+    
+    <div>
+        <label for="rarity">Spell Level/Rarity:</label>
+        <select id="rarity" style="margin-left: 10px;">
+            <option value="any">Any (All spell levels)</option>
+            <option value="common">Common (Cantrips & 1st level)</option>
+            <option value="uncommon">Uncommon (2nd & 3rd level)</option>
+            <option value="rare">Rare (4th & 5th level)</option>
+            <option value="very-rare">Very Rare (6th, 7th & 8th level)</option>
+            <option value="legendary">Legendary (9th level)</option>
+        </select>
+    </div>
 </div>
 
 <button onclick="generateScrolls()">Generate 10 Scrolls</button>
@@ -29,7 +41,8 @@
     <em>Select a rarity and click the button above to generate 10 spell scrolls...</em>
 </div>
 
-<script src="scroll_data.js"></script>
-<script src="scroll_generator.js"></script>
+<script src="spells_data.js"></script>
+<script src="multi_source_data.js"></script>
+<script src="multi_source_generator.js"></script>
 </body>
 </html>

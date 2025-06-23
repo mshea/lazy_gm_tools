@@ -373,5 +373,5 @@ function spellNameToUrl(spellName) {
 // Function to get spell link
 function getSpellLink(spellName) {
     const urlName = spellNameToUrl(spellName);
-    return `../../spells/html/5.1_srd_(d&d_2014)/${urlName}.html`;
+    return `../../spells/html/5.2_srd_(d&d_2024)/${urlName}.html`;
 }
