@@ -7,19 +7,12 @@ Learn about the licensing of the data of this tool in the license.html file loca
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
 <style>
-body {
-    max-width: 800px;
-    margin: auto;
-    font-size: 16px;
-    font-family: sans-serif;
-    padding: 10px;
-    background-color: white;
-    color: black;
-}
+/* Combat Tracker specific styles */
 
 /* Prevent iOS zoom on inputs */
-input, button, select, textarea {
+input, textarea {
     font-size: 16px !important;
 }
 
@@ -32,33 +25,25 @@ input[type=number]::-webkit-inner-spin-button {
 input[type=number] {
     -moz-appearance: textfield;
 }
-p, li {
-    line-height: 1.3em;
-}
-ul, ol {
-    padding-left: 20px;
-    margin-left: 0;
-}
-li {
-    margin-left: 0;
-}
+
 table {
-    border-collapse: collapse;
     width: 100%;
     margin: 10px 0;
     font-size: 16px;
     table-layout: auto;
 }
+
 th, td {
     border: 1px solid #999;
     padding: 4px;
-    text-align: left;
 }
+
 th {
     background-color: #e0e0e0;
     font-weight: bold;
     font-size: 16px;
 }
+
 .init-col {
     width: min-content;
 }
@@ -69,48 +54,41 @@ th {
     width: min-content;
 }
 .hp-col {
-	width: 250px
+    width: 250px;
 }
+
 .controls {
     margin: 10px 0;
     padding: 8px;
-    border: 1px solid #999;
-    background-color: #e8e8e8;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 4px;
 }
+
 .controls h3 {
     margin: 0 0 8px 0;
     font-size: 16px;
 }
-.controls input, .controls button {
+
+.controls input {
     margin: 2px;
     padding: 6px;
     font-size: 16px;
-}
-.controls input {
     background-color: white;
     color: black;
-    border: 1px solid #999;
-    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
-.controls button {
-    background-color: #666;
-    color: white;
-    border: none;
-    padding: 6px 10px;
-    cursor: pointer;
-    font-size: 16px;
-}
-.controls button:hover {
-    background-color: #555;
-}
+
 .hp-controls {
     display: flex;
     align-items: center;
     gap: 2px;
     flex-wrap: wrap;
 }
+
 .hp-controls button {
-    background-color: #888;
+    background-color: #666;
     color: white;
     border: none;
     padding: 4px 8px;
@@ -118,10 +96,13 @@ th {
     font-size: 16px;
     margin: 0;
     min-width: 28px;
+    border-radius: 4px;
 }
+
 .hp-controls button:hover {
-    background-color: #777;
+    background-color: #555;
 }
+
 .hp-controls input {
     width: 50px;
     font-size: 16px;
@@ -130,51 +111,35 @@ th {
     padding: 3px;
     background-color: white;
     color: black;
-    border: 1px solid #999;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
+
 .hp-controls span {
     font-size: 16px;
     margin: 0 2px;
 }
+
 .current-turn {
     background-color: #d0d0d0;
     font-weight: bold;
 }
+
 .remove-btn {
-    background-color: #999;
+    background-color: #666;
     color: white;
     border: none;
     padding: 4px 8px;
     cursor: pointer;
     font-size: 16px;
     font-weight: bold;
+    border-radius: 4px;
 }
+
 .remove-btn:hover {
-    background-color: #777;
+    background-color: #555;
 }
-.round-counter {
-    font-size: 16px;
-    font-weight: bold;
-    margin: 10px 0;
-    text-align: center;
-    color: black;
-}
-.turn-controls {
-    text-align: center;
-    margin: 10px 0;
-}
-.turn-controls button {
-    background-color: #777;
-    color: white;
-    border: none;
-    padding: 8px 12px;
-    cursor: pointer;
-    font-size: 16px;
-    margin: 2px;
-}
-.turn-controls button:hover {
-    background-color: #666;
-}
+
 .combat-controls {
     display: flex;
     flex-wrap: wrap;
@@ -182,26 +147,30 @@ th {
     justify-content: center;
     margin: 10px 0;
 }
+
 .combat-controls button {
-    background-color: #888;
+    background-color: #666;
     color: white;
     border: none;
-    padding: 6px 10px;
+    padding: 12px 16px;
     cursor: pointer;
     font-size: 16px;
     flex: 1;
-    min-width: 60px;
-    max-width: 90px;
+    min-width: 80px;
+    max-width: 120px;
+    border-radius: 4px;
+    min-height: 44px;
 }
+
 .combat-controls button:hover {
-    background-color: #777;
+    background-color: #555;
 }
 </style>
 <title>Combat Tracker - 5e Artisanal Database</title>
 <script src="../../css_js/monster_encounter_stats.js"></script>
 </head>
 <body>
-<p><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</p>
+<div><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</div>
 
 <h1>Combat Tracker</h1>
 

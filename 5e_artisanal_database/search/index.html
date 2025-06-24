@@ -9,6 +9,11 @@
 /* Search-specific styles */
 .search-container {
     margin: 20px 0;
+    max-width: 500px;
+}
+
+.search-input {
+    margin-bottom: 5px;
 }
 
 .search-input {
@@ -27,18 +32,19 @@
 
 .search-buttons {
     margin-top: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 .search-buttons button {
     background-color: #f8f9fa;
     color: #3c4043;
-    border: 1px solid #f8f9fa;
+    border: 1px solid #dadce0;
     border-radius: 4px;
     padding: 8px 16px;
-    font-size: 14px;
+    font-size: 16px;
     cursor: pointer;
     margin: 0 5px;
+    min-height: auto;
 }
 
 .search-buttons button:hover {
@@ -110,23 +116,22 @@
     padding: 1px 2px;
 }
 
-.filter-container {
-    margin: 20px 0;
+.search-container .filter-container {
+    margin: 10px 0;
     padding: 0;
     background-color: #f8f8f8;
     border-radius: 4px;
     border: 1px solid #ddd;
 }
 
-.filter-header {
-    padding: 15px;
+.search-container .filter-header {
+    padding: 10px;
     cursor: pointer;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #f0f0f0;
-    border-radius: 4px 4px 0 0;
     user-select: none;
+    gap: 8px;
 }
 
 .filter-header:hover {
@@ -329,28 +334,29 @@
 
 <div class="search-container">
     <input type="text" id="searchInput" class="search-input" placeholder="Search rules, spells, monsters, and more..." autocomplete="off">
+    
+    <div class="filter-container">
+        <div class="filter-header" onclick="toggleFilters()">
+            <h3>Filter by Source</h3>
+            <span id="filterToggle" class="filter-toggle collapsed">►</span>
+        </div>
+        <div id="filterContent" class="filter-content collapsed">
+            <div id="sourceFilters" class="source-filters">
+                <!-- Checkboxes will be populated dynamically -->
+            </div>
+            <div class="filter-actions">
+                <button type="button" onclick="selectAllSources()">Select All</button>
+                <button type="button" onclick="deselectAllSources()">Deselect All</button>
+            </div>
+        </div>
+    </div>
+    
     <div class="search-buttons">
         <button type="button" id="searchButton" onclick="performManualSearch()">Search</button>
         <button type="button" id="luckyButton" onclick="performLuckySearch()">First Result</button>
     </div>
 </div>
 <p style="font-size: 80%; margin:auto; text-align: center">URL refreshes based on your filters. Add &lucky=1 to the URL to jump to the first hit.</p>
-
-<div class="filter-container">
-    <div class="filter-header" onclick="toggleFilters()">
-        <h3>Filter by Source</h3>
-        <span id="filterToggle" class="filter-toggle collapsed">►</span>
-    </div>
-    <div id="filterContent" class="filter-content collapsed">
-        <div id="sourceFilters" class="source-filters">
-            <!-- Checkboxes will be populated dynamically -->
-        </div>
-        <div class="filter-actions">
-            <button type="button" onclick="selectAllSources()">Select All</button>
-            <button type="button" onclick="deselectAllSources()">Deselect All</button>
-        </div>
-    </div>
-</div>
 <div id="searchStats" class="search-stats" style="display: none;"></div>
 <div id="searchResults" class="search-results"></div>
 
@@ -831,7 +837,8 @@ class SearchEngine {
             'xgte': 'Xanathar\'s Guide to Everything',
             'tce': 'Tasha\'s Cauldron of Everything',
             'ftd': 'Fizban\'s Treasury of Dragons',
-            'mpmm': 'Mordenkainen Presents: Monsters of the Multiverse'
+            'mpmm': 'Mordenkainen Presents: Monsters of the Multiverse',
+            'blackfla': 'black_flag'
         };
         
         // Auto-generate codes for any sources not manually mapped
