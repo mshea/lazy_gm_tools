@@ -773,17 +773,17 @@ function loadProject(event) {
             currentMap = projectData.map;
             
             const container = document.getElementById('mapContainer');
-            const canvas = document.createElement('div');
-            canvas.className = 'map-canvas';
-            canvas.onclick = handleCanvasClick;
+            mapCanvas = document.createElement('div');
+            mapCanvas.className = 'map-canvas';
+            mapCanvas.onclick = handleCanvasClick;
             
             const img = document.createElement('img');
             img.className = 'map-image';
             img.src = currentMap.src;
             
-            canvas.appendChild(img);
+            mapCanvas.appendChild(img);
             container.innerHTML = '';
-            container.appendChild(canvas);
+            container.appendChild(mapCanvas);
             
             // Add zoom controls to the map container
             const zoomControls = document.createElement('div');
