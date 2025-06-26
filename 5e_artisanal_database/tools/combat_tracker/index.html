@@ -648,6 +648,9 @@ function renderCombatTable() {
 function modifyHp(id, amount) {
     const combatant = combatants.find(c => c.id === id);
     if (combatant) {
+        if (amount > 0 && combatant.currentHp === combatant.maxHp) {
+            combatant.maxHp += amount;
+        }
         combatant.currentHp = Math.max(0, Math.min(combatant.maxHp, combatant.currentHp + amount));
         renderCombatTable();
     }
