@@ -11,9 +11,22 @@ Learn about the licensing of the data of this tool in the license.html file loca
 <style>
 /* Combat Tracker specific styles */
 
-/* Prevent iOS zoom on inputs */
-input, textarea {
+/* Use standard fonts and larger text */
+body {
+    font-family: Arial, sans-serif !important;
     font-size: 16px !important;
+}
+
+/* Make all interactive elements larger */
+input, textarea, select, a {
+    font-size: 16px !important;
+    font-family: Arial, sans-serif !important;
+}
+
+button {
+    font-size: 16px !important;
+    font-family: Arial, sans-serif !important;
+    box-sizing: border-box !important;
 }
 
 /* Remove spinner arrows from all number inputs */
@@ -35,7 +48,8 @@ table {
 
 th, td {
     border: 1px solid #999;
-    padding: 4px;
+    padding: 6px;
+    vertical-align: middle;
 }
 
 th {
@@ -51,10 +65,11 @@ th {
     min-width: 230px;
 }
 .ac-col {
-    width: min-content;
+    width: 45px;
 }
 .hp-col {
-    width: 250px;
+    width: 270px;
+    min-width: 100px;
 }
 
 .controls {
@@ -152,14 +167,14 @@ th {
     background-color: #666;
     color: white;
     border: none;
-    padding: 12px 16px;
+    padding: 8px 12px;
     cursor: pointer;
     font-size: 16px;
     flex: 1;
-    min-width: 80px;
-    max-width: 120px;
+    min-width: 70px;
+    max-width: 100px;
     border-radius: 4px;
-    min-height: 44px;
+    min-height: 32px;
 }
 
 .combat-controls button:hover {
@@ -168,6 +183,7 @@ th {
 </style>
 <title>Combat Tracker - 5e Artisanal Database</title>
 <script src="../../css_js/monster_encounter_stats.js"></script>
+<script src="monsters.js"></script>
 </head>
 <body>
 <div><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</div>
@@ -176,13 +192,15 @@ th {
 
 <div class="controls">
     <h3>Add Combatant</h3>
-    <select id="monsterSource" onchange="loadMonstersFromSource()">
-        <option value="">Loading sources...</option>
-    </select>
-    <div style="position: relative;">
-        <input type="text" id="nameInput" placeholder="Name or search monsters..." required>
-        <div id="monsterResults" style="position: absolute; top: 100%; left: 0; right: 0; max-height: 200px; overflow-y: auto; border: 1px solid #999; background-color: white; display: none; z-index: 1000;">
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
+        <div style="position: relative; width: 250px;">
+            <input type="text" id="nameInput" placeholder="Name or search monsters..." required>
+            <div id="monsterResults" style="position: absolute; top: 100%; left: 0; right: 0; max-height: 200px; overflow-y: auto; border: 1px solid #999; background-color: white; display: none; z-index: 1000;">
+            </div>
         </div>
+        <select id="monsterSource" onchange="loadMonstersFromSource()" style="width: 200px;">
+            <option value="">Loading sources...</option>
+        </select>
     </div>
     <input type="number" id="initiativeInput" placeholder="Initiative (optional)" min="0" max="30">
     <input type="number" id="maxHpInput" placeholder="Max HP (optional)" min="1">
@@ -216,34 +234,21 @@ th {
 <script>
 let combatants = [];
 let currentTurnIndex = 0;
-let round = 1;
 let allMonsters = [];
 let monsters = [];
 let monsterSources = [];
 let selectedSource = '';
 
-// Load monster data from JSON
-async function loadMonstersFromJSON() {
+// Load monster data from included JavaScript
+function loadMonstersFromJS() {
     try {
-        const response = await fetch('../../monsters/monsters.json');
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+        // Check if monster data is available (loaded from monsters.js)
+        if (typeof combatTrackerMonsters === 'undefined') {
+            throw new Error('Monster data not loaded. Make sure monsters.js is included.');
         }
-        const data = await response.json();
         
-        allMonsters = data.map(monster => ({
-            name: monster.name,
-            ac: monster.armor_class || null,
-            hp: monster.hit_points || null,
-            init: monster.dexterity_modifier || 0,
-            source: monster.document__title || 'Unknown'
-        }));
-        
-        // Extract unique sources
-        const sourceSet = new Set(allMonsters.map(m => m.source));
-        monsterSources = Array.from(sourceSet).sort();
-        
-        console.log(`Loaded ${allMonsters.length} monsters from ${monsterSources.length} sources`);
+        allMonsters = combatTrackerMonsters;
+        monsterSources = combatTrackerSources || [];
         
         // Populate source selector
         populateSourceSelector();
@@ -253,7 +258,6 @@ async function loadMonstersFromJSON() {
         
         return true;
     } catch (error) {
-        console.error('Failed to load monsters from JSON:', error);
         // Fall back to dummy data
         return loadDummyMonsters();
     }
@@ -279,8 +283,6 @@ function loadDummyMonsters() {
     
     populateSourceSelector();
     loadMonstersFromSource();
-    
-    console.log('Using dummy monster data');
     return false;
 }
 
@@ -309,12 +311,107 @@ function loadMonstersFromSource() {
         // Filter by selected source
         monsters = allMonsters.filter(monster => monster.source === selectedSource);
     }
-    
-    console.log(`Loaded ${monsters.length} monsters from source: ${selectedSource || 'All Sources'}`);
 }
 
 let selectedMonsterIndex = -1;
 let filteredMonsters = [];
+
+// Function to create monster link if it exists in database
+function getMonsterLink(combatant) {
+    // Use the stored original monster info if available, otherwise fall back to name matching
+    let monsterName, monsterSource;
+    
+    if (combatant.originalMonsterName && combatant.monsterSource) {
+        monsterName = combatant.originalMonsterName;
+        monsterSource = combatant.monsterSource;
+    } else {
+        // Fall back to name matching for backwards compatibility
+        const baseName = combatant.name.replace(/\s+[A-Z]$/, '');
+        const monster = allMonsters.find(m => {
+            const cleanName = m.name.replace(/\s*\([^)]+\)$/, '');
+            return cleanName.toLowerCase() === baseName.toLowerCase();
+        });
+        
+        if (!monster) {
+            return '';
+        }
+        
+        monsterName = baseName;
+        monsterSource = monster.source;
+    }
+    
+    if (monsterName && monsterSource) {
+        // Create URL-friendly monster name based on source
+        let urlName = '';
+        let sourceDir = '';
+        
+        switch(monsterSource) {
+            case '5.1 SRD (2015 MM)':
+                sourceDir = '5.1_srd_(2015_mm)';
+                urlName = monsterName.toLowerCase()
+                    .replace(/'/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/[^a-z0-9-]/g, '');
+                break;
+            case '5.2 SRD (2025 MM)':
+                sourceDir = '5.2_srd_(2025_mm)';
+                urlName = monsterName.toLowerCase()
+                    .replace(/'/g, '')
+                    .replace(/\s+/g, '_')
+                    .replace(/[^a-z0-9_]/g, '') + '_mm_2024';
+                break;
+            case 'A5e Monstrous Menagerie':
+                sourceDir = 'a5e_monstrous_menagerie';
+                urlName = monsterName.toLowerCase()
+                    .replace(/'/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/[^a-z0-9-]/g, '') + '-a5e';
+                break;
+            case 'Black Flag':
+                sourceDir = 'black_flag';
+                urlName = monsterName.toLowerCase()
+                    .replace(/'/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/[^a-z0-9-]/g, '');
+                break;
+            case 'Creature Codex':
+                sourceDir = 'creature_codex';
+                urlName = monsterName.toLowerCase()
+                    .replace(/'/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/[^a-z0-9-]/g, '');
+                break;
+            case 'Tome of Beasts 2':
+                sourceDir = 'tome_of_beasts_2';
+                urlName = monsterName.toLowerCase()
+                    .replace(/'/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/[^a-z0-9-]/g, '');
+                break;
+            case 'Tome of Beasts 2023':
+                sourceDir = 'tome_of_beasts_2023';
+                urlName = monsterName.toLowerCase()
+                    .replace(/'/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/[^a-z0-9-]/g, '');
+                break;
+            case 'Tome of Beasts 3':
+                sourceDir = 'tome_of_beasts_3';
+                urlName = monsterName.toLowerCase()
+                    .replace(/'/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/[^a-z0-9-]/g, '');
+                break;
+            default:
+                return ''; // No link if unknown source
+        }
+        
+        const url = `../../monsters/html/${sourceDir}/${urlName}.html`;
+        return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" style="position: absolute; right: 35px; background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">stats</button>`;
+    }
+    
+    return ''; // No link button if monster not found
+}
 
 function searchMonsters() {
     const searchTerm = document.getElementById('nameInput').value.toLowerCase().trim();
@@ -329,7 +426,7 @@ function searchMonsters() {
     
     filteredMonsters = monsters.filter(monster => 
         monster.name.toLowerCase().includes(searchTerm)
-    ).slice(0, 8);
+    ).slice(0, 15);
     
     if (filteredMonsters.length === 0) {
         resultsDiv.style.display = 'none';
@@ -362,13 +459,19 @@ function selectMonsterByIndex(index) {
 }
 
 function selectMonster(name, ac, hp, init) {
-    // Check how many of this monster type already exist
-    const existingCount = combatants.filter(c => c.name.startsWith(name)).length;
+    // Remove source abbreviation from name (everything in parentheses at the end)
+    const cleanName = name.replace(/\s*\([^)]+\)$/, '');
     
-    let finalName = name;
+    // Find the monster in our database to get its source
+    const monster = allMonsters.find(m => m.name === name);
+    
+    // Check how many of this monster type already exist
+    const existingCount = combatants.filter(c => c.name.startsWith(cleanName)).length;
+    
+    let finalName = cleanName;
     if (existingCount > 0) {
         const suffix = String.fromCharCode(65 + existingCount);
-        finalName = `${name} ${suffix}`;
+        finalName = `${cleanName} ${suffix}`;
     }
     
     document.getElementById('nameInput').value = finalName;
@@ -377,6 +480,12 @@ function selectMonster(name, ac, hp, init) {
     document.getElementById('initiativeInput').value = 10 + init;
     document.getElementById('monsterResults').style.display = 'none';
     document.getElementById('quantityInput').focus();
+    
+    // Store the monster info globally so addCombatant can use it
+    window.selectedMonsterInfo = {
+        originalName: cleanName,
+        source: monster ? monster.source : null
+    };
 }
 
 // Hide monster results when clicking outside
@@ -469,7 +578,9 @@ function addCombatant() {
             initiative: initiative,
             maxHp: maxHp,
             currentHp: maxHp,
-            ac: ac
+            ac: ac,
+            originalMonsterName: window.selectedMonsterInfo ? window.selectedMonsterInfo.originalName : name,
+            monsterSource: window.selectedMonsterInfo ? window.selectedMonsterInfo.source : null
         };
         
         combatants.push(combatant);
@@ -478,6 +589,9 @@ function addCombatant() {
     sortCombatantsByInitiative();
     renderCombatTable();
     clearInputs();
+    
+    // Clear the selected monster info after adding
+    window.selectedMonsterInfo = null;
 }
 
 function sortCombatantsByInitiative() {
@@ -505,21 +619,24 @@ function renderCombatTable() {
         }
         
         row.innerHTML = `
-            <td><input type="number" value="${combatant.initiative}" onchange="updateInitiative(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black;" min="1" max="30"></td>
+            <td><input type="number" value="${combatant.initiative}" onchange="updateInitiative(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black; padding: 1px;" min="1" max="30"></td>
             <td style="position: relative;">
-                <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: calc(100% - 35px); font-weight: bold; color: black;">
-                <button class="remove-btn" onclick="removeCombatant(${combatant.id})" title="Remove" style="position: absolute; right: 2px; top: 50%; transform: translateY(-50%); padding: 4px 8px; font-size: 16px; line-height: 1; min-width: 30px;">×</button>
+                <div style="display: flex; align-items: center; height: 100%;">
+                    <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: calc(100% - 120px); font-weight: bold; color: black; padding: 1px; flex: 1;">
+                    ${getMonsterLink(combatant)}
+                    <button onclick="removeCombatant(${combatant.id})" title="Remove" style="position: absolute; right: 2px; background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 18px !important; font-weight: bold; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">×</button>
+                </div>
             </td>
-            <td><input type="number" value="${combatant.ac || ''}" onchange="updateAC(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black;" min="1" max="30" placeholder="-"></td>
+            <td><input type="number" value="${combatant.ac || ''}" onchange="updateAC(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black; padding: 1px;" min="1" max="30" placeholder="-"></td>
             ${combatant.maxHp ? `<td>
                 <div class="hp-controls">
-                    <button onclick="modifyHp(${combatant.id}, 5)">+5</button>
-                    <button onclick="modifyHp(${combatant.id}, 1)">+1</button>
-                    <input type="text" value="${combatant.currentHp}" onchange="setHp(${combatant.id}, this.value)" style="width: 40px; font-size: 16px; text-align: center; margin: 0; padding: 2px; background-color: white; color: black; border: 1px solid #999;">
+                    <button onclick="modifyHp(${combatant.id}, 5)" style="background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; margin: 0 2px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">+5</button>
+                    <button onclick="modifyHp(${combatant.id}, 1)" style="background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; margin: 0 2px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">+1</button>
+                    <input type="text" value="${combatant.currentHp}" onchange="setHp(${combatant.id}, this.value)" style="width: 35px; font-size: 16px; text-align: center; margin: 0 3px; padding: 1px; background-color: white; color: black; border: 1px solid #999;">
                     <span style="font-size: 16px;">/ </span>
-                    <input type="number" value="${combatant.maxHp}" onchange="setMaxHp(${combatant.id}, this.value)" min="1" style="width: 40px; font-size: 16px; text-align: center; margin: 0; padding: 2px; background-color: white; color: black; border: 1px solid #999;">
-                    <button onclick="modifyHp(${combatant.id}, -1)">-1</button>
-                    <button onclick="modifyHp(${combatant.id}, -5)">-5</button>
+                    <input type="number" value="${combatant.maxHp}" onchange="setMaxHp(${combatant.id}, this.value)" min="1" style="width: 35px; font-size: 16px; text-align: center; margin: 0 3px; padding: 1px; background-color: white; color: black; border: 1px solid #999;">
+                    <button onclick="modifyHp(${combatant.id}, -1)" style="background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; margin: 0 2px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">-1</button>
+                    <button onclick="modifyHp(${combatant.id}, -5)" style="background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; margin: 0 2px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">-5</button>
                 </div>
             </td>` : '<td>-</td>'}
         `;
@@ -779,7 +896,7 @@ renderCombatTable();
 
 // Load monster data when page loads
 document.addEventListener('DOMContentLoaded', function() {
-    loadMonstersFromJSON();
+    loadMonstersFromJS();
 });
 </script>
 
