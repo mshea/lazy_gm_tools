@@ -176,6 +176,9 @@ th {
 
 <div class="controls">
     <h3>Add Combatant</h3>
+    <select id="monsterSource" onchange="loadMonstersFromSource()">
+        <option value="">Loading sources...</option>
+    </select>
     <div style="position: relative;">
         <input type="text" id="nameInput" placeholder="Name or search monsters..." required>
         <div id="monsterResults" style="position: absolute; top: 100%; left: 0; right: 0; max-height: 200px; overflow-y: auto; border: 1px solid #999; background-color: white; display: none; z-index: 1000;">
@@ -214,39 +217,100 @@ th {
 let combatants = [];
 let currentTurnIndex = 0;
 let round = 1;
+let allMonsters = [];
 let monsters = [];
+let monsterSources = [];
+let selectedSource = '';
 
-// Dummy monster data
-const dummyMonsters = [
-    { name: "Goblin", ac: 15, hp: 7, init: 2 },
-    { name: "Orc", ac: 13, hp: 15, init: 1 },
-    { name: "Hobgoblin", ac: 18, hp: 11, init: 1 },
-    { name: "Bugbear", ac: 16, hp: 27, init: 2 },
-    { name: "Ogre", ac: 11, hp: 59, init: -1 },
-    { name: "Troll", ac: 15, hp: 84, init: 0 },
-    { name: "Hill Giant", ac: 13, hp: 105, init: -1 },
-    { name: "Stone Giant", ac: 17, hp: 126, init: 2 },
-    { name: "Fire Giant", ac: 18, hp: 162, init: 0 },
-    { name: "Frost Giant", ac: 15, hp: 138, init: 0 },
-    { name: "Ancient Red Dragon", ac: 22, hp: 546, init: 0 },
-    { name: "Adult Blue Dragon", ac: 19, hp: 225, init: 0 },
-    { name: "Young Green Dragon", ac: 18, hp: 136, init: 2 },
-    { name: "Owlbear", ac: 13, hp: 59, init: 1 },
-    { name: "Displacer Beast", ac: 13, hp: 85, init: 2 },
-    { name: "Bulezau", ac: 14, hp: 52, init: 0 },
-    { name: "Ankheg", ac: 14, hp: 39, init: 0 },
-    { name: "Basilisk", ac: 12, hp: 52, init: -1 },
-    { name: "Beholder", ac: 18, hp: 180, init: 0 },
-    { name: "Mind Flayer", ac: 15, hp: 71, init: 2 }
-];
+// Load monster data from JSON
+async function loadMonstersFromJSON() {
+    try {
+        const response = await fetch('../../monsters/monsters.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        
+        allMonsters = data.map(monster => ({
+            name: monster.name,
+            ac: monster.armor_class || null,
+            hp: monster.hit_points || null,
+            init: monster.dexterity_modifier || 0,
+            source: monster.document__title || 'Unknown'
+        }));
+        
+        // Extract unique sources
+        const sourceSet = new Set(allMonsters.map(m => m.source));
+        monsterSources = Array.from(sourceSet).sort();
+        
+        console.log(`Loaded ${allMonsters.length} monsters from ${monsterSources.length} sources`);
+        
+        // Populate source selector
+        populateSourceSelector();
+        
+        // Load all monsters initially
+        loadMonstersFromSource();
+        
+        return true;
+    } catch (error) {
+        console.error('Failed to load monsters from JSON:', error);
+        // Fall back to dummy data
+        return loadDummyMonsters();
+    }
+}
 
-// Initialize monsters - check if custom monsters.js loaded, otherwise use dummy data
-if (typeof customMonsters !== 'undefined') {
-    monsters = customMonsters;
-    console.log('Loaded custom monsters:', monsters.length);
-} else {
-    monsters = dummyMonsters;
-    console.log('Using dummy monsters:', monsters.length);
+// Fallback dummy monster data
+function loadDummyMonsters() {
+    const dummyMonsters = [
+        { name: "Goblin", ac: 15, hp: 7, init: 2, source: "5.1 SRD (2015 MM)" },
+        { name: "Orc", ac: 13, hp: 15, init: 1, source: "5.1 SRD (2015 MM)" },
+        { name: "Hobgoblin", ac: 18, hp: 11, init: 1, source: "5.1 SRD (2015 MM)" },
+        { name: "Bugbear", ac: 16, hp: 27, init: 2, source: "5.1 SRD (2015 MM)" },
+        { name: "Ogre", ac: 11, hp: 59, init: -1, source: "5.1 SRD (2015 MM)" },
+        { name: "Troll", ac: 15, hp: 84, init: 0, source: "5.1 SRD (2015 MM)" },
+        { name: "Hill Giant", ac: 13, hp: 105, init: -1, source: "5.1 SRD (2015 MM)" },
+        { name: "Stone Giant", ac: 17, hp: 126, init: 2, source: "5.1 SRD (2015 MM)" },
+        { name: "Fire Giant", ac: 18, hp: 162, init: 0, source: "5.1 SRD (2015 MM)" },
+        { name: "Frost Giant", ac: 15, hp: 138, init: 0, source: "5.1 SRD (2015 MM)" }
+    ];
+    
+    allMonsters = dummyMonsters;
+    monsterSources = ["5.1 SRD (2015 MM)"];
+    
+    populateSourceSelector();
+    loadMonstersFromSource();
+    
+    console.log('Using dummy monster data');
+    return false;
+}
+
+// Populate the source selector dropdown
+function populateSourceSelector() {
+    const sourceSelect = document.getElementById('monsterSource');
+    sourceSelect.innerHTML = '<option value="">All Sources</option>';
+    
+    monsterSources.forEach(source => {
+        const option = document.createElement('option');
+        option.value = source;
+        option.textContent = source;
+        sourceSelect.appendChild(option);
+    });
+}
+
+// Load monsters from selected source
+function loadMonstersFromSource() {
+    const sourceSelect = document.getElementById('monsterSource');
+    selectedSource = sourceSelect.value;
+    
+    if (selectedSource === '') {
+        // All sources
+        monsters = allMonsters;
+    } else {
+        // Filter by selected source
+        monsters = allMonsters.filter(monster => monster.source === selectedSource);
+    }
+    
+    console.log(`Loaded ${monsters.length} monsters from source: ${selectedSource || 'All Sources'}`);
 }
 
 let selectedMonsterIndex = -1;
@@ -712,6 +776,11 @@ document.addEventListener('keypress', function(event) {
 
 // Initialize
 renderCombatTable();
+
+// Load monster data when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    loadMonstersFromJSON();
+});
 </script>
 
 </body>
