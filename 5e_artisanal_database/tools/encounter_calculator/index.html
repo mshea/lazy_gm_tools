@@ -80,6 +80,28 @@ th {
     position: relative;
     margin-top: 8px;
 }
+.search-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+}
+.search-input-group {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+.source-select-group {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 120px;
+}
+.search-input-group label,
+.source-select-group label {
+    font-weight: bold;
+    margin-bottom: 3px;
+    font-size: 16px;
+}
 .monster-search {
     width: 100%;
     padding: 8px;
@@ -192,10 +214,30 @@ input, select {
     .button-row .add-button {
         width: 100%;
     }
+    .search-row {
+        flex-direction: column;
+        gap: 8px;
+    }
+    .search-input-group {
+        flex: none !important;
+        min-width: auto !important;
+        width: 100%;
+    }
+    .source-select-group {
+        flex: none !important;
+        min-width: auto !important;
+        width: 100%;
+    }
+    .monster-search, .monster-source-filter {
+        width: 100% !important;
+        box-sizing: border-box;
+    }
 }
 </style>
 <title>5e Encounter Calculator</title>
 <script src="../../css_js/monster_encounter_stats.js"></script>
+<script src="../../css_js/monster-data.js"></script>
+<script src="../../css_js/monster-lookup.js"></script>
 </head>
 <body>
 <p><a href="../../index.html">5e Artisanal Database</a> > 5e Encounter Calculator</p>
@@ -260,31 +302,6 @@ input, select {
         <div class="monster-group">
             <div class="input-row">
                 <div class="input-group">
-                    <label>Number of Monsters</label>
-                    <select class="monster-count" onchange="calculateEncounter()">
-                        <option value="1" selected>1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
-                        <option value="11">11</option>
-                        <option value="12">12</option>
-                        <option value="13">13</option>
-                        <option value="14">14</option>
-                        <option value="15">15</option>
-                        <option value="16">16</option>
-                        <option value="17">17</option>
-                        <option value="18">18</option>
-                        <option value="19">19</option>
-                        <option value="20">20</option>
-                    </select>
-                </div>
-                <div class="input-group">
                     <label>Challenge Rating</label>
                     <select class="monster-cr" onchange="calculateEncounter(); updateMonsterDisplay(this)">
                         <option value="0">0</option>
@@ -323,15 +340,47 @@ input, select {
                         <option value="30">30</option>
                     </select>
                 </div>
+                <div class="input-group">
+                    <label>Number of Monsters</label>
+                    <select class="monster-count" onchange="calculateEncounter()">
+                        <option value="1" selected>1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                    </select>
+                </div>
                 <button type="button" class="remove-button" onclick="removeMonsterGroup(this)" style="display: none;">Remove</button>
             </div>
             <div class="monster-search-container">
-                <label>Monster Search (optional)</label>
-                <input type="text" class="monster-search" placeholder="Search for a monster..." 
-                       oninput="handleMonsterSearch(this)" 
-                       onblur="hideDropdown(this)"
-                       onfocus="showDropdown(this)"
-                       onkeydown="handleSearchKeydown(event, this)">
+                <div class="search-row">
+                    <div class="search-input-group">
+                        <label>Monster Search (optional)</label>
+                        <input type="text" class="monster-search" placeholder="Search for a monster..." 
+                               data-monster-lookup="true">
+                    </div>
+                    <div class="source-select-group">
+                        <label>Source</label>
+                        <select id="monsterSourceFilter" class="monster-source-filter">
+                            <option value="">All Sources</option>
+                        </select>
+                    </div>
+                </div>
                 <div class="monster-dropdown"></div>
                 <div class="monster-name-display"></div>
             </div>
@@ -340,6 +389,7 @@ input, select {
     <div class="button-row">
         <button type="button" class="add-button" onclick="addMonsterGroup()">+ Add Monster Group</button>
         <button type="button" class="add-button" onclick="exportForCombatTracker()">Export for Combat Tracker</button>
+        <button type="button" class="add-button" onclick="openInCombatTracker()">Open in Combat Tracker</button>
     </div>
 </div>
 
@@ -383,45 +433,142 @@ const sampleMonsters = [
     { name: "Zombie", cr: "0.25" }
 ];
 
-let availableMonsters = sampleMonsters;
+// Initialize monster lookup instances for each search input
+let monsterLookupInstances = [];
+window.monsterLookupInstances = monsterLookupInstances; // Expose globally for onclick handlers
+let availableMonsters = [];
 
-if (typeof customMonsters !== 'undefined' && Array.isArray(customMonsters)) {
-    // Handle nested array format: const customMonsters = [[{...}, {...}]]
-    let monsterData = customMonsters;
-    if (customMonsters.length > 0 && Array.isArray(customMonsters[0])) {
-        monsterData = customMonsters[0]; // Extract the inner array
-    }
-    
-    // Validate that customMonsters have the expected structure and convert CR
-    const validMonsters = monsterData.filter(monster => 
-        monster && 
-        typeof monster === 'object' && 
-        typeof monster.name === 'string' && 
-        (typeof monster.cr === 'string' || typeof monster.cr === 'number')
-    ).map(monster => {
-        // Convert decimal CR strings to proper format
-        let cr = monster.cr;
-        if (typeof cr === 'string' && cr.includes('.')) {
-            const numCR = parseFloat(cr);
-            if (numCR < 1) {
-                // Convert decimals like "0.125" to "0.125", "0.25" to "0.25", "0.5" to "0.5"
-                cr = numCR.toString();
-            } else {
-                // Convert whole numbers like "10.000" to "10"
-                cr = Math.floor(numCR).toString();
-            }
+// Load monsters from main database and merge with combat tracker data
+function initializeMonsterData() {
+    try {
+        if (typeof monsterData !== 'undefined' && Array.isArray(monsterData)) {
+            availableMonsters = monsterData.map(monster => {
+                return {
+                    name: monster.name,
+                    cr: monster.cr,
+                    hp: monster.hp,
+                    ac: monster.ac,
+                    init: monster.init,
+                    source: monster.source,
+                    sourceFull: monster.source
+                };
+            });
+            MonsterLookup.populateGlobalSourceFilter(availableMonsters);
+            MonsterLookup.updateAllInstances(availableMonsters);
+        } else {
+            throw new Error('monsterData not available');
         }
-        return { ...monster, cr: cr };
-    });
-    
-    if (validMonsters.length > 0) {
-        availableMonsters = validMonsters;
-        console.log('Loaded ' + validMonsters.length + ' customMonsters from external file');
-    } else {
-        console.log('External customMonsters.js found but no valid customMonsters detected, using sample data');
+    } catch (error) {
+        availableMonsters = sampleMonsters;
+        MonsterLookup.populateGlobalSourceFilter(availableMonsters);
+        MonsterLookup.updateAllInstances(availableMonsters);
     }
-} else {
-    console.log('Using sample monster data');
+}
+
+function updateAllMonsterLookups() {
+    MonsterLookup.updateAllInstances(availableMonsters);
+}
+
+// Helper functions for monster data
+function estimateHPFromCR(cr) {
+    const numCR = parseFloat(cr) || 1;
+    if (numCR <= 0.125) return 7;
+    if (numCR <= 0.25) return 15;
+    if (numCR <= 0.5) return 25;
+    if (numCR <= 1) return 50;
+    if (numCR <= 2) return 70;
+    if (numCR <= 5) return 120;
+    if (numCR <= 10) return 200;
+    if (numCR <= 15) return 300;
+    return Math.floor(numCR * 20);
+}
+
+function getSourceFromDocument(documentId) {
+    // Map document IDs to source names based on the monsters.json data
+    const documentMap = {
+        32: "5.1 SRD",
+        33: "5.2 SRD", 
+        34: "CC",
+        35: "TOB2",
+        37: "A5e",
+        38: "TOB3",
+        46: "BF",
+        47: "TOB"
+    };
+    return documentMap[documentId] || `Doc${documentId}`;
+}
+
+function abbreviateSource(fullSourceName) {
+    // Abbreviate long source names for better display
+    const abbreviations = {
+        "5.1 SRD (2015 MM)": "5.1 SRD",
+        "5.2 SRD (2025 MM)": "5.2 SRD",
+        "Tome of Beasts 2023": "TOB",
+        "Tome of Beasts 2": "TOB2", 
+        "Tome of Beasts 3": "TOB3",
+        "Creature Codex": "CC",
+        "A5e Monstrous Menagerie": "A5e",
+        "Black Flag": "BF"
+    };
+    return abbreviations[fullSourceName] || fullSourceName;
+}
+
+function getFullSourceName(documentId, documentTitle) {
+    // Return full source names for dropdowns
+    if (documentId) {
+        const documentMap = {
+            32: "5.1 SRD (2015 MM)",
+            33: "5.2 SRD (2025 MM)", 
+            34: "Creature Codex",
+            35: "Tome of Beasts 2",
+            37: "A5e Monstrous Menagerie",
+            38: "Tome of Beasts 3",
+            46: "Black Flag",
+            47: "Tome of Beasts 1"  // Use "1" instead of "2023"
+        };
+        return documentMap[documentId] || `Document ${documentId}`;
+    } else if (documentTitle) {
+        // Clean up some names
+        return documentTitle.replace("Tome of Beasts 2023", "Tome of Beasts 1");
+    }
+    return "Unknown";
+}
+
+function updateAllMonsterLookups() {
+    // Update each monster lookup instance with its own source filter
+    monsterLookupInstances.forEach(instance => {
+        if (instance.options.inputElement) {
+            const container = instance.options.inputElement.closest('.monster-search-container');
+            const sourceFilter = container ? container.querySelector('.monster-source-filter') : null;
+            const selectedSource = sourceFilter ? sourceFilter.value : '';
+            
+            instance.options.sourceFilter = (monster) => !selectedSource || monster.sourceFull === selectedSource;
+            instance.handleSearch(instance.options.inputElement.value);
+        }
+    });
+}
+
+function saveFirstGroupSourceSelection() {
+    // Save the first group's source selection to localStorage
+    const firstSourceFilter = document.getElementById('monsterSourceFilter');
+    if (firstSourceFilter) {
+        localStorage.setItem('encounterCalculatorSourceFilter', firstSourceFilter.value);
+    }
+}
+
+// Estimate CR from HP (fallback)
+function estimateCRFromHP(hp) {
+    if (hp <= 10) return "0.125";
+    if (hp <= 25) return "0.25";
+    if (hp <= 50) return "0.5";
+    if (hp <= 70) return "1";
+    if (hp <= 120) return "2";
+    if (hp <= 150) return "3";
+    if (hp <= 200) return "5";
+    if (hp <= 250) return "8";
+    if (hp <= 300) return "10";
+    if (hp <= 400) return "15";
+    return "20";
 }
 
 const xpThresholds2014 = {
@@ -499,108 +646,89 @@ function formatCR(cr) {
     return cr.toString();
 }
 
-function handleMonsterSearch(input) {
-    const query = input.value.toLowerCase().trim();
-    const dropdown = input.parentElement.querySelector('.monster-dropdown');
+// Initialize monster lookup for a specific search input
+function initializeMonsterLookup(searchInput, dropdownElement) {
+    const container = searchInput.closest('.monster-search-container');
+    const sourceFilter = container.querySelector('.monster-source-filter');
     
-    if (query.length === 0) {
-        hideDropdown(input);
-        return;
-    }
-    
-    try {
-        const matches = availableMonsters.filter(monster => 
-            monster && 
-            monster.name && 
-            typeof monster.name === 'string' &&
-            monster.name.toLowerCase().includes(query)
-        ).slice(0, 10);
-        
-        if (matches.length === 0) {
-            hideDropdown(input);
-            return;
+    const lookup = new MonsterLookup({
+        inputElement: searchInput,
+        resultsElement: dropdownElement,
+        cleanNames: true,
+        showStats: false,  // Only show name, CR, and source
+        showSource: true,
+        sourceFilter: (monster) => {
+            const selectedSource = sourceFilter ? sourceFilter.value : '';
+            return !selectedSource || monster.sourceFull === selectedSource;
+        },
+        onMonsterSelect: (monster) => {
+            selectMonster(searchInput, monster);
         }
-        
-        dropdown.innerHTML = '';
-        matches.forEach(monster => {
-            if (monster && monster.name && monster.cr !== undefined) {
-                const div = document.createElement('div');
-                div.className = 'monster-option';
-                div.onclick = function() { selectMonster(this, monster.name, monster.cr); };
-                div.innerHTML = monster.name + '<span class="cr-tag">CR ' + formatCR(monster.cr) + '</span>';
-                dropdown.appendChild(div);
+    });
+    
+    // Override monster data with our available monsters
+    lookup.monsters = availableMonsters;
+    
+    // Add source filter change listener
+    if (sourceFilter) {
+        sourceFilter.addEventListener('change', () => {
+            // If this is the first group, save the selection
+            if (sourceFilter.id === 'monsterSourceFilter') {
+                saveFirstGroupSourceSelection();
             }
+            // Update the source filter and re-run current search
+            const selectedSource = sourceFilter.value;
+            lookup.options.sourceFilter = (monster) => !selectedSource || monster.sourceFull === selectedSource;
+            lookup.handleSearch(searchInput.value);
         });
-        
-        dropdown.style.display = 'block';
-    } catch (error) {
-        console.error('Error in monster search:', error);
-        hideDropdown(input);
     }
+    
+    return lookup;
 }
 
-function selectMonster(element, name, cr) {
-    const container = element.closest('.monster-search-container');
-    const input = container.querySelector('.monster-search');
+function selectMonster(searchInput, monster) {
+    const container = searchInput.closest('.monster-search-container');
     const crSelect = container.closest('.monster-group').querySelector('.monster-cr');
     const nameDisplay = container.querySelector('.monster-name-display');
     
-    input.value = name;
-    crSelect.value = cr;
-    nameDisplay.textContent = name + ' (CR ' + formatCR(cr) + ')';
+    searchInput.value = monster.name;
+    // Ensure CR is converted to string to match dropdown options
+    crSelect.value = String(monster.cr);
+    nameDisplay.textContent = monster.name + ' (CR ' + formatCR(monster.cr) + ')';
     
-    hideDropdown(input);
     calculateEncounter();
 }
 
-function hideDropdown(input) {
-    setTimeout(() => {
-        const dropdown = input.parentElement.querySelector('.monster-dropdown');
-        dropdown.style.display = 'none';
-    }, 200);
-}
-
-function showDropdown(input) {
-    if (input.value.trim().length > 0) {
-        handleMonsterSearch(input);
+// Initialize all monster lookup instances
+function populateSourceFilters() {
+    if (availableMonsters.length === 0) return;
+    
+    const sources = [...new Set(availableMonsters.map(m => m.sourceFull || m.source))].sort();
+    const sourceSelects = document.querySelectorAll('.monster-source-filter');
+    
+    sourceSelects.forEach(sourceSelect => {
+        sourceSelect.innerHTML = '<option value="">All Sources</option>';
+        sources.forEach(source => {
+            if (source) {
+                const option = document.createElement('option');
+                option.value = source;
+                option.textContent = source;
+                sourceSelect.appendChild(option);
+            }
+        });
+    });
+    
+    // Restore saved selection to the first source filter only
+    const firstSourceFilter = document.getElementById('monsterSourceFilter');
+    const savedSelection = localStorage.getItem('encounterCalculatorSourceFilter') || '';
+    if (firstSourceFilter && savedSelection && sources.includes(savedSelection)) {
+        firstSourceFilter.value = savedSelection;
+        // Update the monster lookup for the first group
+        updateAllMonsterLookups();
     }
 }
 
-function handleSearchKeydown(event, input) {
-    const dropdown = input.parentElement.querySelector('.monster-dropdown');
-    const options = dropdown.querySelectorAll('.monster-option');
-    
-    if (options.length === 0) return;
-    
-    let highlighted = dropdown.querySelector('.highlighted');
-    
-    if (event.key === 'ArrowDown') {
-        event.preventDefault();
-        if (!highlighted) {
-            options[0].classList.add('highlighted');
-        } else {
-            highlighted.classList.remove('highlighted');
-            const next = highlighted.nextElementSibling || options[0];
-            next.classList.add('highlighted');
-        }
-    } else if (event.key === 'ArrowUp') {
-        event.preventDefault();
-        if (!highlighted) {
-            options[options.length - 1].classList.add('highlighted');
-        } else {
-            highlighted.classList.remove('highlighted');
-            const prev = highlighted.previousElementSibling || options[options.length - 1];
-            prev.classList.add('highlighted');
-        }
-    } else if (event.key === 'Enter') {
-        event.preventDefault();
-        if (highlighted) {
-            highlighted.click();
-        }
-    } else if (event.key === 'Escape') {
-        hideDropdown(input);
-    }
-}
+
 
 function updateMonsterDisplay(crSelect) {
     const container = crSelect.closest('.monster-group');
@@ -692,30 +820,92 @@ function addMonsterGroup() {
     const container = document.getElementById('monsterGroups');
     const newGroup = document.createElement('div');
     newGroup.className = 'monster-group';
+    newGroup.dataset.lookupId = monsterLookupInstances.length;
     
     newGroup.innerHTML = '<div class="input-row">' +
-        '<div class="input-group">' +
-        '<label>Number of Monsters</label>' +
-        '<select class="monster-count" onchange="calculateEncounter()">' +
-        createMonsterCountOptions() +
-        '</select></div>' +
         '<div class="input-group">' +
         '<label>Challenge Rating</label>' +
         '<select class="monster-cr" onchange="calculateEncounter(); updateMonsterDisplay(this)">' +
         createCROptions() +
         '</select></div>' +
+        '<div class="input-group">' +
+        '<label>Number of Monsters</label>' +
+        '<select class="monster-count" onchange="calculateEncounter()">' +
+        createMonsterCountOptions() +
+        '</select></div>' +
         '<button type="button" class="remove-button" onclick="removeMonsterGroup(this)">Remove</button>' +
         '</div>' +
         '<div class="monster-search-container">' +
+        '<div class="search-row">' +
+        '<div class="search-input-group">' +
         '<label>Monster Search (optional)</label>' +
         '<input type="text" class="monster-search" placeholder="Search for a monster..." ' +
-        'oninput="handleMonsterSearch(this)" onblur="hideDropdown(this)" ' +
-        'onfocus="showDropdown(this)" onkeydown="handleSearchKeydown(event, this)">' +
+        'data-monster-lookup="true">' +
+        '</div>' +
+        '<div class="source-select-group">' +
+        '<label>Source</label>' +
+        '<select class="monster-source-filter">' +
+        '<option value="">All Sources</option>' +
+        '</select>' +
+        '</div>' +
+        '</div>' +
         '<div class="monster-dropdown"></div>' +
         '<div class="monster-name-display"></div>' +
         '</div>';
     
     container.appendChild(newGroup);
+    
+    // Initialize monster lookup for the new group
+    const newSearchInput = newGroup.querySelector('.monster-search');
+    const newDropdown = newGroup.querySelector('.monster-dropdown');
+    const newSourceFilter = newGroup.querySelector('.monster-source-filter');
+    
+    // Populate source filter for new group
+    if (newSourceFilter && availableMonsters.length > 0) {
+        const sources = [...new Set(availableMonsters.map(m => m.sourceFull))].sort();
+        newSourceFilter.innerHTML = '<option value="">All Sources</option>';
+        sources.forEach(source => {
+            if (source) {
+                const option = document.createElement('option');
+                option.value = source;
+                option.textContent = source;
+                newSourceFilter.appendChild(option);
+            }
+        });
+        
+        // Inherit source selection from first group
+        const firstSourceFilter = document.getElementById('monsterSourceFilter');
+        if (firstSourceFilter && firstSourceFilter.value) {
+            newSourceFilter.value = firstSourceFilter.value;
+        }
+    }
+    
+    if (newSearchInput && newDropdown) {
+        const lookup = new MonsterLookup({
+            inputElement: newSearchInput,
+            resultsElement: newDropdown,
+            cleanNames: true,
+            showStats: false,
+            showSource: true,
+            onMonsterSelect: (monster) => {
+                selectMonster(newSearchInput, monster);
+            }
+        });
+        monsterLookupInstances.push(lookup);
+        newGroup.dataset.lookupId = monsterLookupInstances.length - 1;
+        lookup.monsters = availableMonsters; // Set monsters for the new instance
+        
+        // Set up source filtering for this specific instance
+        if (newSourceFilter) {
+            newSourceFilter.addEventListener('change', () => {
+                // Update the source filter and re-run current search for this instance
+                const selectedSource = newSourceFilter.value;
+                lookup.options.sourceFilter = (monster) => !selectedSource || monster.sourceFull === selectedSource;
+                lookup.handleSearch(newSearchInput.value);
+            });
+        }
+    }
+    
     updateRemoveButtons();
     calculateEncounter();
 }
@@ -910,18 +1100,24 @@ function exportForCombatTracker() {
         
         // Find monster data from our available list
         const monsterData = availableMonsters.find(m => m.name === monsterName);
-        console.log('Display text:', displayText, 'Extracted name:', monsterName, 'Found:', monsterData);
+        
         
         for (let i = 0; i < count; i++) {
             const finalName = count > 1 ? `${monsterName} ${String.fromCharCode(65 + i)}` : monsterName;
             
+            // Find monster in availableMonsters array for better data
+            const encounterMonster = availableMonsters.find(m => m.name === monsterName);
+            const sourceMonster = monsterData || encounterMonster;
+            
             const combatant = {
                 id: combatantId++,
                 name: finalName,
-                initiative: monsterData ? (10 + (monsterData.init || 0)) : 10,
-                maxHp: monsterData ? monsterData.hp : null,
-                currentHp: monsterData ? monsterData.hp : null,
-                ac: monsterData ? monsterData.ac : null
+                initiative: sourceMonster ? (10 + (sourceMonster.init || 0)) : 10,
+                maxHp: sourceMonster ? sourceMonster.hp : null,
+                currentHp: sourceMonster ? sourceMonster.hp : null,
+                ac: sourceMonster ? sourceMonster.ac : null,
+                originalMonsterName: monsterName,
+                monsterSource: sourceMonster ? sourceMonster.source : null
             };
             
             combatants.push(combatant);
@@ -951,8 +1147,78 @@ function exportForCombatTracker() {
     URL.revokeObjectURL(link.href);
 }
 
-calculateEncounter();
-updateRemoveButtons();
+function openInCombatTracker() {
+    const monsterGroups = document.querySelectorAll('.monster-group');
+    const combatants = [];
+    let combatantId = Date.now();
+    
+    monsterGroups.forEach(group => {
+        const countSelect = group.querySelector('.monster-count');
+        const crSelect = group.querySelector('.monster-cr');
+        const nameDisplay = group.querySelector('.monster-name-display');
+        
+        const count = parseInt(countSelect.value) || 1;
+        const cr = crSelect.value;
+        const displayText = nameDisplay.textContent || 'Unknown Monster';
+        const monsterName = displayText.replace(/ \(CR .*\)$/, '');
+        
+        // Find monster in availableMonsters array for better data
+        const encounterMonster = availableMonsters.find(m => m.name === monsterName);
+        
+        for (let i = 0; i < count; i++) {
+            const finalName = count > 1 ? `${monsterName} ${String.fromCharCode(65 + i)}` : monsterName;
+            
+            const combatant = {
+                id: combatantId++,
+                name: finalName,
+                initiative: encounterMonster ? (10 + (encounterMonster.init || 0)) : 10,
+                maxHp: encounterMonster ? encounterMonster.hp : null,
+                currentHp: encounterMonster ? encounterMonster.hp : null,
+                ac: encounterMonster ? encounterMonster.ac : null,
+                originalMonsterName: monsterName,
+                monsterSource: encounterMonster ? encounterMonster.source : null
+            };
+            
+            combatants.push(combatant);
+        }
+    });
+    
+    if (combatants.length === 0) {
+        alert('No monsters to transfer. Please add some monsters first.');
+        return;
+    }
+    
+    const combatData = {
+        combatants: combatants,
+        currentTurnIndex: 0,
+        importDate: new Date().toISOString()
+    };
+    
+    // Save data to sessionStorage
+    sessionStorage.setItem('combatTrackerImportData', JSON.stringify(combatData));
+    
+    // Open combat tracker in new window/tab
+    const combatTrackerUrl = `../combat_tracker/index.html?import=session`;
+    window.open(combatTrackerUrl, '_blank');
+}
+
+// Initialize everything when the page loads
+document.addEventListener('DOMContentLoaded', function() {
+    initializeMonsterData();
+    
+    // Initialize monster lookup for the first monster group
+    const firstSearchInput = document.querySelector('.monster-search');
+    const firstDropdown = document.querySelector('.monster-dropdown');
+    const firstMonsterGroup = document.querySelector('.monster-group');
+    if (firstSearchInput && firstDropdown && firstMonsterGroup) {
+        const lookup = initializeMonsterLookup(firstSearchInput, firstDropdown);
+        monsterLookupInstances.push(lookup);
+        firstMonsterGroup.dataset.lookupId = '0'; // Set the lookup ID for the first group
+    }
+    
+    
+    calculateEncounter();
+});
 </script>
 
 </body>

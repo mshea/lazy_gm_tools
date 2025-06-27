@@ -180,10 +180,55 @@ th {
 .combat-controls button:hover {
     background-color: #555;
 }
+
+/* Monster search styling to match encounter calculator */
+.search-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+}
+
+.search-input-group {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.source-select-group {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 120px;
+}
+
+.search-input-group label,
+.source-select-group label {
+    font-weight: bold;
+    margin-bottom: 3px;
+    font-size: 16px;
+}
+
+.monster-search {
+    width: 100%;
+    padding: 2px 6px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+select {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
 </style>
 <title>Combat Tracker - 5e Artisanal Database</title>
 <script src="../../css_js/monster_encounter_stats.js"></script>
-<script src="monsters.js"></script>
+<script src="../../css_js/monster-data.js"></script>
 </head>
 <body>
 <div><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</div>
@@ -192,21 +237,28 @@ th {
 
 <div class="controls">
     <h3>Add Combatant</h3>
-    <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
-        <div style="position: relative; width: 250px;">
-            <input type="text" id="nameInput" placeholder="Name or search monsters..." required>
-            <div id="monsterResults" style="position: absolute; top: 100%; left: 0; right: 0; max-height: 200px; overflow-y: auto; border: 1px solid #999; background-color: white; display: none; z-index: 1000;">
+    <div class="search-row">
+        <div class="search-input-group">
+            <label>Monster Search</label>
+            <div style="position: relative;">
+                <input type="text" id="nameInput" class="monster-search" placeholder="Name or search monsters..." required>
+                <div id="monsterResults" style="position: absolute; top: 100%; left: 0; right: 0; max-height: 200px; overflow-y: auto; border: 1px solid #999; background-color: white; display: none; z-index: 1000;">
+                </div>
             </div>
         </div>
-        <select id="monsterSource" onchange="loadMonstersFromSource()" style="width: 200px;">
-            <option value="">Loading sources...</option>
-        </select>
+        <div class="source-select-group">
+            <label>Source</label>
+            <select id="monsterSource" class="monster-source-filter" onchange="loadMonstersFromSource()">
+                <option value="">Loading sources...</option>
+            </select>
+        </div>
     </div>
     <input type="number" id="initiativeInput" placeholder="Initiative (optional)" min="0" max="30">
     <input type="number" id="maxHpInput" placeholder="Max HP (optional)" min="1">
     <input type="number" id="acInput" placeholder="AC (optional)" min="1" max="30">
     <input type="number" id="quantityInput" placeholder="Qty" min="1" max="20" value="1" style="width: 50px;">
     <button onclick="addCombatant()">Add Combatant</button>
+</div>
 </div>
 
 <div class="combat-controls">
@@ -242,13 +294,13 @@ let selectedSource = '';
 // Load monster data from included JavaScript
 function loadMonstersFromJS() {
     try {
-        // Check if monster data is available (loaded from monsters.js)
-        if (typeof combatTrackerMonsters === 'undefined') {
-            throw new Error('Monster data not loaded. Make sure monsters.js is included.');
+        // Check if monster data is available (loaded from monster-data.js)
+        if (typeof monsterData === 'undefined') {
+            throw new Error('Monster data not loaded. Make sure monster-data.js is included.');
         }
         
-        allMonsters = combatTrackerMonsters;
-        monsterSources = combatTrackerSources || [];
+        allMonsters = monsterData;
+        monsterSources = [...new Set(monsterData.map(m => m.source))].sort();
         
         // Populate source selector
         populateSourceSelector();
@@ -319,98 +371,50 @@ let filteredMonsters = [];
 // Function to create monster link if it exists in database
 function getMonsterLink(combatant) {
     // Use the stored original monster info if available, otherwise fall back to name matching
-    let monsterName, monsterSource;
+    let monsterName = combatant.originalMonsterName || combatant.name.replace(/\s+[A-Z]$/, '');
+    let monsterSource = combatant.monsterSource;
     
-    if (combatant.originalMonsterName && combatant.monsterSource) {
-        monsterName = combatant.originalMonsterName;
-        monsterSource = combatant.monsterSource;
-    } else {
-        // Fall back to name matching for backwards compatibility
-        const baseName = combatant.name.replace(/\s+[A-Z]$/, '');
-        const monster = allMonsters.find(m => {
-            const cleanName = m.name.replace(/\s*\([^)]+\)$/, '');
-            return cleanName.toLowerCase() === baseName.toLowerCase();
-        });
-        
-        if (!monster) {
-            return '';
-        }
-        
-        monsterName = baseName;
-        monsterSource = monster.source;
+    if (!monsterName || !monsterSource) {
+        return '';
     }
     
-    if (monsterName && monsterSource) {
-        // Create URL-friendly monster name based on source
-        let urlName = '';
-        let sourceDir = '';
-        
-        switch(monsterSource) {
-            case '5.1 SRD (2015 MM)':
-                sourceDir = '5.1_srd_(2015_mm)';
-                urlName = monsterName.toLowerCase()
-                    .replace(/'/g, '')
-                    .replace(/\s+/g, '-')
-                    .replace(/[^a-z0-9-]/g, '');
-                break;
-            case '5.2 SRD (2025 MM)':
-                sourceDir = '5.2_srd_(2025_mm)';
-                urlName = monsterName.toLowerCase()
-                    .replace(/'/g, '')
-                    .replace(/\s+/g, '_')
-                    .replace(/[^a-z0-9_]/g, '') + '_mm_2024';
-                break;
-            case 'A5e Monstrous Menagerie':
-                sourceDir = 'a5e_monstrous_menagerie';
-                urlName = monsterName.toLowerCase()
-                    .replace(/'/g, '')
-                    .replace(/\s+/g, '-')
-                    .replace(/[^a-z0-9-]/g, '') + '-a5e';
-                break;
-            case 'Black Flag':
-                sourceDir = 'black_flag';
-                urlName = monsterName.toLowerCase()
-                    .replace(/'/g, '')
-                    .replace(/\s+/g, '-')
-                    .replace(/[^a-z0-9-]/g, '');
-                break;
-            case 'Creature Codex':
-                sourceDir = 'creature_codex';
-                urlName = monsterName.toLowerCase()
-                    .replace(/'/g, '')
-                    .replace(/\s+/g, '-')
-                    .replace(/[^a-z0-9-]/g, '');
-                break;
-            case 'Tome of Beasts 2':
-                sourceDir = 'tome_of_beasts_2';
-                urlName = monsterName.toLowerCase()
-                    .replace(/'/g, '')
-                    .replace(/\s+/g, '-')
-                    .replace(/[^a-z0-9-]/g, '');
-                break;
-            case 'Tome of Beasts 2023':
-                sourceDir = 'tome_of_beasts_2023';
-                urlName = monsterName.toLowerCase()
-                    .replace(/'/g, '')
-                    .replace(/\s+/g, '-')
-                    .replace(/[^a-z0-9-]/g, '');
-                break;
-            case 'Tome of Beasts 3':
-                sourceDir = 'tome_of_beasts_3';
-                urlName = monsterName.toLowerCase()
-                    .replace(/'/g, '')
-                    .replace(/\s+/g, '-')
-                    .replace(/[^a-z0-9-]/g, '');
-                break;
-            default:
-                return ''; // No link if unknown source
-        }
-        
-        const url = `../../monsters/html/${sourceDir}/${urlName}.html`;
-        return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" style="position: absolute; right: 35px; background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">stats</button>`;
+    // Generate source directory and filename based on source
+    let sourceDir = '';
+    let fileName = '';
+    
+    // Map source names to directory names and filename patterns
+    const sourceMap = {
+        "5.1 SRD (2015 MM)": { dir: "5.1_srd_(2015_mm)", suffix: "" },
+        "5.2 SRD (2025 MM)": { dir: "5.2_srd_(2025_mm)", suffix: "_mm_2024" },
+        "A5e Monstrous Menagerie": { dir: "a5e_monstrous_menagerie", suffix: "-a5e" },
+        "Black Flag": { dir: "black_flag", suffix: "_bf" },
+        "Creature Codex": { dir: "creature_codex", suffix: "-cc" },
+        "Tome of Beasts 2": { dir: "tome_of_beasts_2", suffix: "-tob2" },
+        "Tome of Beasts 2023": { dir: "tome_of_beasts_2023", suffix: "-tob1-2023" },
+        "Tome of Beasts 3": { dir: "tome_of_beasts_3", suffix: "-tob3" }
+    };
+
+    const sourceInfo = sourceMap[monsterSource];
+
+    if (!sourceInfo) {
+        return ''; // Source not supported for direct linking
+    }
+
+    sourceDir = sourceInfo.dir;
+    
+    // Standardize filename generation: lowercase, replace spaces with hyphens, remove special chars
+    fileName = monsterName.toLowerCase()
+        .replace(/[^a-z0-9\s]/g, '') // Remove special chars
+        .replace(/\s+/g, '-') // Replace spaces with hyphens
+        .replace(/-+/g, '-'); // Remove multiple hyphens
+    
+    // Add specific suffix if it exists
+    if (sourceInfo.suffix) {
+        fileName += sourceInfo.suffix;
     }
     
-    return ''; // No link button if monster not found
+    const url = `../../monsters/html/${sourceDir}/${fileName}.html`;
+    return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" style="position: absolute; right: 45px; background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">stats</button>`;
 }
 
 function searchMonsters() {
@@ -446,7 +450,7 @@ function renderMonsterResults() {
               onclick="selectMonsterByIndex(${index})"
               onmouseover="this.style.backgroundColor='#f0f0f0'" 
               onmouseout="this.style.backgroundColor='${index === selectedMonsterIndex ? '#e0e0e0' : 'white'}'">
-            <strong>${monster.name}</strong> - AC ${monster.ac}, HP ${monster.hp}, Init ${monster.init >= 0 ? '+' + monster.init : monster.init}
+            <strong>${monster.name}</strong> - AC ${monster.ac}, HP ${monster.hp}, Init ${monster.init >= 0 ? '+' + monster.init : monster.init} <span style="color: #666;">(${abbreviateSource(monster.source)})</span>
          </div>`
     ).join('');
 }
@@ -454,16 +458,13 @@ function renderMonsterResults() {
 function selectMonsterByIndex(index) {
     if (index >= 0 && index < filteredMonsters.length) {
         const monster = filteredMonsters[index];
-        selectMonster(monster.name, monster.ac, monster.hp, monster.init);
+        selectMonster(monster);
     }
 }
 
-function selectMonster(name, ac, hp, init) {
+function selectMonster(monster) {
     // Remove source abbreviation from name (everything in parentheses at the end)
-    const cleanName = name.replace(/\s*\([^)]+\)$/, '');
-    
-    // Find the monster in our database to get its source
-    const monster = allMonsters.find(m => m.name === name);
+    const cleanName = monster.name.replace(/\s*\([^)]+\)$/, '');
     
     // Check how many of this monster type already exist
     const existingCount = combatants.filter(c => c.name.startsWith(cleanName)).length;
@@ -475,16 +476,17 @@ function selectMonster(name, ac, hp, init) {
     }
     
     document.getElementById('nameInput').value = finalName;
-    document.getElementById('acInput').value = ac;
-    document.getElementById('maxHpInput').value = hp;
-    document.getElementById('initiativeInput').value = 10 + init;
+    document.getElementById('acInput').value = monster.ac;
+    document.getElementById('maxHpInput').value = monster.hp;
+    document.getElementById('initiativeInput').value = 10 + monster.init;
     document.getElementById('monsterResults').style.display = 'none';
     document.getElementById('quantityInput').focus();
     
     // Store the monster info globally so addCombatant can use it
     window.selectedMonsterInfo = {
         originalName: cleanName,
-        source: monster ? monster.source : null
+        source: monster.source,
+        slug: monster.slug // Store slug for direct linking
     };
 }
 
@@ -606,6 +608,21 @@ function clearInputs() {
     document.getElementById('quantityInput').value = '1';
 }
 
+function abbreviateSource(fullSourceName) {
+    // Abbreviate long source names for better display
+    const abbreviations = {
+        "5.1 SRD (2015 MM)": "5.1 SRD",
+        "5.2 SRD (2025 MM)": "5.2 SRD",
+        "Tome of Beasts 2023": "TOB",
+        "Tome of Beasts 2": "TOB2", 
+        "Tome of Beasts 3": "TOB3",
+        "Creature Codex": "CC",
+        "A5e Monstrous Menagerie": "A5e",
+        "Black Flag": "BF"
+    };
+    return abbreviations[fullSourceName] || fullSourceName;
+}
+
 function renderCombatTable() {
     const tbody = document.getElementById('combatBody');
     tbody.innerHTML = '';
@@ -620,11 +637,12 @@ function renderCombatTable() {
         
         row.innerHTML = `
             <td><input type="number" value="${combatant.initiative}" onchange="updateInitiative(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black; padding: 1px;" min="1" max="30"></td>
-            <td style="position: relative;">
+            <td style="position: relative; padding-right: 100px;">
                 <div style="display: flex; align-items: center; height: 100%;">
-                    <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: calc(100% - 120px); font-weight: bold; color: black; padding: 1px; flex: 1;">
+                    <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; font-weight: bold; color: black; padding: 1px; flex: 1;">
+                    
                     ${getMonsterLink(combatant)}
-                    <button onclick="removeCombatant(${combatant.id})" title="Remove" style="position: absolute; right: 2px; background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 18px !important; font-weight: bold; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">×</button>
+                    <button onclick="removeCombatant(${combatant.id})" title="Remove" style="position: absolute; right: 5px; background-color: #666 !important; color: white !important; border: none !important; padding: 4px 10px !important; cursor: pointer; font-size: 18px !important; font-weight: bold; border-radius: 3px !important; line-height: 18px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">×</button>
                 </div>
             </td>
             <td><input type="number" value="${combatant.ac || ''}" onchange="updateAC(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black; padding: 1px;" min="1" max="30" placeholder="-"></td>
@@ -821,47 +839,10 @@ function importCombat(event) {
     
     const reader = new FileReader();
     reader.onload = function(e) {
-        try {
-            const combatData = JSON.parse(e.target.result);
-            
-            // Validate the data structure
-            if (!combatData.combatants || !Array.isArray(combatData.combatants)) {
-                alert('Invalid combat file format.');
-                return;
-            }
-            
-            // Validate each combatant has required fields
-            for (const combatant of combatData.combatants) {
-                if (!combatant.name || typeof combatant.initiative !== 'number' || !combatant.id) {
-                    alert('Invalid combatant data in file.');
-                    return;
-                }
-            }
-            
-            // Import the data - append to existing combatants instead of replacing
-            const newCombatants = combatData.combatants;
-            
-            // Generate new IDs for imported combatants to avoid conflicts
-            newCombatants.forEach(combatant => {
-                combatant.id = Date.now() + Math.random();
-            });
-            
-            // Add new combatants to existing list
-            combatants.push(...newCombatants);
-            
-            // Resort by initiative
-            sortCombatantsByInitiative();
-            
-            // Keep current turn index if we had combatants, otherwise start fresh
-            if (combatants.length > 0 && currentTurnIndex >= combatants.length) {
-                currentTurnIndex = 0;
-            }
-            
-            renderCombatTable();
-            
-        } catch (error) {
+        const success = importCombatFromJSON(e.target.result);
+        
+        if (!success) {
             alert('Error reading combat file. Please check the file format.');
-            console.error('Import error:', error);
         }
     };
     
@@ -894,12 +875,102 @@ document.addEventListener('keypress', function(event) {
     }
 });
 
+// Function to import combat data from JSON string
+function importCombatFromJSON(jsonString) {
+    try {
+        const combatData = JSON.parse(jsonString);
+        
+        // Validate the data structure
+        if (!combatData.combatants || !Array.isArray(combatData.combatants)) {
+            console.error('Invalid combat file format.');
+            return false;
+        }
+        
+        // Validate each combatant has required fields
+        for (const combatant of combatData.combatants) {
+            if (!combatant.name || typeof combatant.initiative !== 'number' || !combatant.id) {
+                console.error('Invalid combatant data in file.');
+                return false;
+            }
+        }
+        
+        // Import the data - append to existing combatants instead of replacing
+        const newCombatants = combatData.combatants;
+        
+        // Generate new IDs for imported combatants to avoid conflicts
+        newCombatants.forEach(combatant => {
+            combatant.id = Date.now() + Math.random();
+        });
+        
+        // Add new combatants to existing list
+        combatants.push(...newCombatants);
+        
+        // Resort by initiative
+        sortCombatantsByInitiative();
+        
+        // Keep current turn index if we had combatants, otherwise start fresh
+        if (combatants.length > 0 && currentTurnIndex >= combatants.length) {
+            currentTurnIndex = 0;
+        }
+        
+        renderCombatTable();
+        return true;
+        
+    } catch (error) {
+        console.error('Error parsing combat JSON:', error);
+        return false;
+    }
+}
+
+// Function to check for URL parameters and auto-import
+function checkURLImportParameter() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const importParam = urlParams.get('import');
+    
+    if (importParam === 'session') {
+        const combatDataJSON = sessionStorage.getItem('combatTrackerImportData');
+        if (combatDataJSON) {
+            const success = importCombatFromJSON(combatDataJSON);
+            if (success) {
+                console.log('Combat data imported successfully from session storage');
+                sessionStorage.removeItem('combatTrackerImportData'); // Clean up
+            } else {
+                console.error('Failed to import combat data from session storage');
+            }
+        }
+    } else if (importParam) {
+        try {
+            // Decode the URL-encoded JSON
+            const decodedJSON = decodeURIComponent(importParam);
+            
+            // Import the combat data
+            const success = importCombatFromJSON(decodedJSON);
+            
+            if (success) {
+                console.log('Combat data imported successfully from URL parameter');
+                
+                // Optional: Remove the import parameter from URL to clean it up
+                const newURL = new URL(window.location);
+                newURL.searchParams.delete('import');
+                window.history.replaceState({}, document.title, newURL.pathname + newURL.search);
+            } else {
+                console.error('Failed to import combat data from URL parameter');
+            }
+        } catch (error) {
+            
+        }
+    }
+}
+
 // Initialize
 renderCombatTable();
 
 // Load monster data when page loads
 document.addEventListener('DOMContentLoaded', function() {
     loadMonstersFromJS();
+    
+    // Check for URL import parameter after loading monsters
+    checkURLImportParameter();
 });
 </script>
 
