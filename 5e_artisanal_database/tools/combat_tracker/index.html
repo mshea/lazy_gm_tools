@@ -23,6 +23,11 @@ input, textarea, select, a {
     font-family: Arial, sans-serif !important;
 }
 
+/* Ensure text inputs are left-aligned */
+input[type="text"] {
+    text-align: left !important;
+}
+
 button {
     font-size: 16px !important;
     font-family: Arial, sans-serif !important;
@@ -215,6 +220,7 @@ th {
     border: 1px solid #ccc;
     border-radius: 3px;
     box-sizing: border-box;
+    text-align: left;
 }
 
 select {
@@ -296,10 +302,8 @@ select {
 <h1>Combat Tracker</h1>
 
 <div class="controls">
-    <h3>Add Combatant</h3>
     <div class="search-row">
         <div class="search-input-group">
-            <label>Monster Search</label>
             <div style="position: relative;">
                 <input type="text" id="nameInput" class="monster-search" placeholder="Name or search monsters..." required>
                 <div id="monsterResults" style="position: absolute; top: 100%; left: 0; right: 0; max-height: 200px; overflow-y: auto; border: 1px solid #999; background-color: white; display: none; z-index: 1000;">
@@ -307,15 +311,14 @@ select {
             </div>
         </div>
         <div class="source-select-group">
-            <label>Source</label>
             <select id="monsterSource" class="monster-source-filter" onchange="loadMonstersFromSource()">
                 <option value="">Loading sources...</option>
             </select>
         </div>
     </div>
-    <input type="number" id="initiativeInput" placeholder="Initiative (optional)" min="0" max="30">
-    <input type="number" id="maxHpInput" placeholder="Max HP (optional)" min="1">
-    <input type="number" id="acInput" placeholder="AC (optional)" min="1" max="30">
+    <input type="number" id="initiativeInput" placeholder="Init" min="0" max="30">
+    <input type="number" id="maxHpInput" placeholder="Max HP" min="1">
+    <input type="number" id="acInput" placeholder="AC" min="1" max="30">
     <input type="number" id="quantityInput" placeholder="Qty" min="1" max="20" value="1" style="width: 50px;">
     <button onclick="addCombatant()">Add Combatant</button>
 </div>
