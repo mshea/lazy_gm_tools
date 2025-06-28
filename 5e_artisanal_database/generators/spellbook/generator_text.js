@@ -30,6 +30,13 @@ function getWizardSpells() {
 }
 
 // Custom generation function for spellbook
+const sourceDirectoryMap = {
+    "wotc-srd": "5.1_srd_(d&d_2014)",
+    "a5e": "a5e",
+    "dmag": "deep_magic_5e"
+    // Add other mappings as needed
+};
+
 function generateSpellbook() {
     const wizardLevel = parseInt(document.getElementById('wizard-level').value);
     const wizardSpells = getWizardSpells();
@@ -46,7 +53,8 @@ function generateSpellbook() {
     
     spells.forEach(spell => {
         const levelText = spell.level_int === 0 ? 'Cantrip' : `${spell.level_int}${getOrdinalSuffix(spell.level_int)} level`;
-        output += `<li><em><a href="../../spells/html/${spell.document__slug}/${spell.slug}.html" target="_blank">${spell.name}</a></em> (${levelText})</li>`;
+        const sourceDir = sourceDirectoryMap[spell.document__slug] || spell.document__slug; // Fallback to slug if not mapped
+        output += `<li><em><a href="../../spells/html/${sourceDir}/${spell.slug}.html" target="_blank">${spell.name}</a></em> (${levelText})</li>`;
     });
     
     output += '</ol></div>';
