@@ -11,6 +11,7 @@ Learn about the licensing of the data of this tool in the license.html file loca
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
 <style>
+/* Base Styles */
 body {
     max-width: 800px;
     margin: auto;
@@ -41,74 +42,85 @@ th, td {
 th {
     background-color: #f0f0f0;
 }
-.input-section {
+
+/* Common Layout Classes */
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+.flex-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+/* Section Base */
+.section-base {
     margin: 15px 0;
     padding: 10px;
-    border: 2px solid #ccc;
+    border: 2px solid;
     border-radius: 5px;
+}
+.input-section {
+    border-color: #ccc;
+}
+.results {
+    border-color: #333;
+    padding: 12px;
+    background-color: #f8f8f8;
 }
 .input-section h3, .results h3 {
     margin-top: 0;
     margin-bottom: 10px;
 }
-.character-group, .monster-group {
+
+/* Input Groups */
+.input-group-base {
     display: flex;
     flex-direction: column;
+    min-width: 120px;
+}
+.character-group, .monster-group {
     gap: 8px;
     margin: 8px 0;
     padding: 8px;
     background-color: #f9f9f9;
     border-radius: 3px;
 }
-.input-row {
-    display: flex;
-    gap: 12px;
-    align-items: flex-end;
-    flex-wrap: wrap;
-}
-.input-group {
-    display: flex;
-    flex-direction: column;
-    min-width: 120px;
-}
-.input-group label {
-    font-weight: bold;
-    margin-bottom: 3px;
-    font-size: 16px;
-}
-.monster-search-container {
-    position: relative;
-    margin-top: 8px;
-}
-.search-row {
-    display: flex;
-    gap: 12px;
-    align-items: flex-end;
-}
 .search-input-group {
     flex: 2;
-    display: flex;
-    flex-direction: column;
 }
 .source-select-group {
     flex: 1;
-    display: flex;
-    flex-direction: column;
     min-width: 120px;
 }
+
+/* Label Styling */
+.input-group label,
 .search-input-group label,
 .source-select-group label {
     font-weight: bold;
     margin-bottom: 3px;
     font-size: 16px;
 }
-.monster-search {
-    width: 100%;
+
+/* Input Base Styling */
+input, select, .monster-search {
     padding: 8px;
     font-size: 16px;
     border: 1px solid #ccc;
     border-radius: 3px;
+}
+.monster-search {
+    width: 100%;
     box-sizing: border-box;
+}
+
+/* Monster Search Components */
+.monster-search-container {
+    position: relative;
+    margin-top: 8px;
 }
 .monster-dropdown {
     position: absolute;
@@ -140,13 +152,23 @@ th {
     color: #666;
     font-size: 14px;
 }
-.add-button {
-    background-color: #777;
+.monster-name-display {
+    font-style: italic;
+    color: #666;
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+/* Button Base */
+.button-base {
     color: white;
     border: none;
-    padding: 8px 15px;
     cursor: pointer;
     border-radius: 3px;
+}
+.add-button {
+    background-color: #777;
+    padding: 8px 15px;
     font-size: 16px;
 }
 .add-button:hover {
@@ -154,40 +176,12 @@ th {
 }
 .remove-button {
     background-color: #f44336;
-    color: white;
-    border: none;
     padding: 5px 10px;
-    cursor: pointer;
-    border-radius: 3px;
     font-size: 14px;
     align-self: flex-end;
 }
 .remove-button:hover {
     background-color: #da190b;
-}
-.results {
-    margin: 15px 0;
-    padding: 12px;
-    border: 2px solid #333;
-    border-radius: 5px;
-    background-color: #f8f8f8;
-}
-.difficulty-easy { color: green; font-weight: bold; }
-.difficulty-medium { color: orange; font-weight: bold; }
-.difficulty-hard { color: red; font-weight: bold; }
-.difficulty-deadly { color: darkred; font-weight: bold; }
-.difficulty-warning { color: #DAA520; font-weight: bold; }
-input, select {
-    padding: 8px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-}
-.monster-name-display {
-    font-style: italic;
-    color: #666;
-    margin-top: 4px;
-    font-size: 14px;
 }
 .button-row {
     display: flex;
@@ -195,12 +189,24 @@ input, select {
     flex-wrap: wrap;
     align-items: center;
 }
+
+/* Difficulty Base */
+.difficulty-base {
+    font-weight: bold;
+}
+.difficulty-easy { color: green; }
+.difficulty-medium { color: orange; }
+.difficulty-hard { color: red; }
+.difficulty-deadly { color: darkred; }
+.difficulty-warning { color: #DAA520; }
+
+/* Media Queries */
 @media (max-width: 600px) {
-    .input-row {
+    .flex-row {
         flex-direction: column;
         align-items: stretch;
     }
-    .input-group {
+    .input-group-base {
         min-width: auto;
     }
     .remove-button {
@@ -214,21 +220,14 @@ input, select {
     .button-row .add-button {
         width: 100%;
     }
-    .search-row {
-        flex-direction: column;
-        gap: 8px;
-    }
-    .search-input-group {
-        flex: none !important;
-        min-width: auto !important;
-        width: 100%;
-    }
+    .search-input-group,
     .source-select-group {
         flex: none !important;
         min-width: auto !important;
         width: 100%;
     }
-    .monster-search, .monster-source-filter {
+    .monster-search, 
+    .monster-source-filter {
         width: 100% !important;
         box-sizing: border-box;
     }
@@ -243,12 +242,12 @@ input, select {
 
 <h1>5e Encounter Calculator</h1>
 
-<div class="input-section">
+<div class="input-section section-base">
     <h3>Player Characters</h3>
     <div id="characterGroups">
-        <div class="character-group">
-            <div class="input-row">
-                <div class="input-group">
+        <div class="character-group flex-column">
+            <div class="input-row flex-row">
+                <div class="input-group input-group-base">
                     <label>Number of Characters</label>
                     <select class="char-count" onchange="calculateEncounter()">
                         <option value="1">1</option>
@@ -260,7 +259,7 @@ input, select {
                         <option value="7">7</option>
                     </select>
                 </div>
-                <div class="input-group">
+                <div class="input-group input-group-base">
                     <label>Level</label>
                     <select class="char-level" onchange="calculateEncounter()">
                         <option value="1" selected>1</option>
@@ -285,19 +284,19 @@ input, select {
                         <option value="20">20</option>
                     </select>
                 </div>
-                <button type="button" class="remove-button" onclick="removeCharacterGroup(this)" style="display: none;">Remove</button>
+                <button type="button" class="remove-button button-base" onclick="removeCharacterGroup(this)" style="display: none;">Remove</button>
             </div>
         </div>
     </div>
-    <button type="button" class="add-button" onclick="addCharacterGroup()">+ Add Character Group</button>
+    <button type="button" class="add-button button-base" onclick="addCharacterGroup()">+ Add Character Group</button>
 </div>
 
-<div class="input-section">
+<div class="input-section section-base">
     <h3>Monsters</h3>
     <div id="monsterGroups">
-        <div class="monster-group">
-            <div class="input-row">
-                <div class="input-group">
+        <div class="monster-group flex-column">
+            <div class="input-row flex-row">
+                <div class="input-group input-group-base">
                     <label>Challenge Rating</label>
                     <select class="monster-cr" onchange="calculateEncounter(); updateMonsterDisplay(this)">
                         <option value="0">0</option>
@@ -336,7 +335,7 @@ input, select {
                         <option value="30">30</option>
                     </select>
                 </div>
-                <div class="input-group">
+                <div class="input-group input-group-base">
                     <label>Number of Monsters</label>
                     <select class="monster-count" onchange="calculateEncounter()">
                         <option value="1" selected>1</option>
@@ -361,16 +360,16 @@ input, select {
                         <option value="20">20</option>
                     </select>
                 </div>
-                <button type="button" class="remove-button" onclick="removeMonsterGroup(this)" style="display: none;">Remove</button>
+                <button type="button" class="remove-button button-base" onclick="removeMonsterGroup(this)" style="display: none;">Remove</button>
             </div>
             <div class="monster-search-container">
-                <div class="search-row">
-                    <div class="search-input-group">
+                <div class="search-row flex-row">
+                    <div class="search-input-group input-group-base">
                         <label>Monster Search (optional)</label>
                         <input type="text" class="monster-search" placeholder="Search for a monster..." 
                                data-monster-lookup="true">
                     </div>
-                    <div class="source-select-group">
+                    <div class="source-select-group input-group-base">
                         <label>Source</label>
                         <select id="monsterSourceFilter" class="monster-source-filter">
                             <option value="">All Sources</option>
@@ -383,13 +382,13 @@ input, select {
         </div>
     </div>
     <div class="button-row">
-        <button type="button" class="add-button" onclick="addMonsterGroup()">+ Add Monster Group</button>
-        <button type="button" class="add-button" onclick="exportForCombatTracker()">Export for Combat Tracker</button>
-        <button type="button" class="add-button" onclick="openInCombatTracker()">Open in Combat Tracker</button>
+        <button type="button" class="add-button button-base" onclick="addMonsterGroup()">+ Add Monster Group</button>
+        <button type="button" class="add-button button-base" onclick="exportForCombatTracker()">Export for Combat Tracker</button>
+        <button type="button" class="add-button button-base" onclick="openInCombatTracker()">Open in Combat Tracker</button>
     </div>
 </div>
 
-<div class="results" id="results">
+<div class="results section-base" id="results">
     <h3>Encounter Assessment</h3>
     <p id="encounterResult">Configure your encounter above to see the difficulty assessment.</p>
 </div>
@@ -681,18 +680,18 @@ function addCharacterGroup() {
     const newGroup = document.createElement('div');
     newGroup.className = 'character-group';
     
-    newGroup.innerHTML = '<div class="input-row">' +
-        '<div class="input-group">' +
+    newGroup.innerHTML = '<div class="input-row flex-row">' +
+        '<div class="input-group input-group-base">' +
         '<label>Number of Characters</label>' +
         '<select class="char-count" onchange="calculateEncounter()">' +
         createCharacterOptions() +
         '</select></div>' +
-        '<div class="input-group">' +
+        '<div class="input-group input-group-base">' +
         '<label>Level</label>' +
         '<select class="char-level" onchange="calculateEncounter()">' +
         createLevelOptions() +
         '</select></div>' +
-        '<button type="button" class="remove-button" onclick="removeCharacterGroup(this)">Remove</button>' +
+        '<button type="button" class="remove-button button-base" onclick="removeCharacterGroup(this)">Remove</button>' +
         '</div>';
     
     container.appendChild(newGroup);
@@ -712,27 +711,27 @@ function addMonsterGroup() {
     newGroup.className = 'monster-group';
     newGroup.dataset.lookupId = monsterLookupInstances.length;
     
-    newGroup.innerHTML = '<div class="input-row">' +
-        '<div class="input-group">' +
+    newGroup.innerHTML = '<div class="input-row flex-row">' +
+        '<div class="input-group input-group-base">' +
         '<label>Challenge Rating</label>' +
         '<select class="monster-cr" onchange="calculateEncounter(); updateMonsterDisplay(this)">' +
         createCROptions() +
         '</select></div>' +
-        '<div class="input-group">' +
+        '<div class="input-group input-group-base">' +
         '<label>Number of Monsters</label>' +
         '<select class="monster-count" onchange="calculateEncounter()">' +
         createMonsterCountOptions() +
         '</select></div>' +
-        '<button type="button" class="remove-button" onclick="removeMonsterGroup(this)">Remove</button>' +
+        '<button type="button" class="remove-button button-base" onclick="removeMonsterGroup(this)">Remove</button>' +
         '</div>' +
         '<div class="monster-search-container">' +
-        '<div class="search-row">' +
-        '<div class="search-input-group">' +
+        '<div class="search-row flex-row">' +
+        '<div class="search-input-group input-group-base">' +
         '<label>Monster Search (optional)</label>' +
         '<input type="text" class="monster-search" placeholder="Search for a monster..." ' +
         'data-monster-lookup="true">' +
         '</div>' +
-        '<div class="source-select-group">' +
+        '<div class="source-select-group input-group-base">' +
         '<label>Source</label>' +
         '<select class="monster-source-filter">' +
         '<option value="">All Sources</option>' +
@@ -904,17 +903,17 @@ function calculateEncounter() {
         const upperThreshold = totalCharacterLevels * (avgLevel >= 17 ? 1 : 0.75);
         
         if (highestCR >= singleMonsterDeadly || totalMonsterCR >= upperThreshold) {
-            difficultyLazy = '<span class="difficulty-deadly">POTENTIALLY DEADLY (High Threshold)</span>';
+            difficultyLazy = '<span class="difficulty-deadly difficulty-base">POTENTIALLY DEADLY (High Threshold)</span>';
         } else if (totalMonsterCR >= lowerThreshold) {
-            difficultyLazy = '<span class="difficulty-warning">POTENTIALLY DEADLY (Low Threshold)</span>';
+            difficultyLazy = '<span class="difficulty-warning difficulty-base">POTENTIALLY DEADLY (Low Threshold)</span>';
         } else {
-            difficultyLazy = '<span class="difficulty-easy">NOT POTENTIALLY DEADLY</span>';
+            difficultyLazy = '<span class="difficulty-easy difficulty-base">NOT POTENTIALLY DEADLY</span>';
         }
     } else {
         if (highestCR >= singleMonsterDeadly || totalMonsterCR >= deadlyThreshold) {
-            difficultyLazy = '<span class="difficulty-deadly">POTENTIALLY DEADLY</span>';
+            difficultyLazy = '<span class="difficulty-deadly difficulty-base">POTENTIALLY DEADLY</span>';
         } else {
-            difficultyLazy = '<span class="difficulty-easy">NOT POTENTIALLY DEADLY</span>';
+            difficultyLazy = '<span class="difficulty-easy difficulty-base">NOT POTENTIALLY DEADLY</span>';
         }
     }
     
@@ -934,13 +933,13 @@ function calculateEncounter() {
     let difficulty2024 = '';
     
     if (baseMonsterXP < thresholds2024.low) {
-        difficulty2024 = '<span class="difficulty-easy">LOW</span>';
+        difficulty2024 = '<span class="difficulty-easy difficulty-base">LOW</span>';
     } else if (baseMonsterXP < thresholds2024.moderate) {
-        difficulty2024 = '<span class="difficulty-medium">MODERATE</span>';
+        difficulty2024 = '<span class="difficulty-medium difficulty-base">MODERATE</span>';
     } else if (baseMonsterXP < thresholds2024.high) {
-        difficulty2024 = '<span class="difficulty-hard">HIGH</span>';
+        difficulty2024 = '<span class="difficulty-hard difficulty-base">HIGH</span>';
     } else {
-        difficulty2024 = '<span class="difficulty-deadly">Above HIGH</span>';
+        difficulty2024 = '<span class="difficulty-deadly difficulty-base">Above HIGH</span>';
     }
     
     resultText += '<strong>D&D 2024 Method</strong><br>';
@@ -954,15 +953,15 @@ function calculateEncounter() {
     let difficulty2014 = '';
     
     if (adjusted2014XP < total2014Easy) {
-        difficulty2014 = '<span class="difficulty-easy">EASY</span>';
+        difficulty2014 = '<span class="difficulty-easy difficulty-base">EASY</span>';
     } else if (adjusted2014XP < total2014Medium) {
-        difficulty2014 = '<span class="difficulty-easy">EASY</span>';
+        difficulty2014 = '<span class="difficulty-easy difficulty-base">EASY</span>';
     } else if (adjusted2014XP < total2014Hard) {
-        difficulty2014 = '<span class="difficulty-medium">MEDIUM</span>';
+        difficulty2014 = '<span class="difficulty-medium difficulty-base">MEDIUM</span>';
     } else if (adjusted2014XP < total2014Deadly) {
-        difficulty2014 = '<span class="difficulty-hard">HARD</span>';
+        difficulty2014 = '<span class="difficulty-hard difficulty-base">HARD</span>';
     } else {
-        difficulty2014 = '<span class="difficulty-deadly">DEADLY</span>';
+        difficulty2014 = '<span class="difficulty-deadly difficulty-base">DEADLY</span>';
     }
     
     resultText += '<strong>D&D 2014 Method</strong><br>';
