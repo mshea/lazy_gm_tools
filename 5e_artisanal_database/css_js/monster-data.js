@@ -288,7 +288,7 @@ const monsterData = [
     "source": "Tome of Beasts 2023"
   },
   {
-    "name": "Baba Yaga's Horsemen",
+    "name": "Baba Yaga's Horsemen",
     "ac": 20,
     "hp": 171,
     "init": 0,
