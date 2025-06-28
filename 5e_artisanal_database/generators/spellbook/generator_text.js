@@ -21,14 +21,6 @@ const wizardProgression = {
     20: { spellbook: 44, maxLevel: 9, cantrips: 5 }
 };
 
-function getWizardSpells() {
-    return spells.filter(spell => 
-        spell.dnd_class && 
-        spell.dnd_class.includes('Wizard') && 
-        spell.document__slug === 'wotc-srd'
-    );
-}
-
 // Custom generation function for spellbook
 const sourceDirectoryMap = {
     "wotc-srd": "5.1_srd_(d&d_2014)",
@@ -39,14 +31,13 @@ const sourceDirectoryMap = {
 
 function generateSpellbook() {
     const wizardLevel = parseInt(document.getElementById('wizard-level').value);
-    const wizardSpells = getWizardSpells();
     
     const progression = wizardProgression[wizardLevel];
     const maxLevel = progression.maxLevel;
     const spellCount = progression.spellbook;
     
     // Generate spell list
-    const generatedSpells = generateWizardSpells(wizardSpells, maxLevel, spellCount, progression.cantrips);
+    const generatedSpells = generateWizardSpells(maxLevel, spellCount, progression.cantrips);
     
     // Create output HTML
     let output = '<div style="line-height: 1.6;"><h2>Spells</h2><ol>';
@@ -62,7 +53,7 @@ function generateSpellbook() {
     document.getElementById('output').innerHTML = output;
 }
 
-function generateWizardSpells(wizardSpells, maxLevel, spellCount, cantripCount) {
+function generateWizardSpells(maxLevel, spellCount, cantripCount) {
     const selectedSpells = [];
     const usedSpells = new Set();
 
@@ -71,7 +62,7 @@ function generateWizardSpells(wizardSpells, maxLevel, spellCount, cantripCount) 
         spellsByLevel[i] = [];
     }
 
-    wizardSpells.forEach(spell => {
+    spells.forEach(spell => {
         spellsByLevel[spell.level_int].push(spell);
     });
     
