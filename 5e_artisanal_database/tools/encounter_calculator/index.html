@@ -235,7 +235,6 @@ input, select {
 }
 </style>
 <title>5e Encounter Calculator</title>
-<script src="../../css_js/monster_encounter_stats.js"></script>
 <script src="../../css_js/monster-data.js"></script>
 <script src="../../css_js/monster-lookup.js"></script>
 </head>
@@ -259,9 +258,6 @@ input, select {
                         <option value="5">5</option>
                         <option value="6">6</option>
                         <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
                     </select>
                 </div>
                 <div class="input-group">
@@ -399,39 +395,6 @@ input, select {
 </div>
 
 <script>
-const sampleMonsters = [
-    { name: "Adult White Dragon", cr: "13" },
-    { name: "Goblin Warrior", cr: "0.25" },
-    { name: "Tarrasque", cr: "30" },
-    { name: "Knight", cr: "3" },
-    { name: "Warhorse Skeleton", cr: "0.5" },
-    { name: "Ancient Red Dragon", cr: "24" },
-    { name: "Bandit", cr: "0.125" },
-    { name: "Bear", cr: "2" },
-    { name: "Bugbear", cr: "1" },
-    { name: "Dire Wolf", cr: "1" },
-    { name: "Dragon Turtle", cr: "17" },
-    { name: "Fire Giant", cr: "9" },
-    { name: "Frost Giant", cr: "8" },
-    { name: "Giant Eagle", cr: "1" },
-    { name: "Griffon", cr: "2" },
-    { name: "Hill Giant", cr: "5" },
-    { name: "Hobgoblin", cr: "0.5" },
-    { name: "Hydra", cr: "8" },
-    { name: "Kobold", cr: "0.125" },
-    { name: "Lich", cr: "21" },
-    { name: "Manticore", cr: "3" },
-    { name: "Ogre", cr: "2" },
-    { name: "Orc", cr: "0.5" },
-    { name: "Owlbear", cr: "3" },
-    { name: "Purple Worm", cr: "15" },
-    { name: "Skeleton", cr: "0.25" },
-    { name: "Stone Giant", cr: "7" },
-    { name: "Troll", cr: "5" },
-    { name: "Vampire", cr: "13" },
-    { name: "Wolf", cr: "0.25" },
-    { name: "Zombie", cr: "0.25" }
-];
 
 // Initialize monster lookup instances for each search input
 let monsterLookupInstances = [];
@@ -459,15 +422,11 @@ function initializeMonsterData() {
             throw new Error('monsterData not available');
         }
     } catch (error) {
-        availableMonsters = sampleMonsters;
-        MonsterLookup.populateGlobalSourceFilter(availableMonsters);
-        MonsterLookup.updateAllInstances(availableMonsters);
+        console.error('Monster data not available:', error);
+        availableMonsters = [];
     }
 }
 
-function updateAllMonsterLookups() {
-    MonsterLookup.updateAllInstances(availableMonsters);
-}
 
 // Helper functions for monster data
 function estimateHPFromCR(cr) {
@@ -483,56 +442,8 @@ function estimateHPFromCR(cr) {
     return Math.floor(numCR * 20);
 }
 
-function getSourceFromDocument(documentId) {
-    // Map document IDs to source names based on the monsters.json data
-    const documentMap = {
-        32: "5.1 SRD",
-        33: "5.2 SRD", 
-        34: "CC",
-        35: "TOB2",
-        37: "A5e",
-        38: "TOB3",
-        46: "BF",
-        47: "TOB"
-    };
-    return documentMap[documentId] || `Doc${documentId}`;
-}
 
-function abbreviateSource(fullSourceName) {
-    // Abbreviate long source names for better display
-    const abbreviations = {
-        "5.1 SRD (2015 MM)": "5.1 SRD",
-        "5.2 SRD (2025 MM)": "5.2 SRD",
-        "Tome of Beasts 2023": "TOB",
-        "Tome of Beasts 2": "TOB2", 
-        "Tome of Beasts 3": "TOB3",
-        "Creature Codex": "CC",
-        "A5e Monstrous Menagerie": "A5e",
-        "Black Flag": "BF"
-    };
-    return abbreviations[fullSourceName] || fullSourceName;
-}
 
-function getFullSourceName(documentId, documentTitle) {
-    // Return full source names for dropdowns
-    if (documentId) {
-        const documentMap = {
-            32: "5.1 SRD (2015 MM)",
-            33: "5.2 SRD (2025 MM)", 
-            34: "Creature Codex",
-            35: "Tome of Beasts 2",
-            37: "A5e Monstrous Menagerie",
-            38: "Tome of Beasts 3",
-            46: "Black Flag",
-            47: "Tome of Beasts 1"  // Use "1" instead of "2023"
-        };
-        return documentMap[documentId] || `Document ${documentId}`;
-    } else if (documentTitle) {
-        // Clean up some names
-        return documentTitle.replace("Tome of Beasts 2023", "Tome of Beasts 1");
-    }
-    return "Unknown";
-}
 
 function updateAllMonsterLookups() {
     // Update each monster lookup instance with its own source filter
@@ -548,28 +459,7 @@ function updateAllMonsterLookups() {
     });
 }
 
-function saveFirstGroupSourceSelection() {
-    // Save the first group's source selection to localStorage
-    const firstSourceFilter = document.getElementById('monsterSourceFilter');
-    if (firstSourceFilter) {
-        localStorage.setItem('encounterCalculatorSourceFilter', firstSourceFilter.value);
-    }
-}
 
-// Estimate CR from HP (fallback)
-function estimateCRFromHP(hp) {
-    if (hp <= 10) return "0.125";
-    if (hp <= 25) return "0.25";
-    if (hp <= 50) return "0.5";
-    if (hp <= 70) return "1";
-    if (hp <= 120) return "2";
-    if (hp <= 150) return "3";
-    if (hp <= 200) return "5";
-    if (hp <= 250) return "8";
-    if (hp <= 300) return "10";
-    if (hp <= 400) return "15";
-    return "20";
-}
 
 const xpThresholds2014 = {
     1: { easy: 25, medium: 50, hard: 75, deadly: 100 },
@@ -674,7 +564,7 @@ function initializeMonsterLookup(searchInput, dropdownElement) {
         sourceFilter.addEventListener('change', () => {
             // If this is the first group, save the selection
             if (sourceFilter.id === 'monsterSourceFilter') {
-                saveFirstGroupSourceSelection();
+                localStorage.setItem('encounterCalculatorSourceFilter', sourceFilter.value);
             }
             // Update the source filter and re-run current search
             const selectedSource = sourceFilter.value;
