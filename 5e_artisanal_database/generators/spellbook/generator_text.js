@@ -46,12 +46,12 @@ function generateSpellbook() {
     const spellCount = progression.spellbook;
     
     // Generate spell list
-    const spells = generateWizardSpells(wizardSpells, maxLevel, spellCount, progression.cantrips);
+    const generatedSpells = generateWizardSpells(wizardSpells, maxLevel, spellCount, progression.cantrips);
     
     // Create output HTML
     let output = '<div style="line-height: 1.6;"><h2>Spells</h2><ol>';
     
-    spells.forEach(spell => {
+    generatedSpells.forEach(spell => {
         const levelText = spell.level_int === 0 ? 'Cantrip' : `${spell.level_int}${getOrdinalSuffix(spell.level_int)} level`;
         const sourceDir = sourceDirectoryMap[spell.document__slug] || spell.document__slug; // Fallback to slug if not mapped
         output += `<li><em><a href="../../spells/html/${sourceDir}/${spell.slug}.html" target="_blank">${spell.name}</a></em> (${levelText})</li>`;
