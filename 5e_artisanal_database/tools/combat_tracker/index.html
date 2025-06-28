@@ -50,6 +50,7 @@ th, td {
     border: 1px solid #999;
     padding: 6px;
     vertical-align: middle;
+    text-align: left;
 }
 
 th {
@@ -59,16 +60,19 @@ th {
 }
 
 .init-col {
-    width: min-content;
+    width: 40px;
+    text-align: center;
 }
 .name-col {
-    min-width: 230px;
+    min-width: 160px;
+    text-align: left !important;
 }
 .ac-col {
     width: 45px;
+    text-align: center;
 }
 .hp-col {
-    width: 270px;
+    width: 300px;
     min-width: 100px;
 }
 
@@ -103,9 +107,7 @@ th {
 }
 
 /* Consolidated button styling */
-
 .hp-controls button,
-.remove-btn,
 .combat-controls button {
     background-color: #666;
     color: white;
@@ -116,7 +118,6 @@ th {
 }
 
 .hp-controls button:hover,
-.remove-btn:hover,
 .combat-controls button:hover {
     background-color: #555;
 }
@@ -150,8 +151,18 @@ th {
 }
 
 .remove-btn {
+    background-color: #666;
+    color: white;
+    border: none;
     padding: 4px 8px;
+    cursor: pointer;
+    font-size: 16px;
     font-weight: bold;
+    border-radius: 4px;
+}
+
+.remove-btn:hover {
+    background-color: #555;
 }
 
 .combat-controls {
@@ -359,27 +370,11 @@ function loadMonstersFromJS() {
         
         return true;
     } catch (error) {
-        // Fall back to dummy data
-        return loadDummyMonsters();
+        console.error('Failed to load monster data:', error);
+        return false;
     }
 }
 
-// Fallback dummy monster data
-function loadDummyMonsters() {
-    // Fallback monsters if main data fails to load
-    const fallbackMonsters = [
-        { name: "Goblin", ac: 15, hp: 7, init: 2, source: "5.1 SRD" },
-        { name: "Orc", ac: 13, hp: 15, init: 1, source: "5.1 SRD" },
-        { name: "Ogre", ac: 11, hp: 59, init: -1, source: "5.1 SRD" }
-    ];
-    
-    allMonsters = fallbackMonsters;
-    monsterSources = ["5.1 SRD"];
-    
-    populateSourceSelector();
-    loadMonstersFromSource();
-    return false;
-}
 
 // Populate the source selector dropdown
 function populateSourceSelector() {
@@ -417,24 +412,44 @@ function getMonsterLink(combatant) {
     let monsterName = combatant.originalMonsterName || combatant.name.replace(/\s+[A-Z]$/, '');
     let monsterSource = combatant.monsterSource;
     
+    // Try to find the monster in the database to get the exact slug
+    let foundMonster = null;
+    if (monsterName && allMonsters) {
+        foundMonster = allMonsters.find(m => 
+            m.name.toLowerCase() === monsterName.toLowerCase() && 
+            (monsterSource ? m.source === monsterSource : true)
+        );
+        
+        // If no source was stored, use the found monster's source
+        if (!monsterSource && foundMonster) {
+            monsterSource = foundMonster.source;
+        }
+    }
+    
     if (!monsterName || !monsterSource) {
         return '';
     }
     
-    // Generate source directory and filename based on source
+    // If monster has a slug, use it directly
+    if (foundMonster && foundMonster.slug) {
+        const url = `../../monsters/html/${foundMonster.slug}.html`;
+        return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" class="hp-button" style="position: absolute; right: 45px;">stats</button>`;
+    }
+    
+    // Fallback to pattern-based generation for monsters without slugs
     let sourceDir = '';
     let fileName = '';
     
     // Map source names to directory names and filename patterns
     const sourceMap = {
-        "5.1 SRD (2015 MM)": { dir: "5.1_srd_(2015_mm)", suffix: "" },
-        "5.2 SRD (2025 MM)": { dir: "5.2_srd_(2025_mm)", suffix: "_mm_2024" },
-        "A5e Monstrous Menagerie": { dir: "a5e_monstrous_menagerie", suffix: "-a5e" },
-        "Black Flag": { dir: "black_flag", suffix: "_bf" },
-        "Creature Codex": { dir: "creature_codex", suffix: "-cc" },
-        "Tome of Beasts 2": { dir: "tome_of_beasts_2", suffix: "-tob2" },
-        "Tome of Beasts 2023": { dir: "tome_of_beasts_2023", suffix: "-tob1-2023" },
-        "Tome of Beasts 3": { dir: "tome_of_beasts_3", suffix: "-tob3" }
+        "5.1 SRD (2015 MM)": { dir: "5.1_srd_(2015_mm)", suffix: "", useHyphens: false },
+        "5.2 SRD (2025 MM)": { dir: "5.2_srd_(2025_mm)", suffix: "_mm_2024", useHyphens: false },
+        "A5e Monstrous Menagerie": { dir: "a5e_monstrous_menagerie", suffix: "-a5e", useHyphens: false },
+        "Black Flag": { dir: "black_flag", suffix: "_bf", useHyphens: false },
+        "Creature Codex": { dir: "creature_codex", suffix: "", useHyphens: true },
+        "Tome of Beasts 2": { dir: "tome_of_beasts_2", suffix: "-tob2", useHyphens: false },
+        "Tome of Beasts 2023": { dir: "tome_of_beasts_2023", suffix: "-tob1-2023", useHyphens: false },
+        "Tome of Beasts 3": { dir: "tome_of_beasts_3", suffix: "-tob3", useHyphens: false }
     };
 
     const sourceInfo = sourceMap[monsterSource];
@@ -445,11 +460,19 @@ function getMonsterLink(combatant) {
 
     sourceDir = sourceInfo.dir;
     
-    // Standardize filename generation: lowercase, replace spaces with hyphens, remove special chars
+    // Generate filename based on source-specific patterns
     fileName = monsterName.toLowerCase()
-        .replace(/[^a-z0-9\s]/g, '') // Remove special chars
-        .replace(/\s+/g, '-') // Replace spaces with hyphens
-        .replace(/-+/g, '-'); // Remove multiple hyphens
+        .replace(/[^a-z0-9\s]/g, ''); // Remove special chars
+    
+    if (sourceInfo.useHyphens) {
+        // Use hyphens between words (Creature Codex style)
+        fileName = fileName.replace(/\s+/g, '-');
+    } else {
+        // Remove spaces entirely (most other sources)
+        fileName = fileName.replace(/\s+/g, '');
+    }
+    
+    fileName = fileName.replace(/-+/g, '-'); // Clean up multiple hyphens
     
     // Add specific suffix if it exists
     if (sourceInfo.suffix) {
