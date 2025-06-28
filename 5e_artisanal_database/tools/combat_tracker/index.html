@@ -102,20 +102,29 @@ th {
     flex-wrap: wrap;
 }
 
-.hp-controls button {
+/* Consolidated button styling */
+
+.hp-controls button,
+.remove-btn,
+.combat-controls button {
     background-color: #666;
     color: white;
     border: none;
-    padding: 4px 8px;
     cursor: pointer;
     font-size: 16px;
-    margin: 0;
-    min-width: 28px;
     border-radius: 4px;
 }
 
-.hp-controls button:hover {
+.hp-controls button:hover,
+.remove-btn:hover,
+.combat-controls button:hover {
     background-color: #555;
+}
+
+.hp-controls button {
+    padding: 4px 8px;
+    margin: 0;
+    min-width: 28px;
 }
 
 .hp-controls input {
@@ -141,18 +150,8 @@ th {
 }
 
 .remove-btn {
-    background-color: #666;
-    color: white;
-    border: none;
     padding: 4px 8px;
-    cursor: pointer;
-    font-size: 16px;
     font-weight: bold;
-    border-radius: 4px;
-}
-
-.remove-btn:hover {
-    background-color: #555;
 }
 
 .combat-controls {
@@ -164,21 +163,11 @@ th {
 }
 
 .combat-controls button {
-    background-color: #666;
-    color: white;
-    border: none;
     padding: 8px 12px;
-    cursor: pointer;
-    font-size: 16px;
     flex: 1;
     min-width: 70px;
     max-width: 100px;
-    border-radius: 4px;
     min-height: 32px;
-}
-
-.combat-controls button:hover {
-    background-color: #555;
 }
 
 /* Monster search styling to match encounter calculator */
@@ -225,9 +214,69 @@ select {
     box-sizing: border-box;
 }
 
+/* Common button and input classes for inline style consolidation */
+.hp-button {
+    background-color: #666 !important;
+    color: white !important;
+    border: none !important;
+    padding: 3px 8px !important;
+    cursor: pointer;
+    font-size: 16px !important;
+    margin: 0 2px !important;
+    border-radius: 3px !important;
+    line-height: 16px !important;
+    height: auto !important;
+    min-height: auto !important;
+    box-sizing: border-box !important;
+}
+
+.hp-button:hover {
+    background-color: #555 !important;
+}
+
+.hp-input {
+    width: 35px;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 3px;
+    padding: 1px;
+    background-color: white;
+    color: black;
+    border: 1px solid #999;
+}
+
+.transparent-input {
+    border: none;
+    background: transparent;
+    font-size: 16px;
+    width: 35px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    padding: 1px;
+}
+
+.remove-button {
+    background-color: #d9534f !important;
+    color: white !important;
+    border: none !important;
+    padding: 2px 6px !important;
+    cursor: pointer;
+    font-size: 12px !important;
+    margin: 0 2px !important;
+    border-radius: 3px !important;
+    line-height: 14px !important;
+    height: auto !important;
+    min-height: auto !important;
+    box-sizing: border-box !important;
+}
+
+.remove-button:hover {
+    background-color: #c9302c !important;
+}
+
 </style>
 <title>Combat Tracker - 5e Artisanal Database</title>
-<script src="../../css_js/monster_encounter_stats.js"></script>
 <script src="../../css_js/monster-data.js"></script>
 </head>
 <body>
@@ -317,21 +366,15 @@ function loadMonstersFromJS() {
 
 // Fallback dummy monster data
 function loadDummyMonsters() {
-    const dummyMonsters = [
-        { name: "Goblin", ac: 15, hp: 7, init: 2, source: "5.1 SRD (2015 MM)" },
-        { name: "Orc", ac: 13, hp: 15, init: 1, source: "5.1 SRD (2015 MM)" },
-        { name: "Hobgoblin", ac: 18, hp: 11, init: 1, source: "5.1 SRD (2015 MM)" },
-        { name: "Bugbear", ac: 16, hp: 27, init: 2, source: "5.1 SRD (2015 MM)" },
-        { name: "Ogre", ac: 11, hp: 59, init: -1, source: "5.1 SRD (2015 MM)" },
-        { name: "Troll", ac: 15, hp: 84, init: 0, source: "5.1 SRD (2015 MM)" },
-        { name: "Hill Giant", ac: 13, hp: 105, init: -1, source: "5.1 SRD (2015 MM)" },
-        { name: "Stone Giant", ac: 17, hp: 126, init: 2, source: "5.1 SRD (2015 MM)" },
-        { name: "Fire Giant", ac: 18, hp: 162, init: 0, source: "5.1 SRD (2015 MM)" },
-        { name: "Frost Giant", ac: 15, hp: 138, init: 0, source: "5.1 SRD (2015 MM)" }
+    // Fallback monsters if main data fails to load
+    const fallbackMonsters = [
+        { name: "Goblin", ac: 15, hp: 7, init: 2, source: "5.1 SRD" },
+        { name: "Orc", ac: 13, hp: 15, init: 1, source: "5.1 SRD" },
+        { name: "Ogre", ac: 11, hp: 59, init: -1, source: "5.1 SRD" }
     ];
     
-    allMonsters = dummyMonsters;
-    monsterSources = ["5.1 SRD (2015 MM)"];
+    allMonsters = fallbackMonsters;
+    monsterSources = ["5.1 SRD"];
     
     populateSourceSelector();
     loadMonstersFromSource();
@@ -414,7 +457,7 @@ function getMonsterLink(combatant) {
     }
     
     const url = `../../monsters/html/${sourceDir}/${fileName}.html`;
-    return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" style="position: absolute; right: 45px; background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">stats</button>`;
+    return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" class="hp-button" style="position: absolute; right: 45px;">stats</button>`;
 }
 
 function searchMonsters() {
@@ -636,25 +679,25 @@ function renderCombatTable() {
         }
         
         row.innerHTML = `
-            <td><input type="number" value="${combatant.initiative}" onchange="updateInitiative(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black; padding: 1px;" min="1" max="30"></td>
+            <td><input type="number" value="${combatant.initiative}" onchange="updateInitiative(${combatant.id}, this.value)" class="transparent-input" min="1" max="30"></td>
             <td style="position: relative; padding-right: 100px;">
                 <div style="display: flex; align-items: center; height: 100%;">
-                    <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; font-weight: bold; color: black; padding: 1px; flex: 1;">
+                    <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" class="transparent-input" style="flex: 1;">
                     
                     ${getMonsterLink(combatant)}
-                    <button onclick="removeCombatant(${combatant.id})" title="Remove" style="position: absolute; right: 5px; background-color: #666 !important; color: white !important; border: none !important; padding: 4px 10px !important; cursor: pointer; font-size: 18px !important; font-weight: bold; border-radius: 3px !important; line-height: 18px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">×</button>
+                    <button onclick="removeCombatant(${combatant.id})" title="Remove" class="remove-button" style="position: absolute; right: 5px; font-size: 18px !important; font-weight: bold; line-height: 18px !important; padding: 4px 10px !important;">×</button>
                 </div>
             </td>
-            <td><input type="number" value="${combatant.ac || ''}" onchange="updateAC(${combatant.id}, this.value)" style="border: none; background: transparent; font-size: 16px; width: 35px; font-weight: bold; text-align: center; color: black; padding: 1px;" min="1" max="30" placeholder="-"></td>
+            <td><input type="number" value="${combatant.ac || ''}" onchange="updateAC(${combatant.id}, this.value)" class="transparent-input" min="1" max="30" placeholder="-"></td>
             ${combatant.maxHp ? `<td>
                 <div class="hp-controls">
-                    <button onclick="modifyHp(${combatant.id}, 5)" style="background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; margin: 0 2px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">+5</button>
-                    <button onclick="modifyHp(${combatant.id}, 1)" style="background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; margin: 0 2px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">+1</button>
-                    <input type="text" value="${combatant.currentHp}" onchange="setHp(${combatant.id}, this.value)" style="width: 35px; font-size: 16px; text-align: center; margin: 0 3px; padding: 1px; background-color: white; color: black; border: 1px solid #999;">
+                    <button onclick="modifyHp(${combatant.id}, 5)" class="hp-button">+5</button>
+                    <button onclick="modifyHp(${combatant.id}, 1)" class="hp-button">+1</button>
+                    <input type="text" value="${combatant.currentHp}" onchange="setHp(${combatant.id}, this.value)" class="hp-input">
                     <span style="font-size: 16px;">/ </span>
-                    <input type="number" value="${combatant.maxHp}" onchange="setMaxHp(${combatant.id}, this.value)" min="1" style="width: 35px; font-size: 16px; text-align: center; margin: 0 3px; padding: 1px; background-color: white; color: black; border: 1px solid #999;">
-                    <button onclick="modifyHp(${combatant.id}, -1)" style="background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; margin: 0 2px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">-1</button>
-                    <button onclick="modifyHp(${combatant.id}, -5)" style="background-color: #666 !important; color: white !important; border: none !important; padding: 3px 8px !important; cursor: pointer; font-size: 16px !important; margin: 0 2px !important; border-radius: 3px !important; line-height: 16px !important; height: auto !important; min-height: auto !important; box-sizing: border-box !important;">-5</button>
+                    <input type="number" value="${combatant.maxHp}" onchange="setMaxHp(${combatant.id}, this.value)" min="1" class="hp-input">
+                    <button onclick="modifyHp(${combatant.id}, -1)" class="hp-button">-1</button>
+                    <button onclick="modifyHp(${combatant.id}, -5)" class="hp-button">-5</button>
                 </div>
             </td>` : '<td>-</td>'}
         `;
