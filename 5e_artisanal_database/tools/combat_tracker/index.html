@@ -288,7 +288,7 @@ select {
 
 </style>
 <title>Combat Tracker - 5e Artisanal Database</title>
-<script src="../../css_js/monster-data.js"></script>
+<script src="../../css_js/monster_combat_stats.js"></script>
 </head>
 <body>
 <div><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</div>
@@ -354,13 +354,13 @@ let selectedSource = '';
 // Load monster data from included JavaScript
 function loadMonstersFromJS() {
     try {
-        // Check if monster data is available (loaded from monster-data.js)
-        if (typeof monsterData === 'undefined') {
-            throw new Error('Monster data not loaded. Make sure monster-data.js is included.');
+        // Check if monster data is available (loaded from monster_combat_stats.js)
+        if (typeof monsterCombatStats === 'undefined') {
+            throw new Error('Monster combat stats not loaded. Make sure monster_combat_stats.js is included.');
         }
         
-        allMonsters = monsterData;
-        monsterSources = [...new Set(monsterData.map(m => m.source))].sort();
+        allMonsters = monsterCombatStats;
+        monsterSources = [...new Set(monsterCombatStats.map(m => m.source))].sort();
         
         // Populate source selector
         populateSourceSelector();
@@ -430,57 +430,14 @@ function getMonsterLink(combatant) {
         return '';
     }
     
-    // If monster has a slug, use it directly
-    if (foundMonster && foundMonster.slug) {
-        const url = `../../monsters/html/${foundMonster.slug}.html`;
+    // Use the htmlLink from monster_combat_stats.js if available
+    if (foundMonster && foundMonster.htmlLink) {
+        const url = `../../monsters/${foundMonster.htmlLink.replace('./html/', 'html/')}`;
         return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" class="hp-button" style="position: absolute; right: 45px;">stats</button>`;
     }
     
-    // Fallback to pattern-based generation for monsters without slugs
-    let sourceDir = '';
-    let fileName = '';
-    
-    // Map source names to directory names and filename patterns
-    const sourceMap = {
-        "5.1 SRD (2015 MM)": { dir: "5.1_srd_(2015_mm)", suffix: "", useHyphens: false },
-        "5.2 SRD (2025 MM)": { dir: "5.2_srd_(2025_mm)", suffix: "_mm_2024", useHyphens: false },
-        "A5e Monstrous Menagerie": { dir: "a5e_monstrous_menagerie", suffix: "-a5e", useHyphens: false },
-        "Black Flag": { dir: "black_flag", suffix: "_bf", useHyphens: false },
-        "Creature Codex": { dir: "creature_codex", suffix: "", useHyphens: true },
-        "Tome of Beasts 2": { dir: "tome_of_beasts_2", suffix: "-tob2", useHyphens: false },
-        "Tome of Beasts 2023": { dir: "tome_of_beasts_2023", suffix: "-tob1-2023", useHyphens: false },
-        "Tome of Beasts 3": { dir: "tome_of_beasts_3", suffix: "-tob3", useHyphens: false }
-    };
-
-    const sourceInfo = sourceMap[monsterSource];
-
-    if (!sourceInfo) {
-        return ''; // Source not supported for direct linking
-    }
-
-    sourceDir = sourceInfo.dir;
-    
-    // Generate filename based on source-specific patterns
-    fileName = monsterName.toLowerCase()
-        .replace(/[^a-z0-9\s]/g, ''); // Remove special chars
-    
-    if (sourceInfo.useHyphens) {
-        // Use hyphens between words (Creature Codex style)
-        fileName = fileName.replace(/\s+/g, '-');
-    } else {
-        // Remove spaces entirely (most other sources)
-        fileName = fileName.replace(/\s+/g, '');
-    }
-    
-    fileName = fileName.replace(/-+/g, '-'); // Clean up multiple hyphens
-    
-    // Add specific suffix if it exists
-    if (sourceInfo.suffix) {
-        fileName += sourceInfo.suffix;
-    }
-    
-    const url = `../../monsters/html/${sourceDir}/${fileName}.html`;
-    return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" class="hp-button" style="position: absolute; right: 45px;">stats</button>`;
+    // No HTML link available
+    return '';
 }
 
 function searchMonsters() {

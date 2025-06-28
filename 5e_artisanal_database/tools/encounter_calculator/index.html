@@ -234,7 +234,7 @@ input, select, .monster-search {
 }
 </style>
 <title>5e Encounter Calculator</title>
-<script src="../../css_js/monster-data.js"></script>
+<script src="../../css_js/monster_combat_stats.js"></script>
 <script src="../../css_js/monster-lookup.js"></script>
 </head>
 <body>
@@ -403,8 +403,8 @@ let availableMonsters = [];
 // Load monsters from main database and merge with combat tracker data
 function initializeMonsterData() {
     try {
-        if (typeof monsterData !== 'undefined' && Array.isArray(monsterData)) {
-            availableMonsters = monsterData.map(monster => {
+        if (typeof monsterCombatStats !== 'undefined' && Array.isArray(monsterCombatStats)) {
+            availableMonsters = monsterCombatStats.map(monster => {
                 return {
                     name: monster.name,
                     cr: monster.cr,
@@ -418,7 +418,7 @@ function initializeMonsterData() {
             MonsterLookup.populateGlobalSourceFilter(availableMonsters);
             MonsterLookup.updateAllInstances(availableMonsters);
         } else {
-            throw new Error('monsterData not available');
+            throw new Error('monsterCombatStats not available');
         }
     } catch (error) {
         console.error('Monster data not available:', error);
