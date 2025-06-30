@@ -42,7 +42,7 @@
 </div>
 
 <script src="./css_js/lunr.js"></script>
-<script src="./search/search-data.js"></script>
+<script src="./search/filter-data.js"></script>
 <script>
 // Selected sources for filtering
 let selectedSources = [];
@@ -144,26 +144,33 @@ function createSourceCodeMappings() {
     
     // Auto-generate codes for any sources not manually mapped
     const allSources = new Set();
-    if (window.searchDocuments) {
-        window.searchDocuments.forEach(doc => {
-            if (doc.type === 'ruleset') {
-                allSources.add(doc.source);
+    if (window.sourceMetadata) {
+        window.sourceMetadata.forEach(item => {
+            if (item.type === 'ruleset') {
+                allSources.add(item.source);
             } else {
-                allSources.add(doc.category);
+                allSources.add(item.category);
             }
         });
     }
-    
     // Add auto-generated codes for unmapped sources
     Array.from(allSources).forEach(source => {
         if (!Object.values(mappings).includes(source)) {
             // Create a simple code from the source name
-            const code = source.toLowerCase()
+            let code = source.toLowerCase()
                 .replace(/[^a-z0-9]/g, '')
                 .substring(0, 8);
-            if (!mappings[code]) {
-                mappings[code] = source;
+            
+            // If code already exists, make it unique
+            let counter = 1;
+            while (mappings[code]) {
+                code = source.toLowerCase()
+                    .replace(/[^a-z0-9]/g, '')
+                    .substring(0, 7) + counter;
+                counter++;
             }
+            
+            mappings[code] = source;
         }
     });
     
@@ -227,7 +234,7 @@ function toggleFilters() {
 }
 
 function setupSourceFilters() {
-    if (!window.searchDocuments || window.searchDocuments.length === 0) {
+    if (!window.sourceMetadata || window.sourceMetadata.length === 0) {
         return;
     }
     
@@ -239,11 +246,11 @@ function setupSourceFilters() {
         magic_items: new Set()
     };
     
-    window.searchDocuments.forEach(doc => {
-        if (doc.type === 'ruleset') {
-            rulesets.add(doc.source);
-        } else if (doc.type in databases) {
-            databases[doc.type].add(doc.category);
+    window.sourceMetadata.forEach(item => {
+        if (item.type === 'ruleset') {
+            rulesets.add(item.source);
+        } else if (item.type in databases) {
+            databases[item.type].add(item.category);
         }
     });
     

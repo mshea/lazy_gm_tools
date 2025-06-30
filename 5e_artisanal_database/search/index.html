@@ -855,12 +855,20 @@ class SearchEngine {
         Array.from(allSources).forEach(source => {
             if (!Object.values(mappings).includes(source)) {
                 // Create a simple code from the source name
-                const code = source.toLowerCase()
+                let code = source.toLowerCase()
                     .replace(/[^a-z0-9]/g, '')
                     .substring(0, 8);
-                if (!mappings[code]) {
-                    mappings[code] = source;
+                
+                // If code already exists, make it unique
+                let counter = 1;
+                while (mappings[code]) {
+                    code = source.toLowerCase()
+                        .replace(/[^a-z0-9]/g, '')
+                        .substring(0, 7) + counter;
+                    counter++;
                 }
+                
+                mappings[code] = source;
             }
         });
         
