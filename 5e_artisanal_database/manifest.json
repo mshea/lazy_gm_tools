@@ -1,0 +1,10 @@
+{
+  "name": "5e Artisanal Database - Disabled",
+  "short_name": "5eADB Disabled", 
+  "description": "PWA functionality has been disabled",
+  "start_url": "./index.html",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}
