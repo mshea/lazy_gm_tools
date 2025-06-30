@@ -1,6 +1,6 @@
 # Warrior Veteran
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 17
 - **Hit Points:** 65 (10d8 + 20)

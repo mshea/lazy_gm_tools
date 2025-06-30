@@ -1,6 +1,6 @@
 # Commoner
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 10
 - **Hit Points:** 4 (1d8)

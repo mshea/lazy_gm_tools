@@ -1,6 +1,6 @@
 # Werewolf
 
-*Small Monstrosity, Chaotic Evil*
+*Medium or Small Monstrosity, Chaotic Evil*
 
 - **Armor Class:** 15
 - **Hit Points:** 71 (11d8 + 22)

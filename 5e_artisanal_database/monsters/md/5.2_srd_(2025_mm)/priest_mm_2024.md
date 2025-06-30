@@ -1,6 +1,6 @@
 # Priest
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 13
 - **Hit Points:** 38 (7d8 + 7)

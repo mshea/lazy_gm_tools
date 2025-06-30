@@ -1,6 +1,6 @@
 # Wererat
 
-*Small Monstrosity, Lawful Evil*
+*Medium or Small Monstrosity, Lawful Evil*
 
 - **Armor Class:** 13
 - **Hit Points:** 60 (11d8 + 11)

@@ -1,6 +1,6 @@
 # Archmage
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 17
 - **Hit Points:** 170 (31d8 + 31)

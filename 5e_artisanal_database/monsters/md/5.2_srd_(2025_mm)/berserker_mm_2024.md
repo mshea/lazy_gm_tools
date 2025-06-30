@@ -1,6 +1,6 @@
 # Berserker
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 13
 - **Hit Points:** 67 (9d8 + 27)

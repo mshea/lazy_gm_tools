@@ -1,6 +1,6 @@
 # Sphinx of Wonder
 
-*Small Celestial, Lawful Good*
+*Tiny Celestial, Lawful Good*
 
 - **Armor Class:** 13
 - **Hit Points:** 24 (7d4 + 7)

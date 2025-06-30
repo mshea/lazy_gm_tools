@@ -1,6 +1,6 @@
 # Will-o'-Wisp
 
-*Small Undead, Chaotic Evil*
+*Tiny Undead, Chaotic Evil*
 
 - **Armor Class:** 19
 - **Hit Points:** 27 (11d4)

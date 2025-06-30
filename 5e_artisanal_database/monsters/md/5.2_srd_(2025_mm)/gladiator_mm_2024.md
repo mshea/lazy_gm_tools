@@ -1,6 +1,6 @@
 # Gladiator
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 16
 - **Hit Points:** 112 (15d8 + 45)

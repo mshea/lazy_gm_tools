@@ -1,6 +1,6 @@
 # Sprite
 
-*Small Fey, Neutral Good*
+*Tiny Fey, Neutral Good*
 
 - **Armor Class:** 15
 - **Hit Points:** 10 (4d4)

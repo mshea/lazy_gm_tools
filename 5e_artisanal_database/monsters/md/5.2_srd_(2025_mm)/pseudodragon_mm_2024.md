@@ -1,6 +1,6 @@
 # Pseudodragon
 
-*Small Dragon, Neutral Good*
+*Tiny Dragon, Neutral Good*
 
 - **Armor Class:** 14
 - **Hit Points:** 10 (3d4 + 3)

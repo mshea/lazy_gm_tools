@@ -1,6 +1,6 @@
 # Weretiger
 
-*Small Monstrosity, Neutral*
+*Medium or Small Monstrosity, Neutral*
 
 - **Armor Class:** 12
 - **Hit Points:** 120 (16d8 + 48)

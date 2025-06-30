@@ -1,6 +1,6 @@
 # Scout
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 13
 - **Hit Points:** 16 (3d8 + 3)

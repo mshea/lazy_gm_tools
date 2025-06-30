@@ -1,6 +1,6 @@
 # Pirate
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 14
 - **Hit Points:** 33 (6d8 + 6)

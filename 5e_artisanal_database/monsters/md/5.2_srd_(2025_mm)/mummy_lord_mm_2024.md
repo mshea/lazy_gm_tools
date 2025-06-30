@@ -1,6 +1,6 @@
 # Mummy Lord
 
-*Small Undead, Lawful Evil*
+*Medium or Small Undead, Lawful Evil*
 
 - **Armor Class:** 17
 - **Hit Points:** 187 (25d8 + 75)

@@ -1,6 +1,6 @@
 # Badger
 
-*Small Beast, Unaligned*
+*Tiny Beast, Unaligned*
 
 - **Armor Class:** 11
 - **Hit Points:** 5 (1d4 + 3)

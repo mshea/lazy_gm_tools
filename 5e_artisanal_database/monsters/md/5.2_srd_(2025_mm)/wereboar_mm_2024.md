@@ -1,6 +1,6 @@
 # Wereboar
 
-*Small Monstrosity, Neutral Evil*
+*Medium or Small Monstrosity, Neutral Evil*
 
 - **Armor Class:** 15
 - **Hit Points:** 97 (15d8 + 30)

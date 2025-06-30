@@ -1,6 +1,6 @@
 # Guard Captain
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 18
 - **Hit Points:** 75 (10d8 + 30)

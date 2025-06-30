@@ -1,6 +1,6 @@
 # Vampire
 
-*Small Undead, Lawful Evil*
+*Medium or Small Undead, Lawful Evil*
 
 - **Armor Class:** 16
 - **Hit Points:** 195 (23d8 + 92)

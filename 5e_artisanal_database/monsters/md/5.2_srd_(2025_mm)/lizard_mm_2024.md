@@ -1,6 +1,6 @@
 # Lizard
 
-*Small Beast, Unaligned*
+*Tiny Beast, Unaligned*
 
 - **Armor Class:** 10
 - **Hit Points:** 2 (1d4)

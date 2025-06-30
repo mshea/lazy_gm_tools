@@ -1,6 +1,6 @@
 # Tough
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 12
 - **Hit Points:** 32 (5d8 + 10)

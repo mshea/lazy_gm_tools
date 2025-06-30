@@ -1,6 +1,6 @@
 # Homunculus
 
-*Small Construct, Neutral*
+*Tiny Construct, Neutral*
 
 - **Armor Class:** 13
 - **Hit Points:** 4 (1d4 + 2)

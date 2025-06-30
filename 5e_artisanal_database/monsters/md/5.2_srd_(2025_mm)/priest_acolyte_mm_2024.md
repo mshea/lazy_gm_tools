@@ -1,6 +1,6 @@
 # Priest Acolyte
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 13
 - **Hit Points:** 11 (2d8 + 2)

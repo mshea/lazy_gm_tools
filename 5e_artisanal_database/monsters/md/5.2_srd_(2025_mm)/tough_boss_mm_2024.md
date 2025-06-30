@@ -1,6 +1,6 @@
 # Tough Boss
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 16
 - **Hit Points:** 82 (11d8 + 33)

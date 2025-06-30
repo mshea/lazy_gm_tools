@@ -1,6 +1,6 @@
 # Flying Snake
 
-*Small Monstrosity, Unaligned*
+*Tiny Monstrosity, Unaligned*
 
 - **Armor Class:** 14
 - **Hit Points:** 5 (2d4)

@@ -1,6 +1,6 @@
 # Crab
 
-*Small Beast, Unaligned*
+*Tiny Beast, Unaligned*
 
 - **Armor Class:** 11
 - **Hit Points:** 3 (1d4 + 1)

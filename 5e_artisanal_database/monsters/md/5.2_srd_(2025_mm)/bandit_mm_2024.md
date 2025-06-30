@@ -1,6 +1,6 @@
 # Bandit
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 12
 - **Hit Points:** 11 (2d8 + 2)

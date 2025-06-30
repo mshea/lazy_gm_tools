@@ -1,6 +1,6 @@
 # Druid
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 13
 - **Hit Points:** 44 (8d8 + 8)

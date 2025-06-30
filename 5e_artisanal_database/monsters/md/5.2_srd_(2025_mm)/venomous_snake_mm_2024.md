@@ -1,6 +1,6 @@
 # Venomous Snake
 
-*Small Beast, Unaligned*
+*Tiny Beast, Unaligned*
 
 - **Armor Class:** 12
 - **Hit Points:** 5 (2d4)

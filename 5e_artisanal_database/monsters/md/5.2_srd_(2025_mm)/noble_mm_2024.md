@@ -1,6 +1,6 @@
 # Noble
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 15
 - **Hit Points:** 9 (2d8)

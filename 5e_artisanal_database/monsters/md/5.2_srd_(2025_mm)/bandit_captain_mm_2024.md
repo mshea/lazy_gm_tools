@@ -1,6 +1,6 @@
 # Bandit Captain
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 15
 - **Hit Points:** 52 (8d8 + 16)

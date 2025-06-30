@@ -1,6 +1,6 @@
 # Werebear
 
-*Small Monstrosity, Neutral Good*
+*Medium or Small Monstrosity, Neutral Good*
 
 - **Armor Class:** 15
 - **Hit Points:** 135 (18d8 + 54)

@@ -1,6 +1,6 @@
 # Vampire Familiar
 
-*Small Humanoid, Neutral Evil*
+*Medium or Small Humanoid, Neutral Evil*
 
 - **Armor Class:** 15
 - **Hit Points:** 65 (10d8 + 20)

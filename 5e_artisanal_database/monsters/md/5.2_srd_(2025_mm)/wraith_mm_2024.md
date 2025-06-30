@@ -1,6 +1,6 @@
 # Wraith
 
-*Small Undead, Neutral Evil*
+*Medium or Small Undead, Neutral Evil*
 
 - **Armor Class:** 13
 - **Hit Points:** 67 (9d8 + 27)

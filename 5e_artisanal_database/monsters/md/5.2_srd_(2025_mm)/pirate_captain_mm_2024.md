@@ -1,6 +1,6 @@
 # Pirate Captain
 
-*Small Humanoid, Neutral*
+*Medium or Small Humanoid, Neutral*
 
 - **Armor Class:** 17
 - **Hit Points:** 84 (13d8 + 26)

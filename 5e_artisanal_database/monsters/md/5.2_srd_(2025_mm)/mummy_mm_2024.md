@@ -1,6 +1,6 @@
 # Mummy
 
-*Small Undead, Lawful Evil*
+*Medium or Small Undead, Lawful Evil*
 
 - **Armor Class:** 11
 - **Hit Points:** 58 (9d8 + 18)

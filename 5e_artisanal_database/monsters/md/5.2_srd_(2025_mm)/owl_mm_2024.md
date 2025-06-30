@@ -1,6 +1,6 @@
 # Owl
 
-*Small Beast, Unaligned*
+*Tiny Beast, Unaligned*
 
 - **Armor Class:** 11
 - **Hit Points:** 1 (1d4 - 1)

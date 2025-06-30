@@ -1,6 +1,6 @@
 # Stirge
 
-*Small Monstrosity, Unaligned*
+*Tiny Monstrosity, Unaligned*
 
 - **Armor Class:** 13
 - **Hit Points:** 5 (2d4)

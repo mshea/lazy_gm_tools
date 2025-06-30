@@ -1,6 +1,6 @@
 # Vampire Spawn
 
-*Small Undead, Neutral Evil*
+*Medium or Small Undead, Neutral Evil*
 
 - **Armor Class:** 16
 - **Hit Points:** 90 (12d8 + 36)
