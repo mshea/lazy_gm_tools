@@ -162,7 +162,7 @@ magic_items_5_10
   {common_themes} (common) ^30
   {uncommon_themes} (uncommon) ^50
   {rare_themes} (rare) ^16
-  {very_rare_themes} ^16
+  {very_rare_themes} (very rare) ^16
 
 magic_items_11_16
   {common_themes} (common) ^11
