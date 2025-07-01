@@ -175,6 +175,23 @@ function fillTemplate(template, data, useCommas = false) {
             return match;
         });
         
+        // Handle quantity patterns like "X x {table}" - generate X different items
+        result = result.replace(/(\d+)\s+x\s+\{([^}]+)\}/g, (match, quantity, tableName) => {
+            const qty = parseInt(quantity);
+            if (qty === 0) return ''; // Skip zero quantities
+            
+            const table = data[tableName];
+            if (!table || !Array.isArray(table) || table.length === 0) {
+                return match; // Return original if table not found
+            }
+            
+            const items = [];
+            for (let i = 0; i < qty; i++) {
+                items.push(pick(table));
+            }
+            return items.join('<br>');
+        });
+        
         // Handle nested table references {tablename}
         result = result.replace(/{(.*?)}/g, (_, key) => pick(data[key] || ['']));
     }
