@@ -361,6 +361,8 @@
 <div id="searchResults" class="search-results"></div>
 
 <script src="../css_js/lunr.js"></script>
+<script src="../css_js/search-filters.js"></script>
+<script src="../css_js/search-interface.js"></script>
 <script src="search-data.js"></script>
 <script>
 class SearchEngine {
@@ -370,6 +372,7 @@ class SearchEngine {
         this.preBuiltIndex = window.searchIndex || null;
         this.isIndexReady = false;
         this.availableSources = [];
+        this.searchInterface = new SearchInterface();
         this.init();
     }
 
@@ -383,32 +386,56 @@ class SearchEngine {
             return;
         }
         
+        // Create sourceMetadata from documents for the shared filter system
+        this.createSourceMetadataFromDocuments();
+        
+        // Create and setup filters after metadata is created
+        if (!window.searchFilters) {
+            window.searchFilters = new SearchFilters();
+        }
+        window.searchFilters.setupSourceFilters();
+        
         this.loadSearchIndex();
-        this.setupSourceFilters();
         this.setupEventListeners();
         
         // Check if there's a query parameter from the main page
         this.handleUrlQuery();
     }
 
+    createSourceMetadataFromDocuments() {
+        const sourceMetadata = [];
+        const seenSources = new Set();
+        
+        this.documents.forEach(doc => {
+            if (doc.type === 'ruleset' && !seenSources.has(`ruleset-${doc.source}`)) {
+                sourceMetadata.push({
+                    type: 'ruleset',
+                    source: doc.source
+                });
+                seenSources.add(`ruleset-${doc.source}`);
+            } else if (doc.type !== 'ruleset' && !seenSources.has(`${doc.type}-${doc.category}`)) {
+                sourceMetadata.push({
+                    type: doc.type,
+                    category: doc.category
+                });
+                seenSources.add(`${doc.type}-${doc.category}`);
+            }
+        });
+        
+        window.sourceMetadata = sourceMetadata;
+    }
+
     loadSearchIndex() {
         if (this.preBuiltIndex) {
-            console.log(`Loading pre-built search index with ${this.documents.length} documents...`);
-            
             // Load the pre-built Lunr index
             this.index = lunr.Index.load(this.preBuiltIndex);
             this.isIndexReady = true;
-            
-            console.log('Pre-built search index loaded successfully!');
         } else {
-            console.log('No pre-built index found, building index from documents...');
             this.buildSearchIndex();
         }
     }
 
     buildSearchIndex() {
-        console.log(`Building search index with ${this.documents.length} documents...`);
-        
         // Store reference to documents for the Lunr callback
         const documents = this.documents;
         
@@ -426,13 +453,11 @@ class SearchEngine {
         });
 
         this.isIndexReady = true;
-        console.log('Search index built successfully!');
     }
 
     handleUrlQuery() {
         const urlParams = new URLSearchParams(window.location.search);
         const query = urlParams.get('q');
-        const sources = urlParams.get('sources');
         const lucky = urlParams.get('lucky') || urlParams.get('btnI'); // Support both 'lucky' and Google's 'btnI'
         
         // Handle query parameter
@@ -441,439 +466,35 @@ class SearchEngine {
             searchInput.value = query;
         }
         
-        // Handle sources parameters
-        this.applySourceFiltersFromUrl(urlParams);
-        
-        // Handle lucky search parameter
-        if (lucky && query) {
-            // Perform lucky search automatically
+        // Handle sources parameters using shared filter system  
+        // Apply URL parameters first, then perform search
+        setTimeout(() => {
+            window.searchFilters.applySourceFiltersFromUrl(urlParams);
+            
+            // After filters are applied, handle search
             setTimeout(() => {
-                const firstResult = this.performLuckySearch(query);
-                if (firstResult && firstResult.url) {
-                    window.location.href = firstResult.url;
-                } else {
-                    // Fall back to regular search if no lucky result
+                if (lucky && query) {
+                    // Perform lucky search automatically
+                    const firstResult = this.performLuckySearch(query);
+                    if (firstResult && firstResult.url) {
+                        window.location.href = firstResult.url;
+                    } else {
+                        // Fall back to regular search if no lucky result
+                        this.performSearch(query);
+                    }
+                } else if (query) {
+                    // Perform regular search if we have a query but no lucky parameter
                     this.performSearch(query);
                 }
-            }, 100); // Small delay to ensure filters are applied
-        } else if (query) {
-            // Perform regular search if we have a query but no lucky parameter
-            this.performSearch(query);
-        }
+            }, 50); // Small additional delay to ensure filters are applied
+        }, 100); // Increased delay to ensure filter UI is fully rendered
     }
     
-    applySourceFiltersFromUrl(urlParams) {
-        // Check if any filter parameters exist
-        const hasFilterParams = ['r', 'm', 's', 'i'].some(param => urlParams.has(param));
-        
-        if (!hasFilterParams) {
-            // No filter parameters - default to all sources selected
-            const allCheckboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
-            allCheckboxes.forEach(checkbox => checkbox.checked = true);
-            this.updateAllMasterCheckboxes();
-            return;
-        }
-        
-        // Filter parameters exist - uncheck all first, then apply selections
-        const allCheckboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
-        allCheckboxes.forEach(checkbox => checkbox.checked = false);
-        
-        // Create source code mappings
-        const sourceCodeMappings = this.createSourceCodeMappings();
-        
-        // Handle each parameter type
-        const paramTypes = {
-            'r': 'ruleset',
-            'm': 'monsters', 
-            's': 'spells',
-            'i': 'magic_items'
-        };
-        
-        Object.entries(paramTypes).forEach(([param, type]) => {
-            const paramValue = urlParams.get(param);
-            if (paramValue) {
-                const codes = paramValue.split(',');
-                codes.forEach(code => {
-                    const fullSourceName = sourceCodeMappings[code];
-                    if (fullSourceName) {
-                        const checkbox = document.querySelector(`#sourceFilters input[data-type="${type}"][data-source="${fullSourceName}"]`);
-                        if (checkbox) {
-                            checkbox.checked = true;
-                        }
-                    }
-                });
-            }
-        });
-        
-        // Update master checkboxes
-        this.updateAllMasterCheckboxes();
-    }
-    
-    encodeSourceFiltersToUrl() {
-        const selectedSources = this.getSelectedSources();
-        const allSources = this.getAllAvailableSources();
-        
-        // If no sources selected or all sources selected, return empty (default state)
-        if (selectedSources.length === 0 || selectedSources.length === allSources.length) {
-            return {};
-        }
-        
-        // Create source code mappings
-        const sourceCodeMappings = this.createSourceCodeMappings();
-        const reverseMapping = Object.fromEntries(
-            Object.entries(sourceCodeMappings).map(([code, source]) => [source, code])
-        );
-        
-        // Group sources by type
-        const sourcesByType = {
-            'ruleset': [],
-            'monsters': [],
-            'spells': [],
-            'magic_items': []
-        };
-        
-        selectedSources.forEach(filter => {
-            const code = reverseMapping[filter.source];
-            if (code && sourcesByType[filter.type]) {
-                sourcesByType[filter.type].push(code);
-            }
-        });
-        
-        // Build parameter object
-        const params = {};
-        const typeToParam = {
-            'ruleset': 'r',
-            'monsters': 'm',
-            'spells': 's',
-            'magic_items': 'i'
-        };
-        
-        Object.entries(sourcesByType).forEach(([type, codes]) => {
-            if (codes.length > 0) {
-                params[typeToParam[type]] = codes.join(',');
-            }
-        });
-        
-        return params;
-    }
     
     updateUrlParameters(query = null) {
-        const url = new URL(window.location);
-        
-        // Update query parameter
-        if (query !== null) {
-            if (query.trim()) {
-                url.searchParams.set('q', query.trim());
-            } else {
-                url.searchParams.delete('q');
-            }
-        }
-        
-        // Clear existing filter parameters
-        ['r', 'm', 's', 'i'].forEach(param => {
-            url.searchParams.delete(param);
-        });
-        
-        // Update sources parameters
-        const sourceParams = this.encodeSourceFiltersToUrl();
-        Object.entries(sourceParams).forEach(([param, value]) => {
-            url.searchParams.set(param, value);
-        });
-        
-        // Update browser history without reload
-        window.history.replaceState({}, '', url);
+        this.searchInterface.updateUrlParameters(query);
     }
 
-    setupSourceFilters() {
-        // Organize documents by type
-        const rulesets = new Set();
-        const databases = {
-            monsters: new Set(),
-            spells: new Set(),
-            magic_items: new Set()
-        };
-        
-        this.documents.forEach(doc => {
-            if (doc.type === 'ruleset') {
-                rulesets.add(doc.source);
-            } else if (doc.type in databases) {
-                databases[doc.type].add(doc.category);
-            }
-        });
-        
-        const filtersContainer = document.getElementById('sourceFilters');
-        
-        // Create Rulesets section
-        if (rulesets.size > 0) {
-            const rulesetsSection = document.createElement('div');
-            rulesetsSection.className = 'filter-section';
-            
-            const rulesetsTitle = document.createElement('div');
-            rulesetsTitle.className = 'filter-section-title';
-            
-            const masterCheckbox = document.createElement('input');
-            masterCheckbox.type = 'checkbox';
-            masterCheckbox.id = 'master-rulesets';
-            masterCheckbox.checked = true;
-            masterCheckbox.addEventListener('change', (e) => {
-                e.stopPropagation();
-                this.toggleAllInSection('ruleset');
-            });
-            
-            const titleText = document.createElement('span');
-            titleText.textContent = 'Rulesets';
-            titleText.onclick = () => this.toggleSection('rulesets');
-            
-            const toggleIcon = document.createElement('span');
-            toggleIcon.className = 'section-toggle collapsed';
-            toggleIcon.textContent = '►';
-            toggleIcon.onclick = () => this.toggleSection('rulesets');
-            
-            rulesetsTitle.appendChild(masterCheckbox);
-            rulesetsTitle.appendChild(titleText);
-            rulesetsTitle.appendChild(toggleIcon);
-            rulesetsSection.appendChild(rulesetsTitle);
-            
-            const subsection = document.createElement('div');
-            subsection.className = 'filter-subsection collapsed';
-            subsection.id = 'section-rulesets';
-            
-            Array.from(rulesets).sort().forEach(ruleset => {
-                const filterDiv = document.createElement('div');
-                filterDiv.className = 'source-filter';
-                
-                const checkbox = document.createElement('input');
-                checkbox.type = 'checkbox';
-                checkbox.id = `filter-ruleset-${ruleset.replace(/[^a-zA-Z0-9]/g, '')}`;
-                checkbox.value = `ruleset-${ruleset}`;
-                checkbox.checked = true;
-                checkbox.dataset.type = 'ruleset';
-                checkbox.dataset.source = ruleset;
-                checkbox.dataset.section = 'rulesets';
-                
-                const label = document.createElement('label');
-                label.htmlFor = checkbox.id;
-                label.textContent = ruleset;
-                
-                filterDiv.appendChild(checkbox);
-                filterDiv.appendChild(label);
-                subsection.appendChild(filterDiv);
-                
-                checkbox.addEventListener('change', () => {
-                    this.updateMasterCheckbox('rulesets');
-                    this.performSearch(document.getElementById('searchInput').value.trim());
-                    this.updateUrlParameters();
-                });
-            });
-            
-            rulesetsSection.appendChild(subsection);
-            filtersContainer.appendChild(rulesetsSection);
-        }
-        
-        // Create Database sections
-        const dbTypeNames = {
-            monsters: 'Monsters',
-            spells: 'Spells', 
-            magic_items: 'Magic Items'
-        };
-        
-        Object.entries(databases).forEach(([dbType, sources]) => {
-            if (sources.size > 0) {
-                const dbSection = document.createElement('div');
-                dbSection.className = 'filter-section';
-                
-                const dbTitle = document.createElement('div');
-                dbTitle.className = 'filter-section-title';
-                
-                const masterCheckbox = document.createElement('input');
-                masterCheckbox.type = 'checkbox';
-                masterCheckbox.id = `master-${dbType}`;
-                masterCheckbox.checked = true;
-                masterCheckbox.addEventListener('change', (e) => {
-                    e.stopPropagation();
-                    this.toggleAllInSection(dbType);
-                });
-                
-                const titleText = document.createElement('span');
-                titleText.textContent = dbTypeNames[dbType];
-                titleText.onclick = () => this.toggleSection(dbType);
-                
-                const toggleIcon = document.createElement('span');
-                toggleIcon.className = 'section-toggle collapsed';
-                toggleIcon.textContent = '►';
-                toggleIcon.onclick = () => this.toggleSection(dbType);
-                
-                dbTitle.appendChild(masterCheckbox);
-                dbTitle.appendChild(titleText);
-                dbTitle.appendChild(toggleIcon);
-                dbSection.appendChild(dbTitle);
-                
-                const subsection = document.createElement('div');
-                subsection.className = 'filter-subsection collapsed';
-                subsection.id = `section-${dbType}`;
-                
-                Array.from(sources).sort().forEach(source => {
-                    const filterDiv = document.createElement('div');
-                    filterDiv.className = 'source-filter';
-                    
-                    const checkbox = document.createElement('input');
-                    checkbox.type = 'checkbox';
-                    checkbox.id = `filter-${dbType}-${source.replace(/[^a-zA-Z0-9]/g, '')}`;
-                    checkbox.value = `${dbType}-${source}`;
-                    checkbox.checked = true;
-                    checkbox.dataset.type = dbType;
-                    checkbox.dataset.source = source;
-                    checkbox.dataset.section = dbType;
-                    
-                    const label = document.createElement('label');
-                    label.htmlFor = checkbox.id;
-                    label.textContent = source;
-                    
-                    filterDiv.appendChild(checkbox);
-                    filterDiv.appendChild(label);
-                    subsection.appendChild(filterDiv);
-                    
-                    checkbox.addEventListener('change', () => {
-                        this.updateMasterCheckbox(dbType);
-                        this.performSearch(document.getElementById('searchInput').value.trim());
-                        this.updateUrlParameters();
-                    });
-                });
-                
-                dbSection.appendChild(subsection);
-                filtersContainer.appendChild(dbSection);
-            }
-        });
-    }
-
-    toggleSection(sectionName) {
-        const section = document.getElementById(`section-${sectionName}`);
-        const toggle = section.previousElementSibling.querySelector('.section-toggle');
-        
-        if (section.classList.contains('collapsed')) {
-            section.classList.remove('collapsed');
-            toggle.classList.remove('collapsed');
-            toggle.textContent = '▼';
-        } else {
-            section.classList.add('collapsed');
-            toggle.classList.add('collapsed');
-            toggle.textContent = '►';
-        }
-    }
-
-    toggleAllInSection(sectionType) {
-        const masterCheckbox = document.getElementById(`master-${sectionType}`);
-        const sectionCheckboxes = document.querySelectorAll(`#sourceFilters input[data-section="${sectionType}"]`);
-        
-        sectionCheckboxes.forEach(checkbox => {
-            checkbox.checked = masterCheckbox.checked;
-        });
-        
-        this.performSearch(document.getElementById('searchInput').value.trim());
-        this.updateUrlParameters();
-    }
-
-    updateMasterCheckbox(sectionType) {
-        const masterCheckbox = document.getElementById(`master-${sectionType}`);
-        const sectionCheckboxes = document.querySelectorAll(`#sourceFilters input[data-section="${sectionType}"]`);
-        const checkedBoxes = document.querySelectorAll(`#sourceFilters input[data-section="${sectionType}"]:checked`);
-        
-        if (checkedBoxes.length === 0) {
-            masterCheckbox.checked = false;
-            masterCheckbox.indeterminate = false;
-        } else if (checkedBoxes.length === sectionCheckboxes.length) {
-            masterCheckbox.checked = true;
-            masterCheckbox.indeterminate = false;
-        } else {
-            masterCheckbox.checked = false;
-            masterCheckbox.indeterminate = true;
-        }
-    }
-    
-    updateAllMasterCheckboxes() {
-        // Update master checkboxes for all sections
-        const sections = ['rulesets', 'monsters', 'spells', 'magic_items'];
-        sections.forEach(section => {
-            const masterCheckbox = document.getElementById(`master-${section}`);
-            if (masterCheckbox) {
-                this.updateMasterCheckbox(section);
-            }
-        });
-    }
-
-    getSelectedSources() {
-        const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]:checked');
-        return Array.from(checkboxes).map(checkbox => ({
-            type: checkbox.dataset.type,
-            source: checkbox.dataset.source
-        }));
-    }
-
-    getAllAvailableSources() {
-        const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
-        return Array.from(checkboxes).map(checkbox => ({
-            type: checkbox.dataset.type,
-            source: checkbox.dataset.source
-        }));
-    }
-
-    createSourceCodeMappings() {
-        // Create mappings from short codes to full source names
-        const mappings = {
-            // Common abbreviations
-            'srd51': '5.1 SRD',
-            'srd52': '5.2 SRD',
-            'srd24': 'D&D 2024',
-            'a5e': 'Level Up Advanced 5e',
-            'vom': 'Vault of Magic',
-            'tov': 'Tome of Versatile Magic',
-            'monsters': 'Monsters',
-            'spells': 'Spells',
-            'items': 'Magic Items',
-            'basic': 'Basic Rules',
-            'dmg': 'Dungeon Master\'s Guide',
-            'phb': 'Player\'s Handbook',
-            'mm': 'Monster Manual',
-            'xgte': 'Xanathar\'s Guide to Everything',
-            'tce': 'Tasha\'s Cauldron of Everything',
-            'ftd': 'Fizban\'s Treasury of Dragons',
-            'mpmm': 'Mordenkainen Presents: Monsters of the Multiverse',
-            'blackfla': 'black_flag'
-        };
-        
-        // Auto-generate codes for any sources not manually mapped
-        const allSources = new Set();
-        this.documents.forEach(doc => {
-            if (doc.type === 'ruleset') {
-                allSources.add(doc.source);
-            } else {
-                allSources.add(doc.category);
-            }
-        });
-        
-        // Add auto-generated codes for unmapped sources
-        Array.from(allSources).forEach(source => {
-            if (!Object.values(mappings).includes(source)) {
-                // Create a simple code from the source name
-                let code = source.toLowerCase()
-                    .replace(/[^a-z0-9]/g, '')
-                    .substring(0, 8);
-                
-                // If code already exists, make it unique
-                let counter = 1;
-                while (mappings[code]) {
-                    code = source.toLowerCase()
-                        .replace(/[^a-z0-9]/g, '')
-                        .substring(0, 7) + counter;
-                    counter++;
-                }
-                
-                mappings[code] = source;
-            }
-        });
-        
-        return mappings;
-    }
 
     setupEventListeners() {
         const searchInput = document.getElementById('searchInput');
@@ -918,7 +539,6 @@ class SearchEngine {
             
             // If no exact results found, try fuzzy search with edit distance 1
             if (results.length === 0) {
-                console.log('No exact matches found, trying fuzzy search with edit distance 1...');
                 const fuzzyQuery1 = query.split(' ').map(term => {
                     // Only add fuzzy operator if the term doesn't already have one
                     return term.includes('~') ? term : `${term}~1`;
@@ -927,7 +547,6 @@ class SearchEngine {
                 
                 // If still no results, try with edit distance 2
                 if (results.length === 0) {
-                    console.log('No fuzzy matches with edit distance 1, trying edit distance 2...');
                     const fuzzyQuery2 = query.split(' ').map(term => {
                         // Only add fuzzy operator if the term doesn't already have one
                         return term.includes('~') ? term : `${term}~2`;
@@ -937,19 +556,27 @@ class SearchEngine {
             }
             
             // Filter results by selected sources
-            const selectedFilters = this.getSelectedSources();
-            const filteredResults = results.filter(result => {
-                const doc = this.documents.find(d => d.id == result.ref);
-                if (!doc) return false;
-                
-                return selectedFilters.some(filter => {
-                    if (filter.type === 'ruleset') {
-                        return doc.type === 'ruleset' && doc.source === filter.source;
-                    } else {
-                        return doc.type === filter.type && doc.category === filter.source;
-                    }
+            const selectedFilters = window.searchFilters.getSelectedSources();
+            
+            let filteredResults;
+            if (selectedFilters.length === 0) {
+                // No filters selected - show all results
+                filteredResults = results;
+            } else {
+                // Apply filtering
+                filteredResults = results.filter(result => {
+                    const doc = this.documents.find(d => d.id == result.ref);
+                    if (!doc) return false;
+                    
+                    return selectedFilters.some(filter => {
+                        if (filter.type === 'ruleset') {
+                            return doc.type === 'ruleset' && doc.source === filter.source;
+                        } else {
+                            return doc.type === filter.type && doc.category === filter.source;
+                        }
+                    });
                 });
-            });
+            }
             
             this.displayResults(filteredResults, query);
         } catch (error) {
@@ -963,77 +590,21 @@ class SearchEngine {
         const statsContainer = document.getElementById('searchStats');
 
         if (results.length === 0) {
-            resultsContainer.innerHTML = '<div class="no-results">No results found for your search.</div>';
+            this.searchInterface.displayNoResults();
             statsContainer.style.display = 'none';
             return;
         }
 
-        statsContainer.innerHTML = `Found ${results.length} result${results.length === 1 ? '' : 's'} for "${query}"`;
-        statsContainer.style.display = 'block';
+        this.searchInterface.displaySearchStats(results.length, query);
 
         const resultsHTML = results.map(result => {
             const doc = this.documents.find(d => d.id == result.ref);
-            if (!doc) return '';
-
-            const snippet = this.generateSnippet(doc.content, query);
-            const categoryInfo = doc.category && doc.category !== 'root' ? ` > ${doc.category}` : '';
-            
-            return `
-                <div class="result-item">
-                    <div class="result-title">
-                        <a href="${doc.url}" target="_blank">${this.highlightText(doc.title, query)}</a>
-                    </div>
-                    <div class="result-source">${doc.source}${categoryInfo}</div>
-                    <div class="result-snippet">${snippet}</div>
-                </div>
-            `;
+            return this.searchInterface.createResultItemHtml(doc, query);
         }).join('');
 
         resultsContainer.innerHTML = resultsHTML;
     }
 
-    generateSnippet(content, query, maxLength = 200) {
-        const words = query.toLowerCase().split(/\s+/);
-        
-        let bestPos = 0;
-        let maxMatches = 0;
-        
-        for (let i = 0; i < content.length - maxLength; i += 20) {
-            const snippet = content.substr(i, maxLength).toLowerCase();
-            const matches = words.reduce((count, word) => {
-                return count + (snippet.includes(word) ? 1 : 0);
-            }, 0);
-            
-            if (matches > maxMatches) {
-                maxMatches = matches;
-                bestPos = i;
-            }
-        }
-        
-        let snippet = content.substr(bestPos, maxLength);
-        if (bestPos > 0) snippet = '...' + snippet;
-        if (bestPos + maxLength < content.length) snippet += '...';
-        
-        return this.highlightText(snippet, query);
-    }
-
-    highlightText(text, query) {
-        if (!query) return text;
-        
-        const words = query.split(/\s+/).filter(word => word.length > 0);
-        let highlightedText = text;
-        
-        words.forEach(word => {
-            const regex = new RegExp(`(${this.escapeRegExp(word)})`, 'gi');
-            highlightedText = highlightedText.replace(regex, '<span class="highlight">$1</span>');
-        });
-        
-        return highlightedText;
-    }
-
-    escapeRegExp(string) {
-        return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    }
 
     performLuckySearch(query) {
         if (!query) {
@@ -1041,7 +612,6 @@ class SearchEngine {
         }
 
         if (!this.isIndexReady) {
-            console.log('Search index not ready for lucky search');
             return null;
         }
 
@@ -1050,7 +620,6 @@ class SearchEngine {
             
             // If no exact results found, try fuzzy search with edit distance 1
             if (results.length === 0) {
-                console.log('No exact matches found for lucky search, trying fuzzy search with edit distance 1...');
                 const fuzzyQuery1 = query.split(' ').map(term => {
                     // Only add fuzzy operator if the term doesn't already have one
                     return term.includes('~') ? term : `${term}~1`;
@@ -1059,7 +628,6 @@ class SearchEngine {
                 
                 // If still no results, try with edit distance 2
                 if (results.length === 0) {
-                    console.log('No fuzzy matches with edit distance 1 for lucky search, trying edit distance 2...');
                     const fuzzyQuery2 = query.split(' ').map(term => {
                         // Only add fuzzy operator if the term doesn't already have one
                         return term.includes('~') ? term : `${term}~2`;
@@ -1069,19 +637,27 @@ class SearchEngine {
             }
             
             // Filter results by selected sources
-            const selectedFilters = this.getSelectedSources();
-            const filteredResults = results.filter(result => {
-                const doc = this.documents.find(d => d.id == result.ref);
-                if (!doc) return false;
-                
-                return selectedFilters.some(filter => {
-                    if (filter.type === 'ruleset') {
-                        return doc.type === 'ruleset' && doc.source === filter.source;
-                    } else {
-                        return doc.type === filter.type && doc.category === filter.source;
-                    }
+            const selectedFilters = window.searchFilters.getSelectedSources();
+            
+            let filteredResults;
+            if (selectedFilters.length === 0) {
+                // No filters selected - show all results
+                filteredResults = results;
+            } else {
+                // Apply filtering
+                filteredResults = results.filter(result => {
+                    const doc = this.documents.find(d => d.id == result.ref);
+                    if (!doc) return false;
+                    
+                    return selectedFilters.some(filter => {
+                        if (filter.type === 'ruleset') {
+                            return doc.type === 'ruleset' && doc.source === filter.source;
+                        } else {
+                            return doc.type === filter.type && doc.category === filter.source;
+                        }
+                    });
                 });
-            });
+            }
             
             if (filteredResults.length > 0) {
                 const firstResult = filteredResults[0];
@@ -1099,38 +675,18 @@ class SearchEngine {
 
 document.addEventListener('DOMContentLoaded', () => {
     window.searchEngine = new SearchEngine();
+    
+    // Listen for filter changes and update search
+    document.addEventListener('filtersChanged', () => {
+        const searchInput = document.getElementById('searchInput');
+        if (searchInput.value.trim()) {
+            window.searchEngine.performSearch(searchInput.value.trim());
+            window.searchEngine.updateUrlParameters();
+        }
+    });
 });
 
-// Global functions for filter buttons
-function selectAllSources() {
-    const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
-    checkboxes.forEach(checkbox => {
-        checkbox.checked = true;
-    });
-    // Update master checkboxes and URL
-    window.searchEngine.updateAllMasterCheckboxes();
-    window.searchEngine.updateUrlParameters();
-    // Trigger search update
-    const searchInput = document.getElementById('searchInput');
-    if (searchInput.value.trim()) {
-        window.searchEngine.performSearch(searchInput.value.trim());
-    }
-}
-
-function deselectAllSources() {
-    const checkboxes = document.querySelectorAll('#sourceFilters input[type="checkbox"]');
-    checkboxes.forEach(checkbox => {
-        checkbox.checked = false;
-    });
-    // Update master checkboxes and URL
-    window.searchEngine.updateAllMasterCheckboxes();
-    window.searchEngine.updateUrlParameters();
-    // Trigger search update
-    const searchInput = document.getElementById('searchInput');
-    if (searchInput.value.trim()) {
-        window.searchEngine.performSearch(searchInput.value.trim());
-    }
-}
+// Global functions are now handled by shared modules
 
 function performManualSearch() {
     const searchInput = document.getElementById('searchInput');
@@ -1169,22 +725,6 @@ function performLuckySearch() {
     }
 }
 
-function toggleFilters() {
-    const filterContent = document.getElementById('filterContent');
-    const filterToggle = document.getElementById('filterToggle');
-    
-    if (filterContent.classList.contains('collapsed')) {
-        // Expand
-        filterContent.classList.remove('collapsed');
-        filterToggle.classList.remove('collapsed');
-        filterToggle.textContent = '▼';
-    } else {
-        // Collapse
-        filterContent.classList.add('collapsed');
-        filterToggle.classList.add('collapsed');
-        filterToggle.textContent = '►';
-    }
-}
 </script>
 
 </body>
