@@ -914,7 +914,27 @@ class SearchEngine {
         }
 
         try {
-            const results = this.index.search(query);
+            let results = this.index.search(query);
+            
+            // If no exact results found, try fuzzy search with edit distance 1
+            if (results.length === 0) {
+                console.log('No exact matches found, trying fuzzy search with edit distance 1...');
+                const fuzzyQuery1 = query.split(' ').map(term => {
+                    // Only add fuzzy operator if the term doesn't already have one
+                    return term.includes('~') ? term : `${term}~1`;
+                }).join(' ');
+                results = this.index.search(fuzzyQuery1);
+                
+                // If still no results, try with edit distance 2
+                if (results.length === 0) {
+                    console.log('No fuzzy matches with edit distance 1, trying edit distance 2...');
+                    const fuzzyQuery2 = query.split(' ').map(term => {
+                        // Only add fuzzy operator if the term doesn't already have one
+                        return term.includes('~') ? term : `${term}~2`;
+                    }).join(' ');
+                    results = this.index.search(fuzzyQuery2);
+                }
+            }
             
             // Filter results by selected sources
             const selectedFilters = this.getSelectedSources();
@@ -1026,7 +1046,27 @@ class SearchEngine {
         }
 
         try {
-            const results = this.index.search(query);
+            let results = this.index.search(query);
+            
+            // If no exact results found, try fuzzy search with edit distance 1
+            if (results.length === 0) {
+                console.log('No exact matches found for lucky search, trying fuzzy search with edit distance 1...');
+                const fuzzyQuery1 = query.split(' ').map(term => {
+                    // Only add fuzzy operator if the term doesn't already have one
+                    return term.includes('~') ? term : `${term}~1`;
+                }).join(' ');
+                results = this.index.search(fuzzyQuery1);
+                
+                // If still no results, try with edit distance 2
+                if (results.length === 0) {
+                    console.log('No fuzzy matches with edit distance 1 for lucky search, trying edit distance 2...');
+                    const fuzzyQuery2 = query.split(' ').map(term => {
+                        // Only add fuzzy operator if the term doesn't already have one
+                        return term.includes('~') ? term : `${term}~2`;
+                    }).join(' ');
+                    results = this.index.search(fuzzyQuery2);
+                }
+            }
             
             // Filter results by selected sources
             const selectedFilters = this.getSelectedSources();
