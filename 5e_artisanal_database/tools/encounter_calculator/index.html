@@ -235,6 +235,7 @@ input, select, .monster-search {
 </style>
 <title>5e Encounter Calculator</title>
 <script src="../../css_js/monster_combat_stats.js"></script>
+<script src="../../monsters/custom/custom_monster_index.js"></script>
 <script src="../../css_js/monster-lookup.js"></script>
 </head>
 <body>
@@ -404,7 +405,13 @@ let availableMonsters = [];
 function initializeMonsterData() {
     try {
         if (typeof monsterCombatStats !== 'undefined' && Array.isArray(monsterCombatStats)) {
-            availableMonsters = monsterCombatStats.map(monster => {
+            // Combine main monsters with custom monsters
+            const allMonsterData = [...monsterCombatStats];
+            if (typeof customMonsterCombatStats !== 'undefined' && Array.isArray(customMonsterCombatStats)) {
+                allMonsterData.push(...customMonsterCombatStats);
+            }
+            
+            availableMonsters = allMonsterData.map(monster => {
                 return {
                     name: monster.name,
                     cr: monster.cr,

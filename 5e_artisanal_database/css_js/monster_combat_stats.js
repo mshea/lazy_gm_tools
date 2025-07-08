@@ -1,5 +1,5 @@
 // Monster combat statistics for encounter calculator and combat tracker
-// Generated from monsters.json - contains AC, HP, initiative, CR, source, and HTML links
+// Generated from monsters.json - contains AC, HP, initiative, CR, type, source, and HTML links
 // This file replaces monster-data.js for combat applications
 
 const monsterCombatStats = [
@@ -9,6 +9,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": -1,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/a-mi-kuk.html"
   },
@@ -18,6 +19,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 0,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/aalpamac.html"
   },
@@ -27,6 +29,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 1,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/aatxe.html"
   },
@@ -36,6 +39,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 8.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/abaasy.html"
   },
@@ -45,6 +49,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 3.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/abbanith-giant.html"
   },
@@ -54,6 +59,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 1,
     "cr": 11.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/aboleth-a5e.html"
   },
@@ -63,6 +69,7 @@ const monsterCombatStats = [
     "hp": 165,
     "init": -1,
     "cr": 10.0,
+    "type": "Aberration",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/aboleth_bf.html"
   },
@@ -72,6 +79,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": -1,
     "cr": 10.0,
+    "type": "Aberration",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/aboleth.html"
   },
@@ -81,6 +89,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 7,
     "cr": 10.0,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/aboleth_mm_2024.html"
   },
@@ -90,6 +99,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/aboleth-thrall-a5e.html"
   },
@@ -99,6 +109,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 4,
     "cr": 11.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/abominablebeauty-tob1-2023.html"
   },
@@ -108,6 +119,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 1,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/abominable-snowman-a5e.html"
   },
@@ -117,6 +129,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/accurseddefiler-tob1-2023.html"
   },
@@ -126,6 +139,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/accursed-guardian-naga-a5e.html"
   },
@@ -135,6 +149,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 3,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/accursed-spirit-naga-a5e.html"
   },
@@ -144,6 +159,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.25,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/acid-ant.html"
   },
@@ -153,6 +169,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/acolyte-a5e.html"
   },
@@ -162,6 +179,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/acolyte_bf.html"
   },
@@ -171,6 +189,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/acolyte.html"
   },
@@ -180,6 +199,7 @@ const monsterCombatStats = [
     "hp": 220,
     "init": 5,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-amethyst-dragon-a5e.html"
   },
@@ -189,6 +209,7 @@ const monsterCombatStats = [
     "hp": 253,
     "init": 2,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-black-dragon-a5e.html"
   },
@@ -198,6 +219,7 @@ const monsterCombatStats = [
     "hp": 238,
     "init": 7,
     "cr": 14.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_black_dragon_bf.html"
   },
@@ -207,6 +229,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 2,
     "cr": 14.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-black-dragon.html"
   },
@@ -216,6 +239,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 12,
     "cr": 14.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_black_dragon_mm_2024.html"
   },
@@ -225,6 +249,7 @@ const monsterCombatStats = [
     "hp": 253,
     "init": 2,
     "cr": 17.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-black-dragon-lich-a5e.html"
   },
@@ -234,6 +259,7 @@ const monsterCombatStats = [
     "hp": 275,
     "init": 0,
     "cr": 19.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-blue-dragon-a5e.html"
   },
@@ -243,6 +269,7 @@ const monsterCombatStats = [
     "hp": 267,
     "init": 5,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_blue_dragon_bf.html"
   },
@@ -252,6 +279,7 @@ const monsterCombatStats = [
     "hp": 225,
     "init": 0,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-blue-dragon.html"
   },
@@ -261,6 +289,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 10,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_blue_dragon_mm_2024.html"
   },
@@ -270,6 +299,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 0,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/adult-boreal-dragon.html"
   },
@@ -279,6 +309,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 0,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-brass-dragon-a5e.html"
   },
@@ -288,6 +319,7 @@ const monsterCombatStats = [
     "hp": 225,
     "init": 5,
     "cr": 13.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_brass_dragon_bf.html"
   },
@@ -297,6 +329,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 0,
     "cr": 13.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-brass-dragon.html"
   },
@@ -306,6 +339,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 10,
     "cr": 13.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_brass_dragon_mm_2024.html"
   },
@@ -315,6 +349,7 @@ const monsterCombatStats = [
     "hp": 287,
     "init": 0,
     "cr": 18.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-bronze-dragon-a5e.html"
   },
@@ -324,6 +359,7 @@ const monsterCombatStats = [
     "hp": 255,
     "init": 5,
     "cr": 15.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_bronze_dragon_bf.html"
   },
@@ -333,6 +369,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 0,
     "cr": 15.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-bronze-dragon.html"
   },
@@ -342,6 +379,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 10,
     "cr": 15.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_bronze_dragon_mm_2024.html"
   },
@@ -351,6 +389,7 @@ const monsterCombatStats = [
     "hp": 270,
     "init": 1,
     "cr": 19.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/adultcavedragon-tob1-2023.html"
   },
@@ -360,6 +399,7 @@ const monsterCombatStats = [
     "hp": 253,
     "init": 1,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-copper-dragon-a5e.html"
   },
@@ -369,6 +409,7 @@ const monsterCombatStats = [
     "hp": 252,
     "init": 6,
     "cr": 14.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_copper_dragon_bf.html"
   },
@@ -378,6 +419,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 1,
     "cr": 14.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-copper-dragon.html"
   },
@@ -387,6 +429,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 11,
     "cr": 14.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_copper_dragon_mm_2024.html"
   },
@@ -396,6 +439,7 @@ const monsterCombatStats = [
     "hp": 287,
     "init": 2,
     "cr": 18.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-earth-dragon-a5e.html"
   },
@@ -405,6 +449,7 @@ const monsterCombatStats = [
     "hp": 241,
     "init": 6,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-emerald-dragon-a5e.html"
   },
@@ -414,6 +459,7 @@ const monsterCombatStats = [
     "hp": 275,
     "init": 2,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/adultflamedragon-tob1-2023.html"
   },
@@ -423,6 +469,7 @@ const monsterCombatStats = [
     "hp": 324,
     "init": 2,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-gold-dragon-a5e.html"
   },
@@ -432,6 +479,7 @@ const monsterCombatStats = [
     "hp": 284,
     "init": 8,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_gold_dragon_bf.html"
   },
@@ -441,6 +489,7 @@ const monsterCombatStats = [
     "hp": 256,
     "init": 2,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-gold-dragon.html"
   },
@@ -450,6 +499,7 @@ const monsterCombatStats = [
     "hp": 243,
     "init": 14,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_gold_dragon_mm_2024.html"
   },
@@ -459,6 +509,7 @@ const monsterCombatStats = [
     "hp": 287,
     "init": 1,
     "cr": 18.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-green-dragon-a5e.html"
   },
@@ -468,6 +519,7 @@ const monsterCombatStats = [
     "hp": 255,
     "init": 6,
     "cr": 15.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_green_dragon_bf.html"
   },
@@ -477,6 +529,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": 1,
     "cr": 15.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-green-dragon.html"
   },
@@ -486,6 +539,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": 11,
     "cr": 15.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_green_dragon_mm_2024.html"
   },
@@ -495,6 +549,7 @@ const monsterCombatStats = [
     "hp": 297,
     "init": 1,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/adult-imperial-dragon.html"
   },
@@ -504,6 +559,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 0,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/adult-light-dragon.html"
   },
@@ -513,6 +569,7 @@ const monsterCombatStats = [
     "hp": 253,
     "init": 6,
     "cr": 18.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/adultmithraldragon-tob1-2023.html"
   },
@@ -522,6 +579,7 @@ const monsterCombatStats = [
     "hp": 310,
     "init": 0,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-red-dragon-a5e.html"
   },
@@ -531,6 +589,7 @@ const monsterCombatStats = [
     "hp": 301,
     "init": 6,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_red_dragon_bf.html"
   },
@@ -540,6 +599,7 @@ const monsterCombatStats = [
     "hp": 256,
     "init": 0,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-red-dragon.html"
   },
@@ -549,6 +609,7 @@ const monsterCombatStats = [
     "hp": 256,
     "init": 12,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_red_dragon_mm_2024.html"
   },
@@ -558,6 +619,7 @@ const monsterCombatStats = [
     "hp": 252,
     "init": 5,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-river-dragon-a5e.html"
   },
@@ -567,6 +629,7 @@ const monsterCombatStats = [
     "hp": 304,
     "init": 6,
     "cr": 19.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-sapphire-dragon-a5e.html"
   },
@@ -576,6 +639,7 @@ const monsterCombatStats = [
     "hp": 275,
     "init": 0,
     "cr": 18.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/adultseadragon-tob1-2023.html"
   },
@@ -585,6 +649,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 2,
     "cr": 19.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-shadow-dragon-a5e.html"
   },
@@ -594,6 +659,7 @@ const monsterCombatStats = [
     "hp": 283,
     "init": 2,
     "cr": 19.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-silver-dragon-a5e.html"
   },
@@ -603,6 +669,7 @@ const monsterCombatStats = [
     "hp": 267,
     "init": 5,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_silver_dragon_bf.html"
   },
@@ -612,6 +679,7 @@ const monsterCombatStats = [
     "hp": 243,
     "init": 0,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-silver-dragon.html"
   },
@@ -621,6 +689,7 @@ const monsterCombatStats = [
     "hp": 216,
     "init": 10,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_silver_dragon_mm_2024.html"
   },
@@ -630,6 +699,7 @@ const monsterCombatStats = [
     "hp": 229,
     "init": 0,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/adultvoiddragon-tob1-2023.html"
   },
@@ -639,6 +709,7 @@ const monsterCombatStats = [
     "hp": 225,
     "init": 0,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/adult-wasteland-dragon.html"
   },
@@ -648,6 +719,7 @@ const monsterCombatStats = [
     "hp": 250,
     "init": 1,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-white-dragon-a5e.html"
   },
@@ -657,6 +729,7 @@ const monsterCombatStats = [
     "hp": 238,
     "init": 5,
     "cr": 13.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/adult_white_dragon_bf.html"
   },
@@ -666,6 +739,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 0,
     "cr": 13.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/adult-white-dragon.html"
   },
@@ -675,6 +749,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 10,
     "cr": 13.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_white_dragon_mm_2024.html"
   },
@@ -684,6 +759,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 3,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/adultwinddragon-tob1-2023.html"
   },
@@ -693,6 +769,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/agnibarra.html"
   },
@@ -702,6 +779,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ahu-nixta.html"
   },
@@ -711,6 +789,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": -1,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ahu-nixta-cataphract.html"
   },
@@ -720,6 +799,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 1,
     "cr": 0.5,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ahu-nixta-drudge.html"
   },
@@ -729,6 +809,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 1,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ahu-nixta-mechanon.html"
   },
@@ -738,6 +819,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ahuizotl.html"
   },
@@ -747,6 +829,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/air-elemental-a5e.html"
   },
@@ -756,6 +839,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 5,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/air_elemental_bf.html"
   },
@@ -765,6 +849,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 5,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/air-elemental.html"
   },
@@ -774,6 +859,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 5,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/air_elemental_mm_2024.html"
   },
@@ -783,6 +869,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 4,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/akaasit.html"
   },
@@ -792,6 +879,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/akanka.html"
   },
@@ -801,6 +889,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 2,
     "cr": 6.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/akhlut.html"
   },
@@ -810,6 +899,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 3,
     "cr": 12.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/akkorokamui.html"
   },
@@ -819,6 +909,7 @@ const monsterCombatStats = [
     "hp": 656,
     "init": 7,
     "cr": 22.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/aklea-a5e.html"
   },
@@ -828,6 +919,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": 3,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/akyishigal-tob1-2023.html"
   },
@@ -837,6 +929,7 @@ const monsterCombatStats = [
     "hp": 149,
     "init": 2,
     "cr": 9.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/al-aeshmagenie-tob1-2023.html"
   },
@@ -846,6 +939,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 3,
     "cr": 8.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ala-tob1-2023.html"
   },
@@ -855,6 +949,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 0,
     "cr": 7.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alabaster-tree.html"
   },
@@ -864,6 +959,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/alabroza.html"
   },
@@ -873,6 +969,7 @@ const monsterCombatStats = [
     "hp": 72,
     "init": 2,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/alabroza-bloodfiend.html"
   },
@@ -882,6 +979,7 @@ const monsterCombatStats = [
     "hp": 149,
     "init": 2,
     "cr": 10.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/alazai.html"
   },
@@ -891,6 +989,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/albino-death-weasel.html"
   },
@@ -900,6 +999,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": -2,
     "cr": 1.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alchemical-apprentice.html"
   },
@@ -909,6 +1009,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": -2,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alchemical-golem.html"
   },
@@ -918,6 +1019,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/alchemical-skunk.html"
   },
@@ -927,6 +1029,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/alchemist-tob1-2023.html"
   },
@@ -936,6 +1039,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 3,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/alchemist-a5e.html"
   },
@@ -945,6 +1049,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 5,
     "cr": 10.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alchemist-archer.html"
   },
@@ -954,6 +1059,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/alehousedrake-tob1-2023.html"
   },
@@ -963,6 +1069,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 2,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/algorith-tob1-2023.html"
   },
@@ -972,6 +1079,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/alke.html"
   },
@@ -981,6 +1089,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alkonost.html"
   },
@@ -990,6 +1099,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/alligator.html"
   },
@@ -999,6 +1109,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/alligator-turtle.html"
   },
@@ -1008,6 +1119,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 4,
     "cr": 0.25,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alliumite.html"
   },
@@ -1017,6 +1129,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 1,
     "cr": 2.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/alliumite-husker.html"
   },
@@ -1026,6 +1139,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 4,
     "cr": 2.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/alliumite-rapscallion.html"
   },
@@ -1035,6 +1149,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 4,
     "cr": 3.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/allosaurus-a5e.html"
   },
@@ -1044,6 +1159,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/allosaurus_mm_2024.html"
   },
@@ -1053,6 +1169,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 6,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alnaar.html"
   },
@@ -1062,6 +1179,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alp.html"
   },
@@ -1071,6 +1189,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/alpha-fish.html"
   },
@@ -1080,6 +1199,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/alpha-werewolf-a5e.html"
   },
@@ -1089,6 +1209,7 @@ const monsterCombatStats = [
     "hp": 129,
     "init": 3,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/alpha-yek.html"
   },
@@ -1098,6 +1219,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": -5,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/alpine-creeper.html"
   },
@@ -1107,6 +1229,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 3,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/alseid-tob1-2023.html"
   },
@@ -1116,6 +1239,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/alseid-woad-warrior.html"
   },
@@ -1125,6 +1249,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": -1,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/altar-flame-golem.html"
   },
@@ -1134,6 +1259,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -3,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/amber-ooze.html"
   },
@@ -1143,6 +1269,7 @@ const monsterCombatStats = [
     "hp": 156,
     "init": 8,
     "cr": 9.0,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ambush_hag_bf.html"
   },
@@ -1152,6 +1279,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/amethyst-dragon-wyrmling-a5e.html"
   },
@@ -1161,6 +1289,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 1,
     "cr": 9.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ammut.html"
   },
@@ -1170,6 +1299,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 4,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/amphibolt.html"
   },
@@ -1179,6 +1309,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 4,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/amphiptere-tob1-2023.html"
   },
@@ -1188,6 +1319,7 @@ const monsterCombatStats = [
     "hp": 342,
     "init": 1,
     "cr": 11.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-aboleth-a5e.html"
   },
@@ -1197,6 +1329,7 @@ const monsterCombatStats = [
     "hp": 313,
     "init": 7,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-amethyst-dragon-a5e.html"
   },
@@ -1206,6 +1339,7 @@ const monsterCombatStats = [
     "hp": 367,
     "init": 2,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-black-dragon-a5e.html"
   },
@@ -1215,6 +1349,7 @@ const monsterCombatStats = [
     "hp": 355,
     "init": 8,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_black_dragon_bf.html"
   },
@@ -1224,6 +1359,7 @@ const monsterCombatStats = [
     "hp": 367,
     "init": 2,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-black-dragon.html"
   },
@@ -1233,6 +1369,7 @@ const monsterCombatStats = [
     "hp": 367,
     "init": 16,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_black_dragon_mm_2024.html"
   },
@@ -1242,6 +1379,7 @@ const monsterCombatStats = [
     "hp": 407,
     "init": 0,
     "cr": 25.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-blue-dragon-a5e.html"
   },
@@ -1251,6 +1389,7 @@ const monsterCombatStats = [
     "hp": 355,
     "init": 6,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_blue_dragon_bf.html"
   },
@@ -1260,6 +1399,7 @@ const monsterCombatStats = [
     "hp": 481,
     "init": 0,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-blue-dragon.html"
   },
@@ -1269,6 +1409,7 @@ const monsterCombatStats = [
     "hp": 481,
     "init": 14,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_blue_dragon_mm_2024.html"
   },
@@ -1278,6 +1419,7 @@ const monsterCombatStats = [
     "hp": 407,
     "init": 0,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ancient-boreal-dragon.html"
   },
@@ -1287,6 +1429,7 @@ const monsterCombatStats = [
     "hp": 367,
     "init": 0,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-brass-dragon-a5e.html"
   },
@@ -1296,6 +1439,7 @@ const monsterCombatStats = [
     "hp": 284,
     "init": 6,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_brass_dragon_bf.html"
   },
@@ -1305,6 +1449,7 @@ const monsterCombatStats = [
     "hp": 297,
     "init": 0,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-brass-dragon.html"
   },
@@ -1314,6 +1459,7 @@ const monsterCombatStats = [
     "hp": 332,
     "init": 12,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_brass_dragon_mm_2024.html"
   },
@@ -1323,6 +1469,7 @@ const monsterCombatStats = [
     "hp": 425,
     "init": 0,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-bronze-dragon-a5e.html"
   },
@@ -1332,6 +1479,7 @@ const monsterCombatStats = [
     "hp": 314,
     "init": 6,
     "cr": 19.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_bronze_dragon_bf.html"
   },
@@ -1341,6 +1489,7 @@ const monsterCombatStats = [
     "hp": 444,
     "init": 0,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-bronze-dragon.html"
   },
@@ -1350,6 +1499,7 @@ const monsterCombatStats = [
     "hp": 444,
     "init": 14,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_bronze_dragon_mm_2024.html"
   },
@@ -1359,6 +1509,7 @@ const monsterCombatStats = [
     "hp": 507,
     "init": 1,
     "cr": 25.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ancientcavedragon-tob1-2023.html"
   },
@@ -1368,6 +1519,7 @@ const monsterCombatStats = [
     "hp": 367,
     "init": 1,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-copper-dragon-a5e.html"
   },
@@ -1377,6 +1529,7 @@ const monsterCombatStats = [
     "hp": 297,
     "init": 6,
     "cr": 18.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_copper_dragon_bf.html"
   },
@@ -1386,6 +1539,7 @@ const monsterCombatStats = [
     "hp": 350,
     "init": 1,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-copper-dragon.html"
   },
@@ -1395,6 +1549,7 @@ const monsterCombatStats = [
     "hp": 367,
     "init": 15,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_copper_dragon_mm_2024.html"
   },
@@ -1404,6 +1559,7 @@ const monsterCombatStats = [
     "hp": 425,
     "init": 2,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-earth-dragon-a5e.html"
   },
@@ -1413,6 +1569,7 @@ const monsterCombatStats = [
     "hp": 346,
     "init": 8,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-emerald-dragon-a5e.html"
   },
@@ -1422,6 +1579,7 @@ const monsterCombatStats = [
     "hp": 518,
     "init": 2,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ancientflamedragon-tob1-2023.html"
   },
@@ -1431,6 +1589,7 @@ const monsterCombatStats = [
     "hp": 487,
     "init": 2,
     "cr": 26.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-gold-dragon-a5e.html"
   },
@@ -1440,6 +1599,7 @@ const monsterCombatStats = [
     "hp": 382,
     "init": 9,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_gold_dragon_bf.html"
   },
@@ -1449,6 +1609,7 @@ const monsterCombatStats = [
     "hp": 546,
     "init": 2,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-gold-dragon.html"
   },
@@ -1458,6 +1619,7 @@ const monsterCombatStats = [
     "hp": 546,
     "init": 16,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_gold_dragon_mm_2024.html"
   },
@@ -1467,6 +1629,7 @@ const monsterCombatStats = [
     "hp": 420,
     "init": 1,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-green-dragon-a5e.html"
   },
@@ -1476,6 +1639,7 @@ const monsterCombatStats = [
     "hp": 333,
     "init": 7,
     "cr": 19.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_green_dragon_bf.html"
   },
@@ -1485,6 +1649,7 @@ const monsterCombatStats = [
     "hp": 385,
     "init": 1,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-green-dragon.html"
   },
@@ -1494,6 +1659,7 @@ const monsterCombatStats = [
     "hp": 402,
     "init": 15,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_green_dragon_mm_2024.html"
   },
@@ -1503,6 +1669,7 @@ const monsterCombatStats = [
     "hp": 546,
     "init": 1,
     "cr": 26.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ancient-imperial-dragon.html"
   },
@@ -1512,6 +1679,7 @@ const monsterCombatStats = [
     "hp": 407,
     "init": 0,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ancient-light-dragon.html"
   },
@@ -1521,6 +1689,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": -1,
     "cr": 8.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ancient-mandriano.html"
   },
@@ -1530,6 +1699,7 @@ const monsterCombatStats = [
     "hp": 490,
     "init": 8,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ancientmithraldragon-tob1-2023.html"
   },
@@ -1539,6 +1709,7 @@ const monsterCombatStats = [
     "hp": 448,
     "init": 0,
     "cr": 26.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-red-dragon-a5e.html"
   },
@@ -1548,6 +1719,7 @@ const monsterCombatStats = [
     "hp": 382,
     "init": 7,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_red_dragon_bf.html"
   },
@@ -1557,6 +1729,7 @@ const monsterCombatStats = [
     "hp": 546,
     "init": 0,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-red-dragon.html"
   },
@@ -1566,6 +1739,7 @@ const monsterCombatStats = [
     "hp": 507,
     "init": 14,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_red_dragon_mm_2024.html"
   },
@@ -1575,6 +1749,7 @@ const monsterCombatStats = [
     "hp": 372,
     "init": 7,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-river-dragon-a5e.html"
   },
@@ -1584,6 +1759,7 @@ const monsterCombatStats = [
     "hp": 429,
     "init": 7,
     "cr": 25.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-sapphire-dragon-a5e.html"
   },
@@ -1593,6 +1769,7 @@ const monsterCombatStats = [
     "hp": 518,
     "init": 0,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ancientseadragon-tob1-2023.html"
   },
@@ -1602,6 +1779,7 @@ const monsterCombatStats = [
     "hp": 296,
     "init": 3,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-shadow-dragon-a5e.html"
   },
@@ -1611,6 +1789,7 @@ const monsterCombatStats = [
     "hp": 429,
     "init": 2,
     "cr": 25.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-silver-dragon-a5e.html"
   },
@@ -1620,6 +1799,7 @@ const monsterCombatStats = [
     "hp": 355,
     "init": 6,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_silver_dragon_bf.html"
   },
@@ -1629,6 +1809,7 @@ const monsterCombatStats = [
     "hp": 487,
     "init": 0,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-silver-dragon.html"
   },
@@ -1638,6 +1819,7 @@ const monsterCombatStats = [
     "hp": 468,
     "init": 14,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_silver_dragon_mm_2024.html"
   },
@@ -1647,6 +1829,7 @@ const monsterCombatStats = [
     "hp": 198,
     "init": 1,
     "cr": 12.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ancienttitan-tob1-2023.html"
   },
@@ -1656,6 +1839,7 @@ const monsterCombatStats = [
     "hp": 429,
     "init": 0,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ancientvoiddragon-tob1-2023.html"
   },
@@ -1665,6 +1849,7 @@ const monsterCombatStats = [
     "hp": 333,
     "init": 0,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ancient-wasteland-dragon.html"
   },
@@ -1674,6 +1859,7 @@ const monsterCombatStats = [
     "hp": 370,
     "init": 1,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-white-dragon-a5e.html"
   },
@@ -1683,6 +1869,7 @@ const monsterCombatStats = [
     "hp": 301,
     "init": 6,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ancient_white_dragon_bf.html"
   },
@@ -1692,6 +1879,7 @@ const monsterCombatStats = [
     "hp": 333,
     "init": 0,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ancient-white-dragon.html"
   },
@@ -1701,6 +1889,7 @@ const monsterCombatStats = [
     "hp": 333,
     "init": 12,
     "cr": 20.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_white_dragon_mm_2024.html"
   },
@@ -1710,6 +1899,7 @@ const monsterCombatStats = [
     "hp": 351,
     "init": 3,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ancientwinddragon-tob1-2023.html"
   },
@@ -1719,6 +1909,7 @@ const monsterCombatStats = [
     "hp": 284,
     "init": 5,
     "cr": 17.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/androsphinx_bf.html"
   },
@@ -1728,6 +1919,7 @@ const monsterCombatStats = [
     "hp": 199,
     "init": 0,
     "cr": 17.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/androsphinx.html"
   },
@@ -1737,6 +1929,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 5,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/angatra-tob1-2023.html"
   },
@@ -1746,6 +1939,7 @@ const monsterCombatStats = [
     "hp": 229,
     "init": 4,
     "cr": 18.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/angel-of-judgment.html"
   },
@@ -1755,6 +1949,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 1,
     "cr": 0.5,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/angel-haladron.html"
   },
@@ -1764,6 +1959,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 2,
     "cr": 13.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/angel-kalkydra.html"
   },
@@ -1773,6 +1969,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 4,
     "cr": 11.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/angel-pelagic-deva.html"
   },
@@ -1782,6 +1979,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 4.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/angel-psychopomp.html"
   },
@@ -1791,6 +1989,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 5,
     "cr": 13.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/angel-shrouded.html"
   },
@@ -1800,6 +1999,7 @@ const monsterCombatStats = [
     "hp": 325,
     "init": 2,
     "cr": 20.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/angel-zirnitran.html"
   },
@@ -1809,6 +2009,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 4,
     "cr": 12.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/angelic-enforcer.html"
   },
@@ -1818,6 +2019,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": -3,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/anglerworm-tob1-2023.html"
   },
@@ -1827,6 +2029,7 @@ const monsterCombatStats = [
     "hp": 250,
     "init": 0,
     "cr": 18.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/animal-lord-mammoth-queen.html"
   },
@@ -1836,6 +2039,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 0,
     "cr": 1.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/animated-armor-a5e.html"
   },
@@ -1845,6 +2049,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 0,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/animated_armor_bf.html"
   },
@@ -1854,6 +2059,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 0,
     "cr": 1.0,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/animated-armor.html"
   },
@@ -1863,6 +2069,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 1.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/animated_armor_mm_2024.html"
   },
@@ -1872,6 +2079,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 1,
     "cr": 4.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/animated-bearskin-rug.html"
   },
@@ -1881,6 +2089,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 4,
     "cr": 0.25,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/animated_flying_sword_mm_2024.html"
   },
@@ -1890,6 +2099,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 1,
     "cr": 0.25,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/animated-instrument.html"
   },
@@ -1899,6 +2109,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 3,
     "cr": 4.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/animated-instrument-quartet.html"
   },
@@ -1908,6 +2119,7 @@ const monsterCombatStats = [
     "hp": 201,
     "init": 4,
     "cr": 15.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/animated-instrument-symphony.html"
   },
@@ -1917,6 +2129,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": -2,
     "cr": 9.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/animated-offal.html"
   },
@@ -1926,6 +2139,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 4,
     "cr": 2.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/animated_rug_of_smothering_mm_2024.html"
   },
@@ -1935,6 +2149,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 2,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/aniwye.html"
   },
@@ -1944,6 +2159,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ankheg-a5e.html"
   },
@@ -1953,6 +2169,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ankheg_bf.html"
   },
@@ -1962,6 +2179,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ankheg.html"
   },
@@ -1971,6 +2189,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ankheg_mm_2024.html"
   },
@@ -1980,6 +2199,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 0,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ankheg-queen-a5e.html"
   },
@@ -1989,6 +2209,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.25,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ankheg-spawn-a5e.html"
   },
@@ -1998,6 +2219,7 @@ const monsterCombatStats = [
     "hp": 407,
     "init": 0,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ankou-soul-herald.html"
   },
@@ -2007,6 +2229,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 0,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ankou-soul-seeker.html"
   },
@@ -2016,6 +2239,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 0,
     "cr": 3.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ankylosaurus-a5e.html"
   },
@@ -2025,6 +2249,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 0,
     "cr": 3.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ankylosaurus_mm_2024.html"
   },
@@ -2034,6 +2259,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 0,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/annelidast-tob1-2023.html"
   },
@@ -2043,6 +2269,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/anophiloi.html"
   },
@@ -2052,6 +2279,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/anubian-tob1-2023.html"
   },
@@ -2061,6 +2289,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 2,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/anzu.html"
   },
@@ -2070,6 +2299,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 4,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/apauperape-tob1-2023.html"
   },
@@ -2079,6 +2309,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/apaxrusl.html"
   },
@@ -2088,6 +2319,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ape-a5e.html"
   },
@@ -2097,6 +2329,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ape_bf.html"
   },
@@ -2106,6 +2339,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ape.html"
   },
@@ -2115,6 +2349,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ape_mm_2024.html"
   },
@@ -2124,6 +2359,7 @@ const monsterCombatStats = [
     "hp": 176,
     "init": 2,
     "cr": 7.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ape_giant_bf.html"
   },
@@ -2133,6 +2369,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 5,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/aphasian-abomination.html"
   },
@@ -2142,6 +2379,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/apprentice-mage-a5e.html"
   },
@@ -2151,6 +2389,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 3,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/arachnocrat.html"
   },
@@ -2160,6 +2399,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 1,
     "cr": 8.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/arborcyte.html"
   },
@@ -2169,6 +2409,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/arborealgrappler-tob1-2023.html"
   },
@@ -2178,6 +2419,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/arcamag.html"
   },
@@ -2187,6 +2429,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 4,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/arcanaphage.html"
   },
@@ -2196,6 +2439,7 @@ const monsterCombatStats = [
     "hp": 256,
     "init": 1,
     "cr": 19.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/arcane-blademaster-a5e.html"
   },
@@ -2205,6 +2449,7 @@ const monsterCombatStats = [
     "hp": 279,
     "init": -3,
     "cr": 16.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/arcane-leviathan.html"
   },
@@ -2214,6 +2459,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/arcane-scavenger.html"
   },
@@ -2223,6 +2469,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/archaeopteryx.html"
   },
@@ -2232,6 +2479,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": 2,
     "cr": 12.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/archdruid_bf.html"
   },
@@ -2241,6 +2489,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 4.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/archelon_mm_2024.html"
   },
@@ -2250,6 +2499,7 @@ const monsterCombatStats = [
     "hp": 330,
     "init": 5,
     "cr": 12.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/archfey-a5e.html"
   },
@@ -2259,6 +2509,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 2,
     "cr": 11.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/archmage-a5e.html"
   },
@@ -2268,6 +2519,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 2,
     "cr": 12.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/archmage_bf.html"
   },
@@ -2277,6 +2529,7 @@ const monsterCombatStats = [
     "hp": 99,
     "init": 2,
     "cr": 12.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/archmage.html"
   },
@@ -2286,6 +2539,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 6,
     "cr": 12.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/archmage_mm_2024.html"
   },
@@ -2295,6 +2549,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 2,
     "cr": 13.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/archon-siege.html"
   },
@@ -2304,6 +2559,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 2,
     "cr": 9.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/archon-ursan.html"
   },
@@ -2313,6 +2569,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 2,
     "cr": 1.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/archon-word.html"
   },
@@ -2322,6 +2579,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 0,
     "cr": 16.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/archpriest-a5e.html"
   },
@@ -2331,6 +2589,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 5,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/aridni-tob1-2023.html"
   },
@@ -2340,6 +2599,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/armory-golem.html"
   },
@@ -2349,6 +2609,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": -1,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/arx-tob1-2023.html"
   },
@@ -2358,6 +2619,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/asanbosam-tob1-2023.html"
   },
@@ -2367,6 +2629,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 5,
     "cr": 14.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ascetic-grandmaster-a5e.html"
   },
@@ -2376,6 +2639,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 2,
     "cr": 4.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ashdrake-tob1-2023.html"
   },
@@ -2385,6 +2649,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 5,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ash-phoenix.html"
   },
@@ -2394,6 +2659,7 @@ const monsterCombatStats = [
     "hp": 99,
     "init": 5,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ashen-custodian.html"
   },
@@ -2403,6 +2669,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ashwalker-tob1-2023.html"
   },
@@ -2412,6 +2679,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 1,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/asp-vine.html"
   },
@@ -2421,6 +2689,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/assassin-a5e.html"
   },
@@ -2430,6 +2699,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 6,
     "cr": 8.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/assassin_bf.html"
   },
@@ -2439,6 +2709,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 8.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/assassin.html"
   },
@@ -2448,6 +2719,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 10,
     "cr": 8.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/assassin_mm_2024.html"
   },
@@ -2457,6 +2729,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/astral-devourer.html"
   },
@@ -2466,6 +2739,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/astral-snapper.html"
   },
@@ -2475,6 +2749,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 3,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/astralsupial.html"
   },
@@ -2484,6 +2759,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 5,
     "cr": 8.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/astri.html"
   },
@@ -2493,6 +2769,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 4,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/attercroppe.html"
   },
@@ -2502,6 +2779,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 3,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/august-rooster.html"
   },
@@ -2511,6 +2789,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 2,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/aural-hunter.html"
   },
@@ -2520,6 +2799,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 5,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/aurora-horribilis.html"
   },
@@ -2529,6 +2809,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 3,
     "cr": 10.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/automatadevil-tob1-2023.html"
   },
@@ -2538,6 +2819,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": -1,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/avalanche-screamer.html"
   },
@@ -2547,6 +2829,7 @@ const monsterCombatStats = [
     "hp": 341,
     "init": -1,
     "cr": 21.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/avatar-of-shoth.html"
   },
@@ -2556,6 +2839,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/avestruzii.html"
   },
@@ -2565,6 +2849,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/avestruzii-champion.html"
   },
@@ -2574,6 +2859,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.5,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/aviere.html"
   },
@@ -2583,6 +2869,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 3,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/avulzor.html"
   },
@@ -2592,6 +2879,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": -1,
     "cr": 0.0,
+    "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/awakened-shrub-a5e.html"
   },
@@ -2601,6 +2889,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.0,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/awakened_shrub_bf.html"
   },
@@ -2610,6 +2899,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": -1,
     "cr": 0.0,
+    "type": "Plant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/awakened-shrub.html"
   },
@@ -2619,6 +2909,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": -1,
     "cr": 0.0,
+    "type": "Plant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/awakened_shrub_mm_2024.html"
   },
@@ -2628,6 +2919,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": -2,
     "cr": 2.0,
+    "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/awakened-tree-a5e.html"
   },
@@ -2637,6 +2929,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": -2,
     "cr": 2.0,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/awakened_tree_bf.html"
   },
@@ -2646,6 +2939,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": -2,
     "cr": 2.0,
+    "type": "Plant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/awakened-tree.html"
   },
@@ -2655,6 +2949,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": -2,
     "cr": 2.0,
+    "type": "Plant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/awakened_tree_mm_2024.html"
   },
@@ -2664,6 +2959,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/axe-beak-a5e.html"
   },
@@ -2673,6 +2969,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/axe_beak_bf.html"
   },
@@ -2682,6 +2979,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/axe-beak.html"
   },
@@ -2691,6 +2989,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.25,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/axe_beak_mm_2024.html"
   },
@@ -2700,6 +2999,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/azeban.html"
   },
@@ -2709,6 +3009,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/azer-a5e.html"
   },
@@ -2718,6 +3019,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 1,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/azer_bf.html"
   },
@@ -2727,6 +3029,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/azer.html"
   },
@@ -2736,6 +3039,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 4.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/azer-forgemaster-a5e.html"
   },
@@ -2745,6 +3049,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/azer_sentinel_mm_2024.html"
   },
@@ -2754,6 +3059,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 2,
     "cr": 14.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/azi-dahaka.html"
   },
@@ -2763,6 +3069,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 4,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/aziza.html"
   },
@@ -2772,6 +3079,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 4,
     "cr": 0.25,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/azzagremlin-tob1-2023.html"
   },
@@ -2781,6 +3089,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 0,
     "cr": 11.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/babayagashorsemen-tob1-2023.html"
   },
@@ -2790,6 +3099,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/baboon-a5e.html"
   },
@@ -2799,6 +3109,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/baboon_bf.html"
   },
@@ -2808,6 +3119,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/baboon.html"
   },
@@ -2817,6 +3129,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/baboon_mm_2024.html"
   },
@@ -2826,6 +3139,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/backup-holler-spider.html"
   },
@@ -2835,6 +3149,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/badger-a5e.html"
   },
@@ -2844,6 +3159,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/badger_bf.html"
   },
@@ -2853,6 +3169,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/badger.html"
   },
@@ -2862,6 +3179,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/badger_mm_2024.html"
   },
@@ -2871,6 +3189,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/badger_giant_bf.html"
   },
@@ -2880,6 +3199,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bagiennik-tob1-2023.html"
   },
@@ -2889,6 +3209,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/balara_bf.html"
   },
@@ -2898,6 +3219,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/baleful-miasma.html"
   },
@@ -2907,6 +3229,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 3,
     "cr": 14.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/baliri-demon.html"
   },
@@ -2916,6 +3239,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/balloon-spider.html"
   },
@@ -2925,6 +3249,7 @@ const monsterCombatStats = [
     "hp": 299,
     "init": 4,
     "cr": 19.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/balor-a5e.html"
   },
@@ -2934,6 +3259,7 @@ const monsterCombatStats = [
     "hp": 292,
     "init": 2,
     "cr": 19.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/balor_bf.html"
   },
@@ -2943,6 +3269,7 @@ const monsterCombatStats = [
     "hp": 262,
     "init": 2,
     "cr": 19.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/balor.html"
   },
@@ -2952,6 +3279,7 @@ const monsterCombatStats = [
     "hp": 287,
     "init": 14,
     "cr": 19.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/balor_mm_2024.html"
   },
@@ -2961,6 +3289,7 @@ const monsterCombatStats = [
     "hp": 379,
     "init": 4,
     "cr": 24.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/balor-general-a5e.html"
   },
@@ -2970,6 +3299,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bandit-a5e.html"
   },
@@ -2979,6 +3309,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bandit_bf.html"
   },
@@ -2988,6 +3319,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/bandit.html"
   },
@@ -2997,6 +3329,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bandit_mm_2024.html"
   },
@@ -3006,6 +3339,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bandit-captain-a5e.html"
   },
@@ -3015,6 +3349,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 4,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bandit_captain_bf.html"
   },
@@ -3024,6 +3359,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/bandit-captain.html"
   },
@@ -3033,6 +3369,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bandit_captain_mm_2024.html"
   },
@@ -3042,6 +3379,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/banditlord-tob1-2023.html"
   },
@@ -3051,6 +3389,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/bannik.html"
   },
@@ -3060,6 +3399,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/banshee-a5e.html"
   },
@@ -3069,6 +3409,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bar-brawl.html"
   },
@@ -3078,6 +3419,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 3,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/barbed-devil-a5e.html"
   },
@@ -3087,6 +3429,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 3,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/barbed_devil_bf.html"
   },
@@ -3096,6 +3439,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/barbed-devil.html"
   },
@@ -3105,6 +3449,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/barbed_devil_mm_2024.html"
   },
@@ -3114,6 +3459,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 6,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bard_bf.html"
   },
@@ -3123,6 +3469,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 0,
     "cr": 6.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/barometz.html"
   },
@@ -3132,6 +3479,7 @@ const monsterCombatStats = [
     "hp": 225,
     "init": 5,
     "cr": 17.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/barong.html"
   },
@@ -3141,6 +3489,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": -1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/basilisk-a5e.html"
   },
@@ -3150,6 +3499,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": -1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/basilisk_bf.html"
   },
@@ -3159,6 +3509,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": -1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/basilisk.html"
   },
@@ -3168,6 +3519,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": -1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/basilisk_mm_2024.html"
   },
@@ -3177,6 +3529,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 4,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bastettemplecat-tob1-2023.html"
   },
@@ -3186,6 +3539,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bat-a5e.html"
   },
@@ -3195,6 +3549,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bat_bf.html"
   },
@@ -3204,6 +3559,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/bat.html"
   },
@@ -3213,6 +3569,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bat_mm_2024.html"
   },
@@ -3222,6 +3579,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bat_giant_bf.html"
   },
@@ -3231,6 +3589,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.25,
+    "type": "Swarm",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bat_swarm_of_bats_bf.html"
   },
@@ -3240,6 +3599,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bathhouse-drake.html"
   },
@@ -3249,6 +3609,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 1,
     "cr": 3.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/beach-weird.html"
   },
@@ -3258,6 +3619,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 12.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bearking-tob1-2023.html"
   },
@@ -3267,6 +3629,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bear_black_bf.html"
   },
@@ -3276,6 +3639,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 0,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bear_brown_bf.html"
   },
@@ -3285,6 +3649,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bear_polar_bf.html"
   },
@@ -3294,6 +3659,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bearded-devil-a5e.html"
   },
@@ -3303,6 +3669,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bearded_devil_bf.html"
   },
@@ -3312,6 +3679,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/bearded-devil.html"
   },
@@ -3321,6 +3689,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bearded_devil_mm_2024.html"
   },
@@ -3330,6 +3699,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bearfolk-tob1-2023.html"
   },
@@ -3339,6 +3709,7 @@ const monsterCombatStats = [
     "hp": 130,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bearfolk-chieftain.html"
   },
@@ -3348,6 +3719,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/bearfolk-thunderstomper.html"
   },
@@ -3357,6 +3729,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bearing-golem.html"
   },
@@ -3366,6 +3739,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 1,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bearmit-crab.html"
   },
@@ -3375,6 +3749,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/beetle-clacker-soldier.html"
   },
@@ -3384,6 +3759,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/beetle-clacker-swarm.html"
   },
@@ -3393,6 +3769,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/befouled-weird.html"
   },
@@ -3402,6 +3779,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/beggarghoul-tob1-2023.html"
   },
@@ -3411,6 +3789,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 1,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/beheadedvengefulspirit-tob1-2023.html"
   },
@@ -3420,6 +3799,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 2,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/behir-a5e.html"
   },
@@ -3429,6 +3809,7 @@ const monsterCombatStats = [
     "hp": 223,
     "init": 3,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/behir_bf.html"
   },
@@ -3438,6 +3819,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 3,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/behir.html"
   },
@@ -3447,6 +3829,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 3,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/behir_mm_2024.html"
   },
@@ -3456,6 +3839,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 2,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/behir-magus-a5e.html"
   },
@@ -3465,6 +3849,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/behtu-tob1-2023.html"
   },
@@ -3474,6 +3859,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/beli-tob1-2023.html"
   },
@@ -3483,6 +3869,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 1,
     "cr": 10.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/belu.html"
   },
@@ -3492,6 +3879,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/berberoka.html"
   },
@@ -3501,6 +3889,7 @@ const monsterCombatStats = [
     "hp": 81,
     "init": 4,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bereginyas-tob1-2023.html"
   },
@@ -3510,6 +3899,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/berserker-a5e.html"
   },
@@ -3519,6 +3909,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/berserker_bf.html"
   },
@@ -3528,6 +3919,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/berserker.html"
   },
@@ -3537,6 +3929,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/berserker_mm_2024.html"
   },
@@ -3546,6 +3939,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 0,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/berstuc-tob1-2023.html"
   },
@@ -3555,6 +3949,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 3,
     "cr": 1.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bilwis.html"
   },
@@ -3564,6 +3959,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/birgemon-seal.html"
   },
@@ -3573,6 +3969,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/black-bear-a5e.html"
   },
@@ -3582,6 +3979,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/black-bear.html"
   },
@@ -3591,6 +3989,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/black_bear_mm_2024.html"
   },
@@ -3600,6 +3999,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 4,
     "cr": 11.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/black-crier.html"
   },
@@ -3609,6 +4009,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/black-dragon-wyrmling-a5e.html"
   },
@@ -3618,6 +4019,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 4,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/black_dragon_wyrmling_bf.html"
   },
@@ -3627,6 +4029,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/black-dragon-wyrmling.html"
   },
@@ -3636,6 +4039,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 4,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/black_dragon_wyrmling_mm_2024.html"
   },
@@ -3645,6 +4049,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 0,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/blackknightcommander-tob1-2023.html"
   },
@@ -3654,6 +4059,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": -3,
     "cr": 6.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/black-patch.html"
   },
@@ -3663,6 +4069,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -3,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/black-pudding-a5e.html"
   },
@@ -3672,6 +4079,7 @@ const monsterCombatStats = [
     "hp": 122,
     "init": -3,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/black_pudding_bf.html"
   },
@@ -3681,6 +4089,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -3,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/black-pudding.html"
   },
@@ -3690,6 +4099,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": -3,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/black_pudding_mm_2024.html"
   },
@@ -3699,6 +4109,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 3,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/black-shuck.html"
   },
@@ -3708,6 +4119,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/black-sun-orc.html"
   },
@@ -3717,6 +4129,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/black-sun-priestess.html"
   },
@@ -3726,6 +4139,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 1,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/blackguard-a5e.html"
   },
@@ -3735,6 +4149,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 0,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/blaspheming-hand.html"
   },
@@ -3744,6 +4159,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 2,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bleakheart.html"
   },
@@ -3753,6 +4169,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 1,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/blemmyes-tob1-2023.html"
   },
@@ -3762,6 +4179,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 4,
     "cr": 8.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/blestsessebe.html"
   },
@@ -3771,6 +4189,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.25,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/blink-dog-a5e.html"
   },
@@ -3780,6 +4199,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.25,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/blink_dog_bf.html"
   },
@@ -3789,6 +4209,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.25,
+    "type": "Fey",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/blink-dog.html"
   },
@@ -3798,6 +4219,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.25,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/blink_dog_mm_2024.html"
   },
@@ -3807,6 +4229,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 0,
     "cr": 2.0,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bloatblossom_bf.html"
   },
@@ -3816,6 +4239,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 0,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bloated-ghoul.html"
   },
@@ -3825,6 +4249,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/blood-barnacle.html"
   },
@@ -3834,6 +4259,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 1,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/blood-elemental.html"
   },
@@ -3843,6 +4269,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 5,
     "cr": 10.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/blood-flurry.html"
   },
@@ -3852,6 +4279,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 1,
     "cr": 8.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/blood-giant.html"
   },
@@ -3861,6 +4289,7 @@ const monsterCombatStats = [
     "hp": 204,
     "init": 3,
     "cr": 11.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bloodhag-tob1-2023.html"
   },
@@ -3870,6 +4299,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/blood-hawk-a5e.html"
   },
@@ -3879,6 +4309,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/blood-hawk.html"
   },
@@ -3888,6 +4319,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/blood_hawk_mm_2024.html"
   },
@@ -3897,6 +4329,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/blood-imp.html"
   },
@@ -3906,6 +4339,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -2,
     "cr": 6.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/blood-ooze.html"
   },
@@ -3915,6 +4349,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": -2,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/blood-zombie.html"
   },
@@ -3924,6 +4359,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bloodsapper.html"
   },
@@ -3933,6 +4369,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": -2,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bloodstone-sentinel.html"
   },
@@ -3942,6 +4379,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bloody-bones.html"
   },
@@ -3951,6 +4389,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/blue-dragon-wyrmling-a5e.html"
   },
@@ -3960,6 +4399,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/blue_dragon_wyrmling_bf.html"
   },
@@ -3969,6 +4409,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 0,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/blue-dragon-wyrmling.html"
   },
@@ -3978,6 +4419,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/blue_dragon_wyrmling_mm_2024.html"
   },
@@ -3987,6 +4429,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/boar-a5e.html"
   },
@@ -3996,6 +4439,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/boar_bf.html"
   },
@@ -4005,6 +4449,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/boar.html"
   },
@@ -4014,6 +4459,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/boar_mm_2024.html"
   },
@@ -4023,6 +4469,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/boar_giant_bf.html"
   },
@@ -4032,6 +4479,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/boggard-a5e.html"
   },
@@ -4041,6 +4489,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/boggard-bravo-a5e.html"
   },
@@ -4050,6 +4499,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/boggard-sovereign-a5e.html"
   },
@@ -4059,6 +4509,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 5,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/boloti-tob1-2023.html"
   },
@@ -4068,6 +4519,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bolt-thrower-a5e.html"
   },
@@ -4077,6 +4529,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 5,
     "cr": 8.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bonecollective-tob1-2023.html"
   },
@@ -4086,6 +4539,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/bone-collector.html"
   },
@@ -4095,6 +4549,7 @@ const monsterCombatStats = [
     "hp": 181,
     "init": 0,
     "cr": 13.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bone-colossus.html"
   },
@@ -4104,6 +4559,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bonecrab-tob1-2023.html"
   },
@@ -4113,6 +4569,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 3,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bone-devil-a5e.html"
   },
@@ -4122,6 +4579,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 3,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bone_devil_bf.html"
   },
@@ -4131,6 +4589,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 3,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/bone-devil.html"
   },
@@ -4140,6 +4599,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 7,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bone_devil_mm_2024.html"
   },
@@ -4149,6 +4609,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bone-golem.html"
   },
@@ -4158,6 +4619,7 @@ const monsterCombatStats = [
     "hp": 285,
     "init": 2,
     "cr": 19.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/bone-lord.html"
   },
@@ -4167,6 +4629,7 @@ const monsterCombatStats = [
     "hp": 198,
     "init": 4,
     "cr": 10.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/boneswarm-tob1-2023.html"
   },
@@ -4176,6 +4639,7 @@ const monsterCombatStats = [
     "hp": 180,
     "init": 5,
     "cr": 12.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bonepowderghoul-tob1-2023.html"
   },
@@ -4185,6 +4649,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 1,
     "cr": 12.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/boneshard-wraith.html"
   },
@@ -4194,6 +4659,7 @@ const monsterCombatStats = [
     "hp": 217,
     "init": -2,
     "cr": 13.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bonespitter.html"
   },
@@ -4203,6 +4669,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 2,
     "cr": 0.125,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bookkeeper.html"
   },
@@ -4212,6 +4679,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": -5,
     "cr": 0.5,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/boomer.html"
   },
@@ -4221,6 +4689,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/boot-grabber.html"
   },
@@ -4230,6 +4699,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 0,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/boreal-dragon-wyrmling.html"
   },
@@ -4239,6 +4709,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 2,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/boreas-chosen.html"
   },
@@ -4248,6 +4719,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bouda-tob1-2023.html"
   },
@@ -4257,6 +4729,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 1,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/brachyura-shambler.html"
   },
@@ -4266,6 +4739,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": -2,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/brain-coral.html"
   },
@@ -4275,6 +4749,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.5,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/brain-hood.html"
   },
@@ -4284,6 +4759,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 1,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/brass-dragon-wyrmling-a5e.html"
   },
@@ -4293,6 +4769,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 2,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/brass_dragon_wyrmling_bf.html"
   },
@@ -4302,6 +4779,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 0,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/brass-dragon-wyrmling.html"
   },
@@ -4311,6 +4789,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/brass_dragon_wyrmling_mm_2024.html"
   },
@@ -4320,6 +4799,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/brimstone-locusthound.html"
   },
@@ -4329,6 +4809,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 0,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bronze-dragon-wyrmling-a5e.html"
   },
@@ -4338,6 +4819,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bronze_dragon_wyrmling_bf.html"
   },
@@ -4347,6 +4829,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 0,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/bronze-dragon-wyrmling.html"
   },
@@ -4356,6 +4839,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bronze_dragon_wyrmling_mm_2024.html"
   },
@@ -4365,6 +4849,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": -2,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/bronze-golem.html"
   },
@@ -4374,6 +4859,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/broodiken-tob1-2023.html"
   },
@@ -4383,6 +4869,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 2,
     "cr": 11.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/broodmother-of-leng.html"
   },
@@ -4392,6 +4879,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 0,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/brown-bear-a5e.html"
   },
@@ -4401,6 +4889,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 0,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/brown-bear.html"
   },
@@ -4410,6 +4899,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/brown_bear_mm_2024.html"
   },
@@ -4419,6 +4909,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 5,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/brownie.html"
   },
@@ -4428,6 +4919,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 5,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/brownie-beastrider.html"
   },
@@ -4437,6 +4929,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 5,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/brownie-mystic.html"
   },
@@ -4446,6 +4939,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 3,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/brumalek.html"
   },
@@ -4455,6 +4949,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bucca-tob1-2023.html"
   },
@@ -4464,6 +4959,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bugbear-a5e.html"
   },
@@ -4473,6 +4969,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bugbear_bf.html"
   },
@@ -4482,6 +4979,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/bugbear.html"
   },
@@ -4491,6 +4989,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bugbear_champion_bf.html"
   },
@@ -4500,6 +4999,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bugbear-chief-a5e.html"
   },
@@ -4509,6 +5009,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 3.0,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bugbear_stalker_mm_2024.html"
   },
@@ -4518,6 +5019,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 1.0,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bugbear_warrior_mm_2024.html"
   },
@@ -4527,6 +5029,7 @@ const monsterCombatStats = [
     "hp": 199,
     "init": 3,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/bukavac-tob1-2023.html"
   },
@@ -4536,6 +5039,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 2,
     "cr": 1.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bulbous-violet.html"
   },
@@ -4545,6 +5049,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 0,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bulette-a5e.html"
   },
@@ -4554,6 +5059,7 @@ const monsterCombatStats = [
     "hp": 108,
     "init": 0,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/bulette_bf.html"
   },
@@ -4563,6 +5069,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 0,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/bulette.html"
   },
@@ -4572,6 +5079,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 0,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bulette_mm_2024.html"
   },
@@ -4581,6 +5089,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/bull.html"
   },
@@ -4590,6 +5099,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 2,
     "cr": 8.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bunyip-a5e.html"
   },
@@ -4599,6 +5109,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 4,
     "cr": 11.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/buraq-tob1-2023.html"
   },
@@ -4608,6 +5119,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/burrowling-tob1-2023.html"
   },
@@ -4617,6 +5129,7 @@ const monsterCombatStats = [
     "hp": 248,
     "init": 2,
     "cr": 14.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/butatsch.html"
   },
@@ -4626,6 +5139,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": -1,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/cackling-skeleton.html"
   },
@@ -4635,6 +5149,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/cactid-tob1-2023.html"
   },
@@ -4644,6 +5159,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": 0,
     "cr": 6.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cacus-giant.html"
   },
@@ -4653,6 +5169,7 @@ const monsterCombatStats = [
     "hp": 20,
     "init": 4,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/cadaver-sprite.html"
   },
@@ -4662,6 +5179,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 4,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/caldera-kite.html"
   },
@@ -4671,6 +5189,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/caltrop-golem.html"
   },
@@ -4680,6 +5199,7 @@ const monsterCombatStats = [
     "hp": 537,
     "init": 6,
     "cr": 22.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/camazotz-tob1-2023.html"
   },
@@ -4689,6 +5209,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 4,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cambion-a5e.html"
   },
@@ -4698,6 +5219,7 @@ const monsterCombatStats = [
     "hp": 264,
     "init": 3,
     "cr": 14.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/cambium-tob1-2023.html"
   },
@@ -4707,6 +5229,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/camel-a5e.html"
   },
@@ -4716,6 +5239,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/camel_bf.html"
   },
@@ -4725,6 +5249,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": -1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/camel.html"
   },
@@ -4734,6 +5259,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": -1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/camel_mm_2024.html"
   },
@@ -4743,6 +5269,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/capybear.html"
   },
@@ -4752,6 +5279,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/carbuncle.html"
   },
@@ -4761,6 +5289,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/caretaker-weevil.html"
   },
@@ -4770,6 +5299,7 @@ const monsterCombatStats = [
     "hp": 186,
     "init": -2,
     "cr": 13.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/carnivorous-ship.html"
   },
@@ -4779,6 +5309,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": -2,
     "cr": 1.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/carnivorous-sod.html"
   },
@@ -4788,6 +5319,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/carrier-mosquito.html"
   },
@@ -4797,6 +5329,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/carrionbeetle-tob1-2023.html"
   },
@@ -4806,6 +5339,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cat-a5e.html"
   },
@@ -4815,6 +5349,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/cat_bf.html"
   },
@@ -4824,6 +5359,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/cat.html"
   },
@@ -4833,6 +5369,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cat_mm_2024.html"
   },
@@ -4842,6 +5379,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 2,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/catamount.html"
   },
@@ -4851,6 +5389,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 1,
     "cr": 10.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/catonoctrix.html"
   },
@@ -4860,6 +5399,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 4,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cats-of-ulthar.html"
   },
@@ -4869,6 +5409,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 2,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/catscratch.html"
   },
@@ -4878,6 +5419,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/catterball.html"
   },
@@ -4887,6 +5429,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": -2,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cauldronborn.html"
   },
@@ -4896,6 +5439,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/causticcharger-tob1-2023.html"
   },
@@ -4905,6 +5449,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cave-bear-a5e.html"
   },
@@ -4914,6 +5459,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/cavedragonwyrmling-tob1-2023.html"
   },
@@ -4923,6 +5469,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/cave-drake.html"
   },
@@ -4932,6 +5479,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 0,
     "cr": 10.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cave-giant.html"
   },
@@ -4941,6 +5489,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": 0,
     "cr": 14.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/cave-giant-shaman.html"
   },
@@ -4950,6 +5499,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/cave-goat.html"
   },
@@ -4959,6 +5509,7 @@ const monsterCombatStats = [
     "hp": 174,
     "init": -1,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/cave-mimic.html"
   },
@@ -4968,6 +5519,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": -1,
     "cr": 2.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cave-ogre-a5e.html"
   },
@@ -4977,6 +5529,7 @@ const monsterCombatStats = [
     "hp": 253,
     "init": -1,
     "cr": 16.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/cave-sovereign.html"
   },
@@ -4986,6 +5539,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 1,
     "cr": 6.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cave-troll-a5e.html"
   },
@@ -4995,6 +5549,7 @@ const monsterCombatStats = [
     "hp": 37,
     "init": 0,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/cavefish-zombie.html"
   },
@@ -5004,6 +5559,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 0,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/cavelightmoss-tob1-2023.html"
   },
@@ -5013,6 +5569,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/centaur-a5e.html"
   },
@@ -5022,6 +5579,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/centaur_bf.html"
   },
@@ -5031,6 +5589,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/centaur.html"
   },
@@ -5040,6 +5599,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/centaur-chieftain.html"
   },
@@ -5049,6 +5609,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/centaur_trooper_mm_2024.html"
   },
@@ -5058,6 +5619,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 2,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/chain-devil-a5e.html"
   },
@@ -5067,6 +5629,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": 2,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/chain_devil_bf.html"
   },
@@ -5076,6 +5639,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 2,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/chain-devil.html"
   },
@@ -5085,6 +5649,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 5,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/chain_devil_mm_2024.html"
   },
@@ -5094,6 +5659,7 @@ const monsterCombatStats = [
     "hp": 121,
     "init": 3,
     "cr": 8.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/chainedangel-tob1-2023.html"
   },
@@ -5103,6 +5669,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 3,
     "cr": 10.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/chameleon-hydra.html"
   },
@@ -5112,6 +5679,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/champion-warrior-a5e.html"
   },
@@ -5121,6 +5689,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 1.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/chamrosh.html"
   },
@@ -5130,6 +5699,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 4,
     "cr": 9.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/chaos-creeper.html"
   },
@@ -5139,6 +5709,7 @@ const monsterCombatStats = [
     "hp": 248,
     "init": 0,
     "cr": 13.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/chaos-raptor.html"
   },
@@ -5148,6 +5719,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/chaos-spawn-goblin.html"
   },
@@ -5157,6 +5729,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 4,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/chatterlome.html"
   },
@@ -5166,6 +5739,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 3,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/chelicerae-tob1-2023.html"
   },
@@ -5175,6 +5749,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 3,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/chemosit.html"
   },
@@ -5184,6 +5759,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 4,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/chernomoi-tob1-2023.html"
   },
@@ -5193,6 +5769,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 0,
     "cr": 14.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/cherufe.html"
   },
@@ -5202,6 +5779,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 2,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/chieftain-tob1-2023.html"
   },
@@ -5211,6 +5789,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 0,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/child-of-yggdrasil.html"
   },
@@ -5220,6 +5799,7 @@ const monsterCombatStats = [
     "hp": 50,
     "init": 3,
     "cr": 1.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/childofthebriar-tob1-2023.html"
   },
@@ -5229,6 +5809,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 3,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/chill-haunt.html"
   },
@@ -5238,6 +5819,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/chimera-a5e.html"
   },
@@ -5247,6 +5829,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/chimera_bf.html"
   },
@@ -5256,6 +5839,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/chimera.html"
   },
@@ -5265,6 +5849,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/chimera_mm_2024.html"
   },
@@ -5274,6 +5859,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 2,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/chimera-royal.html"
   },
@@ -5283,6 +5869,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 1,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/chimeric-phantom.html"
   },
@@ -5292,6 +5879,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 5,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/chortdevil-tob1-2023.html"
   },
@@ -5301,6 +5889,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/chroma-lizard.html"
   },
@@ -5310,6 +5899,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 5,
     "cr": 8.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/chronalmental-tob1-2023.html"
   },
@@ -5319,6 +5909,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 12.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/chronomatic-enhancer.html"
   },
@@ -5328,6 +5919,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": -1,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/chuhaister.html"
   },
@@ -5337,6 +5929,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 2,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/chupacabra.html"
   },
@@ -5346,6 +5939,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 0,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/chuul-a5e.html"
   },
@@ -5355,6 +5949,7 @@ const monsterCombatStats = [
     "hp": 80,
     "init": 0,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/chuul_bf.html"
   },
@@ -5364,6 +5959,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 0,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/chuul.html"
   },
@@ -5373,6 +5969,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 0,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/chuul_mm_2024.html"
   },
@@ -5382,6 +5979,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.125,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/cikavak-tob1-2023.html"
   },
@@ -5391,6 +5989,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cipactli.html"
   },
@@ -5400,6 +5999,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -1,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/citrullus-tob1-2023.html"
   },
@@ -5409,6 +6009,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 3,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/citywatchcaptain-tob1-2023.html"
   },
@@ -5418,6 +6019,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/clacking-skeleton.html"
   },
@@ -5427,6 +6029,7 @@ const monsterCombatStats = [
     "hp": 163,
     "init": -1,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/clay_golem_bf.html"
   },
@@ -5436,6 +6039,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": -1,
     "cr": 9.0,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/clay-golem.html"
   },
@@ -5445,6 +6049,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 3,
     "cr": 9.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/clay_golem_mm_2024.html"
   },
@@ -5454,6 +6059,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 9.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/clay-guardian-a5e.html"
   },
@@ -5463,6 +6069,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": -2,
     "cr": 0.125,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/climbing-vine.html"
   },
@@ -5472,6 +6079,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cloaker-a5e.html"
   },
@@ -5481,6 +6089,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 5,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/cloaker_bf.html"
   },
@@ -5490,6 +6099,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/cloaker.html"
   },
@@ -5499,6 +6109,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 5,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cloaker_mm_2024.html"
   },
@@ -5508,6 +6119,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 1,
     "cr": 5.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clockworkabomination-tob1-2023.html"
   },
@@ -5517,6 +6129,7 @@ const monsterCombatStats = [
     "hp": 201,
     "init": -1,
     "cr": 13.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/clockwork-archon.html"
   },
@@ -5526,6 +6139,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 4,
     "cr": 0.25,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/clockwork-armadillo.html"
   },
@@ -5535,6 +6149,7 @@ const monsterCombatStats = [
     "hp": 99,
     "init": 3,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/clockwork-assassin.html"
   },
@@ -5544,6 +6159,7 @@ const monsterCombatStats = [
     "hp": 20,
     "init": 3,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clockworkbeetle-tob1-2023.html"
   },
@@ -5553,6 +6169,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 3.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clockworkbeetleswarm-tob1-2023.html"
   },
@@ -5562,6 +6179,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 1,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/clockwork-conductor.html"
   },
@@ -5571,6 +6189,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clockworkhound-tob1-2023.html"
   },
@@ -5580,6 +6199,7 @@ const monsterCombatStats = [
     "hp": 99,
     "init": 2,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clockworkhuntsman-tob1-2023.html"
   },
@@ -5589,6 +6209,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/clockwork-leech.html"
   },
@@ -5598,6 +6219,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 4,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/clockwork-mantis.html"
   },
@@ -5607,6 +6229,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clockworkmyrmidon-tob1-2023.html"
   },
@@ -5616,6 +6239,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 1,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/clockwork-pugilist.html"
   },
@@ -5625,6 +6249,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 1,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/clockwork-scorpion.html"
   },
@@ -5634,6 +6259,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 4.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/clockwork-sentinel-a5e.html"
   },
@@ -5643,6 +6269,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.125,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/clockwork-servant.html"
   },
@@ -5652,6 +6279,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/clockwork-soldier.html"
   },
@@ -5661,6 +6289,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 2,
     "cr": 11.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/clockwork-tactician.html"
   },
@@ -5670,6 +6299,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 3,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/clockwork-tiger.html"
   },
@@ -5679,6 +6309,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 1,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clockworkwatchman-tob1-2023.html"
   },
@@ -5688,6 +6319,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 3,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clockworkweavingspider-tob1-2023.html"
   },
@@ -5697,6 +6329,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 0,
     "cr": 10.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cloud-giant-a5e.html"
   },
@@ -5706,6 +6339,7 @@ const monsterCombatStats = [
     "hp": 175,
     "init": 0,
     "cr": 9.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/cloud_giant_bf.html"
   },
@@ -5715,6 +6349,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 0,
     "cr": 9.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/cloud-giant.html"
   },
@@ -5724,6 +6359,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 4,
     "cr": 9.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cloud_giant_mm_2024.html"
   },
@@ -5733,6 +6369,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 0,
     "cr": 12.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cloud-giant-noble-a5e.html"
   },
@@ -5742,6 +6379,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/cloudhoof-assassin.html"
   },
@@ -5751,6 +6389,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.25,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/clurichaun-tob1-2023.html"
   },
@@ -5760,6 +6399,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 4,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/coastline-reaper.html"
   },
@@ -5769,6 +6409,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 0,
     "cr": 2.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/cobbleswarm-tob1-2023.html"
   },
@@ -5778,6 +6419,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cockatrice-a5e.html"
   },
@@ -5787,6 +6429,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/cockatrice_bf.html"
   },
@@ -5796,6 +6439,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/cockatrice.html"
   },
@@ -5805,6 +6449,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cockatrice_mm_2024.html"
   },
@@ -5814,6 +6459,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 2,
     "cr": 10.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/collais.html"
   },
@@ -5823,6 +6469,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/commoner-a5e.html"
   },
@@ -5832,6 +6479,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 0,
     "cr": 0.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/commoner_bf.html"
   },
@@ -5841,6 +6489,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/commoner.html"
   },
@@ -5850,6 +6499,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/commoner_mm_2024.html"
   },
@@ -5859,6 +6509,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 0.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/commoner-mob-a5e.html"
   },
@@ -5868,6 +6519,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/compsognathus.html"
   },
@@ -5877,6 +6529,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 3,
     "cr": 10.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/conjoined-queen.html"
   },
@@ -5886,6 +6539,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/conniption-bug.html"
   },
@@ -5895,6 +6549,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/constrictor-snake-a5e.html"
   },
@@ -5904,6 +6559,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/constrictor-snake.html"
   },
@@ -5913,6 +6569,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/constrictor_snake_mm_2024.html"
   },
@@ -5922,6 +6579,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 1,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/copper-dragon-wyrmling-a5e.html"
   },
@@ -5931,6 +6589,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/copper_dragon_wyrmling_bf.html"
   },
@@ -5940,6 +6599,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/copper-dragon-wyrmling.html"
   },
@@ -5949,6 +6609,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/copper_dragon_wyrmling_mm_2024.html"
   },
@@ -5958,6 +6619,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 0,
     "cr": 8.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/copperkill-slime.html"
   },
@@ -5967,6 +6629,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 3,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/coraldrake-tob1-2023.html"
   },
@@ -5976,6 +6639,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/coralfish-a5e.html"
   },
@@ -5985,6 +6649,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": 0,
     "cr": 11.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/corpsemound-tob1-2023.html"
   },
@@ -5994,6 +6659,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/corpse-thief.html"
   },
@@ -6003,6 +6669,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/corpse-worm.html"
   },
@@ -6012,6 +6679,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/corpselight-moth.html"
   },
@@ -6021,6 +6689,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": -1,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/corruptedchieftain-tob1-2023.html"
   },
@@ -6030,6 +6699,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 5,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/corrupted-pixie.html"
   },
@@ -6039,6 +6709,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 4,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/corrupted-unicorn-a5e.html"
   },
@@ -6048,6 +6719,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 2,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/corruptedushabti-tob1-2023.html"
   },
@@ -6057,6 +6729,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 0,
     "cr": 5.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/corruptingooze-tob1-2023.html"
   },
@@ -6066,6 +6739,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 8,
     "cr": 15.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/cosmic-symphony.html"
   },
@@ -6075,6 +6749,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 3,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cosmopolitan-alchemist-a5e.html"
   },
@@ -6084,6 +6759,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 4,
     "cr": 4.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/couatl-a5e.html"
   },
@@ -6093,6 +6769,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 5,
     "cr": 4.0,
+    "type": "Celestial",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/couatl_bf.html"
   },
@@ -6102,6 +6779,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 5,
     "cr": 4.0,
+    "type": "Celestial",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/couatl.html"
   },
@@ -6111,6 +6789,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 5,
     "cr": 4.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/couatl_mm_2024.html"
   },
@@ -6120,6 +6799,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 2,
     "cr": 5.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/coven-green-hag-a5e.html"
   },
@@ -6129,6 +6809,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 2,
     "cr": 7.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/coven-night-hag-a5e.html"
   },
@@ -6138,6 +6819,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 1,
     "cr": 4.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/coven-sea-hag-a5e.html"
   },
@@ -6147,6 +6829,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 3,
     "cr": 9.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/coven-winter-hag-a5e.html"
   },
@@ -6156,6 +6839,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/crab-a5e.html"
   },
@@ -6165,6 +6849,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/crab_bf.html"
   },
@@ -6174,6 +6859,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/crab.html"
   },
@@ -6183,6 +6869,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/crab_mm_2024.html"
   },
@@ -6192,6 +6879,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/crab-duffel.html"
   },
@@ -6201,6 +6889,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/crab_giant_bf.html"
   },
@@ -6210,6 +6899,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/crab-razorback.html"
   },
@@ -6219,6 +6909,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 0,
     "cr": 6.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/crab-samurai.html"
   },
@@ -6228,6 +6919,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/crime-boss-a5e.html"
   },
@@ -6237,6 +6929,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/crimsondrake-tob1-2023.html"
   },
@@ -6246,6 +6939,7 @@ const monsterCombatStats = [
     "hp": 20,
     "init": 4,
     "cr": 0.5,
+    "type": "Ooze",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/crimson_jelly_bf.html"
   },
@@ -6255,6 +6949,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/crimson-mist.html"
   },
@@ -6264,6 +6959,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 0,
     "cr": 0.5,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/crimson-shambler.html"
   },
@@ -6273,6 +6969,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/crinaea.html"
   },
@@ -6282,6 +6979,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/crocodile-a5e.html"
   },
@@ -6291,6 +6989,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/crocodile_bf.html"
   },
@@ -6300,6 +6999,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/crocodile.html"
   },
@@ -6309,6 +7009,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/crocodile_mm_2024.html"
   },
@@ -6318,6 +7019,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": -1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/crocodile_giant_bf.html"
   },
@@ -6327,6 +7029,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/crocotta.html"
   },
@@ -6336,6 +7039,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": -1,
     "cr": 10.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/crusher-a5e.html"
   },
@@ -6345,6 +7049,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/cryoceros.html"
   },
@@ -6354,6 +7059,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/crypt-spider.html"
   },
@@ -6363,6 +7069,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/crystallinedevil-tob1-2023.html"
   },
@@ -6372,6 +7079,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 0,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/crystalline-monolith.html"
   },
@@ -6381,6 +7089,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": -1,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/crystallite.html"
   },
@@ -6390,6 +7099,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cueyatl.html"
   },
@@ -6399,6 +7109,7 @@ const monsterCombatStats = [
     "hp": 81,
     "init": 1,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cueyatl-moon-priest.html"
   },
@@ -6408,6 +7119,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cueyatl-sea-priest.html"
   },
@@ -6417,6 +7129,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 2,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/cueyatl-warchief.html"
   },
@@ -6426,6 +7139,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/cueyatl-warrior.html"
   },
@@ -6435,6 +7149,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 2,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/culicoid.html"
   },
@@ -6444,6 +7159,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cult-fanatic-a5e.html"
   },
@@ -6453,6 +7169,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/cult-fanatic.html"
   },
@@ -6462,6 +7179,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cultist-a5e.html"
   },
@@ -6471,6 +7189,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/cultist_bf.html"
   },
@@ -6480,6 +7199,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/cultist.html"
   },
@@ -6489,6 +7209,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cultist_mm_2024.html"
   },
@@ -6498,6 +7219,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cultist_fanatic_mm_2024.html"
   },
@@ -6507,6 +7229,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/cultist_fanatic_bf.html"
   },
@@ -6516,6 +7239,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cutthroat-a5e.html"
   },
@@ -6525,6 +7249,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 7.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cyclops-a5e.html"
   },
@@ -6534,6 +7259,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 10.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/cyclops-myrmidon-a5e.html"
   },
@@ -6543,6 +7269,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 6,
     "cr": 8.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/cyonaxin.html"
   },
@@ -6552,6 +7279,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/daeodon.html"
   },
@@ -6561,6 +7289,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/dancing-foliage.html"
   },
@@ -6570,6 +7299,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/darakhul-tob1-2023.html"
   },
@@ -6579,6 +7309,7 @@ const monsterCombatStats = [
     "hp": 165,
     "init": 3,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/darakhul-captain.html"
   },
@@ -6588,6 +7319,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 2,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/darakhul-high-priestess.html"
   },
@@ -6597,6 +7329,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/darakhul-shadowmancer.html"
   },
@@ -6606,6 +7339,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 4,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/darakhul-spy.html"
   },
@@ -6615,6 +7349,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dark-eye.html"
   },
@@ -6624,6 +7359,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dark-father.html"
   },
@@ -6633,6 +7369,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dark-servant.html"
   },
@@ -6642,6 +7379,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 0,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dark-voice.html"
   },
@@ -6651,6 +7389,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/darkmantle-a5e.html"
   },
@@ -6660,6 +7399,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/darkmantle_bf.html"
   },
@@ -6669,6 +7409,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/darkmantle.html"
   },
@@ -6678,6 +7419,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.5,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/darkmantle_mm_2024.html"
   },
@@ -6687,6 +7429,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 3,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dau-tob1-2023.html"
   },
@@ -6696,6 +7439,7 @@ const monsterCombatStats = [
     "hp": 261,
     "init": 5,
     "cr": 19.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dawnfly.html"
   },
@@ -6705,6 +7449,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dawnfly-desolation-nymph.html"
   },
@@ -6714,6 +7459,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 5,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/de-ogen.html"
   },
@@ -6723,6 +7469,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 0,
     "cr": 10.0,
+    "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dead-mans-fingers-a5e.html"
   },
@@ -6732,6 +7479,7 @@ const monsterCombatStats = [
     "hp": 198,
     "init": 4,
     "cr": 12.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/death-barque.html"
   },
@@ -6741,6 +7489,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 4.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/deathbutterflyswarm-tob1-2023.html"
   },
@@ -6750,6 +7499,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/death-dog-a5e.html"
   },
@@ -6759,6 +7509,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/death_dog_bf.html"
   },
@@ -6768,6 +7519,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/death-dog.html"
   },
@@ -6777,6 +7529,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/death_dog_mm_2024.html"
   },
@@ -6786,6 +7539,7 @@ const monsterCombatStats = [
     "hp": 140,
     "init": 0,
     "cr": 8.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/death_knight_bf.html"
   },
@@ -6795,6 +7549,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 2,
     "cr": 5.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/death-shroud-golem.html"
   },
@@ -6804,6 +7559,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 0,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/death-vulture.html"
   },
@@ -6813,6 +7569,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/death-worm.html"
   },
@@ -6822,6 +7579,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 0,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/deathcapmyconid-tob1-2023.html"
   },
@@ -6831,6 +7589,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/deathspeaker.html"
   },
@@ -6840,6 +7599,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/deathsworn-elf.html"
   },
@@ -6849,6 +7609,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 2,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/deathweaver.html"
   },
@@ -6858,6 +7619,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 5,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/deathwisp-tob1-2023.html"
   },
@@ -6867,6 +7629,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 4,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/deepdrake-tob1-2023.html"
   },
@@ -6876,6 +7639,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/deep-dwarf-soldier-a5e.html"
   },
@@ -6885,6 +7649,7 @@ const monsterCombatStats = [
     "hp": 23,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/deep_gnome_bf.html"
   },
@@ -6894,6 +7659,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/deep-gnome-svirfneblin.html"
   },
@@ -6903,6 +7669,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/deep-gnome-scout-a5e.html"
   },
@@ -6912,6 +7679,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/deepone-tob1-2023.html"
   },
@@ -6921,6 +7689,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 3,
     "cr": 8.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/deeponearchimandrite-tob1-2023.html"
   },
@@ -6930,6 +7699,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/deeponepriest-tob1-2023.html"
   },
@@ -6939,6 +7709,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 1,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/deep-troll.html"
   },
@@ -6948,6 +7719,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/deer-a5e.html"
   },
@@ -6957,6 +7729,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/deer_bf.html"
   },
@@ -6966,6 +7739,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/deer.html"
   },
@@ -6975,6 +7749,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/deer_mm_2024.html"
   },
@@ -6984,6 +7759,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": -2,
     "cr": 8.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/degeneratetitan-tob1-2023.html"
   },
@@ -6993,6 +7769,7 @@ const monsterCombatStats = [
     "hp": 159,
     "init": 7,
     "cr": 18.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/demilich-a5e.html"
   },
@@ -7002,6 +7779,7 @@ const monsterCombatStats = [
     "hp": 319,
     "init": 7,
     "cr": 18.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/demilich-mastermind-a5e.html"
   },
@@ -7011,6 +7789,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 2.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/demon-balbazu.html"
   },
@@ -7020,6 +7799,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/demon-inciter.html"
   },
@@ -7029,6 +7809,7 @@ const monsterCombatStats = [
     "hp": 262,
     "init": 0,
     "cr": 18.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/demon-kogukhpak.html"
   },
@@ -7038,6 +7819,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 3,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/demon-leech.html"
   },
@@ -7047,6 +7829,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 5,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/demon-maha.html"
   },
@@ -7056,6 +7839,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 5,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/demon-vetala.html"
   },
@@ -7065,6 +7849,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": 5,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/derendian-moth-abomination.html"
   },
@@ -7074,6 +7859,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/derro-explorer.html"
   },
@@ -7083,6 +7869,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/derro-guard.html"
   },
@@ -7092,6 +7879,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 5,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/derro-shadowseeker.html"
   },
@@ -7101,6 +7889,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 4,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/derro-abysswalker.html"
   },
@@ -7110,6 +7899,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/derro-hellforged.html"
   },
@@ -7119,6 +7909,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 4,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/derro-voidwarped.html"
   },
@@ -7128,6 +7919,7 @@ const monsterCombatStats = [
     "hp": 175,
     "init": 0,
     "cr": 9.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/desertgiant-tob1-2023.html"
   },
@@ -7137,6 +7929,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": -2,
     "cr": 3.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/desert-slime.html"
   },
@@ -7146,6 +7939,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 1,
     "cr": 6.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/desert-troll.html"
   },
@@ -7155,6 +7949,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 3,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/despair-and-anger.html"
   },
@@ -7164,6 +7959,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/destroyer.html"
   },
@@ -7173,6 +7969,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/deva-a5e.html"
   },
@@ -7182,6 +7979,7 @@ const monsterCombatStats = [
     "hp": 165,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/deva_bf.html"
   },
@@ -7191,6 +7989,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/deva.html"
   },
@@ -7200,6 +7999,7 @@ const monsterCombatStats = [
     "hp": 229,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/deva_mm_2024.html"
   },
@@ -7209,6 +8009,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/devil-bough.html"
   },
@@ -7218,6 +8019,7 @@ const monsterCombatStats = [
     "hp": 198,
     "init": 2,
     "cr": 13.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/devil-shark.html"
   },
@@ -7227,6 +8029,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 5,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/devil-devilflame-juggler.html"
   },
@@ -7236,6 +8039,7 @@ const monsterCombatStats = [
     "hp": 182,
     "init": 3,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/devil-infernal-tutor.html"
   },
@@ -7245,6 +8049,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/devil-infernal-tutor-lesser.html"
   },
@@ -7254,6 +8059,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 3,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/devil-maelstrom.html"
   },
@@ -7263,6 +8069,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 0,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/devil-moldering.html"
   },
@@ -7272,6 +8079,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 1,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/devil-rimepacted.html"
   },
@@ -7281,6 +8089,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 2,
     "cr": 9.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/devilboundgnome-tob1-2023.html"
   },
@@ -7290,6 +8099,7 @@ const monsterCombatStats = [
     "hp": 220,
     "init": 2,
     "cr": 12.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/devouring-angel.html"
   },
@@ -7299,6 +8109,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dhampir.html"
   },
@@ -7308,6 +8119,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dhampir-commander.html"
   },
@@ -7317,6 +8129,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 5,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/dimensional-shambler.html"
   },
@@ -7326,6 +8139,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 4,
     "cr": 5.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/diminution-drake.html"
   },
@@ -7335,6 +8149,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dinosaur-guardian-archaeopteryx.html"
   },
@@ -7344,6 +8159,7 @@ const monsterCombatStats = [
     "hp": 12,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dinosaur-jeholopterus.html"
   },
@@ -7353,6 +8169,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dinosaur-razorfeather-raptor.html"
   },
@@ -7362,6 +8179,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": -1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dinosaur-therizinosaurus.html"
   },
@@ -7371,6 +8189,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": -1,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dinosaur-thundercall-hadrosaur.html"
   },
@@ -7380,6 +8199,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 2,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/diomedian-horse.html"
   },
@@ -7389,6 +8209,7 @@ const monsterCombatStats = [
     "hp": 139,
     "init": -1,
     "cr": 7.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/diplodocus-a5e.html"
   },
@@ -7398,6 +8219,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 0.25,
+    "type": "Ooze",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dipsa-tob1-2023.html"
   },
@@ -7407,6 +8229,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dire-centipede-a5e.html"
   },
@@ -7416,6 +8239,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 6.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dire-lionfish.html"
   },
@@ -7425,6 +8249,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dire-owlbear.html"
   },
@@ -7434,6 +8259,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 0,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dire-pangolin.html"
   },
@@ -7443,6 +8269,7 @@ const monsterCombatStats = [
     "hp": 253,
     "init": 0,
     "cr": 8.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dire-tyrannosaurus-rex-a5e.html"
   },
@@ -7452,6 +8279,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 3,
     "cr": 7.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dire-wildebeest.html"
   },
@@ -7461,6 +8289,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dire-wolf-a5e.html"
   },
@@ -7470,6 +8299,7 @@ const monsterCombatStats = [
     "hp": 37,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/dire-wolf.html"
   },
@@ -7479,6 +8309,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/dire_wolf_mm_2024.html"
   },
@@ -7488,6 +8319,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/diseased-giant-rat-a5e.html"
   },
@@ -7497,6 +8329,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 0,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dissimortuum-tob1-2023.html"
   },
@@ -7506,6 +8339,7 @@ const monsterCombatStats = [
     "hp": 99,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/div.html"
   },
@@ -7515,6 +8349,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 1,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/divi-a5e.html"
   },
@@ -7524,6 +8359,7 @@ const monsterCombatStats = [
     "hp": 345,
     "init": 1,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/divi-noble-a5e.html"
   },
@@ -7533,6 +8369,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 3,
     "cr": 0.25,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/diving-gel.html"
   },
@@ -7542,6 +8379,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 6,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/djinni-a5e.html"
   },
@@ -7551,6 +8389,7 @@ const monsterCombatStats = [
     "hp": 216,
     "init": 6,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/djinni_bf.html"
   },
@@ -7560,6 +8399,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 2,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/djinni.html"
   },
@@ -7569,6 +8409,7 @@ const monsterCombatStats = [
     "hp": 218,
     "init": 2,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/djinni_mm_2024.html"
   },
@@ -7578,6 +8419,7 @@ const monsterCombatStats = [
     "hp": 344,
     "init": 6,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/djinni-noble-a5e.html"
   },
@@ -7587,6 +8429,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dogmole-tob1-2023.html"
   },
@@ -7596,6 +8439,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 2,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dogmolejuggernaut-tob1-2023.html"
   },
@@ -7605,6 +8449,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dokkaebi.html"
   },
@@ -7614,6 +8459,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 1,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/domovoi-tob1-2023.html"
   },
@@ -7623,6 +8469,7 @@ const monsterCombatStats = [
     "hp": 137,
     "init": 5,
     "cr": 6.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/doom-creeper.html"
   },
@@ -7632,6 +8479,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 1,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/doom-golem.html"
   },
@@ -7641,6 +8489,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 4,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/doppelganger-a5e.html"
   },
@@ -7650,6 +8499,7 @@ const monsterCombatStats = [
     "hp": 80,
     "init": 4,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/doppelganger_bf.html"
   },
@@ -7659,6 +8509,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 4,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/doppelganger.html"
   },
@@ -7668,6 +8519,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 4,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/doppelganger_mm_2024.html"
   },
@@ -7677,6 +8529,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 1.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/doppelixir.html"
   },
@@ -7686,6 +8539,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/doppelrat-tob1-2023.html"
   },
@@ -7695,6 +8549,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 4,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dorreq-tob1-2023.html"
   },
@@ -7704,6 +8559,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dracotaur.html"
   },
@@ -7713,6 +8569,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/draft-horse-a5e.html"
   },
@@ -7722,6 +8579,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/draft-horse.html"
   },
@@ -7731,6 +8589,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/draft_horse_mm_2024.html"
   },
@@ -7740,6 +8599,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dragon-cultist-a5e.html"
   },
@@ -7749,6 +8609,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 1,
     "cr": 12.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dragoneel-tob1-2023.html"
   },
@@ -7758,6 +8619,7 @@ const monsterCombatStats = [
     "hp": 264,
     "init": 0,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dragon-turtle-a5e.html"
   },
@@ -7767,6 +8629,7 @@ const monsterCombatStats = [
     "hp": 318,
     "init": 6,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/dragon_turtle_bf.html"
   },
@@ -7776,6 +8639,7 @@ const monsterCombatStats = [
     "hp": 341,
     "init": 0,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/dragon-turtle.html"
   },
@@ -7785,6 +8649,7 @@ const monsterCombatStats = [
     "hp": 356,
     "init": 6,
     "cr": 17.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/dragon_turtle_mm_2024.html"
   },
@@ -7794,6 +8659,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 0,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragon-prismatic-adult.html"
   },
@@ -7803,6 +8669,7 @@ const monsterCombatStats = [
     "hp": 407,
     "init": 0,
     "cr": 21.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragon-prismatic-ancient.html"
   },
@@ -7812,6 +8679,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 0,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragon-prismatic-wyrmling.html"
   },
@@ -7821,6 +8689,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 0,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragon-prismatic-young.html"
   },
@@ -7830,6 +8699,7 @@ const monsterCombatStats = [
     "hp": 270,
     "init": 1,
     "cr": 18.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragon-sand-adult.html"
   },
@@ -7839,6 +8709,7 @@ const monsterCombatStats = [
     "hp": 507,
     "init": 1,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragon-sand-ancient.html"
   },
@@ -7848,6 +8719,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragon-sand-wyrmling.html"
   },
@@ -7857,6 +8729,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 1,
     "cr": 11.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragon-sand-young.html"
   },
@@ -7866,6 +8739,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dragonbound-warrior-a5e.html"
   },
@@ -7875,6 +8749,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 1,
     "cr": 0.25,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragonette-barnyard.html"
   },
@@ -7884,6 +8759,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 0,
     "cr": 0.5,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragonette-sedge.html"
   },
@@ -7893,6 +8769,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 0,
     "cr": 0.5,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dragonette-shovel.html"
   },
@@ -7902,6 +8779,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": -2,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/dragonflesh-golem.html"
   },
@@ -7911,6 +8789,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 2,
     "cr": 8.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dragonleaftree-tob1-2023.html"
   },
@@ -7920,6 +8799,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/drainpipe-gargoyle-a5e.html"
   },
@@ -7929,6 +8809,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 3,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drake-bakery.html"
   },
@@ -7938,6 +8819,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 3,
     "cr": 4.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drake-cactus.html"
   },
@@ -7947,6 +8829,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 2,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drake-ethereal.html"
   },
@@ -7956,6 +8839,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 2,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drake-reef.html"
   },
@@ -7965,6 +8849,7 @@ const monsterCombatStats = [
     "hp": 231,
     "init": -1,
     "cr": 11.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drake-riptide.html"
   },
@@ -7974,6 +8859,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 5.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drake-shepherd.html"
   },
@@ -7983,6 +8869,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 4,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drake-vapor.html"
   },
@@ -7992,6 +8879,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 3,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drake-venom.html"
   },
@@ -8001,6 +8889,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 4,
     "cr": 5.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/drakon-tob1-2023.html"
   },
@@ -8010,6 +8899,7 @@ const monsterCombatStats = [
     "hp": 322,
     "init": 3,
     "cr": 21.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dread-examiner.html"
   },
@@ -8019,6 +8909,7 @@ const monsterCombatStats = [
     "hp": 262,
     "init": 3,
     "cr": 19.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dread-knight-a5e.html"
   },
@@ -8028,6 +8919,7 @@ const monsterCombatStats = [
     "hp": 346,
     "init": 3,
     "cr": 23.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dread-knight-champion-a5e.html"
   },
@@ -8037,6 +8929,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 1,
     "cr": 7.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dread-troll-a5e.html"
   },
@@ -8046,6 +8939,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 5.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/dread-walker-excavator.html"
   },
@@ -8055,6 +8949,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dreameater-tob1-2023.html"
   },
@@ -8064,6 +8959,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dream-squire.html"
   },
@@ -8073,6 +8969,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 4,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dream-wraith.html"
   },
@@ -8082,6 +8979,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 0,
     "cr": 0.25,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dretch-a5e.html"
   },
@@ -8091,6 +8989,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 0,
     "cr": 0.25,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/dretch_bf.html"
   },
@@ -8100,6 +8999,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 0,
     "cr": 0.25,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/dretch.html"
   },
@@ -8109,6 +9009,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 0,
     "cr": 0.25,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/dretch_mm_2024.html"
   },
@@ -8118,6 +9019,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 3,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/drider-a5e.html"
   },
@@ -8127,6 +9029,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 6,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/drider_bf.html"
   },
@@ -8136,6 +9039,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 3,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/drider.html"
   },
@@ -8145,6 +9049,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 4,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/drider_mm_2024.html"
   },
@@ -8154,6 +9059,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 0,
     "cr": 3.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/drop-bear-a5e.html"
   },
@@ -8163,6 +9069,7 @@ const monsterCombatStats = [
     "hp": 230,
     "init": -1,
     "cr": 12.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/droth.html"
   },
@@ -8172,6 +9079,7 @@ const monsterCombatStats = [
     "hp": 12,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/drow_bf.html"
   },
@@ -8181,6 +9089,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/drow.html"
   },
@@ -8190,6 +9099,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/drownedmaiden-tob1-2023.html"
   },
@@ -8199,6 +9109,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": -1,
     "cr": 10.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/drudge-pitcher.html"
   },
@@ -8208,6 +9119,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/druid-a5e.html"
   },
@@ -8217,6 +9129,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/druid_bf.html"
   },
@@ -8226,6 +9139,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/druid.html"
   },
@@ -8235,6 +9149,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/druid_mm_2024.html"
   },
@@ -8244,6 +9159,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dryad-a5e.html"
   },
@@ -8253,6 +9169,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 2,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/dryad_bf.html"
   },
@@ -8262,6 +9179,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 1.0,
+    "type": "Fey",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/dryad.html"
   },
@@ -8271,6 +9189,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 1.0,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/dryad_mm_2024.html"
   },
@@ -8280,6 +9199,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 2,
     "cr": 2.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dubius.html"
   },
@@ -8289,6 +9209,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 5,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/duelist-tob1-2023.html"
   },
@@ -8298,6 +9219,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/duelist-a5e.html"
   },
@@ -8307,6 +9229,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 0,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/duergar_bf.html"
   },
@@ -8316,6 +9239,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 0,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/duergar.html"
   },
@@ -8325,6 +9249,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 4,
     "cr": 11.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dullahan-tob1-2023.html"
   },
@@ -8334,6 +9259,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": -1,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dunemimic-tob1-2023.html"
   },
@@ -8343,6 +9269,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 5,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/duskthorndryad-tob1-2023.html"
   },
@@ -8352,6 +9279,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 3,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dustgoblin-tob1-2023.html"
   },
@@ -8361,6 +9289,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 4,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dust-goblin-chieftain.html"
   },
@@ -8370,6 +9299,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": -2,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dust-grazer.html"
   },
@@ -8379,6 +9309,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dust-mephit-a5e.html"
   },
@@ -8388,6 +9319,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/dust_mephit_bf.html"
   },
@@ -8397,6 +9329,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/dust-mephit.html"
   },
@@ -8406,6 +9339,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/dust_mephit_mm_2024.html"
   },
@@ -8415,6 +9349,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": -1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/dvarapala.html"
   },
@@ -8424,6 +9359,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 0,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dwarf-angler.html"
   },
@@ -8433,6 +9369,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 0,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dwarf-firecracker.html"
   },
@@ -8442,6 +9379,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": -1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dwarf-pike-guard.html"
   },
@@ -8451,6 +9389,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": -1,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/dwarf-pike-guard-captain.html"
   },
@@ -8460,6 +9399,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/dwarvenringmage-tob1-2023.html"
   },
@@ -8469,6 +9409,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/eagle-a5e.html"
   },
@@ -8478,6 +9419,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/eagle_bf.html"
   },
@@ -8487,6 +9429,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/eagle.html"
   },
@@ -8496,6 +9439,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/eagle_mm_2024.html"
   },
@@ -8505,6 +9449,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/eagle_giant_bf.html"
   },
@@ -8514,6 +9459,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/eala-tob1-2023.html"
   },
@@ -8523,6 +9469,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/earth-dragon-wyrmling-a5e.html"
   },
@@ -8532,6 +9479,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/earth-elemental-a5e.html"
   },
@@ -8541,6 +9489,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": -1,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/earth_elemental_bf.html"
   },
@@ -8550,6 +9499,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -1,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/earth-elemental.html"
   },
@@ -8559,6 +9509,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": -1,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/earth_elemental_mm_2024.html"
   },
@@ -8568,6 +9519,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/eaterofdust-tob1-2023.html"
   },
@@ -8577,6 +9529,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 5,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/echo.html"
   },
@@ -8586,6 +9539,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": -1,
     "cr": 11.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ecstatic-bloom.html"
   },
@@ -8595,6 +9549,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/edimmu-tob1-2023.html"
   },
@@ -8604,6 +9559,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/edjet.html"
   },
@@ -8613,6 +9569,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/edjet-initiate.html"
   },
@@ -8622,6 +9579,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/eelhound-tob1-2023.html"
   },
@@ -8631,6 +9589,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 4,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/efreeti-a5e.html"
   },
@@ -8640,6 +9599,7 @@ const monsterCombatStats = [
     "hp": 223,
     "init": 1,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/efreeti_bf.html"
   },
@@ -8649,6 +9609,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 1,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/efreeti.html"
   },
@@ -8658,6 +9619,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 1,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/efreeti_mm_2024.html"
   },
@@ -8667,6 +9629,7 @@ const monsterCombatStats = [
     "hp": 344,
     "init": 4,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/efreeti-noble-a5e.html"
   },
@@ -8676,6 +9639,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/egret-harpy.html"
   },
@@ -8685,6 +9649,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 3,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/einherjar-tob1-2023.html"
   },
@@ -8694,6 +9659,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": -3,
     "cr": 8.0,
+    "type": "Ooze",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/elder-black-pudding-a5e.html"
   },
@@ -8703,6 +9669,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": -1,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/elder-ghost-boar.html"
   },
@@ -8712,6 +9679,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 1,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/eldershadowdrake-tob1-2023.html"
   },
@@ -8721,6 +9689,7 @@ const monsterCombatStats = [
     "hp": 285,
     "init": 4,
     "cr": 11.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/elder-vampire-a5e.html"
   },
@@ -8730,6 +9699,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": -2,
     "cr": 5.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/eldritch-ooze.html"
   },
@@ -8739,6 +9709,7 @@ const monsterCombatStats = [
     "hp": 290,
     "init": -5,
     "cr": 17.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/elementallocus-tob1-2023.html"
   },
@@ -8748,6 +9719,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": -1,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/elemental-permafrost.html"
   },
@@ -8757,6 +9729,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": -1,
     "cr": 8.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/elemental-rockslide.html"
   },
@@ -8766,6 +9739,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/elementalist.html"
   },
@@ -8775,6 +9749,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/elephant-a5e.html"
   },
@@ -8784,6 +9759,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": -1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/elephant_bf.html"
   },
@@ -8793,6 +9769,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/elephant.html"
   },
@@ -8802,6 +9779,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/elephant_mm_2024.html"
   },
@@ -8811,6 +9789,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 2,
     "cr": 8.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/elf-shadow-fey-executioner.html"
   },
@@ -8820,6 +9799,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 3,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/elite-kobold.html"
   },
@@ -8829,6 +9809,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/elk-a5e.html"
   },
@@ -8838,6 +9819,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/elk_bf.html"
   },
@@ -8847,6 +9829,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/elk.html"
   },
@@ -8856,6 +9839,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/elk_mm_2024.html"
   },
@@ -8865,6 +9849,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/elk_giant_bf.html"
   },
@@ -8874,6 +9859,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/elophar.html"
   },
@@ -8883,6 +9869,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 4,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/elvishveteranarcher-tob1-2023.html"
   },
@@ -8892,6 +9879,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ember-glider.html"
   },
@@ -8901,6 +9889,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/emerald-dragon-wyrmling-a5e.html"
   },
@@ -8910,6 +9899,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 2,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/emeraldeye-tob1-2023.html"
   },
@@ -8919,6 +9909,7 @@ const monsterCombatStats = [
     "hp": 156,
     "init": 0,
     "cr": 8.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/emeraldordercultleader-tob1-2023.html"
   },
@@ -8928,6 +9919,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/emperors-hyena.html"
   },
@@ -8937,6 +9929,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/emptycloak-tob1-2023.html"
   },
@@ -8946,6 +9939,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/empusa.html"
   },
@@ -8955,6 +9949,7 @@ const monsterCombatStats = [
     "hp": 328,
     "init": 7,
     "cr": 22.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/empyrean-a5e.html"
   },
@@ -8964,6 +9959,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 2,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/enchanter.html"
   },
@@ -8973,6 +9969,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 2,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/enchantress-tob1-2023.html"
   },
@@ -8982,6 +9979,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/eonicdrifter-tob1-2023.html"
   },
@@ -8991,6 +9989,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 3,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/eonic-savant.html"
   },
@@ -9000,6 +9999,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 1,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/equitox.html"
   },
@@ -9009,6 +10009,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/erina-tob1-2023.html"
   },
@@ -9018,6 +10019,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/erinadefender-tob1-2023.html"
   },
@@ -9027,6 +10029,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/erina-tussler.html"
   },
@@ -9036,6 +10039,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 4,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/erinyes-a5e.html"
   },
@@ -9045,6 +10049,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 7,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/erinyes_bf.html"
   },
@@ -9054,6 +10059,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 3,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/erinyes.html"
   },
@@ -9063,6 +10069,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 7,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/erinyes_mm_2024.html"
   },
@@ -9072,6 +10079,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ettercap-a5e.html"
   },
@@ -9081,6 +10089,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ettercap_bf.html"
   },
@@ -9090,6 +10099,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ettercap.html"
   },
@@ -9099,6 +10109,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ettercap_mm_2024.html"
   },
@@ -9108,6 +10119,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -1,
     "cr": 4.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ettin-a5e.html"
   },
@@ -9117,6 +10129,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": -1,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ettin_bf.html"
   },
@@ -9126,6 +10139,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -1,
     "cr": 4.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ettin.html"
   },
@@ -9135,6 +10149,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -1,
     "cr": 4.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ettin_mm_2024.html"
   },
@@ -9144,6 +10159,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 0,
     "cr": 1.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ettin-kobold.html"
   },
@@ -9153,6 +10169,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/execrable-shrub.html"
   },
@@ -9162,6 +10179,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 1,
     "cr": 0.25,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/exploding-toad.html"
   },
@@ -9171,6 +10189,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": -1,
     "cr": 11.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/eyegolem-tob1-2023.html"
   },
@@ -9180,6 +10199,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 4,
     "cr": 1.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/eye-of-the-gods.html"
   },
@@ -9189,6 +10209,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": -2,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/fabricator.html"
   },
@@ -9198,6 +10219,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/faceless-wanderer.html"
   },
@@ -9207,6 +10229,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 5,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/faerie-dragon-a5e.html"
   },
@@ -9216,6 +10239,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 5,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/faerie-dragon-familiar-a5e.html"
   },
@@ -9225,6 +10249,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 1,
     "cr": 6.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/faerie-eater-troll-a5e.html"
   },
@@ -9234,6 +10259,7 @@ const monsterCombatStats = [
     "hp": 165,
     "init": 5,
     "cr": 12.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/faerie-noble-a5e.html"
   },
@@ -9243,6 +10269,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fallen-deva-a5e.html"
   },
@@ -9252,6 +10279,7 @@ const monsterCombatStats = [
     "hp": 250,
     "init": 6,
     "cr": 16.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fallen-planetar-a5e.html"
   },
@@ -9261,6 +10289,7 @@ const monsterCombatStats = [
     "hp": 319,
     "init": 6,
     "cr": 21.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fallen-solar-a5e.html"
   },
@@ -9270,6 +10299,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/falsifier-fog.html"
   },
@@ -9279,6 +10309,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/fane-spirit.html"
   },
@@ -9288,6 +10319,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fang-of-the-great-wolf.html"
   },
@@ -9297,6 +10329,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 3,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/fardarrig-tob1-2023.html"
   },
@@ -9306,6 +10339,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/far-dorocha.html"
   },
@@ -9315,6 +10349,7 @@ const monsterCombatStats = [
     "hp": 88,
     "init": 4,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/far-wanderer.html"
   },
@@ -9324,6 +10359,7 @@ const monsterCombatStats = [
     "hp": 130,
     "init": 1,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/fateeater-tob1-2023.html"
   },
@@ -9333,6 +10369,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 0,
     "cr": 5.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/faux-garou.html"
   },
@@ -9342,6 +10379,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fear-liath.html"
   },
@@ -9351,6 +10389,7 @@ const monsterCombatStats = [
     "hp": 149,
     "init": 3,
     "cr": 10.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/fearsmith-tob1-2023.html"
   },
@@ -9360,6 +10399,7 @@ const monsterCombatStats = [
     "hp": 275,
     "init": 8,
     "cr": 19.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/felid-dragon.html"
   },
@@ -9369,6 +10409,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fell-nightmare-a5e.html"
   },
@@ -9378,6 +10419,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 1,
     "cr": 5.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/fellforged-tob1-2023.html"
   },
@@ -9387,6 +10429,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/fennec-fox.html"
   },
@@ -9396,6 +10439,7 @@ const monsterCombatStats = [
     "hp": 83,
     "init": 3,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/feral_hunter_bf.html"
   },
@@ -9405,6 +10449,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 1,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/fetalsavant-tob1-2023.html"
   },
@@ -9414,6 +10459,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 3,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/fext-tob1-2023.html"
   },
@@ -9423,6 +10469,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 5,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fey-drake.html"
   },
@@ -9432,6 +10479,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 4,
     "cr": 4.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fey-knight-a5e.html"
   },
@@ -9441,6 +10489,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 4,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/fey-revenant.html"
   },
@@ -9450,6 +10499,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/feywardtree-tob1-2023.html"
   },
@@ -9459,6 +10509,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 4,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/fideleangel-tob1-2023.html"
   },
@@ -9468,6 +10519,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fierstjerren.html"
   },
@@ -9477,6 +10529,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fire-elemental-a5e.html"
   },
@@ -9486,6 +10539,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/fire_elemental_bf.html"
   },
@@ -9495,6 +10549,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 3,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/fire-elemental.html"
   },
@@ -9504,6 +10559,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 3,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/fire_elemental_mm_2024.html"
   },
@@ -9513,6 +10569,7 @@ const monsterCombatStats = [
     "hp": 162,
     "init": 0,
     "cr": 11.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fire-giant-a5e.html"
   },
@@ -9522,6 +10579,7 @@ const monsterCombatStats = [
     "hp": 175,
     "init": 3,
     "cr": 9.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/fire_giant_bf.html"
   },
@@ -9531,6 +10589,7 @@ const monsterCombatStats = [
     "hp": 162,
     "init": -1,
     "cr": 9.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/fire-giant.html"
   },
@@ -9540,6 +10599,7 @@ const monsterCombatStats = [
     "hp": 162,
     "init": 3,
     "cr": 9.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/fire_giant_mm_2024.html"
   },
@@ -9549,6 +10609,7 @@ const monsterCombatStats = [
     "hp": 162,
     "init": 0,
     "cr": 12.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fire-giant-war-priest-a5e.html"
   },
@@ -9558,6 +10619,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fire-imp.html"
   },
@@ -9567,6 +10629,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": 2,
     "cr": 7.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/fire-infused-water-elemental.html"
   },
@@ -9576,6 +10639,7 @@ const monsterCombatStats = [
     "hp": 88,
     "init": 4,
     "cr": 4.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/firebird-tob1-2023.html"
   },
@@ -9585,6 +10649,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/firegeist-tob1-2023.html"
   },
@@ -9594,6 +10659,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": -2,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/flabgiant-tob1-2023.html"
   },
@@ -9603,6 +10669,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/flamedragonwyrmling-tob1-2023.html"
   },
@@ -9612,6 +10679,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/flame-eater-swarm.html"
   },
@@ -9621,6 +10689,7 @@ const monsterCombatStats = [
     "hp": 125,
     "init": 3,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/flame-scourged-scion.html"
   },
@@ -9630,6 +10699,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/flayed-wraith.html"
   },
@@ -9639,6 +10709,7 @@ const monsterCombatStats = [
     "hp": 129,
     "init": -1,
     "cr": 5.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/flesh_golem_bf.html"
   },
@@ -9648,6 +10719,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": -1,
     "cr": 5.0,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/flesh-golem.html"
   },
@@ -9657,6 +10729,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": -1,
     "cr": 5.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/flesh_golem_mm_2024.html"
   },
@@ -9666,6 +10739,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": -1,
     "cr": 5.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/flesh-guardian-a5e.html"
   },
@@ -9675,6 +10749,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 2,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/flesh-reaver.html"
   },
@@ -9684,6 +10759,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": -2,
     "cr": 5.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/fleshdreg.html"
   },
@@ -9693,6 +10769,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 4,
     "cr": 6.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fleshpod-hornet.html"
   },
@@ -9702,6 +10779,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/fleshspurned.html"
   },
@@ -9711,6 +10789,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 4,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/flinderbeast_bf.html"
   },
@@ -9720,6 +10799,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/flithidir.html"
   },
@@ -9729,6 +10809,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/flumph-a5e.html"
   },
@@ -9738,6 +10819,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 4,
     "cr": 12.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/flutterflesh-tob1-2023.html"
   },
@@ -9747,6 +10829,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/flying-lion-a5e.html"
   },
@@ -9756,6 +10839,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 1,
     "cr": 11.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/flying-polyp.html"
   },
@@ -9765,6 +10849,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 3,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/flying-snake-a5e.html"
   },
@@ -9774,6 +10859,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 4,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/flying-snake.html"
   },
@@ -9783,6 +10869,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 2,
     "cr": 0.125,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/flying_snake_mm_2024.html"
   },
@@ -9792,6 +10879,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.25,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/flying-sword-a5e.html"
   },
@@ -9801,6 +10889,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 3,
     "cr": 0.25,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/flying_sword_bf.html"
   },
@@ -9810,6 +10899,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.25,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/flying-sword.html"
   },
@@ -9819,6 +10909,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/folkofleng-tob1-2023.html"
   },
@@ -9828,6 +10919,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": 0,
     "cr": 8.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fomorian-a5e.html"
   },
@@ -9837,6 +10929,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": -1,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/forest-drake.html"
   },
@@ -9846,6 +10939,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 1,
     "cr": 15.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/forest-emperor.html"
   },
@@ -9855,6 +10949,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/forest-falcon.html"
   },
@@ -9864,6 +10959,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/forest-gnome-illusionist-a5e.html"
   },
@@ -9873,6 +10969,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/forest-gnome-scout-a5e.html"
   },
@@ -9882,6 +10979,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/foresthunter-tob1-2023.html"
   },
@@ -9891,6 +10989,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/forestmarauder-tob1-2023.html"
   },
@@ -9900,6 +10999,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/forgotten-god-a5e.html"
   },
@@ -9909,6 +11009,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 0,
     "cr": 10.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/forgotten-regent.html"
   },
@@ -9918,6 +11019,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -1,
     "cr": 10.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/foxfire-ooze.html"
   },
@@ -9927,6 +11029,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/foxin.html"
   },
@@ -9936,6 +11039,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fractal-golem.html"
   },
@@ -9945,6 +11049,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/fragrant-one.html"
   },
@@ -9954,6 +11059,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 1,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fragrite.html"
   },
@@ -9963,6 +11069,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/fraughashar-tob1-2023.html"
   },
@@ -9972,6 +11079,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/frog-a5e.html"
   },
@@ -9981,6 +11089,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/frog_bf.html"
   },
@@ -9990,6 +11099,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/frog.html"
   },
@@ -9999,6 +11109,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/frog_mm_2024.html"
   },
@@ -10008,6 +11119,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/frog_giant_bf.html"
   },
@@ -10017,6 +11129,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/frog_giant_poisonous_bf.html"
   },
@@ -10026,6 +11139,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": -1,
     "cr": 9.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/frost-giant-a5e.html"
   },
@@ -10035,6 +11149,7 @@ const monsterCombatStats = [
     "hp": 166,
     "init": 2,
     "cr": 8.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/frost_giant_bf.html"
   },
@@ -10044,6 +11159,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": -1,
     "cr": 8.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/frost-giant.html"
   },
@@ -10053,6 +11169,7 @@ const monsterCombatStats = [
     "hp": 149,
     "init": 2,
     "cr": 8.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/frost_giant_mm_2024.html"
   },
@@ -10062,6 +11179,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": -1,
     "cr": 12.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/frost-giant-jarl-a5e.html"
   },
@@ -10071,6 +11189,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/frost-mole.html"
   },
@@ -10080,6 +11199,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 4,
     "cr": 10.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/frostjack.html"
   },
@@ -10089,6 +11209,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 5,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/frostveil-tob1-2023.html"
   },
@@ -10098,6 +11219,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 0,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fulad-zereh.html"
   },
@@ -10107,6 +11229,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 5,
     "cr": 9.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/fulminar.html"
   },
@@ -10116,6 +11239,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 4,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/fungi-duskwilt.html"
   },
@@ -10125,6 +11249,7 @@ const monsterCombatStats = [
     "hp": 139,
     "init": -2,
     "cr": 6.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/fungi-mulcher.html"
   },
@@ -10134,6 +11259,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 1,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/fungi-mush-marcher.html"
   },
@@ -10143,6 +11269,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/fungi-void-fungus.html"
   },
@@ -10152,6 +11279,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 8.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/gaki.html"
   },
@@ -10161,6 +11289,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 1,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/galidroo.html"
   },
@@ -10170,6 +11299,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/gargoctopus.html"
   },
@@ -10179,6 +11309,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gargoyle-a5e.html"
   },
@@ -10188,6 +11319,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 0,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gargoyle_bf.html"
   },
@@ -10197,6 +11329,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 0,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gargoyle.html"
   },
@@ -10206,6 +11339,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gargoyle_mm_2024.html"
   },
@@ -10215,6 +11349,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 2,
     "cr": 1.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/garlicle.html"
   },
@@ -10224,6 +11359,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 2,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/garmvvolf.html"
   },
@@ -10233,6 +11369,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/garrotercrab-tob1-2023.html"
   },
@@ -10242,6 +11379,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/gaunt-one.html"
   },
@@ -10251,6 +11389,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 2,
     "cr": 6.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/gbahali-tob1-2023.html"
   },
@@ -10260,6 +11399,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 2,
     "cr": 0.5,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gear-spider-a5e.html"
   },
@@ -10269,6 +11409,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": -1,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/gearforgedtemplar-tob1-2023.html"
   },
@@ -10278,6 +11419,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": -3,
     "cr": 5.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/gearmass.html"
   },
@@ -10287,6 +11429,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -4,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gelatinous-cube-a5e.html"
   },
@@ -10296,6 +11439,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": -3,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gelatinous_cube_bf.html"
   },
@@ -10305,6 +11449,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": -4,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gelatinous-cube.html"
   },
@@ -10314,6 +11459,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": -4,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gelatinous_cube_mm_2024.html"
   },
@@ -10323,6 +11469,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": -4,
     "cr": 7.0,
+    "type": "Ooze",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gelatinous-wall-a5e.html"
   },
@@ -10332,6 +11479,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 2,
     "cr": 1.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/gerridae-tob1-2023.html"
   },
@@ -10341,6 +11489,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 2.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ghast-a5e.html"
   },
@@ -10350,6 +11499,7 @@ const monsterCombatStats = [
     "hp": 48,
     "init": 3,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ghast_bf.html"
   },
@@ -10359,6 +11509,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 2.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ghast.html"
   },
@@ -10368,6 +11519,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 2.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ghast_mm_2024.html"
   },
@@ -10377,6 +11529,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 3,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ghast-of-leng.html"
   },
@@ -10386,6 +11539,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 1.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ghillie-dubh.html"
   },
@@ -10395,6 +11549,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 4.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ghost-a5e.html"
   },
@@ -10404,6 +11559,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ghost_bf.html"
   },
@@ -10413,6 +11569,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 4.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ghost.html"
   },
@@ -10422,6 +11579,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 4.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ghost_mm_2024.html"
   },
@@ -10431,6 +11589,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 0,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ghost-boar.html"
   },
@@ -10440,6 +11599,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 4,
     "cr": 11.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ghost-dragon.html"
   },
@@ -10449,6 +11609,7 @@ const monsterCombatStats = [
     "hp": 81,
     "init": 2,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ghost-dwarf.html"
   },
@@ -10458,6 +11619,7 @@ const monsterCombatStats = [
     "hp": 130,
     "init": 2,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ghostknight-tob1-2023.html"
   },
@@ -10467,6 +11629,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 10.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ghost-knight-templar.html"
   },
@@ -10476,6 +11639,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 5,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ghostwalkspider-tob1-2023.html"
   },
@@ -10485,6 +11649,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ghoul-a5e.html"
   },
@@ -10494,6 +11659,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 3,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ghoul_bf.html"
   },
@@ -10503,6 +11669,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ghoul.html"
   },
@@ -10512,6 +11679,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ghoul_mm_2024.html"
   },
@@ -10521,6 +11689,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.25,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ghoul-bat.html"
   },
@@ -10530,6 +11699,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 0,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ghoulsteed.html"
   },
@@ -10539,6 +11709,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ghul.html"
   },
@@ -10548,6 +11719,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 9.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-air-elemental-a5e.html"
   },
@@ -10557,6 +11729,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/giant-albino-bat.html"
   },
@@ -10566,6 +11739,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/giantant-tob1-2023.html"
   },
@@ -10575,6 +11749,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/giantantqueen-tob1-2023.html"
   },
@@ -10584,6 +11759,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 2,
     "cr": 7.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-ape-a5e.html"
   },
@@ -10593,6 +11769,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 2,
     "cr": 7.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-ape.html"
   },
@@ -10602,6 +11779,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 5,
     "cr": 7.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_ape_mm_2024.html"
   },
@@ -10611,6 +11789,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": -1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-armadillo.html"
   },
@@ -10620,6 +11799,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-badger-a5e.html"
   },
@@ -10629,6 +11809,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-badger.html"
   },
@@ -10638,6 +11819,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_badger_mm_2024.html"
   },
@@ -10647,6 +11829,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-bat-a5e.html"
   },
@@ -10656,6 +11839,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-bat.html"
   },
@@ -10665,6 +11849,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_bat_mm_2024.html"
   },
@@ -10674,6 +11859,7 @@ const monsterCombatStats = [
     "hp": 47,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-boar-a5e.html"
   },
@@ -10683,6 +11869,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-boar.html"
   },
@@ -10692,6 +11879,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_boar_mm_2024.html"
   },
@@ -10701,6 +11889,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-bombardier-beetle.html"
   },
@@ -10710,6 +11899,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-centipede-a5e.html"
   },
@@ -10719,6 +11909,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-centipede.html"
   },
@@ -10728,6 +11919,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_centipede_mm_2024.html"
   },
@@ -10737,6 +11929,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-constrictor-snake-a5e.html"
   },
@@ -10746,6 +11939,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-constrictor-snake.html"
   },
@@ -10755,6 +11949,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_constrictor_snake_mm_2024.html"
   },
@@ -10764,6 +11959,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-crab-a5e.html"
   },
@@ -10773,6 +11969,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-crab.html"
   },
@@ -10782,6 +11979,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_crab_mm_2024.html"
   },
@@ -10791,6 +11989,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 0,
     "cr": 5.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-crocodile-a5e.html"
   },
@@ -10800,6 +11999,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-crocodile.html"
   },
@@ -10809,6 +12009,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_crocodile_mm_2024.html"
   },
@@ -10818,6 +12019,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-eagle-a5e.html"
   },
@@ -10827,6 +12029,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-eagle.html"
   },
@@ -10836,6 +12039,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 3,
     "cr": 1.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_eagle_mm_2024.html"
   },
@@ -10845,6 +12049,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 0,
     "cr": 9.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-earth-elemental-a5e.html"
   },
@@ -10854,6 +12059,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-elk-a5e.html"
   },
@@ -10863,6 +12069,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-elk.html"
   },
@@ -10872,6 +12079,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 6,
     "cr": 2.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_elk_mm_2024.html"
   },
@@ -10881,6 +12089,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-fire-beetle-a5e.html"
   },
@@ -10890,6 +12099,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-fire-beetle.html"
   },
@@ -10899,6 +12109,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_fire_beetle_mm_2024.html"
   },
@@ -10908,6 +12119,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 9.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-fire-elemental-a5e.html"
   },
@@ -10917,6 +12129,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-flea.html"
   },
@@ -10926,6 +12139,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-flea-swarm.html"
   },
@@ -10935,6 +12149,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 4,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-frilled-lizard.html"
   },
@@ -10944,6 +12159,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-frog-a5e.html"
   },
@@ -10953,6 +12169,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-frog.html"
   },
@@ -10962,6 +12179,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_frog_mm_2024.html"
   },
@@ -10971,6 +12189,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-goat-a5e.html"
   },
@@ -10980,6 +12199,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-goat.html"
   },
@@ -10989,6 +12209,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_goat_mm_2024.html"
   },
@@ -10998,6 +12219,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-grick-a5e.html"
   },
@@ -11007,6 +12229,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-honey-bee.html"
   },
@@ -11016,6 +12239,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-husk.html"
   },
@@ -11025,6 +12249,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-hyena-a5e.html"
   },
@@ -11034,6 +12259,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-hyena.html"
   },
@@ -11043,6 +12269,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_hyena_mm_2024.html"
   },
@@ -11052,6 +12279,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 3,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-lanternfish-a5e.html"
   },
@@ -11061,6 +12289,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-leech.html"
   },
@@ -11070,6 +12299,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-lizard-a5e.html"
   },
@@ -11079,6 +12309,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-lizard.html"
   },
@@ -11088,6 +12319,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_lizard_mm_2024.html"
   },
@@ -11097,6 +12329,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-mantis-shrimp.html"
   },
@@ -11106,6 +12339,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": -3,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-mole-lizard.html"
   },
@@ -11115,6 +12349,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-mongoose.html"
   },
@@ -11124,6 +12359,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/giant-moth.html"
   },
@@ -11133,6 +12369,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-octopus-a5e.html"
   },
@@ -11142,6 +12379,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-octopus.html"
   },
@@ -11151,6 +12389,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_octopus_mm_2024.html"
   },
@@ -11160,6 +12399,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-owl-a5e.html"
   },
@@ -11169,6 +12409,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-owl.html"
   },
@@ -11178,6 +12419,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 2,
     "cr": 0.25,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_owl_mm_2024.html"
   },
@@ -11187,6 +12429,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-poisonous-snake-a5e.html"
   },
@@ -11196,6 +12439,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 4,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-poisonous-snake.html"
   },
@@ -11205,6 +12449,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-pufferfish.html"
   },
@@ -11214,6 +12459,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-rat-a5e.html"
   },
@@ -11223,6 +12469,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-rat.html"
   },
@@ -11232,6 +12479,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 3,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_rat_mm_2024.html"
   },
@@ -11241,6 +12489,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-rat-diseased.html"
   },
@@ -11250,6 +12499,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-scorpion-a5e.html"
   },
@@ -11259,6 +12509,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-scorpion.html"
   },
@@ -11268,6 +12519,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_scorpion_mm_2024.html"
   },
@@ -11277,6 +12529,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-sea-horse.html"
   },
@@ -11286,6 +12539,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-seahorse-a5e.html"
   },
@@ -11295,6 +12549,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_seahorse_mm_2024.html"
   },
@@ -11304,6 +12559,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 0,
     "cr": 5.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-shark-a5e.html"
   },
@@ -11313,6 +12569,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 5.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-shark.html"
   },
@@ -11322,6 +12579,7 @@ const monsterCombatStats = [
     "hp": 92,
     "init": 3,
     "cr": 5.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_shark_mm_2024.html"
   },
@@ -11331,6 +12589,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": -4,
     "cr": 8.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/giant-shark-bowl.html"
   },
@@ -11340,6 +12599,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 0,
     "cr": 7.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/giant-sloth.html"
   },
@@ -11349,6 +12609,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-snow-beetle.html"
   },
@@ -11358,6 +12619,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-spider-a5e.html"
   },
@@ -11367,6 +12629,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-spider.html"
   },
@@ -11376,6 +12639,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_spider_mm_2024.html"
   },
@@ -11385,6 +12649,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-toad-a5e.html"
   },
@@ -11394,6 +12659,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-toad.html"
   },
@@ -11403,6 +12669,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_toad_mm_2024.html"
   },
@@ -11412,6 +12679,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/giant-vampire-bat.html"
   },
@@ -11421,6 +12689,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 4,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_venomous_snake_mm_2024.html"
   },
@@ -11430,6 +12699,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-vulture-a5e.html"
   },
@@ -11439,6 +12709,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-vulture.html"
   },
@@ -11448,6 +12719,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 0,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_vulture_mm_2024.html"
   },
@@ -11457,6 +12729,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 2,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-walking-stick.html"
   },
@@ -11466,6 +12739,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-wasp-a5e.html"
   },
@@ -11475,6 +12749,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-wasp.html"
   },
@@ -11484,6 +12759,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_wasp_mm_2024.html"
   },
@@ -11493,6 +12769,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 2,
     "cr": 9.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-water-elemental-a5e.html"
   },
@@ -11502,6 +12779,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/giant-water-scorpion.html"
   },
@@ -11511,6 +12789,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-weasel-a5e.html"
   },
@@ -11520,6 +12799,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 3,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-weasel.html"
   },
@@ -11529,6 +12809,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 3,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_weasel_mm_2024.html"
   },
@@ -11538,6 +12819,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/giant-wolf-spider-a5e.html"
   },
@@ -11547,6 +12829,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/giant-wolf-spider.html"
   },
@@ -11556,6 +12839,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/giant_wolf_spider_mm_2024.html"
   },
@@ -11565,6 +12849,7 @@ const monsterCombatStats = [
     "hp": 149,
     "init": 2,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-firestorm.html"
   },
@@ -11574,6 +12859,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 2,
     "cr": 9.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-hellfire.html"
   },
@@ -11583,6 +12869,7 @@ const monsterCombatStats = [
     "hp": 225,
     "init": 1,
     "cr": 12.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-lantern.html"
   },
@@ -11592,6 +12879,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": -1,
     "cr": 8.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-shire.html"
   },
@@ -11601,6 +12889,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": -1,
     "cr": 6.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-thursir-armorer.html"
   },
@@ -11610,6 +12899,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 2,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/giant-thursir-hearth-priestess.html"
   },
@@ -11619,6 +12909,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": -1,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gibbering-mouther-a5e.html"
   },
@@ -11628,6 +12919,7 @@ const monsterCombatStats = [
     "hp": 72,
     "init": -1,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gibbering_mouther_bf.html"
   },
@@ -11637,6 +12929,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": -1,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gibbering-mouther.html"
   },
@@ -11646,6 +12939,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": -1,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gibbering_mouther_mm_2024.html"
   },
@@ -11655,6 +12949,7 @@ const monsterCombatStats = [
     "hp": 248,
     "init": 3,
     "cr": 13.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/gigantura.html"
   },
@@ -11664,6 +12959,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 2,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/gildeddevil-tob1-2023.html"
   },
@@ -11673,6 +12969,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 3,
     "cr": 10.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/glabrezu-a5e.html"
   },
@@ -11682,6 +12979,7 @@ const monsterCombatStats = [
     "hp": 154,
     "init": 2,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/glabrezu_bf.html"
   },
@@ -11691,6 +12989,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 2,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/glabrezu.html"
   },
@@ -11700,6 +12999,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 6,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/glabrezu_mm_2024.html"
   },
@@ -11709,6 +13009,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 1,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/glacial-corrupter.html"
   },
@@ -11718,6 +13019,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": 3,
     "cr": 11.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/glacial-crawler.html"
   },
@@ -11727,6 +13029,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": -4,
     "cr": 12.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/glacier-behemoth.html"
   },
@@ -11736,6 +13039,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gladiator-a5e.html"
   },
@@ -11745,6 +13049,7 @@ const monsterCombatStats = [
     "hp": 108,
     "init": 2,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gladiator_bf.html"
   },
@@ -11754,6 +13059,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 2,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gladiator.html"
   },
@@ -11763,6 +13069,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 5,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gladiator_mm_2024.html"
   },
@@ -11772,6 +13079,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/glassgator-tob1-2023.html"
   },
@@ -11781,6 +13089,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/glass-golem.html"
   },
@@ -11790,6 +13099,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": -2,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/gloomflower.html"
   },
@@ -11799,6 +13109,7 @@ const monsterCombatStats = [
     "hp": 88,
     "init": 5,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/gnarljak-tob1-2023.html"
   },
@@ -11808,6 +13119,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gnoll-a5e.html"
   },
@@ -11817,6 +13129,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gnoll_bf.html"
   },
@@ -11826,6 +13139,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gnoll.html"
   },
@@ -11835,6 +13149,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 3,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gnoll-demonfang-a5e.html"
   },
@@ -11844,6 +13159,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/gnollhavocrunner-tob1-2023.html"
   },
@@ -11853,6 +13169,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gnoll-pack-leader-a5e.html"
   },
@@ -11862,6 +13179,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/gnoll-slaver.html"
   },
@@ -11871,6 +13189,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 1,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gnoll_warrior_mm_2024.html"
   },
@@ -11880,6 +13199,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 4.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/gnyan.html"
   },
@@ -11889,6 +13209,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goat-a5e.html"
   },
@@ -11898,6 +13219,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/goat_bf.html"
   },
@@ -11907,6 +13229,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/goat.html"
   },
@@ -11916,6 +13239,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/goat_mm_2024.html"
   },
@@ -11925,6 +13249,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 0,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/goat_giant_bf.html"
   },
@@ -11934,6 +13259,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/goat-man-tob1-2023.html"
   },
@@ -11943,6 +13269,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goblin-a5e.html"
   },
@@ -11952,6 +13279,7 @@ const monsterCombatStats = [
     "hp": 12,
     "init": 4,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/goblin_bf.html"
   },
@@ -11961,6 +13289,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/goblin.html"
   },
@@ -11970,6 +13299,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goblin-alchemist-a5e.html"
   },
@@ -11979,6 +13309,7 @@ const monsterCombatStats = [
     "hp": 24,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goblin-boss-a5e.html"
   },
@@ -11988,6 +13319,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 1.0,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/goblin_boss_mm_2024.html"
   },
@@ -11997,6 +13329,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 4,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/goblin_captain_bf.html"
   },
@@ -12006,6 +13339,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goblin-dreadnought-a5e.html"
   },
@@ -12015,6 +13349,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/goblin_minion_mm_2024.html"
   },
@@ -12024,6 +13359,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goblin-musketeer-a5e.html"
   },
@@ -12033,6 +13369,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goblin-shieldbearer-a5e.html"
   },
@@ -12042,6 +13379,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 0,
     "cr": 11.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/goblin-siege-engine.html"
   },
@@ -12051,6 +13389,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goblin-skulker-a5e.html"
   },
@@ -12060,6 +13399,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/goblin-warlock-a5e.html"
   },
@@ -12069,6 +13409,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 2,
     "cr": 0.25,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/goblin_warrior_mm_2024.html"
   },
@@ -12078,6 +13419,7 @@ const monsterCombatStats = [
     "hp": 580,
     "init": 2,
     "cr": 30.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/godslayer.html"
   },
@@ -12087,6 +13429,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 4.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gold-dragon-wyrmling-a5e.html"
   },
@@ -12096,6 +13439,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 4,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gold_dragon_wyrmling_bf.html"
   },
@@ -12105,6 +13449,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gold-dragon-wyrmling.html"
   },
@@ -12114,6 +13459,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 4,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gold_dragon_wyrmling_mm_2024.html"
   },
@@ -12123,6 +13469,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": -1,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/golem-barnyard.html"
   },
@@ -12132,6 +13479,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 1,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/golem-chain.html"
   },
@@ -12141,6 +13489,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/golem-ice.html"
   },
@@ -12150,6 +13499,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/golem-origami.html"
   },
@@ -12159,6 +13509,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": -1,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/golem-tar.html"
   },
@@ -12168,6 +13519,7 @@ const monsterCombatStats = [
     "hp": 162,
     "init": 2,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/goliath-longlegs.html"
   },
@@ -12177,6 +13529,7 @@ const monsterCombatStats = [
     "hp": 118,
     "init": 3,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/golmana_bf.html"
   },
@@ -12186,6 +13539,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 0,
     "cr": 0.125,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/gorao-ka.html"
   },
@@ -12195,6 +13549,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 2,
     "cr": 0.25,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/goreling.html"
   },
@@ -12204,6 +13559,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 0,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gorgon-a5e.html"
   },
@@ -12213,6 +13569,7 @@ const monsterCombatStats = [
     "hp": 96,
     "init": 0,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gorgon_bf.html"
   },
@@ -12222,6 +13579,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gorgon.html"
   },
@@ -12231,6 +13589,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 5.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gorgon_mm_2024.html"
   },
@@ -12240,6 +13599,7 @@ const monsterCombatStats = [
     "hp": 201,
     "init": 4,
     "cr": 14.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/graknork.html"
   },
@@ -12249,6 +13609,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": -1,
     "cr": 10.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/grave-behemoth.html"
   },
@@ -12258,6 +13619,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 0,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/graveyard-dragon.html"
   },
@@ -12267,6 +13629,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": -2,
     "cr": 0.5,
+    "type": "Ooze",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/gray-ooze-a5e.html"
   },
@@ -12276,6 +13639,7 @@ const monsterCombatStats = [
     "hp": 29,
     "init": -2,
     "cr": 0.5,
+    "type": "Ooze",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gray_ooze_bf.html"
   },
@@ -12285,6 +13649,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": -2,
     "cr": 0.5,
+    "type": "Ooze",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gray-ooze.html"
   },
@@ -12294,6 +13659,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": -2,
     "cr": 0.5,
+    "type": "Ooze",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gray_ooze_mm_2024.html"
   },
@@ -12303,6 +13669,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 3,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/gray-orc.html"
   },
@@ -12312,6 +13679,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/graythirster-tob1-2023.html"
   },
@@ -12321,6 +13689,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/great-gray-owl.html"
   },
@@ -12330,6 +13699,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": -1,
     "cr": 1.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/great-mandrake.html"
   },
@@ -12339,6 +13709,7 @@ const monsterCombatStats = [
     "hp": 735,
     "init": 2,
     "cr": 23.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/great-wyrm-black-dragon-a5e.html"
   },
@@ -12348,6 +13719,7 @@ const monsterCombatStats = [
     "hp": 814,
     "init": 0,
     "cr": 25.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/great-wyrm-blue-dragon-a5e.html"
   },
@@ -12357,6 +13729,7 @@ const monsterCombatStats = [
     "hp": 975,
     "init": 2,
     "cr": 26.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/great-wyrm-gold-dragon-a5e.html"
   },
@@ -12366,6 +13739,7 @@ const monsterCombatStats = [
     "hp": 840,
     "init": 1,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/great-wyrm-green-dragon-a5e.html"
   },
@@ -12375,6 +13749,7 @@ const monsterCombatStats = [
     "hp": 897,
     "init": 0,
     "cr": 26.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/great-wyrm-red-dragon-a5e.html"
   },
@@ -12384,6 +13759,7 @@ const monsterCombatStats = [
     "hp": 740,
     "init": 1,
     "cr": 22.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/great-wyrm-white-dragon-a5e.html"
   },
@@ -12393,6 +13769,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 4,
     "cr": 6.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/greaterdeathbutterflyswarm-tob1-2023.html"
   },
@@ -12402,6 +13779,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 4,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/greater-ghast-of-leng.html"
   },
@@ -12411,6 +13789,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/greater-lunarchidna.html"
   },
@@ -12420,6 +13799,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 4,
     "cr": 15.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/greater-rakshasa.html"
   },
@@ -12429,6 +13809,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 0,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/greater-scrag.html"
   },
@@ -12438,6 +13819,7 @@ const monsterCombatStats = [
     "hp": 220,
     "init": 2,
     "cr": 17.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/greater-sphinx-a5e.html"
   },
@@ -12447,6 +13829,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/greed-swarm.html"
   },
@@ -12456,6 +13839,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/green-abyss-orc.html"
   },
@@ -12465,6 +13849,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/green-dragon-wyrmling-a5e.html"
   },
@@ -12474,6 +13859,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 3,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/green_dragon_wyrmling_bf.html"
   },
@@ -12483,6 +13869,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 1,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/green-dragon-wyrmling.html"
   },
@@ -12492,6 +13879,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 3,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/green_dragon_wyrmling_mm_2024.html"
   },
@@ -12501,6 +13889,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 3.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/green-hag-a5e.html"
   },
@@ -12510,6 +13899,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 1,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/green_hag_bf.html"
   },
@@ -12519,6 +13909,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 1,
     "cr": 3.0,
+    "type": "Fey",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/green-hag.html"
   },
@@ -12528,6 +13919,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 1,
     "cr": 3.0,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/green_hag_mm_2024.html"
   },
@@ -12537,6 +13929,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 0,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/green-knight-of-the-woods.html"
   },
@@ -12546,6 +13939,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/gremlin-bilge.html"
   },
@@ -12555,6 +13949,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 4,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/gremlin-bilge-bosun.html"
   },
@@ -12564,6 +13959,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/gremlin-rum-story-keeper.html"
   },
@@ -12573,6 +13969,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/greyfur-tob1-2023.html"
   },
@@ -12582,6 +13979,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/grick-a5e.html"
   },
@@ -12591,6 +13989,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/grick_bf.html"
   },
@@ -12600,6 +13999,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/grick.html"
   },
@@ -12609,6 +14009,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 2,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/grick_mm_2024.html"
   },
@@ -12618,6 +14019,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/griffon-a5e.html"
   },
@@ -12627,6 +14029,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/griffon_bf.html"
   },
@@ -12636,6 +14039,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/griffon.html"
   },
@@ -12645,6 +14049,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/griffon_mm_2024.html"
   },
@@ -12654,6 +14059,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 6,
     "cr": 11.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/grimjester-tob1-2023.html"
   },
@@ -12663,6 +14069,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/grimalkin-a5e.html"
   },
@@ -12672,6 +14079,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/grimlock-a5e.html"
   },
@@ -12681,6 +14089,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/grimlock_bf.html"
   },
@@ -12690,6 +14099,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/grimlock.html"
   },
@@ -12699,6 +14109,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.25,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/grimlock_mm_2024.html"
   },
@@ -12708,6 +14119,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/grimlock-technical-a5e.html"
   },
@@ -12717,6 +14129,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/grimmlet.html"
   },
@@ -12726,6 +14139,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 1,
     "cr": 14.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/grimmlet-swarm.html"
   },
@@ -12735,6 +14149,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/grindylow.html"
   },
@@ -12744,6 +14159,7 @@ const monsterCombatStats = [
     "hp": 180,
     "init": 3,
     "cr": 11.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/grivid.html"
   },
@@ -12753,6 +14169,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 0,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/grolar-bear.html"
   },
@@ -12762,6 +14179,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/grolar-bear-alpha.html"
   },
@@ -12771,6 +14189,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/grove-bear.html"
   },
@@ -12780,6 +14199,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/guard-a5e.html"
   },
@@ -12789,6 +14209,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/guard_bf.html"
   },
@@ -12798,6 +14219,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/guard.html"
   },
@@ -12807,6 +14229,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/guard_mm_2024.html"
   },
@@ -12816,6 +14239,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/guard_captain_mm_2024.html"
   },
@@ -12825,6 +14249,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/guard-squad-a5e.html"
   },
@@ -12834,6 +14259,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/guardian-tob1-2023.html"
   },
@@ -12843,6 +14269,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 10.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/guardian-naga-a5e.html"
   },
@@ -12852,6 +14279,7 @@ const monsterCombatStats = [
     "hp": 176,
     "init": 8,
     "cr": 10.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/guardian_naga_bf.html"
   },
@@ -12861,6 +14289,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 10.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/guardian-naga.html"
   },
@@ -12870,6 +14299,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/guardian_naga_mm_2024.html"
   },
@@ -12879,6 +14309,7 @@ const monsterCombatStats = [
     "hp": 230,
     "init": 0,
     "cr": 12.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/gug-tob1-2023.html"
   },
@@ -12888,6 +14319,7 @@ const monsterCombatStats = [
     "hp": 253,
     "init": 3,
     "cr": 21.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/gugalanna.html"
   },
@@ -12897,6 +14329,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/gullkin.html"
   },
@@ -12906,6 +14339,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/gullkin-hunter.html"
   },
@@ -12915,6 +14349,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 2,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/gulon.html"
   },
@@ -12924,6 +14359,7 @@ const monsterCombatStats = [
     "hp": 188,
     "init": 0,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/gulper-behemoth.html"
   },
@@ -12933,6 +14369,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 1.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/gumienniki.html"
   },
@@ -12942,6 +14379,7 @@ const monsterCombatStats = [
     "hp": 204,
     "init": 2,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/gynosphinx_bf.html"
   },
@@ -12951,6 +14389,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gynosphinx.html"
   },
@@ -12960,6 +14399,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 2,
     "cr": 14.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/gypsosphinx-tob1-2023.html"
   },
@@ -12969,6 +14409,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/haakjir.html"
   },
@@ -12978,6 +14419,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 1,
     "cr": 9.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hag-brine.html"
   },
@@ -12987,6 +14429,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 2,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hag-floe.html"
   },
@@ -12996,6 +14439,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hag-pesta.html"
   },
@@ -13005,6 +14449,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 2,
     "cr": 9.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hag-wood.html"
   },
@@ -13014,6 +14459,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.25,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/hair-golem.html"
   },
@@ -13023,6 +14469,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 3,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/haleshi.html"
   },
@@ -13032,6 +14479,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 5,
     "cr": 5.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/halfdragon_mm_2024.html"
   },
@@ -13041,6 +14489,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/half-red-dragon-veteran-a5e.html"
   },
@@ -13050,6 +14499,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 1,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/half-red-dragon-veteran.html"
   },
@@ -13059,6 +14509,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/half-shadow-dragon-assassin-a5e.html"
   },
@@ -13068,6 +14519,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.5,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/hallowed-reed.html"
   },
@@ -13077,6 +14529,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 3,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/hantu-penanggal.html"
   },
@@ -13086,6 +14539,7 @@ const monsterCombatStats = [
     "hp": 297,
     "init": -1,
     "cr": 20.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/harbinger-of-wrath.html"
   },
@@ -13095,6 +14549,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/harefolk.html"
   },
@@ -13104,6 +14559,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/harpy-a5e.html"
   },
@@ -13113,6 +14569,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 3,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/harpy_bf.html"
   },
@@ -13122,6 +14579,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/harpy.html"
   },
@@ -13131,6 +14589,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/harpy_mm_2024.html"
   },
@@ -13140,6 +14599,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 2,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/harpy-plague.html"
   },
@@ -13149,6 +14609,7 @@ const monsterCombatStats = [
     "hp": 37,
     "init": -3,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/harvest-horse.html"
   },
@@ -13158,6 +14619,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 5,
     "cr": 13.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/haugbui-tob1-2023.html"
   },
@@ -13167,6 +14629,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -1,
     "cr": 6.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/haunted-giant.html"
   },
@@ -13176,6 +14639,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hawk-a5e.html"
   },
@@ -13185,6 +14649,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hawk_bf.html"
   },
@@ -13194,6 +14659,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hawk.html"
   },
@@ -13203,6 +14669,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hawk_mm_2024.html"
   },
@@ -13212,6 +14679,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hawk_blood_bf.html"
   },
@@ -13221,6 +14689,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/heavy-cavalry.html"
   },
@@ -13230,6 +14699,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 5,
     "cr": 8.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/hebi-doku.html"
   },
@@ -13239,6 +14709,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 3,
     "cr": 1.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/heggarna.html"
   },
@@ -13248,6 +14719,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 2,
     "cr": 13.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/helashruu.html"
   },
@@ -13257,6 +14729,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hell-hound-a5e.html"
   },
@@ -13266,6 +14739,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 1,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hell_hound_bf.html"
   },
@@ -13275,6 +14749,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hell-hound.html"
   },
@@ -13284,6 +14759,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hell_hound_mm_2024.html"
   },
@@ -13293,6 +14769,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 1,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/heraldofblood-tob1-2023.html"
   },
@@ -13302,6 +14779,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/heraldofdarkness-tob1-2023.html"
   },
@@ -13311,6 +14789,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/herald-of-slaughter.html"
   },
@@ -13320,6 +14799,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 5,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/herald-of-the-void.html"
   },
@@ -13329,6 +14809,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/herd-skulker.html"
   },
@@ -13338,6 +14819,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 3,
     "cr": 10.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hezrou-a5e.html"
   },
@@ -13347,6 +14829,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": 3,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hezrou_bf.html"
   },
@@ -13356,6 +14839,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 3,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hezrou.html"
   },
@@ -13365,6 +14849,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 6,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hezrou_mm_2024.html"
   },
@@ -13374,6 +14859,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 1,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/hierophant-lich.html"
   },
@@ -13383,6 +14869,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/high-elf-noble-a5e.html"
   },
@@ -13392,6 +14879,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 0,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/high-priest-a5e.html"
   },
@@ -13401,6 +14889,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hill-dwarf-wrestler-a5e.html"
   },
@@ -13410,6 +14899,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": -1,
     "cr": 6.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hill-giant-a5e.html"
   },
@@ -13419,6 +14909,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hill_giant_bf.html"
   },
@@ -13428,6 +14919,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": -1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hill-giant.html"
   },
@@ -13437,6 +14929,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 5.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hill_giant_mm_2024.html"
   },
@@ -13446,6 +14939,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -1,
     "cr": 8.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hill-giant-chief-a5e.html"
   },
@@ -13455,6 +14949,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.25,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hinderling.html"
   },
@@ -13464,6 +14959,7 @@ const monsterCombatStats = [
     "hp": 199,
     "init": 1,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hinn_bf.html"
   },
@@ -13473,6 +14969,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hippocampus_bf.html"
   },
@@ -13482,6 +14979,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hippogriff-a5e.html"
   },
@@ -13491,6 +14989,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hippogriff_bf.html"
   },
@@ -13500,6 +14999,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hippogriff.html"
   },
@@ -13509,6 +15009,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hippogriff_mm_2024.html"
   },
@@ -13518,6 +15019,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -2,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hippopotamus.html"
   },
@@ -13527,6 +15029,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": -2,
     "cr": 4.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hippopotamus_mm_2024.html"
   },
@@ -13536,6 +15039,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": -2,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hippopotamus-sacred.html"
   },
@@ -13545,6 +15049,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hirudine-stalker.html"
   },
@@ -13554,6 +15059,7 @@ const monsterCombatStats = [
     "hp": 108,
     "init": 3,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hivebound_bf.html"
   },
@@ -13563,6 +15069,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": -2,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/hoard-drake.html"
   },
@@ -13572,6 +15079,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 2,
     "cr": 12.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/hoardgolem-tob1-2023.html"
   },
@@ -13581,6 +15089,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/hoarfrost-drake.html"
   },
@@ -13590,6 +15099,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hobgoblin-a5e.html"
   },
@@ -13599,6 +15109,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hobgoblin_bf.html"
   },
@@ -13608,6 +15119,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hobgoblin.html"
   },
@@ -13617,6 +15129,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hobgoblin-captain-a5e.html"
   },
@@ -13626,6 +15139,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 4,
     "cr": 3.0,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hobgoblin_captain_mm_2024.html"
   },
@@ -13635,6 +15149,7 @@ const monsterCombatStats = [
     "hp": 72,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hobgoblin_commander_bf.html"
   },
@@ -13644,6 +15159,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hobgoblin-warlord-a5e.html"
   },
@@ -13653,6 +15169,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hobgoblin_warrior_mm_2024.html"
   },
@@ -13662,6 +15179,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/hodag.html"
   },
@@ -13671,6 +15189,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/holler-spider.html"
   },
@@ -13680,6 +15199,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 1,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/holy-knight-a5e.html"
   },
@@ -13689,6 +15209,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 3,
     "cr": 0.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/homunculus-a5e.html"
   },
@@ -13698,6 +15219,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 3,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/homunculus_bf.html"
   },
@@ -13707,6 +15229,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 2,
     "cr": 0.0,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/homunculus.html"
   },
@@ -13716,6 +15239,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 2,
     "cr": 0.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/homunculus_mm_2024.html"
   },
@@ -13725,6 +15249,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 5,
     "cr": 8.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/hongaek.html"
   },
@@ -13734,6 +15259,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 2,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/hooden-horse.html"
   },
@@ -13743,6 +15269,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 4,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/horakh-tob1-2023.html"
   },
@@ -13752,6 +15279,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/horde-demon-a5e.html"
   },
@@ -13761,6 +15289,7 @@ const monsterCombatStats = [
     "hp": 260,
     "init": 1,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/horde-demon-band-a5e.html"
   },
@@ -13770,6 +15299,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/horde-of-shadows-a5e.html"
   },
@@ -13779,6 +15309,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 3,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/horned-devil-a5e.html"
   },
@@ -13788,6 +15319,7 @@ const monsterCombatStats = [
     "hp": 185,
     "init": 7,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/horned_devil_bf.html"
   },
@@ -13797,6 +15329,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 3,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/horned-devil.html"
   },
@@ -13806,6 +15339,7 @@ const monsterCombatStats = [
     "hp": 199,
     "init": 7,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/horned_devil_mm_2024.html"
   },
@@ -13815,6 +15349,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": 3,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/horned-serpent.html"
   },
@@ -13824,6 +15359,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/horned-tauric-a5e.html"
   },
@@ -13833,6 +15369,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/horse_draft_bf.html"
   },
@@ -13842,6 +15379,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/horse_riding_bf.html"
   },
@@ -13851,6 +15389,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/horse_war_bf.html"
   },
@@ -13860,6 +15399,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 0,
     "cr": 1.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hound-guardian-a5e.html"
   },
@@ -13869,6 +15409,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 6,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/hound-of-tindalos.html"
   },
@@ -13878,6 +15419,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 3,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/houndofthenight-tob1-2023.html"
   },
@@ -13887,6 +15429,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/howler-baboon.html"
   },
@@ -13896,6 +15439,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 6,
     "cr": 14.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/howler-of-the-hill.html"
   },
@@ -13905,6 +15449,7 @@ const monsterCombatStats = [
     "hp": 241,
     "init": 0,
     "cr": 19.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/hraesvelgr-tob1-2023.html"
   },
@@ -13914,6 +15459,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 1,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/huecambra.html"
   },
@@ -13923,6 +15469,7 @@ const monsterCombatStats = [
     "hp": 130,
     "init": 4,
     "cr": 9.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/huli-jing.html"
   },
@@ -13932,6 +15479,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 0,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/hulkingwhelp-tob1-2023.html"
   },
@@ -13941,6 +15489,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 2,
     "cr": 12.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/hundun-tob1-2023.html"
   },
@@ -13950,6 +15499,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hunter-shark-a5e.html"
   },
@@ -13959,6 +15509,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hunter-shark.html"
   },
@@ -13968,6 +15519,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hunter_shark_mm_2024.html"
   },
@@ -13977,6 +15529,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 5,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/husk_demon_bf.html"
   },
@@ -13986,6 +15539,7 @@ const monsterCombatStats = [
     "hp": 275,
     "init": 3,
     "cr": 15.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/hvalfiskr.html"
   },
@@ -13995,6 +15549,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 3,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/hverhuldra.html"
   },
@@ -14004,6 +15559,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 1,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hydra-a5e.html"
   },
@@ -14013,6 +15569,7 @@ const monsterCombatStats = [
     "hp": 166,
     "init": 1,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hydra_bf.html"
   },
@@ -14022,6 +15579,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 1,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hydra.html"
   },
@@ -14031,6 +15589,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 4,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hydra_mm_2024.html"
   },
@@ -14040,6 +15599,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hyena-a5e.html"
   },
@@ -14049,6 +15609,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hyena_bf.html"
   },
@@ -14058,6 +15619,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hyena.html"
   },
@@ -14067,6 +15629,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hyena_mm_2024.html"
   },
@@ -14076,6 +15639,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/hyena_giant_bf.html"
   },
@@ -14085,6 +15649,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 5,
     "cr": 15.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/iaaffrat-tob1-2023.html"
   },
@@ -14094,6 +15659,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 3,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ibexian.html"
   },
@@ -14103,6 +15669,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 2,
     "cr": 0.125,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ice-bogie.html"
   },
@@ -14112,6 +15679,7 @@ const monsterCombatStats = [
     "hp": 180,
     "init": 2,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ice-devil-a5e.html"
   },
@@ -14121,6 +15689,7 @@ const monsterCombatStats = [
     "hp": 193,
     "init": 7,
     "cr": 14.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ice_devil_bf.html"
   },
@@ -14130,6 +15699,7 @@ const monsterCombatStats = [
     "hp": 180,
     "init": 2,
     "cr": 14.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ice-devil.html"
   },
@@ -14139,6 +15709,7 @@ const monsterCombatStats = [
     "hp": 228,
     "init": 7,
     "cr": 14.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ice_devil_mm_2024.html"
   },
@@ -14148,6 +15719,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": -1,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ice-elemental.html"
   },
@@ -14157,6 +15729,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 3,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/icemaiden-tob1-2023.html"
   },
@@ -14166,6 +15739,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ice-mephit-a5e.html"
   },
@@ -14175,6 +15749,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ice_mephit_bf.html"
   },
@@ -14184,6 +15759,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 1,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ice-mephit.html"
   },
@@ -14193,6 +15769,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 1,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ice_mephit_mm_2024.html"
   },
@@ -14202,6 +15779,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ice-urchin.html"
   },
@@ -14211,6 +15789,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": -1,
     "cr": 6.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ice-willow.html"
   },
@@ -14220,6 +15799,7 @@ const monsterCombatStats = [
     "hp": 247,
     "init": -1,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ice-worm-a5e.html"
   },
@@ -14229,6 +15809,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 3,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/iceworm.html"
   },
@@ -14238,6 +15819,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 4,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ichneumon.html"
   },
@@ -14247,6 +15829,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": -2,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ichor-ooze.html"
   },
@@ -14256,6 +15839,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 5,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/idolicdeity-tob1-2023.html"
   },
@@ -14265,6 +15849,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 1,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ijiraq.html"
   },
@@ -14274,6 +15859,7 @@ const monsterCombatStats = [
     "hp": 116,
     "init": 1,
     "cr": 8.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ikuchi.html"
   },
@@ -14283,6 +15869,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": 1,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/illhveli-kembingur.html"
   },
@@ -14292,6 +15879,7 @@ const monsterCombatStats = [
     "hp": 280,
     "init": 0,
     "cr": 16.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/illhveli-nauthveli.html"
   },
@@ -14301,6 +15889,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/imp-a5e.html"
   },
@@ -14310,6 +15899,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 3,
     "cr": 1.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/imp_bf.html"
   },
@@ -14319,6 +15909,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 3,
     "cr": 1.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/imp.html"
   },
@@ -14328,6 +15919,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 3,
     "cr": 1.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/imp_mm_2024.html"
   },
@@ -14337,6 +15929,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/imp-familiar-a5e.html"
   },
@@ -14346,6 +15939,7 @@ const monsterCombatStats = [
     "hp": 216,
     "init": 0,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/imperator.html"
   },
@@ -14355,6 +15949,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/imperator-penguin-swarm.html"
   },
@@ -14364,6 +15959,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/imperial-dragon-wyrmling.html"
   },
@@ -14373,6 +15969,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/imperialghoul-tob1-2023.html"
   },
@@ -14382,6 +15979,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 4,
     "cr": 9.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/incandescent-one.html"
   },
@@ -14391,6 +15989,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 4,
     "cr": 13.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/incarnate-gloom.html"
   },
@@ -14400,6 +15999,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 5,
     "cr": 10.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/incinis.html"
   },
@@ -14409,6 +16009,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/incubus_mm_2024.html"
   },
@@ -14418,6 +16019,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/infernal-centaur.html"
   },
@@ -14427,6 +16029,7 @@ const monsterCombatStats = [
     "hp": 247,
     "init": 2,
     "cr": 16.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/infernal-knight.html"
   },
@@ -14436,6 +16039,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 3,
     "cr": 12.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/infernal-swarm.html"
   },
@@ -14445,6 +16049,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/initiate-of-the-elder-elementals.html"
   },
@@ -14454,6 +16059,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 4,
     "cr": 2.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/inkdevil-tob1-2023.html"
   },
@@ -14463,6 +16069,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": -2,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ink-guardian.html"
   },
@@ -14472,6 +16079,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 2,
     "cr": 0.25,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/inkling.html"
   },
@@ -14481,6 +16089,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 5,
     "cr": 3.0,
+    "type": "Swarm",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/insatiable_brood_bf.html"
   },
@@ -14490,6 +16099,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/insect_giant_centipede_bf.html"
   },
@@ -14499,6 +16109,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/insect_giant_fire_beetle_bf.html"
   },
@@ -14508,6 +16119,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 1,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/insect_giant_scorpion_bf.html"
   },
@@ -14517,6 +16129,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/insect_giant_wasp_bf.html"
   },
@@ -14526,6 +16139,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/insect_scorpion_bf.html"
   },
@@ -14535,6 +16149,7 @@ const monsterCombatStats = [
     "hp": 24,
     "init": 1,
     "cr": 0.5,
+    "type": "Swarm",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/insect_swarm_of_insects_bf.html"
   },
@@ -14544,6 +16159,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/intellect-devourer-a5e.html"
   },
@@ -14553,6 +16169,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 4,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/invisible-stalker-a5e.html"
   },
@@ -14562,6 +16179,7 @@ const monsterCombatStats = [
     "hp": 121,
     "init": 4,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/invisible_stalker_bf.html"
   },
@@ -14571,6 +16189,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 4,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/invisible-stalker.html"
   },
@@ -14580,6 +16199,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 7,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/invisible_stalker_mm_2024.html"
   },
@@ -14589,6 +16209,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 3,
     "cr": 5.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ion-slime.html"
   },
@@ -14598,6 +16219,7 @@ const monsterCombatStats = [
     "hp": 20,
     "init": 3,
     "cr": 1.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/irid.html"
   },
@@ -14607,6 +16229,7 @@ const monsterCombatStats = [
     "hp": 143,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ironghoul-tob1-2023.html"
   },
@@ -14616,6 +16239,7 @@ const monsterCombatStats = [
     "hp": 201,
     "init": -1,
     "cr": 16.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/iron_golem_bf.html"
   },
@@ -14625,6 +16249,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": -1,
     "cr": 16.0,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/iron-golem.html"
   },
@@ -14634,6 +16259,7 @@ const monsterCombatStats = [
     "hp": 252,
     "init": 9,
     "cr": 16.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/iron_golem_mm_2024.html"
   },
@@ -14643,6 +16269,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": 1,
     "cr": 14.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/iron-guardian-a5e.html"
   },
@@ -14652,6 +16279,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 5.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/iron-sphere.html"
   },
@@ -14661,6 +16289,7 @@ const monsterCombatStats = [
     "hp": 222,
     "init": 2,
     "cr": 14.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/isonade-tob1-2023.html"
   },
@@ -14670,6 +16299,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 2,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/jaanavar-jal.html"
   },
@@ -14679,6 +16309,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/jack-of-strings.html"
   },
@@ -14688,6 +16319,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/jackal-a5e.html"
   },
@@ -14697,6 +16329,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/jackal_bf.html"
   },
@@ -14706,6 +16339,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/jackal.html"
   },
@@ -14715,6 +16349,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/jackal_mm_2024.html"
   },
@@ -14724,6 +16359,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 4,
     "cr": 3.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/jackalope-a5e.html"
   },
@@ -14733,6 +16369,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/jackalwere-a5e.html"
   },
@@ -14742,6 +16379,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 2,
     "cr": 2.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/jackalwere-pack-leader-a5e.html"
   },
@@ -14751,6 +16389,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 4,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/jaculus-tob1-2023.html"
   },
@@ -14760,6 +16399,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 0,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/jiangshi.html"
   },
@@ -14769,6 +16409,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -5,
     "cr": 9.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/jinmenju.html"
   },
@@ -14778,6 +16419,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/jinnborn-air-pirate.html"
   },
@@ -14787,6 +16429,7 @@ const monsterCombatStats = [
     "hp": 370,
     "init": -1,
     "cr": 22.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/jotun-tob1-2023.html"
   },
@@ -14796,6 +16439,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/jubjub-bird.html"
   },
@@ -14805,6 +16449,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/juniper-sheriff.html"
   },
@@ -14814,6 +16459,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/junk-shaman.html"
   },
@@ -14823,6 +16469,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 3,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/jbafofispider-tob1-2023.html"
   },
@@ -14832,6 +16479,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 0,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kachlian.html"
   },
@@ -14841,6 +16489,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 0.25,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/kalke-tob1-2023.html"
   },
@@ -14850,6 +16499,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 1,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/kallikantzaros.html"
   },
@@ -14859,6 +16509,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 4,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kamaitachi.html"
   },
@@ -14868,6 +16519,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 4,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/kapi.html"
   },
@@ -14877,6 +16529,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/kappa.html"
   },
@@ -14886,6 +16539,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 4,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/karakura.html"
   },
@@ -14895,6 +16549,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 0,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/karkadann.html"
   },
@@ -14904,6 +16559,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 1,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kaveph.html"
   },
@@ -14913,6 +16569,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/kech-a5e.html"
   },
@@ -14922,6 +16579,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 0,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/keelbreaker-crab.html"
   },
@@ -14931,6 +16589,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/keg-golem.html"
   },
@@ -14940,6 +16599,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kelp-drake.html"
   },
@@ -14949,6 +16609,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 2,
     "cr": 10.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kelp-eel.html"
   },
@@ -14958,6 +16619,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/keyhole-dragonette.html"
   },
@@ -14967,6 +16629,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 4,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kezai.html"
   },
@@ -14976,6 +16639,7 @@ const monsterCombatStats = [
     "hp": 130,
     "init": 3,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/khalkos-a5e.html"
   },
@@ -14985,6 +16649,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/khalkos-spawn-a5e.html"
   },
@@ -14994,6 +16659,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/khamaseen.html"
   },
@@ -15003,6 +16669,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 1,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/khargi.html"
   },
@@ -15012,6 +16679,7 @@ const monsterCombatStats = [
     "hp": 186,
     "init": 5,
     "cr": 14.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/khodumodumo.html"
   },
@@ -15021,6 +16689,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 4,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/kikimora-tob1-2023.html"
   },
@@ -15030,6 +16699,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 0,
     "cr": 3.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/killer-whale-a5e.html"
   },
@@ -15039,6 +16709,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 0,
     "cr": 3.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/killer-whale.html"
   },
@@ -15048,6 +16719,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 3.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/killer_whale_mm_2024.html"
   },
@@ -15057,6 +16729,7 @@ const monsterCombatStats = [
     "hp": 656,
     "init": 7,
     "cr": 22.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/king-fomor-a5e.html"
   },
@@ -15066,6 +16739,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 5,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/king-kobold.html"
   },
@@ -15075,6 +16749,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 3.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/kinnara.html"
   },
@@ -15084,6 +16759,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 3,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kirikari.html"
   },
@@ -15093,6 +16769,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 5,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/kishi-tob1-2023.html"
   },
@@ -15102,6 +16779,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/kitsune.html"
   },
@@ -15111,6 +16789,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/knight-a5e.html"
   },
@@ -15120,6 +16799,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 0,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/knight_bf.html"
   },
@@ -15129,6 +16809,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 0,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/knight.html"
   },
@@ -15138,6 +16819,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 0,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/knight_mm_2024.html"
   },
@@ -15147,6 +16829,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 1,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/knight-ab-errant.html"
   },
@@ -15156,6 +16839,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 1,
     "cr": 14.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/knight-captain-a5e.html"
   },
@@ -15165,6 +16849,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/knight-of-the-road.html"
   },
@@ -15174,6 +16859,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/kobold-a5e.html"
   },
@@ -15183,6 +16869,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 4,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/kobold_bf.html"
   },
@@ -15192,6 +16879,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 2,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/kobold.html"
   },
@@ -15201,6 +16889,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/kobold-broodguard-a5e.html"
   },
@@ -15210,6 +16899,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/kobold-broodguard-dragon-servitor-a5e.html"
   },
@@ -15219,6 +16909,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/kobold-dragon-servitor-a5e.html"
   },
@@ -15228,6 +16919,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/kobold-sorcerer-a5e.html"
   },
@@ -15237,6 +16929,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/kobold-sorcerer-dragon-servitor-a5e.html"
   },
@@ -15246,6 +16939,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kobold-spellclerk.html"
   },
@@ -15255,6 +16949,7 @@ const monsterCombatStats = [
     "hp": 80,
     "init": 6,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/kobold_swiftblade_bf.html"
   },
@@ -15264,6 +16959,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/kobold-war-machine.html"
   },
@@ -15273,6 +16969,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/kobold_warrior_mm_2024.html"
   },
@@ -15282,6 +16979,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 3,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/kobold_witch_bf.html"
   },
@@ -15291,6 +16989,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/kobold-drake-rider.html"
   },
@@ -15300,6 +16999,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/kobold-empyrean.html"
   },
@@ -15309,6 +17009,7 @@ const monsterCombatStats = [
     "hp": 176,
     "init": 6,
     "cr": 11.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/kobold-ghost-hunter.html"
   },
@@ -15318,6 +17019,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 2,
     "cr": 10.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/kobold-leviathan-hunter.html"
   },
@@ -15327,6 +17029,7 @@ const monsterCombatStats = [
     "hp": 181,
     "init": 3,
     "cr": 10.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/kobold-planes-hunter.html"
   },
@@ -15336,6 +17039,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/kobold-sapper.html"
   },
@@ -15345,6 +17049,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 6.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/kongamato-tob1-2023.html"
   },
@@ -15354,6 +17059,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 1,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/koralk-tob1-2023.html"
   },
@@ -15363,6 +17069,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/korrigan.html"
   },
@@ -15372,6 +17079,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/kotbayun-tob1-2023.html"
   },
@@ -15381,6 +17089,7 @@ const monsterCombatStats = [
     "hp": 175,
     "init": 1,
     "cr": 14.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/krakespawn-tob1-2023.html"
   },
@@ -15390,6 +17099,7 @@ const monsterCombatStats = [
     "hp": 444,
     "init": 0,
     "cr": 25.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/kraken-a5e.html"
   },
@@ -15399,6 +17109,7 @@ const monsterCombatStats = [
     "hp": 475,
     "init": 7,
     "cr": 23.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/kraken_bf.html"
   },
@@ -15408,6 +17119,7 @@ const monsterCombatStats = [
     "hp": 472,
     "init": 0,
     "cr": 23.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/kraken.html"
   },
@@ -15417,6 +17129,7 @@ const monsterCombatStats = [
     "hp": 481,
     "init": 14,
     "cr": 23.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/kraken_mm_2024.html"
   },
@@ -15426,6 +17139,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 0,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/kryt.html"
   },
@@ -15435,6 +17149,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 3,
     "cr": 2.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/kuunganisha.html"
   },
@@ -15444,6 +17159,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 2,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/kulmking.html"
   },
@@ -15453,6 +17169,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 0,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/labyrinth-keeper.html"
   },
@@ -15462,6 +17179,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lacedon-a5e.html"
   },
@@ -15471,6 +17189,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 2,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/lady-in-white.html"
   },
@@ -15480,6 +17199,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 2,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/laestrigonian-giant.html"
   },
@@ -15489,6 +17209,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 1,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/laketroll-tob1-2023.html"
   },
@@ -15498,6 +17219,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/lakescourge-lotus.html"
   },
@@ -15507,6 +17229,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 2,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/lamassu.html"
   },
@@ -15516,6 +17239,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/lambent-witchfyre.html"
   },
@@ -15525,6 +17249,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 3,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lamia-a5e.html"
   },
@@ -15534,6 +17259,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 1,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lamia_bf.html"
   },
@@ -15543,6 +17269,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 1,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/lamia.html"
   },
@@ -15552,6 +17279,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 1,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/lamia_mm_2024.html"
   },
@@ -15561,6 +17289,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/lantern-beetle.html"
   },
@@ -15570,6 +17299,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 2,
     "cr": 0.5,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/lanterndragonette-tob1-2023.html"
   },
@@ -15579,6 +17309,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 1,
     "cr": 0.125,
+    "type": "Aberration",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lantern_hagfish_bf.html"
   },
@@ -15588,6 +17319,7 @@ const monsterCombatStats = [
     "hp": 276,
     "init": 0,
     "cr": 18.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/lava-keeper.html"
   },
@@ -15597,6 +17329,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 4,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/lazavik.html"
   },
@@ -15606,6 +17339,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 0,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/leashed-lesion.html"
   },
@@ -15615,6 +17349,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/leech-swarm.html"
   },
@@ -15624,6 +17359,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": -3,
     "cr": 0.125,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lemure-a5e.html"
   },
@@ -15633,6 +17369,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": -2,
     "cr": 0.25,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lemure_bf.html"
   },
@@ -15642,6 +17379,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": -3,
     "cr": 0.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/lemure.html"
   },
@@ -15651,6 +17389,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": -3,
     "cr": 0.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/lemure_mm_2024.html"
   },
@@ -15660,6 +17399,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": -3,
     "cr": 2.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lemure-band-a5e.html"
   },
@@ -15669,6 +17409,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/lemurfolk-tob1-2023.html"
   },
@@ -15678,6 +17419,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/leonino.html"
   },
@@ -15687,6 +17429,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/leshy-tob1-2023.html"
   },
@@ -15696,6 +17439,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/lesser-lunarchidna.html"
   },
@@ -15705,6 +17449,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/lesser-scrag.html"
   },
@@ -15714,6 +17459,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": -1,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ley-wanderer.html"
   },
@@ -15723,6 +17469,7 @@ const monsterCombatStats = [
     "hp": 24,
     "init": 1,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/libraryautomaton-tob1-2023.html"
   },
@@ -15732,6 +17479,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 3,
     "cr": 21.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lich-a5e.html"
   },
@@ -15741,6 +17489,7 @@ const monsterCombatStats = [
     "hp": 314,
     "init": 3,
     "cr": 21.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lich_bf.html"
   },
@@ -15750,6 +17499,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 3,
     "cr": 21.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/lich.html"
   },
@@ -15759,6 +17509,7 @@ const monsterCombatStats = [
     "hp": 315,
     "init": 17,
     "cr": 21.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/lich_mm_2024.html"
   },
@@ -15768,6 +17519,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 4,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/lichhound-tob1-2023.html"
   },
@@ -15777,6 +17529,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 4,
     "cr": 13.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/life-broker.html"
   },
@@ -15786,6 +17539,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/light-cavalry.html"
   },
@@ -15795,6 +17549,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 0,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/light-dragon-wyrmling.html"
   },
@@ -15804,6 +17559,7 @@ const monsterCombatStats = [
     "hp": 24,
     "init": 3,
     "cr": 0.5,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/light-drake.html"
   },
@@ -15813,6 +17569,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 2,
     "cr": 0.5,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/light-eater.html"
   },
@@ -15822,6 +17579,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 4,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/likho-tob1-2023.html"
   },
@@ -15831,6 +17589,7 @@ const monsterCombatStats = [
     "hp": 204,
     "init": 7,
     "cr": 14.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/liminal-drake.html"
   },
@@ -15840,6 +17599,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 5,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/lindwurm-tob1-2023.html"
   },
@@ -15849,6 +17609,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lion-a5e.html"
   },
@@ -15858,6 +17619,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lion_bf.html"
   },
@@ -15867,6 +17629,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/lion.html"
   },
@@ -15876,6 +17639,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/lion_mm_2024.html"
   },
@@ -15885,6 +17649,7 @@ const monsterCombatStats = [
     "hp": 132,
     "init": 7,
     "cr": 10.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/liosalfar-tob1-2023.html"
   },
@@ -15894,6 +17659,7 @@ const monsterCombatStats = [
     "hp": 261,
     "init": -1,
     "cr": 15.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/living_colossus_bf.html"
   },
@@ -15903,6 +17669,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 0.25,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/living-shade.html"
   },
@@ -15912,6 +17679,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 5,
     "cr": 7.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/living-soot.html"
   },
@@ -15921,6 +17689,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": 6,
     "cr": 19.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/living-star.html"
   },
@@ -15930,6 +17699,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 0,
     "cr": 0.25,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/livingwick-tob1-2023.html"
   },
@@ -15939,6 +17709,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lizard-a5e.html"
   },
@@ -15948,6 +17719,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lizard_bf.html"
   },
@@ -15957,6 +17729,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/lizard.html"
   },
@@ -15966,6 +17739,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/lizard_mm_2024.html"
   },
@@ -15975,6 +17749,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lizard_giant_bf.html"
   },
@@ -15984,6 +17759,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lizardfolk-a5e.html"
   },
@@ -15993,6 +17769,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lizardfolk_bf.html"
   },
@@ -16002,6 +17779,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/lizardfolk.html"
   },
@@ -16011,6 +17789,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 1,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/lizardfolk-chosen-one-a5e.html"
   },
@@ -16020,6 +17799,7 @@ const monsterCombatStats = [
     "hp": 100,
     "init": 1,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lizardfolk_ruler_bf.html"
   },
@@ -16029,6 +17809,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/lizardfolk_shaman_bf.html"
   },
@@ -16038,6 +17819,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 4,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/lobe-lemur.html"
   },
@@ -16047,6 +17829,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 4,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/locksmith.html"
   },
@@ -16056,6 +17839,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 2,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/lord-zombie.html"
   },
@@ -16065,6 +17849,7 @@ const monsterCombatStats = [
     "hp": 229,
     "init": 4,
     "cr": 18.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/lordofthehunt-tob1-2023.html"
   },
@@ -16074,6 +17859,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 5,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/lorelei-tob1-2023.html"
   },
@@ -16083,6 +17869,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 8.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/lost-minotaur.html"
   },
@@ -16092,6 +17879,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/lotus-golem.html"
   },
@@ -16101,6 +17889,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/lou-carcolh.html"
   },
@@ -16110,6 +17899,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 1,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/loxoda-tob1-2023.html"
   },
@@ -16119,6 +17909,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 5,
     "cr": 10.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/luck-leech.html"
   },
@@ -16128,6 +17919,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 5,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/lunardevil-tob1-2023.html"
   },
@@ -16137,6 +17929,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 2,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/lunarian.html"
   },
@@ -16146,6 +17939,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/lycanthrope-werecrocodile.html"
   },
@@ -16155,6 +17949,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/lycanthrope-wereotter.html"
   },
@@ -16164,6 +17959,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 3,
     "cr": 0.125,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/lymarien.html"
   },
@@ -16173,6 +17969,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/lymarien-swarm.html"
   },
@@ -16182,6 +17979,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/lystrosaurus.html"
   },
@@ -16191,6 +17989,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": -1,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mad-piper.html"
   },
@@ -16200,6 +17999,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mage-a5e.html"
   },
@@ -16209,6 +18009,7 @@ const monsterCombatStats = [
     "hp": 140,
     "init": 0,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mage_bf.html"
   },
@@ -16218,6 +18019,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/mage.html"
   },
@@ -16227,6 +18029,7 @@ const monsterCombatStats = [
     "hp": 81,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mage_mm_2024.html"
   },
@@ -16236,6 +18039,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mage_apprentice_bf.html"
   },
@@ -16245,6 +18049,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 1,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/magma-mephit-a5e.html"
   },
@@ -16254,6 +18059,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 0,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/magma_mephit_bf.html"
   },
@@ -16263,6 +18069,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/magma-mephit.html"
   },
@@ -16272,6 +18079,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 1,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/magma_mephit_mm_2024.html"
   },
@@ -16281,6 +18089,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 3,
     "cr": 8.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/magma-octopus.html"
   },
@@ -16290,6 +18099,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/magmin-a5e.html"
   },
@@ -16299,6 +18109,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/magmin_bf.html"
   },
@@ -16308,6 +18119,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/magmin.html"
   },
@@ -16317,6 +18129,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/magmin_mm_2024.html"
   },
@@ -16326,6 +18139,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 1,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/magnetic-elemental.html"
   },
@@ -16335,6 +18149,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 4,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mahoru-tob1-2023.html"
   },
@@ -16344,6 +18159,7 @@ const monsterCombatStats = [
     "hp": 218,
     "init": -1,
     "cr": 10.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/major-malleable.html"
   },
@@ -16353,6 +18169,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 3,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/malakbel-tob1-2023.html"
   },
@@ -16362,6 +18179,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/malcubus-a5e.html"
   },
@@ -16371,6 +18189,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": -1,
     "cr": 8.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mallqui-tob1-2023.html"
   },
@@ -16380,6 +18199,7 @@ const monsterCombatStats = [
     "hp": 218,
     "init": 0,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/malmbjorn.html"
   },
@@ -16389,6 +18209,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 4,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/malphas-tob1-2023.html"
   },
@@ -16398,6 +18219,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": -1,
     "cr": 6.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mammoth-a5e.html"
   },
@@ -16407,6 +18229,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": -1,
     "cr": 6.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mammoth_bf.html"
   },
@@ -16416,6 +18239,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -1,
     "cr": 6.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/mammoth.html"
   },
@@ -16425,6 +18249,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 2,
     "cr": 6.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mammoth_mm_2024.html"
   },
@@ -16434,6 +18259,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 4,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mamura-tob1-2023.html"
   },
@@ -16443,6 +18269,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/manastorm-golem.html"
   },
@@ -16452,6 +18279,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": -2,
     "cr": 0.5,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/mandrake.html"
   },
@@ -16461,6 +18289,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": -2,
     "cr": 5.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/mandriano.html"
   },
@@ -16470,6 +18299,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 2,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/manggus.html"
   },
@@ -16479,6 +18309,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": -2,
     "cr": 7.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mangrove-treant.html"
   },
@@ -16488,6 +18319,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/manticore-a5e.html"
   },
@@ -16497,6 +18329,7 @@ const monsterCombatStats = [
     "hp": 80,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/manticore_bf.html"
   },
@@ -16506,6 +18339,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/manticore.html"
   },
@@ -16515,6 +18349,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/manticore_mm_2024.html"
   },
@@ -16524,6 +18359,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.25,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mapmimic-tob1-2023.html"
   },
@@ -16533,6 +18369,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 1,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mari-lwyd.html"
   },
@@ -16542,6 +18379,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 3,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/marid-a5e.html"
   },
@@ -16551,6 +18389,7 @@ const monsterCombatStats = [
     "hp": 344,
     "init": 3,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/marid-noble-a5e.html"
   },
@@ -16560,6 +18399,7 @@ const monsterCombatStats = [
     "hp": 220,
     "init": 6,
     "cr": 16.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/marilith-a5e.html"
   },
@@ -16569,6 +18409,7 @@ const monsterCombatStats = [
     "hp": 217,
     "init": 5,
     "cr": 16.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/marilith_bf.html"
   },
@@ -16578,6 +18419,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 5,
     "cr": 16.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/marilith.html"
   },
@@ -16587,6 +18429,7 @@ const monsterCombatStats = [
     "hp": 220,
     "init": 10,
     "cr": 16.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/marilith_mm_2024.html"
   },
@@ -16596,6 +18439,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 1,
     "cr": 8.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/marsh-dire.html"
   },
@@ -16605,6 +18449,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": 4,
     "cr": 13.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/maskwight-tob1-2023.html"
   },
@@ -16614,6 +18459,7 @@ const monsterCombatStats = [
     "hp": 248,
     "init": -1,
     "cr": 16.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/massive-malleable.html"
   },
@@ -16623,6 +18469,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 4,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/master_alchemist_bf.html"
   },
@@ -16632,6 +18479,7 @@ const monsterCombatStats = [
     "hp": 143,
     "init": 5,
     "cr": 17.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/master-assassin-a5e.html"
   },
@@ -16641,6 +18489,7 @@ const monsterCombatStats = [
     "hp": 143,
     "init": 5,
     "cr": 17.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/master-thief-a5e.html"
   },
@@ -16650,6 +18499,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mastiff-a5e.html"
   },
@@ -16659,6 +18509,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mastiff_bf.html"
   },
@@ -16668,6 +18519,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/mastiff.html"
   },
@@ -16677,6 +18529,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mastiff_mm_2024.html"
   },
@@ -16686,6 +18539,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/matriarch-serpentine-lamia.html"
   },
@@ -16695,6 +18549,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 2,
     "cr": 12.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mavka-tob1-2023.html"
   },
@@ -16704,6 +18559,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 2,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mbielu-tob1-2023.html"
   },
@@ -16713,6 +18569,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 3,
     "cr": 4.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mead-archon.html"
   },
@@ -16722,6 +18579,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mechanist_bf.html"
   },
@@ -16731,6 +18589,7 @@ const monsterCombatStats = [
     "hp": 462,
     "init": 4,
     "cr": 27.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mechuiti-tob1-2023.html"
   },
@@ -16740,6 +18599,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 4,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/medusa-a5e.html"
   },
@@ -16749,6 +18609,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 4,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/medusa_bf.html"
   },
@@ -16758,6 +18619,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 2,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/medusa.html"
   },
@@ -16767,6 +18629,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 6,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/medusa_mm_2024.html"
   },
@@ -16776,6 +18639,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 4,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/medusa-queen-a5e.html"
   },
@@ -16785,6 +18649,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/meerkat.html"
   },
@@ -16794,6 +18659,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/meerkats-swarm.html"
   },
@@ -16803,6 +18669,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/megantereon.html"
   },
@@ -16812,6 +18679,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/megapede.html"
   },
@@ -16821,6 +18689,7 @@ const monsterCombatStats = [
     "hp": 139,
     "init": -2,
     "cr": 7.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mei-jiao-shou.html"
   },
@@ -16830,6 +18699,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 7.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/merclops-a5e.html"
   },
@@ -16839,6 +18709,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/merfolk-a5e.html"
   },
@@ -16848,6 +18719,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/merfolk_bf.html"
   },
@@ -16857,6 +18729,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/merfolk.html"
   },
@@ -16866,6 +18739,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/merfolk-knight-a5e.html"
   },
@@ -16875,6 +18749,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/merfolk_skirmisher_mm_2024.html"
   },
@@ -16884,6 +18759,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/merrow-a5e.html"
   },
@@ -16893,6 +18769,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/merrow_bf.html"
   },
@@ -16902,6 +18779,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/merrow.html"
   },
@@ -16911,6 +18789,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/merrow_mm_2024.html"
   },
@@ -16920,6 +18799,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/merrow-mage-a5e.html"
   },
@@ -16929,6 +18809,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 4,
     "cr": 5.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mi-go-tob1-2023.html"
   },
@@ -16938,6 +18819,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 3,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/midnight-sun.html"
   },
@@ -16947,6 +18829,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/millitaur-tob1-2023.html"
   },
@@ -16956,6 +18839,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mimic-a5e.html"
   },
@@ -16965,6 +18849,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mimic_bf.html"
   },
@@ -16974,6 +18859,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/mimic.html"
   },
@@ -16983,6 +18869,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mimic_mm_2024.html"
   },
@@ -16992,6 +18879,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 2,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mindrotthrall-tob1-2023.html"
   },
@@ -17001,6 +18889,7 @@ const monsterCombatStats = [
     "hp": 81,
     "init": 3,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/mindshard.html"
   },
@@ -17010,6 +18899,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 3.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mineral-ooze.html"
   },
@@ -17019,6 +18909,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": -1,
     "cr": 1.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/minor-malleable.html"
   },
@@ -17028,6 +18919,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 0,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/minotaur-a5e.html"
   },
@@ -17037,6 +18929,7 @@ const monsterCombatStats = [
     "hp": 80,
     "init": 0,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/minotaur_bf.html"
   },
@@ -17046,6 +18939,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 0,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/minotaur.html"
   },
@@ -17055,6 +18949,7 @@ const monsterCombatStats = [
     "hp": 262,
     "init": 0,
     "cr": 16.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/minotaur-champion-a5e.html"
   },
@@ -17064,6 +18959,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 0,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/minotaur_skeleton_bf.html"
   },
@@ -17073,6 +18969,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 0,
     "cr": 2.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/minotaur-skeleton.html"
   },
@@ -17082,6 +18979,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/minotaur_skeleton_mm_2024.html"
   },
@@ -17091,6 +18989,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 0,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/minotaur_of_baphomet_mm_2024.html"
   },
@@ -17100,6 +18999,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 0,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/minotaur-ravening.html"
   },
@@ -17109,6 +19009,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/minstrel-a5e.html"
   },
@@ -17118,6 +19019,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 2,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mirage-monster-a5e.html"
   },
@@ -17127,6 +19029,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mirager-tob1-2023.html"
   },
@@ -17136,6 +19039,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 6,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mire_fiend_bf.html"
   },
@@ -17145,6 +19049,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/miremal-tob1-2023.html"
   },
@@ -17154,6 +19059,7 @@ const monsterCombatStats = [
     "hp": 62,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/miremuck-goblin-king-a5e.html"
   },
@@ -17163,6 +19069,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 3,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mirrorhag-tob1-2023.html"
   },
@@ -17172,6 +19079,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mithraldragonwyrmling-tob1-2023.html"
   },
@@ -17181,6 +19089,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 3,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mngwa-tob1-2023.html"
   },
@@ -17190,6 +19099,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": -1,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/moderate-malleable.html"
   },
@@ -17199,6 +19109,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": -1,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/mold-zombie.html"
   },
@@ -17208,6 +19119,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 2,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/monarch-skeleton.html"
   },
@@ -17217,6 +19129,7 @@ const monsterCombatStats = [
     "hp": 262,
     "init": 7,
     "cr": 21.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/monkey-king.html"
   },
@@ -17226,6 +19139,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 0,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/monkey's-bane-vine.html"
   },
@@ -17235,6 +19149,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/monolithchampion-tob1-2023.html"
   },
@@ -17244,6 +19159,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 1,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/monolithfootman-tob1-2023.html"
   },
@@ -17253,6 +19169,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 5,
     "cr": 5.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/moon-drake.html"
   },
@@ -17262,6 +19179,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/moon-nymph.html"
   },
@@ -17271,6 +19189,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 3,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/moon-weaver.html"
   },
@@ -17280,6 +19199,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/moonchild-naga.html"
   },
@@ -17289,6 +19209,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 4,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/moonkite.html"
   },
@@ -17298,6 +19219,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/moonless-hunter.html"
   },
@@ -17307,6 +19229,7 @@ const monsterCombatStats = [
     "hp": 204,
     "init": 5,
     "cr": 17.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/moonlitking-tob1-2023.html"
   },
@@ -17316,6 +19239,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 4,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/moonweb.html"
   },
@@ -17325,6 +19249,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 0,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/moppet.html"
   },
@@ -17334,6 +19259,7 @@ const monsterCombatStats = [
     "hp": 248,
     "init": 3,
     "cr": 15.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mordantsnare-tob1-2023.html"
   },
@@ -17343,6 +19269,7 @@ const monsterCombatStats = [
     "hp": 72,
     "init": 2,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mordovermis_bf.html"
   },
@@ -17352,6 +19279,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.25,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/morko.html"
   },
@@ -17361,6 +19289,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 3,
     "cr": 0.5,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/morphoi-tob1-2023.html"
   },
@@ -17370,6 +19299,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 3,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/mortifera.html"
   },
@@ -17379,6 +19309,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/mosslurker-tob1-2023.html"
   },
@@ -17388,6 +19319,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": 1,
     "cr": 11.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mountain-dryad.html"
   },
@@ -17397,6 +19329,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mountain-dwarf-defender-a5e.html"
   },
@@ -17406,6 +19339,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 1,
     "cr": 14.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mountain-dwarf-lord-a5e.html"
   },
@@ -17415,6 +19349,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mountain-dwarf-soldier-a5e.html"
   },
@@ -17424,6 +19359,7 @@ const monsterCombatStats = [
     "hp": 313,
     "init": 0,
     "cr": 21.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/mountain-giant.html"
   },
@@ -17433,6 +19369,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 4,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mountain-nymph.html"
   },
@@ -17442,6 +19379,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mountain-strider.html"
   },
@@ -17451,6 +19389,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 0,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/mud-golem.html"
   },
@@ -17460,6 +19399,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 5,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/mudmutt.html"
   },
@@ -17469,6 +19409,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mule-a5e.html"
   },
@@ -17478,6 +19419,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mule_bf.html"
   },
@@ -17487,6 +19429,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/mule.html"
   },
@@ -17496,6 +19439,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mule_mm_2024.html"
   },
@@ -17505,6 +19449,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": -1,
     "cr": 3.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mummy-a5e.html"
   },
@@ -17514,6 +19459,7 @@ const monsterCombatStats = [
     "hp": 80,
     "init": -1,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mummy_bf.html"
   },
@@ -17523,6 +19469,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": -1,
     "cr": 3.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/mummy.html"
   },
@@ -17532,6 +19479,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": -1,
     "cr": 3.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mummy_mm_2024.html"
   },
@@ -17541,6 +19489,7 @@ const monsterCombatStats = [
     "hp": 221,
     "init": 0,
     "cr": 15.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mummy-lord-a5e.html"
   },
@@ -17550,6 +19499,7 @@ const monsterCombatStats = [
     "hp": 270,
     "init": 0,
     "cr": 15.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mummy_lord_bf.html"
   },
@@ -17559,6 +19509,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 0,
     "cr": 15.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/mummy-lord.html"
   },
@@ -17568,6 +19519,7 @@ const monsterCombatStats = [
     "hp": 187,
     "init": 10,
     "cr": 15.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mummy_lord_mm_2024.html"
   },
@@ -17577,6 +19529,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": -1,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/mummy-peat.html"
   },
@@ -17586,6 +19539,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/muraenid.html"
   },
@@ -17595,6 +19549,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/murgrik.html"
   },
@@ -17604,6 +19559,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 1,
     "cr": 12.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/murmuring-worm-a5e.html"
   },
@@ -17613,6 +19569,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/musk-deer.html"
   },
@@ -17622,6 +19579,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/musk-deer-swarm.html"
   },
@@ -17631,6 +19589,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 0.5,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mycolid_commoner_bf.html"
   },
@@ -17640,6 +19599,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/mycolid_spore_lord_bf.html"
   },
@@ -17649,6 +19609,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mydnari.html"
   },
@@ -17658,6 +19619,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/myling-tob1-2023.html"
   },
@@ -17667,6 +19629,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 1,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/myrmex.html"
   },
@@ -17676,6 +19639,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 1,
     "cr": 9.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/myrmex-speaker.html"
   },
@@ -17685,6 +19649,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 1,
     "cr": 1.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/myrmex-young.html"
   },
@@ -17694,6 +19659,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/mystic.html"
   },
@@ -17703,6 +19669,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 1,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/mytholabe.html"
   },
@@ -17712,6 +19679,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 1,
     "cr": 8.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/nachzehrer.html"
   },
@@ -17721,6 +19689,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 1.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/naiad-a5e.html"
   },
@@ -17730,6 +19699,7 @@ const monsterCombatStats = [
     "hp": 231,
     "init": 3,
     "cr": 11.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/naina-tob1-2023.html"
   },
@@ -17739,6 +19709,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 2,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/naizu-ha.html"
   },
@@ -17748,6 +19719,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 3,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/nalfeshnee-a5e.html"
   },
@@ -17757,6 +19729,7 @@ const monsterCombatStats = [
     "hp": 196,
     "init": 0,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/nalfeshnee_bf.html"
   },
@@ -17766,6 +19739,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 0,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/nalfeshnee.html"
   },
@@ -17775,6 +19749,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 5,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/nalfeshnee_mm_2024.html"
   },
@@ -17784,6 +19759,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 0.5,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/nalusa-falaya.html"
   },
@@ -17793,6 +19769,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": -2,
     "cr": 13.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/nariphon.html"
   },
@@ -17802,6 +19779,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/narshark.html"
   },
@@ -17811,6 +19789,7 @@ const monsterCombatStats = [
     "hp": 216,
     "init": 2,
     "cr": 13.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/nautiloid.html"
   },
@@ -17820,6 +19799,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": -2,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/necrohydra-tob1-2023.html"
   },
@@ -17829,6 +19809,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/necromancer-a5e.html"
   },
@@ -17838,6 +19819,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/necrophage-ghast.html"
   },
@@ -17847,6 +19829,7 @@ const monsterCombatStats = [
     "hp": 175,
     "init": 3,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/necrotech-bonecage-constrictor.html"
   },
@@ -17856,6 +19839,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -2,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/necrotech-reaver.html"
   },
@@ -17865,6 +19849,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -3,
     "cr": 8.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/necrotech-thunderer.html"
   },
@@ -17874,6 +19859,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/necrotic-tick.html"
   },
@@ -17883,6 +19869,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 3,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/neophron.html"
   },
@@ -17892,6 +19879,7 @@ const monsterCombatStats = [
     "hp": 225,
     "init": 2,
     "cr": 16.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/nephirron-devil.html"
   },
@@ -17901,6 +19889,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": -1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ngobou-tob1-2023.html"
   },
@@ -17910,6 +19899,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 2,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/nharyth.html"
   },
@@ -17919,6 +19909,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 0,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/nian.html"
   },
@@ -17928,6 +19919,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/nichny-tob1-2023.html"
   },
@@ -17937,6 +19929,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 5.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/night-hag-a5e.html"
   },
@@ -17946,6 +19939,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/night_hag_bf.html"
   },
@@ -17955,6 +19949,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/night-hag.html"
   },
@@ -17964,6 +19959,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 5,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/night_hag_mm_2024.html"
   },
@@ -17973,6 +19969,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/nightscorpion-tob1-2023.html"
   },
@@ -17982,6 +19979,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 2,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/nightgarm-tob1-2023.html"
   },
@@ -17991,6 +19989,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 3,
     "cr": 10.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/nightgaunt.html"
   },
@@ -18000,6 +19999,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/nightmare-a5e.html"
   },
@@ -18009,6 +20009,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/nightmare_bf.html"
   },
@@ -18018,6 +20019,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/nightmare.html"
   },
@@ -18027,6 +20029,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/nightmare_mm_2024.html"
   },
@@ -18036,6 +20039,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": -1,
     "cr": 13.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/nihileth-tob1-2023.html"
   },
@@ -18045,6 +20049,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": -1,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/nihilethicdominator-tob1-2023.html"
   },
@@ -18054,6 +20059,7 @@ const monsterCombatStats = [
     "hp": 37,
     "init": -2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/nihilethiczombie-tob1-2023.html"
   },
@@ -18063,6 +20069,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": -1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/nilbog-a5e.html"
   },
@@ -18072,6 +20079,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 5,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ningyo.html"
   },
@@ -18081,6 +20089,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 5,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/niya-atha-raja.html"
   },
@@ -18090,6 +20099,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/niya-atha-sorcerer.html"
   },
@@ -18099,6 +20109,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/niya-atha-warrior.html"
   },
@@ -18108,6 +20119,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/nkosi-tob1-2023.html"
   },
@@ -18117,6 +20129,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/nkosipridelord-tob1-2023.html"
   },
@@ -18126,6 +20139,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/noble-a5e.html"
   },
@@ -18135,6 +20149,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/noble_bf.html"
   },
@@ -18144,6 +20159,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/noble.html"
   },
@@ -18153,6 +20169,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/noble_mm_2024.html"
   },
@@ -18162,6 +20179,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/noctiny-tob1-2023.html"
   },
@@ -18171,6 +20189,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/nodosaurus.html"
   },
@@ -18180,6 +20199,7 @@ const monsterCombatStats = [
     "hp": 203,
     "init": 4,
     "cr": 13.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/noth-norren.html"
   },
@@ -18189,6 +20209,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 1,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-apostle.html"
   },
@@ -18198,6 +20219,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-atavist.html"
   },
@@ -18207,6 +20229,7 @@ const monsterCombatStats = [
     "hp": 99,
     "init": 4,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-breathstealer.html"
   },
@@ -18216,6 +20239,7 @@ const monsterCombatStats = [
     "hp": 149,
     "init": 1,
     "cr": 9.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-cultist-psychophant.html"
   },
@@ -18225,6 +20249,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 2,
     "cr": 10.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-field-commander.html"
   },
@@ -18234,6 +20259,7 @@ const monsterCombatStats = [
     "hp": 162,
     "init": 2,
     "cr": 12.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-first-servant.html"
   },
@@ -18243,6 +20269,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-fixer.html"
   },
@@ -18252,6 +20279,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-frost-afflicted.html"
   },
@@ -18261,6 +20289,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 5,
     "cr": 9.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-infested-duelist.html"
   },
@@ -18270,6 +20299,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-infiltrator.html"
   },
@@ -18279,6 +20309,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 3,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-merchant-captain.html"
   },
@@ -18288,6 +20319,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-warlock-of-the-genie-lord.html"
   },
@@ -18297,6 +20329,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 5,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/npc-wind-acolyte.html"
   },
@@ -18306,6 +20339,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/nullicorn.html"
   },
@@ -18315,6 +20349,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 4,
     "cr": 0.25,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/nyctli.html"
   },
@@ -18324,6 +20359,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 4,
     "cr": 10.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/nyctli-swarm.html"
   },
@@ -18333,6 +20369,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": -2,
     "cr": 10.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/oaken-sentinel.html"
   },
@@ -18342,6 +20379,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 2,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/oasis-keeper.html"
   },
@@ -18351,6 +20389,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/obeleric.html"
   },
@@ -18360,6 +20399,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/obsidian-ophidian.html"
   },
@@ -18369,6 +20409,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": -2,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ochre-jelly-a5e.html"
   },
@@ -18378,6 +20419,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": -2,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ochre_jelly_bf.html"
   },
@@ -18387,6 +20429,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": -2,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ochre-jelly.html"
   },
@@ -18396,6 +20439,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": -2,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ochre_jelly_mm_2024.html"
   },
@@ -18405,6 +20449,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/octopus-a5e.html"
   },
@@ -18414,6 +20459,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/octopus_bf.html"
   },
@@ -18423,6 +20469,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/octopus.html"
   },
@@ -18432,6 +20479,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/octopus_giant_bf.html"
   },
@@ -18441,6 +20489,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 5,
     "cr": 4.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/oculoswarm-tob1-2023.html"
   },
@@ -18450,6 +20499,7 @@ const monsterCombatStats = [
     "hp": 37,
     "init": 0,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/offal-walker.html"
   },
@@ -18459,6 +20509,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": -1,
     "cr": 2.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ogre-a5e.html"
   },
@@ -18468,6 +20519,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": -1,
     "cr": 2.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ogre_bf.html"
   },
@@ -18477,6 +20529,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": -1,
     "cr": 2.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ogre.html"
   },
@@ -18486,6 +20539,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": -1,
     "cr": 2.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ogre_mm_2024.html"
   },
@@ -18495,6 +20549,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": -2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ogre-flesh-heap-a5e.html"
   },
@@ -18504,6 +20559,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 0,
     "cr": 7.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ogre-mage-a5e.html"
   },
@@ -18513,6 +20569,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": -2,
     "cr": 2.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ogre-zombie-a5e.html"
   },
@@ -18522,6 +20579,7 @@ const monsterCombatStats = [
     "hp": 72,
     "init": -2,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/ogre_zombie_bf.html"
   },
@@ -18531,6 +20589,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -2,
     "cr": 2.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/ogre-zombie.html"
   },
@@ -18540,6 +20599,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -2,
     "cr": 2.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ogre_zombie_mm_2024.html"
   },
@@ -18549,6 +20609,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 1,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ogre-alleybasher.html"
   },
@@ -18558,6 +20619,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 1,
     "cr": 8.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ogre-black-sun.html"
   },
@@ -18567,6 +20629,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 0,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ogre-cunning-artisan.html"
   },
@@ -18576,6 +20639,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": -1,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ogre-kadag.html"
   },
@@ -18585,6 +20649,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 1,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ogre-rainforest.html"
   },
@@ -18594,6 +20659,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -2,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ogre-rockchewer.html"
   },
@@ -18603,6 +20669,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": -1,
     "cr": 6.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ogre-void-blessed.html"
   },
@@ -18612,6 +20679,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ogrekin-a5e.html"
   },
@@ -18621,6 +20689,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": -1,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ogrepede.html"
   },
@@ -18630,6 +20699,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/old-salt.html"
   },
@@ -18639,6 +20709,7 @@ const monsterCombatStats = [
     "hp": 148,
     "init": -1,
     "cr": 8.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/oliphaunt.html"
   },
@@ -18648,6 +20719,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 0,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/one-headed-clockwork-dragon.html"
   },
@@ -18657,6 +20729,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 0,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/one-horned-ogre.html"
   },
@@ -18666,6 +20739,7 @@ const monsterCombatStats = [
     "hp": 134,
     "init": 3,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/oni_bf.html"
   },
@@ -18675,6 +20749,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 0,
     "cr": 7.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/oni.html"
   },
@@ -18684,6 +20759,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 0,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/oni_mm_2024.html"
   },
@@ -18693,6 +20769,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 0,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/onyx-magistrate.html"
   },
@@ -18702,6 +20779,7 @@ const monsterCombatStats = [
     "hp": 217,
     "init": -3,
     "cr": 9.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/oozasis-tob1-2023.html"
   },
@@ -18711,6 +20789,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": -2,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ooze-leavesrot.html"
   },
@@ -18720,6 +20799,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": -3,
     "cr": 1.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ooze-manure.html"
   },
@@ -18729,6 +20809,7 @@ const monsterCombatStats = [
     "hp": 165,
     "init": 0,
     "cr": 12.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ooze-scintillating.html"
   },
@@ -18738,6 +20819,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": -1,
     "cr": 10.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ooze-shoal.html"
   },
@@ -18747,6 +20829,7 @@ const monsterCombatStats = [
     "hp": 108,
     "init": -3,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ooze-sinkhole.html"
   },
@@ -18756,6 +20839,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": -3,
     "cr": 9.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ooze-sinoper.html"
   },
@@ -18765,6 +20849,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": -4,
     "cr": 7.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/ooze-snow.html"
   },
@@ -18774,6 +20859,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 6,
     "cr": 16.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ophanim.html"
   },
@@ -18783,6 +20869,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ophidiotaur.html"
   },
@@ -18792,6 +20879,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ophinix.html"
   },
@@ -18801,6 +20889,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": -2,
     "cr": 7.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ophio-fungus.html"
   },
@@ -18810,6 +20899,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/orc_bf.html"
   },
@@ -18819,6 +20909,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/orc.html"
   },
@@ -18828,6 +20919,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/orc_warlord_bf.html"
   },
@@ -18837,6 +20929,7 @@ const monsterCombatStats = [
     "hp": 80,
     "init": 0,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/orca_bf.html"
   },
@@ -18846,6 +20939,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/orcish-wildling-minstrel-a5e.html"
   },
@@ -18855,6 +20949,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ork-urk-a5e.html"
   },
@@ -18864,6 +20959,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 1,
     "cr": 0.25,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/orniraptor.html"
   },
@@ -18873,6 +20969,7 @@ const monsterCombatStats = [
     "hp": 203,
     "init": 2,
     "cr": 14.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/orobasdevil-tob1-2023.html"
   },
@@ -18882,6 +20979,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/orphan-of-the-black.html"
   },
@@ -18891,6 +20989,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/orthrus.html"
   },
@@ -18900,6 +20999,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 0,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ortifex.html"
   },
@@ -18909,6 +21009,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 5,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ostinato-tob1-2023.html"
   },
@@ -18918,6 +21019,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 0,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/oth.html"
   },
@@ -18927,6 +21029,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 3,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/otterfolk.html"
   },
@@ -18936,6 +21039,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 0,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/otyugh-a5e.html"
   },
@@ -18945,6 +21049,7 @@ const monsterCombatStats = [
     "hp": 108,
     "init": 0,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/otyugh_bf.html"
   },
@@ -18954,6 +21059,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/otyugh.html"
   },
@@ -18963,6 +21069,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 0,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/otyugh_mm_2024.html"
   },
@@ -18972,6 +21079,7 @@ const monsterCombatStats = [
     "hp": 209,
     "init": 0,
     "cr": 11.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ouroban.html"
   },
@@ -18981,6 +21089,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 0,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ouroboros.html"
   },
@@ -18990,6 +21099,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/overshadow.html"
   },
@@ -18999,6 +21109,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/owl-a5e.html"
   },
@@ -19008,6 +21119,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/owl_bf.html"
   },
@@ -19017,6 +21129,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/owl.html"
   },
@@ -19026,6 +21139,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/owl_mm_2024.html"
   },
@@ -19035,6 +21149,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 3,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/owlharpy-tob1-2023.html"
   },
@@ -19044,6 +21159,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/owl_giant_bf.html"
   },
@@ -19053,6 +21169,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/owlbear-a5e.html"
   },
@@ -19062,6 +21179,7 @@ const monsterCombatStats = [
     "hp": 80,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/owlbear_bf.html"
   },
@@ -19071,6 +21189,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/owlbear.html"
   },
@@ -19080,6 +21199,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/owlbear_mm_2024.html"
   },
@@ -19089,6 +21209,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/owlbear-recluse-a5e.html"
   },
@@ -19098,6 +21219,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pact-drake.html"
   },
@@ -19107,6 +21229,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 3,
     "cr": 15.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pact-lich.html"
   },
@@ -19116,6 +21239,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 3,
     "cr": 15.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/pactvampire-tob1-2023.html"
   },
@@ -19125,6 +21249,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/painted-phantasm.html"
   },
@@ -19134,6 +21259,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/pal-rai-yuk.html"
   },
@@ -19143,6 +21269,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/pale-screamer.html"
   },
@@ -19152,6 +21279,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/panther-a5e.html"
   },
@@ -19161,6 +21289,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/panther_bf.html"
   },
@@ -19170,6 +21299,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/panther.html"
   },
@@ -19179,6 +21309,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/panther_mm_2024.html"
   },
@@ -19188,6 +21319,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/paperdrake-tob1-2023.html"
   },
@@ -19197,6 +21329,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 3,
     "cr": 0.25,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/paper-golem.html"
   },
@@ -19206,6 +21339,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 3,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/paper-golem-swarm.html"
   },
@@ -19215,6 +21349,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 3,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/parzzval.html"
   },
@@ -19224,6 +21359,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pattern-dancer.html"
   },
@@ -19233,6 +21369,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": -2,
     "cr": 10.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/peat-mammoth.html"
   },
@@ -19242,6 +21379,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 0,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pech.html"
   },
@@ -19251,6 +21389,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 0,
     "cr": 7.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pech-lithlord.html"
   },
@@ -19260,6 +21399,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 0,
     "cr": 4.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pech-stonemaster.html"
   },
@@ -19269,6 +21409,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 3,
     "cr": 2.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pegasus-a5e.html"
   },
@@ -19278,6 +21419,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 2,
     "cr": 2.0,
+    "type": "Celestial",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/pegasus_bf.html"
   },
@@ -19287,6 +21429,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 2,
     "cr": 2.0,
+    "type": "Celestial",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/pegasus.html"
   },
@@ -19296,6 +21439,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": 2,
     "cr": 2.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pegasus_mm_2024.html"
   },
@@ -19305,6 +21449,7 @@ const monsterCombatStats = [
     "hp": 188,
     "init": 2,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/pelagic-blush-worm.html"
   },
@@ -19314,6 +21459,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/peluda-drake.html"
   },
@@ -19323,6 +21469,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/peri.html"
   },
@@ -19332,6 +21479,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/peryton-a5e.html"
   },
@@ -19341,6 +21489,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 1.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/pescavitus.html"
   },
@@ -19350,6 +21499,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/pestilence-swarm.html"
   },
@@ -19359,6 +21509,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/phantom.html"
   },
@@ -19368,6 +21519,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 0,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/phase-giant.html"
   },
@@ -19377,6 +21529,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 2,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/phase-monster-a5e.html"
   },
@@ -19386,6 +21539,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/phase-spider-a5e.html"
   },
@@ -19395,6 +21549,7 @@ const monsterCombatStats = [
     "hp": 73,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/phase_spider_bf.html"
   },
@@ -19404,6 +21559,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/phase-spider.html"
   },
@@ -19413,6 +21569,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/phase_spider_mm_2024.html"
   },
@@ -19422,6 +21579,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 3,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/philosophers-ghost.html"
   },
@@ -19431,6 +21589,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/phoenixborn.html"
   },
@@ -19440,6 +21599,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/phoenixborn-sorcerer.html"
   },
@@ -19449,6 +21609,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 0,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/piasa.html"
   },
@@ -19458,6 +21619,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/piercer-a5e.html"
   },
@@ -19467,6 +21629,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": -5,
     "cr": 4.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pillar-of-the-lost-magocracy.html"
   },
@@ -19476,6 +21639,7 @@ const monsterCombatStats = [
     "hp": 172,
     "init": -2,
     "cr": 9.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/pine-doom.html"
   },
@@ -19485,6 +21649,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/piranha_mm_2024.html"
   },
@@ -19494,6 +21659,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pirate-a5e.html"
   },
@@ -19503,6 +21669,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 5,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pirate_mm_2024.html"
   },
@@ -19512,6 +21679,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pirate-captain-a5e.html"
   },
@@ -19521,6 +21689,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 7,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pirate_captain_mm_2024.html"
   },
@@ -19530,6 +21699,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pishacha.html"
   },
@@ -19539,6 +21709,7 @@ const monsterCombatStats = [
     "hp": 300,
     "init": 3,
     "cr": 20.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pit-fiend-a5e.html"
   },
@@ -19548,6 +21719,7 @@ const monsterCombatStats = [
     "hp": 323,
     "init": 8,
     "cr": 20.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/pit_fiend_bf.html"
   },
@@ -19557,6 +21729,7 @@ const monsterCombatStats = [
     "hp": 300,
     "init": 2,
     "cr": 20.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/pit-fiend.html"
   },
@@ -19566,6 +21739,7 @@ const monsterCombatStats = [
     "hp": 337,
     "init": 14,
     "cr": 20.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pit_fiend_mm_2024.html"
   },
@@ -19575,6 +21749,7 @@ const monsterCombatStats = [
     "hp": 600,
     "init": 3,
     "cr": 20.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pit-fiend-general-a5e.html"
   },
@@ -19584,6 +21759,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 5,
     "cr": 1.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pixie-a5e.html"
   },
@@ -19593,6 +21769,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": -3,
     "cr": 0.125,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/pixies-umbrella.html"
   },
@@ -19602,6 +21779,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 2,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/pixiu.html"
   },
@@ -19611,6 +21789,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 4,
     "cr": 9.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/plague-spirit.html"
   },
@@ -19620,6 +21799,7 @@ const monsterCombatStats = [
     "hp": 250,
     "init": 6,
     "cr": 16.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/planetar-a5e.html"
   },
@@ -19629,6 +21809,7 @@ const monsterCombatStats = [
     "hp": 242,
     "init": 5,
     "cr": 16.0,
+    "type": "Celestial",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/planetar_bf.html"
   },
@@ -19638,6 +21819,7 @@ const monsterCombatStats = [
     "hp": 200,
     "init": 5,
     "cr": 16.0,
+    "type": "Celestial",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/planetar.html"
   },
@@ -19647,6 +21829,7 @@ const monsterCombatStats = [
     "hp": 262,
     "init": 10,
     "cr": 16.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/planetar_mm_2024.html"
   },
@@ -19656,6 +21839,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 10.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/planewatcher-tob1-2023.html"
   },
@@ -19665,6 +21849,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 3,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/plaresh.html"
   },
@@ -19674,6 +21859,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 7.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/plesiosaurus-a5e.html"
   },
@@ -19683,6 +21869,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/plesiosaurus_bf.html"
   },
@@ -19692,6 +21879,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/plesiosaurus.html"
   },
@@ -19701,6 +21889,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/plesiosaurus_mm_2024.html"
   },
@@ -19710,6 +21899,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/poisonous-snake-a5e.html"
   },
@@ -19719,6 +21909,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 3,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/poisonous-snake.html"
   },
@@ -19728,6 +21919,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/polar-bear-a5e.html"
   },
@@ -19737,6 +21929,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 0,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/polar-bear.html"
   },
@@ -19746,6 +21939,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/polar_bear_mm_2024.html"
   },
@@ -19755,6 +21949,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/pombero-tob1-2023.html"
   },
@@ -19764,6 +21959,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pony-a5e.html"
   },
@@ -19773,6 +21969,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/pony_bf.html"
   },
@@ -19782,6 +21979,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/pony.html"
   },
@@ -19791,6 +21989,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pony_mm_2024.html"
   },
@@ -19800,6 +21999,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 3,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/porcellina.html"
   },
@@ -19809,6 +22009,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": -1,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/possessedpillar-tob1-2023.html"
   },
@@ -19818,6 +22019,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/preta.html"
   },
@@ -19827,6 +22029,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/priest-a5e.html"
   },
@@ -19836,6 +22039,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/priest_bf.html"
   },
@@ -19845,6 +22049,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/priest.html"
   },
@@ -19854,6 +22059,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/priest_mm_2024.html"
   },
@@ -19863,6 +22069,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/priest_acolyte_mm_2024.html"
   },
@@ -19872,6 +22079,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 1,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/primal-oozer.html"
   },
@@ -19881,6 +22089,7 @@ const monsterCombatStats = [
     "hp": 313,
     "init": 10,
     "cr": 21.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/primordial-matriarch.html"
   },
@@ -19890,6 +22099,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": 6,
     "cr": 16.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/primordial-surge.html"
   },
@@ -19899,6 +22109,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.25,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pseudodragon-a5e.html"
   },
@@ -19908,6 +22119,7 @@ const monsterCombatStats = [
     "hp": 12,
     "init": 2,
     "cr": 0.25,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/pseudodragon_bf.html"
   },
@@ -19917,6 +22129,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.25,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/pseudodragon.html"
   },
@@ -19926,6 +22139,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 2,
     "cr": 0.25,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pseudodragon_mm_2024.html"
   },
@@ -19935,6 +22149,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.25,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pseudodragon-familiar-a5e.html"
   },
@@ -19944,6 +22159,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 6,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/psoglav-tob1-2023.html"
   },
@@ -19953,6 +22169,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 4,
     "cr": 13.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/psychic-vampire.html"
   },
@@ -19962,6 +22179,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pteranodon-a5e.html"
   },
@@ -19971,6 +22189,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pteranodon_mm_2024.html"
   },
@@ -19980,6 +22199,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 4,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/puffinfolk.html"
   },
@@ -19989,6 +22209,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pugilist-a5e.html"
   },
@@ -19998,6 +22219,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -1,
     "cr": 3.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/purple-slime.html"
   },
@@ -20007,6 +22229,7 @@ const monsterCombatStats = [
     "hp": 247,
     "init": -1,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/purple-worm-a5e.html"
   },
@@ -20016,6 +22239,7 @@ const monsterCombatStats = [
     "hp": 255,
     "init": -2,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/purple_worm_bf.html"
   },
@@ -20025,6 +22249,7 @@ const monsterCombatStats = [
     "hp": 247,
     "init": -2,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/purple-worm.html"
   },
@@ -20034,6 +22259,7 @@ const monsterCombatStats = [
     "hp": 247,
     "init": 3,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/purple_worm_mm_2024.html"
   },
@@ -20043,6 +22269,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": -3,
     "cr": 13.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/pustulent-shambler.html"
   },
@@ -20052,6 +22279,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": -1,
     "cr": 1.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/putrescent-slime.html"
   },
@@ -20061,6 +22289,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": -1,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/putridhaunt-tob1-2023.html"
   },
@@ -20070,6 +22299,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 0,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/pyrite-pile.html"
   },
@@ -20079,6 +22309,7 @@ const monsterCombatStats = [
     "hp": 218,
     "init": 1,
     "cr": 13.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/pyrohydra-a5e.html"
   },
@@ -20088,6 +22319,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 7.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/pyrrhic-podthrower.html"
   },
@@ -20097,6 +22329,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 2,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/p\u00faca.html"
   },
@@ -20106,6 +22339,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 4,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/qiqirn.html"
   },
@@ -20115,6 +22349,7 @@ const monsterCombatStats = [
     "hp": 370,
     "init": -2,
     "cr": 23.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/qorgeth-tob1-2023.html"
   },
@@ -20124,6 +22359,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 4,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/quagga.html"
   },
@@ -20133,6 +22369,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/quasit-a5e.html"
   },
@@ -20142,6 +22379,7 @@ const monsterCombatStats = [
     "hp": 35,
     "init": 5,
     "cr": 1.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/quasit_bf.html"
   },
@@ -20151,6 +22389,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 3,
     "cr": 1.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/quasit.html"
   },
@@ -20160,6 +22399,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 3,
     "cr": 1.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/quasit_mm_2024.html"
   },
@@ -20169,6 +22409,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/quasit-familiar-a5e.html"
   },
@@ -20178,6 +22419,7 @@ const monsterCombatStats = [
     "hp": 225,
     "init": 4,
     "cr": 21.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/queenofnightandmagic-tob1-2023.html"
   },
@@ -20187,6 +22429,7 @@ const monsterCombatStats = [
     "hp": 218,
     "init": 0,
     "cr": 17.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/queenofwitches-tob1-2023.html"
   },
@@ -20196,6 +22439,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/quickserpent.html"
   },
@@ -20205,6 +22449,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 5,
     "cr": 5.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/quicksilversiegeorb-tob1-2023.html"
   },
@@ -20214,6 +22459,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 4,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/quickstep.html"
   },
@@ -20223,6 +22469,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 0,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/quiet-soul.html"
   },
@@ -20232,6 +22479,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/quipper-a5e.html"
   },
@@ -20241,6 +22489,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/quipper_bf.html"
   },
@@ -20250,6 +22499,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/quipper.html"
   },
@@ -20259,6 +22509,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 3,
     "cr": 1.0,
+    "type": "Swarm",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/quipper_swarm_of_quippers_bf.html"
   },
@@ -20268,6 +22519,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 0.25,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/qumdaq.html"
   },
@@ -20277,6 +22529,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 1,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/quoreq.html"
   },
@@ -20286,6 +22539,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 5,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/qwyllion-tob1-2023.html"
   },
@@ -20295,6 +22549,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 3,
     "cr": 3.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/radiant-spark-swarm.html"
   },
@@ -20304,6 +22559,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": -1,
     "cr": 7.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/rafflesian.html"
   },
@@ -20313,6 +22569,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/rageipede.html"
   },
@@ -20322,6 +22579,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 3,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/rakshasa-a5e.html"
   },
@@ -20331,6 +22589,7 @@ const monsterCombatStats = [
     "hp": 166,
     "init": 8,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/rakshasa_bf.html"
   },
@@ -20340,6 +22599,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/rakshasa.html"
   },
@@ -20349,6 +22609,7 @@ const monsterCombatStats = [
     "hp": 221,
     "init": 8,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/rakshasa_mm_2024.html"
   },
@@ -20358,6 +22619,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 2,
     "cr": 3.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/rakshasa-myrmidon.html"
   },
@@ -20367,6 +22629,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/rakshasa-pustakam.html"
   },
@@ -20376,6 +22639,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 3,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/rakshasa-servitor.html"
   },
@@ -20385,6 +22649,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 5,
     "cr": 9.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/rakshasa-slayer.html"
   },
@@ -20394,6 +22659,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ramag-tob1-2023.html"
   },
@@ -20403,6 +22669,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ramag-portal-master.html"
   },
@@ -20412,6 +22679,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/raptor-a5e.html"
   },
@@ -20421,6 +22689,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/rat-a5e.html"
   },
@@ -20430,6 +22699,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/rat_bf.html"
   },
@@ -20439,6 +22709,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/rat.html"
   },
@@ -20448,6 +22719,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/rat_mm_2024.html"
   },
@@ -20457,6 +22729,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 3,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ratking-tob1-2023.html"
   },
@@ -20466,6 +22739,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/rat_giant_bf.html"
   },
@@ -20475,6 +22749,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 0,
     "cr": 0.25,
+    "type": "Swarm",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/rat_swarm_of_rats_bf.html"
   },
@@ -20484,6 +22759,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 4,
     "cr": 4.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ratatosk-tob1-2023.html"
   },
@@ -20493,6 +22769,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 4,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ratatosk-warlord.html"
   },
@@ -20502,6 +22779,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ratfolk-tob1-2023.html"
   },
@@ -20511,6 +22789,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 4,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ratfolk-mercenary.html"
   },
@@ -20520,6 +22799,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 3,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ratfolkrogue-tob1-2023.html"
   },
@@ -20529,6 +22809,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ratfolk-warlock.html"
   },
@@ -20538,6 +22819,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/rattok.html"
   },
@@ -20547,6 +22829,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/raven-a5e.html"
   },
@@ -20556,6 +22839,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/raven_bf.html"
   },
@@ -20565,6 +22849,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/raven.html"
   },
@@ -20574,6 +22859,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/raven_mm_2024.html"
   },
@@ -20583,6 +22869,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Swarm",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/raven_swarm_of_ravens_bf.html"
   },
@@ -20592,6 +22879,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 5.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ravenala-tob1-2023.html"
   },
@@ -20601,6 +22889,7 @@ const monsterCombatStats = [
     "hp": 88,
     "init": 2,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ravenfolkdoomcroaker-tob1-2023.html"
   },
@@ -20610,6 +22899,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ravenfolkscout-tob1-2023.html"
   },
@@ -20619,6 +22909,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ravenfolkwarrior-tob1-2023.html"
   },
@@ -20628,6 +22919,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 1,
     "cr": 5.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/razorleaf.html"
   },
@@ -20637,6 +22929,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 1,
     "cr": 4.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/red-dragon-wyrmling-a5e.html"
   },
@@ -20646,6 +22939,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/red_dragon_wyrmling_bf.html"
   },
@@ -20655,6 +22949,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 0,
     "cr": 4.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/red-dragon-wyrmling.html"
   },
@@ -20664,6 +22959,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 2,
     "cr": 4.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/red_dragon_wyrmling_mm_2024.html"
   },
@@ -20673,6 +22969,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 3,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/redhag-tob1-2023.html"
   },
@@ -20682,6 +22979,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/red-bandedlinespider-tob1-2023.html"
   },
@@ -20691,6 +22989,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 0,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/redcap-tob1-2023.html"
   },
@@ -20700,6 +22999,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/reef-shark-a5e.html"
   },
@@ -20709,6 +23009,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/reef-shark.html"
   },
@@ -20718,6 +23019,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/reef_shark_mm_2024.html"
   },
@@ -20727,6 +23029,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/relentless-hound.html"
   },
@@ -20736,6 +23039,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 1,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/remorhaz-a5e.html"
   },
@@ -20745,6 +23049,7 @@ const monsterCombatStats = [
     "hp": 216,
     "init": 1,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/remorhaz_bf.html"
   },
@@ -20754,6 +23059,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 1,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/remorhaz.html"
   },
@@ -20763,6 +23069,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 5,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/remorhaz_mm_2024.html"
   },
@@ -20772,6 +23079,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 2,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/remorhaz-spawn-a5e.html"
   },
@@ -20781,6 +23089,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 0,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/repository.html"
   },
@@ -20790,6 +23099,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": -1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/resinous-frog.html"
   },
@@ -20799,6 +23109,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/revenant-a5e.html"
   },
@@ -20808,6 +23119,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/revilock-a5e.html"
   },
@@ -20817,6 +23129,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": -1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/rhinoceros-a5e.html"
   },
@@ -20826,6 +23139,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": -1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/rhinoceros_bf.html"
   },
@@ -20835,6 +23149,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": -1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/rhinoceros.html"
   },
@@ -20844,6 +23159,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": -1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/rhinoceros_mm_2024.html"
   },
@@ -20853,6 +23169,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/riding-horse-a5e.html"
   },
@@ -20862,6 +23179,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/riding-horse.html"
   },
@@ -20871,6 +23189,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/riding_horse_mm_2024.html"
   },
@@ -20880,6 +23199,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 0,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/riftswine-tob1-2023.html"
   },
@@ -20889,6 +23209,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 0,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/righteous-sentinel.html"
   },
@@ -20898,6 +23219,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/rimeworm-tob1-2023.html"
   },
@@ -20907,6 +23229,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 1.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/rimewormgrub-tob1-2023.html"
   },
@@ -20916,6 +23239,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/rimewing.html"
   },
@@ -20925,6 +23249,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ring-servant.html"
   },
@@ -20934,6 +23259,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 3,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/risenreaver-tob1-2023.html"
   },
@@ -20943,6 +23269,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/river-dragon-wyrmling-a5e.html"
   },
@@ -20952,6 +23279,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 3,
     "cr": 16.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/riverking-tob1-2023.html"
   },
@@ -20961,6 +23289,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/roachlinglord-tob1-2023.html"
   },
@@ -20970,6 +23299,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 4,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/roachling-scout.html"
   },
@@ -20979,6 +23309,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/roachlingskirmisher-tob1-2023.html"
   },
@@ -20988,6 +23319,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 3,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/robot_drone_bf.html"
   },
@@ -20997,6 +23329,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": 0,
     "cr": 13.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/roc-a5e.html"
   },
@@ -21006,6 +23339,7 @@ const monsterCombatStats = [
     "hp": 235,
     "init": 4,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/roc_bf.html"
   },
@@ -21015,6 +23349,7 @@ const monsterCombatStats = [
     "hp": 248,
     "init": 0,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/roc.html"
   },
@@ -21024,6 +23359,7 @@ const monsterCombatStats = [
     "hp": 248,
     "init": 8,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/roc_mm_2024.html"
   },
@@ -21033,6 +23369,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 1,
     "cr": 8.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/roc-juvenile-a5e.html"
   },
@@ -21042,6 +23379,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 4,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/rochade.html"
   },
@@ -21051,6 +23389,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/rock-roach.html"
   },
@@ -21060,6 +23399,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/rock-salamander.html"
   },
@@ -21069,6 +23409,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": -1,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/rockwood.html"
   },
@@ -21078,6 +23419,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/roggenwolf.html"
   },
@@ -21087,6 +23429,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": -1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/roper-a5e.html"
   },
@@ -21096,6 +23439,7 @@ const monsterCombatStats = [
     "hp": 111,
     "init": -1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/roper_bf.html"
   },
@@ -21105,6 +23449,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": -1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/roper.html"
   },
@@ -21114,6 +23459,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 5,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/roper_mm_2024.html"
   },
@@ -21123,6 +23469,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/rotsam.html"
   },
@@ -21132,6 +23479,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": -1,
     "cr": 6.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/rotsam-swarm.html"
   },
@@ -21141,6 +23489,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 5,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/rottingwind-tob1-2023.html"
   },
@@ -21150,6 +23499,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 10.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/rubezahl-tob1-2023.html"
   },
@@ -21159,6 +23509,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": -1,
     "cr": 6.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ruby-ooze.html"
   },
@@ -21168,6 +23519,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/rug-of-smothering-a5e.html"
   },
@@ -21177,6 +23529,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/rug_of_smothering_bf.html"
   },
@@ -21186,6 +23539,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/rug-of-smothering.html"
   },
@@ -21195,6 +23549,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/rumgremlin-tob1-2023.html"
   },
@@ -21204,6 +23559,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/rum-lord.html"
   },
@@ -21213,6 +23569,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 5,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/runeswarm.html"
   },
@@ -21222,6 +23579,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 2,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/rustdrake-tob1-2023.html"
   },
@@ -21231,6 +23589,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/rust-monster-a5e.html"
   },
@@ -21240,6 +23599,7 @@ const monsterCombatStats = [
     "hp": 23,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/rust_monster_bf.html"
   },
@@ -21249,6 +23609,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/rust-monster.html"
   },
@@ -21258,6 +23619,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/rust_monster_mm_2024.html"
   },
@@ -21267,6 +23629,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/saber-toothed-tiger-a5e.html"
   },
@@ -21276,6 +23639,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/saber-toothed-tiger.html"
   },
@@ -21285,6 +23649,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sabertoothed_tiger_mm_2024.html"
   },
@@ -21294,6 +23659,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sahuagin-a5e.html"
   },
@@ -21303,6 +23669,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/sahuagin_bf.html"
   },
@@ -21312,6 +23679,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/sahuagin.html"
   },
@@ -21321,6 +23689,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sahuagin-champion-a5e.html"
   },
@@ -21330,6 +23699,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 0,
     "cr": 0.5,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sahuagin_warrior_mm_2024.html"
   },
@@ -21339,6 +23709,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/salamander-a5e.html"
   },
@@ -21348,6 +23719,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/salamander_bf.html"
   },
@@ -21357,6 +23729,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/salamander.html"
   },
@@ -21366,6 +23739,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/salamander_mm_2024.html"
   },
@@ -21375,6 +23749,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 4,
     "cr": 13.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/salamander-monarch.html"
   },
@@ -21384,6 +23759,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 8.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/salamander-noble-a5e.html"
   },
@@ -21393,6 +23769,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/salamander-nymph-a5e.html"
   },
@@ -21402,6 +23779,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 1,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/saltdevil-tob1-2023.html"
   },
@@ -21411,6 +23789,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": -1,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/saltgolem-tob1-2023.html"
   },
@@ -21420,6 +23799,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 0,
     "cr": 7.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/sammael.html"
   },
@@ -21429,6 +23809,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 2,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sandhag-tob1-2023.html"
   },
@@ -21438,6 +23819,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sand-ray-a5e.html"
   },
@@ -21447,6 +23829,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 1,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sandsilhouette-tob1-2023.html"
   },
@@ -21456,6 +23839,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 3,
     "cr": 7.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sandspider-tob1-2023.html"
   },
@@ -21465,6 +23849,7 @@ const monsterCombatStats = [
     "hp": 247,
     "init": -1,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sand-worm-a5e.html"
   },
@@ -21474,6 +23859,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 4,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/sanddrift-drake.html"
   },
@@ -21483,6 +23869,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sandman-tob1-2023.html"
   },
@@ -21492,6 +23879,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 1,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sandwyrm-tob1-2023.html"
   },
@@ -21501,6 +23889,7 @@ const monsterCombatStats = [
     "hp": 81,
     "init": -2,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sapdemon-tob1-2023.html"
   },
@@ -21510,6 +23899,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sapphire-dragon-wyrmling-a5e.html"
   },
@@ -21519,6 +23909,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": -1,
     "cr": 6.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/sapphire-jelly.html"
   },
@@ -21528,6 +23919,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sarcophagusslime-tob1-2023.html"
   },
@@ -21537,6 +23929,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 1,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/sarsaok.html"
   },
@@ -21546,6 +23939,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 4,
     "cr": 9.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/sasori-fukurowashi.html"
   },
@@ -21555,6 +23949,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 2,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/sasquatch.html"
   },
@@ -21564,6 +23959,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/satarre_bf.html"
   },
@@ -21573,6 +23969,7 @@ const monsterCombatStats = [
     "hp": 149,
     "init": -2,
     "cr": 10.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sathaqworm-tob1-2023.html"
   },
@@ -21582,6 +23979,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/satyr-a5e.html"
   },
@@ -21591,6 +23989,7 @@ const monsterCombatStats = [
     "hp": 23,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/satyr_bf.html"
   },
@@ -21600,6 +23999,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/satyr.html"
   },
@@ -21609,6 +24009,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 3,
     "cr": 0.5,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/satyr_mm_2024.html"
   },
@@ -21618,6 +24019,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 8.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/savager-tob1-2023.html"
   },
@@ -21627,6 +24029,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 5,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/savior-lumen.html"
   },
@@ -21636,6 +24039,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 2,
     "cr": 8.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/sazakan.html"
   },
@@ -21645,6 +24049,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 2,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/scarab-ruin.html"
   },
@@ -21654,6 +24059,7 @@ const monsterCombatStats = [
     "hp": 145,
     "init": 2,
     "cr": 10.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/scarab-suncatcher.html"
   },
@@ -21663,6 +24069,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 2,
     "cr": 1.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/scarecrow-a5e.html"
   },
@@ -21672,6 +24079,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 4,
     "cr": 4.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/scarecrow-harvester-a5e.html"
   },
@@ -21681,6 +24089,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 2,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/scarlet-ibis.html"
   },
@@ -21690,6 +24099,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/scarsupial.html"
   },
@@ -21699,6 +24109,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 2,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/scheznyki-tob1-2023.html"
   },
@@ -21708,6 +24119,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/scitalis.html"
   },
@@ -21717,6 +24129,7 @@ const monsterCombatStats = [
     "hp": 145,
     "init": 1,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/scorch_drake_bf.html"
   },
@@ -21726,6 +24139,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 3,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/scorchrunner-jackal.html"
   },
@@ -21735,6 +24149,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/scorpion-a5e.html"
   },
@@ -21744,6 +24159,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/scorpion.html"
   },
@@ -21753,6 +24169,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/scorpion_mm_2024.html"
   },
@@ -21762,6 +24179,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/scorpioncultist-tob1-2023.html"
   },
@@ -21771,6 +24189,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/scorpionfolk-a5e.html"
   },
@@ -21780,6 +24199,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/scorpionfolk-imperator-a5e.html"
   },
@@ -21789,6 +24209,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/scout-a5e.html"
   },
@@ -21798,6 +24219,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/scout_bf.html"
   },
@@ -21807,6 +24229,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/scout.html"
   },
@@ -21816,6 +24239,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 2,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/scout_mm_2024.html"
   },
@@ -21825,6 +24249,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/scrag-a5e.html"
   },
@@ -21834,6 +24259,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 3,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/scribe-devil.html"
   },
@@ -21843,6 +24269,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 1,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/scrofin.html"
   },
@@ -21852,6 +24279,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": -1,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/scroll-mummy.html"
   },
@@ -21861,6 +24289,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 0,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/seadragonwyrmling-tob1-2023.html"
   },
@@ -21870,6 +24299,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 2.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sea-hag-a5e.html"
   },
@@ -21879,6 +24309,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 1,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/sea_hag_bf.html"
   },
@@ -21888,6 +24319,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 2.0,
+    "type": "Fey",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/sea-hag.html"
   },
@@ -21897,6 +24329,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 1,
     "cr": 2.0,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sea_hag_mm_2024.html"
   },
@@ -21906,6 +24339,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/sea-horse.html"
   },
@@ -21915,6 +24349,7 @@ const monsterCombatStats = [
     "hp": 247,
     "init": 0,
     "cr": 16.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sea-serpent-a5e.html"
   },
@@ -21924,6 +24359,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/seahorse-a5e.html"
   },
@@ -21933,6 +24369,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/seahorse_bf.html"
   },
@@ -21942,6 +24379,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/seahorse_mm_2024.html"
   },
@@ -21951,6 +24389,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/seahorse_giant_bf.html"
   },
@@ -21960,6 +24399,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 2,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/selang-tob1-2023.html"
   },
@@ -21969,6 +24409,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": -1,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/sentinel-in-darkness.html"
   },
@@ -21978,6 +24419,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/serpentfolk-of-yig.html"
   },
@@ -21987,6 +24429,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/serpentine-lamia.html"
   },
@@ -21996,6 +24439,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 3,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/serpopard-tob1-2023.html"
   },
@@ -22005,6 +24449,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/servant-of-yig.html"
   },
@@ -22014,6 +24459,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 1,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/servant-of-the-unsated-god.html"
   },
@@ -22023,6 +24469,7 @@ const monsterCombatStats = [
     "hp": 72,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/servant-of-the-vine.html"
   },
@@ -22032,6 +24479,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 8.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/sewer-weird.html"
   },
@@ -22041,6 +24489,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 2,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/shadhavar-tob1-2023.html"
   },
@@ -22050,6 +24499,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shadow-a5e.html"
   },
@@ -22059,6 +24509,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 4,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/shadow_bf.html"
   },
@@ -22068,6 +24519,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 2,
     "cr": 0.5,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/shadow.html"
   },
@@ -22077,6 +24529,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/shadow_mm_2024.html"
   },
@@ -22086,6 +24539,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/shadowantipaladin-tob1-2023.html"
   },
@@ -22095,6 +24549,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 5,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/shadowbeast-tob1-2023.html"
   },
@@ -22104,6 +24559,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 1.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shadow-blight.html"
   },
@@ -22113,6 +24569,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 3,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/shadow-boxer.html"
   },
@@ -22122,6 +24579,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shadow-demon-a5e.html"
   },
@@ -22131,6 +24589,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shadow-dragon-wyrmling-a5e.html"
   },
@@ -22140,6 +24599,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shadow-elf-champion-warrior-a5e.html"
   },
@@ -22149,6 +24609,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 0,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shadow-elf-high-priest-a5e.html"
   },
@@ -22158,6 +24619,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shadow-elf-mage-a5e.html"
   },
@@ -22167,6 +24629,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 3,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shadow-elf-spellcaster-drider-a5e.html"
   },
@@ -22176,6 +24639,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shadow-elf-warrior-a5e.html"
   },
@@ -22185,6 +24649,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 2,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/shadowfey-tob1-2023.html"
   },
@@ -22194,6 +24659,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 4,
     "cr": 9.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shadow-fey-ambassador.html"
   },
@@ -22203,6 +24669,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 4,
     "cr": 11.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shadow-fey-poisoner.html"
   },
@@ -22212,6 +24679,7 @@ const monsterCombatStats = [
     "hp": 209,
     "init": 7,
     "cr": 15.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/shadow-giant.html"
   },
@@ -22221,6 +24689,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shadow-goblin.html"
   },
@@ -22230,6 +24699,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 6,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/shadow-lurker.html"
   },
@@ -22239,6 +24709,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": -2,
     "cr": 3.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shadow-ooze.html"
   },
@@ -22248,6 +24719,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 4,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shadow-river-lord.html"
   },
@@ -22257,6 +24729,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shadow-skeleton.html"
   },
@@ -22266,6 +24739,7 @@ const monsterCombatStats = [
     "hp": 250,
     "init": 8,
     "cr": 21.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/shadow-of-death.html"
   },
@@ -22275,6 +24749,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 0,
     "cr": 6.0,
+    "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shambling-mound-a5e.html"
   },
@@ -22284,6 +24759,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": -1,
     "cr": 5.0,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/shambling_mound_bf.html"
   },
@@ -22293,6 +24769,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": -1,
     "cr": 5.0,
+    "type": "Plant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/shambling-mound.html"
   },
@@ -22302,6 +24779,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": -1,
     "cr": 5.0,
+    "type": "Plant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/shambling_mound_mm_2024.html"
   },
@@ -22311,6 +24789,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shantak.html"
   },
@@ -22320,6 +24799,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shard-swarm.html"
   },
@@ -22329,6 +24809,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/shark_giant_bf.html"
   },
@@ -22338,6 +24819,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/shark_hunter_bf.html"
   },
@@ -22347,6 +24829,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/shark_reef_bf.html"
   },
@@ -22356,6 +24839,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sharkjawskeleton-tob1-2023.html"
   },
@@ -22365,6 +24849,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 2,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/shellycoat-tob1-2023.html"
   },
@@ -22374,6 +24859,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 4,
     "cr": 14.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/shetani.html"
   },
@@ -22383,6 +24869,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 7.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shield-guardian-a5e.html"
   },
@@ -22392,6 +24879,7 @@ const monsterCombatStats = [
     "hp": 139,
     "init": -1,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/shield_guardian_bf.html"
   },
@@ -22401,6 +24889,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": -1,
     "cr": 7.0,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/shield-guardian.html"
   },
@@ -22410,6 +24899,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": -1,
     "cr": 7.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/shield_guardian_mm_2024.html"
   },
@@ -22419,6 +24909,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": -5,
     "cr": 0.25,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/shiftshroom.html"
   },
@@ -22428,6 +24919,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/shimmer-seal.html"
   },
@@ -22437,6 +24929,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shockwing.html"
   },
@@ -22446,6 +24939,7 @@ const monsterCombatStats = [
     "hp": 325,
     "init": 2,
     "cr": 19.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/shoggoth-tob1-2023.html"
   },
@@ -22455,6 +24949,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 1,
     "cr": 4.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/shoreline-scrapper.html"
   },
@@ -22464,6 +24959,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 1,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/shriekbat.html"
   },
@@ -22473,6 +24969,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": -5,
     "cr": 0.0,
+    "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shrieker-a5e.html"
   },
@@ -22482,6 +24979,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": -5,
     "cr": 0.0,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/shrieker_bf.html"
   },
@@ -22491,6 +24989,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": -5,
     "cr": 0.0,
+    "type": "Plant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/shrieker.html"
   },
@@ -22500,6 +24999,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": -5,
     "cr": 0.0,
+    "type": "Plant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/shrieker_fungus_mm_2024.html"
   },
@@ -22509,6 +25009,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.125,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/shroud-tob1-2023.html"
   },
@@ -22518,6 +25019,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/shroud-ray-a5e.html"
   },
@@ -22527,6 +25029,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 1,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/shukankor.html"
   },
@@ -22536,6 +25039,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 4,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/shurale.html"
   },
@@ -22545,6 +25049,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 4,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/sigilian.html"
   },
@@ -22554,6 +25059,7 @@ const monsterCombatStats = [
     "hp": 216,
     "init": 6,
     "cr": 11.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/sila_bf.html"
   },
@@ -22563,6 +25069,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 4,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/silenal.html"
   },
@@ -22572,6 +25079,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 0,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/silent-crier.html"
   },
@@ -22581,6 +25089,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/silver-dragon-wyrmling-a5e.html"
   },
@@ -22590,6 +25099,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/silver_dragon_wyrmling_bf.html"
   },
@@ -22599,6 +25109,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/silver-dragon-wyrmling.html"
   },
@@ -22608,6 +25119,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/silver_dragon_wyrmling_mm_2024.html"
   },
@@ -22617,6 +25129,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/silver-dragon-wyrmling-skeleton.html"
   },
@@ -22626,6 +25139,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 2,
     "cr": 8.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/simhamukha.html"
   },
@@ -22635,6 +25149,7 @@ const monsterCombatStats = [
     "hp": 108,
     "init": 0,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/simurg.html"
   },
@@ -22644,6 +25159,7 @@ const monsterCombatStats = [
     "hp": 275,
     "init": 2,
     "cr": 17.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/sinstar.html"
   },
@@ -22653,6 +25169,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 0,
     "cr": 2.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/sinstar-thrall.html"
   },
@@ -22662,6 +25179,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 1,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/siren-a5e.html"
   },
@@ -22671,6 +25189,7 @@ const monsterCombatStats = [
     "hp": 162,
     "init": 1,
     "cr": 12.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/skeinwitch-tob1-2023.html"
   },
@@ -22680,6 +25199,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 3.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/skeletal-champion-a5e.html"
   },
@@ -22689,6 +25209,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 8.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/skeletal-tyrannosaurus-rex-a5e.html"
   },
@@ -22698,6 +25219,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 1,
     "cr": 0.5,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/skeletal-warhorse-a5e.html"
   },
@@ -22707,6 +25229,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/skeleton-a5e.html"
   },
@@ -22716,6 +25239,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.25,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/skeleton_bf.html"
   },
@@ -22725,6 +25249,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/skeleton.html"
   },
@@ -22734,6 +25259,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.25,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/skeleton_mm_2024.html"
   },
@@ -22743,6 +25269,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/skeleton-horde-a5e.html"
   },
@@ -22752,6 +25279,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 3,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/skinbat-tob1-2023.html"
   },
@@ -22761,6 +25289,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 0,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/skitterhaunt-tob1-2023.html"
   },
@@ -22770,6 +25299,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 3,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/skull-drake.html"
   },
@@ -22779,6 +25309,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.25,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/skull-lantern.html"
   },
@@ -22788,6 +25319,7 @@ const monsterCombatStats = [
     "hp": 23,
     "init": 0,
     "cr": 0.5,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/skullbloom_bf.html"
   },
@@ -22797,6 +25329,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 1,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/sleipnir.html"
   },
@@ -22806,6 +25339,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 5,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/slithy-tove.html"
   },
@@ -22815,6 +25349,7 @@ const monsterCombatStats = [
     "hp": 220,
     "init": 4,
     "cr": 15.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/slowstorm-tob1-2023.html"
   },
@@ -22824,6 +25359,7 @@ const monsterCombatStats = [
     "hp": 231,
     "init": 0,
     "cr": 14.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/smaragdinegolem-tob1-2023.html"
   },
@@ -22833,6 +25369,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 3,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/snake-lamia-a5e.html"
   },
@@ -22842,6 +25379,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 4,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/snake-with-a-hundred-mage-hands.html"
   },
@@ -22851,6 +25389,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/snake_constrictor_bf.html"
   },
@@ -22860,6 +25399,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/snake_flying_bf.html"
   },
@@ -22869,6 +25409,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/snake_giant_constrictor_bf.html"
   },
@@ -22878,6 +25419,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/snake_giant_poisonous_bf.html"
   },
@@ -22887,6 +25429,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 1,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/snake_poisonous_bf.html"
   },
@@ -22896,6 +25439,7 @@ const monsterCombatStats = [
     "hp": 48,
     "init": 4,
     "cr": 2.0,
+    "type": "Swarm",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/snake_swarm_of_poisonous_snakes_bf.html"
   },
@@ -22905,6 +25449,7 @@ const monsterCombatStats = [
     "hp": 207,
     "init": 0,
     "cr": 15.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/snallygaster.html"
   },
@@ -22914,6 +25459,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 5,
     "cr": 5.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/snatch-bat.html"
   },
@@ -22923,6 +25469,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/snow-cat.html"
   },
@@ -22932,6 +25479,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": 1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/snow-giant.html"
   },
@@ -22941,6 +25489,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 1,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/snow-hag.html"
   },
@@ -22950,6 +25499,7 @@ const monsterCombatStats = [
     "hp": 182,
     "init": 4,
     "cr": 16.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/snowqueen-tob1-2023.html"
   },
@@ -22959,6 +25509,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 6,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/snow-terror.html"
   },
@@ -22968,6 +25519,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 5,
     "cr": 6.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/sodwose.html"
   },
@@ -22977,6 +25529,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 0,
     "cr": 4.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/soil-snake.html"
   },
@@ -22986,6 +25539,7 @@ const monsterCombatStats = [
     "hp": 319,
     "init": 6,
     "cr": 21.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/solar-a5e.html"
   },
@@ -22995,6 +25549,7 @@ const monsterCombatStats = [
     "hp": 306,
     "init": 6,
     "cr": 21.0,
+    "type": "Celestial",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/solar_bf.html"
   },
@@ -23004,6 +25559,7 @@ const monsterCombatStats = [
     "hp": 243,
     "init": 6,
     "cr": 21.0,
+    "type": "Celestial",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/solar.html"
   },
@@ -23013,6 +25569,7 @@ const monsterCombatStats = [
     "hp": 297,
     "init": 20,
     "cr": 21.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/solar_mm_2024.html"
   },
@@ -23022,6 +25579,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/soldier-a5e.html"
   },
@@ -23031,6 +25589,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 1,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/soldier-squad-a5e.html"
   },
@@ -23040,6 +25599,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 4,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/somberweave.html"
   },
@@ -23049,6 +25609,7 @@ const monsterCombatStats = [
     "hp": 175,
     "init": 3,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/sonoffenris-tob1-2023.html"
   },
@@ -23058,6 +25619,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 3,
     "cr": 6.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/song-angel.html"
   },
@@ -23067,6 +25629,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/sootwing.html"
   },
@@ -23076,6 +25639,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 0,
     "cr": 0.5,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/sooze.html"
   },
@@ -23085,6 +25649,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 6,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/souleater-tob1-2023.html"
   },
@@ -23094,6 +25659,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 5,
     "cr": 7.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/spark-tob1-2023.html"
   },
@@ -23103,6 +25669,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/spark-mephit-a5e.html"
   },
@@ -23112,6 +25679,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 1,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/spawnofakyishigal-tob1-2023.html"
   },
@@ -23121,6 +25689,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 3,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/spawn-of-alquam.html"
   },
@@ -23130,6 +25699,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/spawnofarbeyach-tob1-2023.html"
   },
@@ -23139,6 +25709,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 1,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/spawn-of-chernobog.html"
   },
@@ -23148,6 +25719,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": -2,
     "cr": 10.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/spawn-of-hriggala.html"
   },
@@ -23157,6 +25729,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 4,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/spawn-of-rhopalocerex.html"
   },
@@ -23166,6 +25739,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 3,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/speaker-to-the-darkness.html"
   },
@@ -23175,6 +25749,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/specter-a5e.html"
   },
@@ -23184,6 +25759,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/specter_bf.html"
   },
@@ -23193,6 +25769,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/specter.html"
   },
@@ -23202,6 +25779,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/specter_mm_2024.html"
   },
@@ -23211,6 +25789,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 4,
     "cr": 6.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/spectralguardian-tob1-2023.html"
   },
@@ -23220,6 +25799,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 0,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/spell-warped-chuul-a5e.html"
   },
@@ -23229,6 +25809,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 2,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/spellhound.html"
   },
@@ -23238,6 +25819,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 2,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sphinx-a5e.html"
   },
@@ -23247,6 +25829,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 6,
     "cr": 11.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sphinx_of_lore_mm_2024.html"
   },
@@ -23256,6 +25839,7 @@ const monsterCombatStats = [
     "hp": 199,
     "init": 4,
     "cr": 17.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sphinx_of_valor_mm_2024.html"
   },
@@ -23265,6 +25849,7 @@ const monsterCombatStats = [
     "hp": 24,
     "init": 3,
     "cr": 1.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sphinx_of_wonder_mm_2024.html"
   },
@@ -23274,6 +25859,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/spider-a5e.html"
   },
@@ -23283,6 +25869,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/spider_bf.html"
   },
@@ -23292,6 +25879,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/spider.html"
   },
@@ -23301,6 +25889,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 2,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/spider_mm_2024.html"
   },
@@ -23310,6 +25899,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 1,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/spider-drake.html"
   },
@@ -23319,6 +25909,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 1,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/spiderthief-tob1-2023.html"
   },
@@ -23328,6 +25919,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 3,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/spiderofleng-tob1-2023.html"
   },
@@ -23337,6 +25929,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/spider_giant_bf.html"
   },
@@ -23346,6 +25939,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/spider_giant_wolf_bf.html"
   },
@@ -23355,6 +25949,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": -1,
     "cr": 13.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/spinosaurus-tob1-2023.html"
   },
@@ -23364,6 +25959,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 4,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/spirewalker-tob1-2023.html"
   },
@@ -23373,6 +25969,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/spirit-lamp.html"
   },
@@ -23382,6 +25979,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 3,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/spirit-naga-a5e.html"
   },
@@ -23391,6 +25989,7 @@ const monsterCombatStats = [
     "hp": 166,
     "init": 6,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/spirit_naga_bf.html"
   },
@@ -23400,6 +25999,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 3,
     "cr": 8.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/spirit-naga.html"
   },
@@ -23409,6 +26009,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 3,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/spirit_naga_mm_2024.html"
   },
@@ -23418,6 +26019,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 7.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/splinter-matron.html"
   },
@@ -23427,6 +26029,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": -1,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/sporous-crab.html"
   },
@@ -23436,6 +26039,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 3,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/spree.html"
   },
@@ -23445,6 +26049,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 4,
     "cr": 0.25,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/sprite-a5e.html"
   },
@@ -23454,6 +26059,7 @@ const monsterCombatStats = [
     "hp": 13,
     "init": 3,
     "cr": 0.25,
+    "type": "Fey",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/sprite_bf.html"
   },
@@ -23463,6 +26069,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 4,
     "cr": 0.25,
+    "type": "Fey",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/sprite.html"
   },
@@ -23472,6 +26079,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 4,
     "cr": 0.25,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sprite_mm_2024.html"
   },
@@ -23481,6 +26089,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/spurred-water-skate.html"
   },
@@ -23490,6 +26099,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/spy-a5e.html"
   },
@@ -23499,6 +26109,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 5,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/spy_bf.html"
   },
@@ -23508,6 +26119,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/spy.html"
   },
@@ -23517,6 +26129,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 4,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/spy_mm_2024.html"
   },
@@ -23526,6 +26139,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 3,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/spymaster-a5e.html"
   },
@@ -23535,6 +26149,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ssadar.html"
   },
@@ -23544,6 +26159,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/stained-glass-moth.html"
   },
@@ -23553,6 +26169,7 @@ const monsterCombatStats = [
     "hp": 12,
     "init": 3,
     "cr": 0.25,
+    "type": "Aberration",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/star_crow_bf.html"
   },
@@ -23562,6 +26179,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 3,
     "cr": 15.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/stardrake-tob1-2023.html"
   },
@@ -23571,6 +26189,7 @@ const monsterCombatStats = [
     "hp": 212,
     "init": 2,
     "cr": 15.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/starspawnofcthulhu-tob1-2023.html"
   },
@@ -23580,6 +26199,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 2,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/star-nosed-diopsid.html"
   },
@@ -23589,6 +26209,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 0,
     "cr": 9.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/stargazer.html"
   },
@@ -23598,6 +26219,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/starving-specter.html"
   },
@@ -23607,6 +26229,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 1,
     "cr": 13.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/steamgolem-tob1-2023.html"
   },
@@ -23616,6 +26239,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 0,
     "cr": 0.25,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/steam-mephit-a5e.html"
   },
@@ -23625,6 +26249,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/steam_mephit_bf.html"
   },
@@ -23634,6 +26259,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 0,
     "cr": 0.25,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/steam-mephit.html"
   },
@@ -23643,6 +26269,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 0,
     "cr": 0.25,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/steam_mephit_mm_2024.html"
   },
@@ -23652,6 +26279,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 0,
     "cr": 3.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/stegosaurus-a5e.html"
   },
@@ -23661,6 +26289,7 @@ const monsterCombatStats = [
     "hp": 165,
     "init": -1,
     "cr": 12.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/stellar-rorqual.html"
   },
@@ -23670,6 +26299,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 3,
     "cr": 0.125,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/stirge-a5e.html"
   },
@@ -23679,6 +26309,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/stirge_bf.html"
   },
@@ -23688,6 +26319,7 @@ const monsterCombatStats = [
     "hp": 2,
     "init": 3,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/stirge.html"
   },
@@ -23697,6 +26329,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 3,
     "cr": 0.125,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/stirge_mm_2024.html"
   },
@@ -23706,6 +26339,7 @@ const monsterCombatStats = [
     "hp": 263,
     "init": 0,
     "cr": 16.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/stone-colossus-a5e.html"
   },
@@ -23715,6 +26349,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 2,
     "cr": 1.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/stone-creeper.html"
   },
@@ -23724,6 +26359,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 2,
     "cr": 8.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/stone-giant-a5e.html"
   },
@@ -23733,6 +26369,7 @@ const monsterCombatStats = [
     "hp": 156,
     "init": 5,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/stone_giant_bf.html"
   },
@@ -23742,6 +26379,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 2,
     "cr": 7.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/stone-giant.html"
   },
@@ -23751,6 +26389,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 5,
     "cr": 7.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/stone_giant_mm_2024.html"
   },
@@ -23760,6 +26399,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 2,
     "cr": 8.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/stone-giant-stonetalker-a5e.html"
   },
@@ -23769,6 +26409,7 @@ const monsterCombatStats = [
     "hp": 176,
     "init": -1,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/stone_golem_bf.html"
   },
@@ -23778,6 +26419,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": -1,
     "cr": 10.0,
+    "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/stone-golem.html"
   },
@@ -23787,6 +26429,7 @@ const monsterCombatStats = [
     "hp": 220,
     "init": 3,
     "cr": 10.0,
+    "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/stone_golem_mm_2024.html"
   },
@@ -23796,6 +26439,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 0,
     "cr": 10.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/stone-guardian-a5e.html"
   },
@@ -23805,6 +26449,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 0,
     "cr": 4.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/stone-eater-slime.html"
   },
@@ -23814,6 +26459,7 @@ const monsterCombatStats = [
     "hp": 230,
     "init": 2,
     "cr": 14.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/storm-giant-a5e.html"
   },
@@ -23823,6 +26469,7 @@ const monsterCombatStats = [
     "hp": 243,
     "init": 2,
     "cr": 13.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/storm_giant_bf.html"
   },
@@ -23832,6 +26479,7 @@ const monsterCombatStats = [
     "hp": 230,
     "init": 2,
     "cr": 13.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/storm-giant.html"
   },
@@ -23841,6 +26489,7 @@ const monsterCombatStats = [
     "hp": 230,
     "init": 7,
     "cr": 13.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/storm_giant_mm_2024.html"
   },
@@ -23850,6 +26499,7 @@ const monsterCombatStats = [
     "hp": 460,
     "init": 2,
     "cr": 14.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/storm-giant-monarch-a5e.html"
   },
@@ -23859,6 +26509,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 4,
     "cr": 13.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/storm-lord.html"
   },
@@ -23868,6 +26519,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 4.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/storm-maiden.html"
   },
@@ -23877,6 +26529,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/storm-spirit.html"
   },
@@ -23886,6 +26539,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 1,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/stormboar.html"
   },
@@ -23895,6 +26549,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/stout-halfling-guard-a5e.html"
   },
@@ -23904,6 +26559,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/strider-a5e.html"
   },
@@ -23913,6 +26569,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 5,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/strife-tob1-2023.html"
   },
@@ -23922,6 +26579,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 0,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/strobing-fungus.html"
   },
@@ -23931,6 +26589,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 2,
     "cr": 0.125,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/stryx-tob1-2023.html"
   },
@@ -23940,6 +26599,7 @@ const monsterCombatStats = [
     "hp": 209,
     "init": 4,
     "cr": 13.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/stuhac-tob1-2023.html"
   },
@@ -23949,6 +26609,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 2,
     "cr": 3.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/stygianfat-tailedscorpion-tob1-2023.html"
   },
@@ -23958,6 +26619,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/subek-tob1-2023.html"
   },
@@ -23967,6 +26629,7 @@ const monsterCombatStats = [
     "hp": 79,
     "init": 3,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/succubus_bf.html"
   },
@@ -23976,6 +26639,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 3,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/succubus_mm_2024.html"
   },
@@ -23985,6 +26649,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/succubusincubus.html"
   },
@@ -23994,6 +26659,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/sulsha.html"
   },
@@ -24003,6 +26669,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/sunflower-sprite.html"
   },
@@ -24012,6 +26679,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 2,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/sunset-raptor.html"
   },
@@ -24021,6 +26689,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": -2,
     "cr": 1.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/suppurating-ooze.html"
   },
@@ -24030,6 +26699,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/suturefly-tob1-2023.html"
   },
@@ -24039,6 +26709,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/swampadder-tob1-2023.html"
   },
@@ -24048,6 +26719,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": -1,
     "cr": 7.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/swamp-lily.html"
   },
@@ -24057,6 +26729,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 3,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/swamp-naga.html"
   },
@@ -24066,6 +26739,7 @@ const monsterCombatStats = [
     "hp": 59,
     "init": -2,
     "cr": 2.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/swampgas-bubble.html"
   },
@@ -24075,6 +26749,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 3,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/swampgas-shade.html"
   },
@@ -24084,6 +26759,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/swarm-of-bats-a5e.html"
   },
@@ -24093,6 +26769,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-bats.html"
   },
@@ -24102,6 +26779,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/swarm_of_bats_mm_2024.html"
   },
@@ -24111,6 +26789,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-beetles.html"
   },
@@ -24120,6 +26799,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-centipedes.html"
   },
@@ -24129,6 +26809,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/swarm-of-compsognathus.html"
   },
@@ -24138,6 +26819,7 @@ const monsterCombatStats = [
     "hp": 49,
     "init": 2,
     "cr": 3.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/swarm_of_crawling_claws_mm_2024.html"
   },
@@ -24147,6 +26829,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 3,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/swarm-of-esteron.html"
   },
@@ -24156,6 +26839,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 5,
     "cr": 7.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/swarmoffiredancers-tob1-2023.html"
   },
@@ -24165,6 +26849,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/swarm-of-insects-a5e.html"
   },
@@ -24174,6 +26859,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-insects.html"
   },
@@ -24183,6 +26869,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/swarm_of_insects_mm_2024.html"
   },
@@ -24192,6 +26879,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 3,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/swarm-of-khalkos-spawn-a5e.html"
   },
@@ -24201,6 +26889,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 3,
     "cr": 4.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/swarmofmanabanescarabs-tob1-2023.html"
   },
@@ -24210,6 +26899,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/swarm_of_piranhas_mm_2024.html"
   },
@@ -24219,6 +26909,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 4,
     "cr": 2.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/swarm-of-poisonous-snakes-a5e.html"
   },
@@ -24228,6 +26919,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 4,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-poisonous-snakes.html"
   },
@@ -24237,6 +26929,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 3.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/swarmofprismaticbeetles-tob1-2023.html"
   },
@@ -24246,6 +26939,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/swarm-of-quippers-a5e.html"
   },
@@ -24255,6 +26949,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-quippers.html"
   },
@@ -24264,6 +26959,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 1,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/swarm-of-rats-a5e.html"
   },
@@ -24273,6 +26969,7 @@ const monsterCombatStats = [
     "hp": 24,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-rats.html"
   },
@@ -24282,6 +26979,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 0,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/swarm_of_rats_mm_2024.html"
   },
@@ -24291,6 +26989,7 @@ const monsterCombatStats = [
     "hp": 17,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/swarm-of-ravens-a5e.html"
   },
@@ -24300,6 +26999,7 @@ const monsterCombatStats = [
     "hp": 24,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-ravens.html"
   },
@@ -24309,6 +27009,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/swarm_of_ravens_mm_2024.html"
   },
@@ -24318,6 +27019,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 3,
     "cr": 3.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/swarmofsluaghs-tob1-2023.html"
   },
@@ -24327,6 +27029,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-spiders.html"
   },
@@ -24336,6 +27039,7 @@ const monsterCombatStats = [
     "hp": 36,
     "init": 4,
     "cr": 2.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/swarm_of_venomous_snakes_mm_2024.html"
   },
@@ -24345,6 +27049,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/swarm-of-wasps.html"
   },
@@ -24354,6 +27059,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 3.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/swarmofwharflings-tob1-2023.html"
   },
@@ -24363,6 +27069,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 4,
     "cr": 6.0,
+    "type": "Swarm",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/swarmofwolfspirits-tob1-2023.html"
   },
@@ -24372,6 +27079,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/swarm-biting-gnat.html"
   },
@@ -24381,6 +27089,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 4,
     "cr": 6.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/swarm-gryllus.html"
   },
@@ -24390,6 +27099,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 2.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/swarm-ice-borers.html"
   },
@@ -24399,6 +27109,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 0,
     "cr": 3.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/swarm-swamp-slirghs.html"
   },
@@ -24408,6 +27119,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/swarm-vampire-blossom.html"
   },
@@ -24417,6 +27129,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 0,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/swolbold.html"
   },
@@ -24426,6 +27139,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 0,
     "cr": 3.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/talus-flow.html"
   },
@@ -24435,6 +27149,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/tar-ghoul.html"
   },
@@ -24444,6 +27159,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": -1,
     "cr": 6.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/tar-ooze.html"
   },
@@ -24453,6 +27169,7 @@ const monsterCombatStats = [
     "hp": 1230,
     "init": 1,
     "cr": 30.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/tarrasque-a5e.html"
   },
@@ -24462,6 +27179,7 @@ const monsterCombatStats = [
     "hp": 680,
     "init": 3,
     "cr": 30.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/tarrasque_bf.html"
   },
@@ -24471,6 +27189,7 @@ const monsterCombatStats = [
     "hp": 676,
     "init": 0,
     "cr": 30.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/tarrasque.html"
   },
@@ -24480,6 +27199,7 @@ const monsterCombatStats = [
     "hp": 697,
     "init": 18,
     "cr": 30.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/tarrasque_mm_2024.html"
   },
@@ -24489,6 +27209,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 2,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/tatzelwurm.html"
   },
@@ -24498,6 +27219,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/tembril.html"
   },
@@ -24507,6 +27229,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 2,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/templedog-tob1-2023.html"
   },
@@ -24516,6 +27239,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 2,
     "cr": 2.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/tendrilpuppet-tob1-2023.html"
   },
@@ -24525,6 +27249,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/terror-bird.html"
   },
@@ -24534,6 +27259,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/tetomatli.html"
   },
@@ -24543,6 +27269,7 @@ const monsterCombatStats = [
     "hp": 44,
     "init": 3,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/the-barbed.html"
   },
@@ -24552,6 +27279,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/the-flesh.html"
   },
@@ -24561,6 +27289,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 3,
     "cr": 9.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/thin-giant.html"
   },
@@ -24570,6 +27299,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 2,
     "cr": 11.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/thorned-sulfurlord.html"
   },
@@ -24579,6 +27309,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/thornheart-guardian.html"
   },
@@ -24588,6 +27319,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 2,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/thread-bound-constrictor-snake.html"
   },
@@ -24597,6 +27329,7 @@ const monsterCombatStats = [
     "hp": 275,
     "init": 0,
     "cr": 14.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/three-headed-clockwork-dragon.html"
   },
@@ -24606,6 +27339,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/three-headed-cobra.html"
   },
@@ -24615,6 +27349,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 4,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/thripper.html"
   },
@@ -24624,6 +27359,7 @@ const monsterCombatStats = [
     "hp": 198,
     "init": 4,
     "cr": 12.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/thrummren.html"
   },
@@ -24633,6 +27369,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 7,
     "cr": 12.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/thuellai-tob1-2023.html"
   },
@@ -24642,6 +27379,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/thug-a5e.html"
   },
@@ -24651,6 +27389,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/thug_bf.html"
   },
@@ -24660,6 +27399,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 0,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/thug.html"
   },
@@ -24669,6 +27409,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 2,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/thunderbird-a5e.html"
   },
@@ -24678,6 +27419,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 0,
     "cr": 3.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/thursir-tob1-2023.html"
   },
@@ -24687,6 +27429,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 2,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/tidehunter.html"
   },
@@ -24696,6 +27439,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 1,
     "cr": 13.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/tigebra.html"
   },
@@ -24705,6 +27449,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/tiger-a5e.html"
   },
@@ -24714,6 +27459,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/tiger_bf.html"
   },
@@ -24723,6 +27469,7 @@ const monsterCombatStats = [
     "hp": 37,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/tiger.html"
   },
@@ -24732,6 +27479,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 3,
     "cr": 1.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/tiger_mm_2024.html"
   },
@@ -24741,6 +27489,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 2,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/tiger_sabertoothed_bf.html"
   },
@@ -24750,6 +27499,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": -3,
     "cr": 15.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/timingila.html"
   },
@@ -24759,6 +27509,7 @@ const monsterCombatStats = [
     "hp": 396,
     "init": 0,
     "cr": 24.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/titanic-dragon-turtle-a5e.html"
   },
@@ -24768,6 +27519,7 @@ const monsterCombatStats = [
     "hp": 888,
     "init": 0,
     "cr": 25.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/titanic-kraken-a5e.html"
   },
@@ -24777,6 +27529,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": 0,
     "cr": 12.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/titanoboa-tob1-2023.html"
   },
@@ -24786,6 +27539,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 0,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/tophet-tob1-2023.html"
   },
@@ -24795,6 +27549,7 @@ const monsterCombatStats = [
     "hp": 21,
     "init": 2,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/torch-mimic.html"
   },
@@ -24804,6 +27559,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 4,
     "cr": 10.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/tormented-qiqirn.html"
   },
@@ -24813,6 +27569,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/tosculidrone-tob1-2023.html"
   },
@@ -24822,6 +27579,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 7,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/tosculielitebowraider-tob1-2023.html"
   },
@@ -24831,6 +27589,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 7,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/tosculihivequeen-tob1-2023.html"
   },
@@ -24840,6 +27599,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/tosculi-jeweled-drone.html"
   },
@@ -24849,6 +27609,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 5,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/tosculiwarrior-tob1-2023.html"
   },
@@ -24858,6 +27619,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/tough_mm_2024.html"
   },
@@ -24867,6 +27629,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/tough_boss_mm_2024.html"
   },
@@ -24876,6 +27639,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 3,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/transcendent-lunarchida.html"
   },
@@ -24885,6 +27649,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/trapsmith-tob1-2023.html"
   },
@@ -24894,6 +27659,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.25,
+    "type": "Ooze",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/treacle-tob1-2023.html"
   },
@@ -24903,6 +27669,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": -1,
     "cr": 9.0,
+    "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/treant-a5e.html"
   },
@@ -24912,6 +27679,7 @@ const monsterCombatStats = [
     "hp": 185,
     "init": -1,
     "cr": 9.0,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/treant_bf.html"
   },
@@ -24921,6 +27689,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": -1,
     "cr": 9.0,
+    "type": "Plant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/treant.html"
   },
@@ -24930,6 +27699,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": 3,
     "cr": 9.0,
+    "type": "Plant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/treant_mm_2024.html"
   },
@@ -24939,6 +27709,7 @@ const monsterCombatStats = [
     "hp": 38,
     "init": 3,
     "cr": 2.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/tree-skinner.html"
   },
@@ -24948,6 +27719,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 0,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/tribal-warrior.html"
   },
@@ -24957,6 +27729,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 0,
     "cr": 13.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/tricenatorus.html"
   },
@@ -24966,6 +27739,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 0,
     "cr": 5.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/triceratops-a5e.html"
   },
@@ -24975,6 +27749,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": -1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/triceratops_bf.html"
   },
@@ -24984,6 +27759,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": -1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/triceratops.html"
   },
@@ -24993,6 +27769,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": -1,
     "cr": 5.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/triceratops_mm_2024.html"
   },
@@ -25002,6 +27779,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/trickster-priest-a5e.html"
   },
@@ -25011,6 +27789,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 0,
     "cr": 4.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/tripwire-patch.html"
   },
@@ -25020,6 +27799,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/troglodyte-a5e.html"
   },
@@ -25029,6 +27809,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/troll-a5e.html"
   },
@@ -25038,6 +27819,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/troll_bf.html"
   },
@@ -25047,6 +27829,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/troll.html"
   },
@@ -25056,6 +27839,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/troll_mm_2024.html"
   },
@@ -25065,6 +27849,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 1,
     "cr": 0.5,
+    "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/troll_limb_mm_2024.html"
   },
@@ -25074,6 +27859,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/troll-breakwater.html"
   },
@@ -25083,6 +27869,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 3,
     "cr": 4.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/troll-gutter.html"
   },
@@ -25092,6 +27879,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 4,
     "cr": 7.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/troll-rattleback.html"
   },
@@ -25101,6 +27889,7 @@ const monsterCombatStats = [
     "hp": 125,
     "init": -2,
     "cr": 6.0,
+    "type": "Giant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/troll-tumor.html"
   },
@@ -25110,6 +27899,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/trollkin-fire-shaman.html"
   },
@@ -25119,6 +27909,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 1,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/trollkin-ironmonger.html"
   },
@@ -25128,6 +27919,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 3,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/trollkin-ragecaster.html"
   },
@@ -25137,6 +27929,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 1,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/trollkin-raider.html"
   },
@@ -25146,6 +27939,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 1,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/trollkinreaver-tob1-2023.html"
   },
@@ -25155,6 +27949,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 1,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/trollkin-shaman.html"
   },
@@ -25164,6 +27959,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/trollking-grunt.html"
   },
@@ -25173,6 +27969,7 @@ const monsterCombatStats = [
     "hp": 156,
     "init": 3,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/truant-devourer.html"
   },
@@ -25182,6 +27979,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.25,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/tuberkith.html"
   },
@@ -25191,6 +27989,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/tulpa.html"
   },
@@ -25200,6 +27999,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": -1,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/tusked-crimson-ogre.html"
   },
@@ -25209,6 +28009,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/tuskedskyfish-tob1-2023.html"
   },
@@ -25218,6 +28019,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 1,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/tveirherjar.html"
   },
@@ -25227,6 +28029,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 5,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/two-headed-eagle.html"
   },
@@ -25236,6 +28039,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 8.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/tyrannosaurus-rex-a5e.html"
   },
@@ -25245,6 +28049,7 @@ const monsterCombatStats = [
     "hp": 184,
     "init": 0,
     "cr": 8.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/tyrannosaurus_rex_bf.html"
   },
@@ -25254,6 +28059,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 0,
     "cr": 8.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/tyrannosaurus-rex.html"
   },
@@ -25263,6 +28069,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 3,
     "cr": 8.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/tyrannosaurus_rex_mm_2024.html"
   },
@@ -25272,6 +28079,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 2,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/tzepharion.html"
   },
@@ -25281,6 +28089,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 4,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/ulnorya.html"
   },
@@ -25290,6 +28099,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 3,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/umbral-shambler.html"
   },
@@ -25299,6 +28109,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 4,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/umbralvampire-tob1-2023.html"
   },
@@ -25308,6 +28119,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 2,
     "cr": 12.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/undead-phoenix.html"
   },
@@ -25317,6 +28129,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 2,
     "cr": 10.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/underworld-sentinel.html"
   },
@@ -25326,6 +28139,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/unhatched.html"
   },
@@ -25335,6 +28149,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 4,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/unicorn-a5e.html"
   },
@@ -25344,6 +28159,7 @@ const monsterCombatStats = [
     "hp": 92,
     "init": 2,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/unicorn_bf.html"
   },
@@ -25353,6 +28169,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 2,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/unicorn.html"
   },
@@ -25362,6 +28179,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 8,
     "cr": 5.0,
+    "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/unicorn_mm_2024.html"
   },
@@ -25371,6 +28189,7 @@ const monsterCombatStats = [
     "hp": 88,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/unska_bf.html"
   },
@@ -25380,6 +28199,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 0,
     "cr": 10.0,
+    "type": "Aberration",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ur-otyugh-a5e.html"
   },
@@ -25389,6 +28209,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 2.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/uraeus-tob1-2023.html"
   },
@@ -25398,6 +28219,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 3,
     "cr": 14.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/uridimmu.html"
   },
@@ -25407,6 +28229,7 @@ const monsterCombatStats = [
     "hp": 256,
     "init": 2,
     "cr": 17.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/urochar-tob1-2023.html"
   },
@@ -25416,6 +28239,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 1,
     "cr": 7.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ursa-polaris.html"
   },
@@ -25425,6 +28249,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 2,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/urushi-constrictor.html"
   },
@@ -25434,6 +28259,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 5,
     "cr": 8.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ushabti-tob1-2023.html"
   },
@@ -25443,6 +28269,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 3,
     "cr": 14.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ushabtiroyalguard-tob1-2023.html"
   },
@@ -25452,6 +28279,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 3,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/valkruung.html"
   },
@@ -25461,6 +28289,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 4,
     "cr": 11.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/valkyrie-tob1-2023.html"
   },
@@ -25470,6 +28299,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 0,
     "cr": 7.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/vallowex.html"
   },
@@ -25479,6 +28309,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 4,
     "cr": 11.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vampire-a5e.html"
   },
@@ -25488,6 +28319,7 @@ const monsterCombatStats = [
     "hp": 177,
     "init": 9,
     "cr": 13.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/vampire_bf.html"
   },
@@ -25497,6 +28329,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 4,
     "cr": 13.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/vampire.html"
   },
@@ -25506,6 +28339,7 @@ const monsterCombatStats = [
     "hp": 195,
     "init": 14,
     "cr": 13.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/vampire_mm_2024.html"
   },
@@ -25515,6 +28349,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 4,
     "cr": 12.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vampire-assassin-a5e.html"
   },
@@ -25524,6 +28359,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 5,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/vampire_familiar_mm_2024.html"
   },
@@ -25533,6 +28369,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 4,
     "cr": 13.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vampire-mage-a5e.html"
   },
@@ -25542,6 +28379,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 4,
     "cr": 10.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/vampire-patrician.html"
   },
@@ -25551,6 +28389,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 1,
     "cr": 8.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/vampire-priestess.html"
   },
@@ -25560,6 +28399,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vampire-spawn-a5e.html"
   },
@@ -25569,6 +28409,7 @@ const monsterCombatStats = [
     "hp": 91,
     "init": 6,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/vampire_spawn_bf.html"
   },
@@ -25578,6 +28419,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/vampire-spawn.html"
   },
@@ -25587,6 +28429,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/vampire_spawn_mm_2024.html"
   },
@@ -25596,6 +28439,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 5,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/vampire_thrall_bf.html"
   },
@@ -25605,6 +28449,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 4,
     "cr": 12.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vampire-warrior-a5e.html"
   },
@@ -25614,6 +28459,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 2,
     "cr": 11.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/vampiric-knight.html"
   },
@@ -25623,6 +28469,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 3,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/vampiric-vanguard.html"
   },
@@ -25632,6 +28479,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/vanara.html"
   },
@@ -25641,6 +28489,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 3,
     "cr": 4.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/vangsluagh.html"
   },
@@ -25650,6 +28499,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 4,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/vaporlynx-tob1-2023.html"
   },
@@ -25659,6 +28509,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 2,
     "cr": 7.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/vellso.html"
   },
@@ -25668,6 +28519,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 4,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/velociraptor_bf.html"
   },
@@ -25677,6 +28529,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 8.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vengeful-ghost-a5e.html"
   },
@@ -25686,6 +28539,7 @@ const monsterCombatStats = [
     "hp": 93,
     "init": 2,
     "cr": 4.0,
+    "type": "Elemental",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/venom-elemental.html"
   },
@@ -25695,6 +28549,7 @@ const monsterCombatStats = [
     "hp": 231,
     "init": 3,
     "cr": 12.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/venom-maw-hydra.html"
   },
@@ -25704,6 +28559,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": -1,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/venomousmummy-tob1-2023.html"
   },
@@ -25713,6 +28569,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/venomous_snake_mm_2024.html"
   },
@@ -25722,6 +28579,7 @@ const monsterCombatStats = [
     "hp": 247,
     "init": 2,
     "cr": 16.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/vent-linnorm.html"
   },
@@ -25731,6 +28589,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 4,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/veritigibbet.html"
   },
@@ -25740,6 +28599,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": 2,
     "cr": 11.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/vesiculosa-tob1-2023.html"
   },
@@ -25749,6 +28609,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/veteran-a5e.html"
   },
@@ -25758,6 +28619,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/veteran_bf.html"
   },
@@ -25767,6 +28629,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/veteran.html"
   },
@@ -25776,6 +28639,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 1,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/veteran-swordbreaker-skeleton.html"
   },
@@ -25785,6 +28649,7 @@ const monsterCombatStats = [
     "hp": 94,
     "init": 1,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/vexxeh.html"
   },
@@ -25794,6 +28659,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": -2,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/viiret.html"
   },
@@ -25803,6 +28669,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 5,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/vila-tob1-2023.html"
   },
@@ -25812,6 +28679,7 @@ const monsterCombatStats = [
     "hp": 35,
     "init": 4,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/vilebarber-tob1-2023.html"
   },
@@ -25821,6 +28689,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 2,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/vine-drake.html"
   },
@@ -25830,6 +28699,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 4,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/vine-golem.html"
   },
@@ -25839,6 +28709,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 5,
     "cr": 9.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/vinelord-tob1-2023.html"
   },
@@ -25848,6 +28719,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 1,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/vinetrollskeleton-tob1-2023.html"
   },
@@ -25857,6 +28729,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 1,
     "cr": 8.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/vines-of-nemthyr.html"
   },
@@ -25866,6 +28739,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": -5,
     "cr": 0.25,
+    "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/violet-fungus-a5e.html"
   },
@@ -25875,6 +28749,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 0,
     "cr": 0.25,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/violet_fungus_bf.html"
   },
@@ -25884,6 +28759,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": -5,
     "cr": 0.25,
+    "type": "Plant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/violet-fungus.html"
   },
@@ -25893,6 +28769,7 @@ const monsterCombatStats = [
     "hp": 18,
     "init": -5,
     "cr": 0.25,
+    "type": "Plant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/violet_fungus_mm_2024.html"
   },
@@ -25902,6 +28779,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 3,
     "cr": 12.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/virtuoso-lich.html"
   },
@@ -25911,6 +28789,7 @@ const monsterCombatStats = [
     "hp": 185,
     "init": 7,
     "cr": 12.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/virtuoso_lich_bf.html"
   },
@@ -25920,6 +28799,7 @@ const monsterCombatStats = [
     "hp": 43,
     "init": 1,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/void-constructor.html"
   },
@@ -25929,6 +28809,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 0,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/voiddragonwyrmling-tob1-2023.html"
   },
@@ -25938,6 +28819,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": 0,
     "cr": 11.0,
+    "type": "Giant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/void-giant.html"
   },
@@ -25947,6 +28829,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": -2,
     "cr": 10.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/void-knight.html"
   },
@@ -25956,6 +28839,7 @@ const monsterCombatStats = [
     "hp": 180,
     "init": 5,
     "cr": 11.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/voidling-tob1-2023.html"
   },
@@ -25965,6 +28849,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": -2,
     "cr": 5.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/voidpool.html"
   },
@@ -25974,6 +28859,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 2,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/volguloth-tob1-2023.html"
   },
@@ -25983,6 +28869,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 0,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/vorthropod.html"
   },
@@ -25992,6 +28879,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 3,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vrock-a5e.html"
   },
@@ -26001,6 +28889,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 5,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/vrock_bf.html"
   },
@@ -26010,6 +28899,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 2,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/vrock.html"
   },
@@ -26019,6 +28909,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 2,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/vrock_mm_2024.html"
   },
@@ -26028,6 +28919,7 @@ const monsterCombatStats = [
     "hp": 4,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vulture-a5e.html"
   },
@@ -26037,6 +28929,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/vulture_bf.html"
   },
@@ -26046,6 +28939,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/vulture.html"
   },
@@ -26055,6 +28949,7 @@ const monsterCombatStats = [
     "hp": 5,
     "init": 0,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/vulture_mm_2024.html"
   },
@@ -26064,6 +28959,7 @@ const monsterCombatStats = [
     "hp": 46,
     "init": 0,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/vulture_giant_bf.html"
   },
@@ -26073,6 +28969,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/v\u00e6ttir-tob1-2023.html"
   },
@@ -26082,6 +28979,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 2.0,
+    "type": "Beast",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/wakwak.html"
   },
@@ -26091,6 +28989,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": -1,
     "cr": 3.0,
+    "type": "Construct",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/walking-statue-a5e.html"
   },
@@ -26100,6 +28999,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": -5,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/walled-horror.html"
   },
@@ -26109,6 +29009,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wallflower-a5e.html"
   },
@@ -26118,6 +29019,7 @@ const monsterCombatStats = [
     "hp": 39,
     "init": 4,
     "cr": 1.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/wampuscat-tob1-2023.html"
   },
@@ -26127,6 +29029,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 3,
     "cr": 10.0,
+    "type": "Ooze",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/wandering-haze.html"
   },
@@ -26136,6 +29039,7 @@ const monsterCombatStats = [
     "hp": 115,
     "init": 2,
     "cr": 8.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/wanyudo.html"
   },
@@ -26145,6 +29049,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 1,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/war_horse_skeleton_bf.html"
   },
@@ -26154,6 +29059,7 @@ const monsterCombatStats = [
     "hp": 232,
     "init": -1,
     "cr": 18.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/war-machine-golem.html"
   },
@@ -26163,6 +29069,7 @@ const monsterCombatStats = [
     "hp": 42,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/warostrich-tob1-2023.html"
   },
@@ -26172,6 +29079,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 1,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/war-wyvern.html"
   },
@@ -26181,6 +29089,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 4,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/wardu.html"
   },
@@ -26190,6 +29099,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/warhordling-orc-eye-a5e.html"
   },
@@ -26199,6 +29109,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/warhordling-orc-war-chief-a5e.html"
   },
@@ -26208,6 +29119,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.25,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/warhordling-orc-warrior-a5e.html"
   },
@@ -26217,6 +29129,7 @@ const monsterCombatStats = [
     "hp": 30,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/warhorse-a5e.html"
   },
@@ -26226,6 +29139,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/warhorse.html"
   },
@@ -26235,6 +29149,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 0.5,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/warhorse_mm_2024.html"
   },
@@ -26244,6 +29159,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/warhorse-skeleton.html"
   },
@@ -26253,6 +29169,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/warhorse_skeleton_mm_2024.html"
   },
@@ -26262,6 +29179,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 7.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/warlocks-trumpetbloom.html"
   },
@@ -26271,6 +29189,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/warlords-ghost-a5e.html"
   },
@@ -26280,6 +29199,7 @@ const monsterCombatStats = [
     "hp": 112,
     "init": 4,
     "cr": 9.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/warmth-thief.html"
   },
@@ -26289,6 +29209,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 1,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/warrior-a5e.html"
   },
@@ -26298,6 +29219,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/warrior-band-a5e.html"
   },
@@ -26307,6 +29229,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/warrior_infantry_mm_2024.html"
   },
@@ -26316,6 +29239,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/warrior_veteran_mm_2024.html"
   },
@@ -26325,6 +29249,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 0,
     "cr": 3.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wasteland-dragon-wyrmling.html"
   },
@@ -26334,6 +29259,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/water-elemental-a5e.html"
   },
@@ -26343,6 +29269,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/water_elemental_bf.html"
   },
@@ -26352,6 +29279,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/water-elemental.html"
   },
@@ -26361,6 +29289,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/water_elemental_mm_2024.html"
   },
@@ -26370,6 +29299,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 2,
     "cr": 4.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/water-horse.html"
   },
@@ -26379,6 +29309,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 2,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/waterleaper-tob1-2023.html"
   },
@@ -26388,6 +29319,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 2,
     "cr": 5.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/waterkledde.html"
   },
@@ -26397,6 +29329,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/weasel-a5e.html"
   },
@@ -26406,6 +29339,7 @@ const monsterCombatStats = [
     "hp": 8,
     "init": 1,
     "cr": 0.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/weasel_bf.html"
   },
@@ -26415,6 +29349,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/weasel.html"
   },
@@ -26424,6 +29359,7 @@ const monsterCombatStats = [
     "hp": 1,
     "init": 3,
     "cr": 0.0,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/weasel_mm_2024.html"
   },
@@ -26433,6 +29369,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 3,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/weasel_giant_bf.html"
   },
@@ -26442,6 +29379,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": -2,
     "cr": 1.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/web-zombie.html"
   },
@@ -26451,6 +29389,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": -1,
     "cr": 6.0,
+    "type": "Plant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/weepingtreant-tob1-2023.html"
   },
@@ -26460,6 +29399,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 0,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/weirding-scroll.html"
   },
@@ -26469,6 +29409,7 @@ const monsterCombatStats = [
     "hp": 150,
     "init": 4,
     "cr": 11.0,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wendigo.html"
   },
@@ -26478,6 +29419,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/werebat.html"
   },
@@ -26487,6 +29429,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 0,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/werebear-a5e.html"
   },
@@ -26496,6 +29439,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 0,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/werebear_bf.html"
   },
@@ -26505,6 +29449,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 0,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/werebear.html"
   },
@@ -26514,6 +29459,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 3,
     "cr": 5.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/werebear_mm_2024.html"
   },
@@ -26523,6 +29469,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 0,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wereboar-a5e.html"
   },
@@ -26532,6 +29479,7 @@ const monsterCombatStats = [
     "hp": 100,
     "init": 0,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wereboar_bf.html"
   },
@@ -26541,6 +29489,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 0,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/wereboar.html"
   },
@@ -26550,6 +29499,7 @@ const monsterCombatStats = [
     "hp": 97,
     "init": 2,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wereboar_mm_2024.html"
   },
@@ -26559,6 +29509,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 3,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/werehyena.html"
   },
@@ -26568,6 +29519,7 @@ const monsterCombatStats = [
     "hp": 117,
     "init": 3,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/wereowl.html"
   },
@@ -26577,6 +29529,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wererat-a5e.html"
   },
@@ -26586,6 +29539,7 @@ const monsterCombatStats = [
     "hp": 57,
     "init": 4,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wererat_bf.html"
   },
@@ -26595,6 +29549,7 @@ const monsterCombatStats = [
     "hp": 33,
     "init": 2,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/wererat.html"
   },
@@ -26604,6 +29559,7 @@ const monsterCombatStats = [
     "hp": 60,
     "init": 3,
     "cr": 2.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wererat_mm_2024.html"
   },
@@ -26613,6 +29569,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 1,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/wereshark.html"
   },
@@ -26622,6 +29579,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 3,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/weretiger-a5e.html"
   },
@@ -26631,6 +29589,7 @@ const monsterCombatStats = [
     "hp": 95,
     "init": 4,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/weretiger_bf.html"
   },
@@ -26640,6 +29599,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 2,
     "cr": 4.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/weretiger.html"
   },
@@ -26649,6 +29609,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 2,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/weretiger_mm_2024.html"
   },
@@ -26658,6 +29619,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 2,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/werewolf-a5e.html"
   },
@@ -26667,6 +29629,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/werewolf_bf.html"
   },
@@ -26676,6 +29639,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/werewolf.html"
   },
@@ -26685,6 +29649,7 @@ const monsterCombatStats = [
     "hp": 71,
     "init": 4,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/werewolf_mm_2024.html"
   },
@@ -26694,6 +29659,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 3,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/werynax.html"
   },
@@ -26703,6 +29669,7 @@ const monsterCombatStats = [
     "hp": 10,
     "init": 2,
     "cr": 0.125,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/wharfling-tob1-2023.html"
   },
@@ -26712,6 +29679,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 4,
     "cr": 15.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/whisperer-in-darkness.html"
   },
@@ -26721,6 +29689,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 3,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/whiteape-tob1-2023.html"
   },
@@ -26730,6 +29699,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 1,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/white-dragon-wyrmling-a5e.html"
   },
@@ -26739,6 +29709,7 @@ const monsterCombatStats = [
     "hp": 54,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/white_dragon_wyrmling_bf.html"
   },
@@ -26748,6 +29719,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 0,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/white-dragon-wyrmling.html"
   },
@@ -26757,6 +29729,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 2,
     "cr": 2.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/white_dragon_wyrmling_mm_2024.html"
   },
@@ -26766,6 +29739,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 2.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/white-stag.html"
   },
@@ -26775,6 +29749,7 @@ const monsterCombatStats = [
     "hp": 7,
     "init": 3,
     "cr": 0.125,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/wicked-skull.html"
   },
@@ -26784,6 +29759,7 @@ const monsterCombatStats = [
     "hp": 138,
     "init": -1,
     "cr": 9.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wickerman.html"
   },
@@ -26793,6 +29769,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 3.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wight-a5e.html"
   },
@@ -26802,6 +29779,7 @@ const monsterCombatStats = [
     "hp": 69,
     "init": 2,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wight_bf.html"
   },
@@ -26811,6 +29789,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 2,
     "cr": 3.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/wight.html"
   },
@@ -26820,6 +29799,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 3.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wight_mm_2024.html"
   },
@@ -26829,6 +29809,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 3,
     "cr": 6.0,
+    "type": "Elemental",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/wild-sirocco.html"
   },
@@ -26838,6 +29819,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 0,
     "cr": 0.125,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wild_warrior_bf.html"
   },
@@ -26847,6 +29829,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 0,
     "cr": 6.0,
+    "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/wilderness-crone.html"
   },
@@ -26856,6 +29839,7 @@ const monsterCombatStats = [
     "hp": 31,
     "init": 4,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/willowisp_bf.html"
   },
@@ -26865,6 +29849,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 9,
     "cr": 2.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/will-o-wisp.html"
   },
@@ -26874,6 +29859,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 9,
     "cr": 2.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/willowisp_mm_2024.html"
   },
@@ -26883,6 +29869,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 7,
     "cr": 2.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/will-o-wisp-a5e.html"
   },
@@ -26892,6 +29879,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 0,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/willowhaunt.html"
   },
@@ -26901,6 +29889,7 @@ const monsterCombatStats = [
     "hp": 28,
     "init": 4,
     "cr": 2.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wind-demon.html"
   },
@@ -26910,6 +29899,7 @@ const monsterCombatStats = [
     "hp": 32,
     "init": 3,
     "cr": 1.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/winddragonwyrmling-tob1-2023.html"
   },
@@ -26919,6 +29909,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 4,
     "cr": 2.0,
+    "type": "Undead",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wind-eater.html"
   },
@@ -26928,6 +29919,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wind-weasel.html"
   },
@@ -26937,6 +29929,7 @@ const monsterCombatStats = [
     "hp": 66,
     "init": 3,
     "cr": 3.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/wind-witch.html"
   },
@@ -26946,6 +29939,7 @@ const monsterCombatStats = [
     "hp": 63,
     "init": 1,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/winds-harp.html"
   },
@@ -26955,6 +29949,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 4,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/windy-wailer.html"
   },
@@ -26964,6 +29959,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 3,
     "cr": 7.0,
+    "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/winter-hag-a5e.html"
   },
@@ -26973,6 +29969,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/winter-wolf-a5e.html"
   },
@@ -26982,6 +29979,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/winter_wolf_bf.html"
   },
@@ -26991,6 +29989,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/winter-wolf.html"
   },
@@ -27000,6 +29999,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": 1,
     "cr": 3.0,
+    "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/winter_wolf_mm_2024.html"
   },
@@ -27009,6 +30009,7 @@ const monsterCombatStats = [
     "hp": 78,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/winterghast.html"
   },
@@ -27018,6 +30019,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 1,
     "cr": 0.5,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/wintergrim.html"
   },
@@ -27027,6 +30029,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": 3,
     "cr": 1.0,
+    "type": "Plant",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wirbeln-fungi.html"
   },
@@ -27036,6 +30039,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 3,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/witch-queen.html"
   },
@@ -27045,6 +30049,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": -1,
     "cr": 6.0,
+    "type": "Plant",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/witchalder.html"
   },
@@ -27054,6 +30059,7 @@ const monsterCombatStats = [
     "hp": 20,
     "init": 2,
     "cr": 0.25,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/witchlight-tob1-2023.html"
   },
@@ -27063,6 +30069,7 @@ const monsterCombatStats = [
     "hp": 58,
     "init": 2,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wizard-kobold.html"
   },
@@ -27072,6 +30079,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 3.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/woe-siphon.html"
   },
@@ -27081,6 +30089,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wolf-a5e.html"
   },
@@ -27090,6 +30099,7 @@ const monsterCombatStats = [
     "hp": 14,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wolf_bf.html"
   },
@@ -27099,6 +30109,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/wolf.html"
   },
@@ -27108,6 +30119,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 2,
     "cr": 0.25,
+    "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wolf_mm_2024.html"
   },
@@ -27117,6 +30129,7 @@ const monsterCombatStats = [
     "hp": 76,
     "init": 1,
     "cr": 3.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/wolfreaverdwarf-tob1-2023.html"
   },
@@ -27126,6 +30139,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wolf_dire_bf.html"
   },
@@ -27135,6 +30149,7 @@ const monsterCombatStats = [
     "hp": 9,
     "init": 3,
     "cr": 0.25,
+    "type": "Monstrosity",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wolpertinger.html"
   },
@@ -27144,6 +30159,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 3,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wood-elf-scout-a5e.html"
   },
@@ -27153,6 +30169,7 @@ const monsterCombatStats = [
     "hp": 90,
     "init": 4,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wood-elf-sharpshooter-a5e.html"
   },
@@ -27162,6 +30179,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 0,
     "cr": 3.0,
+    "type": "Construct",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wood-golem.html"
   },
@@ -27171,6 +30189,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 1,
     "cr": 0.5,
+    "type": "Plant",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wood_herald_bf.html"
   },
@@ -27180,6 +30199,7 @@ const monsterCombatStats = [
     "hp": 19,
     "init": 1,
     "cr": 1.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/wood-ward.html"
   },
@@ -27189,6 +30209,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 1,
     "cr": 0.5,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/woodwose.html"
   },
@@ -27198,6 +30219,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/worg-a5e.html"
   },
@@ -27207,6 +30229,7 @@ const monsterCombatStats = [
     "hp": 25,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/worg_bf.html"
   },
@@ -27216,6 +30239,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 1,
     "cr": 0.5,
+    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/worg.html"
   },
@@ -27225,6 +30249,7 @@ const monsterCombatStats = [
     "hp": 26,
     "init": 1,
     "cr": 0.5,
+    "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/worg_mm_2024.html"
   },
@@ -27234,6 +30259,7 @@ const monsterCombatStats = [
     "hp": 120,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/wormheartedsuffragan-tob1-2023.html"
   },
@@ -27243,6 +30269,7 @@ const monsterCombatStats = [
     "hp": 45,
     "init": 3,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/wrackwraith.html"
   },
@@ -27252,6 +30279,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wraith-a5e.html"
   },
@@ -27261,6 +30289,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 4,
     "cr": 5.0,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wraith_bf.html"
   },
@@ -27270,6 +30299,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/wraith.html"
   },
@@ -27279,6 +30309,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 3,
     "cr": 5.0,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wraith_mm_2024.html"
   },
@@ -27288,6 +30319,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 3,
     "cr": 9.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/wraith-bear.html"
   },
@@ -27297,6 +30329,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 5,
     "cr": 13.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wraith-lord-a5e.html"
   },
@@ -27306,6 +30339,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": 3,
     "cr": 4.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/wraith-oathrot.html"
   },
@@ -27315,6 +30349,7 @@ const monsterCombatStats = [
     "hp": 40,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wyrdling_bf.html"
   },
@@ -27324,6 +30359,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 0,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wyvern-a5e.html"
   },
@@ -27333,6 +30369,7 @@ const monsterCombatStats = [
     "hp": 147,
     "init": 0,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/wyvern_bf.html"
   },
@@ -27342,6 +30379,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 0,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/wyvern.html"
   },
@@ -27351,6 +30389,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 0,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wyvern_mm_2024.html"
   },
@@ -27360,6 +30399,7 @@ const monsterCombatStats = [
     "hp": 102,
     "init": 0,
     "cr": 5.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/wyvern-knight.html"
   },
@@ -27369,6 +30409,7 @@ const monsterCombatStats = [
     "hp": 27,
     "init": 2,
     "cr": 0.5,
+    "type": "Construct",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/xanka-tob1-2023.html"
   },
@@ -27378,6 +30419,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 3,
     "cr": 6.0,
+    "type": "Fiend",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/xecha.html"
   },
@@ -27387,6 +30429,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 1,
     "cr": 3.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/xenabsorber.html"
   },
@@ -27396,6 +30439,7 @@ const monsterCombatStats = [
     "hp": 171,
     "init": 4,
     "cr": 9.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/xhkarsh-tob1-2023.html"
   },
@@ -27405,6 +30449,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 1,
     "cr": 11.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/xing-tian.html"
   },
@@ -27414,6 +30459,7 @@ const monsterCombatStats = [
     "hp": 55,
     "init": 5,
     "cr": 5.0,
+    "type": "Fey",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/xiphus.html"
   },
@@ -27423,6 +30469,7 @@ const monsterCombatStats = [
     "hp": 73,
     "init": 0,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/xorn-a5e.html"
   },
@@ -27432,6 +30479,7 @@ const monsterCombatStats = [
     "hp": 111,
     "init": 0,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/xorn_bf.html"
   },
@@ -27441,6 +30489,7 @@ const monsterCombatStats = [
     "hp": 73,
     "init": 0,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/xorn.html"
   },
@@ -27450,6 +30499,7 @@ const monsterCombatStats = [
     "hp": 84,
     "init": 0,
     "cr": 5.0,
+    "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/xorn_mm_2024.html"
   },
@@ -27459,6 +30509,7 @@ const monsterCombatStats = [
     "hp": 85,
     "init": 4,
     "cr": 5.0,
+    "type": "Ooze",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/yaga-goo.html"
   },
@@ -27468,6 +30519,7 @@ const monsterCombatStats = [
     "hp": 67,
     "init": 0,
     "cr": 2.0,
+    "type": "Humanoid",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/yakirian.html"
   },
@@ -27477,6 +30529,7 @@ const monsterCombatStats = [
     "hp": 51,
     "init": 2,
     "cr": 2.0,
+    "type": "Construct",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/yali.html"
   },
@@ -27486,6 +30539,7 @@ const monsterCombatStats = [
     "hp": 47,
     "init": 0,
     "cr": 2.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/yann-an-oed.html"
   },
@@ -27495,6 +30549,7 @@ const monsterCombatStats = [
     "hp": 202,
     "init": 5,
     "cr": 15.0,
+    "type": "Celestial",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/yaojing.html"
   },
@@ -27504,6 +30559,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 2,
     "cr": 7.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/yathon.html"
   },
@@ -27513,6 +30569,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 2,
     "cr": 6.0,
+    "type": "Aberration",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/yavalnoi.html"
   },
@@ -27522,6 +30579,7 @@ const monsterCombatStats = [
     "hp": 186,
     "init": 0,
     "cr": 11.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/ychenbannog-tob1-2023.html"
   },
@@ -27531,6 +30589,7 @@ const monsterCombatStats = [
     "hp": 77,
     "init": 3,
     "cr": 4.0,
+    "type": "Fiend",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/yek.html"
   },
@@ -27540,6 +30599,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": 1,
     "cr": 4.0,
+    "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/yeti-a5e.html"
   },
@@ -27549,6 +30609,7 @@ const monsterCombatStats = [
     "hp": 11,
     "init": 2,
     "cr": 1.0,
+    "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/yobbo-a5e.html"
   },
@@ -27558,6 +30619,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 3,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-amethyst-dragon-a5e.html"
   },
@@ -27567,6 +30629,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 2,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-black-dragon-a5e.html"
   },
@@ -27576,6 +30639,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 5,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_black_dragon_bf.html"
   },
@@ -27585,6 +30649,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 2,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-black-dragon.html"
   },
@@ -27594,6 +30659,7 @@ const monsterCombatStats = [
     "hp": 127,
     "init": 5,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_black_dragon_mm_2024.html"
   },
@@ -27603,6 +30669,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-blue-dragon-a5e.html"
   },
@@ -27612,6 +30679,7 @@ const monsterCombatStats = [
     "hp": 175,
     "init": 4,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_blue_dragon_bf.html"
   },
@@ -27621,6 +30689,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-blue-dragon.html"
   },
@@ -27630,6 +30699,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 4,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_blue_dragon_mm_2024.html"
   },
@@ -27639,6 +30709,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": -2,
     "cr": 10.0,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/young-blue-dragon-zombie.html"
   },
@@ -27648,6 +30719,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 0,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/young-boreal-dragon.html"
   },
@@ -27657,6 +30729,7 @@ const monsterCombatStats = [
     "hp": 153,
     "init": 0,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-brass-dragon-a5e.html"
   },
@@ -27666,6 +30739,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 3,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_brass_dragon_bf.html"
   },
@@ -27675,6 +30749,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 0,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-brass-dragon.html"
   },
@@ -27684,6 +30759,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 3,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_brass_dragon_mm_2024.html"
   },
@@ -27693,6 +30769,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-bronze-dragon-a5e.html"
   },
@@ -27702,6 +30779,7 @@ const monsterCombatStats = [
     "hp": 148,
     "init": 3,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_bronze_dragon_bf.html"
   },
@@ -27711,6 +30789,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 0,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-bronze-dragon.html"
   },
@@ -27720,6 +30799,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 3,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_bronze_dragon_mm_2024.html"
   },
@@ -27729,6 +30809,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 1,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/youngcavedragon-tob1-2023.html"
   },
@@ -27738,6 +30819,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 1,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-copper-dragon-a5e.html"
   },
@@ -27747,6 +30829,7 @@ const monsterCombatStats = [
     "hp": 144,
     "init": 4,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_copper_dragon_bf.html"
   },
@@ -27756,6 +30839,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 1,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-copper-dragon.html"
   },
@@ -27765,6 +30849,7 @@ const monsterCombatStats = [
     "hp": 119,
     "init": 4,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_copper_dragon_mm_2024.html"
   },
@@ -27774,6 +30859,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 1,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-earth-dragon-a5e.html"
   },
@@ -27783,6 +30869,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 4,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-emerald-dragon-a5e.html"
   },
@@ -27792,6 +30879,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 2,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/youngflamedragon-tob1-2023.html"
   },
@@ -27801,6 +30889,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 2,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-gold-dragon-a5e.html"
   },
@@ -27810,6 +30899,7 @@ const monsterCombatStats = [
     "hp": 193,
     "init": 6,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_gold_dragon_bf.html"
   },
@@ -27819,6 +30909,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 2,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-gold-dragon.html"
   },
@@ -27828,6 +30919,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 6,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_gold_dragon_mm_2024.html"
   },
@@ -27837,6 +30929,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 1,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-green-dragon-a5e.html"
   },
@@ -27846,6 +30939,7 @@ const monsterCombatStats = [
     "hp": 148,
     "init": 4,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_green_dragon_bf.html"
   },
@@ -27855,6 +30949,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 1,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-green-dragon.html"
   },
@@ -27864,6 +30959,7 @@ const monsterCombatStats = [
     "hp": 136,
     "init": 4,
     "cr": 8.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_green_dragon_mm_2024.html"
   },
@@ -27873,6 +30969,7 @@ const monsterCombatStats = [
     "hp": 210,
     "init": 1,
     "cr": 11.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/young-imperial-dragon.html"
   },
@@ -27882,6 +30979,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 0,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/young-light-dragon.html"
   },
@@ -27891,6 +30989,7 @@ const monsterCombatStats = [
     "hp": 170,
     "init": 4,
     "cr": 7.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/youngmithraldragon-tob1-2023.html"
   },
@@ -27900,6 +30999,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 0,
     "cr": 11.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-red-dragon-a5e.html"
   },
@@ -27909,6 +31009,7 @@ const monsterCombatStats = [
     "hp": 193,
     "init": 4,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_red_dragon_bf.html"
   },
@@ -27918,6 +31019,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 0,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-red-dragon.html"
   },
@@ -27927,6 +31029,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 4,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_red_dragon_mm_2024.html"
   },
@@ -27936,6 +31039,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": -2,
     "cr": 11.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-red-dragon-zombie-a5e.html"
   },
@@ -27945,6 +31049,7 @@ const monsterCombatStats = [
     "hp": 142,
     "init": 3,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-river-dragon-a5e.html"
   },
@@ -27954,6 +31059,7 @@ const monsterCombatStats = [
     "hp": 161,
     "init": 4,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-sapphire-dragon-a5e.html"
   },
@@ -27963,6 +31069,7 @@ const monsterCombatStats = [
     "hp": 190,
     "init": 0,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/youngseadragon-tob1-2023.html"
   },
@@ -27972,6 +31079,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 2,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-shadow-dragon-a5e.html"
   },
@@ -27981,6 +31089,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 2,
     "cr": 10.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-silver-dragon-a5e.html"
   },
@@ -27990,6 +31099,7 @@ const monsterCombatStats = [
     "hp": 175,
     "init": 4,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_silver_dragon_bf.html"
   },
@@ -27999,6 +31109,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 0,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-silver-dragon.html"
   },
@@ -28008,6 +31119,7 @@ const monsterCombatStats = [
     "hp": 168,
     "init": 4,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_silver_dragon_mm_2024.html"
   },
@@ -28017,6 +31129,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 0,
     "cr": 5.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/youngspinosaurus-tob1-2023.html"
   },
@@ -28026,6 +31139,7 @@ const monsterCombatStats = [
     "hp": 157,
     "init": 0,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/youngvoiddragon-tob1-2023.html"
   },
@@ -28035,6 +31149,7 @@ const monsterCombatStats = [
     "hp": 178,
     "init": 0,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/young-wasteland-dragon.html"
   },
@@ -28044,6 +31159,7 @@ const monsterCombatStats = [
     "hp": 152,
     "init": 0,
     "cr": 9.0,
+    "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-white-dragon-a5e.html"
   },
@@ -28053,6 +31169,7 @@ const monsterCombatStats = [
     "hp": 126,
     "init": 3,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/young_white_dragon_bf.html"
   },
@@ -28062,6 +31179,7 @@ const monsterCombatStats = [
     "hp": 133,
     "init": 0,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/young-white-dragon.html"
   },
@@ -28071,6 +31189,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 3,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_white_dragon_mm_2024.html"
   },
@@ -28080,6 +31199,7 @@ const monsterCombatStats = [
     "hp": 123,
     "init": 3,
     "cr": 6.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/youngwinddragon-tob1-2023.html"
   },
@@ -28089,6 +31209,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": 2,
     "cr": 0.5,
+    "type": "Undead",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/yowler.html"
   },
@@ -28098,6 +31219,7 @@ const monsterCombatStats = [
     "hp": 65,
     "init": 3,
     "cr": 2.0,
+    "type": "Fey",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/yumerai.html"
   },
@@ -28107,6 +31229,7 @@ const monsterCombatStats = [
     "hp": 103,
     "init": 3,
     "cr": 7.0,
+    "type": "Construct",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/zalikum.html"
   },
@@ -28116,6 +31239,7 @@ const monsterCombatStats = [
     "hp": 34,
     "init": 0,
     "cr": 1.0,
+    "type": "Beast",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/zanskaranviper-tob1-2023.html"
   },
@@ -28125,6 +31249,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 4,
     "cr": 6.0,
+    "type": "Humanoid",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/zeitgeist.html"
   },
@@ -28134,6 +31259,7 @@ const monsterCombatStats = [
     "hp": 82,
     "init": 2,
     "cr": 4.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/zilaq.html"
   },
@@ -28143,6 +31269,7 @@ const monsterCombatStats = [
     "hp": 110,
     "init": 4,
     "cr": 5.0,
+    "type": "Giant",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/zimwi-tob1-2023.html"
   },
@@ -28152,6 +31279,7 @@ const monsterCombatStats = [
     "hp": 135,
     "init": 1,
     "cr": 8.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/ziphius.html"
   },
@@ -28161,6 +31289,7 @@ const monsterCombatStats = [
     "hp": 189,
     "init": 1,
     "cr": 15.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/zmey-tob1-2023.html"
   },
@@ -28170,6 +31299,7 @@ const monsterCombatStats = [
     "hp": 105,
     "init": 0,
     "cr": 5.0,
+    "type": "Dragon",
     "source": "Tome of Beasts 2023",
     "htmlLink": "./html/tome_of_beasts_2023/zmeyheadling-tob1-2023.html"
   },
@@ -28179,6 +31309,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": -2,
     "cr": 0.25,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/zombie-a5e.html"
   },
@@ -28188,6 +31319,7 @@ const monsterCombatStats = [
     "hp": 16,
     "init": -2,
     "cr": 0.25,
+    "type": "Undead",
     "source": "Black Flag",
     "htmlLink": "./html/black_flag/zombie_bf.html"
   },
@@ -28197,6 +31329,7 @@ const monsterCombatStats = [
     "hp": 22,
     "init": -2,
     "cr": 0.25,
+    "type": "Undead",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/zombie.html"
   },
@@ -28206,6 +31339,7 @@ const monsterCombatStats = [
     "hp": 15,
     "init": -2,
     "cr": 0.25,
+    "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/zombie_mm_2024.html"
   },
@@ -28215,6 +31349,7 @@ const monsterCombatStats = [
     "hp": 75,
     "init": -2,
     "cr": 4.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/zombie-horde-a5e.html"
   },
@@ -28224,6 +31359,7 @@ const monsterCombatStats = [
     "hp": 52,
     "init": -2,
     "cr": 3.0,
+    "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/zombie-knight-a5e.html"
   },
@@ -28233,6 +31369,7 @@ const monsterCombatStats = [
     "hp": 68,
     "init": -1,
     "cr": 3.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/zombie-smokeplume.html"
   },
@@ -28242,6 +31379,7 @@ const monsterCombatStats = [
     "hp": 143,
     "init": 4,
     "cr": 7.0,
+    "type": "Undead",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/zombie-voidclaw.html"
   },
@@ -28251,6 +31389,7 @@ const monsterCombatStats = [
     "hp": 3,
     "init": 3,
     "cr": 0.0,
+    "type": "Aberration",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/zoog.html"
   },
@@ -28260,6 +31399,7 @@ const monsterCombatStats = [
     "hp": 104,
     "init": 0,
     "cr": 8.0,
+    "type": "Celestial",
     "source": "Creature Codex",
     "htmlLink": "./html/creature_codex/zoryas.html"
   },
@@ -28269,6 +31409,7 @@ const monsterCombatStats = [
     "hp": 114,
     "init": 7,
     "cr": 6.0,
+    "type": "Monstrosity",
     "source": "Tome of Beasts 2",
     "htmlLink": "./html/tome_of_beasts_2/zouyu.html"
   }

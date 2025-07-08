@@ -295,6 +295,7 @@ select {
 </style>
 <title>Combat Tracker - 5e Artisanal Database</title>
 <script src="../../css_js/monster_combat_stats.js"></script>
+<script src="../../monsters/custom/custom_monster_index.js"></script>
 </head>
 <body>
 <div><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</div>
@@ -362,8 +363,13 @@ function loadMonstersFromJS() {
             throw new Error('Monster combat stats not loaded. Make sure monster_combat_stats.js is included.');
         }
         
-        allMonsters = monsterCombatStats;
-        monsterSources = [...new Set(monsterCombatStats.map(m => m.source))].sort();
+        // Combine main monsters with custom monsters
+        allMonsters = [...monsterCombatStats];
+        if (typeof customMonsterCombatStats !== 'undefined' && Array.isArray(customMonsterCombatStats)) {
+            allMonsters.push(...customMonsterCombatStats);
+        }
+        
+        monsterSources = [...new Set(allMonsters.map(m => m.source))].sort();
         
         // Populate source selector
         populateSourceSelector();

@@ -32,7 +32,7 @@ Navigate down the folder hierarchy under the root directory to find "md" directo
 
 Copy the whole directory and all subdirectories to the directory you use to host HTML files. There is no server-side code for the 5eADB – it's all HTML with some javascript and markdown files.
 
-### Architecture
+## Architecture
 
 The 5eADB is a set of directories, HTML files, and some Javascript. Each tool or source sits in a directory with an "index.html" file to run that particular tool. The homepage index.html file has links to each of the sources, datasets, tools, and generators.
 
@@ -50,7 +50,11 @@ The 5eADB is a set of directories, HTML files, and some Javascript. Each tool or
 
 **Mobile Friendly**. This entire app has been built to work well on small devices like mobile phones.
 
-### Licensing
+## Adding Your Own Monsters
+
+You can add your own monsters to the monster database. To do so, go to the /monsters/custom/ folder and read the README.md file there. You'll want to be comfortable working in markdown and comfortable editing configuration files with a text editor.
+
+## Licensing
 
 See the "licensing.html" file in the root directory for licensing information. Outside of lunr.js and datatables.js, all javascript code in this application is released under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). You can copy, modify, and distribute the code for these tools, even for commercial purposes, all without asking permission. 
 
