@@ -6,184 +6,15 @@
 
 <title>Monsters</title>
 <link rel="stylesheet" type="text/css" href="../css_js/jquery.dataTables.css">
+<link rel="stylesheet" type="text/css" href="../css_js/filter-datatables.css">
 <script type="text/javascript" charset="utf8" src="../css_js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" charset="utf8" src="../css_js/jquery.dataTables.js"></script>
 <script type="text/javascript" src="../css_js/monster_combat_stats.js"></script>
 <script type="text/javascript" src="./custom/custom_monster_index.js"></script>
-<style>
-body {
-max-width: 800px;
-margin: auto;
-font-size: 18px;
-font-family: sans-serif;
-padding: 10px;
-}
-p, li {
-line-height: 1.5em;
-}
-/* Mobile-friendly font sizes */
-input, button, select, label {
-font-size: 16px !important;
-}
-/* Filter panel styling */
-.filter-panel {
-    background: #f5f5f5;
-    border: 1px solid #ccc;
-    margin: 10px 0;
-    border-radius: 4px;
-}
-
-.filter-header {
-    padding: 10px 15px;
-    cursor: pointer;
-    background: #e8e8e8;
-    border-bottom: 1px solid #ccc;
-    border-radius: 4px 4px 0 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.filter-header:hover {
-    background: #ddd;
-}
-
-.filter-header h3 {
-    margin: 0;
-    font-size: 16px;
-    color: #333;
-}
-
-.filter-toggle {
-    font-size: 14px;
-    color: #666;
-    font-weight: normal;
-}
-
-.filter-content {
-    padding: 15px;
-    display: block;
-}
-
-.filter-content.collapsed {
-    display: none;
-}
-
-.filter-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-bottom: 15px;
-}
-
-.filter-column {
-    flex: 1;
-    min-width: 200px;
-}
-
-.filter-column h4 {
-    margin: 0 0 8px 0;
-    font-size: 14px;
-    font-weight: bold;
-    color: #555;
-}
-
-.filter-options {
-    border: 1px solid #ddd;
-    background: white;
-    padding: 8px;
-    border-radius: 3px;
-}
-
-.filter-options#crFilters,
-.filter-options#sourceFilters {
-    max-height: 200px;
-    overflow-y: auto;
-}
-
-.filter-option {
-    display: flex;
-    align-items: center;
-    margin: 4px 0;
-}
-
-.filter-option input[type="checkbox"] {
-    margin-right: 8px;
-}
-
-.filter-option label {
-    cursor: pointer;
-    font-size: 14px;
-}
-
-.filter-actions {
-    margin-top: 15px;
-    display: flex;
-    gap: 10px;
-    align-items: center;
-}
-
-.filter-actions button {
-    padding: 8px 16px;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
-    font-size: 14px;
-}
-
-.filter-actions button.primary {
-    background: #007cba;
-    color: white;
-}
-
-.filter-actions button.primary:hover {
-    background: #005a87;
-}
-
-.filter-actions button:not(.primary) {
-    background: #f1f1f1;
-    color: #333;
-}
-
-.filter-actions button:not(.primary):hover {
-    background: #e1e1e1;
-}
-
-.filter-summary {
-    font-size: 12px;
-    color: #666;
-    margin-left: auto;
-}
-
-/* DataTables styling */
-.dataTables_wrapper {
-    margin-top: 20px;
-}
-
-.dataTables_length,
-.dataTables_filter {
-    margin-bottom: 10px;
-}
-
-.dataTables_info,
-.dataTables_paginate {
-    margin-top: 10px;
-}
-
-/* Responsive table */
-@media (max-width: 600px) {
-    .filter-row {
-        flex-direction: column;
-    }
-    
-    .filter-column {
-        min-width: 0;
-    }
-}
-</style>
+<script type="text/javascript" src="../css_js/filter-datatables.js"></script>
 </head>
 <body>
-<p><a href="../index.html">5e Artisanal Database</a> > Monsters</p>
+<p><a href="../index.html">5e Artisanal Database</a> → Monsters</p>
 <h1>Monsters</h1>
 
 <div class="filter-panel">
@@ -194,7 +25,7 @@ font-size: 16px !important;
     <div class="filter-content collapsed" id="filterContent">
         <div class="filter-row">
             <div class="filter-column">
-                <h4>Challenge Rating</h4>
+                <h4>CR</h4>
                 <div class="filter-options" id="crFilters">
                     <!-- Populated by JavaScript -->
                 </div>
@@ -258,31 +89,6 @@ $(document).ready(function() {
         return cr.toString();
     }
     
-    // Populate table with monster data
-    const tableData = allMonsters.map(monster => [
-        generateMonsterNameCell(monster),
-        formatCR(monster.cr),
-        monster.type || 'Unknown',
-        monster.source || 'Unknown'
-    ]);
-    
-    // Initialize DataTable
-    const table = $('#monsterTable').DataTable({
-        data: tableData,
-        pageLength: 25,
-        order: [[0, "asc"]],
-        columnDefs: [
-            { type: "num", targets: 1 }
-        ]
-    });
-    
-    // Initialize filter sets
-    const filters = {
-        cr: new Set(),
-        type: new Set(),
-        source: new Set()
-    };
-    
     // Generate monster name cell with links
     function generateMonsterNameCell(monster) {
         const name = monster.name;
@@ -302,176 +108,68 @@ $(document).ready(function() {
         return name;
     }
     
-    // Populate filter options
-    function populateFilters() {
-        const crValues = new Set();
-        const typeValues = new Set();
-        const sourceValues = new Set();
+    // Custom CR sorting function
+    function sortByCR(a, b) {
+        const convertCR = (cr) => {
+            if (cr === "1/8") return 0.125;
+            if (cr === "1/4") return 0.25;
+            if (cr === "1/2") return 0.5;
+            return parseFloat(cr) || 0;
+        };
         
-        // Extract unique values from monster data
-        allMonsters.forEach(monster => {
-            crValues.add(formatCR(monster.cr));
-            typeValues.add(monster.type || 'Unknown');
-            sourceValues.add(monster.source || 'Unknown');
-        });
-        
-        // Populate CR filters
-        const crContainer = $('#crFilters');
-        crContainer.empty();
-        const sortedCRs = Array.from(crValues).sort((a, b) => {
-            // Convert fractions to decimals for sorting
-            const convertCR = (cr) => {
-                if (cr === "1/8") return 0.125;
-                if (cr === "1/4") return 0.25;
-                if (cr === "1/2") return 0.5;
-                return parseFloat(cr) || 0;
-            };
-            
-            const numA = convertCR(a);
-            const numB = convertCR(b);
-            return numA - numB;
-        });
-        
-        sortedCRs.forEach(cr => {
-            const option = $(`
-                <div class="filter-option">
-                    <input type="checkbox" id="cr_${cr.replace('/', '_').replace('.', '_')}" value="${cr}" data-filter="cr">
-                    <label for="cr_${cr.replace('/', '_').replace('.', '_')}">${cr}</label>
-                </div>
-            `);
-            crContainer.append(option);
-        });
-        
-        // Populate Type filters
-        const typeContainer = $('#typeFilters');
-        typeContainer.empty();
-        Array.from(typeValues).sort().forEach(type => {
-            const option = $(`
-                <div class="filter-option">
-                    <input type="checkbox" id="type_${type.replace(/\s+/g, '_')}" value="${type}" data-filter="type">
-                    <label for="type_${type.replace(/\s+/g, '_')}">${type}</label>
-                </div>
-            `);
-            typeContainer.append(option);
-        });
-        
-        // Populate Source filters
-        const sourceContainer = $('#sourceFilters');
-        sourceContainer.empty();
-        Array.from(sourceValues).sort().forEach(source => {
-            const option = $(`
-                <div class="filter-option">
-                    <input type="checkbox" id="source_${source.replace(/\s+/g, '_').replace(/[()]/g, '')}" value="${source}" data-filter="source">
-                    <label for="source_${source.replace(/\s+/g, '_').replace(/[()]/g, '')}">${source}</label>
-                </div>
-            `);
-            sourceContainer.append(option);
-        });
+        const numA = convertCR(a);
+        const numB = convertCR(b);
+        return numA - numB;
     }
     
-    // Initialize filters
-    populateFilters();
-    
-    // Filter change handlers
-    $(document).on('change', '.filter-option input[type="checkbox"]', function() {
-        const filterKey = $(this).data('filter');
-        const value = $(this).val();
-        
-        if ($(this).is(':checked')) {
-            filters[filterKey].add(value);
-        } else {
-            filters[filterKey].delete(value);
-        }
-        
-        updateFilterSummary();
-        table.draw(); // Automatically apply filters
-    });
-    
-    // Apply filters
-    window.applyFilters = function() {
-        table.draw();
-    };
-    
-    // Clear all filters
-    window.clearAllFilters = function() {
-        $('.filter-option input[type="checkbox"]').prop('checked', false);
-        filters.cr.clear();
-        filters.type.clear();
-        filters.source.clear();
-        updateFilterSummary();
-        table.draw();
-    };
-    
-    // Select all filters
-    window.selectAllFilters = function() {
-        $('.filter-option input[type="checkbox"]').prop('checked', true);
-        
-        // Add all values to filter sets
-        $('.filter-option input[type="checkbox"]').each(function() {
-            const filterKey = $(this).data('filter');
-            const value = $(this).val();
-            filters[filterKey].add(value);
-        });
-        
-        updateFilterSummary();
-        table.draw();
-    };
-    
-    // Toggle filter panel
-    window.toggleFilters = function() {
-        const content = $('#filterContent');
-        const toggle = $('#filterToggle');
-        
-        if (content.hasClass('collapsed')) {
-            content.removeClass('collapsed');
-            toggle.text('Hide');
-        } else {
-            content.addClass('collapsed');
-            toggle.text('Show');
-        }
-    };
-    
-    // Update filter summary
-    function updateFilterSummary() {
-        const crCount = filters.cr.size;
-        const typeCount = filters.type.size;
-        const sourceCount = filters.source.size;
-        const totalFilters = crCount + typeCount + sourceCount;
-        
-        if (totalFilters === 0) {
-            $('#filterSummary').text('No filters applied');
-        } else {
-            const parts = [];
-            if (crCount > 0) parts.push(`CR: ${crCount}`);
-            if (typeCount > 0) parts.push(`Type: ${typeCount}`);
-            if (sourceCount > 0) parts.push(`Source: ${sourceCount}`);
-            $('#filterSummary').text(`Active filters - ${parts.join(', ')}`);
-        }
-    }
-    
-    // Custom filter function
-    $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
-        // Get the row data
-        const cr = data[1];
-        const type = data[2];
-        const source = data[3];
-        
-        // Check CR filter
-        if (filters.cr.size > 0 && !filters.cr.has(cr)) {
-            return false;
-        }
-        
-        // Check type filter
-        if (filters.type.size > 0 && !filters.type.has(type)) {
-            return false;
-        }
-        
-        // Check source filter
-        if (filters.source.size > 0 && !filters.source.has(source)) {
-            return false;
-        }
-        
-        return true;
+    new FilterDataTable({
+        tableId: '#monsterTable',
+        dataSource: allMonsters,
+        columns: [
+            { 
+                field: 'name', 
+                render: item => generateMonsterNameCell(item)
+            },
+            { 
+                field: 'cr', 
+                render: item => formatCR(item.cr)
+            },
+            { 
+                field: 'type', 
+                render: item => item.type || 'Unknown'
+            },
+            { 
+                field: 'source', 
+                render: item => item.source || 'Unknown'
+            }
+        ],
+        filters: {
+            cr: {
+                type: 'exact',
+                field: 'cr',
+                columnIndex: 1,
+                label: 'CR',
+                sort: sortByCR,
+                sortByOriginal: true
+            },
+            type: {
+                type: 'exact',
+                field: 'type',
+                columnIndex: 2,
+                label: 'Type'
+            },
+            source: {
+                type: 'exact',
+                field: 'source',
+                columnIndex: 3,
+                label: 'Source'
+            }
+        },
+        pageLength: 25,
+        order: [[0, "asc"]],
+        columnDefs: [
+            { type: "num", targets: 1 }
+        ]
     });
 });
 </script>

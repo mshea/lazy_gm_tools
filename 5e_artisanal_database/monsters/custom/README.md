@@ -12,5 +12,7 @@ To add a custom monster:
 
 - Update the "custom_monster_index.js" file in this directory. Copy one of the existing records and be sure to include all the fields for your new monster. This index is what loads the monster in the main monster index table, the encounter calculator, and the combat tracker. Make sure your record has a "}," at the end. Javascript doesn't like missing commas.
 
+## Warning – Back Up Before You Re-Download
 
+If you redownload the 5eADB, be sure to back up your custom_monster_index.js file or it will overwrite it with the default one from the 5eADB. Your other monster stat blocks won't be deleted but, to be careful, be sure to back up or copy any of your custom monsters and the custom_monster_index somewhere safe before replacing your existing copy of the 5eADB with a new one.
 
