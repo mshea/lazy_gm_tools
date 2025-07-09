@@ -90,10 +90,7 @@ $(document).ready(function() {
                 field: 'name', 
                 render: item => generateNameCell(item, 'htmlLink')
             },
-            { 
-                field: 'level', 
-                render: item => displayLevel(item.level)
-            },
+            { field: 'level' },
             { field: 'classes' },
             { field: 'source' }
         ],
@@ -109,7 +106,7 @@ $(document).ready(function() {
                 columnIndex: 1,
                 label: 'Level',
                 sort: sortByLevel,
-                sortByOriginal: true
+                displayValue: displayLevel
             },
             class: {
                 type: 'classes',

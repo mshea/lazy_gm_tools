@@ -74,13 +74,6 @@ const magicItemsData = [
     "htmlLink": "./html/vault_of_magic/air-seed.html"
   },
   {
-    "name": "Airship",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/airship.html"
-  },
-  {
     "name": "Akaasit Blade",
     "rarity": "rare",
     "type": "Weapon",
@@ -359,13 +352,6 @@ const magicItemsData = [
     "type": "Wondrous Item",
     "source": "Level Up Advanced 5e",
     "htmlLink": "./html/level_up_advanced_5e/anthology-of-enhanced-radiance-a5e.html"
-  },
-  {
-    "name": "Antitoxin",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/antitoxin.html"
   },
   {
     "name": "Apparatus of the Crab",
@@ -926,13 +912,6 @@ const magicItemsData = [
     "type": "Wondrous Item",
     "source": "5.1 SRD (D&D 2014)",
     "htmlLink": "./html/5.1_srd_(d&d_2014)/belt-of-giant-strength.html"
-  },
-  {
-    "name": "Belt of Giant Strength",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/belt-of-giant-strength.html"
   },
   {
     "name": "Belt of the Wilds",
@@ -1913,13 +1892,6 @@ const magicItemsData = [
     "type": "Wondrous Item",
     "source": "Vault of Magic",
     "htmlLink": "./html/vault_of_magic/case-of-preservation.html"
-  },
-  {
-    "name": "Case, Map or Scroll",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/case-map-or-scroll.html"
   },
   {
     "name": "Cataloguing Book",
@@ -3931,13 +3903,6 @@ const magicItemsData = [
     "htmlLink": "./html/5.1_srd_(d&d_2014)/feather-token.html"
   },
   {
-    "name": "Feather Token",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/feather-token.html"
-  },
-  {
     "name": "Fellforged Armor",
     "rarity": "very rare",
     "type": "Armor",
@@ -3999,13 +3964,6 @@ const magicItemsData = [
     "type": "Wondrous Item",
     "source": "5.1 SRD (D&D 2014)",
     "htmlLink": "./html/5.1_srd_(d&d_2014)/figurine-of-wondrous-power.html"
-  },
-  {
-    "name": "Figurine of Wondrous Power",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/figurine-of-wondrous-power.html"
   },
   {
     "name": "Finder Gremlin",
@@ -5539,13 +5497,6 @@ const magicItemsData = [
     "type": "Wondrous Item",
     "source": "5.1 SRD (D&D 2014)",
     "htmlLink": "./html/5.1_srd_(d&d_2014)/ioun-stone.html"
-  },
-  {
-    "name": "Ioun Stone",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/ioun-stone.html"
   },
   {
     "name": "Iron Bands",
@@ -7732,13 +7683,6 @@ const magicItemsData = [
     "htmlLink": "./html/5.1_srd_(d&d_2014)/potion-of-giant-strength.html"
   },
   {
-    "name": "Potion of Giant Strength",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-giant-strength.html"
-  },
-  {
     "name": "Potion of Growth",
     "rarity": "uncommon",
     "type": "Potion",
@@ -7772,13 +7716,6 @@ const magicItemsData = [
     "type": "Potion",
     "source": "5.1 SRD (D&D 2014)",
     "htmlLink": "./html/5.1_srd_(d&d_2014)/potion-of-healing.html"
-  },
-  {
-    "name": "Potion of Healing",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-healing.html"
   },
   {
     "name": "Potion of Heroism",
@@ -7961,13 +7898,6 @@ const magicItemsData = [
     "type": "Potion",
     "source": "Vault of Magic",
     "htmlLink": "./html/vault_of_magic/potion-of-worg-form.html"
-  },
-  {
-    "name": "Potions of Healing",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/potions-of-healing.html"
   },
   {
     "name": "Pouch of Emergency Healing",
@@ -10285,13 +10215,6 @@ const magicItemsData = [
     "type": "Scroll",
     "source": "5.1 SRD (D&D 2014)",
     "htmlLink": "./html/5.1_srd_(d&d_2014)/spell-scroll.html"
-  },
-  {
-    "name": "Spell Scroll",
-    "rarity": "varies",
-    "type": "Wondrous Item",
-    "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/spell-scroll.html"
   },
   {
     "name": "Spellcasting Symphony",

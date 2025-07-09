@@ -14,7 +14,7 @@
 <script type="text/javascript" src="../css_js/filter-datatables.js"></script>
 </head>
 <body>
-<p><a href="../index.html">5e Artisanal Database</a> → Monsters</p>
+<div><a href="../index.html">5e Artisanal Database</a> → Monsters</div>
 <h1>Monsters</h1>
 
 <div class="filter-panel">
@@ -108,7 +108,7 @@ $(document).ready(function() {
         return name;
     }
     
-    // Custom CR sorting function
+    // Custom CR sort function
     function sortByCR(a, b) {
         const convertCR = (cr) => {
             if (cr === "1/8") return 0.125;
@@ -128,29 +128,23 @@ $(document).ready(function() {
         columns: [
             { 
                 field: 'name', 
-                render: item => generateMonsterNameCell(item)
+                render: monster => generateMonsterNameCell(monster)
             },
             { 
                 field: 'cr', 
-                render: item => formatCR(item.cr)
+                render: monster => formatCR(monster.cr)
             },
-            { 
-                field: 'type', 
-                render: item => item.type || 'Unknown'
-            },
-            { 
-                field: 'source', 
-                render: item => item.source || 'Unknown'
-            }
+            { field: 'type' },
+            { field: 'source' }
         ],
         filters: {
             cr: {
-                type: 'exact',
+                type: 'string',
                 field: 'cr',
                 columnIndex: 1,
                 label: 'CR',
                 sort: sortByCR,
-                sortByOriginal: true
+                render: cr => formatCR(cr)
             },
             type: {
                 type: 'exact',
@@ -164,12 +158,7 @@ $(document).ready(function() {
                 columnIndex: 3,
                 label: 'Source'
             }
-        },
-        pageLength: 25,
-        order: [[0, "asc"]],
-        columnDefs: [
-            { type: "num", targets: 1 }
-        ]
+        }
     });
 });
 </script>
