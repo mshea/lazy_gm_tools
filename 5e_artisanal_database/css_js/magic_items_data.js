@@ -914,6 +914,13 @@ const magicItemsData = [
     "htmlLink": "./html/5.1_srd_(d&d_2014)/belt-of-giant-strength.html"
   },
   {
+    "name": "Belt of Giant Strength",
+    "rarity": "varies",
+    "type": "Wondrous Item",
+    "source": "5.2 SRD (D&D 2024)",
+    "htmlLink": "./html/5.2_srd_(d&d_2024)/belt-of-giant-strength.html"
+  },
+  {
     "name": "Belt of the Wilds",
     "rarity": "uncommon",
     "type": "Wondrous Item",
@@ -3903,6 +3910,13 @@ const magicItemsData = [
     "htmlLink": "./html/5.1_srd_(d&d_2014)/feather-token.html"
   },
   {
+    "name": "Feather Token",
+    "rarity": "varies",
+    "type": "Wondrous Item",
+    "source": "5.2 SRD (D&D 2024)",
+    "htmlLink": "./html/5.2_srd_(d&d_2024)/feather-token.html"
+  },
+  {
     "name": "Fellforged Armor",
     "rarity": "very rare",
     "type": "Armor",
@@ -3964,6 +3978,13 @@ const magicItemsData = [
     "type": "Wondrous Item",
     "source": "5.1 SRD (D&D 2014)",
     "htmlLink": "./html/5.1_srd_(d&d_2014)/figurine-of-wondrous-power.html"
+  },
+  {
+    "name": "Figurine of Wondrous Power",
+    "rarity": "varies",
+    "type": "Wondrous Item",
+    "source": "5.2 SRD (D&D 2024)",
+    "htmlLink": "./html/5.2_srd_(d&d_2024)/figurine-of-wondrous-power.html"
   },
   {
     "name": "Finder Gremlin",
@@ -5396,7 +5417,7 @@ const magicItemsData = [
   {
     "name": "Immovable Rod",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Rod",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/immovable-rod.html"
   },
@@ -5497,6 +5518,13 @@ const magicItemsData = [
     "type": "Wondrous Item",
     "source": "5.1 SRD (D&D 2014)",
     "htmlLink": "./html/5.1_srd_(d&d_2014)/ioun-stone.html"
+  },
+  {
+    "name": "Ioun Stone",
+    "rarity": "varies",
+    "type": "Wondrous Item",
+    "source": "5.2 SRD (D&D 2024)",
+    "htmlLink": "./html/5.2_srd_(d&d_2024)/ioun-stone.html"
   },
   {
     "name": "Iron Bands",
@@ -6908,7 +6936,7 @@ const magicItemsData = [
   {
     "name": "Oil of Etherealness",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/oil-of-etherealness.html"
   },
@@ -6950,7 +6978,7 @@ const magicItemsData = [
   {
     "name": "Oil of Sharpness",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/oil-of-sharpness.html"
   },
@@ -6971,7 +6999,7 @@ const magicItemsData = [
   {
     "name": "Oil of Slipperiness",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/oil-of-slipperiness.html"
   },
@@ -7279,7 +7307,7 @@ const magicItemsData = [
   {
     "name": "Philter of Love",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/philter-of-love.html"
   },
@@ -7503,7 +7531,7 @@ const magicItemsData = [
   {
     "name": "Potion of Animal Friendship",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-animal-friendship.html"
   },
@@ -7545,7 +7573,7 @@ const magicItemsData = [
   {
     "name": "Potion of Clairvoyance",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-clairvoyance.html"
   },
@@ -7566,7 +7594,7 @@ const magicItemsData = [
   {
     "name": "Potion of Climbing",
     "rarity": "common",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-climbing.html"
   },
@@ -7587,7 +7615,7 @@ const magicItemsData = [
   {
     "name": "Potion of Diminution",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-diminution.html"
   },
@@ -7636,7 +7664,7 @@ const magicItemsData = [
   {
     "name": "Potion of Flying",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-flying.html"
   },
@@ -7664,7 +7692,7 @@ const magicItemsData = [
   {
     "name": "Potion of Gaseous Form",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-gaseous-form.html"
   },
@@ -7683,6 +7711,13 @@ const magicItemsData = [
     "htmlLink": "./html/5.1_srd_(d&d_2014)/potion-of-giant-strength.html"
   },
   {
+    "name": "Potion of Giant Strength",
+    "rarity": "varies",
+    "type": "Potion",
+    "source": "5.2 SRD (D&D 2024)",
+    "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-giant-strength.html"
+  },
+  {
     "name": "Potion of Growth",
     "rarity": "uncommon",
     "type": "Potion",
@@ -7699,7 +7734,7 @@ const magicItemsData = [
   {
     "name": "Potion of Growth",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-growth.html"
   },
@@ -7734,7 +7769,7 @@ const magicItemsData = [
   {
     "name": "Potion of Heroism",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-heroism.html"
   },
@@ -7755,7 +7790,7 @@ const magicItemsData = [
   {
     "name": "Potion of Invisibility",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-invisibility.html"
   },
@@ -7783,7 +7818,7 @@ const magicItemsData = [
   {
     "name": "Potion of Mind Reading",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-mind-reading.html"
   },
@@ -7804,7 +7839,7 @@ const magicItemsData = [
   {
     "name": "Potion of Poison",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-poison.html"
   },
@@ -7825,7 +7860,7 @@ const magicItemsData = [
   {
     "name": "Potion of Resistance",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-resistance.html"
   },
@@ -7860,7 +7895,7 @@ const magicItemsData = [
   {
     "name": "Potion of Speed",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-speed.html"
   },
@@ -7888,7 +7923,7 @@ const magicItemsData = [
   {
     "name": "Potion of Water Breathing",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Potion",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/potion-of-water-breathing.html"
   },
@@ -7898,6 +7933,13 @@ const magicItemsData = [
     "type": "Potion",
     "source": "Vault of Magic",
     "htmlLink": "./html/vault_of_magic/potion-of-worg-form.html"
+  },
+  {
+    "name": "Potions of Healing",
+    "rarity": "varies",
+    "type": "Potion",
+    "source": "5.2 SRD (D&D 2024)",
+    "htmlLink": "./html/5.2_srd_(d&d_2024)/potions-of-healing.html"
   },
   {
     "name": "Pouch of Emergency Healing",
@@ -8161,7 +8203,7 @@ const magicItemsData = [
   {
     "name": "Ring of Animal Influence",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-animal-influence.html"
   },
@@ -8210,7 +8252,7 @@ const magicItemsData = [
   {
     "name": "Ring of Djinni Summoning",
     "rarity": "legendary",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-djinni-summoning.html"
   },
@@ -8238,7 +8280,7 @@ const magicItemsData = [
   {
     "name": "Ring of Elemental Command",
     "rarity": "legendary",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-elemental-command.html"
   },
@@ -8259,7 +8301,7 @@ const magicItemsData = [
   {
     "name": "Ring of Evasion",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-evasion.html"
   },
@@ -8280,7 +8322,7 @@ const magicItemsData = [
   {
     "name": "Ring of Feather Falling",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-feather-falling.html"
   },
@@ -8308,7 +8350,7 @@ const magicItemsData = [
   {
     "name": "Ring of Free Action",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-free-action.html"
   },
@@ -8357,7 +8399,7 @@ const magicItemsData = [
   {
     "name": "Ring of Invisibility",
     "rarity": "legendary",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-invisibility.html"
   },
@@ -8378,7 +8420,7 @@ const magicItemsData = [
   {
     "name": "Ring of Jumping",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-jumping.html"
   },
@@ -8406,7 +8448,7 @@ const magicItemsData = [
   {
     "name": "Ring of Mind Shielding",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-mind-shielding.html"
   },
@@ -8441,7 +8483,7 @@ const magicItemsData = [
   {
     "name": "Ring of Protection",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-protection.html"
   },
@@ -8462,7 +8504,7 @@ const magicItemsData = [
   {
     "name": "Ring of Regeneration",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-regeneration.html"
   },
@@ -8490,7 +8532,7 @@ const magicItemsData = [
   {
     "name": "Ring of Resistance",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-resistance.html"
   },
@@ -8525,7 +8567,7 @@ const magicItemsData = [
   {
     "name": "Ring of Shooting Stars",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-shooting-stars.html"
   },
@@ -8560,7 +8602,7 @@ const magicItemsData = [
   {
     "name": "Ring of Spell Storing",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-spell-storing.html"
   },
@@ -8581,7 +8623,7 @@ const magicItemsData = [
   {
     "name": "Ring of Spell Turning",
     "rarity": "legendary",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-spell-turning.html"
   },
@@ -8609,7 +8651,7 @@ const magicItemsData = [
   {
     "name": "Ring of Swimming",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-swimming.html"
   },
@@ -8644,7 +8686,7 @@ const magicItemsData = [
   {
     "name": "Ring of Three Wishes",
     "rarity": "legendary",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-three-wishes.html"
   },
@@ -8672,7 +8714,7 @@ const magicItemsData = [
   {
     "name": "Ring of Warmth",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-warmth.html"
   },
@@ -8693,7 +8735,7 @@ const magicItemsData = [
   {
     "name": "Ring of Water Walking",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-water-walking.html"
   },
@@ -8714,7 +8756,7 @@ const magicItemsData = [
   {
     "name": "Ring of X-ray Vision",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-x-ray-vision.html"
   },
@@ -8770,7 +8812,7 @@ const magicItemsData = [
   {
     "name": "Ring of the Ram",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Ring",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/ring-of-the-ram.html"
   },
@@ -8924,7 +8966,7 @@ const magicItemsData = [
   {
     "name": "Rod of Absorption",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Rod",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/rod-of-absorption.html"
   },
@@ -8945,7 +8987,7 @@ const magicItemsData = [
   {
     "name": "Rod of Alertness",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Rod",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/rod-of-alertness.html"
   },
@@ -9022,7 +9064,7 @@ const magicItemsData = [
   {
     "name": "Rod of Lordly Might",
     "rarity": "legendary",
-    "type": "Wondrous Item",
+    "type": "Rod",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/rod-of-lordly-might.html"
   },
@@ -9057,7 +9099,7 @@ const magicItemsData = [
   {
     "name": "Rod of Rulership",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Rod",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/rod-of-rulership.html"
   },
@@ -9092,7 +9134,7 @@ const magicItemsData = [
   {
     "name": "Rod of Security",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Rod",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/rod-of-security.html"
   },
@@ -10373,7 +10415,7 @@ const magicItemsData = [
   {
     "name": "Staff of Charming",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-charming.html"
   },
@@ -10422,7 +10464,7 @@ const magicItemsData = [
   {
     "name": "Staff of Fire",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-fire.html"
   },
@@ -10443,7 +10485,7 @@ const magicItemsData = [
   {
     "name": "Staff of Frost",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-frost.html"
   },
@@ -10478,7 +10520,7 @@ const magicItemsData = [
   {
     "name": "Staff of Healing",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-healing.html"
   },
@@ -10541,7 +10583,7 @@ const magicItemsData = [
   {
     "name": "Staff of Power",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-power.html"
   },
@@ -10583,7 +10625,7 @@ const magicItemsData = [
   {
     "name": "Staff of Striking",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-striking.html"
   },
@@ -10604,7 +10646,7 @@ const magicItemsData = [
   {
     "name": "Staff of Swarming Insects",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-swarming-insects.html"
   },
@@ -10632,7 +10674,7 @@ const magicItemsData = [
   {
     "name": "Staff of Thunder and Lightning",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-thunder-and-lightning.html"
   },
@@ -10667,7 +10709,7 @@ const magicItemsData = [
   {
     "name": "Staff of Withering",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-withering.html"
   },
@@ -10723,7 +10765,7 @@ const magicItemsData = [
   {
     "name": "Staff of the Magi",
     "rarity": "legendary",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-the-magi.html"
   },
@@ -10751,7 +10793,7 @@ const magicItemsData = [
   {
     "name": "Staff of the Python",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-the-python.html"
   },
@@ -10807,7 +10849,7 @@ const magicItemsData = [
   {
     "name": "Staff of the Woodlands",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Staff",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/staff-of-the-woodlands.html"
   },
@@ -11927,7 +11969,7 @@ const magicItemsData = [
   {
     "name": "Wand of Binding",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-binding.html"
   },
@@ -11990,7 +12032,7 @@ const magicItemsData = [
   {
     "name": "Wand of Enemy Detection",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-enemy-detection.html"
   },
@@ -12046,7 +12088,7 @@ const magicItemsData = [
   {
     "name": "Wand of Fireballs",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-fireballs.html"
   },
@@ -12102,7 +12144,7 @@ const magicItemsData = [
   {
     "name": "Wand of Lightning Bolts",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-lightning-bolts.html"
   },
@@ -12123,7 +12165,7 @@ const magicItemsData = [
   {
     "name": "Wand of Magic Detection",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-magic-detection.html"
   },
@@ -12144,7 +12186,7 @@ const magicItemsData = [
   {
     "name": "Wand of Magic Missiles",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-magic-missiles.html"
   },
@@ -12165,7 +12207,7 @@ const magicItemsData = [
   {
     "name": "Wand of Paralysis",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-paralysis.html"
   },
@@ -12193,7 +12235,7 @@ const magicItemsData = [
   {
     "name": "Wand of Polymorph",
     "rarity": "very rare",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-polymorph.html"
   },
@@ -12235,7 +12277,7 @@ const magicItemsData = [
   {
     "name": "Wand of Secrets",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-secrets.html"
   },
@@ -12277,7 +12319,7 @@ const magicItemsData = [
   {
     "name": "Wand of Web",
     "rarity": "uncommon",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-web.html"
   },
@@ -12305,7 +12347,7 @@ const magicItemsData = [
   {
     "name": "Wand of Wonder",
     "rarity": "rare",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-wonder.html"
   },
@@ -12354,7 +12396,7 @@ const magicItemsData = [
   {
     "name": "Wand of the War Mage, +1, +2, or +3",
     "rarity": "varies",
-    "type": "Wondrous Item",
+    "type": "Wand",
     "source": "5.2 SRD (D&D 2024)",
     "htmlLink": "./html/5.2_srd_(d&d_2024)/wand-of-the-war-mage-1-2-or-3.html"
   },

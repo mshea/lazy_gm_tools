@@ -1,7 +1,7 @@
 # Wand of Enemy Detection
 
 - **Rarity:** Rare
-- **Type:** Wondrous Item
+- **Type:** Wand
 - **Attunement:** Yes
 - **Source:** 5.2 SRD (D&D 2024)
 

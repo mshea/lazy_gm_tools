@@ -1,7 +1,7 @@
 # Wand of the War Mage, +1, +2, or +3
 
 - **Rarity:** Varies
-- **Type:** Wondrous Item
+- **Type:** Wand
 - **Attunement:** Yes
 - **Source:** 5.2 SRD (D&D 2024)
 

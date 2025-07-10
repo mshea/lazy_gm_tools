@@ -1,7 +1,7 @@
 # Potions of Healing
 
 - **Rarity:** Varies
-- **Type:** Wondrous Item
+- **Type:** Potion
 - **Attunement:** No
 - **Source:** 5.2 SRD (D&D 2024)
 

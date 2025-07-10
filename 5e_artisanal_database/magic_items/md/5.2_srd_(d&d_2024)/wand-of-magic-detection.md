@@ -1,7 +1,7 @@
 # Wand of Magic Detection
 
 - **Rarity:** Uncommon
-- **Type:** Wondrous Item
+- **Type:** Wand
 - **Attunement:** No
 - **Source:** 5.2 SRD (D&D 2024)
 

@@ -1,7 +1,7 @@
 # Staff of the Python
 
 - **Rarity:** Uncommon
-- **Type:** Wondrous Item
+- **Type:** Staff
 - **Attunement:** Yes
 - **Source:** 5.2 SRD (D&D 2024)
 

@@ -1,7 +1,7 @@
 # Rod of Rulership
 
 - **Rarity:** Rare
-- **Type:** Wondrous Item
+- **Type:** Rod
 - **Attunement:** Yes
 - **Source:** 5.2 SRD (D&D 2024)
 

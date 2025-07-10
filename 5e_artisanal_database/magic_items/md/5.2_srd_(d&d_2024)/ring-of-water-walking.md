@@ -1,7 +1,7 @@
 # Ring of Water Walking
 
 - **Rarity:** Uncommon
-- **Type:** Wondrous Item
+- **Type:** Ring
 - **Attunement:** No
 - **Source:** 5.2 SRD (D&D 2024)
 

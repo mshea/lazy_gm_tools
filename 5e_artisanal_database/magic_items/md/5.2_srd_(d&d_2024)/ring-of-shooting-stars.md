@@ -1,7 +1,7 @@
 # Ring of Shooting Stars
 
 - **Rarity:** Very Rare
-- **Type:** Wondrous Item
+- **Type:** Ring
 - **Attunement:** Yes
 - **Source:** 5.2 SRD (D&D 2024)
 

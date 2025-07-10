@@ -1,7 +1,7 @@
 # Spell Scroll
 
 - **Rarity:** Varies
-- **Type:** Wondrous Item
+- **Type:** Scroll
 - **Attunement:** No
 - **Source:** 5.2 SRD (D&D 2024)
 
