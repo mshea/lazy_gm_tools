@@ -72,12 +72,12 @@ $(document).ready(function() {
     let allMonsters = [];
     
     // Load main monster data
-    if (typeof monsterCombatStats !== 'undefined') {
+    if (typeof monsterCombatStats \!== 'undefined') {
         allMonsters = [...monsterCombatStats];
     }
     
     // Load custom monster data
-    if (typeof customMonsterCombatStats !== 'undefined') {
+    if (typeof customMonsterCombatStats \!== 'undefined') {
         allMonsters = allMonsters.concat(customMonsterCombatStats);
     }
     
