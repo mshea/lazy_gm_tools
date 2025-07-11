@@ -4,10 +4,10 @@
 
 const customMagicItemsData = [
   {
-    "name": "Ring of Minor Teleportation",
-    "rarity": "uncommon",
-    "type": "Ring",
+    "name": "Black Flame Blade",
+    "rarity": "Legendary",
+    "type": "Weapon",
     "source": "Custom Items",
-    "htmlLink": "./custom/index.html?file=ring-of-minor-teleportation.js"
+    "htmlLink": "./custom/index.html?file=black-flame-blade.js"
   },
 ];

@@ -4,10 +4,10 @@
 
 const customSpellsData = [
   {
-    "name": "Arcane Feedback",
-    "level": 2,
+    "name": "Death Sphere",
+    "level": 3,
     "classes": "Sorcerer, Wizard",
     "source": "Custom Spells",
-    "htmlLink": "./custom/index.html?file=arcane-feedback.js"
+    "htmlLink": "./custom/index.html?file=death-sphere.js"
   },
 ];
