@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="user-scalable=yes, width=device-width">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<title>Custom Magic Items</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → <a href="../index.html">Magic Items</a> → Custom Magic Items</div>
+
+<div id="item-list">
+  <h1>Available Magic Items</h1>
+  <ul id="item-links"></ul>
+</div>
+
+<div id="item-content" style="display: none;">
+  <div id="item-display"></div>
+  <p>
+    <span id="markdown-link-container"></span>
+  </p>
+</div>
+
+<script>
+// Get available magic items from custom magic items index
+function getAvailableItems() {
+  if (typeof customMagicItemsData !== 'undefined') {
+    return customMagicItemsData.map(item => ({
+      name: item.name,
+      file: item.htmlLink.split('?file=')[1] // Extract filename from htmlLink
+    })).sort((a, b) => a.name.localeCompare(b.name));
+  }
+  return [];
+}
+
+// Function to get URL parameters
+function getURLParameter(name) {
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get(name);
+}
+
+// Function to load JavaScript file containing markdown content
+function loadMarkdownFile(filePath) {
+  // Convert .md extension to .js if needed
+  if (filePath.endsWith('.md')) {
+    filePath = filePath.replace('.md', '.js');
+  }
+  
+  // Extract filename without extension for variable name
+  const fileName = filePath.replace('.js', '');
+  
+  // Load the JavaScript file containing markdown
+  loadJavaScriptFile(filePath, fileName);
+}
+
+// Function to load JavaScript file containing markdown content
+function loadJavaScriptFile(filePath, fileName) {
+  const script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = filePath;
+  
+  script.onload = function() {
+    // Give the script a moment to execute
+    setTimeout(() => {
+      // All magic item files now use the same variable name
+      const markdownContent = window.magicItemMarkdown;
+      if (markdownContent) {
+        const showRaw = getURLParameter('raw');
+        const currentFile = getURLParameter('file');
+        
+        if (showRaw) {
+          // Show raw markdown content
+          document.getElementById('item-display').innerHTML = `<pre><code>${markdownContent}</code></pre>`;
+          // Add link to HTML version
+          document.getElementById('markdown-link-container').innerHTML = `<a href="?file=${currentFile}">HTML</a>`;
+        } else {
+          // Show HTML version
+          const html = parseMarkdownToHTML(markdownContent);
+          document.getElementById('item-display').innerHTML = html;
+          // Add link to markdown version
+          document.getElementById('markdown-link-container').innerHTML = `<a href="?file=${currentFile}&raw=true">Markdown</a>`;
+        }
+        
+        // Extract item name from markdown and set as page title
+        const nameMatch = markdownContent.match(/^# (.+)$/m);
+        if (nameMatch) {
+          const itemName = nameMatch[1];
+          document.title = itemName;
+          // Update breadcrumb
+          document.querySelector('body > div').innerHTML = `<a href="../../index.html">5e Artisanal Database</a> → <a href="../index.html">Magic Items</a> → <a href="index.html">Custom Magic Items</a> → ${itemName}`;
+        }
+        
+        document.getElementById('item-list').style.display = 'none';
+        document.getElementById('item-content').style.display = 'block';
+      } else {
+        showError(`Markdown content not found in JavaScript file: ${filePath}\n\nExpected variable name: magicItemMarkdown\n\nAvailable variables: ${Object.keys(window).filter(key => key.includes('Markdown')).join(', ')}`);
+      }
+    }, 50);
+  };
+  
+  script.onerror = function() {
+    showError(`Cannot load JavaScript file: ${filePath}\n\nMake sure the file exists in the custom magic items directory.`);
+  };
+  
+  document.head.appendChild(script);
+}
+
+function showError(message) {
+  document.getElementById('item-display').innerHTML = `
+    <h1>Loading Error</h1>
+    <pre style="white-space: pre-wrap; font-family: monospace; background: #f5f5f5; padding: 10px; border-radius: 4px;">${message}</pre>
+  `;
+  document.getElementById('item-list').style.display = 'none';
+  document.getElementById('item-content').style.display = 'block';
+}
+
+function showItemList() {
+  // Reset page title and breadcrumb
+  document.title = 'Custom Magic Items';
+  document.querySelector('body > div').innerHTML = `<a href="../../index.html">5e Artisanal Database</a> → <a href="../index.html">Magic Items</a> → Custom Magic Items`;
+  
+  // Populate the item list from registry
+  const listElement = document.getElementById('item-links');
+  listElement.innerHTML = '';
+  
+  const availableItems = getAvailableItems();
+  availableItems.forEach(item => {
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.href = `?file=${item.file}`;
+    a.textContent = item.name;
+    li.appendChild(a);
+    listElement.appendChild(li);
+  });
+  
+  document.getElementById('item-list').style.display = 'block';
+  document.getElementById('item-content').style.display = 'none';
+}
+
+// Function to parse markdown content and convert to HTML
+function parseMarkdownToHTML(markdown) {
+  // First, split by double line breaks to get paragraphs
+  const paragraphs = markdown.split('\n\n');
+  let result = [];
+  
+  for (let paragraph of paragraphs) {
+    if (paragraph.trim() === '') continue;
+    
+    // Split paragraph into lines
+    const lines = paragraph.split('\n');
+    let paragraphResult = [];
+    let inTable = false;
+    let inList = false;
+    let listItems = [];
+    
+    for (let line of lines) {
+      // Handle tables
+      if (line.startsWith('|') && line.includes('|')) {
+        if (!inTable) {
+          // Start of table
+          paragraphResult.push('<table>');
+          paragraphResult.push('<thead>');
+          const headers = line.split('|').map(h => h.trim()).filter(h => h);
+          paragraphResult.push('<tr>' + headers.map(h => `<th>${h}</th>`).join('') + '</tr>');
+          paragraphResult.push('</thead>');
+          paragraphResult.push('<tbody>');
+          inTable = true;
+        } else if (line.includes('---')) {
+          // Skip separator line
+          continue;
+        } else {
+          // Table data row
+          const cells = line.split('|').map(c => c.trim()).filter(c => c);
+          paragraphResult.push('<tr>' + cells.map(c => `<td>${c}</td>`).join('') + '</tr>');
+        }
+        continue;
+      }
+      
+      // End table if we're in one and hit a non-table line
+      if (inTable && !line.startsWith('|')) {
+        paragraphResult.push('</tbody>');
+        paragraphResult.push('</table>');
+        inTable = false;
+      }
+      
+      // Headers
+      if (line.startsWith('# ')) {
+        paragraphResult.push('<h1>' + line.substring(2) + '</h1>');
+        continue;
+      }
+      
+      if (line.startsWith('## ')) {
+        paragraphResult.push('<h3>' + line.substring(3) + '</h3>');
+        continue;
+      }
+      
+      // Horizontal rules
+      if (line.trim() === '---') {
+        paragraphResult.push('<hr>');
+        continue;
+      }
+      
+      // Item type line (italic at start and end of line)
+      if (line.match(/^\*([^*]+)\*$/)) {
+        paragraphResult.push('<p><em>' + line.substring(1, line.length - 1) + '</em></p>');
+        continue;
+      }
+      
+      // Handle unordered list items (lines starting with -)
+      if (line.startsWith('- ')) {
+        if (!inList) {
+          inList = true;
+        }
+        let listItem = processInlineMarkdown(line.substring(2));
+        listItems.push('<li>' + listItem + '</li>');
+        continue;
+      }
+      
+      // End list if we're in one and hit a non-list line
+      if (inList && !line.startsWith('- ')) {
+        paragraphResult.push('<ul>' + listItems.join('') + '</ul>');
+        listItems = [];
+        inList = false;
+      }
+      
+      // Process inline formatting
+      line = processInlineMarkdown(line);
+      
+      // Add regular text line
+      if (line.trim() !== '') {
+        paragraphResult.push(line);
+      }
+    }
+    
+    // Close table if still open
+    if (inTable) {
+      paragraphResult.push('</tbody>');
+      paragraphResult.push('</table>');
+    }
+    
+    // Close list if still open
+    if (inList) {
+      paragraphResult.push('<ul>' + listItems.join('') + '</ul>');
+    }
+    
+    // Wrap non-HTML content in paragraphs
+    if (paragraphResult.length > 0) {
+      const joinedContent = paragraphResult.join(' ');
+      // Don't wrap if it's already HTML
+      if (joinedContent.startsWith('<') && (joinedContent.includes('<h1>') || joinedContent.includes('<h3>') || joinedContent.includes('<hr>') || joinedContent.includes('<table>') || joinedContent.includes('<ul>') || joinedContent.includes('<p>'))) {
+        result.push(joinedContent);
+      } else {
+        result.push('<p>' + joinedContent + '</p>');
+      }
+    }
+  }
+  
+  return result.join('\n');
+}
+
+// Helper function to process inline markdown formatting
+function processInlineMarkdown(text) {
+  // Property names (***name.***)
+  text = text.replace(/\*\*\*([^*]+)\.\*\*\*/g, '<strong>$1.</strong>');
+  
+  // Bold text (**text**)
+  text = text.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  
+  // Italic text (*text*)
+  text = text.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+  
+  return text;
+}
+
+// Check for URL parameter on page load
+window.addEventListener('DOMContentLoaded', function() {
+  const fileParam = getURLParameter('file');
+  if (fileParam) {
+    // Load the specified file
+    loadMarkdownFile(fileParam);
+  } else {
+    // Load default item list view
+    showItemList();
+  }
+});
+</script>
+
+<!-- Load custom magic items index -->
+<script src="custom_magic_items_index.js"></script>
+
+</body>
+</html>

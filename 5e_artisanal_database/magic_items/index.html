@@ -11,6 +11,7 @@
 <script type="text/javascript" charset="utf8" src="../css_js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" charset="utf8" src="../css_js/jquery.dataTables.js"></script>
 <script type="text/javascript" src="../css_js/magic_items_data.js"></script>
+<script type="text/javascript" src="./custom/custom_magic_items_index.js"></script>
 <script type="text/javascript" src="../css_js/filter-datatables.js"></script>
 </head>
 <body>
@@ -68,9 +69,22 @@
 
 <script>
 $(document).ready(function() {
+    // Combine magic items data from main database and custom items
+    let allItems = [];
+    
+    // Load main magic items data
+    if (typeof magicItemsData !== 'undefined') {
+        allItems = [...magicItemsData];
+    }
+    
+    // Load custom magic items data
+    if (typeof customMagicItemsData !== 'undefined') {
+        allItems = allItems.concat(customMagicItemsData);
+    }
+    
     new FilterDataTable({
         tableId: '#itemsTable',
-        dataSource: magicItemsData,
+        dataSource: allItems,
         columns: [
             { 
                 field: 'name', 

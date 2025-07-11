@@ -11,6 +11,7 @@
 <script type="text/javascript" charset="utf8" src="../css_js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" charset="utf8" src="../css_js/jquery.dataTables.js"></script>
 <script type="text/javascript" src="../css_js/spells_data.js"></script>
+<script type="text/javascript" src="./custom/custom_spells_index.js"></script>
 <script type="text/javascript" src="../css_js/filter-datatables.js"></script>
 </head>
 <body>
@@ -83,9 +84,22 @@
 
 <script>
 $(document).ready(function() {
+    // Combine spells data from main database and custom spells
+    let allSpells = [];
+    
+    // Load main spells data
+    if (typeof spellsData !== 'undefined') {
+        allSpells = [...spellsData];
+    }
+    
+    // Load custom spells data
+    if (typeof customSpellsData !== 'undefined') {
+        allSpells = allSpells.concat(customSpellsData);
+    }
+    
     new FilterDataTable({
         tableId: '#spellsTable',
-        dataSource: spellsData,
+        dataSource: allSpells,
         columns: [
             { 
                 field: 'name', 
