@@ -81,14 +81,6 @@ $(document).ready(function() {
         allMonsters = allMonsters.concat(customMonsterCombatStats);
     }
     
-    // Convert decimal CR to fraction for display
-    function formatCR(cr) {
-        if (cr === 0.125) return "1/8";
-        if (cr === 0.25) return "1/4";
-        if (cr === 0.5) return "1/2";
-        return cr.toString();
-    }
-    
     // Generate monster name cell with links
     function generateMonsterNameCell(monster) {
         const name = monster.name;
@@ -108,20 +100,6 @@ $(document).ready(function() {
         return name;
     }
     
-    // Custom CR sort function
-    function sortByCR(a, b) {
-        const convertCR = (cr) => {
-            if (cr === "1/8") return 0.125;
-            if (cr === "1/4") return 0.25;
-            if (cr === "1/2") return 0.5;
-            return parseFloat(cr) || 0;
-        };
-        
-        const numA = convertCR(a);
-        const numB = convertCR(b);
-        return numA - numB;
-    }
-    
     new FilterDataTable({
         tableId: '#monsterTable',
         dataSource: allMonsters,
@@ -131,8 +109,7 @@ $(document).ready(function() {
                 render: monster => generateMonsterNameCell(monster)
             },
             { 
-                field: 'cr', 
-                render: monster => formatCR(monster.cr)
+                field: 'cr'
             },
             { field: 'type' },
             { field: 'source' }
@@ -143,8 +120,7 @@ $(document).ready(function() {
                 field: 'cr',
                 columnIndex: 1,
                 label: 'CR',
-                sort: sortByCR,
-                render: cr => formatCR(cr)
+                sort: (a, b) => parseFloat(a) - parseFloat(b)
             },
             type: {
                 type: 'exact',
