@@ -50,9 +50,21 @@ The 5eADB is a set of directories, HTML files, and some Javascript. Each tool or
 
 **Mobile Friendly**. This entire app has been built to work well on small devices like mobile phones.
 
-## Adding Your Own Monsters
+## Adding Custom Monsters, Spells, and Magic Items
 
-You can add your own monsters to the monster database. To do so, go to the /monsters/custom/ folder and read the README.md file there. You'll want to be comfortable working in markdown and comfortable editing configuration files with a text editor.
+You can add your own custom items to the three databases for monsters, spells, and magic items. To do so, look for the /custom/ folder under monsters, magic_items, or spells. Each contains a README.md with details for adding your own material.
+
+To do so, you'll want to be comfortable working with Markdown and with using a text editor to modify the configuration file. Knowing a little bit of javascript can help too.
+
+Add custom content by:
+
+- Copying over one of the existing custom content javascript files.
+- Editing the custom index javascript file with a text editor.
+- Copying one of the existing sets of metadata in the custom index file, pasting it, and then editing it with the metadata for your new item.
+
+Once complete, the database indices automatically load the custom index javascript file with the added elements of data.
+
+For monsters, the encounter calculator and combat tracker pull from the custom index file as well.
 
 ## Licensing
 
