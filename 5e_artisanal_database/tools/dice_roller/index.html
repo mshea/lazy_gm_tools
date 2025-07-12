@@ -1,3 +1,6 @@
+<!--
+The code for this tool is released under a CC0 1.0 Universal license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,14 +8,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta name="robots" content="noindex">
   <title>Dice Roller</title>
+  <link rel="stylesheet" href="../../css_js/5eadb.css">
   <style>
   body {
-    font-family: Arial, sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     touch-action: manipulation;
+  }
+  
+  body > div:first-child {
+    align-self: flex-start;
+    width: 100%;
   }
 
   .input-form {
@@ -28,9 +36,8 @@
   .input-form input {
     flex: 1;
     margin: 5px;
-    padding: 10px;
-    font-size: 1.2em;
     width: 100%;
+    font-size: 1.2em;
   }
 
   .input-form input {
@@ -64,8 +71,6 @@
 
   .clear-history {
     margin-top: 10px;
-    font-size: 1.2em;
-    padding: 10px;
     font-weight: normal;
     width: 100%;
   }
@@ -73,8 +78,6 @@
   p {
     text-align: center;
     width: 95%;
-    max-width: 800px;
-    font-size: 1.2em;
   }
 
   .custom-roll {
@@ -87,9 +90,8 @@
   .custom-roll input,
   .custom-roll button {
     margin: 5px;
-    padding: 10px;
-    font-size: 1.2em;
     width: 100%;
+    font-size: 1.2em;
   }
   div.c1 {
     display: flex;
@@ -200,6 +202,5 @@
         });
     });
   </script>
-  <p>This tool is released under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.</p>
 </body>
 </html>

@@ -1,35 +1,16 @@
+<!--
+The code for this tool is released under a CC0 1.0 Universal license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.
+No images are saved to any server when using this tool. All file manipulation happens in your local web browser.
+-->
 <!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
 <style>
-body {
-    max-width: 700px;
-    margin: auto;
-    font-size: 18px;
-    font-family: sans-serif;
-    padding: 10px;
-}
-p, li {
-    line-height: 1.5em;
-}
-ul, ol {
-    padding-left: 20px;
-    margin-left: 0;
-}
-li {
-    margin-left: 0;
-}
-table {
-    border-collapse: collapse;
-}
-th, td {
-    border: 1px solid black;
-    padding: 5px;
-    text-align: left;
-}
+/* Token Maker specific overrides */
 
 canvas {
     max-width: 100%;
@@ -51,13 +32,9 @@ input[type="color"] {
 }
 
 button, #fileButton {
-    font-size: 18px;
-    padding: 10px 16px;
-    border: none;
     background-color: #d3d3d3;
     color: #000;
     border-radius: 6px;
-    cursor: pointer;
     display: inline-block;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
@@ -85,7 +62,6 @@ button:active, #fileButton:active {
 }
 
 #ringColorLabel {
-    font-size: 18px;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -304,7 +280,7 @@ downloadBtn.addEventListener('click', () => {
 });
 </script>
 
-<p>This tool is released under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.</p>
 <p>No images are saved to any server when using this tool. All file manipulation happens in your local web browser.</p>
+
 </body>
 </html>

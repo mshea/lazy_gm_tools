@@ -1,51 +1,49 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Forge of Foes 5e Monster Stats</title>
+  <title>Quick 5e Monster Stats</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="../../css_js/5eadb.css">
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      font-size: 18px;
-      max-width: 700px;
-      margin: 1em auto;
-    }
+    /* Quick Monster Stats specific overrides */
     #statBlock {
       border: 1px solid #ccc;
-      padding: 25px;
+      padding: 20px;
       margin-top: 15px;
       text-align: left;
+      font-size: 18px;
       line-height: 1.6;
-      font-size: 24px;
-    }
-    #crTitle {
-      font-size: 32px;
-      margin-bottom: 15px;
     }
     #crSelect {
-  font-size: 24px;
-  padding: 10px;
-  width: 60%;
-}
-.license {
-font-size: 12px
-}
-h1 {text-align: center}
+      font-size: 24px;
+      width: 250px;
+      padding: 16px;
+      display: inline-block;
+    }
+    .license {
+      font-size: 14px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2em;
+    }
   </style>
 </head>
 <body>
-<div><a href="../../index.html">5e Artisanal Database</a> → Forge of Foes 5e Monster Stats</div>
+<div><a href="../../index.html">5e Artisanal Database</a> → Quick 5e Monster Stats</div>
 
-    <h1><em><a href="https://shop.slyflourish.com/collections/the-lazy-dungeon-master-series/products/forge-of-foes">Forge of Foes</a></em> 5e Monster Stats</h1>
-    <label for="crSelect">Select CR:</label>
-    <select id="crSelect">
+    <h1>Quick 5e Monster Stats</h1>
+    <div style="text-align: center;">
+        <label for="crSelect" style="margin-right: 15px; display: inline-block; font-size: 24px;">Select CR:</label><select id="crSelect">
       <!-- CR Options -->
     </select>
+    </div>
     <div id="statBlock">
       <!-- Stat Block -->
     </div>
+  <div style="text-align: left;">
   <h3>Monster Features</h3>
   <p>Give any custom monster impactful features and attacks that make sense for their place in the game. When a monster feature deals damage, choose a damage type appropriate to the creature's physiology, theme, or story. A creature channeling magical power might deal acid, cold, fire, lightning, force, poison, psychic, necrotic, radiant, or thunder damage. A creature making use of spines, spikes, or projectiles might deal bludgeoning, piercing, or slashing damage.</p>
   <p><strong><em>Damaging Blast.</em></strong> This creature has one or more single-target ranged attacks using the attack bonus and damage calculated above, and which deal damage of an appropriate type.</p>
@@ -204,6 +202,7 @@ h1 {text-align: center}
   <p class="license">This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at <a href="https://dnd.wizards.com/resources/systems-reference-document">https://dnd.wizards.com/resources/systems-reference-document</a>. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at <a href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a>.</p>
   
   </div>
+  </div>
 
   <script>
 const data = {
@@ -268,7 +267,7 @@ function setCRToURL(cr) {
 function showStats() {
   const cr = crSelect.value;
   const stats = data[cr];
-  let output = `<div id='crTitle'>${cr}</div>`;
+  let output = `<div id='crTitle' style='font-weight: bold; font-size: 1.2em; margin-bottom: 10px;'>${cr}</div>`;
   for (const key in stats) {
     output += `<strong>${key}:</strong> ${stats[key]}<br>`;
   }

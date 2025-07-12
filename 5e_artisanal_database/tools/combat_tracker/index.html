@@ -1,8 +1,8 @@
-<!DOCTYPE html>
 <!--
 The code for this tool is released under a CC0 1.0 Universal license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.
 Learn about the licensing of the data of this tool in the license.html file located in the root director of this application.
 -->
+<!DOCTYPE html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
 <meta name="robots" content="noindex">
@@ -11,27 +11,9 @@ Learn about the licensing of the data of this tool in the license.html file loca
 <style>
 /* Combat Tracker specific styles */
 
-/* Use standard fonts and larger text */
-body {
-    font-family: Arial, sans-serif !important;
-    font-size: 16px !important;
-}
-
-/* Make all interactive elements larger */
-input, textarea, select, a {
-    font-size: 16px !important;
-    font-family: Arial, sans-serif !important;
-}
-
-/* Ensure text inputs are left-aligned */
+/* Combat Tracker specific overrides */
 input[type="text"] {
-    text-align: left !important;
-}
-
-button {
-    font-size: 16px !important;
-    font-family: Arial, sans-serif !important;
-    box-sizing: border-box !important;
+    text-align: left;
 }
 
 /* Remove spinner arrows from all number inputs */
@@ -47,7 +29,6 @@ input[type=number] {
 table {
     width: 100%;
     margin: 10px 0;
-    font-size: 16px;
     table-layout: auto;
 }
 
@@ -60,13 +41,15 @@ th, td {
 
 th {
     background-color: #e0e0e0;
-    font-weight: bold;
     font-size: 16px;
 }
 
 .init-col {
     width: 40px;
     text-align: center;
+}
+.init-col input {
+    font-size: 16px;
 }
 .name-col {
     min-width: 160px;
@@ -76,9 +59,15 @@ th {
     width: 45px;
     text-align: center;
 }
+.ac-col input {
+    font-size: 16px;
+}
 .hp-col {
     width: 300px;
     min-width: 100px;
+}
+.hp-col input {
+    font-size: 16px;
 }
 
 .controls {
@@ -91,17 +80,16 @@ th {
 
 .controls h3 {
     margin: 0 0 8px 0;
-    font-size: 16px;
 }
 
 .controls input {
     margin: 2px;
     padding: 6px;
-    font-size: 16px;
     background-color: white;
     color: black;
     border: 1px solid #ccc;
     border-radius: 4px;
+    font-size: 16px;
 }
 
 .hp-controls {
@@ -118,7 +106,6 @@ th {
     color: white;
     border: none;
     cursor: pointer;
-    font-size: 16px;
     border-radius: 4px;
 }
 
@@ -135,7 +122,6 @@ th {
 
 .hp-controls input {
     width: 50px;
-    font-size: 16px;
     text-align: center;
     margin: 0;
     padding: 3px;
@@ -146,7 +132,6 @@ th {
 }
 
 .hp-controls span {
-    font-size: 16px;
     margin: 0 2px;
 }
 
@@ -161,7 +146,6 @@ th {
     border: none;
     padding: 4px 8px;
     cursor: pointer;
-    font-size: 16px;
     font-weight: bold;
     border-radius: 4px;
 }
