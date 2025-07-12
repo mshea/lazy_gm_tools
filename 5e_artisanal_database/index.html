@@ -4,6 +4,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<meta name="theme-color" content="#2c3e50">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="5eADB Tools">
 <link rel="stylesheet" href="./css_js/5eadb.css">
 <title>5e Artisanal Database</title>
 </head>
@@ -65,6 +69,13 @@ function performLuckySearch() {
 // Setup search input when page loads
 document.addEventListener('DOMContentLoaded', function() {
     searchInterface.setupSearchInput('mainSearchInput', performSearch);
+    
+    // Register service worker for PWA
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js')
+            .then(registration => console.log('SW registered'))
+            .catch(error => console.log('SW registration failed'));
+    }
 });
 </script>
 

@@ -1,57 +1,74 @@
-// Kill switch service worker - clears all caches and unregisters itself
-// This will stop the PWA from making requests to your server
+const CACHE_NAME = '5eadb-tools-v1';
+const urlsToCache = [
+  '/index.html',
+  '/css_js/5eadb.css',
+  '/css_js/generator.js',
+  '/tools/dice_roller/index.html',
+  '/tools/combat_tracker/index.html',
+  '/tools/encounter_calculator/index.html',
+  '/tools/fof_monster_stats/index.html',
+  '/tools/token_maker/index.html',
+  '/tools/annotator/index.html',
+  '/generators/npcs/index.html',
+  '/generators/npcs/generator_text.js',
+  '/generators/locations/index.html',
+  '/generators/locations/generator_text.js',
+  '/generators/treasure/index.html',
+  '/generators/treasure/data.js',
+  '/generators/traps/index.html',
+  '/generators/traps/generator_text.js',
+  '/generators/weapons/index.html',
+  '/generators/weapons/generator_text.js',
+  '/generators/armor/index.html',
+  '/generators/armor/generator_text.js',
+  '/generators/relics/index.html',
+  '/generators/relics/generator_text.js',
+  '/generators/dm_relics/index.html',
+  '/generators/dm_relics/generator_text.js',
+  '/generators/monuments/index.html',
+  '/generators/monuments/generator_text.js',
+  '/generators/2024_dnd_treasure/index.html',
+  '/generators/2024_dnd_treasure/data.js',
+  '/generators/tov_treasure/index.html',
+  '/generators/tov_treasure/data.js',
+  '/generators/scrolls/index.html',
+  '/generators/scrolls/multi_source_data.js',
+  '/generators/scrolls/multi_source_generator.js',
+  '/generators/scrolls/spells_data.js',
+  '/generators/spellbook/index.html',
+  '/generators/spellbook/spells_wizard.js'
+];
 
-self.addEventListener('install', function(event) {
-  // Skip waiting to activate immediately
-  self.skipWaiting();
-});
-
-self.addEventListener('activate', function(event) {
+self.addEventListener('install', event => {
   event.waitUntil(
-    Promise.all([
-      // Delete all caches
-      caches.keys().then(function(cacheNames) {
-        return Promise.all(
-          cacheNames.map(function(cacheName) {
-            console.log('Deleting cache:', cacheName);
-            return caches.delete(cacheName);
-          })
-        );
-      }),
-      // Clear any background sync registrations
-      self.registration.sync && self.registration.sync.getTags().then(function(tags) {
-        return Promise.all(
-          tags.map(function(tag) {
-            return self.registration.sync.unregister(tag);
-          })
-        );
-      }),
-      // Send message to all clients to reload
-      self.clients.matchAll().then(function(clients) {
-        clients.forEach(function(client) {
-          client.postMessage({
-            type: 'SW_DISABLED',
-            message: 'Service worker has been disabled. Page will reload.'
-          });
-        });
-      })
-    ]).then(function() {
-      // Unregister this service worker
-      console.log('Service worker cleared all caches and will unregister');
-      return self.registration.unregister();
-    })
+    caches.open(CACHE_NAME)
+      .then(cache => cache.addAll(urlsToCache))
   );
 });
 
-// Don't handle any fetch requests - let them go to network
-self.addEventListener('fetch', function(event) {
-  // Do nothing - let all requests go to network
-  return;
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    caches.match(event.request)
+      .then(response => {
+        if (response) {
+          return response;
+        }
+        return fetch(event.request);
+      }
+    )
+  );
 });
 
-// Send notification that SW is being killed
-self.addEventListener('message', function(event) {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(cacheNames => {
+      return Promise.all(
+        cacheNames.map(cacheName => {
+          if (cacheName !== CACHE_NAME) {
+            return caches.delete(cacheName);
+          }
+        })
+      );
+    })
+  );
 });
