@@ -1,4 +1,4 @@
-const CACHE_NAME = '5eadb-tools-v1';
+const CACHE_NAME = '5eadb-tools-v2';
 const urlsToCache = [
   '/index.html',
   '/css_js/5eadb.css',
@@ -32,9 +32,8 @@ const urlsToCache = [
   '/generators/tov_treasure/index.html',
   '/generators/tov_treasure/data.js',
   '/generators/scrolls/index.html',
-  '/generators/scrolls/multi_source_data.js',
-  '/generators/scrolls/multi_source_generator.js',
-  '/generators/scrolls/spells_data.js',
+  '/generators/scrolls/spell_index.js',
+  '/generators/scrolls/scroll_generator.js',
   '/generators/spellbook/index.html',
   '/generators/spellbook/spells_wizard.js'
 ];

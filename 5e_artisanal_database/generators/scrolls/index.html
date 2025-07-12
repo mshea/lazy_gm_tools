@@ -15,7 +15,7 @@
     <div style="margin-bottom: 15px;">
         <label for="source">Spell Source:</label>
         <select id="source" style="margin-left: 10px;">
-            <option value="srd-2024">D&D 2024 (5.2 SRD)</option>
+            <option value="srd-2024" selected>D&D 2024 (5.2 SRD)</option>
             <option value="wotc-srd">D&D 2014 (5.1 SRD)</option>
             <option value="dmag">Deep Magic 5e</option>
             <option value="a5e">Level Up Advanced 5e</option>
@@ -25,7 +25,7 @@
     <div>
         <label for="rarity">Spell Level/Rarity:</label>
         <select id="rarity" style="margin-left: 10px;">
-            <option value="any">Any (All spell levels)</option>
+            <option value="any" selected>Any (All spell levels)</option>
             <option value="common">Common (Cantrips & 1st level)</option>
             <option value="uncommon">Uncommon (2nd & 3rd level)</option>
             <option value="rare">Rare (4th & 5th level)</option>
@@ -38,11 +38,16 @@
 <button onclick="generateScrolls()">Generate 10 Scrolls</button>
 
 <div id="output">
-    <em>Select a rarity and click the button above to generate 10 spell scrolls...</em>
+    <em>Click the button above to generate 10 spell scrolls...</em>
 </div>
 
-<script src="spells_data.js"></script>
-<script src="multi_source_data.js"></script>
-<script src="multi_source_generator.js"></script>
+<script src="spell_index.js"></script>
+<script src="scroll_generator.js"></script>
+<script>
+// Auto-generate scrolls on page load
+document.addEventListener('DOMContentLoaded', function() {
+    generateScrolls();
+});
+</script>
 </body>
 </html>
