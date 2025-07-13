@@ -761,6 +761,10 @@ function addMonsterGroup() {
             cleanNames: true,
             showStats: false,
             showSource: true,
+            sourceFilter: (monster) => {
+                const selectedSource = newSourceFilter ? newSourceFilter.value : '';
+                return !selectedSource || monster.sourceFull === selectedSource;
+            },
             onMonsterSelect: (monster) => {
                 selectMonster(newSearchInput, monster);
             }
@@ -777,6 +781,12 @@ function addMonsterGroup() {
                 lookup.options.sourceFilter = (monster) => !selectedSource || monster.sourceFull === selectedSource;
                 lookup.handleSearch(newSearchInput.value);
             });
+            
+            // Apply initial source filter if one was inherited
+            if (newSourceFilter.value) {
+                const selectedSource = newSourceFilter.value;
+                lookup.options.sourceFilter = (monster) => !selectedSource || monster.sourceFull === selectedSource;
+            }
         }
     }
     
@@ -854,27 +864,27 @@ function calculateEncounter() {
     let singleMonsterDeadly = 0;
     
     if (avgLevel >= 17) {
-        const lowerThreshold = totalCharacterLevels * 0.5;
-        const upperThreshold = totalCharacterLevels;
+        const lowerThreshold = Math.round(totalCharacterLevels * 0.5);
+        const upperThreshold = Math.round(totalCharacterLevels);
         deadlyThreshold = lowerThreshold;
         lazyBenchmarkText = 'Potentially deadly if total monster CR ≥ ' + lowerThreshold + ' to ' + upperThreshold;
     } else if (avgLevel >= 11) {
-        const lowerThreshold = totalCharacterLevels * 0.5;
-        const upperThreshold = totalCharacterLevels * 0.75;
+        const lowerThreshold = Math.round(totalCharacterLevels * 0.5);
+        const upperThreshold = Math.round(totalCharacterLevels * 0.75);
         deadlyThreshold = lowerThreshold;
         lazyBenchmarkText = 'Potentially deadly if total monster CR ≥ ' + lowerThreshold + ' to ' + upperThreshold;
     } else if (avgLevel >= 5) {
-        deadlyThreshold = totalCharacterLevels * 0.5;
+        deadlyThreshold = Math.round(totalCharacterLevels * 0.5);
         lazyBenchmarkText = 'Potentially deadly if total monster CR ≥ ' + deadlyThreshold;
     } else {
-        deadlyThreshold = totalCharacterLevels * 0.25;
+        deadlyThreshold = Math.round(totalCharacterLevels * 0.25);
         lazyBenchmarkText = 'Potentially deadly if total monster CR ≥ ' + deadlyThreshold;
     }
     
     if (avgLevel >= 5) {
-        singleMonsterDeadly = avgLevel * 1.5;
+        singleMonsterDeadly = Math.round(avgLevel * 1.5);
     } else {
-        singleMonsterDeadly = avgLevel;
+        singleMonsterDeadly = Math.round(avgLevel);
     }
     
     let difficultyLazy = '';
@@ -884,8 +894,8 @@ function calculateEncounter() {
     ));
     
     if (avgLevel >= 11) {
-        const lowerThreshold = totalCharacterLevels * 0.5;
-        const upperThreshold = totalCharacterLevels * (avgLevel >= 17 ? 1 : 0.75);
+        const lowerThreshold = Math.round(totalCharacterLevels * 0.5);
+        const upperThreshold = Math.round(totalCharacterLevels * (avgLevel >= 17 ? 1 : 0.75));
         
         if (highestCR >= singleMonsterDeadly || totalMonsterCR >= upperThreshold) {
             difficultyLazy = '<span class="difficulty-deadly difficulty-base">POTENTIALLY DEADLY (High Threshold)</span>';
