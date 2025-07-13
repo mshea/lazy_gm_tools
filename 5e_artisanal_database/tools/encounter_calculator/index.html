@@ -931,7 +931,7 @@ function calculateEncounter() {
         difficulty2024 = '<span class="difficulty-easy difficulty-base">LOW</span>';
     } else if (baseMonsterXP < thresholds2024.moderate) {
         difficulty2024 = '<span class="difficulty-medium difficulty-base">MODERATE</span>';
-    } else if (baseMonsterXP < thresholds2024.high) {
+    } else if (baseMonsterXP <= thresholds2024.high) {
         difficulty2024 = '<span class="difficulty-hard difficulty-base">HIGH</span>';
     } else {
         difficulty2024 = '<span class="difficulty-deadly difficulty-base">Above HIGH</span>';
