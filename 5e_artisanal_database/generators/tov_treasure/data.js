@@ -20,83 +20,83 @@ magic_items_1_4
   {common_magic_item}<br>{uncommon_consumable}<br>{uncommon_consumable}<br>{uncommon_magic_item}
 
 treasure_5_10
-  [[300-700]] SP, [[800-1000]] GP, [[25-75]] PP<br>[[4-6]] x {gems_100}<br>{common_art}<br>{uncommon_art}
+  [[300-700]] SP, [[800-1000]] GP, [[25-75]] PP<br>[[4-6]] x {gem_100}<br>{common_art}<br>{uncommon_art}
   
 magic_items_5_10
   {common_magic_item}<br>{{uncommon_consumable}|{rare_consumable}}<br>{{uncommon_consumable}|{rare_consumable}}<br>{{uncommon_magic_item}|{rare_magic_item}}
 
 treasure_11_16
-  [[4000-5000]] GP, [[175-225]] PP<br>[[1-5]] x {gems_500}<br>{uncommon_art}<br>{rare_art}
+  [[4000-5000]] GP, [[175-225]] PP<br>[[1-5]] x {gem_500}<br>{uncommon_art}<br>{rare_art}
   
 magic_items_11_16
   {{uncommon_consumable}|{rare_consumable}|{very_rare_consumable}}<br>{{uncommon_consumable}|{rare_consumable}|{very_rare_consumable}}<br>{{uncommon_magic_item}|{rare_magic_item}|{very_rare_magic_item}}
 
 treasure_17_20
-  [[8000-12000]] GP, [[800-1200]] PP<br>[[3-7]] x {gems_1000}<br>1 x {gems_5000}<br>{rare_art}<br>{very_rare_art}<br>{legendary_art}
+  [[8000-12000]] GP, [[800-1200]] PP<br>[[3-7]] x {gem_1000}<br>1 x {gem_5000}<br>{rare_art}<br>{very_rare_art}<br>{legendary_art}
   
 magic_items_17_20
   {{rare_consumable}|{very_rare_consumable}|{legendary_consumable}}<br>{{rare_consumable}|{very_rare_consumable}|{legendary_consumable}}<br>{{rare_magic_item}|{very_rare_magic_item}|{legendary_magic_item}}
 
 
 gem_25
-  agate (25 gp each)
-  clear quartz (25 gp each)
-  hematite (25 gp each)
-  jasper (25 gp each)
-  malachite (25 gp each)
-  obsidian glass (25 gp each)
-  rhodochrosite (25 gp each)
-  tiger’s eye (25 gp each)
-  tinted quartz (25 gp each)
-  turquoise (25 gp each)
+  agate gemstones (25 gp each)
+  clear quartz gemstones (25 gp each)
+  hematite gemstones (25 gp each)
+  jasper gemstones (25 gp each)
+  malachite gemstones (25 gp each)
+  obsidian glass gemstones (25 gp each)
+  rhodochrosite gemstones (25 gp each)
+  tiger's eye gemstones (25 gp each)
+  tinted quartz gemstones (25 gp each)
+  turquoise gemstones (25 gp each)
   
-gems_100
-  amethyst (100 gp each)
-  bloodstone (100 gp each)
-  carnelian (100 gp each)
-  chalcedony (100 gp each)
-  citrine (100 gp each)
-  lapis lazuli (100 gp each)
-  moonstone (100 gp each)
-  onyx (100 gp each)
-  spinel (100 gp each)
-  zircon (100 gp each)
+gem_100
+  amethyst gemstones (100 gp each)
+  bloodstone gemstones (100 gp each)
+  carnelian gemstones (100 gp each)
+  chalcedony gemstones (100 gp each)
+  citrine gemstones (100 gp each)
+  lapis lazuli gemstones (100 gp each)
+  moonstone gemstones (100 gp each)
+  onyx gemstones (100 gp each)
+  spinel gemstones (100 gp each)
+  zircon gemstones (100 gp each)
  
-gems_500
-  amber (500 gp each)
-  azurite (500 gp each)
-  coral (500 gp each)
-  garnet (500 gp each)
-  jade (500 gp each)
-  jet (500 gp each)
-  larimar pectolite (500 gp each)
-  pearl (500 gp each)
-  rubellite (500 gp each)
-  tourmaline (500 gp each)
+gem_500
+  amber gemstones (500 gp each)
+  azurite gemstones (500 gp each)
+  coral gemstones (500 gp each)
+  garnet gemstones (500 gp each)
+  jade gemstones (500 gp each)
+  jet gemstones (500 gp each)
+  larimar pectolite gemstones (500 gp each)
+  pearl gemstones (500 gp each)
+  rubellite gemstones (500 gp each)
+  tourmaline gemstones (500 gp each)
 
-gems_1000
-  alexandrite (1,000 gp each)
-  ammolite (1,000 gp each)
-  aquamarine (1,000 gp each)
-  black pearl (1,000 gp each)
-  blue spinel (1,000 gp each)
-  opal (1,000 gp each)
-  peridot (1,000 gp each)
-  topaz (1,000 gp each)
-  tsavorite (1,000 gp each)
-  zoisite (1,000 gp each)
+gem_1000
+  alexandrite gemstones (1,000 gp each)
+  ammolite gemstones (1,000 gp each)
+  aquamarine gemstones (1,000 gp each)
+  black pearl gemstones (1,000 gp each)
+  blue spinel gemstones (1,000 gp each)
+  opal gemstones (1,000 gp each)
+  peridot gemstones (1,000 gp each)
+  topaz gemstones (1,000 gp each)
+  tsavorite gemstones (1,000 gp each)
+  zoisite gemstones (1,000 gp each)
 
-gems_5000
-  black opal (5,000 gp each)
-  canary diamond (5,000 gp each)
-  emerald (5,000 gp each)
-  fire opal (5,000 gp each)
-  jacinth (5,000 gp each)
-  ruby (5,000 gp each)
-  diamond (5,000 gp each)
-  sapphire (5,000 gp each)
-  star ruby (5,000 gp each)
-  star sapphire (5,000 gp each)
+gem_5000
+  black opal gemstones (5,000 gp each)
+  canary diamond gemstones (5,000 gp each)
+  emerald gemstones (5,000 gp each)
+  fire opal gemstones (5,000 gp each)
+  jacinth gemstones (5,000 gp each)
+  ruby gemstones (5,000 gp each)
+  diamond gemstones (5,000 gp each)
+  sapphire gemstones (5,000 gp each)
+  star ruby gemstones (5,000 gp each)
+  star sapphire gemstones (5,000 gp each)
 
 common_art
   {condition} {origin} amethyst-studded hand mirror (50 gp)

@@ -174,11 +174,11 @@ function processQuantityPatterns(text, data) {
             return match; // Return original if table not found
         }
         
-        const items = [];
-        for (let i = 0; i < qty; i++) {
-            items.push(pick(table));
-        }
-        return items.join('<br>');
+        // Pick one item and return with quantity
+        const item = pick(table);
+        // Handle singular/plural for gemstones
+        const result = `${qty} x ${item}`;
+        return qty === 1 ? result.replace(' gemstones ', ' gemstone ') : result;
     });
 }
 
