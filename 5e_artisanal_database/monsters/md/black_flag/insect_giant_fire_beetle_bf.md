@@ -25,10 +25,3 @@
 
 - **Bite:** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) slashing damage.
 - **Igniting Mucus:** _Ranged Weapon Attack:_ +2 to hit, range 15/30 ft., one target. _Hit:_ 2 (1d4) poison damage, and the target is covered in mucus that ignites after 1d4 rounds or if the target takes fire damage. An ignited creature takes 2 (1d4) fire damage at the start of each of its turns until a creature takes an action to douse the fire. A creature can remove the mucus before it ignites by taking an action.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

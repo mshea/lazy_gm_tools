@@ -39,10 +39,3 @@
 ### Reactions
 
 - **Sudden Feast:** When a creature the nalfeshnee can see within 20 feet of it is reduced to 0 HP or dies, the nalfeshnee can move up to its speed toward the creature without provoking opportunity attacks then feast on the creature, if it moves to within 5 feet of the creature. The nalfeshnee regains HP equal to twice the creature's CR or class level, and the creature has disadvantage on the next death save it makes, if it is making death saves.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

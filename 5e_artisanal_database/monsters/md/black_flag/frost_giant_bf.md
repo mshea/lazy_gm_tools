@@ -36,10 +36,3 @@
 ### Bonus Actions
 
 - **Wintry Blast:** A blast of wintry air extends in a 30-foot line that is 5 feet wide from the frost giant's outstretched hand. Each creature in the line must succeed on a DC 16 CON save or its speed is halved until the end of its next turn. A creature that fails the save by 5 or more is petrified in ice for 1 hour or until a creature spends 1 minute warming the petrified creature.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

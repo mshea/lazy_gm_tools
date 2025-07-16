@@ -33,10 +33,3 @@
 
 - **Heart Sight:** The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 13 CHA save, the sprite also knows if the creature has malign intentions or intends to commit malevolent acts within the next hour. Celestials, Fiends, and Undead automatically fail the save.
 - **Swift Flight:** The sprite moves up to half its speed without provoking opportunity attacks.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -36,10 +36,3 @@
 ### Bonus Actions
 
 - **Command Horde:** The wight commands up to five friendly skeletons or zombies to do one of the following:<br>- **Protect.** Until the start of the wight's next turn, each time a friendly creature within 5 feet of a target is attacked, the target can use its reaction to intercept the attack, becoming the target instead.<br>- **Overwhelm.** Until the start of the wight's next turn, each target has advantage on attack rolls against a creature on its turn if at least one other target is within 5 feet of the creature and the allied target isn't incapacitated.<br>- **Shamble.** Each target uses its reaction to move up to its speed in a direction chosen by the wight. If this movement provokes an opportunity attack, that attack is made with disadvantage.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

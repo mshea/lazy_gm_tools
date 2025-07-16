@@ -32,10 +32,3 @@
 ### Bonus Actions
 
 - **Rippling Heat (1/Day):** The lemure exudes an aura of extreme heat for 1 minute. Each creature that starts its turn within 15 feet of the lemure and that isn't a devil must succeed on a DC 11 CON save or be weakened until the start of its next turn. A weakened creature has disadvantage on all attack rolls, and it deals only half damage with weapon attacks that use Strength. A creature that fails this save by 5 or more suffers one level of exhaustion. A creature that has suffered a level of exhaustion from this lemure's Rippling Heat can't suffer another level from this lemure's Rippling Heat for 24 hours.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

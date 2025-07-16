@@ -31,10 +31,3 @@
 ### Bonus Actions
 
 - **Fetid Cloud (1/Day):** A 10-foot radius cloud of disgusting green gas extends out from the dretch, moves with it, and spreads around corners. The cloud's area is lightly obscured and lasts 1 minute or until a strong wind disperses it. A creature that starts its turn in the cloud must succeed on a DC 11 CON save or be poisoned until the start of its next turn. While poisoned in this way, a creature can take either an action or a bonus action on its turn, not both, and can't take reactions.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

@@ -30,10 +30,3 @@
 ### Bonus Actions
 
 - **Web Shot (Recharge 4-6):** The spider launches a gob of webbing at one creature it can see within 15 feet of it. The target must succeed on a DC 9 DEX save or have its speed reduced by 10 feet. A creature can take an action to remove the webbing, ending the effect.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

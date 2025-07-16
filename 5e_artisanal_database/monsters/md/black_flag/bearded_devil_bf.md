@@ -35,10 +35,3 @@
 ### Bonus Actions
 
 - **Enhance Pain:** The bearded devil enhances the pain in one creature it can see within 30 feet of it that is poisoned from the devil's Beard Spines attack or suffering an infernal wound from the devil's Glaive attack. The target must succeed on a DC 13 CON save or be incapacitated until the end of its next turn, as it doubles over in pain.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

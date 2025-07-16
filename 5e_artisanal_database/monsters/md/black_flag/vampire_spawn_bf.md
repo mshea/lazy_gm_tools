@@ -37,10 +37,3 @@
 ### Bonus Actions
 
 - **Call Blood:** The vampire calls to the blood within one injured creature it can see within 10 feet of it, causing blood to pour from the creature's wounds. If the target doesn't have all its HP, it must make a DC 14 CON save, losing 7 (2d6) HP on a failed save, or losing half as much HP on a successful one. Before the end of its next turn, the vampire has advantage on the next attack roll it makes against a creature that failed the save.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

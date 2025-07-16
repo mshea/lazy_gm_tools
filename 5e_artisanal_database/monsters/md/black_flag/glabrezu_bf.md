@@ -35,10 +35,3 @@
 ### Bonus Actions
 
 - **Manipulating Whispers:** The glabrezu whispers in the mind of a creature it can see within 120 feet of it, encouraging the creature to commit wicked acts. The target must succeed on a DC 17 CHA save or succumb to one of the following urges:<br>- **Boastful Stance.** The target is overcome with surety of its own battle prowess, momentarily letting down its guard. Creatures have advantage on attack rolls against the target until the start of the glabrezu's next turn.<br>- **Confirmation of Wealth.** The target is briefly overcome with the desire to confirm the amount and status of its valuables. It uses either an action or bonus action on its next turn (the glabrezu's choice) to count and take stock of its valuables.<br>- **Wrathful Strike.** Anger fills the target, and it immediately lashes out at those nearby. The target uses its reaction to make one melee weapon attack against a creature of the glabrezu's choice within 5 feet of the target.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

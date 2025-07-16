@@ -35,10 +35,3 @@
 
 - **Change Shape:** The hag magically transforms into Medium or smaller Humanoid, or back into its true form, which is Fiend. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its true form if it dies.
 - **Etherealness:** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. The hag can use Cause Sorrow on an unconscious creature not on its plane; otherwise, the hag can't affect or be affected by anything on the other plane.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

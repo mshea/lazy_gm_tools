@@ -36,10 +36,3 @@
 
 - **Clouded Eyes:** The sila condenses the air or water around the head or eyes of up to two creatures it can see within 30 feet of it. Each target must succeed on a DC 17 DEX save or be blinded until the end of its next turn.
 - **Genie Shape:** The sila magically transforms into a Medium cloud of thick mist that leaves droplets of water on everything it touches or back into its bipedal form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its bipedal form if it dies. The sila can't use this bonus action to transform into its bipedal form while inside a Medium or smaller container.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

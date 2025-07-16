@@ -36,10 +36,3 @@
 ### Bonus Actions
 
 - **Consuming Rend:** The golmana violently digs its small, torso claws into one creature it is grappling. The target must make a DC 15 DEX save, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one. The golmana then regains HP equal to the damage dealt.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

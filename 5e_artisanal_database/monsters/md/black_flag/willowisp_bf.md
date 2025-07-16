@@ -40,10 +40,3 @@
 ### Reactions
 
 - **Consume Life:** When a creature the will-o'-wisp can see within 15 feet of it is reduced to 0 HP, the will-o'-wisp can consume some of that creature's fading life. The will-o'-wisp gains 7 (2d6) temporary HP, and the creature has disadvantage on the next death save it makes before the end of the wisp's next turn.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.

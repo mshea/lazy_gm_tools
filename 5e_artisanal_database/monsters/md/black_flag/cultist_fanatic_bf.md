@@ -33,10 +33,3 @@
 ### Bonus Actions
 
 - **Unholy Brand (Recharge 5-6):** One creature the fanatic can see within 30 feet of it must succeed on a DC 13 CHA save or be marked with an unholy brand until the start of the fanatic's next turn. While the creature is branded, Fiends and cultists have advantage on attack rolls against it.
-
-
-### License
-
-This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
-
-This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.
