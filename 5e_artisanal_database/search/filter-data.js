@@ -1,5 +1,5 @@
 // Auto-generated source metadata for 5e Artisanal Database
-// Generated at: 2025-06-30T21:51:47.425Z
+// Generated at: 2025-07-17T20:19:10.611Z
 
 window.sourceMetadata = [
   {
