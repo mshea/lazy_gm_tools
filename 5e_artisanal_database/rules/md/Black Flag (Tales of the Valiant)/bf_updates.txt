@@ -1,0 +1,21 @@
+X Whole new "Running the Game" section:
+X Attitude
+X Dread
+X Environmental Hazards:
+X Curses
+X Diseases
+X Hazards
+X Traps
+X Firearms rules added
+X Siege Weapons added
+X Doom optional rule added
+X Advantage/Disadvantage added
+X Wand of Wonder Effects table added
+
+Starting equipment packs added
+Druid: Added Rules of Transformation
+Wizard: Spellbook rules added
+Multiclass Spell Slots per Circle table added
+Psychic Damage description added
+Cantrip scaling rule added (character level, not class level)
+ToV Errata Applied
