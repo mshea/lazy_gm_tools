@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Dex +6
 - **Skills:** Acrobatics +6, Perception +3, Stealth +6
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** acid, lightning
-- **Condition Immunities:** False
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Draconic
 

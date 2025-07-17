@@ -13,10 +13,7 @@
 | 13 (+1) | 18 (+4) | 15 (+2) | 12 (+1) | 16 (+3) | 21 (+5) |
 
 - **Skills:** Deception +8, Persuasion +8, Stealth +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Sylvan
 

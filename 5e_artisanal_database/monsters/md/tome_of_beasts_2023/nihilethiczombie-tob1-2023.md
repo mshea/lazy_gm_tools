@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Wis +0
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, necrotic, poison
-- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 8
 - **Languages:** understands Void Speech and the languages it knew in life but can’t speak

@@ -13,10 +13,6 @@
 | 18 (+4) | 12 (+1) | 19 (+4) | 9 (-1) | 11 (+0) | 9 (-1) |
 
 - **Skills:** Athletics +6, Intimidation +3
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Common, Dwarvish
 

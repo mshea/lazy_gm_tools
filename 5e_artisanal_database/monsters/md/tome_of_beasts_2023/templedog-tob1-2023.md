@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Con +5, Wis +5, Cha +3
 - **Skills:** Perception +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

@@ -13,10 +13,6 @@
 | 15 (+2) | 14 (+2) | 12 (+1) | 4 (-3) | 10 (+0) | 5 (-3) |
 
 - **Skills:** Perception +2, Stealth +4
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 12
 - **Languages:** —
 

@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Str +12, Con +10, Cha +6
 - **Skills:** Perception +8, Stealth +4, Survival +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** passive Perception 18
 - **Languages:** Common, Giant
 

@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +7, Wis +3
 - **Skills:** Perception +3, Stealth +7
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, poison
 - **Damage Resistances:** acid, fire, lightning, thunder; bludgeoning, necrotic, piercing, slashing
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned

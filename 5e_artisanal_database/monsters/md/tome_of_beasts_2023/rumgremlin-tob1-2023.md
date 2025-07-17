@@ -13,9 +13,6 @@
 | 10 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 9 (-1) | 12 (+1) |
 
 - **Skills:** Stealth +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 120 ft., passive Perception 10
 - **Languages:** Common, Sylvan

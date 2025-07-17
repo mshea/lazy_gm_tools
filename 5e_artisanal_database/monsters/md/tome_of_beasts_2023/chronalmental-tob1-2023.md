@@ -13,9 +13,7 @@
 | 14 (+2) | 20 (+5) | 19 (+4) | 9 (-1) | 13 (+1) | 6 (-2) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Damage Resistances:** False
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, restrained, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Celestial, Infernal

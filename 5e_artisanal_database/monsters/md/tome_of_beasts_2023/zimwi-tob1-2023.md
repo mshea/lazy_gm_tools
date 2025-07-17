@@ -13,10 +13,6 @@
 | 13 (+1) | 18 (+4) | 19 (+4) | 6 (-2) | 9 (-1) | 7 (-2) |
 
 - **Skills:** Perception +2
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Giant
 

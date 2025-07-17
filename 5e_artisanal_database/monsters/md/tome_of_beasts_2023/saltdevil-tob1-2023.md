@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +4, Con +7, Cha +5
 - **Skills:** Perception +5, Stealth +4
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

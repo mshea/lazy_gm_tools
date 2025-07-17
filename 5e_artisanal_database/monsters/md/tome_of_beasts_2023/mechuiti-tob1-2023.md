@@ -16,7 +16,6 @@
 - **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** acid, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened, poisoned, stunned
 - **Senses:** truesight 120 ft., passive Perception 22
 - **Languages:** Abyssal, Celestial, Common, Draconic, Primordial, telepathy 300 ft.

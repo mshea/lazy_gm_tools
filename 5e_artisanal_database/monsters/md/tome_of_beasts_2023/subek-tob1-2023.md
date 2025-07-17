@@ -13,10 +13,6 @@
 | 19 (+4) | 10 (+0) | 18 (+4) | 14 (+2) | 13 (+1) | 13 (+1) |
 
 - **Skills:** History +5, Investigation +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common
 

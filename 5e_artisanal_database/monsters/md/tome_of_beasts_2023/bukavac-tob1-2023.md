@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Dex +7, Con +8
 - **Skills:** Perception +10, Stealth +11
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** thunder
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 20
 - **Languages:** Sylvan
 

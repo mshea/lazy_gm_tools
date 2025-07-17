@@ -13,10 +13,7 @@
 | 11 (+0) | 17 (+3) | 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) |
 
 - **Skills:** Animal Handling +3, Deception +2, Perception +3, Stealth +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** poison
-- **Condition Immunities:** False
 - **Senses:** passive Perception 14
 - **Languages:** Common
 

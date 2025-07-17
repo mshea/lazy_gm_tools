@@ -13,8 +13,6 @@
 | 3 (-4) | 16 (+3) | 16 (+3) | 1 (-5) | 13 (+1) | 2 (-4) |
 
 - **Skills:** Perception +3, Stealth +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 - **Senses:** blindsight 10 ft., darkvision 30 ft., tremorsense 30 ft., passive Perception 13

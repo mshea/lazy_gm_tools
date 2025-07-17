@@ -13,10 +13,6 @@
 | 13 (+1) | 17 (+3) | 12 (+1) | 8 (-1) | 16 (+3) | 8 (-1) |
 
 - **Skills:** Nature +3, Perception +5, Stealth +5, Survival +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Elvish, Sylvan
 

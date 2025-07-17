@@ -13,10 +13,7 @@
 | 4 (-3) | 15 (+2) | 10 (+0) | 12 (+1) | 12 (+1) | 4 (-3) |
 
 - **Skills:** Perception +5, Stealth +6
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** acid, fire, poison
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** understands Common but can’t speak
 

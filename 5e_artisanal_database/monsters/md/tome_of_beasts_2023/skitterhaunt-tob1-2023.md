@@ -13,9 +13,7 @@
 | 15 (+2) | 11 (+0) | 19 (+4) | 3 (-4) | 7 (-2) | 1 (-5) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid
-- **Damage Resistances:** False
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages:** —

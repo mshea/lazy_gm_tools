@@ -13,10 +13,7 @@
 | 8 (-1) | 14 (+2) | 12 (+1) | 13 (+1) | 7 (-2) | 13 (+1) |
 
 - **Skills:** Perception +0, Sleight of Hand +4, Stealth +4
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** poison
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 10
 - **Languages:** Abyssal, Common, Infernal
 

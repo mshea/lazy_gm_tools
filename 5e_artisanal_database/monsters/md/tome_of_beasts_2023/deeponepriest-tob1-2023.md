@@ -15,9 +15,7 @@
 - **Saving Throws**: Con +5, Wis +3, Cha +5
 - **Skills:** Athletics +6, Deception +5, Perception +3
 - **Damage Vulnerabilities:** fire
-- **Damage Immunities:** False
 - **Damage Resistances:** cold
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 13
 - **Languages:** Common, Void Speech
 

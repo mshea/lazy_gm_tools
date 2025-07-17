@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +6, Con +8, Wis +7, Cha +8
 - **Skills:** Athletics +9, Insight +7, Investigation +5, Perception +7
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** acid, cold, lightning
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

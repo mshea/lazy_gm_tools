@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Wis +3, Cha +3
 - **Skills:** Arcana +5, History +5, Nature +5, Perception +3, Religion +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Draconic, Primordial, telepathy 60 ft.
 

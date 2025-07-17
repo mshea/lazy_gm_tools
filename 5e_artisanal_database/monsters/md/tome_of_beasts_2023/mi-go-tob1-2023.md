@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Str +6, Con +8, Cha +4
 - **Skills:** Arcana +10, Deception +7, Medicine +5, Perception +5, Stealth +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** cold, radiant
-- **Condition Immunities:** False
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Void Speech
 

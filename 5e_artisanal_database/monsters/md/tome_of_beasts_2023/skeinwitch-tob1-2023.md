@@ -14,10 +14,8 @@
 
 - **Saving Throws**: Int +7, Wis +9, Cha +9
 - **Skills:** History +7, Insight +13, Perception +13
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, lightning, psychic
 - **Damage Resistances:** radiant
-- **Condition Immunities:** False
 - **Senses:** truesight 60 ft., passive Perception 23
 - **Languages:** Celestial, telepathy 120 ft.
 

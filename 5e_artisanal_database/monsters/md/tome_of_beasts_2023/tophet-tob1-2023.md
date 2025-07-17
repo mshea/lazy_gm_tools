@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Str +8, Dex +3, Con +8
 - **Skills:** Perception +3
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison, psychic
 - **Damage Resistances:** cold
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

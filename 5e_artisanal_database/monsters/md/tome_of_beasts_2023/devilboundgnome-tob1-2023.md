@@ -14,8 +14,6 @@
 
 - **Saving Throws**: Con +6, Int +7, Cha +9
 - **Skills:** Arcana +7, Deception +9, History +7, Persuasion +9
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** cold, fire, poison; bludgeoning, piercing, and slashing damage from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11

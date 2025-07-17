@@ -13,9 +13,6 @@
 | 17 (+3) | 15 (+2) | 16 (+3) | 13 (+1) | 9 (-1) | 7 (-2) |
 
 - **Skills:** Perception +1, Stealth +4
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, poisoned, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Giant, Sylvan

@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +6, Cha +7
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned

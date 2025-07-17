@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Int +6, Wis +6, Cha +6
 - **Skills:** Nature +6, Perception +6
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid, cold, fire, lightning, poison, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious

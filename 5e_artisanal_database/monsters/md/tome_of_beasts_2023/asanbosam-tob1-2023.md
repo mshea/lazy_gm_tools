@@ -13,10 +13,6 @@
 | 18 (+4) | 13 (+1) | 17 (+3) | 11 (+0) | 10 (+0) | 5 (-3) |
 
 - **Skills:** Acrobatics +4, Perception +3, Stealth +4
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Giant
 

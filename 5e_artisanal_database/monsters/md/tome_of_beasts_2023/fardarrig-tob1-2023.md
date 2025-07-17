@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Cha +5
 - **Skills:** Nature +4, Animal Handling +4, Perception +4, Survival +4
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Elvish, Sylvan
 

@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Str +9, Dex +7, Con +10, Wis +6, Cha +9
 - **Skills:** Acrobatics +11, Athletics +9, Perception +6, Stealth +7
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, lightning, poison
 - **Damage Resistances:** acid, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Con +3, Wis +4
 - **Skills:** Animal Handling +4, Deception +9, Nature +6, Perception +4, Persuasion +9, Stealth +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Elvish, Sylvan, Umbral
 

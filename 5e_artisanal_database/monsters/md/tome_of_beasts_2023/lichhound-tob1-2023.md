@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Wis +2, Cha +5
 - **Skills:** Acrobatics +6, Perception +4
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** piercing and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, poisoned

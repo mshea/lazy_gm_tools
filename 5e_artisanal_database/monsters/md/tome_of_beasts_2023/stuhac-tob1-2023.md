@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Str +11, Dex +9, Con +10, Cha +7
 - **Skills:** Deception +12
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, poison
 - **Damage Resistances:** acid, fire, lightning; bludgeoning and piercing from nonmagical attacks
 - **Condition Immunities:** poisoned

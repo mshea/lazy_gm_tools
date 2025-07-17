@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Wis +4, Cha +4
 - **Skills:** Stealth +4
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** acid, necrotic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone

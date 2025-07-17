@@ -14,7 +14,6 @@
 
 - **Skills:** 
 - **Damage Vulnerabilities:** cold, fire
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 - **Senses:** darkvision 60 ft., passive Perception 12

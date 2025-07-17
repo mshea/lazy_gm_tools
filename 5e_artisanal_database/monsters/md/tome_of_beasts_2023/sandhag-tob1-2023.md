@@ -13,10 +13,6 @@
 | 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
 - **Skills:** Deception +6, Perception +5, Stealth +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Dwarvish, Giant, Gnomish
 

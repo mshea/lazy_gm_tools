@@ -13,9 +13,7 @@
 | 1 (-5) | 14 (+2) | 10 (+0) | 10 (+0) | 15 (+2) | 7 (-2) |
 
 - **Skills:** Perception +4
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic, radiant
-- **Damage Resistances:** False
 - **Condition Immunities:** blinded, charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** understands the languages of its creator but can’t speak

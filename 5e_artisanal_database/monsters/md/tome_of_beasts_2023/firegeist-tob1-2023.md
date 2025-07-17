@@ -13,9 +13,7 @@
 | 7 (-2) | 18 (+4) | 14 (+2) | 4 (-3) | 16 (+3) | 6 (-2) |
 
 - **Skills:** Perception +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
-- **Damage Resistances:** False
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Ignan

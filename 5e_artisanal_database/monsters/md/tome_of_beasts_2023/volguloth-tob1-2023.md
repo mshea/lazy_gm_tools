@@ -13,7 +13,6 @@
 | 16 (+3) | 15 (+2) | 14 (+2) | 12 (+1) | 13 (+1) | 11 (+0) |
 
 - **Skills:** Perception +3, Stealth +6
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid, poison
 - **Damage Resistances:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

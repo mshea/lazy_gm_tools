@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Dex +8, Con +11, Int +8, Wis +8, Cha +9
 - **Skills:** Arcana +8, Deception +9, Insight +8, Medicine +8, Perception +8, Stealth +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
-- **Damage Resistances:** False
 - **Condition Immunities:** exhaustion, poisoned, prone
 - **Senses:** darkvision 60 ft., passive Perception 18
 - **Languages:** Common, Draconic, Infernal

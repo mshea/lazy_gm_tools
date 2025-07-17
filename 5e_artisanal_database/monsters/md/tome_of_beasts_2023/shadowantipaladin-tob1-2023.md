@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Str +3, Wis +0, Cha +5
 - **Skills:** Perception +0, Stealth +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 10
 - **Languages:** Derro, Undercommon
 

@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Con +7, Int +9, Wis +7
 - **Skills:** History +12, Perception +10
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained

@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Con +6, Wis +7, Cha +6
 - **Skills:** Deception +9, History +5, Insight +7, Persuasion +9, Sleight of Hand +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; bludgeoning, piercing, and slashing damage from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

@@ -13,10 +13,6 @@
 | 10 (+0) | 16 (+3) | 17 (+3) | 13 (+1) | 9 (-1) | 16 (+3) |
 
 - **Skills:** Perception +1, Sleight of Hand +7, Stealth +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Darakhul, Dwarvish
 

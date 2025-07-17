@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Dex +7, Cha +7
 - **Skills:** Acrobatics +7, Perception +6, Stealth +10
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Goblin, Void Speech
 

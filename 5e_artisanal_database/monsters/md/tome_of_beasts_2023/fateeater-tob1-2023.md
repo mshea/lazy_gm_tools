@@ -14,9 +14,6 @@
 
 - **Saving Throws**: Con +5
 - **Skills:** Arcana +7, History +7, Insight +6, Religion +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened
 - **Senses:** truesight 60 ft., passive Perception 13
 - **Languages:** understands all but can’t speak, telepathy 100 ft.

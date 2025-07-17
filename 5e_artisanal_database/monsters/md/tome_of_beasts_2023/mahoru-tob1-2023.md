@@ -13,10 +13,6 @@
 | 18 (+4) | 19 (+4) | 14 (+2) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 - **Skills:** Perception +3, Stealth +6
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** —
 

@@ -13,9 +13,6 @@
 | 19 (+4) | 12 (+1) | 17 (+3) | 1 (-5) | 13 (+1) | 10 (+0) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** paralyzed
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** —

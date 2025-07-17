@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Dex +8, Cha +6
 - **Skills:** Acrobatics +8, Deception +6, Perception +4, Stealth +8
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Elvish, Umbral
 

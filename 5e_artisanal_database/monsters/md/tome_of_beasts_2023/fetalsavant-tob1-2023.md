@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Wis +3, Cha +7
 - **Skills:** Perception +3
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** psychic
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Dwarvish, telepathy 60 ft.

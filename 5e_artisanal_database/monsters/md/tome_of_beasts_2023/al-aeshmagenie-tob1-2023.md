@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Dex +6, Wis +7, Cha +9
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, thunder
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 13
 - **Languages:** Auran, Common, Ignan
 

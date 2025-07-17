@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +9, Con +7, Cha +9
 - **Skills:** Perception +10, Stealth +9
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron weapons
 - **Condition Immunities:** charmed, exhaustion, frightened

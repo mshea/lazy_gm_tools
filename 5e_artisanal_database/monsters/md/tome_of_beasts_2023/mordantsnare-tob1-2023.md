@@ -13,7 +13,6 @@
 | 23 (+6) | 16 (+3) | 21 (+5) | 15 (+2) | 14 (+2) | 6 (-2) |
 
 - **Skills:** Deception +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid
 - **Damage Resistances:** bludgeoning from nonmagical attacks
 - **Condition Immunities:** prone

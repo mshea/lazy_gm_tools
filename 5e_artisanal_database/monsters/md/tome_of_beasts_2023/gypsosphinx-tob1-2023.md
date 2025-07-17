@@ -13,7 +13,6 @@
 | 20 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 18 (+4) | 18 (+4) |
 
 - **Skills:** Arcana +9, History +9, Perception +9, Religion +9
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** psychic, poison
 - **Damage Resistances:** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

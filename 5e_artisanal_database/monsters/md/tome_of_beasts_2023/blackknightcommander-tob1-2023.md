@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Dex +3, Wis +4, Cha +5
 - **Skills:** Animal Handling +7, Athletics +7, Intimidation +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** passive Perception 11
 - **Languages:** any two languages
 

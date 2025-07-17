@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Str +8, Con +8, Cha +7
 - **Skills:** Athletics +8, Deception +7, Perception +5, Stealth +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, cold, lightning
 - **Condition Immunities:** exhaustion, frightened, paralyzed, petrified, poisoned

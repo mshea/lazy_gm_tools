@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Dex +8, Con +10, Wis +12, Cha +10
 - **Skills:** Arcana +8, History +8, Insight +12, Perception +12, Religion +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Damage Resistances:** False
 - **Condition Immunities:** blinded, charmed, frightened, paralyzed
 - **Senses:** truesight 120 ft., passive Perception 22
 - **Languages:** Abyssal, Celestial, Common, Draconic, Infernal, Primordial

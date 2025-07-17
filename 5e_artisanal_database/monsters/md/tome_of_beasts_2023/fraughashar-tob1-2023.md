@@ -13,10 +13,7 @@
 | 8 (-1) | 14 (+2) | 12 (+1) | 10 (+0) | 14 (+2) | 7 (-2) |
 
 - **Skills:** Stealth +4
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** passive Perception 10
 - **Languages:** Sylvan
 

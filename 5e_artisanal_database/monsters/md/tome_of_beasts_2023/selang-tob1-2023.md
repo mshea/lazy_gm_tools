@@ -14,10 +14,8 @@
 
 - **Saving Throws**: Dex +4, Cha +6
 - **Skills:** Perception +6, Performance +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid, lightning
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Elvish, Sylvan, Void Speech
 

@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Dex +7, Con +13, Wis +8, Cha +9
 - **Skills:** Perception +14, Stealth +7
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
-- **Damage Resistances:** False
 - **Condition Immunities:** blinded, poisoned
 - **Senses:** blindsight 60 ft., tremorsense 120 ft., passive Perception 24
 - **Languages:** Common, Darakhul, Draconic

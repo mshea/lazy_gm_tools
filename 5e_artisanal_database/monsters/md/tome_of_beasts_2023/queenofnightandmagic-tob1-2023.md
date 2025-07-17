@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Con +10, Wis +11
 - **Skills:** Arcana +12, Deception +15, Intimidation +15, Perception +11, Stealth +11
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron weapons
 - **Damage Resistances:** fire, lightning
 - **Condition Immunities:** charmed, frightened

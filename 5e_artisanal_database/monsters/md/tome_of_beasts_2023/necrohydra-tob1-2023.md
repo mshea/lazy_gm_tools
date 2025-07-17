@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Wis +4
 - **Skills:** Perception +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** exhaustion, poisoned

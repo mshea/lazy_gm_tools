@@ -13,10 +13,7 @@
 | 5 (-3) | 18 (+4) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, thunder
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 11
 - **Languages:** Common, Primordial
 

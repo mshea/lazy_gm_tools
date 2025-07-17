@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +8
 - **Skills:** Arcana +5, Deception +6, Perception +3, Stealth +11
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned

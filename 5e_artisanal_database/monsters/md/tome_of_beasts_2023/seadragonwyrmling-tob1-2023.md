@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Dex +2, Con +4, Wis +2, Cha +4
 - **Skills:** Perception +4, Stealth +2
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Draconic, Primordial
 

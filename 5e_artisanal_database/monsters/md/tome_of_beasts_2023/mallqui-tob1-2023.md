@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Int +3, Cha +5
 - **Skills:** History +3, Insight +7, Religion +3
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned

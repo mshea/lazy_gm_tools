@@ -13,9 +13,7 @@
 | 20 (+5) | 16 (+3) | 18 (+4) | 10 (+0) | 16 (+3) | 8 (-1) |
 
 - **Skills:** Athletics +8, Perception +9, Stealth +6
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, poison, thunder
-- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 19
 - **Languages:** Common, Draconic

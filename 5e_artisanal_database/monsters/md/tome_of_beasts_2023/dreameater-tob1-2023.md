@@ -13,7 +13,6 @@
 | 15 (+2) | 18 (+4) | 17 (+3) | 16 (+3) | 13 (+1) | 20 (+5) |
 
 - **Skills:** Deception +8, Insight +4, Persuasion +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

@@ -14,9 +14,6 @@
 
 - **Saving Throws**: Dex +5, Con +3
 - **Skills:** Acrobatics +5, Stealth +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., tremorsense 10 ft., passive Perception 10
 - **Languages:** Common

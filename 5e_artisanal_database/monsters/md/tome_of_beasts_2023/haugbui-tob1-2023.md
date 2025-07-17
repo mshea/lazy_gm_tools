@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +10, Con +9, Wis +10
 - **Skills:** Arcana +7, History +7, Intimidation +8, Perception +10, Religion +12
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances:** acid, cold, fire, lightning, necrotic, thunder
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained

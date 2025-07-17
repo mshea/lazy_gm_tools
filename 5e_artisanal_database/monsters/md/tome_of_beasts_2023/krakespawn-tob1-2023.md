@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Str +12, Con +11, Int +8, Cha +9
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, poison, psychic
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 12
 - **Languages:** Common, Infernal, Primordial, Void Speech

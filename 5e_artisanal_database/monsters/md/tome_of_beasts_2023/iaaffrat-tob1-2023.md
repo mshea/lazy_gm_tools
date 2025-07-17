@@ -16,7 +16,6 @@
 - **Skills:** Arcana +10, Deception +11, Insight +9, Perception +9, Persuasion +11
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** bludgeoning, fire, piercing, poison, slashing
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned
 - **Senses:** blindsight 10 ft., darkvision 120 ft., passive Perception 19
 - **Languages:** Common, Infernal, Primordial, telepathy 120 ft.

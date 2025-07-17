@@ -14,8 +14,6 @@
 
 - **Saving Throws**: Con +9, Wis +8, Cha +6
 - **Skills:** Perception +8
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** cold, fire
 - **Condition Immunities:** paralyzed, unconscious
 - **Senses:** blindsight 60 ft., darkvision 90 ft., passive Perception 18

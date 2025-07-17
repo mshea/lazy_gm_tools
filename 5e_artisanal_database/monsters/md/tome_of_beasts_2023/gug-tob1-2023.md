@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Str +11, Dex +4, Con +9, Cha +6
 - **Skills:** Athletics +11, Perception +3, Stealth +4
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
-- **Damage Resistances:** False
 - **Condition Immunities:** exhaustion, paralyzed, poisoned
 - **Senses:** darkvision 240 ft., passive Perception 13
 - **Languages:** Deep Speech, Giant, Undercommon

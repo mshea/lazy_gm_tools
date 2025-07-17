@@ -13,8 +13,6 @@
 | 15 (+2) | 16 (+3) | 22 (+6) | 12 (+1) | 14 (+2) | 19 (+4) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** thunder
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 12

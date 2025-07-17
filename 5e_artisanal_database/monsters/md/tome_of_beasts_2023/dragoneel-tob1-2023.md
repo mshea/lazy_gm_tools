@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Str +12, Dex +5, Int +6, Wis +5, Cha +6
 - **Skills:** Acrobatics +5, Athletics +12, Insight +5, Perception +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning
-- **Damage Resistances:** False
 - **Condition Immunities:** paralyzed, prone
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Draconic, Primordial

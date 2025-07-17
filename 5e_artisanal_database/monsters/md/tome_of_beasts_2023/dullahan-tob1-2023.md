@@ -13,7 +13,6 @@
 | 19 (+4) | 18 (+4) | 20 (+5) | 13 (+1) | 15 (+2) | 17 (+3) |
 
 - **Skills:** Intimidation +7, Perception +6, Persuasion +7, Survival +6
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** necrotic
 - **Damage Resistances:** bludgeoning, piercing, and slashing damage from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened

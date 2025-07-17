@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Con +4, Wis +5, Cha +6
 - **Skills:** Animal Handling +8, Insight +5, Intimidation +6, Perception +8, Stealth +8
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 18
 - **Languages:** Common, Sylvan
 

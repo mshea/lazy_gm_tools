@@ -13,7 +13,6 @@
 | 12 (+1) | 16 (+3) | 15 (+2) | 6 (-2) | 12 (+1) | 14 (+2) |
 
 - **Skills:** Stealth +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** charmed, exhaustion, frightened, poisoned

@@ -14,8 +14,6 @@
 
 - **Skills:** 
 - **Damage Vulnerabilities:** fire
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** blinded, deafened
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages:** understands the languages of its vine lord but can’t speak

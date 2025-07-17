@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +8, Con +13, Wis +8, Cha +11
 - **Skills:** Perception +8, Stealth +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** thunder
 - **Damage Resistances:** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** frightened

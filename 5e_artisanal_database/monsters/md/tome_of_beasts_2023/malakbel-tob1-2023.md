@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +7, Wis +7
 - **Skills:** Perception +7
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, radiant, poison
 - **Damage Resistances:** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, poisoned

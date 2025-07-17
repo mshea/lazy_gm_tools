@@ -14,9 +14,7 @@
 
 - **Skills:** Insight +6
 - **Damage Vulnerabilities:** fire
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Druidic, Elvish, Sylvan, Umbral
 

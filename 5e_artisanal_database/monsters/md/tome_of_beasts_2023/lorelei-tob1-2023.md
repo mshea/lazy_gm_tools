@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Dex +8, Cha +8
 - **Skills:** Deception +8, Performance +8, Persuasion +8
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Sylvan
 

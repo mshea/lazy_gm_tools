@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Wis +3
 - **Skills:** Deception +8, Stealth +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone

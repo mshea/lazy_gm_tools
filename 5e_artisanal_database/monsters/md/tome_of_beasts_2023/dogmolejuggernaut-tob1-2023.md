@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Con +8
 - **Skills:** 
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** blindsight 30 ft., passive Perception 10
 - **Languages:** —
 

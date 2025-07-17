@@ -13,9 +13,7 @@
 | 10 (+0) | 16 (+3) | 10 (+0) | 9 (-1) | 8 (-1) | 8 (-1) |
 
 - **Skills:** Acrobatics +5, Perception +3
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
-- **Damage Resistances:** False
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** understands Common but can’t speak

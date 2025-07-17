@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +6, Wis +7, Cha +8
 - **Skills:** Perception +7
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, radiant
 - **Damage Resistances:** piercing
 - **Condition Immunities:** charmed, exhaustion

@@ -14,7 +14,6 @@
 
 - **Skills:** 
 - **Damage Vulnerabilities:** fire
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** blinded, deafened
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 10

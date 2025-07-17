@@ -13,7 +13,6 @@
 | 17 (+3) | 8 (-1) | 13 (+1) | 3 (-4) | 11 (+0) | 6 (-2) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning and piercing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, poisoned

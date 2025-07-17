@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +4
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning
 - **Condition Immunities:** poisoned

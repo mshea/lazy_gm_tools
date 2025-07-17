@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Con +4, Int +7, Wis +4
 - **Skills:** Arcana +7, History +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** poison
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Dwarvish
 

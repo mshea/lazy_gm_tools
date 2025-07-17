@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Str +11, Dex +7, Wis +6, Cha +8
 - **Skills:** Athletics +11, Intimidation +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

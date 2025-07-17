@@ -13,10 +13,7 @@
 | 11 (+0) | 14 (+2) | 14 (+2) | 13 (+1) | 12 (+1) | 11 (+0) |
 
 - **Skills:** Athletics +4, Perception +3
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** poison
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Erina
 

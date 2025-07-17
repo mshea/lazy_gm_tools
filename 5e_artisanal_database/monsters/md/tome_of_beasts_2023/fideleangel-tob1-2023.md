@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +7, Con +5, Int +5, Wis +6, Cha +7
 - **Skills:** Insight +6, Perception +6
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid, cold
 - **Damage Resistances:** fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, petrified, poisoned

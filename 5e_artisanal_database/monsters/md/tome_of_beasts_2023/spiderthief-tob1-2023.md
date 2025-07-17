@@ -13,7 +13,6 @@
 | 10 (+0) | 12 (+1) | 14 (+2) | 3 (-4) | 10 (+0) | 1 (-5) |
 
 - **Skills:** Stealth +3
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** fire
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

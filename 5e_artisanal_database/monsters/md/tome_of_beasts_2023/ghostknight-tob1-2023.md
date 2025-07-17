@@ -13,7 +13,6 @@
 | 17 (+3) | 15 (+2) | 14 (+2) | 8 (-1) | 10 (+0) | 7 (-2) |
 
 - **Skills:** Athletics +6, Animal Handling +3, Perception +3, Stealth +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** charmed, exhaustion, poisoned

@@ -13,9 +13,6 @@
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 16 (+3) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** frightened
 - **Senses:** passive Perception 10
 - **Languages:** Common

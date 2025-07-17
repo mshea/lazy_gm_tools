@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Str +13, Dex +7, Con +14, Wis +13
 - **Skills:** Deception +10, History +11, Insight +13, Perception +13, Persuasion +10
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

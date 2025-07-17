@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Con +15, Wis +12, Cha +9
 - **Skills:** Arcana +11, History +11, Nature +11, Stealth +6
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 15
 - **Languages:** Common, Giant
 

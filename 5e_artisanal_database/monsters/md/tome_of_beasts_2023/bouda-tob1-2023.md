@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +5, Con +7, Wis +4, Cha +5
 - **Skills:** Athletics +7, Deception +5, Intimidation +5, Perception +4, Stealth +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** acid, lightning; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** charmed, exhaustion, poisoned

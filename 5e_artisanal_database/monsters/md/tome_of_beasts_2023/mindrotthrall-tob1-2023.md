@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Con +5
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid, poison
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened, poisoned
 - **Senses:** tremorsense 30 ft., passive Perception 12
 - **Languages:** understands Common but can’t speak

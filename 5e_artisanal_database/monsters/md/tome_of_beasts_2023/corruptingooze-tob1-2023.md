@@ -13,7 +13,6 @@
 | 16 (+3) | 10 (+0) | 22 (+6) | 4 (-3) | 2 (-4) | 1 (-5) |
 
 - **Skills:** Stealth +3
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone poisoned

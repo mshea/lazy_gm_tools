@@ -13,9 +13,7 @@
 | 16 (+3) | 8 (-1) | 16 (+3) | 3 (-4) | 6 (-2) | 7 (-2) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, necrotic, poison
-- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 8
 - **Languages:** understands Void Speech and the languages it knew in life but can’t speak

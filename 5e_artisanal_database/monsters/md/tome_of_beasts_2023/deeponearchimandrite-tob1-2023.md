@@ -15,9 +15,7 @@
 - **Saving Throws**: Dex +6, Wis +6, Cha +7
 - **Skills:** Arcana +4, Perception +6
 - **Damage Vulnerabilities:** fire
-- **Damage Immunities:** False
 - **Damage Resistances:** cold, thunder
-- **Condition Immunities:** False
 - **Senses:** darkvision 240 ft., passive Perception 16
 - **Languages:** Common, Void Speech
 

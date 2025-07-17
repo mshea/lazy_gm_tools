@@ -13,10 +13,6 @@
 | 7 (-2) | 17 (+3) | 16 (+3) | 10 (+0) | 12 (+1) | 13 (+1) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Draconic
 

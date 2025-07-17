@@ -13,8 +13,6 @@
 | 3 (-4) | 17 (+3) | 14 (+2) | 1 (-5) | 6 (-2) | 1 (-5) |
 
 - **Skills:** Stealth +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** acid
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8

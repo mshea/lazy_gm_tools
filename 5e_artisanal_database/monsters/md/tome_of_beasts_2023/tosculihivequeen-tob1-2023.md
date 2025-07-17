@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Dex +11, Con +9, Wis +7, Cha +8
 - **Skills:** Perception +7
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 17
 - **Languages:** Common, Deep Speech, Gnoll, Infernal, Tosculi, telepathy 120 ft.

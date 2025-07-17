@@ -13,7 +13,6 @@
 | 6 (-2) | 16 (+3) | 18 (+4) | 11 (+0) | 15 (+2) | 16 (+3) |
 
 - **Skills:** Stealth +6
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, poisoned, prone, stunned

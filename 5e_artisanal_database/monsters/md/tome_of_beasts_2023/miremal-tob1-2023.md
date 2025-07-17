@@ -13,10 +13,6 @@
 | 10 (+0) | 15 (+2) | 12 (+1) | 10 (+0) | 12 (+1) | 8 (-1) |
 
 - **Skills:** Perception +3, Stealth +6, Survival +3
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Sylvan, Umbral
 

@@ -13,10 +13,6 @@
 | 7 (-2) | 17 (+3) | 14 (+2) | 14 (+2) | 17 (+3) | 16 (+3) |
 
 - **Skills:** Deception +5, Insight +5, Perception +5, Stealth +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Deep Speech, Primordial, Sylvan, telepathy 60 ft.
 

@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Dex +8, Cha +6
 - **Skills:** Acrobatics +11, Perception +4
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** acid, fire; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 14
 - **Languages:** Common, Goblin, Infernal, Sylvan, Void Speech
 

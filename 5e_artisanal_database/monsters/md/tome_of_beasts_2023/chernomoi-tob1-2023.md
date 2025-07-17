@@ -13,10 +13,7 @@
 | 9 (-1) | 18 (+4) | 18 (+4) | 12 (+1) | 11 (+0) | 16 (+3) |
 
 - **Skills:** Acrobatics +6, Perception +2, Stealth +6
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Draconic, Sylvan
 

@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Str +9
 - **Skills:** Athletics +9, Perception +6
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** cold, fire, lightning, poison
-- **Condition Immunities:** False
 - **Senses:** darkvision 90 ft., passive Perception 16
 - **Languages:** Abyssal, Infernal, telepathy 60 ft.
 

@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Cha +6
 - **Skills:** Insight +7, Perception +7, Stealth +8
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., tremorsense 120 ft., passive Perception 17
 - **Languages:** Common, Deep Speech, Undercommon, telepathy 60 ft.
 

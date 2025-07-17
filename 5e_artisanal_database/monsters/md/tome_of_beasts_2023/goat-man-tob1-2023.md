@@ -14,9 +14,6 @@
 
 - **Saving Throws**: Dex +4
 - **Skills:** Acrobatics +4, Athletics +6, Stealth +6
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** understands Common, Giant, and Trollkin but can’t speak

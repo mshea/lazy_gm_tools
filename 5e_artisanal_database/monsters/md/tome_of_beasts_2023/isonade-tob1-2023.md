@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Str +15, Con +13, Wis +9
 - **Skills:** Athletics +15, Perception +9
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 90 ft., passive Perception 19
 - **Languages:** understands Aquan and Elvish, but can’t speak
 

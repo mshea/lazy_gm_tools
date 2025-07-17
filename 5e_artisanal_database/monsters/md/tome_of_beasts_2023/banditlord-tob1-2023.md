@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Str +5, Dex +4, Wis +2
 - **Skills:** Athletics +5, Deception +4, Intimidation +4
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** passive Perception 10
 - **Languages:** any two languages
 

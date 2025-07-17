@@ -15,8 +15,6 @@
 - **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** acid
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** blindsight 30 ft., passive Perception 10
 - **Languages:** —
 

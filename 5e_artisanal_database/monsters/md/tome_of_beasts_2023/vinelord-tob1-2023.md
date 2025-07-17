@@ -15,8 +15,6 @@
 - **Saving Throws**: Con +7, Wis +7, Cha +8
 - **Skills:** 
 - **Damage Vulnerabilities:** fire
-- **Damage Immunities:** False
-- **Damage Resistances:** False
 - **Condition Immunities:** blinded, deafened
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 13
 - **Languages:** Common, Sylvan

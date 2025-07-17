@@ -13,8 +13,6 @@
 | 28 (+9) | 10 (+0) | 21 (+5) | 3 (-4) | 12 (+1) | 10 (+0) |
 
 - **Skills:** 
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** exhaustion
 - **Senses:** passive Perception 11

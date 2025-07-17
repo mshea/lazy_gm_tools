@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Con +10, Wis +10, Cha +11
 - **Skills:** Arcana +11, Perception +10
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, fire, poison
 - **Damage Resistances:** acid; bludgeoning, piercing, and slashing from attacks not made with cold iron weapons
 - **Condition Immunities:** charmed, frightened, poisoned

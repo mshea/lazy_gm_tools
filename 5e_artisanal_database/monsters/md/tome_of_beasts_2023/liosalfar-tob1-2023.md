@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Con +4, Int +8, Wis +8, Cha +5
 - **Skills:** Arcana +8, Insight +8, Perception +8
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic, radiant
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious

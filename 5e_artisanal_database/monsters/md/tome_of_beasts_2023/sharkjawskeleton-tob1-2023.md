@@ -15,7 +15,6 @@
 - **Skills:** Perception +1, Stealth +2
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** cold, poison
-- **Damage Resistances:** False
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., blindsight 30 ft., passive Perception 11
 - **Languages:** understands the languages of its creator but can’t speak

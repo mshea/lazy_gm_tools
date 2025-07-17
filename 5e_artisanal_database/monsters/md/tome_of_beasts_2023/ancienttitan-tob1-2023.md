@@ -14,10 +14,7 @@
 
 - **Saving Throws**: Con +10, Wis +7, Cha +9
 - **Skills:** Athletics +12, Intimidation +9, Perception +7
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 17
 - **Languages:** Common, Giant, Primordial, telepathy 120 ft.
 

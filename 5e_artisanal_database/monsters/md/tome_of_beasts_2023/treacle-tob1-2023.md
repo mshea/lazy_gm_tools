@@ -13,10 +13,6 @@
 | 4 (-3) | 15 (+2) | 17 (+3) | 1 (-5) | 1 (-5) | 10 (+0) |
 
 - **Skills:** Deception +4
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 5
 - **Languages:** —
 

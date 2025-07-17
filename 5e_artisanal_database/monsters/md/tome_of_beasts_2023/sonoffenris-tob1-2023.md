@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +7, Con +10, Wis +8
 - **Skills:** Arcana +7, Intimidation +6, Religion +11
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, poison
 - **Damage Resistances:** necrotic, radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

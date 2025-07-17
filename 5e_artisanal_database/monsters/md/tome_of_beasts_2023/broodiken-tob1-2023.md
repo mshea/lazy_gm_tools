@@ -13,7 +13,6 @@
 | 8 (-1) | 14 (+2) | 16 (+3) | 2 (-4) | 10 (+0) | 6 (-2) |
 
 - **Skills:** Perception +4, Stealth +6
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

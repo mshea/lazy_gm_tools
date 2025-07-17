@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Dex +5, Wis +6, Cha +7
 - **Skills:** Arcana +4, Deception +7, Perception +6, Persuasion +7, Stealth +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 16
 - **Languages:** Common, Elvish, Umbral
 

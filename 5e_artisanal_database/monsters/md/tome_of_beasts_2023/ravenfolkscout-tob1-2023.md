@@ -14,10 +14,6 @@
 
 - **Saving Throws**: Wis +4
 - **Skills:** Deception +3, Perception +6, Stealth +6
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 120 ft., passive Perception 16
 - **Languages:** Common, Feather Speech, Ravenfolk
 

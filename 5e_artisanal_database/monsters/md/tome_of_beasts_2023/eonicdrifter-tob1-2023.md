@@ -13,10 +13,6 @@
 | 9 (-1) | 14 (+2) | 14 (+2) | 18 (+4) | 11 (+0) | 13 (+1) |
 
 - **Skills:** Arcana +6, History +6
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** passive Perception 10
 - **Languages:** Common, Eonic, Giant, Sylvan
 

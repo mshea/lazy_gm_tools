@@ -13,7 +13,6 @@
 | 26 (+8) | 14 (+2) | 28 (+9) | 12 (+1) | 20 (+5) | 13 (+1) |
 
 - **Skills:** Perception +11
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, slashing, thunder
 - **Damage Resistances:** bludgeoning, fire, piercing
 - **Condition Immunities:** blinded, deafened, prone, stunned, unconscious

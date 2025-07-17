@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Str +12, Con +12, Wis +9
 - **Skills:** Arcana +15, Perception +14
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** cold, fire, lightning, poison, psychic
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** exhaustion, frightened, paralyzed, petrified, poisoned

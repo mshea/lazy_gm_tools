@@ -13,9 +13,7 @@
 | 20 (+5) | 8 (-1) | 18 (+4) | 9 (-1) | 13 (+1) | 10 (+0) |
 
 - **Skills:** Perception +4
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** acid, fire
-- **Damage Resistances:** False
 - **Condition Immunities:** prone
 - **Senses:** darkvision 60 ft., tremorsense 30 ft., passive Perception 14
 - **Languages:** —

@@ -13,10 +13,6 @@
 | 19 (+4) | 16 (+3) | 13 (+1) | 6 (-2) | 13 (+1) | 16 (+3) |
 
 - **Skills:** Perception +3, Stealth +5
-- **Damage Vulnerabilities:** False
-- **Damage Immunities:** False
-- **Damage Resistances:** False
-- **Condition Immunities:** False
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** understands Sylvan but can’t speak
 

@@ -14,7 +14,6 @@
 
 - **Saving Throws**: Dex +6, Con +6, Wis +5
 - **Skills:** Deception +8, Perception +5, Survival +5
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** lightning, thunder, poison
 - **Damage Resistances:** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned, stunned

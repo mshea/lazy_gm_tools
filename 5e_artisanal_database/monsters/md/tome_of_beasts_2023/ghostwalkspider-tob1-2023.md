@@ -14,9 +14,7 @@
 
 - **Saving Throws**: Dex +9, Cha +3
 - **Skills:** Perception +6, Stealth +9
-- **Damage Vulnerabilities:** False
 - **Damage Immunities:** poison
-- **Damage Resistances:** False
 - **Condition Immunities:** poisoned
 - **Senses:** truesight 60 ft., passive Perception 16
 - **Languages:** understands Undercommon but can’t speak
