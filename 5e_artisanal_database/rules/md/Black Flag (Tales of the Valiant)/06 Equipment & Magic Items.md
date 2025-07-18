@@ -437,7 +437,7 @@ melee weapon attack.
 | Mace         | 5 gp | 1d6 bludgeoning     |  4 lb. | Bash          | -                                        |
 | Quarterstaff | 2 sp | 1d6/1d8 bludgeoning |  4 lb. | Bash          | Versatile                                |
 | Sickle       | 1 gp | 1d4 slashing        |  2 lb. | Hamstring     | Light                                    |
-| Spear        | 1 gp | 1d6/1d8 piercing    |  3 lb. | Pull, Trip    | Thrown (range 20/60 ft.), Versatile      |
+| Spear        | 1 gp | 1d6/1d8 piercing    |  3 lb. | Pull, Trip    | Reach, Versatile      |
 
 #### Table: Simple Ranged Weapons
 
@@ -2024,9 +2024,12 @@ at one end of the barrel, allowing two Medium or smaller
 creatures to crawl inside. Ten levers are set in a row at the
 far end, each in a neutral position, able to move either
 up or down. When certain levers are used, the apparatus
-transforms to resemble a giant lobster. See the Levers of
-the Apparatus table for what each lever does.
-The _apparatus of the crab_ is a Large object with AC 20 and 200 Hp.
+transforms to resemble a giant lobster.
+The apparatus of the crab is a Large object with AC 20 and 200 HP, it is immune to poison damage and psychic damage, and it has a walking speed of 30 feet and swimming speed of 30 feet, while its legs and tail are extended.
+
+The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the apparatus takes 2d6 bludgeoning damage per minute from pressure. To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The sealed compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
+
+A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. See the Levers of the Apparatus table for what each lever does.
 
 ##### Table: Levers on the Apparatus
 
@@ -2452,7 +2455,7 @@ word, provided that the broom is still within 1 mile of you.
 
 #### Cape of the Mountebank
 
-_Wondrous Item, Rare; 60,000 gp_
+_Wondrous Item, Rare; 8,400 gp_
 
 This cape smells faintly of brimstone. While wearing it,
 you can use it to cast the dimension door spell as an action.
@@ -3164,8 +3167,7 @@ transported to a random location on the Ethereal Plane,
 where the nightmare reverts to figurine form.
 
 **_Onyx Dog (Rare, 8,000 gp)._** This onyx statuette of a
-dog can become a mastiff for up to 6 hours. The mastiff
-has an INT score of 8 and can speak Common. It also
+dog can become a mastiff for up to 6 hours. The mastiff has an INT of −1 and can speak Common. It also
 has darkvision to a range of 60 feet and can see invisible
 creatures and objects within that range. Once it has been
 used, it can't be used again until 7 days have passed.
@@ -4324,7 +4326,7 @@ action to become visible again.
 
 _Ring, Uncommon (Requires Attunement); 1,500 gp_
 
-While wearing this ring, you can cast the jump spell from it
+While wearing this ring, you can cast the longstrider spell from it
 as a bonus action. You can target only yourself with it.
 Ring of Mind Shielding
 
@@ -4398,15 +4400,12 @@ This ring stores spells cast into it, holding them until
 the attuned wearer uses them. The ring can store up to 5
 circles' worth of spells at a time. When found, it contains
 1d6 − 1 circles of stored spells chosen by the GM.
-Any creature can cast a spell of 1st through 5th circle into
-the ring by touching the ring as the spell is cast. The spell
-has no effect, other than to be stored in the ring. If the ring
+Any creature can store a spell it knows or has prepared of 1st through 5th circle in the ring by taking an action and touching the ring, expending a spell slot as if the creature had cast the spell. If the ring
 can't hold the spell, the spell is expended without effect.
 The circle of the spell slot used to cast the spell determines
 how much space it uses.
 
-While wearing this ring, you can cast any spell stored in
-it. The spell uses the slot circle, spell save DC, spell attack
+While wearing this ring, you can cast any spell stored in it, using the appropriate action. If the spell requires a trigger, the conditions for that trigger must be met to cast the spell. The spell uses the slot circle, spell save DC, spell attack
 bonus, and spellcasting ability of the original caster, but is
 otherwise treated as if you cast the spell. A spell cast from
 the ring is no longer stored in it, freeing up space.
@@ -4530,8 +4529,7 @@ of spheres you created.
 
 _Ring, Uncommon (Requires Attunement); 2,000 gp_
 
-While wearing this ring, you have resistance to cold
-damage. In addition, you and your equipment are
+While wearing this ring, you are resistant to cold damage. In addition, you and your equipment are
 unharmed by temperatures as low as -50 degrees
 Fahrenheit.
 

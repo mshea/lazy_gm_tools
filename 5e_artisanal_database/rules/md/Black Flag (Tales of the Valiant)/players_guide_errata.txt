@@ -1,0 +1,308 @@
+Errata 5/29/2025
+
+COMPLETED CORRECTIONS:
+===CLASS FEATURES (All Applied)===
+- Page 24: Barbarian Fast Movement ✅ DONE  
+- Page 24: Barbarian Persistent Rage → Relentless Rage ✅ DONE
+- Page 26: Berserker Frenzy feature ✅ DONE
+- Page 26: Berserker Mindless Rage feature ✅ DONE
+- Page 30: Bard Bardic Inspiration dice progression ✅ DONE
+- Page 63: Monk Unarmored Movement ✅ DONE
+- Page 67: Paladin Divine Smite text ✅ DONE
+- Page 78: Rogue Sneak Attack (already correct) ✅ DONE
+- Page 84: Sorcerer Metamagic example ✅ DONE
+- Page 91: Warlock Pact Magic table ✅ DONE
+
+===SPELLS (All Applied)===
+- Page 266: conjure minor elementals ✅ DONE
+- Page 268: create food and water ✅ DONE
+- Page 298: moonbeam At Higher Circles ✅ DONE
+- Page 312: spiritual weapon duration ✅ DONE
+- Page 314: sunbeam light description ✅ DONE
+- Page 345: prayer of healing scaling ✅ DONE
+- Page 349: symbol casting time ✅ DONE
+
+===EQUIPMENT (All Applied)===
+- Page 138: Spear properties ✅ DONE
+- Page 162: apparatus of the crab ✅ DONE
+- Page 168: cape of the mountebank price ✅ DONE
+- Page 175: onyx dog figurine ✅ DONE
+- Page 187: ring of jumping ✅ DONE
+- Page 188: ring of spell storing ✅ DONE
+- Page 188: ring of warmth ✅ DONE
+
+===TALENTS/BACKGROUNDS (Most Applied)===
+- Page 120: Criminal background clothes ✅ DONE
+- Page 127: Psycanist talent ✅ DONE
+- Page 127: Ritualist talent ✅ DONE
+- Page 128: Armor Training talent ✅ DONE
+- Page 128: Furious Charge talent ✅ DONE
+- Page 129: Hand to Hand talent ✅ DONE
+- Page 131: Covert talent ✅ DONE
+- Page 132: Quick talent ✅ DONE
+- Page 132: Scrutinous talent ✅ DONE
+
+===GAME MECHANICS (PENDING)===
+- Page 204: Spending Luck ✅ DONE (already correct)
+- Page 219: Death Saves (Luck applicable) ✅ DONE
+- Page 353: Frightened condition ✅ DONE
+- Page 353: Incapacitated condition ✅ DONE
+- And other game mechanics corrections ⏳ PENDING
+
+[New] Page 14: Add a new sentence at the end of the second paragraph of the Leveling Up heading: Regardless of which class you choose when you gain a level, your combined total levels in all classes is known as your character level.
+
+[New] Page 17: Replace the text of the Spell Slots subheading with: Determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin, ranger, and warlock classes, and a third of your level (rounded down) in the class if you have a subclass that gives you spellcasting when that class doesn’t normally have spellcasting, such as the Spell Blade subclass of the fighter. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
+
+[New] Page 22: In the Spellcasting Focus heading’s first paragraph, replace the second sentence with: It works just like a component pouch.
+
+[New] Page 24: In the Fast Movement feature, replace the first sentence with: Your walking speed increases by 10 feet while you aren’t wearing heavy armor.
+
+[New] Page 24: On the 14th-level line of the Barbarian Progression table, replace Persistent Rage with Relentless Rage
+
+[New] Page 26: Replace the text of the Frenzy feature with: You go into a frenzy when you rage. While raging, you can make a single melee weapon attack as a bonus action on each of your turns.
+
+[New] Page 26: In the Mindless Rage feature, remove “while raging” from the first sentence of the second bullet point, and remove “during a frenzy” from the third bullet point.
+
+[New] Page 27: In the Lizard option of the Primal Aspect feature, replace the first sentence with: Your walking speed increases by 10 feet, and you gain a climbing speed equal to your walking speed.
+
+[New] Page 30: In the Bardic Inspiration feature, replace the last sentence with: The die becomes a d8 at 5th level, d10 at 9th, and d12 at 14th.
+
+[New] Page 30: Replace the first paragraph of the Celebrate Life bardic performance with: At 2nd level, while your Bardic Performance feature is active, allies within range can choose to expend one of their hit dice at the start of their turn. When they do so, they roll the expended die and recover a number of hit points equal to the number rolled + your CHA modifier.
+
+[New] Page 31: Replace the text of the Valiant Inspiration Heroic Boon feature with: When a creature with one of your Bardic Inspiration dice successfully deals damage with an attack, the creature can expend and roll the die to deal extra damage equal to the number rolled. The extra damage is of the same type as that of the triggering attack (though the attacker chooses which type if there are more than one). Alternatively, when a creature with one of your Bardic Inspiration dice takes damage, the creature can use its reaction to expend and roll the die to reduce the amount of damage taken by an amount equal to the number rolled + your CHA modifier.
+
+[New] Page 32: Replace the text of the victory bard’s Expanded Talent List feature with: When you gain a new talent, you can select it from the martial or technical talents list (see Talents in Chapter 4).
+
+[New] Page 32: Replace the first sentence of the Unified Front feature with: When you are affected by a spell or feature that targets an area and requires a save—like the fireball spell or a dragon’s breath weapon—you can use your reaction to expend a Bardic Inspiration die and add the number rolled to your save against the effect.
+
+[New] Page 32: Replace the first sentence of the Inspired Strike feature with: Once per turn, when you make a weapon or spell attack roll and have at least one use of your Bardic Inspiration feature available, you can roll a Bardic Inspiration die and add the number rolled to your attack roll.
+
+[New] Page 39: Replace the first sentence of the Lux Malediction feature with: The Searing Radiance effect of your Channel Divinity feature now causes bright light shed by all sources of light you have created to become magical sunlight for 1 minute.
+
+[New] Page 40: In the druid’s Starting Equipment, replace scimitar with sickle
+
+[New] Page 45: Replace the last sentence of the Take Root feature with: When you do so, roll the die and regain hit points equal to the number rolled plus your CON modifier.
+
+[New] Page 45: Replace the first paragraph of the Potent Forms feature with: You can select more powerful creatures for the known forms used with the Beast Form effect of your Wild Shape feature. When you gain this feature, you can choose any Beast or creature with the Animal tag with a CR of 1 or lower as a known form, and you use the hit points of the creature when you use Beast Form, not the Hit Points by Form Size table.
+
+[New] Page 50: In the Spells Known of 1st Circle and Higher feature, add a new sentence at the end of the second paragraph: The spells you learn at 8th level and beyond can come from any school of magic.
+
+[New] Page 50: In the Spells Known of 1st Circle and Higher feature, replace the last sentence of the third paragraph with: The replacement spell must be of a circle for which you have Arcane spell slots, and it must be an abjuration or evocation spell—unless you’re replacing the third spell you gained at 3rd level or any of the spells you chose at 8th level and beyond.
+
+[New] Page 54: In the Transform aspect of the Shard of Creation feature, replace the first sentence of the first paragraph with: While touching the shard, you can use an action and expend 1 charge to transform it into any type of nonmagical weapon or shield or object of Medium size or smaller.
+
+[New] Page 54: In the Transform aspect of the Shard of Creation feature, replace the first sentence of the second paragraph with: A transformed shard remains in its new form until you die, use an action to return it to its original state (expending no charges), or use an action to transform it again.
+
+[New] Page 54: In the Augment feature, add a new sentence at the end of the second paragraph: In addition, when you gain a level in this class, you can choose one augment you know and replace it with another augment that you meet the prerequisites for. You can’t replace any unique augments you gain from your subclass.
+
+[New] Page 58: In the Metallurgist Progression table, replace 9th with 11th
+
+[New] Page 63: In the Unarmored Movement feature, replace the first sentence with: Your walking speed increases by 10 feet while you aren’t wearing armor or wielding a shield.
+
+[New] Page 64: In the Obsidian Eyes feature, add a new sentence at the end of the first paragraph: You can have this effect active on only one creature at a time.
+
+[New] Page 67: In the Divine Smite feature, remove “Divine” from the first sentence.
+
+[New] Page 70: In the last sentence of the Aura of Devotion feature, replace 18th-level with 17th-level.
+
+[New] Page 70–71: Replace the first paragraph of the Holy Nimbus feature with: As an action, you can emanate a nimbus of sunlight. For 1 minute, you emit sunlight in a 30-foot radius and dim light for an additional 30 feet. This light banishes areas of magical darkness created by the darkness spell or similar magic.
+
+[New] Page 71: In the last sentence of the Aura of Vigilance feature, replace 18th-level with 17th-level.
+
+[New] Page 77: In the Beast Spirit statistics, replace the Perception and Stealth line with: Perception 10+your PB+WIS | Stealth 10+twice your PB+DEX
+
+[New] Page 77: In the Beast Spirit statistics, replace the first sentence of the Avian Form trait with: “The spirit has a flying speed equal to twice its walking speed.”
+
+[New] Page 78: Replace the first paragraph of the Sneak Attack feature with: You know how to strike subtly and exploit a foe’s distraction. Once on your turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The weapon you use must have the Finesse property or be a ranged weapon.
+
+[New] Page 81: Replace the second paragraph of the Kill Shot feature with: In addition, you can apply your Sneak Attack feature to any eligible weapon attack you make as part of an opportunity attack if you haven’t used your Sneak Attack feature yet on your turn in this round.
+
+[New] Page 84: In the Enlarged Spell aspect of the Metamagic feature, replace the last sentence of the Circle, Cylinder, or Sphere bullet point with: For example, the antimagic field spell could be altered to affect a 15-foot-radius sphere (instead of a 10-foot-radius sphere).
+
+[New] Page 87: Replace the first paragraph of the Embrace Chaos feature with: As a bonus action, you can roll on the Volatile Spell Effect table and suffer the effects as though you are the target of any effect or spell. If the number rolled is an even number, you gain a number of sorcery points equal to your PB. If the number rolled is an odd number, you gain a number of temporary hit points equal to your CON score, which last for 1 hour.
+
+[New] Page 88: In the Volatile Spell Effect table, replace the second sentence of entry 47–48 with: A creature can make a CON save against your spell save DC at the end of each of its turns, ending the effect on itself on a success.
+
+[New] Page 88: In the Volatile Spell Effect table, replace the first sentence of entry 55–56 with: Until you finish a long rest, your walking speed increases by 15 feet.
+
+[New] Page 89: In the Volatile Spell Effect table, replace the second sentence of entry 93–94 with: A creature can make a WIS save against your spell save DC at the end of each of its turns, ending the effect on itself on a success.
+
+[New] Page 90: Replace the Draconic Origin Spells table with this table:
+
+Sorcerer Level	Spells
+3rd	elemental blade, dragon ancestor spell
+5th	fear, dragon ancestor spell
+7th	elemental shield, dragon ancestor spell
+9th	dominate, dragon ancestor spell
+11th	mass suggestion, dragon ancestor spell
+[New] Page 90: Replace the Dragon Ancestor Damage Type and Spells table with this table:
+
+Dragon Type	Damage Type	3rd Level	5th Level	7th Level	9th Level	11th Level
+Black or Copper	Acid	acid arrow	stinking cloud	stone shape	cloudkill	flesh to stone
+Blue or Bronze	Lightning	invisibility	lightning bolt	greater invisibility	conjure elemental (air)	chain lightning
+Brass, Gold, or Red	Fire	heat metal	fireball	wall of fire	flame strike	eyebite
+Green	Poison	barkskin	stinking cloud	blight	contagion	transport via plants
+Silver or White	Cold	hold	sleet storm	ice storm	cone of cold	wind walk
+Void	Necrotic	ray of enfeeblement	vampiric touch	blight	antilife shell	circle of death
+Yellow	Radiant	moonbeam	daylight	mass faerie fire	flame strike	sunbeam
+[New] Page 91: On the 3rd-level line of the Warlock Progression table, replace the text in the Features column with: Pact Magic (2/Rest), Warlock Subclass
+
+[New] Page 92: In the Pact of the Blade feature, replace the first sentence of the third paragraph with: You can transform an existing melee weapon into your pact weapon by performing a special ritual while you hold the weapon.
+
+[New] Page 94: Replace the text of the Echoes of Power aspect of the Heroic Boon feature with: When you successfully hit with one of your Eldritch Blast beams and roll a 10 on the damage die, you can roll the d10 again and add the number rolled to the result as extra force damage dealt by that beam.
+
+[New] Page 101: In the Your Spellbook sidebar, add a new sentence at the end of the Copying a Spell into the Book subheading: Copying a spell from a scroll into your spellbook doesn’t consume or destroy the scroll.
+
+[New] Page 102: Replace the Right of the Source Master aspect of the Heroic Boon feature with: Choose the Divine, Primordial, or Wyrd source of magic. When you add new non-ritual spells to your spellbook as part of gaining a level of wizard (including the level you gain this feature), you can choose spells from the Arcane spell list or spells from your chosen source. Each spell must be of a circle for which you have spell slots. In addition, you can now copy spells of your chosen source into your spellbook. Any spells gained in this way count as Arcane spells for you.
+
+[New] Page 103: Replace the text of the Counterstrike feature with: When a creature succeeds on a save against an Arcane spell you cast and would take no damage or otherwise suffer no effects from the spell, it instead takes force damage equal to a number of d6 dice equal to the spell’s circle + your INT modifier. For example, if you have an INT modifier of +4 and a creature succeeds and takes no damage from your 4th-circle spell, the creature still takes 4d6 + 4 force damage.
+
+[New] Page 108: Replace the second sentence of the Tinker’s Fascination trait with: When you make an ability check with a tool, you can roll a d8 and add the number rolled to the check.
+
+[New] Page 120: In the Criminal background’s equipment, replace “traveler’s clothes” with “common clothes”
+
+[New] Page 121: In the Homesteader background, replace the text of the Additional Proficiencies subheading with: Gain proficiency with navigator’s tools and with one tool or vehicle of your choice.
+
+[New] Page 121: In the Homesteader background’s equipment, replace “heavy traveler’s clothes” with “common clothes”
+
+[New] Page 122: In the Maker background’s equipment, replace “traveler’s clothes” with “common clothes”
+
+[New] Page 123: In the Rustic background’s equipment, replace “traveler’s clothes” with “common clothes”
+
+[New] Page 127: In the Psycanist talent, replace the third bullet point with: As a bonus action, you can attempt to lift, push, pull, or shove one Medium or smaller creature or object (up to 200 pounds) that you can see within 30 feet of you. A creature that succeeds on a STR save against your spell save DC [DC is equal to 8 + your INT modifier + your PB if you don’t have a spell save DC] is unaffected. On a failed save, the creature or object is pulled, pushed, or lifted 5 feet in the direction of your choice.
+
+[New] Page 127: In the Ritualist talent, replace the fourth paragraph with: Each time you gain access to a new circle of spell slots by gaining a level in your spellcasting class, add one new ritual spell to your book. This new ritual must be from the same source of magic you originally chose, and it must be of a circle for which you have spell slots. For example, when a cleric reaches 5th level, they gain access to 3rd-circle spells, so the cleric would select one ritual spell of 3rd circle or lower to add to their ritual book.
+
+[New] Page 127: Add a new paragraph at the end of the Ritualist talent: You can select this talent multiple times, choosing a different source of magic each time.
+
+[New] Page 128: In the Armor Training talent, replace the second bullet point with: If you are wearing armor that would normally impose disadvantage on DEX (Stealth) checks, you don’t have disadvantage on the check from wearing the armor, though you may still have disadvantage from other sources.
+
+[New] Page 128: Replace the first paragraph of the Furious Charge talent with: You’ve learned to press every advantage and hammer into enemies. Each time you move 20 feet in a straight line toward a creature and hit it with a melee weapon attack or an unarmed strike before the start of your next turn, the attack gains your choice of two of the following benefits:
+
+[New] Page 129: Replace the third bullet point of the Hand to Hand talent with: You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappling or being grappled by a creature or start your turn restrained by a creature within 5 feet of you, that creature takes bludgeoning damage equal to your STR modifier.
+
+[New] Page 129: In the Spell Hunter talent, replace the first bullet point with: When a creature you can see within your reach begins to cast a spell, as a reaction, you can make a single melee attack against that creature. On a hit, the attack deals additional damage of the attack’s type equal to the circle of the spell the creature is casting. On a critical hit, the spell is interrupted and isn’t cast. The spell slot or daily use isn’t expended, but the action, bonus action, or reaction required to cast the spell is.
+
+[New] Page 130: Replace the second bullet point of Two Weapon Mastery with: When you take the Attack action and hit a creature, the bonus action attack granted by two-weapon fighting or the Quick Strike Martial Action deals additional damage equal to your PB against that creature.
+
+[New] Page 130: Replace the fourth bullet point of Two Weapon Mastery with: When you score a critical hit or reduce a creature to 0 HP with the bonus action attack granted by two-weapon fighting or with either attack granted by the Quick Strike Martial Action, you can move up to half your speed without provoking opportunity attacks and make a single melee weapon attack against a creature or object within reach.
+
+[New] Page 131: In the Covert talent, replace the third bullet point with: You don’t have disadvantage on WIS (Perception) checks that rely on sight when perceiving in dim light.
+
+[New] Page 132: In the Quick talent, replace the first bullet point with: Your walking speed increases by 10 feet.
+
+[New] Page 132: In the Scrutinous talent, replace the second bullet point with: Your passive Perception and passive Investigation scores are increased as if you had advantage on them (+5).
+
+[New] Page 135: Add a new paragraph at the end of the Calculating Armor Class (AC) heading: If you have armor from another source, such as the Sturdy Natural Adaptation trait from the beastkin lineage or the Unarmored Defense trait from the monk, the armor values aren’t additive. Each of these features gives you a new way to calculate your armor, just like putting on a suit of scale mail armor changes your calculation from the base 10 + DEX modifier to 14 + DEX modifier (max 2). This makes the different calculations incompatible with each other, either requiring you to choose one or making the highest calculation override the others.
+
+[New] Page 138: In the spear line of the Weapons table, remove “Thrown (20/60 ft.)” and add “Reach” in the Properties column.
+
+[New] Page 145: In the net entry, remove the second sentence, which references ghosts.
+
+[New] Pages 155–156: In each set of vehicle statistics, replace the +0 in INT, WIS, and CHA with an emdash ( — ).
+
+[New] Pages 155–156: In the keelboat’s statistics, change the STR ability to +6 and change the damage in the Fire Ballista action to 22 (3d10 + 6).
+
+[New] Page 156: In the war wagon’s Speed line, change 30 ft. to 25 ft., and in the abilities, change STR to +6. In the Rolling Death trait, replace the second sentence with: Those caught in its path must succeed on a DC 13 DEX save or take 22 (4d10) bludgeoning damage and be knocked prone.
+
+[New] Page 156: In the war wagon’s Actions, replace the Ram and Volley actions with:
+
+Ram. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 23 (5d6 + 6) bludgeoning damage.
+
+Volley. Ranged Weapon Attack: +6 to hit, range 120 ft., one target. Hit: 22 (3d10 + 6) piercing damage.
+
+[New] Page 158: In the Scrolls heading, remove the last sentence, which references wizards copying spells.
+
+[New] Page 162: In the apparatus of the crab magic item, remove the last sentence of the first paragraph, which references the Levers of the Apparatus table, and replace the second paragraph with: The apparatus of the crab is a Large object with AC 20 and 200 HP, it is immune to poison damage and psychic damage, and it has a walking speed of 30 feet and swimming speed of 30 feet, while its legs and tail are extended.
+
+[New] Page 162: In the apparatus of the crab magic item, add two new paragraphs after the second paragraph:
+
+The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the apparatus takes 2d6 bludgeoning damage per minute from pressure. To be used as a vehicle, the apparatus requires one pilot. While the apparatus’s hatch is closed, the compartment is airtight and watertight. The sealed compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
+
+            A creature in the compartment can use an action to move as many as two of the apparatus’s levers up or down. After each use, a lever goes back to its neutral position. See the Levers of the Apparatus table for what each lever does.
+
+[New] Page 168: Correct the price on the cape of the mountebank to 8,400 gp.
+
+[New] Page 175: In the onyx dog option of the figurine of wondrous power magic item, replace the second sentence with: The mastiff has an INT of −1 and can speak Common.
+
+[New] Page 181: In the mailbreaker magic item, replace the type text with: Weapon (Any melee Weapon That Deals Bludgeoning Damage)
+
+[New] Page 183: In the pendulous periapt magic item, replace the second sentence with: When you make a weapon attack while wearing the necklace, you can forgo rolling a d20 and choose for the die roll to be a 1 (failing in this way doesn’t generate Luck).
+
+[New] Page 185: On the fire giant’s line of the Potion of Giant Strength Type table, correct the price to 650 gp.
+
+[New] Page 185: In the potion of resistance magic item, correct the price to 100 gp.
+
+[New] Page 187: In the ring of jumping magic item, replace the jump spell with the longstrider spell.
+
+[New] Page 188: In the ring of spell storing magic item, replace the first sentence of the second paragraph with: Any creature can store a spell it knows or has prepared of 1st through 5th circle in the ring by taking an action and touching the ring, expending a spell slot as if the creature had cast the spell.
+
+[New] Page 188: In the ring of spell storing magic item, replace the first sentence of the third paragraph with: While wearing this ring, you can cast any spell stored in it, using the appropriate action. If the spell requires a trigger, the conditions for that trigger must be met to cast the spell.
+
+[New] Page 188: In the ring of warmth magic item, replace the first sentence with: While wearing this ring, you are resistant to cold damage.
+
+[New] Page 192: In the spell scroll magic item, remove the second paragraph, which references using a spell scroll of a higher circle, and remove the final paragraph, which references copying spell scrolls into spellbooks.
+
+[New] Page 195: In the staff of the woodlands magic item’s list of spells, replace the locate animals or plants spell with wildsense. The charges needed to cast the spell remain the same.
+
+[New] Page 195: In the sun blade magic item, replace the second paragraph with: The sword’s luminous blade emits sunlight in a 15-foot radius and dim light for an additional 15 feet. While the blade persists, you can use an action to expand or reduce its radius of sunlight and dim light by 5 feet each, to a minimum of 10 feet each.
+
+[New] Page 202: In the ring of the flamekeeper magic item’s 5th-level heading, add a new sentence before the last sentence: The save DC for these spells is 15, and you use your INT, WIS, or CHA, whichever is higher, as your spellcasting ability when making spell attack rolls.
+
+[New] Page 202: In the ring of the flamekeeper magic item’s 9th-level heading, add a new sentence at the end: The save DC for all spells cast through the ring is 17.
+
+[New] Page 204: Replace the text of the Spending Luck heading with:
+
+You spend Luck to add a 1-for-1 bonus to any check you make. For example, if you have 4 Luck and roll a 13 on the die, you can spend 2 Luck to make your result a 15 (leaving you with 2 Luck for later). Luck can’t stop a critical miss on a 1 or create a critical hit by adding up to 20 (see Critical Miss or Critical Hit in this chapter).
+
+            Alternatively, immediately after you make a check (attack, ability check, or save), you can spend 3 Luck to reroll a d20 used for the check.
+
+            Note that Luck gained from a failed attack or save can’t be used to enhance the same roll that generated the Luck—you only accrue Luck after you officially fail the roll!
+
+[New] Page 207: In the Advantage and Disadvantage sidebar, replace the last paragraph with: You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. The GM can decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a situational call.
+
+[New] Page 215: In the Light sidebar, replace the Sunlight paragraph with: Sunlight is always bright light that lets most creatures see normally. It also has special effects on certain creatures, such as kobolds and vampires.
+
+[New] Page 218: In the Damage Types heading, add a missing damage type: Psychic. Mental abilities or abilities that assault the mind, such as an aboleth’s Psychic Bolt or a ghost’s Horrify, deal psychic damage.
+
+[New] Page 219: In the Death heading, replace the second sentence of the first paragraph with: When damage reduces you to 0 HP and more damage remains to be taken from that effect, calculate how much damage would remain to be taken, as that roll-over damage might kill you outright.
+
+[New] Page 219: In the Death Saves heading, add a new sentence at the end of the first paragraph: Like other saves, Luck can be applied to death saves.
+
+[New] Page 228: In the Reactions heading, add a new paragraph at the end of the entry: If a creature is able to use more than one reaction in a turn, it can still use only one reaction per trigger. For example, if a fighter moves away from a hydra with five heads, provoking an opportunity attack, the hydra gets only one opportunity attack against that fighter, not five opportunity attacks. If a fighter, barbarian, and wizard move away from a hydra—and the hydra has at least three heads—it can make one opportunity attack against each one of them.
+
+[New] Page 232: In the Unseen Attackers and Targets heading, replace the first sentence of the third paragraph with: When a creature you can see can’t see you, you have advantage on attack rolls against it.
+
+[New] Page 235: In the Underwater Combat heading, replace the last sentence in the third paragraph with: The attack roll has disadvantage even within normal range unless the weapon is a crossbow or a weapon that is thrown like a javelin (such as a trident or dart).
+
+[New] Page 235: In the Downtime Activities heading, replace the second sentence with: A downtime week consists of at least five days where a PC spends 8 hours each day pursuing the chosen activity.
+
+[New] Page 240: In the first sentence of the second paragraph in the Primordial Source heading, replace the word “circle” with “source”
+
+[New] Page 242: In the Cantrips heading, replace the second paragraph with: Your character class typically defines whether you can access cantrips and how many cantrips you know at each class level. Many cantrips increase in power as you do. Regardless of how you have the cantrip (such as from a class or a talent), you use your character level (see Leveling Up in Chapter 1), not your level in a spellcasting class, to determine the cantrip’s power.
+
+[New] Page 266: In the conjure minor elementals spell, remove “M” from the list of components.
+
+[New] Page 268: Replace the description of the create food and water spell with: You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to twenty Large or smaller creatures for 24 hours. The food is bland but nourishing, and it spoils if uneaten after 24 hours. The water is clean and doesn’t go bad.
+
+[New] Page 279: In the fire under the tongue spell, replace the last sentence with: Once you have spit out the flames, the fire goes out immediately unless it hits flammable material that can keep it fed, then the spell ends.
+
+[New] Page 298: In the moonbeam spell, replace the At Higher Circles section with: When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d10 for each slot above 2nd.
+
+[New] Page 299: In the pendulum spell, replace the last sentence of the first paragraph with: If all results are exhausted, the spell also ends.
+
+[New] Page 312: In the spiritual weapon spell, correct the Duration to 1 minute
+
+[New] Page 314: In the sunbeam spell, replace the last paragraph with: For the duration, a mote of brilliant radiance shines in your hand. It sheds sunlight in a 30-foot radius and dim light for an additional 30 feet.
+
+[New] Page 334: In the fabricate spell, replace the last sentence of the third paragraph with: You also can’t use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of tools used to craft such objects.
+
+[New] Page 345: In the prayer of healing spell, replace the second sentence of At Higher Circles with: Once you have access to 3rd-circle spell slots or higher, the healing increases by 1d8 for each slot above 2nd.
+
+[New] Page 349: In the symbol spell, correct the Casting Time to 1 minute
+
+[New] Page 353: In the Frightened heading, replace the first bullet point with: A frightened creature has disadvantage on ability checks and attack rolls while it can sense the source of its fear.
+
+[New] Page 353: Replace the text of the Incapacitated heading with: An incapacitated creature can’t take actions, bonus actions, or reactions.
+
+[New] Page 374: At the top of the F list add: falling 212. See also falling damage

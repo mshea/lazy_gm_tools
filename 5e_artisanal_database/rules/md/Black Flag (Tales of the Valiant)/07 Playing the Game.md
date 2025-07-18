@@ -53,11 +53,11 @@ You can have a maximum of 5 Luck at one time. If you already have 5 Luck and gai
 
 ### Spending Luck
 
-You spend Luck to add a 1-for-1 bonus to any check you make. For example, if you have 4 Luck, and roll a 13 on the die, you can spend 2 Luck to make your result a 15 (leaving you with 2 Luck for later).
+You spend Luck to add a 1-for-1 bonus to any check you make. For example, if you have 4 Luck and roll a 13 on the die, you can spend 2 Luck to make your result a 15 (leaving you with 2 Luck for later). Luck can't stop a critical miss on a 1 or create a critical hit by adding up to 20 (see Critical Miss or Critical Hit in this chapter).
 
 Alternatively, immediately after you make a check (attack, ability check, or save), you can spend 3 Luck to reroll a d20 used for the check.
 
-Luck can't stop a critical miss on a 1 or create a critical hit by adding up to 20. Note that Luck gained from a failed attack or save can't be used to enhance the same roll that generated the Luck-you only accrue Luck after you officially fail the roll!
+Note that Luck gained from a failed attack or save can't be used to enhance the same roll that generated the Luck—you only accrue Luck after you officially fail the roll!
 
 # Advantage and Disadvantage
 
@@ -574,7 +574,7 @@ When you drop to 0 HP, you either die outright or fall unconscious and are dying
 
 #### Death
 
-Massive damage can kill you instantly. When damage reduces you to 0 HP and more damage remains to be taken, keep track of it. Your character is dead when you are at 0 HP and have either failed three death saves or taken as much damage as your hit point maximum while at 0 HP. Magical healing or a WIS (Medicine) check can't help you at this point. Only a spell like revivify or resurrection can bring the character back to life.
+Massive damage can kill you instantly. When damage reduces you to 0 HP and more damage remains to be taken from that effect, calculate how much damage would remain to be taken, as that roll-over damage might kill you outright. Your character is dead when you are at 0 HP and have either failed three death saves or taken as much damage as your hit point maximum while at 0 HP. Magical healing or a WIS (Medicine) check can't help you at this point. Only a spell like revivify or resurrection can bring the character back to life.
 
 For example, a cleric with a hit point maximum of 12 currently has 6 HP. If she takes 18 damage from an attack, she is reduced to 0 HP, and 12 damage remains. Because the remaining damage equals her hit point maximum, the cleric dies.
 
@@ -582,7 +582,7 @@ For example, a cleric with a hit point maximum of 12 currently has 6 HP. If she 
 
 When you start your turn with 0 HP, you must make a special save, called a death save, to determine whether you creep closer to death or cling to life. Unlike other saves, a death save isn't tied to any ability score.
 
-Roll a d20. If the roll is 10 or higher, you succeed on the death save. Otherwise, you fail. An individual success or failure has no immediate effect. However, on your third success, you become stable. On your third failure, you die. Successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both resets to zero when you regain any hit points or become stable.
+Roll a d20. If the roll is 10 or higher, you succeed on the death save. Otherwise, you fail. An individual success or failure has no immediate effect. However, on your third success, you become stable. On your third failure, you die. Successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both resets to zero when you regain any hit points or become stable. Like other saves, Luck can be applied to death saves.
 
 **_Rolling 1 or 20._** When you make a death save and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point and are conscious again, no longer needing to make death saves.
 

@@ -17,7 +17,7 @@
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, frightened, Undead Resilience
 - **Senses:** darkvision 90 ft.
-- **Languages:** Common
+- **Languages:** the languages it knew in life
 
 ### Special Abilities
 

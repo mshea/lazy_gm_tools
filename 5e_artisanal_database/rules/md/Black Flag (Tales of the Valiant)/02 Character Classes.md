@@ -51,7 +51,7 @@ You start with the following equipment, in addition to the equipment granted by 
 |  11th |  +4 |         4 |          +3 | _Subclass Feature_                           |
 |  12th |  +4 |         5 |          +3 | Improvement                                  |
 |  13th |  +5 |         5 |          +3 | Brutal Critical (2 Dice)                     |
-|  14th |  +5 |         5 |          +3 | Persistent Rage                              |
+|  14th |  +5 |         5 |          +3 | Relentless Rage                              |
 |  15th |  +5 |         5 |          +3 | _Subclass Feature_                           |
 |  16th |  +5 |         5 |          +4 | Improvement                                  |
 |  17th |  +6 |         6 |          +4 | Brutal Critical (3 Dice)                     |
@@ -115,7 +115,7 @@ Choose one of the following improvements (ability scores can’t be raised above
 
 _5th-Level Barbarian Feature_
 
-Your speed increases by 10 feet while you aren’t wearing heavy armor. In addition, when you roll initiative, you can immediately move up to half your speed.
+Your walking speed increases by 10 feet while you aren't wearing heavy armor. In addition, when you roll initiative, you can immediately move up to half your speed.
 
 #### Multiattack
 
@@ -188,7 +188,7 @@ Through primal rite or natural bloodthirst, some barbarians can work themselves 
 
 _3rd-Level Berserker Feature_
 
-You can choose to go into a frenzy as part of the same bonus action you use to activate your Rage feature. Once you do so, for its duration, you can make a single melee weapon attack as a bonus action on each of your turns.
+You go into a frenzy when you rage. While raging, you can make a single melee weapon attack as a bonus action on each of your turns.
 
 #### Ruthless Bearing
 
@@ -203,8 +203,8 @@ _7th-Level Berserker Feature_
 While raging, you gain the following benefits:
 
 - You ignore any levels of exhaustion you currently suffer for the duration of your rage.
-- You can’t be charmed or frightened while raging. If you are already charmed or frightened when you enter a rage, the effect is suspended for the duration of the rage.
-- During a Frenzy, if you score a critical hit or reduce a creature to 0 HP, you gain a number of temporary hit points equal to your PB + your CON modifier. These hit points last until expended or until you finish a short or long rest.
+- You can't be charmed or frightened. If you are already charmed or frightened when you enter a rage, the effect is suspended for the duration of the rage.
+- If you score a critical hit or reduce a creature to 0 HP, you gain a number of temporary hit points equal to your PB + your CON modifier. These hit points last until expended or until you finish a short or long rest.
 
 #### Intimidating Presence
 
@@ -331,7 +331,7 @@ Once within the next 10 minutes, the creature can roll that die and add the numb
 
 You can use this feature a number of times equal to your CHA modifier. You regain any expended uses when you finish a long rest.
 
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, d10 at 10th, and d12 at 14th.
+Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, d10 at 9th level, and d12 at 14th level.
 
 #### Expertise
 
@@ -1716,7 +1716,7 @@ You can spend 1 technique point to take the Disengage or Dash action as a bonus 
 
 _2nd-Level Monk Feature_
 
-Your speed increases by 10 feet while you aren't wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk Progression table.
+Your walking speed increases by 10 feet while you aren't wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk Progression table.
 
 ### Monk Subclass
 
@@ -1934,7 +1934,7 @@ Your blessed touch can heal wounds. You have a pool of healing power that replen
 
 _2nd-Level Paladin Feature_
 
-Once per turn, when you hit a creature with a weapon attack, you can expend one Divine spell slot to deal extra radiant damage to the target, in addition to the weapon's normal damage. The extra damage is 2d8 for a 1st-circle spell slot, plus 1d8 for each circle higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is a Fiend or Undead.
+Once per turn, when you hit a creature with a weapon attack, you can expend one spell slot to deal extra radiant damage to the target, in addition to the weapon's normal damage. The extra damage is 2d8 for a 1st-circle spell slot, plus 1d8 for each circle higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is a Fiend or Undead.
 
 ### Martial Action
 
@@ -2721,7 +2721,7 @@ When you roll damage for a spell, you can spend 1 sorcery point to reroll a numb
 
 When you cast a spell with a range of self that affects an area (not a specific target), you can spend 3 sorcery points to increase the size of the spell's area of effect in one of the following ways (depending on the shape of the spell effect):
 
-- **Circle, Cylinder, or Sphere.** The radius of circle, sphere, or circular base of the cylinder increases by 5 feet. For example, the darkness spell could be altered to affect a 20 - foot - radius sphere (instead of a 15 - foot - radius sphere).
+- **Circle, Cylinder, or Sphere.** The radius of circle, sphere, or circular base of the cylinder increases by 5 feet. For example, the antimagic field spell could be altered to affect a 15-foot-radius sphere (instead of a 10-foot-radius sphere).
 - **Cone.** The cone's size increases by 15 feet. For example, the burning hands spell could be altered to affect a 30 - foot cone (instead of a 15 - foot cone).
 - **Cube.** The length of each cube face increases by 5 feet. For example, the thunderwave spell could be altered to affect a 20 - foot cube (instead of a 15 - foot cube).
 - **Line.** The length of the line increases by 15 feet. For example, the lightning bolt spell could be altered to affect a 115 - foot line (instead of a 100 - foot line).
@@ -2945,7 +2945,7 @@ equipment granted by your background:
 | ----: | --: | ----------------: | ---------------------------------- | -------------: | -----------: | --: | --: | --: | --: | --: |
 |   1st |  +2 |                 - | Eldritch Blast, Pact Boon          |              - |            - |   - |   - |   - |   - |   - |
 |   2nd |  +2 |                 2 | Eldritch Invocations, Spellcasting |              2 |            2 |   2 |   - |   - |   - |   - |
-|   3rd |  +2 |                 2 | Warlock Subclass                   |              2 |            3 |   3 |   - |   - |   - |   - |
+|   3rd |  +2 |                 2 | Pact Magic (2/Rest), Warlock Subclass                   |              2 |            3 |   3 |   - |   - |   - |   - |
 |   4th |  +2 |                 2 | Improvement                        |              3 |            3 |   3 |   - |   - |   - |   - |
 |   5th |  +3 |                 3 | Eldritch Blast (2 Beams)           |              3 |            4 |   4 |   2 |   - |   - |   - |
 |   6th |  +3 |                 3 | Enhanced Boon                      |              3 |            4 |   4 |   2 |   - |   - |   - |

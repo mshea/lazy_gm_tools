@@ -8,7 +8,7 @@
 
 **Additional Proficiencies:** You know Thieves' Cant. If you already know this language, you learn a different language of your choice. Gain proficiency with a tool and a vehicle.
 
-**Equipment:** Five pieces of chalk, a grappling hook, a set of dark traveler's clothes or a costume, and a pouch containing 10 gp.
+**Equipment:** Five pieces of chalk, a grappling hook, a set of dark common clothes or a costume, and a pouch containing 10 gp.
 
 #### Talent
 
@@ -85,7 +85,7 @@ Through magic, you learned to influence and manipulate the world around you with
 
 - You can telepathically speak with any creature within 30 feet of you. A creature doesn't need to share a language with you to communicate this way, but it must understand at least one language. Creatures you speak to can reply to you telepathically, but can't initiate a telepathic conversation.
 - As a bonus action, you can read the aura of a single creature that you can see within 30 feet of you until the end of your next turn. For the duration, the target isn't invisible or heavily obscured to you. You know its current hit points, its resistances, immunities, and vulnerabilities, and learn the creature's emotional state, including whether it is hostile or docile.
-- As a bonus action, you can attempt to lift, push, pull, or shove one Medium or smaller creature or object (up to 200 pounds) that you can see within 30 feet of you. A creature that succeeds on a STR save against your spell save DC is unaffected. On a failed save, the creature or object is pulled, pushed, or lifted 5 feet in the direction of your choice.
+- As a bonus action, you can attempt to lift, push, pull, or shove one Medium or smaller creature or object (up to 200 pounds) that you can see within 30 feet of you. A creature that succeeds on a STR save against your spell save DC [DC is equal to 8 + your INT modifier + your PB if you don't have a spell save DC] is unaffected. On a failed save, the creature or object is pulled, pushed, or lifted 5 feet in the direction of your choice.
 
 You can select this talent multiple times, choosing a different benefit each time.
 
@@ -99,7 +99,9 @@ Choose a spell source: Arcane, Divine, Primordial, or Wyrd. You must choose your
 
 When you gain your ritual book, add one ritual of each spell circle you have already unlocked via your spellcasting class. For example, a cleric who selects this talent at 4th level has spell slots for 1st and 2nd circles, so they would add one 1st-circle ritual and one 2nd-circle ritual to their book.
 
-Each time you gain access to a new circle of spell slots by gaining a level in your spellcasting class, add one new ritual spell to your book. This new ritual must be from the same circle of magic you originally chose, and it must be of a circle for which you have spell slots. For example, when a cleric reaches 5th level, they gain access to 3rd-circle spells, so the cleric would select one ritual spell of 3rd circle or lower to add to their ritual book.
+Each time you gain access to a new circle of spell slots by gaining a level in your spellcasting class, add one new ritual spell to your book. This new ritual must be from the same source of magic you originally chose, and it must be of a circle for which you have spell slots. For example, when a cleric reaches 5th level, they gain access to 3rd-circle spells, so the cleric would select one ritual spell of 3rd circle or lower to add to their ritual book.
+
+You can select this talent multiple times, choosing a different source of magic each time.
 
 #### School Specialization
 
@@ -147,7 +149,7 @@ _Prerequisite: Proficiency with Light or Medium Armor_
 You've trained to improve your use of armor. You gain these benefits:
 
 - If you are proficient with light armor, you gain proficiency with medium armor. If you are proficient with medium armor, you gain proficiency with heavy armor and shields.
-- If you are wearing armor that would normally impose disadvantage on DEX (Stealth) checks, you instead roll normally and can't have advantage or disadvantage on the check.
+- If you are wearing armor that would normally impose disadvantage on DEX (Stealth) checks, you don't have disadvantage on the check from wearing the armor, though you may still have disadvantage from other sources.
 - You can add up to +3 (instead of +2) to your AC based on your DEX while wearing medium armor.
 
 Combat Conditioning
@@ -159,7 +161,7 @@ You've endured extensive training to withstand the rigors of combat. You gain th
 
 #### Furious Charge
 
-You've learned to press every advantage and hammer into enemies. Each time you move 20 feet in a straight line toward a creature and hit it with a melee weapon attack or an unarmed strike, the attack gains your choice of two of the following benefits:
+You've learned to press every advantage and hammer into enemies. Each time you move 20 feet in a straight line toward a creature and hit it with a melee weapon attack or an unarmed strike before the start of your next turn, the attack gains your choice of two of the following benefits:
 
 - The attack deals additional damage of your weapon's damage type equal to your PB.
 - If the target is one size larger than you or smaller, it is pushed 10 feet directly away from you.
@@ -174,7 +176,7 @@ You mastered techniques that allow you to efficiently fight barehanded. You gain
 
 - The damage of your unarmed strikes increases from 1 + STR modifier to 1d6 + STR modifier.
 - You gain proficiency with improvised weapons. While wielding an improvised weapon with one hand, the weapon deals a minimum of 1d8 + STR modifier damage. While wielding an improvised weapon with two hands, the weapon deals a minimum of 1d10 + STR modifier damage.
-- You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappled with or restrained by a creature, that creature takes bludgeoning damage equal to your STR modifier.
+- You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappling or being grappled by a creature or start your turn restrained by a creature within 5 feet of you, that creature takes bludgeoning damage equal to your STR modifier.
 
 #### Heavy Weapon Mastery
 
@@ -256,7 +258,7 @@ You trained in the art of espionage. You gain these benefits:
 
 - You can attempt to hide while in three-quarters cover or while lightly obscured.
 - Creatures that rely on darkvision can't see you while you remain motionless in dim light or darkness. This effect ends if you move, take an action or bonus action, or use a reaction while in the creature's line of sight.
-- You don't have disadvantage on attack rolls and WIS (Perception) checks against targets in dim light.
+- You don't have disadvantage on WIS (Perception) checks that rely on sight when perceiving in dim light.
 - If you make a ranged attack against a creature or if a creature spots you while you are hidden, you can use your reaction to make a DEX (Stealth) check at disadvantage opposed by the creature's Perception. On a success, you remain hidden and the creature is unaware of your position. Once used on a creature, the target can't be affected by this feature again for 24 hours.
 
 #### Dungeoneer
@@ -299,7 +301,7 @@ You have studied language extensively. You can communicate in multiple languages
 
 You are uncommonly agile. While not wearing medium or heavy armor, you gain these benefits:
 
-- Your speed increases by 10 feet.
+- Your walking speed increases by 10 feet.
 - When you take the Dash action, you can move along vertical surfaces during your movement.
 - If you fall, as a reaction you can ignore a number of feet equal to 5 times your PB, lessening any fall damage you take. If this allows you to ignore the entire distance of a fall, you can land on your feet.
 - As a bonus action you can move up to 5 feet without provoking an opportunity attack or expending movement.
@@ -309,7 +311,7 @@ You are uncommonly agile. While not wearing medium or heavy armor, you gain thes
 You have a keen eye for detail. You gain these benefits:
 
 - When a creature you can see speaks in a language that you know, you can discern what they are saying even if you can't hear them.
-- You gain a +5 bonus to your passive Perception and passive Investigation.
+- Your passive Perception and passive Investigation scores are increased as if you had advantage on them (+5).
 - When you spend 1 minute or longer examining an object for fine or hidden details, you can ask your GM one question about it, and they must answer truthfully.
 - If you hear a creature speak for 1 minute or longer, you can mimic its voice. A creature familiar with your target can succeed on a WIS (Insight) check opposed by your CHA (Deception) to understand the ruse.
 

@@ -29,7 +29,7 @@
 
 - **Multiattack:** The troll makes one Bite attack and two Claw attacks.
 - **Bite:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8+4) piercing damage.
-- **Claw:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6+4) piercing damage.
+- **Claw:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6+4) slashing damage.
 
 ### Bonus Actions
 

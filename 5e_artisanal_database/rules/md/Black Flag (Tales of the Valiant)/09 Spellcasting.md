@@ -1834,9 +1834,7 @@ _3rd-Circle Divine and Primordial (Conjuration)_
 **Components:** V, S
 **Duration:** Instantaneous
 
-You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to twenty Large or smaller creatures for 24 hours. The food is bland but nourishing but spoils if uneaten after 24 hours.
-
-The water is clean and doesn't go bad.
+You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to twenty Large or smaller creatures for 24 hours. The food is bland but nourishing, and it spoils if uneaten after 24 hours. The water is clean and doesn't go bad.
 
 #### Create Or Destroy Water
 
@@ -3563,7 +3561,7 @@ A creature with the Shapechanger tag makes this save with disadvantage. If it fa
 
 On each of your turns after you cast this spell, you can use an action to move the beam 60 feet in any direction.
 
-_At Higher Circles._ When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d10 for each slot above 3rd.
+_At Higher Circles._ When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d10 for each slot above 2nd.
 
 #### Move Earth
 
@@ -4387,7 +4385,7 @@ _2nd-Circle Divine and Wyrd (Evocation)_
 **Casting Time:** 1 bonus action
 **Range:** 60 feet
 **Components:** V, S
-**Duration:** Instantaneous
+**Duration:** 1 minute
 
 You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. The weapon can take any form you choose. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.
 
@@ -4483,7 +4481,7 @@ A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-l
 
 You can create a new line of radiance as your action on each turn until the spell ends.
 
-For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
+For the duration, a mote of brilliant radiance shines in your hand. It sheds sunlight in a 30-foot radius and dim light for an additional 30 feet.
 
 #### Sunburst
 
@@ -6017,7 +6015,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 Once you cast this spell, you can't do so again until you complete a long rest.
 
-_At Higher Circles._ As you unlock higher circles, this ritual grows in potency. Once you have access to 3rd-circle spell slots or higher, the healing increases by 1d8 for each slot above 3rd.
+_At Higher Circles._ As you unlock higher circles, this ritual grows in potency. Once you have access to 3rd-circle spell slots or higher, the healing increases by 1d8 for each slot above 2nd.
 
 ### Private Sanctum
 
@@ -6246,7 +6244,7 @@ Once you target a particular corpse with this spell, you can never cast this rit
 
 _7th-Circle Arcane Ritual (Abjuration)_
 
-**Casting Time:** 1 action
+**Casting Time:** 1 minute
 **Range:** Touch
 **Components:** V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
 **Duration:** Until dispelled or triggered

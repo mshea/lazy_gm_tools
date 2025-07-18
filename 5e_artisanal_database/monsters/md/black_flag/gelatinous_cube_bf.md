@@ -12,7 +12,7 @@
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| +3 | -3 | +5 | -5 | -2 | -5 |
+| +3 | -4 | +5 | -5 | -2 | -5 |
 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** acid, piercing, Ooze Resilience

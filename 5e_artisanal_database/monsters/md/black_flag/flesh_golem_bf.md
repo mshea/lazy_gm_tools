@@ -1,6 +1,6 @@
 # Flesh Golem
 
-*Medium* *Construct*
+*Medium* *Construct* *Golem*
 
 - **Armor Class:** 9
 - **Hit Points:** 129 

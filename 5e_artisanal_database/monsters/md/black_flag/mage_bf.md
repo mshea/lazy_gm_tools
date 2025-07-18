@@ -3,7 +3,7 @@
 *Medium* *Humanoid*
 
 - **Armor Class:** 10 (13 with mage armor)
-- **Hit Points:** 140 
+- **Hit Points:** 70 
 - **Speed:** walk 30 ft.
 - **Perception**: 11
 - **Stealth**: 10

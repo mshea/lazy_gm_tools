@@ -3,7 +3,7 @@
 *Huge* *Dragon*
 
 - **Armor Class:** 19 (natural armor)
-- **Hit Points:** 284 
+- **Hit Points:** 301 
 - **Speed:** walk 40 ft. fly 80 ft. swim 40 ft.
 - **Perception**: 27
 - **Stealth**: 18

@@ -3,7 +3,7 @@
 *Medium* *Humanoid*
 
 - **Armor Class:** 16 (scale mail, shield)
-- **Hit Points:** 36 
+- **Hit Points:** 32 
 - **Speed:** walk 25 ft.
 - **Perception**: 10
 - **Stealth**: 10
@@ -15,7 +15,7 @@
 | +2 | +0 | +2 | +0 | +0 | -1 |
 
 - **Damage Resistances:** poison, poisoned, Duergar Resilience
-- **Senses:** darkvision 120 ft., passive Perception 10
+- **Senses:** darkvision 120 ft.
 - **Languages:** Dwarvish,Undercommon
 
 ### Special Abilities

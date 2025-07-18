@@ -1,6 +1,6 @@
 # Iron Golem
 
-*Large* *Construct*
+*Large* *Construct* *Golem*
 
 - **Armor Class:** 20 (natural armor, shield)
 - **Hit Points:** 201 

@@ -794,6 +794,8 @@ _Large Ooze_
 - **Armor Class** 7
 - **Hit Points** 122
 - **Speed** 20 ft., climb 20 ft.
+- **Perception** 8
+- **Stealth** 9
 - **Resistant** Ooze Resilience
 - **Immune** acid, lightning, slashing | grappled | Ooze Resilience
 - **Senses** keensense 60 ft. (can't sense beyond this radius)
@@ -1182,7 +1184,7 @@ _Medium Undead_
 - **Vulnerable** radiant
 - **Immune** necrotic | frightened | Undead Resilience
 - **Senses** darkvision 90 ft.
-- **Languages** Common
+- **Languages** the languages it knew in life
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --: | --: | --: | --: | --: | --: |
@@ -2912,7 +2914,7 @@ _Large Dragon_
 _Huge Dragon_
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 284
+- **Hit Points** 301
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 - **Perception** 27
 - **Stealth** 18
@@ -3113,7 +3115,7 @@ _Gargantuan Dragon_
 
 - **_Multiattack._** The dragon uses its Frightful Presence. It then makes one Bite attack and two Claw attacks.
 - **_Bite._** _Melee Weapon Attack:_ +15 to hit, reach 15 ft., one target. _Hit:_ 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
-- **_Claw._** _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 22 (4d6+8) slashing damage.
+- **_Claw._** _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6+8) slashing damage.
 - **_Tail._** _Melee Weapon Attack:_ +15 to hit, reach 20 ft., one target. _Hit:_ 17 (2d8+8) bludgeoning damage.
 - **_Frightful Presence._** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 WIS save or be frightened for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. If a creature's save is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - **_Poison Breath (Recharge 5 - 6)._** The dragon exhales poisonous gas in a 90 - foot cone. Each creature in that area must make a DC 21 CON save, taking 84 (24d6) poison damage on a failed save, or half as much damage on a successful one.
@@ -3679,12 +3681,12 @@ _Medium Fey_
 _Medium Humanoid_
 
 - **Armor Class** 16 (scale mail, shield)
-- **Hit Points** 36
+- **Hit Points** 32
 - **Speed** 25 ft.
 - **Perception** 10
 - **Stealth** 12
 - **Resistant** poison | poisoned | Duergar Resilience
-- **Senses** darkvision 120 ft., passive Perception 10
+- **Senses** darkvision 120 ft.
 - **Languages** Dwarvish, Undercommon
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -4140,9 +4142,9 @@ _Large Ooze_
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --: | --: | --: | --: | --: | --: |
-|  +3 |  -3 |  +5 |  -5 |  -2 |  -5 |
+|  +3 |  -4 |  +5 |  -5 |  -2 |  -5 |
 
-- **_Ooze Cube._** The cube takes up its entire space. Other creatures can enter the space, but are subjected to the cube's Engulf and have disadvantage on the save. Creatures inside the cube can be seen but have total cover. A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 STR check, and the creature making the attempt takes 10 (3d6) acid damage.
+- **_Ooze Cube._** The cube takes up its entire space. Other creatures can enter the space, but are subjected to the cube's Engulf and have disadvantage on the save. Creatures inside the cube can be seen but have total cover. A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 13 STR check, and the creature making the attempt takes 10 (3d6) acid damage.
 
   The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.
 
@@ -4872,7 +4874,7 @@ _Medium Humanoid_
 
 #### Clay Golem (CR 9)
 
-_Large Construct_
+_Large Construct (Golem)_
 
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 163
@@ -4907,7 +4909,7 @@ _Large Construct_
 
 #### Flesh Golem (CR 5)
 
-_Medium Construct_
+_Medium Construct (Golem)_
 
 - **Armor Class** 9
 - **Hit Points** 129
@@ -4939,7 +4941,7 @@ _Medium Construct_
 
 #### Iron Golem (CR 16)
 
-_Large Construct_
+_Large Construct (Golem)_
 
 - **Armor Class** 20 (natural armor, shield)
 - **Hit Points** 201
@@ -4974,7 +4976,7 @@ _Large Construct_
 
 #### Stone Golem (CR 10)
 
-_Large Construct_
+_Large Construct (Golem)_
 
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 176
@@ -8121,7 +8123,7 @@ _Large Giant_
 
 - **_Multiattack._** The troll makes one Bite attack and two Claw attacks.
 - **_Bite._** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8+4) piercing damage.
-- **_Claw._** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6+4) piercing damage.
+- **_Claw._** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6+4) slashing damage.
 
 #### Bonus Actions
 
@@ -11462,7 +11464,7 @@ _Medium Humanoid (Any Lineage)_
 _Medium Humanoid (Any Lineage)_
 
 - **Armor Class** 10 (13 with mage armor)
-- **Hit Points** 140
+- **Hit Points** 70
 - **Speed** 30 ft.
 - **Perception** 11
 - **Stealth** 12

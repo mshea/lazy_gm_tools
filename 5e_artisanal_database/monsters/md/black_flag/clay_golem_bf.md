@@ -1,6 +1,6 @@
 # Clay Golem
 
-*Large* *Construct*
+*Large* *Construct* *Golem*
 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 163 

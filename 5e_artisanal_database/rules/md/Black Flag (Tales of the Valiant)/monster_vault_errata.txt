@@ -1,0 +1,73 @@
+Errata 05/29/2025
+
+COMPLETED CORRECTIONS:
+- Page 62: Black pudding passive statistics ✅ DONE
+- Page 77: Death knight languages ✅ DONE  
+- Page 132: Adult gold dragon hit points ✅ DONE
+- Page 137: Ancient green dragon claw/wing damage ✅ DONE
+- Page 162: Duergar hit points and passive Perception ✅ DONE
+- Page 175: Gelatinous cube DEX and save DC ✅ DONE
+- Page 311: Troll claw damage type ✅ DONE
+- Page 367: Mage hit points ✅ DONE
+- Pages 199-202: Golem tags added ✅ DONE
+- All corrections applied to both individual monster files and rules file ✅ DONE
+
+[New] Page 10: In the Challenging Benchmarks by Average Level table, correct the numbers in the 7 PCs column on the following rows: PC Level 2 from 1 to 3, PC Level 3 from 3 to 5, and PC Level 4 from 5 to 7.
+
+[New] Page 18: In the second paragraph of the Proficiency Bonus heading, replace the reference to Chapter 1 with Game Master’s Guide.
+
+[New] Page 25: Add new sidebar near the Actions heading: Player Advice: Many monsters have special attacks that allow them to automatically grapple creatures they hit. These monsters don’t need to make special ability checks to determine whether the grapple succeeds. A creature grappled by a monster can use its action to try to escape, as described in the Player’s Guide, except monsters have an escape DC that sets the target DC for the escape attempt rather than the monster making a contested roll.
+
+[New] Page 31 and Page 44: Move the astral destroyer from the Monstrosity table on page 44 to the Aberration table on page 31.
+
+[New] Page 34 Construct table: In the Construct table, correct the stone golem’s CR to 10 and the homunculus’s CR to 1.
+
+[New] Pages 35 and 36: In the Dragon table, correct the CRs on the ancient dragons: black (20), blue (20), brass (17), bronze (19), copper (18), gold (21), green (19), red (21), silver (20), void (22), white (17), yellow (20).
+
+[New] Page 38: In the Fey table, correct the Flinderbeast’s CR to 1.
+
+[New] Page 42: In the Humanoid table, correct the witch kobold’s CR to 5.
+
+[New] Page 62: In the black pudding’s statistics, add the missing passive statistics: Perception 8  Stealth 9
+
+[New] Page 77: Replace the death knight’s Languages line with: the languages it knew in life
+
+[New] Page 126: In the Duels bullet point of the Regional Effects, correct the Intelligence reference to 5 (−3)
+
+[New] Page 132: Correct the adult gold dragon’s hit points to 301.
+
+[New] Page 135, 136, 137: In the Hallucinogenic Gas trait, add the missing duration so that the terrified effect lasts until the start of the creature’s next turn.
+
+[New] Page 137: Correct the ancient green dragon’s Claw attack’s damage to 15 (2d6 + 8) and its Wing Attack legendary action’s damage to 15 (2d6 + 8)
+
+[New] Page 162: Correct the duergar’s hit points to 32 and remove the passive Perception reference from the Senses line.
+
+[New] Page 175: Correct the gelatinous cube’s DEX with −4 instead of −3, and in the Ooze Cube trait, replace the save DC with 13, instead of 12.
+
+[New] Pages 199–202: Add the Golem tag to the clay golem, flesh golem, iron golem, and stone golem type lines.
+
+[New] Page 221: Correct the insatiable brood’s hit points to 64.
+
+[New] Pages 249–251: Add the Elemental Nature trait to the dust, ice, magma, and steam mephits: Elemental Nature. The mephit doesn’t require air, food, drink, or sleep.
+
+[New] Page 290: In the void piper’s Dagger action, correct the attack bonus to +6
+
+[New] Page 296: In the war horse skeleton’s statistics, replace the “Bonus Actions” header with “Reactions”
+
+[New] Pages 299 and 300: Add the Outsider tag to the androsphinx and gynosphinx type lines.
+
+[New] Page 307: In succubus’s Change Shape action, add “Without wings, it loses its flying speed.” after the first sentence.
+
+[New] Page 311: In the troll’s Claw action, replace piercing with slashing
+
+[New] Page 367: Correct the mage’s hit points to 70.
+
+[New] Page 368: In the mechanist’s Stealth line, replace the number with: 6 (11 without armor)
+
+[New] Page 369: Replace the mechanist’s Quick Creation text with: The mechanist cobbles together various machine parts it is carrying and creates a Tiny Construct. The Construct appears in an unoccupied space within 5 feet of the mechanist and obeys the mechanist’s spoken commands. It uses the statistics of a solodron but it isn’t a mechadron or part of the Plan. The mechanist can have up to two such Constructs under its control at one time. Each Construct remains for 1 minute, until the mechanist dies, or until the mechanist uses this bonus action again to dismiss one or both of them.
+
+[New] Page 374: Move the ancient red dragon to the Challenge 21 table.
+
+[New] Page 378: In the hills terrain table, replace the ancient red dragon’s CR information with 21 (33,000 XP)
+
+[New] Page 379 Mountain Terrain table: In the mountain, replace the ancient red dragon’s CR information with 21 (33,000 XP)

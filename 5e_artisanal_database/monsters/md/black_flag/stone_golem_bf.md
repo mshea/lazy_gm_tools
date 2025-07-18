@@ -1,6 +1,6 @@
 # Stone Golem
 
-*Large* *Construct*
+*Large* *Construct* *Golem*
 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 176 
