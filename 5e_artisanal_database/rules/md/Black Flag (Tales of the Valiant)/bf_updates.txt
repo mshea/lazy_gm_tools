@@ -11,8 +11,8 @@ X Siege Weapons added
 X Doom optional rule added
 X Advantage/Disadvantage added
 X Wand of Wonder Effects table added
+X Starting equipment packs added
 
-Starting equipment packs added
 Druid: Added Rules of Transformation
 Wizard: Spellbook rules added
 Multiclass Spell Slots per Circle table added

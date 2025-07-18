@@ -817,7 +817,7 @@ As a druid, you have the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (_a_) a shield or (_b_) any simple weapon
-- (_a_) a scimitar or (_b_) any simple melee weapon
+- (_a_) a sickle or (_b_) any simple melee weapon
 - Leather armor, an explorer's pack, and a druidic focus
 
 ### Table: Druid Progression / Primordial Spell Slots By Circle
