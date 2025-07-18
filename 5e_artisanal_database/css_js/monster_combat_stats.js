@@ -66,16 +66,6 @@ const monsterCombatStats = [
   {
     "name": "Aboleth",
     "ac": 17,
-    "hp": 165,
-    "init": -1,
-    "cr": 10.0,
-    "type": "Aberration",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/aboleth_bf.html"
-  },
-  {
-    "name": "Aboleth",
-    "ac": 17,
     "hp": 135,
     "init": -1,
     "cr": 10.0,
@@ -92,6 +82,16 @@ const monsterCombatStats = [
     "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/aboleth_mm_2024.html"
+  },
+  {
+    "name": "Aboleth",
+    "ac": 17,
+    "hp": 165,
+    "init": 20,
+    "cr": 10.0,
+    "type": "Aberration",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/aboleth_bf.html"
   },
   {
     "name": "Aboleth Thrall",
@@ -176,22 +176,22 @@ const monsterCombatStats = [
   {
     "name": "Acolyte",
     "ac": 10,
-    "hp": 15,
-    "init": 0,
-    "cr": 0.25,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/acolyte_bf.html"
-  },
-  {
-    "name": "Acolyte",
-    "ac": 10,
     "hp": 9,
     "init": 0,
     "cr": 0.25,
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/acolyte.html"
+  },
+  {
+    "name": "Acolyte",
+    "ac": 10,
+    "hp": 15,
+    "init": 13,
+    "cr": 0.25,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/acolyte_bf.html"
   },
   {
     "name": "Adult Amethyst Dragon",
@@ -216,16 +216,6 @@ const monsterCombatStats = [
   {
     "name": "Adult Black Dragon",
     "ac": 19,
-    "hp": 238,
-    "init": 7,
-    "cr": 14.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_black_dragon_bf.html"
-  },
-  {
-    "name": "Adult Black Dragon",
-    "ac": 19,
     "hp": 195,
     "init": 2,
     "cr": 14.0,
@@ -242,6 +232,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_black_dragon_mm_2024.html"
+  },
+  {
+    "name": "Adult Black Dragon",
+    "ac": 19,
+    "hp": 238,
+    "init": 22,
+    "cr": 14.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_black_dragon_bf.html"
   },
   {
     "name": "Adult Black Dragon Lich",
@@ -266,16 +266,6 @@ const monsterCombatStats = [
   {
     "name": "Adult Blue Dragon",
     "ac": 19,
-    "hp": 267,
-    "init": 5,
-    "cr": 16.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_blue_dragon_bf.html"
-  },
-  {
-    "name": "Adult Blue Dragon",
-    "ac": 19,
     "hp": 225,
     "init": 0,
     "cr": 16.0,
@@ -292,6 +282,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_blue_dragon_mm_2024.html"
+  },
+  {
+    "name": "Adult Blue Dragon",
+    "ac": 19,
+    "hp": 267,
+    "init": 22,
+    "cr": 16.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_blue_dragon_bf.html"
   },
   {
     "name": "Adult Boreal Dragon",
@@ -316,16 +316,6 @@ const monsterCombatStats = [
   {
     "name": "Adult Brass Dragon",
     "ac": 18,
-    "hp": 225,
-    "init": 5,
-    "cr": 13.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_brass_dragon_bf.html"
-  },
-  {
-    "name": "Adult Brass Dragon",
-    "ac": 18,
     "hp": 172,
     "init": 0,
     "cr": 13.0,
@@ -344,6 +334,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_brass_dragon_mm_2024.html"
   },
   {
+    "name": "Adult Brass Dragon",
+    "ac": 18,
+    "hp": 225,
+    "init": 21,
+    "cr": 13.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_brass_dragon_bf.html"
+  },
+  {
     "name": "Adult Bronze Dragon",
     "ac": 18,
     "hp": 287,
@@ -352,16 +352,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-bronze-dragon-a5e.html"
-  },
-  {
-    "name": "Adult Bronze Dragon",
-    "ac": 19,
-    "hp": 255,
-    "init": 5,
-    "cr": 15.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_bronze_dragon_bf.html"
   },
   {
     "name": "Adult Bronze Dragon",
@@ -382,6 +372,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_bronze_dragon_mm_2024.html"
+  },
+  {
+    "name": "Adult Bronze Dragon",
+    "ac": 19,
+    "hp": 255,
+    "init": 22,
+    "cr": 15.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_bronze_dragon_bf.html"
   },
   {
     "name": "Adult Cave Dragon",
@@ -406,16 +406,6 @@ const monsterCombatStats = [
   {
     "name": "Adult Copper Dragon",
     "ac": 18,
-    "hp": 252,
-    "init": 6,
-    "cr": 14.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_copper_dragon_bf.html"
-  },
-  {
-    "name": "Adult Copper Dragon",
-    "ac": 18,
     "hp": 184,
     "init": 1,
     "cr": 14.0,
@@ -432,6 +422,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_copper_dragon_mm_2024.html"
+  },
+  {
+    "name": "Adult Copper Dragon",
+    "ac": 18,
+    "hp": 252,
+    "init": 22,
+    "cr": 14.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_copper_dragon_bf.html"
   },
   {
     "name": "Adult Earth Dragon",
@@ -476,16 +476,6 @@ const monsterCombatStats = [
   {
     "name": "Adult Gold Dragon",
     "ac": 19,
-    "hp": 284,
-    "init": 8,
-    "cr": 17.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_gold_dragon_bf.html"
-  },
-  {
-    "name": "Adult Gold Dragon",
-    "ac": 19,
     "hp": 256,
     "init": 2,
     "cr": 17.0,
@@ -504,6 +494,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_gold_dragon_mm_2024.html"
   },
   {
+    "name": "Adult Gold Dragon",
+    "ac": 19,
+    "hp": 301,
+    "init": 27,
+    "cr": 17.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_gold_dragon_bf.html"
+  },
+  {
     "name": "Adult Green Dragon",
     "ac": 18,
     "hp": 287,
@@ -512,16 +512,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/adult-green-dragon-a5e.html"
-  },
-  {
-    "name": "Adult Green Dragon",
-    "ac": 19,
-    "hp": 255,
-    "init": 6,
-    "cr": 15.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_green_dragon_bf.html"
   },
   {
     "name": "Adult Green Dragon",
@@ -542,6 +532,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_green_dragon_mm_2024.html"
+  },
+  {
+    "name": "Adult Green Dragon",
+    "ac": 19,
+    "hp": 255,
+    "init": 22,
+    "cr": 15.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_green_dragon_bf.html"
   },
   {
     "name": "Adult Imperial Dragon",
@@ -586,16 +586,6 @@ const monsterCombatStats = [
   {
     "name": "Adult Red Dragon",
     "ac": 19,
-    "hp": 301,
-    "init": 6,
-    "cr": 17.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_red_dragon_bf.html"
-  },
-  {
-    "name": "Adult Red Dragon",
-    "ac": 19,
     "hp": 256,
     "init": 0,
     "cr": 17.0,
@@ -612,6 +602,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_red_dragon_mm_2024.html"
+  },
+  {
+    "name": "Adult Red Dragon",
+    "ac": 19,
+    "hp": 301,
+    "init": 23,
+    "cr": 17.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_red_dragon_bf.html"
   },
   {
     "name": "Adult River Dragon",
@@ -666,16 +666,6 @@ const monsterCombatStats = [
   {
     "name": "Adult Silver Dragon",
     "ac": 19,
-    "hp": 267,
-    "init": 5,
-    "cr": 16.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_silver_dragon_bf.html"
-  },
-  {
-    "name": "Adult Silver Dragon",
-    "ac": 19,
     "hp": 243,
     "init": 0,
     "cr": 16.0,
@@ -692,6 +682,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_silver_dragon_mm_2024.html"
+  },
+  {
+    "name": "Adult Silver Dragon",
+    "ac": 19,
+    "hp": 267,
+    "init": 22,
+    "cr": 16.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_silver_dragon_bf.html"
   },
   {
     "name": "Adult Void Dragon",
@@ -726,16 +726,6 @@ const monsterCombatStats = [
   {
     "name": "Adult White Dragon",
     "ac": 18,
-    "hp": 238,
-    "init": 5,
-    "cr": 13.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/adult_white_dragon_bf.html"
-  },
-  {
-    "name": "Adult White Dragon",
-    "ac": 18,
     "hp": 200,
     "init": 0,
     "cr": 13.0,
@@ -752,6 +742,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/adult_white_dragon_mm_2024.html"
+  },
+  {
+    "name": "Adult White Dragon",
+    "ac": 18,
+    "hp": 238,
+    "init": 22,
+    "cr": 13.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/adult_white_dragon_bf.html"
   },
   {
     "name": "Adult Wind Dragon",
@@ -836,16 +836,6 @@ const monsterCombatStats = [
   {
     "name": "Air Elemental",
     "ac": 15,
-    "hp": 94,
-    "init": 5,
-    "cr": 5.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/air_elemental_bf.html"
-  },
-  {
-    "name": "Air Elemental",
-    "ac": 15,
     "hp": 90,
     "init": 5,
     "cr": 5.0,
@@ -862,6 +852,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/air_elemental_mm_2024.html"
+  },
+  {
+    "name": "Air Elemental",
+    "ac": 15,
+    "hp": 94,
+    "init": 13,
+    "cr": 5.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/air_elemental_bf.html"
   },
   {
     "name": "Akaasit",
@@ -1267,7 +1267,7 @@ const monsterCombatStats = [
     "name": "Ambush Hag",
     "ac": 16,
     "hp": 156,
-    "init": 8,
+    "init": 16,
     "cr": 9.0,
     "type": "Fey",
     "source": "Black Flag",
@@ -1345,16 +1345,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Ancient Black Dragon",
-    "ac": 21,
-    "hp": 355,
-    "init": 8,
-    "cr": 20.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_black_dragon_bf.html"
-  },
-  {
-    "name": "Ancient Black Dragon",
     "ac": 22,
     "hp": 367,
     "init": 2,
@@ -1374,6 +1364,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_black_dragon_mm_2024.html"
   },
   {
+    "name": "Ancient Black Dragon",
+    "ac": 21,
+    "hp": 355,
+    "init": 25,
+    "cr": 20.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_black_dragon_bf.html"
+  },
+  {
     "name": "Ancient Blue Dragon",
     "ac": 22,
     "hp": 407,
@@ -1382,16 +1382,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-blue-dragon-a5e.html"
-  },
-  {
-    "name": "Ancient Blue Dragon",
-    "ac": 21,
-    "hp": 355,
-    "init": 6,
-    "cr": 20.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_blue_dragon_bf.html"
   },
   {
     "name": "Ancient Blue Dragon",
@@ -1412,6 +1402,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_blue_dragon_mm_2024.html"
+  },
+  {
+    "name": "Ancient Blue Dragon",
+    "ac": 21,
+    "hp": 355,
+    "init": 27,
+    "cr": 20.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_blue_dragon_bf.html"
   },
   {
     "name": "Ancient Boreal Dragon",
@@ -1436,16 +1436,6 @@ const monsterCombatStats = [
   {
     "name": "Ancient Brass Dragon",
     "ac": 20,
-    "hp": 284,
-    "init": 6,
-    "cr": 17.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_brass_dragon_bf.html"
-  },
-  {
-    "name": "Ancient Brass Dragon",
-    "ac": 20,
     "hp": 297,
     "init": 0,
     "cr": 20.0,
@@ -1464,6 +1454,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_brass_dragon_mm_2024.html"
   },
   {
+    "name": "Ancient Brass Dragon",
+    "ac": 20,
+    "hp": 284,
+    "init": 24,
+    "cr": 17.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_brass_dragon_bf.html"
+  },
+  {
     "name": "Ancient Bronze Dragon",
     "ac": 21,
     "hp": 425,
@@ -1472,16 +1472,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-bronze-dragon-a5e.html"
-  },
-  {
-    "name": "Ancient Bronze Dragon",
-    "ac": 21,
-    "hp": 314,
-    "init": 6,
-    "cr": 19.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_bronze_dragon_bf.html"
   },
   {
     "name": "Ancient Bronze Dragon",
@@ -1502,6 +1492,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_bronze_dragon_mm_2024.html"
+  },
+  {
+    "name": "Ancient Bronze Dragon",
+    "ac": 21,
+    "hp": 314,
+    "init": 27,
+    "cr": 19.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_bronze_dragon_bf.html"
   },
   {
     "name": "Ancient Cave Dragon",
@@ -1526,16 +1526,6 @@ const monsterCombatStats = [
   {
     "name": "Ancient Copper Dragon",
     "ac": 21,
-    "hp": 297,
-    "init": 6,
-    "cr": 18.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_copper_dragon_bf.html"
-  },
-  {
-    "name": "Ancient Copper Dragon",
-    "ac": 21,
     "hp": 350,
     "init": 1,
     "cr": 21.0,
@@ -1552,6 +1542,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_copper_dragon_mm_2024.html"
+  },
+  {
+    "name": "Ancient Copper Dragon",
+    "ac": 21,
+    "hp": 297,
+    "init": 27,
+    "cr": 18.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_copper_dragon_bf.html"
   },
   {
     "name": "Ancient Earth Dragon",
@@ -1596,16 +1596,6 @@ const monsterCombatStats = [
   {
     "name": "Ancient Gold Dragon",
     "ac": 22,
-    "hp": 382,
-    "init": 9,
-    "cr": 21.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_gold_dragon_bf.html"
-  },
-  {
-    "name": "Ancient Gold Dragon",
-    "ac": 22,
     "hp": 546,
     "init": 2,
     "cr": 24.0,
@@ -1624,6 +1614,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_gold_dragon_mm_2024.html"
   },
   {
+    "name": "Ancient Gold Dragon",
+    "ac": 22,
+    "hp": 382,
+    "init": 30,
+    "cr": 21.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_gold_dragon_bf.html"
+  },
+  {
     "name": "Ancient Green Dragon",
     "ac": 21,
     "hp": 420,
@@ -1632,16 +1632,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ancient-green-dragon-a5e.html"
-  },
-  {
-    "name": "Ancient Green Dragon",
-    "ac": 21,
-    "hp": 333,
-    "init": 7,
-    "cr": 19.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_green_dragon_bf.html"
   },
   {
     "name": "Ancient Green Dragon",
@@ -1662,6 +1652,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_green_dragon_mm_2024.html"
+  },
+  {
+    "name": "Ancient Green Dragon",
+    "ac": 21,
+    "hp": 333,
+    "init": 25,
+    "cr": 19.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_green_dragon_bf.html"
   },
   {
     "name": "Ancient Imperial Dragon",
@@ -1716,16 +1716,6 @@ const monsterCombatStats = [
   {
     "name": "Ancient Red Dragon",
     "ac": 22,
-    "hp": 382,
-    "init": 7,
-    "cr": 21.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_red_dragon_bf.html"
-  },
-  {
-    "name": "Ancient Red Dragon",
-    "ac": 22,
     "hp": 546,
     "init": 0,
     "cr": 24.0,
@@ -1742,6 +1732,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_red_dragon_mm_2024.html"
+  },
+  {
+    "name": "Ancient Red Dragon",
+    "ac": 22,
+    "hp": 382,
+    "init": 26,
+    "cr": 21.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_red_dragon_bf.html"
   },
   {
     "name": "Ancient River Dragon",
@@ -1795,16 +1795,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Ancient Silver Dragon",
-    "ac": 21,
-    "hp": 355,
-    "init": 6,
-    "cr": 20.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_silver_dragon_bf.html"
-  },
-  {
-    "name": "Ancient Silver Dragon",
     "ac": 22,
     "hp": 487,
     "init": 0,
@@ -1822,6 +1812,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_silver_dragon_mm_2024.html"
+  },
+  {
+    "name": "Ancient Silver Dragon",
+    "ac": 21,
+    "hp": 355,
+    "init": 25,
+    "cr": 20.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_silver_dragon_bf.html"
   },
   {
     "name": "Ancient Titan",
@@ -1866,16 +1866,6 @@ const monsterCombatStats = [
   {
     "name": "Ancient White Dragon",
     "ac": 20,
-    "hp": 301,
-    "init": 6,
-    "cr": 17.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ancient_white_dragon_bf.html"
-  },
-  {
-    "name": "Ancient White Dragon",
-    "ac": 20,
     "hp": 333,
     "init": 0,
     "cr": 20.0,
@@ -1894,6 +1884,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/ancient_white_dragon_mm_2024.html"
   },
   {
+    "name": "Ancient White Dragon",
+    "ac": 20,
+    "hp": 301,
+    "init": 25,
+    "cr": 17.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ancient_white_dragon_bf.html"
+  },
+  {
     "name": "Ancient Wind Dragon",
     "ac": 20,
     "hp": 351,
@@ -1906,22 +1906,22 @@ const monsterCombatStats = [
   {
     "name": "Androsphinx",
     "ac": 17,
-    "hp": 284,
-    "init": 5,
-    "cr": 17.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/androsphinx_bf.html"
-  },
-  {
-    "name": "Androsphinx",
-    "ac": 17,
     "hp": 199,
     "init": 0,
     "cr": 17.0,
     "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/androsphinx.html"
+  },
+  {
+    "name": "Androsphinx",
+    "ac": 17,
+    "hp": 284,
+    "init": 20,
+    "cr": 17.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/androsphinx_bf.html"
   },
   {
     "name": "Angatra",
@@ -2046,16 +2046,6 @@ const monsterCombatStats = [
   {
     "name": "Animated Armor",
     "ac": 18,
-    "hp": 34,
-    "init": 0,
-    "cr": 1.0,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/animated_armor_bf.html"
-  },
-  {
-    "name": "Animated Armor",
-    "ac": 18,
     "hp": 33,
     "init": 0,
     "cr": 1.0,
@@ -2072,6 +2062,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/animated_armor_mm_2024.html"
+  },
+  {
+    "name": "Animated Armor",
+    "ac": 18,
+    "hp": 34,
+    "init": 8,
+    "cr": 1.0,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/animated_armor_bf.html"
   },
   {
     "name": "Animated Bearskin Rug",
@@ -2166,16 +2166,6 @@ const monsterCombatStats = [
   {
     "name": "Ankheg",
     "ac": 14,
-    "hp": 57,
-    "init": 0,
-    "cr": 2.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ankheg_bf.html"
-  },
-  {
-    "name": "Ankheg",
-    "ac": 14,
     "hp": 39,
     "init": 0,
     "cr": 2.0,
@@ -2192,6 +2182,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ankheg_mm_2024.html"
+  },
+  {
+    "name": "Ankheg",
+    "ac": 14,
+    "hp": 57,
+    "init": 11,
+    "cr": 2.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ankheg_bf.html"
   },
   {
     "name": "Ankheg Queen",
@@ -2326,16 +2326,6 @@ const monsterCombatStats = [
   {
     "name": "Ape",
     "ac": 12,
-    "hp": 25,
-    "init": 2,
-    "cr": 0.5,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ape_bf.html"
-  },
-  {
-    "name": "Ape",
-    "ac": 12,
     "hp": 19,
     "init": 2,
     "cr": 0.5,
@@ -2354,10 +2344,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/ape_mm_2024.html"
   },
   {
+    "name": "Ape",
+    "ac": 12,
+    "hp": 25,
+    "init": 13,
+    "cr": 0.5,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ape_bf.html"
+  },
+  {
     "name": "Ape, Giant",
     "ac": 12,
     "hp": 176,
-    "init": 2,
+    "init": 14,
     "cr": 7.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -2477,7 +2477,7 @@ const monsterCombatStats = [
     "name": "Archdruid",
     "ac": 17,
     "hp": 210,
-    "init": 2,
+    "init": 19,
     "cr": 12.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -2515,16 +2515,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Archmage",
-    "ac": 17,
-    "hp": 212,
-    "init": 2,
-    "cr": 12.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/archmage_bf.html"
-  },
-  {
-    "name": "Archmage",
     "ac": 12,
     "hp": 99,
     "init": 2,
@@ -2542,6 +2532,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/archmage_mm_2024.html"
+  },
+  {
+    "name": "Archmage",
+    "ac": 17,
+    "hp": 212,
+    "init": 16,
+    "cr": 12.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/archmage_bf.html"
   },
   {
     "name": "Archon, Siege",
@@ -2696,16 +2696,6 @@ const monsterCombatStats = [
   {
     "name": "Assassin",
     "ac": 15,
-    "hp": 157,
-    "init": 6,
-    "cr": 8.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/assassin_bf.html"
-  },
-  {
-    "name": "Assassin",
-    "ac": 15,
     "hp": 78,
     "init": 3,
     "cr": 8.0,
@@ -2722,6 +2712,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/assassin_mm_2024.html"
+  },
+  {
+    "name": "Assassin",
+    "ac": 15,
+    "hp": 157,
+    "init": 13,
+    "cr": 8.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/assassin_bf.html"
   },
   {
     "name": "Astral Devourer",
@@ -2885,16 +2885,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Awakened Shrub",
-    "ac": 10,
-    "hp": 9,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Plant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/awakened_shrub_bf.html"
-  },
-  {
-    "name": "Awakened Shrub",
     "ac": 9,
     "hp": 10,
     "init": -1,
@@ -2914,6 +2904,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/awakened_shrub_mm_2024.html"
   },
   {
+    "name": "Awakened Shrub",
+    "ac": 10,
+    "hp": 9,
+    "init": 10,
+    "cr": 0.0,
+    "type": "Plant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/awakened_shrub_bf.html"
+  },
+  {
     "name": "Awakened Tree",
     "ac": 13,
     "hp": 51,
@@ -2922,16 +2922,6 @@ const monsterCombatStats = [
     "type": "Plant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/awakened-tree-a5e.html"
-  },
-  {
-    "name": "Awakened Tree",
-    "ac": 13,
-    "hp": 60,
-    "init": -2,
-    "cr": 2.0,
-    "type": "Plant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/awakened_tree_bf.html"
   },
   {
     "name": "Awakened Tree",
@@ -2954,6 +2944,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/awakened_tree_mm_2024.html"
   },
   {
+    "name": "Awakened Tree",
+    "ac": 13,
+    "hp": 60,
+    "init": 10,
+    "cr": 2.0,
+    "type": "Plant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/awakened_tree_bf.html"
+  },
+  {
     "name": "Axe Beak",
     "ac": 11,
     "hp": 16,
@@ -2962,16 +2962,6 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/axe-beak-a5e.html"
-  },
-  {
-    "name": "Axe Beak",
-    "ac": 11,
-    "hp": 13,
-    "init": 1,
-    "cr": 0.25,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/axe_beak_bf.html"
   },
   {
     "name": "Axe Beak",
@@ -2992,6 +2982,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/axe_beak_mm_2024.html"
+  },
+  {
+    "name": "Axe Beak",
+    "ac": 11,
+    "hp": 13,
+    "init": 12,
+    "cr": 0.25,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/axe_beak_bf.html"
   },
   {
     "name": "Azeban",
@@ -3016,22 +3016,22 @@ const monsterCombatStats = [
   {
     "name": "Azer",
     "ac": 17,
-    "hp": 49,
-    "init": 1,
-    "cr": 2.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/azer_bf.html"
-  },
-  {
-    "name": "Azer",
-    "ac": 17,
     "hp": 39,
     "init": 1,
     "cr": 2.0,
     "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/azer.html"
+  },
+  {
+    "name": "Azer",
+    "ac": 17,
+    "hp": 49,
+    "init": 11,
+    "cr": 2.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/azer_bf.html"
   },
   {
     "name": "Azer Forgemaster",
@@ -3105,16 +3105,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Baboon",
-    "ac": 11,
-    "hp": 10,
-    "init": 1,
-    "cr": 0.125,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/baboon_bf.html"
-  },
-  {
-    "name": "Baboon",
     "ac": 12,
     "hp": 3,
     "init": 2,
@@ -3132,6 +3122,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/baboon_mm_2024.html"
+  },
+  {
+    "name": "Baboon",
+    "ac": 11,
+    "hp": 10,
+    "init": 11,
+    "cr": 0.125,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/baboon_bf.html"
   },
   {
     "name": "Backup Holler Spider",
@@ -3156,16 +3156,6 @@ const monsterCombatStats = [
   {
     "name": "Badger",
     "ac": 10,
-    "hp": 9,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/badger_bf.html"
-  },
-  {
-    "name": "Badger",
-    "ac": 10,
     "hp": 3,
     "init": 0,
     "cr": 0.0,
@@ -3184,10 +3174,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/badger_mm_2024.html"
   },
   {
+    "name": "Badger",
+    "ac": 10,
+    "hp": 9,
+    "init": 11,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/badger_bf.html"
+  },
+  {
     "name": "Badger, Giant",
     "ac": 10,
     "hp": 15,
-    "init": 0,
+    "init": 11,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -3207,7 +3207,7 @@ const monsterCombatStats = [
     "name": "Balara",
     "ac": 17,
     "hp": 114,
-    "init": 2,
+    "init": 14,
     "cr": 6.0,
     "type": "Undead",
     "source": "Black Flag",
@@ -3256,16 +3256,6 @@ const monsterCombatStats = [
   {
     "name": "Balor",
     "ac": 19,
-    "hp": 292,
-    "init": 2,
-    "cr": 19.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/balor_bf.html"
-  },
-  {
-    "name": "Balor",
-    "ac": 19,
     "hp": 262,
     "init": 2,
     "cr": 19.0,
@@ -3282,6 +3272,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/balor_mm_2024.html"
+  },
+  {
+    "name": "Balor",
+    "ac": 19,
+    "hp": 292,
+    "init": 19,
+    "cr": 19.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/balor_bf.html"
   },
   {
     "name": "Balor General",
@@ -3306,16 +3306,6 @@ const monsterCombatStats = [
   {
     "name": "Bandit",
     "ac": 12,
-    "hp": 9,
-    "init": 1,
-    "cr": 0.125,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/bandit_bf.html"
-  },
-  {
-    "name": "Bandit",
-    "ac": 12,
     "hp": 11,
     "init": 1,
     "cr": 0.125,
@@ -3334,6 +3324,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/bandit_mm_2024.html"
   },
   {
+    "name": "Bandit",
+    "ac": 12,
+    "hp": 9,
+    "init": 10,
+    "cr": 0.125,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/bandit_bf.html"
+  },
+  {
     "name": "Bandit Captain",
     "ac": 15,
     "hp": 65,
@@ -3342,16 +3342,6 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bandit-captain-a5e.html"
-  },
-  {
-    "name": "Bandit Captain",
-    "ac": 16,
-    "hp": 51,
-    "init": 4,
-    "cr": 2.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/bandit_captain_bf.html"
   },
   {
     "name": "Bandit Captain",
@@ -3372,6 +3362,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bandit_captain_mm_2024.html"
+  },
+  {
+    "name": "Bandit Captain",
+    "ac": 16,
+    "hp": 51,
+    "init": 10,
+    "cr": 2.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/bandit_captain_bf.html"
   },
   {
     "name": "Bandit Lord",
@@ -3426,16 +3426,6 @@ const monsterCombatStats = [
   {
     "name": "Barbed Devil",
     "ac": 15,
-    "hp": 94,
-    "init": 3,
-    "cr": 5.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/barbed_devil_bf.html"
-  },
-  {
-    "name": "Barbed Devil",
-    "ac": 15,
     "hp": 110,
     "init": 3,
     "cr": 5.0,
@@ -3454,10 +3444,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/barbed_devil_mm_2024.html"
   },
   {
+    "name": "Barbed Devil",
+    "ac": 15,
+    "hp": 94,
+    "init": 18,
+    "cr": 5.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/barbed_devil_bf.html"
+  },
+  {
     "name": "Bard",
     "ac": 15,
     "hp": 114,
-    "init": 6,
+    "init": 14,
     "cr": 5.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -3495,16 +3495,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Basilisk",
-    "ac": 15,
-    "hp": 68,
-    "init": -1,
-    "cr": 3.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/basilisk_bf.html"
-  },
-  {
-    "name": "Basilisk",
     "ac": 12,
     "hp": 52,
     "init": -1,
@@ -3522,6 +3512,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/basilisk_mm_2024.html"
+  },
+  {
+    "name": "Basilisk",
+    "ac": 15,
+    "hp": 68,
+    "init": 9,
+    "cr": 3.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/basilisk_bf.html"
   },
   {
     "name": "Bastet Temple Cat",
@@ -3545,16 +3545,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Bat",
-    "ac": 11,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/bat_bf.html"
-  },
-  {
-    "name": "Bat",
     "ac": 12,
     "hp": 1,
     "init": 2,
@@ -3574,10 +3564,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/bat_mm_2024.html"
   },
   {
+    "name": "Bat",
+    "ac": 11,
+    "hp": 8,
+    "init": 11,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/bat_bf.html"
+  },
+  {
     "name": "Bat, Giant",
     "ac": 12,
     "hp": 15,
-    "init": 2,
+    "init": 11,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -3587,7 +3587,7 @@ const monsterCombatStats = [
     "name": "Bat, Swarm of Bats",
     "ac": 12,
     "hp": 14,
-    "init": 2,
+    "init": 11,
     "cr": 0.25,
     "type": "Swarm",
     "source": "Black Flag",
@@ -3627,7 +3627,7 @@ const monsterCombatStats = [
     "name": "Bear, Black",
     "ac": 11,
     "hp": 25,
-    "init": 0,
+    "init": 13,
     "cr": 0.5,
     "type": "Beast",
     "source": "Black Flag",
@@ -3637,7 +3637,7 @@ const monsterCombatStats = [
     "name": "Bear, Brown",
     "ac": 11,
     "hp": 44,
-    "init": 0,
+    "init": 13,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -3647,7 +3647,7 @@ const monsterCombatStats = [
     "name": "Bear, Polar",
     "ac": 12,
     "hp": 60,
-    "init": 0,
+    "init": 13,
     "cr": 2.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -3662,16 +3662,6 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/bearded-devil-a5e.html"
-  },
-  {
-    "name": "Bearded Devil",
-    "ac": 13,
-    "hp": 63,
-    "init": 2,
-    "cr": 3.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/bearded_devil_bf.html"
   },
   {
     "name": "Bearded Devil",
@@ -3692,6 +3682,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bearded_devil_mm_2024.html"
+  },
+  {
+    "name": "Bearded Devil",
+    "ac": 13,
+    "hp": 63,
+    "init": 12,
+    "cr": 3.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/bearded_devil_bf.html"
   },
   {
     "name": "Bearfolk",
@@ -3806,16 +3806,6 @@ const monsterCombatStats = [
   {
     "name": "Behir",
     "ac": 17,
-    "hp": 223,
-    "init": 3,
-    "cr": 11.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/behir_bf.html"
-  },
-  {
-    "name": "Behir",
-    "ac": 17,
     "hp": 168,
     "init": 3,
     "cr": 11.0,
@@ -3832,6 +3822,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/behir_mm_2024.html"
+  },
+  {
+    "name": "Behir",
+    "ac": 17,
+    "hp": 223,
+    "init": 16,
+    "cr": 11.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/behir_bf.html"
   },
   {
     "name": "Behir Magus",
@@ -3906,16 +3906,6 @@ const monsterCombatStats = [
   {
     "name": "Berserker",
     "ac": 13,
-    "hp": 60,
-    "init": 1,
-    "cr": 2.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/berserker_bf.html"
-  },
-  {
-    "name": "Berserker",
-    "ac": 13,
     "hp": 67,
     "init": 1,
     "cr": 2.0,
@@ -3932,6 +3922,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/berserker_mm_2024.html"
+  },
+  {
+    "name": "Berserker",
+    "ac": 13,
+    "hp": 60,
+    "init": 10,
+    "cr": 2.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/berserker_bf.html"
   },
   {
     "name": "Berstuc",
@@ -4016,16 +4016,6 @@ const monsterCombatStats = [
   {
     "name": "Black Dragon Wyrmling",
     "ac": 17,
-    "hp": 51,
-    "init": 4,
-    "cr": 2.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/black_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Black Dragon Wyrmling",
-    "ac": 17,
     "hp": 33,
     "init": 2,
     "cr": 2.0,
@@ -4042,6 +4032,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/black_dragon_wyrmling_mm_2024.html"
+  },
+  {
+    "name": "Black Dragon Wyrmling",
+    "ac": 17,
+    "hp": 51,
+    "init": 14,
+    "cr": 2.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/black_dragon_wyrmling_bf.html"
   },
   {
     "name": "Black Knight Commander",
@@ -4076,16 +4076,6 @@ const monsterCombatStats = [
   {
     "name": "Black Pudding",
     "ac": 7,
-    "hp": 122,
-    "init": -3,
-    "cr": 4.0,
-    "type": "Ooze",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/black_pudding_bf.html"
-  },
-  {
-    "name": "Black Pudding",
-    "ac": 7,
     "hp": 85,
     "init": -3,
     "cr": 4.0,
@@ -4102,6 +4092,16 @@ const monsterCombatStats = [
     "type": "Ooze",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/black_pudding_mm_2024.html"
+  },
+  {
+    "name": "Black Pudding",
+    "ac": 7,
+    "hp": 122,
+    "init": 8,
+    "cr": 4.0,
+    "type": "Ooze",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/black_pudding_bf.html"
   },
   {
     "name": "Black Shuck",
@@ -4196,16 +4196,6 @@ const monsterCombatStats = [
   {
     "name": "Blink Dog",
     "ac": 13,
-    "hp": 14,
-    "init": 3,
-    "cr": 0.25,
-    "type": "Fey",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/blink_dog_bf.html"
-  },
-  {
-    "name": "Blink Dog",
-    "ac": 13,
     "hp": 22,
     "init": 3,
     "cr": 0.25,
@@ -4224,10 +4214,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/blink_dog_mm_2024.html"
   },
   {
+    "name": "Blink Dog",
+    "ac": 13,
+    "hp": 14,
+    "init": 13,
+    "cr": 0.25,
+    "type": "Fey",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/blink_dog_bf.html"
+  },
+  {
     "name": "Bloatblossom",
     "ac": 15,
     "hp": 60,
-    "init": 0,
+    "init": 11,
     "cr": 2.0,
     "type": "Plant",
     "source": "Black Flag",
@@ -4396,16 +4396,6 @@ const monsterCombatStats = [
   {
     "name": "Blue Dragon Wyrmling",
     "ac": 17,
-    "hp": 68,
-    "init": 2,
-    "cr": 3.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/blue_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Blue Dragon Wyrmling",
-    "ac": 17,
     "hp": 52,
     "init": 0,
     "cr": 3.0,
@@ -4424,6 +4414,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/blue_dragon_wyrmling_mm_2024.html"
   },
   {
+    "name": "Blue Dragon Wyrmling",
+    "ac": 17,
+    "hp": 68,
+    "init": 14,
+    "cr": 3.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/blue_dragon_wyrmling_bf.html"
+  },
+  {
     "name": "Boar",
     "ac": 11,
     "hp": 11,
@@ -4432,16 +4432,6 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/boar-a5e.html"
-  },
-  {
-    "name": "Boar",
-    "ac": 11,
-    "hp": 15,
-    "init": 0,
-    "cr": 0.25,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/boar_bf.html"
   },
   {
     "name": "Boar",
@@ -4464,10 +4454,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/boar_mm_2024.html"
   },
   {
+    "name": "Boar",
+    "ac": 11,
+    "hp": 15,
+    "init": 9,
+    "cr": 0.25,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/boar_bf.html"
+  },
+  {
     "name": "Boar, Giant",
     "ac": 12,
     "hp": 63,
-    "init": 0,
+    "init": 8,
     "cr": 2.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -4575,16 +4575,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Bone Devil",
-    "ac": 18,
-    "hp": 144,
-    "init": 3,
-    "cr": 9.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/bone_devil_bf.html"
-  },
-  {
-    "name": "Bone Devil",
     "ac": 19,
     "hp": 142,
     "init": 3,
@@ -4602,6 +4592,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bone_devil_mm_2024.html"
+  },
+  {
+    "name": "Bone Devil",
+    "ac": 18,
+    "hp": 144,
+    "init": 16,
+    "cr": 9.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/bone_devil_bf.html"
   },
   {
     "name": "Bone Golem",
@@ -4766,16 +4766,6 @@ const monsterCombatStats = [
   {
     "name": "Brass Dragon Wyrmling",
     "ac": 16,
-    "hp": 36,
-    "init": 2,
-    "cr": 1.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/brass_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Brass Dragon Wyrmling",
-    "ac": 16,
     "hp": 16,
     "init": 0,
     "cr": 1.0,
@@ -4792,6 +4782,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/brass_dragon_wyrmling_mm_2024.html"
+  },
+  {
+    "name": "Brass Dragon Wyrmling",
+    "ac": 16,
+    "hp": 36,
+    "init": 14,
+    "cr": 1.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/brass_dragon_wyrmling_bf.html"
   },
   {
     "name": "Brimstone Locusthound",
@@ -4816,16 +4816,6 @@ const monsterCombatStats = [
   {
     "name": "Bronze Dragon Wyrmling",
     "ac": 17,
-    "hp": 51,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/bronze_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Bronze Dragon Wyrmling",
-    "ac": 17,
     "hp": 32,
     "init": 0,
     "cr": 2.0,
@@ -4842,6 +4832,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bronze_dragon_wyrmling_mm_2024.html"
+  },
+  {
+    "name": "Bronze Dragon Wyrmling",
+    "ac": 17,
+    "hp": 51,
+    "init": 14,
+    "cr": 2.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/bronze_dragon_wyrmling_bf.html"
   },
   {
     "name": "Bronze Golem",
@@ -4965,16 +4965,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Bugbear",
-    "ac": 14,
-    "hp": 40,
-    "init": 2,
-    "cr": 1.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/bugbear_bf.html"
-  },
-  {
-    "name": "Bugbear",
     "ac": 16,
     "hp": 27,
     "init": 2,
@@ -4984,10 +4974,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.1_srd_(2015_mm)/bugbear.html"
   },
   {
+    "name": "Bugbear",
+    "ac": 14,
+    "hp": 40,
+    "init": 10,
+    "cr": 1.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/bugbear_bf.html"
+  },
+  {
     "name": "Bugbear Champion",
     "ac": 17,
     "hp": 85,
-    "init": 2,
+    "init": 11,
     "cr": 4.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -5056,16 +5056,6 @@ const monsterCombatStats = [
   {
     "name": "Bulette",
     "ac": 17,
-    "hp": 108,
-    "init": 0,
-    "cr": 5.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/bulette_bf.html"
-  },
-  {
-    "name": "Bulette",
-    "ac": 17,
     "hp": 94,
     "init": 0,
     "cr": 5.0,
@@ -5082,6 +5072,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/bulette_mm_2024.html"
+  },
+  {
+    "name": "Bulette",
+    "ac": 17,
+    "hp": 108,
+    "init": 16,
+    "cr": 5.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/bulette_bf.html"
   },
   {
     "name": "Bull",
@@ -5235,16 +5235,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Camel",
-    "ac": 10,
-    "hp": 10,
-    "init": 0,
-    "cr": 0.125,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/camel_bf.html"
-  },
-  {
-    "name": "Camel",
     "ac": 9,
     "hp": 15,
     "init": -1,
@@ -5262,6 +5252,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/camel_mm_2024.html"
+  },
+  {
+    "name": "Camel",
+    "ac": 10,
+    "hp": 10,
+    "init": 9,
+    "cr": 0.125,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/camel_bf.html"
   },
   {
     "name": "Capybear",
@@ -5345,16 +5345,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Cat",
-    "ac": 11,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/cat_bf.html"
-  },
-  {
-    "name": "Cat",
     "ac": 12,
     "hp": 2,
     "init": 2,
@@ -5372,6 +5362,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cat_mm_2024.html"
+  },
+  {
+    "name": "Cat",
+    "ac": 11,
+    "hp": 8,
+    "init": 13,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/cat_bf.html"
   },
   {
     "name": "Catamount",
@@ -5576,22 +5576,22 @@ const monsterCombatStats = [
   {
     "name": "Centaur",
     "ac": 12,
-    "hp": 63,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/centaur_bf.html"
-  },
-  {
-    "name": "Centaur",
-    "ac": 12,
     "hp": 45,
     "init": 2,
     "cr": 2.0,
     "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/centaur.html"
+  },
+  {
+    "name": "Centaur",
+    "ac": 12,
+    "hp": 63,
+    "init": 13,
+    "cr": 2.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/centaur_bf.html"
   },
   {
     "name": "Centaur Chieftain",
@@ -5626,16 +5626,6 @@ const monsterCombatStats = [
   {
     "name": "Chain Devil",
     "ac": 16,
-    "hp": 138,
-    "init": 2,
-    "cr": 8.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/chain_devil_bf.html"
-  },
-  {
-    "name": "Chain Devil",
-    "ac": 16,
     "hp": 85,
     "init": 2,
     "cr": 11.0,
@@ -5652,6 +5642,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/chain_devil_mm_2024.html"
+  },
+  {
+    "name": "Chain Devil",
+    "ac": 16,
+    "hp": 138,
+    "init": 14,
+    "cr": 8.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/chain_devil_bf.html"
   },
   {
     "name": "Chained Angel",
@@ -5826,16 +5826,6 @@ const monsterCombatStats = [
   {
     "name": "Chimera",
     "ac": 14,
-    "hp": 126,
-    "init": 0,
-    "cr": 6.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/chimera_bf.html"
-  },
-  {
-    "name": "Chimera",
-    "ac": 14,
     "hp": 114,
     "init": 0,
     "cr": 6.0,
@@ -5852,6 +5842,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/chimera_mm_2024.html"
+  },
+  {
+    "name": "Chimera",
+    "ac": 14,
+    "hp": 126,
+    "init": 18,
+    "cr": 6.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/chimera_bf.html"
   },
   {
     "name": "Chimera, Royal",
@@ -5945,16 +5945,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Chuul",
-    "ac": 15,
-    "hp": 80,
-    "init": 0,
-    "cr": 4.0,
-    "type": "Aberration",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/chuul_bf.html"
-  },
-  {
-    "name": "Chuul",
     "ac": 16,
     "hp": 93,
     "init": 0,
@@ -5972,6 +5962,16 @@ const monsterCombatStats = [
     "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/chuul_mm_2024.html"
+  },
+  {
+    "name": "Chuul",
+    "ac": 15,
+    "hp": 80,
+    "init": 14,
+    "cr": 4.0,
+    "type": "Aberration",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/chuul_bf.html"
   },
   {
     "name": "Cikavak",
@@ -6026,16 +6026,6 @@ const monsterCombatStats = [
   {
     "name": "Clay Golem",
     "ac": 14,
-    "hp": 163,
-    "init": -1,
-    "cr": 9.0,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/clay_golem_bf.html"
-  },
-  {
-    "name": "Clay Golem",
-    "ac": 14,
     "hp": 133,
     "init": -1,
     "cr": 9.0,
@@ -6052,6 +6042,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/clay_golem_mm_2024.html"
+  },
+  {
+    "name": "Clay Golem",
+    "ac": 14,
+    "hp": 163,
+    "init": 9,
+    "cr": 9.0,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/clay_golem_bf.html"
   },
   {
     "name": "Clay Guardian",
@@ -6086,16 +6086,6 @@ const monsterCombatStats = [
   {
     "name": "Cloaker",
     "ac": 14,
-    "hp": 105,
-    "init": 5,
-    "cr": 8.0,
-    "type": "Aberration",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/cloaker_bf.html"
-  },
-  {
-    "name": "Cloaker",
-    "ac": 14,
     "hp": 78,
     "init": 2,
     "cr": 8.0,
@@ -6112,6 +6102,16 @@ const monsterCombatStats = [
     "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cloaker_mm_2024.html"
+  },
+  {
+    "name": "Cloaker",
+    "ac": 14,
+    "hp": 105,
+    "init": 11,
+    "cr": 8.0,
+    "type": "Aberration",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/cloaker_bf.html"
   },
   {
     "name": "Clockwork Abomination",
@@ -6336,16 +6336,6 @@ const monsterCombatStats = [
   {
     "name": "Cloud Giant",
     "ac": 14,
-    "hp": 175,
-    "init": 0,
-    "cr": 9.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/cloud_giant_bf.html"
-  },
-  {
-    "name": "Cloud Giant",
-    "ac": 14,
     "hp": 200,
     "init": 0,
     "cr": 9.0,
@@ -6362,6 +6352,16 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cloud_giant_mm_2024.html"
+  },
+  {
+    "name": "Cloud Giant",
+    "ac": 14,
+    "hp": 175,
+    "init": 17,
+    "cr": 9.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/cloud_giant_bf.html"
   },
   {
     "name": "Cloud Giant Noble",
@@ -6426,16 +6426,6 @@ const monsterCombatStats = [
   {
     "name": "Cockatrice",
     "ac": 11,
-    "hp": 25,
-    "init": 1,
-    "cr": 0.5,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/cockatrice_bf.html"
-  },
-  {
-    "name": "Cockatrice",
-    "ac": 11,
     "hp": 27,
     "init": 1,
     "cr": 0.5,
@@ -6452,6 +6442,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/cockatrice_mm_2024.html"
+  },
+  {
+    "name": "Cockatrice",
+    "ac": 11,
+    "hp": 25,
+    "init": 11,
+    "cr": 0.5,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/cockatrice_bf.html"
   },
   {
     "name": "Coll\u00e1is",
@@ -6476,16 +6476,6 @@ const monsterCombatStats = [
   {
     "name": "Commoner",
     "ac": 10,
-    "hp": 8,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/commoner_bf.html"
-  },
-  {
-    "name": "Commoner",
-    "ac": 10,
     "hp": 4,
     "init": 0,
     "cr": 0.0,
@@ -6502,6 +6492,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/commoner_mm_2024.html"
+  },
+  {
+    "name": "Commoner",
+    "ac": 10,
+    "hp": 8,
+    "init": 10,
+    "cr": 0.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/commoner_bf.html"
   },
   {
     "name": "Commoner Mob",
@@ -6586,16 +6586,6 @@ const monsterCombatStats = [
   {
     "name": "Copper Dragon Wyrmling",
     "ac": 16,
-    "hp": 36,
-    "init": 3,
-    "cr": 1.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/copper_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Copper Dragon Wyrmling",
-    "ac": 16,
     "hp": 22,
     "init": 1,
     "cr": 1.0,
@@ -6612,6 +6602,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/copper_dragon_wyrmling_mm_2024.html"
+  },
+  {
+    "name": "Copper Dragon Wyrmling",
+    "ac": 16,
+    "hp": 36,
+    "init": 14,
+    "cr": 1.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/copper_dragon_wyrmling_bf.html"
   },
   {
     "name": "Copperkill Slime",
@@ -6765,16 +6765,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Couatl",
-    "ac": 17,
-    "hp": 77,
-    "init": 5,
-    "cr": 4.0,
-    "type": "Celestial",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/couatl_bf.html"
-  },
-  {
-    "name": "Couatl",
     "ac": 19,
     "hp": 97,
     "init": 5,
@@ -6792,6 +6782,16 @@ const monsterCombatStats = [
     "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/couatl_mm_2024.html"
+  },
+  {
+    "name": "Couatl",
+    "ac": 17,
+    "hp": 77,
+    "init": 17,
+    "cr": 4.0,
+    "type": "Celestial",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/couatl_bf.html"
   },
   {
     "name": "Coven Green Hag",
@@ -6846,16 +6846,6 @@ const monsterCombatStats = [
   {
     "name": "Crab",
     "ac": 11,
-    "hp": 9,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/crab_bf.html"
-  },
-  {
-    "name": "Crab",
-    "ac": 11,
     "hp": 2,
     "init": 0,
     "cr": 0.0,
@@ -6874,6 +6864,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/crab_mm_2024.html"
   },
   {
+    "name": "Crab",
+    "ac": 11,
+    "hp": 9,
+    "init": 9,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/crab_bf.html"
+  },
+  {
     "name": "Crab, Duffel",
     "ac": 15,
     "hp": 60,
@@ -6887,7 +6887,7 @@ const monsterCombatStats = [
     "name": "Crab, Giant",
     "ac": 15,
     "hp": 13,
-    "init": 2,
+    "init": 9,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -6937,7 +6937,7 @@ const monsterCombatStats = [
     "name": "Crimson Jelly",
     "ac": 12,
     "hp": 20,
-    "init": 4,
+    "init": 10,
     "cr": 0.5,
     "type": "Ooze",
     "source": "Black Flag",
@@ -6986,16 +6986,6 @@ const monsterCombatStats = [
   {
     "name": "Crocodile",
     "ac": 12,
-    "hp": 25,
-    "init": 0,
-    "cr": 0.5,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/crocodile_bf.html"
-  },
-  {
-    "name": "Crocodile",
-    "ac": 12,
     "hp": 19,
     "init": 0,
     "cr": 0.5,
@@ -7014,10 +7004,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/crocodile_mm_2024.html"
   },
   {
+    "name": "Crocodile",
+    "ac": 12,
+    "hp": 25,
+    "init": 10,
+    "cr": 0.5,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/crocodile_bf.html"
+  },
+  {
     "name": "Crocodile, Giant",
     "ac": 14,
     "hp": 120,
-    "init": -1,
+    "init": 10,
     "cr": 5.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -7185,16 +7185,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Cultist",
-    "ac": 13,
-    "hp": 9,
-    "init": 1,
-    "cr": 0.125,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/cultist_bf.html"
-  },
-  {
-    "name": "Cultist",
     "ac": 12,
     "hp": 9,
     "init": 1,
@@ -7214,6 +7204,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/cultist_mm_2024.html"
   },
   {
+    "name": "Cultist",
+    "ac": 13,
+    "hp": 9,
+    "init": 11,
+    "cr": 0.125,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/cultist_bf.html"
+  },
+  {
     "name": "Cultist Fanatic",
     "ac": 13,
     "hp": 44,
@@ -7227,7 +7227,7 @@ const monsterCombatStats = [
     "name": "Cultist, Fanatic",
     "ac": 14,
     "hp": 60,
-    "init": 2,
+    "init": 13,
     "cr": 2.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -7396,16 +7396,6 @@ const monsterCombatStats = [
   {
     "name": "Darkmantle",
     "ac": 11,
-    "hp": 25,
-    "init": 1,
-    "cr": 0.5,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/darkmantle_bf.html"
-  },
-  {
-    "name": "Darkmantle",
-    "ac": 11,
     "hp": 22,
     "init": 1,
     "cr": 0.5,
@@ -7422,6 +7412,16 @@ const monsterCombatStats = [
     "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/darkmantle_mm_2024.html"
+  },
+  {
+    "name": "Darkmantle",
+    "ac": 11,
+    "hp": 25,
+    "init": 10,
+    "cr": 0.5,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/darkmantle_bf.html"
   },
   {
     "name": "Dau",
@@ -7506,16 +7506,6 @@ const monsterCombatStats = [
   {
     "name": "Death Dog",
     "ac": 12,
-    "hp": 40,
-    "init": 2,
-    "cr": 1.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/death_dog_bf.html"
-  },
-  {
-    "name": "Death Dog",
-    "ac": 12,
     "hp": 39,
     "init": 2,
     "cr": 1.0,
@@ -7534,10 +7524,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/death_dog_mm_2024.html"
   },
   {
+    "name": "Death Dog",
+    "ac": 12,
+    "hp": 40,
+    "init": 15,
+    "cr": 1.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/death_dog_bf.html"
+  },
+  {
     "name": "Death Knight",
     "ac": 18,
     "hp": 140,
-    "init": 0,
+    "init": 15,
     "cr": 8.0,
     "type": "Undead",
     "source": "Black Flag",
@@ -7647,7 +7647,7 @@ const monsterCombatStats = [
     "name": "Deep Gnome",
     "ac": 15,
     "hp": 23,
-    "init": 2,
+    "init": 12,
     "cr": 0.5,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -7726,16 +7726,6 @@ const monsterCombatStats = [
   {
     "name": "Deer",
     "ac": 13,
-    "hp": 8,
-    "init": 3,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/deer_bf.html"
-  },
-  {
-    "name": "Deer",
-    "ac": 13,
     "hp": 4,
     "init": 3,
     "cr": 0.0,
@@ -7752,6 +7742,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/deer_mm_2024.html"
+  },
+  {
+    "name": "Deer",
+    "ac": 13,
+    "hp": 8,
+    "init": 12,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/deer_bf.html"
   },
   {
     "name": "Degenerate Titan",
@@ -7976,16 +7976,6 @@ const monsterCombatStats = [
   {
     "name": "Deva",
     "ac": 17,
-    "hp": 165,
-    "init": 4,
-    "cr": 10.0,
-    "type": "Celestial",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/deva_bf.html"
-  },
-  {
-    "name": "Deva",
-    "ac": 17,
     "hp": 136,
     "init": 4,
     "cr": 10.0,
@@ -8002,6 +7992,16 @@ const monsterCombatStats = [
     "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/deva_mm_2024.html"
+  },
+  {
+    "name": "Deva",
+    "ac": 17,
+    "hp": 165,
+    "init": 19,
+    "cr": 10.0,
+    "type": "Celestial",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/deva_bf.html"
   },
   {
     "name": "Devil Bough",
@@ -8386,16 +8386,6 @@ const monsterCombatStats = [
   {
     "name": "Djinni",
     "ac": 17,
-    "hp": 216,
-    "init": 6,
-    "cr": 11.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/djinni_bf.html"
-  },
-  {
-    "name": "Djinni",
-    "ac": 17,
     "hp": 161,
     "init": 2,
     "cr": 11.0,
@@ -8412,6 +8402,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/djinni_mm_2024.html"
+  },
+  {
+    "name": "Djinni",
+    "ac": 17,
+    "hp": 216,
+    "init": 17,
+    "cr": 11.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/djinni_bf.html"
   },
   {
     "name": "Djinni Noble",
@@ -8496,16 +8496,6 @@ const monsterCombatStats = [
   {
     "name": "Doppelganger",
     "ac": 14,
-    "hp": 80,
-    "init": 4,
-    "cr": 3.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/doppelganger_bf.html"
-  },
-  {
-    "name": "Doppelganger",
-    "ac": 14,
     "hp": 52,
     "init": 4,
     "cr": 3.0,
@@ -8522,6 +8512,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/doppelganger_mm_2024.html"
+  },
+  {
+    "name": "Doppelganger",
+    "ac": 14,
+    "hp": 80,
+    "init": 13,
+    "cr": 3.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/doppelganger_bf.html"
   },
   {
     "name": "Doppelixir",
@@ -8626,16 +8626,6 @@ const monsterCombatStats = [
   {
     "name": "Dragon Turtle",
     "ac": 20,
-    "hp": 318,
-    "init": 6,
-    "cr": 17.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/dragon_turtle_bf.html"
-  },
-  {
-    "name": "Dragon Turtle",
-    "ac": 20,
     "hp": 341,
     "init": 0,
     "cr": 17.0,
@@ -8652,6 +8642,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/dragon_turtle_mm_2024.html"
+  },
+  {
+    "name": "Dragon Turtle",
+    "ac": 20,
+    "hp": 318,
+    "init": 17,
+    "cr": 17.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/dragon_turtle_bf.html"
   },
   {
     "name": "Dragon, Prismatic Adult",
@@ -8986,16 +8986,6 @@ const monsterCombatStats = [
   {
     "name": "Dretch",
     "ac": 11,
-    "hp": 13,
-    "init": 0,
-    "cr": 0.25,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/dretch_bf.html"
-  },
-  {
-    "name": "Dretch",
-    "ac": 11,
     "hp": 18,
     "init": 0,
     "cr": 0.25,
@@ -9014,6 +9004,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/dretch_mm_2024.html"
   },
   {
+    "name": "Dretch",
+    "ac": 11,
+    "hp": 13,
+    "init": 9,
+    "cr": 0.25,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/dretch_bf.html"
+  },
+  {
     "name": "Drider",
     "ac": 17,
     "hp": 114,
@@ -9022,16 +9022,6 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/drider-a5e.html"
-  },
-  {
-    "name": "Drider",
-    "ac": 18,
-    "hp": 112,
-    "init": 6,
-    "cr": 6.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/drider_bf.html"
   },
   {
     "name": "Drider",
@@ -9052,6 +9042,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/drider_mm_2024.html"
+  },
+  {
+    "name": "Drider",
+    "ac": 18,
+    "hp": 112,
+    "init": 15,
+    "cr": 6.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/drider_bf.html"
   },
   {
     "name": "Drop Bear",
@@ -9076,22 +9076,22 @@ const monsterCombatStats = [
   {
     "name": "Drow",
     "ac": 15,
-    "hp": 12,
-    "init": 2,
-    "cr": 0.25,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/drow_bf.html"
-  },
-  {
-    "name": "Drow",
-    "ac": 15,
     "hp": 13,
     "init": 2,
     "cr": 0.25,
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/drow.html"
+  },
+  {
+    "name": "Drow",
+    "ac": 15,
+    "hp": 12,
+    "init": 12,
+    "cr": 0.25,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/drow_bf.html"
   },
   {
     "name": "Drowned Maiden",
@@ -9126,16 +9126,6 @@ const monsterCombatStats = [
   {
     "name": "Druid",
     "ac": 11,
-    "hp": 66,
-    "init": 1,
-    "cr": 2.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/druid_bf.html"
-  },
-  {
-    "name": "Druid",
-    "ac": 11,
     "hp": 27,
     "init": 1,
     "cr": 2.0,
@@ -9154,6 +9144,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/druid_mm_2024.html"
   },
   {
+    "name": "Druid",
+    "ac": 11,
+    "hp": 66,
+    "init": 13,
+    "cr": 2.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/druid_bf.html"
+  },
+  {
     "name": "Dryad",
     "ac": 15,
     "hp": 22,
@@ -9162,16 +9162,6 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/dryad-a5e.html"
-  },
-  {
-    "name": "Dryad",
-    "ac": 15,
-    "hp": 38,
-    "init": 2,
-    "cr": 1.0,
-    "type": "Fey",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/dryad_bf.html"
   },
   {
     "name": "Dryad",
@@ -9192,6 +9182,16 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/dryad_mm_2024.html"
+  },
+  {
+    "name": "Dryad",
+    "ac": 15,
+    "hp": 38,
+    "init": 14,
+    "cr": 1.0,
+    "type": "Fey",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/dryad_bf.html"
   },
   {
     "name": "Dubius",
@@ -9226,22 +9226,22 @@ const monsterCombatStats = [
   {
     "name": "Duergar",
     "ac": 16,
-    "hp": 36,
-    "init": 0,
-    "cr": 1.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/duergar_bf.html"
-  },
-  {
-    "name": "Duergar",
-    "ac": 16,
     "hp": 26,
     "init": 0,
     "cr": 1.0,
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/duergar.html"
+  },
+  {
+    "name": "Duergar",
+    "ac": 16,
+    "hp": 32,
+    "init": 10,
+    "cr": 1.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/duergar_bf.html"
   },
   {
     "name": "Dullahan",
@@ -9316,16 +9316,6 @@ const monsterCombatStats = [
   {
     "name": "Dust Mephit",
     "ac": 12,
-    "hp": 27,
-    "init": 2,
-    "cr": 0.5,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/dust_mephit_bf.html"
-  },
-  {
-    "name": "Dust Mephit",
-    "ac": 12,
     "hp": 17,
     "init": 2,
     "cr": 0.5,
@@ -9342,6 +9332,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/dust_mephit_mm_2024.html"
+  },
+  {
+    "name": "Dust Mephit",
+    "ac": 12,
+    "hp": 27,
+    "init": 13,
+    "cr": 0.5,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/dust_mephit_bf.html"
   },
   {
     "name": "Dvarapala",
@@ -9415,16 +9415,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Eagle",
-    "ac": 11,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/eagle_bf.html"
-  },
-  {
-    "name": "Eagle",
     "ac": 12,
     "hp": 3,
     "init": 2,
@@ -9444,10 +9434,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/eagle_mm_2024.html"
   },
   {
+    "name": "Eagle",
+    "ac": 11,
+    "hp": 8,
+    "init": 14,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/eagle_bf.html"
+  },
+  {
     "name": "Eagle, Giant",
     "ac": 13,
     "hp": 40,
-    "init": 3,
+    "init": 14,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -9486,16 +9486,6 @@ const monsterCombatStats = [
   {
     "name": "Earth Elemental",
     "ac": 17,
-    "hp": 114,
-    "init": -1,
-    "cr": 5.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/earth_elemental_bf.html"
-  },
-  {
-    "name": "Earth Elemental",
-    "ac": 17,
     "hp": 126,
     "init": -1,
     "cr": 5.0,
@@ -9512,6 +9502,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/earth_elemental_mm_2024.html"
+  },
+  {
+    "name": "Earth Elemental",
+    "ac": 17,
+    "hp": 114,
+    "init": 13,
+    "cr": 5.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/earth_elemental_bf.html"
   },
   {
     "name": "Eater of Dust",
@@ -9596,16 +9596,6 @@ const monsterCombatStats = [
   {
     "name": "Efreeti",
     "ac": 17,
-    "hp": 223,
-    "init": 1,
-    "cr": 11.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/efreeti_bf.html"
-  },
-  {
-    "name": "Efreeti",
-    "ac": 17,
     "hp": 200,
     "init": 1,
     "cr": 11.0,
@@ -9622,6 +9612,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/efreeti_mm_2024.html"
+  },
+  {
+    "name": "Efreeti",
+    "ac": 17,
+    "hp": 223,
+    "init": 16,
+    "cr": 11.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/efreeti_bf.html"
   },
   {
     "name": "Efreeti Noble",
@@ -9756,16 +9756,6 @@ const monsterCombatStats = [
   {
     "name": "Elephant",
     "ac": 12,
-    "hp": 105,
-    "init": -1,
-    "cr": 4.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/elephant_bf.html"
-  },
-  {
-    "name": "Elephant",
-    "ac": 12,
     "hp": 76,
     "init": -1,
     "cr": 4.0,
@@ -9782,6 +9772,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/elephant_mm_2024.html"
+  },
+  {
+    "name": "Elephant",
+    "ac": 12,
+    "hp": 105,
+    "init": 12,
+    "cr": 4.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/elephant_bf.html"
   },
   {
     "name": "Elf, Shadow Fey Executioner",
@@ -9816,16 +9816,6 @@ const monsterCombatStats = [
   {
     "name": "Elk",
     "ac": 10,
-    "hp": 15,
-    "init": 0,
-    "cr": 0.25,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/elk_bf.html"
-  },
-  {
-    "name": "Elk",
-    "ac": 10,
     "hp": 13,
     "init": 0,
     "cr": 0.25,
@@ -9844,10 +9834,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/elk_mm_2024.html"
   },
   {
+    "name": "Elk",
+    "ac": 10,
+    "hp": 15,
+    "init": 10,
+    "cr": 0.25,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/elk_bf.html"
+  },
+  {
     "name": "Elk, Giant",
     "ac": 14,
     "hp": 60,
-    "init": 3,
+    "init": 14,
     "cr": 2.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -10046,16 +10046,6 @@ const monsterCombatStats = [
   {
     "name": "Erinyes",
     "ac": 18,
-    "hp": 147,
-    "init": 7,
-    "cr": 12.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/erinyes_bf.html"
-  },
-  {
-    "name": "Erinyes",
-    "ac": 18,
     "hp": 153,
     "init": 3,
     "cr": 12.0,
@@ -10074,6 +10064,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/erinyes_mm_2024.html"
   },
   {
+    "name": "Erinyes",
+    "ac": 18,
+    "hp": 147,
+    "init": 16,
+    "cr": 12.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/erinyes_bf.html"
+  },
+  {
     "name": "Ettercap",
     "ac": 13,
     "hp": 44,
@@ -10082,16 +10082,6 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ettercap-a5e.html"
-  },
-  {
-    "name": "Ettercap",
-    "ac": 13,
-    "hp": 54,
-    "init": 3,
-    "cr": 2.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ettercap_bf.html"
   },
   {
     "name": "Ettercap",
@@ -10114,6 +10104,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/ettercap_mm_2024.html"
   },
   {
+    "name": "Ettercap",
+    "ac": 13,
+    "hp": 54,
+    "init": 13,
+    "cr": 2.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ettercap_bf.html"
+  },
+  {
     "name": "Ettin",
     "ac": 12,
     "hp": 85,
@@ -10122,16 +10122,6 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/ettin-a5e.html"
-  },
-  {
-    "name": "Ettin",
-    "ac": 12,
-    "hp": 95,
-    "init": -1,
-    "cr": 4.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ettin_bf.html"
   },
   {
     "name": "Ettin",
@@ -10152,6 +10142,16 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ettin_mm_2024.html"
+  },
+  {
+    "name": "Ettin",
+    "ac": 12,
+    "hp": 95,
+    "init": 14,
+    "cr": 4.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ettin_bf.html"
   },
   {
     "name": "Ettin, Kobold",
@@ -10437,7 +10437,7 @@ const monsterCombatStats = [
     "name": "Feral Hunter",
     "ac": 14,
     "hp": 83,
-    "init": 3,
+    "init": 14,
     "cr": 3.0,
     "type": "Fey",
     "source": "Black Flag",
@@ -10536,16 +10536,6 @@ const monsterCombatStats = [
   {
     "name": "Fire Elemental",
     "ac": 13,
-    "hp": 110,
-    "init": 3,
-    "cr": 5.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/fire_elemental_bf.html"
-  },
-  {
-    "name": "Fire Elemental",
-    "ac": 13,
     "hp": 102,
     "init": 3,
     "cr": 5.0,
@@ -10564,6 +10554,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/fire_elemental_mm_2024.html"
   },
   {
+    "name": "Fire Elemental",
+    "ac": 13,
+    "hp": 110,
+    "init": 10,
+    "cr": 5.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/fire_elemental_bf.html"
+  },
+  {
     "name": "Fire Giant",
     "ac": 18,
     "hp": 162,
@@ -10572,16 +10572,6 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/fire-giant-a5e.html"
-  },
-  {
-    "name": "Fire Giant",
-    "ac": 18,
-    "hp": 175,
-    "init": 3,
-    "cr": 9.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/fire_giant_bf.html"
   },
   {
     "name": "Fire Giant",
@@ -10602,6 +10592,16 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/fire_giant_mm_2024.html"
+  },
+  {
+    "name": "Fire Giant",
+    "ac": 18,
+    "hp": 175,
+    "init": 16,
+    "cr": 9.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/fire_giant_bf.html"
   },
   {
     "name": "Fire Giant War Priest",
@@ -10706,16 +10706,6 @@ const monsterCombatStats = [
   {
     "name": "Flesh Golem",
     "ac": 9,
-    "hp": 129,
-    "init": -1,
-    "cr": 5.0,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/flesh_golem_bf.html"
-  },
-  {
-    "name": "Flesh Golem",
-    "ac": 9,
     "hp": 93,
     "init": -1,
     "cr": 5.0,
@@ -10732,6 +10722,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/flesh_golem_mm_2024.html"
+  },
+  {
+    "name": "Flesh Golem",
+    "ac": 9,
+    "hp": 129,
+    "init": 13,
+    "cr": 5.0,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/flesh_golem_bf.html"
   },
   {
     "name": "Flesh Guardian",
@@ -10787,7 +10787,7 @@ const monsterCombatStats = [
     "name": "Flinderbeast",
     "ac": 14,
     "hp": 38,
-    "init": 4,
+    "init": 13,
     "cr": 1.0,
     "type": "Fey",
     "source": "Black Flag",
@@ -10885,16 +10885,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Flying Sword",
-    "ac": 16,
-    "hp": 11,
-    "init": 3,
-    "cr": 0.25,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/flying_sword_bf.html"
-  },
-  {
-    "name": "Flying Sword",
     "ac": 17,
     "hp": 17,
     "init": 2,
@@ -10902,6 +10892,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/flying-sword.html"
+  },
+  {
+    "name": "Flying Sword",
+    "ac": 16,
+    "hp": 11,
+    "init": 7,
+    "cr": 0.25,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/flying_sword_bf.html"
   },
   {
     "name": "Folk of Leng",
@@ -11085,16 +11085,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Frog",
-    "ac": 10,
-    "hp": 9,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/frog_bf.html"
-  },
-  {
-    "name": "Frog",
     "ac": 11,
     "hp": 1,
     "init": 1,
@@ -11114,10 +11104,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/frog_mm_2024.html"
   },
   {
+    "name": "Frog",
+    "ac": 10,
+    "hp": 9,
+    "init": 11,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/frog_bf.html"
+  },
+  {
     "name": "Frog, Giant",
     "ac": 11,
     "hp": 15,
-    "init": 1,
+    "init": 12,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -11127,7 +11127,7 @@ const monsterCombatStats = [
     "name": "Frog, Giant Poisonous",
     "ac": 11,
     "hp": 44,
-    "init": 1,
+    "init": 10,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -11142,16 +11142,6 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/frost-giant-a5e.html"
-  },
-  {
-    "name": "Frost Giant",
-    "ac": 14,
-    "hp": 166,
-    "init": 2,
-    "cr": 8.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/frost_giant_bf.html"
   },
   {
     "name": "Frost Giant",
@@ -11172,6 +11162,16 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/frost_giant_mm_2024.html"
+  },
+  {
+    "name": "Frost Giant",
+    "ac": 14,
+    "hp": 166,
+    "init": 13,
+    "cr": 8.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/frost_giant_bf.html"
   },
   {
     "name": "Frost Giant Jarl",
@@ -11320,16 +11320,6 @@ const monsterCombatStats = [
     "init": 0,
     "cr": 2.0,
     "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gargoyle_bf.html"
-  },
-  {
-    "name": "Gargoyle",
-    "ac": 15,
-    "hp": 52,
-    "init": 0,
-    "cr": 2.0,
-    "type": "Elemental",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gargoyle.html"
   },
@@ -11342,6 +11332,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gargoyle_mm_2024.html"
+  },
+  {
+    "name": "Gargoyle",
+    "ac": 15,
+    "hp": 52,
+    "init": 10,
+    "cr": 2.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gargoyle_bf.html"
   },
   {
     "name": "Garlicle",
@@ -11436,16 +11436,6 @@ const monsterCombatStats = [
   {
     "name": "Gelatinous Cube",
     "ac": 6,
-    "hp": 75,
-    "init": -3,
-    "cr": 2.0,
-    "type": "Ooze",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gelatinous_cube_bf.html"
-  },
-  {
-    "name": "Gelatinous Cube",
-    "ac": 6,
     "hp": 84,
     "init": -4,
     "cr": 2.0,
@@ -11462,6 +11452,16 @@ const monsterCombatStats = [
     "type": "Ooze",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gelatinous_cube_mm_2024.html"
+  },
+  {
+    "name": "Gelatinous Cube",
+    "ac": 6,
+    "hp": 75,
+    "init": 8,
+    "cr": 2.0,
+    "type": "Ooze",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gelatinous_cube_bf.html"
   },
   {
     "name": "Gelatinous Wall",
@@ -11496,16 +11496,6 @@ const monsterCombatStats = [
   {
     "name": "Ghast",
     "ac": 13,
-    "hp": 48,
-    "init": 3,
-    "cr": 2.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ghast_bf.html"
-  },
-  {
-    "name": "Ghast",
-    "ac": 13,
     "hp": 36,
     "init": 3,
     "cr": 2.0,
@@ -11522,6 +11512,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ghast_mm_2024.html"
+  },
+  {
+    "name": "Ghast",
+    "ac": 13,
+    "hp": 48,
+    "init": 12,
+    "cr": 2.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ghast_bf.html"
   },
   {
     "name": "Ghast of Leng",
@@ -11555,16 +11555,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Ghost",
-    "ac": 12,
-    "hp": 68,
-    "init": 2,
-    "cr": 4.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ghost_bf.html"
-  },
-  {
-    "name": "Ghost",
     "ac": 11,
     "hp": 45,
     "init": 1,
@@ -11582,6 +11572,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ghost_mm_2024.html"
+  },
+  {
+    "name": "Ghost",
+    "ac": 12,
+    "hp": 68,
+    "init": 13,
+    "cr": 4.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ghost_bf.html"
   },
   {
     "name": "Ghost Boar",
@@ -11655,16 +11655,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Ghoul",
-    "ac": 13,
-    "hp": 34,
-    "init": 3,
-    "cr": 1.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ghoul_bf.html"
-  },
-  {
-    "name": "Ghoul",
     "ac": 12,
     "hp": 22,
     "init": 2,
@@ -11682,6 +11672,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ghoul_mm_2024.html"
+  },
+  {
+    "name": "Ghoul",
+    "ac": 13,
+    "hp": 34,
+    "init": 12,
+    "cr": 1.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ghoul_bf.html"
   },
   {
     "name": "Ghoul Bat",
@@ -12916,16 +12916,6 @@ const monsterCombatStats = [
   {
     "name": "Gibbering Mouther",
     "ac": 9,
-    "hp": 72,
-    "init": -1,
-    "cr": 2.0,
-    "type": "Aberration",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gibbering_mouther_bf.html"
-  },
-  {
-    "name": "Gibbering Mouther",
-    "ac": 9,
     "hp": 67,
     "init": -1,
     "cr": 2.0,
@@ -12942,6 +12932,16 @@ const monsterCombatStats = [
     "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gibbering_mouther_mm_2024.html"
+  },
+  {
+    "name": "Gibbering Mouther",
+    "ac": 9,
+    "hp": 72,
+    "init": 10,
+    "cr": 2.0,
+    "type": "Aberration",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gibbering_mouther_bf.html"
   },
   {
     "name": "Gigantura",
@@ -12976,16 +12976,6 @@ const monsterCombatStats = [
   {
     "name": "Glabrezu",
     "ac": 17,
-    "hp": 154,
-    "init": 2,
-    "cr": 9.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/glabrezu_bf.html"
-  },
-  {
-    "name": "Glabrezu",
-    "ac": 17,
     "hp": 157,
     "init": 2,
     "cr": 9.0,
@@ -13002,6 +12992,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/glabrezu_mm_2024.html"
+  },
+  {
+    "name": "Glabrezu",
+    "ac": 17,
+    "hp": 154,
+    "init": 17,
+    "cr": 9.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/glabrezu_bf.html"
   },
   {
     "name": "Glacial Corrupter",
@@ -13046,16 +13046,6 @@ const monsterCombatStats = [
   {
     "name": "Gladiator",
     "ac": 16,
-    "hp": 108,
-    "init": 2,
-    "cr": 5.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gladiator_bf.html"
-  },
-  {
-    "name": "Gladiator",
-    "ac": 16,
     "hp": 112,
     "init": 2,
     "cr": 5.0,
@@ -13072,6 +13062,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gladiator_mm_2024.html"
+  },
+  {
+    "name": "Gladiator",
+    "ac": 16,
+    "hp": 108,
+    "init": 11,
+    "cr": 5.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gladiator_bf.html"
   },
   {
     "name": "Glass Gator",
@@ -13130,18 +13130,18 @@ const monsterCombatStats = [
     "init": 1,
     "cr": 0.5,
     "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gnoll_bf.html"
+    "source": "5.1 SRD (2015 MM)",
+    "htmlLink": "./html/5.1_srd_(2015_mm)/gnoll.html"
   },
   {
     "name": "Gnoll",
     "ac": 15,
     "hp": 22,
-    "init": 1,
+    "init": 10,
     "cr": 0.5,
     "type": "Humanoid",
-    "source": "5.1 SRD (2015 MM)",
-    "htmlLink": "./html/5.1_srd_(2015_mm)/gnoll.html"
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gnoll_bf.html"
   },
   {
     "name": "Gnoll Demonfang",
@@ -13216,16 +13216,6 @@ const monsterCombatStats = [
   {
     "name": "Goat",
     "ac": 10,
-    "hp": 8,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/goat_bf.html"
-  },
-  {
-    "name": "Goat",
-    "ac": 10,
     "hp": 4,
     "init": 0,
     "cr": 0.0,
@@ -13244,10 +13234,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/goat_mm_2024.html"
   },
   {
+    "name": "Goat",
+    "ac": 10,
+    "hp": 8,
+    "init": 10,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/goat_bf.html"
+  },
+  {
     "name": "Goat, Giant",
     "ac": 11,
     "hp": 25,
-    "init": 0,
+    "init": 11,
     "cr": 0.5,
     "type": "Beast",
     "source": "Black Flag",
@@ -13276,22 +13276,22 @@ const monsterCombatStats = [
   {
     "name": "Goblin",
     "ac": 15,
-    "hp": 12,
-    "init": 4,
-    "cr": 0.25,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/goblin_bf.html"
-  },
-  {
-    "name": "Goblin",
-    "ac": 15,
     "hp": 7,
     "init": 2,
     "cr": 0.25,
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/goblin.html"
+  },
+  {
+    "name": "Goblin",
+    "ac": 15,
+    "hp": 12,
+    "init": 9,
+    "cr": 0.25,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/goblin_bf.html"
   },
   {
     "name": "Goblin Alchemist",
@@ -13327,7 +13327,7 @@ const monsterCombatStats = [
     "name": "Goblin Captain",
     "ac": 17,
     "hp": 32,
-    "init": 4,
+    "init": 11,
     "cr": 1.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -13436,16 +13436,6 @@ const monsterCombatStats = [
   {
     "name": "Gold Dragon Wyrmling",
     "ac": 17,
-    "hp": 68,
-    "init": 4,
-    "cr": 3.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gold_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Gold Dragon Wyrmling",
-    "ac": 17,
     "hp": 60,
     "init": 2,
     "cr": 3.0,
@@ -13462,6 +13452,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gold_dragon_wyrmling_mm_2024.html"
+  },
+  {
+    "name": "Gold Dragon Wyrmling",
+    "ac": 17,
+    "hp": 68,
+    "init": 17,
+    "cr": 3.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gold_dragon_wyrmling_bf.html"
   },
   {
     "name": "Golem, Barnyard",
@@ -13527,7 +13527,7 @@ const monsterCombatStats = [
     "name": "Golmana",
     "ac": 15,
     "hp": 118,
-    "init": 3,
+    "init": 14,
     "cr": 7.0,
     "type": "Fiend",
     "source": "Black Flag",
@@ -13565,16 +13565,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Gorgon",
-    "ac": 18,
-    "hp": 96,
-    "init": 0,
-    "cr": 5.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gorgon_bf.html"
-  },
-  {
-    "name": "Gorgon",
     "ac": 19,
     "hp": 114,
     "init": 0,
@@ -13592,6 +13582,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gorgon_mm_2024.html"
+  },
+  {
+    "name": "Gorgon",
+    "ac": 18,
+    "hp": 96,
+    "init": 15,
+    "cr": 5.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gorgon_bf.html"
   },
   {
     "name": "Graknork",
@@ -13636,16 +13636,6 @@ const monsterCombatStats = [
   {
     "name": "Gray Ooze",
     "ac": 8,
-    "hp": 29,
-    "init": -2,
-    "cr": 0.5,
-    "type": "Ooze",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gray_ooze_bf.html"
-  },
-  {
-    "name": "Gray Ooze",
-    "ac": 8,
     "hp": 22,
     "init": -2,
     "cr": 0.5,
@@ -13662,6 +13652,16 @@ const monsterCombatStats = [
     "type": "Ooze",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/gray_ooze_mm_2024.html"
+  },
+  {
+    "name": "Gray Ooze",
+    "ac": 8,
+    "hp": 29,
+    "init": 8,
+    "cr": 0.5,
+    "type": "Ooze",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gray_ooze_bf.html"
   },
   {
     "name": "Gray Orc",
@@ -13856,16 +13856,6 @@ const monsterCombatStats = [
   {
     "name": "Green Dragon Wyrmling",
     "ac": 17,
-    "hp": 51,
-    "init": 3,
-    "cr": 2.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/green_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Green Dragon Wyrmling",
-    "ac": 17,
     "hp": 38,
     "init": 1,
     "cr": 2.0,
@@ -13884,6 +13874,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/green_dragon_wyrmling_mm_2024.html"
   },
   {
+    "name": "Green Dragon Wyrmling",
+    "ac": 17,
+    "hp": 51,
+    "init": 14,
+    "cr": 2.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/green_dragon_wyrmling_bf.html"
+  },
+  {
     "name": "Green Hag",
     "ac": 14,
     "hp": 71,
@@ -13892,16 +13892,6 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/green-hag-a5e.html"
-  },
-  {
-    "name": "Green Hag",
-    "ac": 16,
-    "hp": 76,
-    "init": 1,
-    "cr": 3.0,
-    "type": "Fey",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/green_hag_bf.html"
   },
   {
     "name": "Green Hag",
@@ -13922,6 +13912,16 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/green_hag_mm_2024.html"
+  },
+  {
+    "name": "Green Hag",
+    "ac": 16,
+    "hp": 76,
+    "init": 14,
+    "cr": 3.0,
+    "type": "Fey",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/green_hag_bf.html"
   },
   {
     "name": "Green Knight of the Woods",
@@ -13986,16 +13986,6 @@ const monsterCombatStats = [
   {
     "name": "Grick",
     "ac": 14,
-    "hp": 57,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/grick_bf.html"
-  },
-  {
-    "name": "Grick",
-    "ac": 14,
     "hp": 27,
     "init": 2,
     "cr": 2.0,
@@ -14014,6 +14004,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/grick_mm_2024.html"
   },
   {
+    "name": "Grick",
+    "ac": 14,
+    "hp": 57,
+    "init": 12,
+    "cr": 2.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/grick_bf.html"
+  },
+  {
     "name": "Griffon",
     "ac": 12,
     "hp": 57,
@@ -14022,16 +14022,6 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/griffon-a5e.html"
-  },
-  {
-    "name": "Griffon",
-    "ac": 12,
-    "hp": 63,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/griffon_bf.html"
   },
   {
     "name": "Griffon",
@@ -14052,6 +14042,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/griffon_mm_2024.html"
+  },
+  {
+    "name": "Griffon",
+    "ac": 12,
+    "hp": 63,
+    "init": 13,
+    "cr": 2.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/griffon_bf.html"
   },
   {
     "name": "Grim Jester",
@@ -14086,16 +14086,6 @@ const monsterCombatStats = [
   {
     "name": "Grimlock",
     "ac": 11,
-    "hp": 17,
-    "init": 1,
-    "cr": 0.25,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/grimlock_bf.html"
-  },
-  {
-    "name": "Grimlock",
-    "ac": 11,
     "hp": 11,
     "init": 1,
     "cr": 0.25,
@@ -14112,6 +14102,16 @@ const monsterCombatStats = [
     "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/grimlock_mm_2024.html"
+  },
+  {
+    "name": "Grimlock",
+    "ac": 11,
+    "hp": 17,
+    "init": 11,
+    "cr": 0.25,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/grimlock_bf.html"
   },
   {
     "name": "Grimlock Technical",
@@ -14205,16 +14205,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Guard",
-    "ac": 14,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.125,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/guard_bf.html"
-  },
-  {
-    "name": "Guard",
     "ac": 16,
     "hp": 11,
     "init": 1,
@@ -14232,6 +14222,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/guard_mm_2024.html"
+  },
+  {
+    "name": "Guard",
+    "ac": 14,
+    "hp": 8,
+    "init": 13,
+    "cr": 0.125,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/guard_bf.html"
   },
   {
     "name": "Guard Captain",
@@ -14276,16 +14276,6 @@ const monsterCombatStats = [
   {
     "name": "Guardian Naga",
     "ac": 18,
-    "hp": 176,
-    "init": 8,
-    "cr": 10.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/guardian_naga_bf.html"
-  },
-  {
-    "name": "Guardian Naga",
-    "ac": 18,
     "hp": 127,
     "init": 4,
     "cr": 10.0,
@@ -14302,6 +14292,16 @@ const monsterCombatStats = [
     "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/guardian_naga_mm_2024.html"
+  },
+  {
+    "name": "Guardian Naga",
+    "ac": 18,
+    "hp": 176,
+    "init": 18,
+    "cr": 10.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/guardian_naga_bf.html"
   },
   {
     "name": "Gug",
@@ -14376,22 +14376,22 @@ const monsterCombatStats = [
   {
     "name": "Gynosphinx",
     "ac": 17,
-    "hp": 204,
-    "init": 2,
-    "cr": 11.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/gynosphinx_bf.html"
-  },
-  {
-    "name": "Gynosphinx",
-    "ac": 17,
     "hp": 136,
     "init": 2,
     "cr": 11.0,
     "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/gynosphinx.html"
+  },
+  {
+    "name": "Gynosphinx",
+    "ac": 17,
+    "hp": 204,
+    "init": 18,
+    "cr": 11.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/gynosphinx_bf.html"
   },
   {
     "name": "Gypsosphinx",
@@ -14565,16 +14565,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Harpy",
-    "ac": 13,
-    "hp": 38,
-    "init": 3,
-    "cr": 1.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/harpy_bf.html"
-  },
-  {
-    "name": "Harpy",
     "ac": 11,
     "hp": 38,
     "init": 1,
@@ -14592,6 +14582,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/harpy_mm_2024.html"
+  },
+  {
+    "name": "Harpy",
+    "ac": 13,
+    "hp": 38,
+    "init": 10,
+    "cr": 1.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/harpy_bf.html"
   },
   {
     "name": "Harpy, Plague",
@@ -14645,16 +14645,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Hawk",
-    "ac": 11,
-    "hp": 7,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/hawk_bf.html"
-  },
-  {
-    "name": "Hawk",
     "ac": 13,
     "hp": 1,
     "init": 3,
@@ -14674,10 +14664,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/hawk_mm_2024.html"
   },
   {
+    "name": "Hawk",
+    "ac": 11,
+    "hp": 7,
+    "init": 14,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/hawk_bf.html"
+  },
+  {
     "name": "Hawk, Blood",
     "ac": 12,
     "hp": 8,
-    "init": 2,
+    "init": 14,
     "cr": 0.125,
     "type": "Beast",
     "source": "Black Flag",
@@ -14736,16 +14736,6 @@ const monsterCombatStats = [
   {
     "name": "Hell Hound",
     "ac": 15,
-    "hp": 76,
-    "init": 1,
-    "cr": 3.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/hell_hound_bf.html"
-  },
-  {
-    "name": "Hell Hound",
-    "ac": 15,
     "hp": 45,
     "init": 1,
     "cr": 3.0,
@@ -14762,6 +14752,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hell_hound_mm_2024.html"
+  },
+  {
+    "name": "Hell Hound",
+    "ac": 15,
+    "hp": 76,
+    "init": 15,
+    "cr": 3.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/hell_hound_bf.html"
   },
   {
     "name": "Herald of Blood",
@@ -14826,16 +14826,6 @@ const monsterCombatStats = [
   {
     "name": "Hezrou",
     "ac": 16,
-    "hp": 138,
-    "init": 3,
-    "cr": 8.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/hezrou_bf.html"
-  },
-  {
-    "name": "Hezrou",
-    "ac": 16,
     "hp": 136,
     "init": 3,
     "cr": 8.0,
@@ -14852,6 +14842,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hezrou_mm_2024.html"
+  },
+  {
+    "name": "Hezrou",
+    "ac": 16,
+    "hp": 138,
+    "init": 14,
+    "cr": 8.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/hezrou_bf.html"
   },
   {
     "name": "Hierophant Lich",
@@ -14905,16 +14905,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Hill Giant",
-    "ac": 12,
-    "hp": 126,
-    "init": 0,
-    "cr": 5.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/hill_giant_bf.html"
-  },
-  {
-    "name": "Hill Giant",
     "ac": 13,
     "hp": 105,
     "init": -1,
@@ -14932,6 +14922,16 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hill_giant_mm_2024.html"
+  },
+  {
+    "name": "Hill Giant",
+    "ac": 12,
+    "hp": 126,
+    "init": 12,
+    "cr": 5.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/hill_giant_bf.html"
   },
   {
     "name": "Hill Giant Chief",
@@ -14957,7 +14957,7 @@ const monsterCombatStats = [
     "name": "Hinn",
     "ac": 17,
     "hp": 199,
-    "init": 1,
+    "init": 17,
     "cr": 11.0,
     "type": "Elemental",
     "source": "Black Flag",
@@ -14967,7 +14967,7 @@ const monsterCombatStats = [
     "name": "Hippocampus",
     "ac": 11,
     "hp": 42,
-    "init": 1,
+    "init": 13,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -14982,16 +14982,6 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hippogriff-a5e.html"
-  },
-  {
-    "name": "Hippogriff",
-    "ac": 11,
-    "hp": 44,
-    "init": 1,
-    "cr": 1.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/hippogriff_bf.html"
   },
   {
     "name": "Hippogriff",
@@ -15012,6 +15002,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/hippogriff_mm_2024.html"
+  },
+  {
+    "name": "Hippogriff",
+    "ac": 11,
+    "hp": 44,
+    "init": 13,
+    "cr": 1.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/hippogriff_bf.html"
   },
   {
     "name": "Hippopotamus",
@@ -15057,7 +15057,7 @@ const monsterCombatStats = [
     "name": "Hivebound",
     "ac": 15,
     "hp": 108,
-    "init": 3,
+    "init": 12,
     "cr": 5.0,
     "type": "Monstrosity",
     "source": "Black Flag",
@@ -15106,22 +15106,22 @@ const monsterCombatStats = [
   {
     "name": "Hobgoblin",
     "ac": 18,
-    "hp": 18,
-    "init": 1,
-    "cr": 0.5,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/hobgoblin_bf.html"
-  },
-  {
-    "name": "Hobgoblin",
-    "ac": 18,
     "hp": 11,
     "init": 1,
     "cr": 0.5,
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/hobgoblin.html"
+  },
+  {
+    "name": "Hobgoblin",
+    "ac": 18,
+    "hp": 18,
+    "init": 10,
+    "cr": 0.5,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/hobgoblin_bf.html"
   },
   {
     "name": "Hobgoblin Captain",
@@ -15147,7 +15147,7 @@ const monsterCombatStats = [
     "name": "Hobgoblin Commander",
     "ac": 17,
     "hp": 72,
-    "init": 2,
+    "init": 10,
     "cr": 3.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -15216,16 +15216,6 @@ const monsterCombatStats = [
   {
     "name": "Homunculus",
     "ac": 13,
-    "hp": 34,
-    "init": 3,
-    "cr": 1.0,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/homunculus_bf.html"
-  },
-  {
-    "name": "Homunculus",
-    "ac": 13,
     "hp": 5,
     "init": 2,
     "cr": 0.0,
@@ -15242,6 +15232,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/homunculus_mm_2024.html"
+  },
+  {
+    "name": "Homunculus",
+    "ac": 13,
+    "hp": 34,
+    "init": 12,
+    "cr": 1.0,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/homunculus_bf.html"
   },
   {
     "name": "Hongaek",
@@ -15316,16 +15316,6 @@ const monsterCombatStats = [
   {
     "name": "Horned Devil",
     "ac": 18,
-    "hp": 185,
-    "init": 7,
-    "cr": 11.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/horned_devil_bf.html"
-  },
-  {
-    "name": "Horned Devil",
-    "ac": 18,
     "hp": 178,
     "init": 3,
     "cr": 11.0,
@@ -15342,6 +15332,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/horned_devil_mm_2024.html"
+  },
+  {
+    "name": "Horned Devil",
+    "ac": 18,
+    "hp": 185,
+    "init": 17,
+    "cr": 11.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/horned_devil_bf.html"
   },
   {
     "name": "Horned Serpent",
@@ -15367,7 +15367,7 @@ const monsterCombatStats = [
     "name": "Horse, Draft",
     "ac": 10,
     "hp": 15,
-    "init": 0,
+    "init": 12,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -15377,7 +15377,7 @@ const monsterCombatStats = [
     "name": "Horse, Riding",
     "ac": 10,
     "hp": 15,
-    "init": 0,
+    "init": 10,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -15387,7 +15387,7 @@ const monsterCombatStats = [
     "name": "Horse, War",
     "ac": 15,
     "hp": 22,
-    "init": 1,
+    "init": 11,
     "cr": 0.5,
     "type": "Beast",
     "source": "Black Flag",
@@ -15527,7 +15527,7 @@ const monsterCombatStats = [
     "name": "Husk Demon",
     "ac": 15,
     "hp": 82,
-    "init": 5,
+    "init": 13,
     "cr": 4.0,
     "type": "Fiend",
     "source": "Black Flag",
@@ -15566,16 +15566,6 @@ const monsterCombatStats = [
   {
     "name": "Hydra",
     "ac": 15,
-    "hp": 166,
-    "init": 1,
-    "cr": 8.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/hydra_bf.html"
-  },
-  {
-    "name": "Hydra",
-    "ac": 15,
     "hp": 172,
     "init": 1,
     "cr": 8.0,
@@ -15594,6 +15584,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/hydra_mm_2024.html"
   },
   {
+    "name": "Hydra",
+    "ac": 15,
+    "hp": 166,
+    "init": 16,
+    "cr": 8.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/hydra_bf.html"
+  },
+  {
     "name": "Hyena",
     "ac": 11,
     "hp": 4,
@@ -15602,16 +15602,6 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/hyena-a5e.html"
-  },
-  {
-    "name": "Hyena",
-    "ac": 10,
-    "hp": 8,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/hyena_bf.html"
   },
   {
     "name": "Hyena",
@@ -15634,10 +15624,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/hyena_mm_2024.html"
   },
   {
+    "name": "Hyena",
+    "ac": 10,
+    "hp": 8,
+    "init": 13,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/hyena_bf.html"
+  },
+  {
     "name": "Hyena, Giant",
     "ac": 12,
     "hp": 42,
-    "init": 2,
+    "init": 13,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -15686,16 +15686,6 @@ const monsterCombatStats = [
   {
     "name": "Ice Devil",
     "ac": 18,
-    "hp": 193,
-    "init": 7,
-    "cr": 14.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ice_devil_bf.html"
-  },
-  {
-    "name": "Ice Devil",
-    "ac": 18,
     "hp": 180,
     "init": 2,
     "cr": 14.0,
@@ -15712,6 +15702,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ice_devil_mm_2024.html"
+  },
+  {
+    "name": "Ice Devil",
+    "ac": 18,
+    "hp": 193,
+    "init": 17,
+    "cr": 14.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ice_devil_bf.html"
   },
   {
     "name": "Ice Elemental",
@@ -15745,16 +15745,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Ice Mephit",
-    "ac": 12,
-    "hp": 27,
-    "init": 2,
-    "cr": 0.5,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ice_mephit_bf.html"
-  },
-  {
-    "name": "Ice Mephit",
     "ac": 11,
     "hp": 21,
     "init": 1,
@@ -15772,6 +15762,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ice_mephit_mm_2024.html"
+  },
+  {
+    "name": "Ice Mephit",
+    "ac": 12,
+    "hp": 27,
+    "init": 12,
+    "cr": 0.5,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ice_mephit_bf.html"
   },
   {
     "name": "Ice Urchin",
@@ -15896,16 +15896,6 @@ const monsterCombatStats = [
   {
     "name": "Imp",
     "ac": 13,
-    "hp": 31,
-    "init": 3,
-    "cr": 1.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/imp_bf.html"
-  },
-  {
-    "name": "Imp",
-    "ac": 13,
     "hp": 10,
     "init": 3,
     "cr": 1.0,
@@ -15922,6 +15912,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/imp_mm_2024.html"
+  },
+  {
+    "name": "Imp",
+    "ac": 13,
+    "hp": 31,
+    "init": 11,
+    "cr": 1.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/imp_bf.html"
   },
   {
     "name": "Imp Familiar",
@@ -16087,7 +16087,7 @@ const monsterCombatStats = [
     "name": "Insatiable Brood",
     "ac": 13,
     "hp": 63,
-    "init": 5,
+    "init": 11,
     "cr": 3.0,
     "type": "Swarm",
     "source": "Black Flag",
@@ -16097,7 +16097,7 @@ const monsterCombatStats = [
     "name": "Insect, Giant Centipede",
     "ac": 13,
     "hp": 14,
-    "init": 2,
+    "init": 10,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -16107,7 +16107,7 @@ const monsterCombatStats = [
     "name": "Insect, Giant Fire Beetle",
     "ac": 13,
     "hp": 7,
-    "init": 0,
+    "init": 8,
     "cr": 0.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -16117,7 +16117,7 @@ const monsterCombatStats = [
     "name": "Insect, Giant Scorpion",
     "ac": 15,
     "hp": 76,
-    "init": 1,
+    "init": 11,
     "cr": 3.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -16127,7 +16127,7 @@ const monsterCombatStats = [
     "name": "Insect, Giant Wasp",
     "ac": 12,
     "hp": 25,
-    "init": 2,
+    "init": 10,
     "cr": 0.5,
     "type": "Beast",
     "source": "Black Flag",
@@ -16137,7 +16137,7 @@ const monsterCombatStats = [
     "name": "Insect, Scorpion",
     "ac": 11,
     "hp": 8,
-    "init": 0,
+    "init": 9,
     "cr": 0.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -16147,7 +16147,7 @@ const monsterCombatStats = [
     "name": "Insect, Swarm of Insects",
     "ac": 12,
     "hp": 24,
-    "init": 1,
+    "init": 8,
     "cr": 0.5,
     "type": "Swarm",
     "source": "Black Flag",
@@ -16176,16 +16176,6 @@ const monsterCombatStats = [
   {
     "name": "Invisible Stalker",
     "ac": 14,
-    "hp": 121,
-    "init": 4,
-    "cr": 6.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/invisible_stalker_bf.html"
-  },
-  {
-    "name": "Invisible Stalker",
-    "ac": 14,
     "hp": 104,
     "init": 4,
     "cr": 6.0,
@@ -16202,6 +16192,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/invisible_stalker_mm_2024.html"
+  },
+  {
+    "name": "Invisible Stalker",
+    "ac": 14,
+    "hp": 121,
+    "init": 18,
+    "cr": 6.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/invisible_stalker_bf.html"
   },
   {
     "name": "Ion Slime",
@@ -16236,16 +16236,6 @@ const monsterCombatStats = [
   {
     "name": "Iron Golem",
     "ac": 20,
-    "hp": 201,
-    "init": -1,
-    "cr": 16.0,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/iron_golem_bf.html"
-  },
-  {
-    "name": "Iron Golem",
-    "ac": 20,
     "hp": 210,
     "init": -1,
     "cr": 16.0,
@@ -16262,6 +16252,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/iron_golem_mm_2024.html"
+  },
+  {
+    "name": "Iron Golem",
+    "ac": 20,
+    "hp": 201,
+    "init": 15,
+    "cr": 16.0,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/iron_golem_bf.html"
   },
   {
     "name": "Iron Guardian",
@@ -16325,16 +16325,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Jackal",
-    "ac": 11,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/jackal_bf.html"
-  },
-  {
-    "name": "Jackal",
     "ac": 12,
     "hp": 3,
     "init": 2,
@@ -16352,6 +16342,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/jackal_mm_2024.html"
+  },
+  {
+    "name": "Jackal",
+    "ac": 11,
+    "hp": 8,
+    "init": 13,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/jackal_bf.html"
   },
   {
     "name": "Jackalope",
@@ -16796,16 +16796,6 @@ const monsterCombatStats = [
   {
     "name": "Knight",
     "ac": 18,
-    "hp": 68,
-    "init": 0,
-    "cr": 3.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/knight_bf.html"
-  },
-  {
-    "name": "Knight",
-    "ac": 18,
     "hp": 52,
     "init": 0,
     "cr": 3.0,
@@ -16822,6 +16812,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/knight_mm_2024.html"
+  },
+  {
+    "name": "Knight",
+    "ac": 18,
+    "hp": 68,
+    "init": 13,
+    "cr": 3.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/knight_bf.html"
   },
   {
     "name": "Knight Ab-errant",
@@ -16866,22 +16866,22 @@ const monsterCombatStats = [
   {
     "name": "Kobold",
     "ac": 12,
-    "hp": 9,
-    "init": 4,
-    "cr": 0.125,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/kobold_bf.html"
-  },
-  {
-    "name": "Kobold",
-    "ac": 12,
     "hp": 5,
     "init": 2,
     "cr": 0.125,
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/kobold.html"
+  },
+  {
+    "name": "Kobold",
+    "ac": 12,
+    "hp": 9,
+    "init": 8,
+    "cr": 0.125,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/kobold_bf.html"
   },
   {
     "name": "Kobold Broodguard",
@@ -16947,7 +16947,7 @@ const monsterCombatStats = [
     "name": "Kobold Swiftblade",
     "ac": 15,
     "hp": 80,
-    "init": 6,
+    "init": 12,
     "cr": 3.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -16977,7 +16977,7 @@ const monsterCombatStats = [
     "name": "Kobold Witch",
     "ac": 13,
     "hp": 126,
-    "init": 3,
+    "init": 12,
     "cr": 5.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -17106,16 +17106,6 @@ const monsterCombatStats = [
   {
     "name": "Kraken",
     "ac": 18,
-    "hp": 475,
-    "init": 7,
-    "cr": 23.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/kraken_bf.html"
-  },
-  {
-    "name": "Kraken",
-    "ac": 18,
     "hp": 472,
     "init": 0,
     "cr": 23.0,
@@ -17132,6 +17122,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/kraken_mm_2024.html"
+  },
+  {
+    "name": "Kraken",
+    "ac": 18,
+    "hp": 475,
+    "init": 21,
+    "cr": 23.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/kraken_bf.html"
   },
   {
     "name": "Kryt",
@@ -17256,16 +17256,6 @@ const monsterCombatStats = [
   {
     "name": "Lamia",
     "ac": 13,
-    "hp": 95,
-    "init": 1,
-    "cr": 4.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/lamia_bf.html"
-  },
-  {
-    "name": "Lamia",
-    "ac": 13,
     "hp": 97,
     "init": 1,
     "cr": 4.0,
@@ -17282,6 +17272,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/lamia_mm_2024.html"
+  },
+  {
+    "name": "Lamia",
+    "ac": 13,
+    "hp": 95,
+    "init": 12,
+    "cr": 4.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/lamia_bf.html"
   },
   {
     "name": "Lantern Beetle",
@@ -17307,7 +17307,7 @@ const monsterCombatStats = [
     "name": "Lantern Hagfish",
     "ac": 11,
     "hp": 9,
-    "init": 1,
+    "init": 10,
     "cr": 0.125,
     "type": "Aberration",
     "source": "Black Flag",
@@ -17365,16 +17365,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Lemure",
-    "ac": 8,
-    "hp": 17,
-    "init": -2,
-    "cr": 0.25,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/lemure_bf.html"
-  },
-  {
-    "name": "Lemure",
     "ac": 7,
     "hp": 13,
     "init": -3,
@@ -17392,6 +17382,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/lemure_mm_2024.html"
+  },
+  {
+    "name": "Lemure",
+    "ac": 8,
+    "hp": 17,
+    "init": 10,
+    "cr": 0.25,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/lemure_bf.html"
   },
   {
     "name": "Lemure Band",
@@ -17486,16 +17486,6 @@ const monsterCombatStats = [
   {
     "name": "Lich",
     "ac": 17,
-    "hp": 314,
-    "init": 3,
-    "cr": 21.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/lich_bf.html"
-  },
-  {
-    "name": "Lich",
-    "ac": 17,
     "hp": 135,
     "init": 3,
     "cr": 21.0,
@@ -17512,6 +17502,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/lich_mm_2024.html"
+  },
+  {
+    "name": "Lich",
+    "ac": 17,
+    "hp": 314,
+    "init": 19,
+    "cr": 21.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/lich_bf.html"
   },
   {
     "name": "Lich Hound",
@@ -17616,16 +17616,6 @@ const monsterCombatStats = [
   {
     "name": "Lion",
     "ac": 12,
-    "hp": 42,
-    "init": 2,
-    "cr": 1.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/lion_bf.html"
-  },
-  {
-    "name": "Lion",
-    "ac": 12,
     "hp": 26,
     "init": 2,
     "cr": 1.0,
@@ -17644,6 +17634,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/lion_mm_2024.html"
   },
   {
+    "name": "Lion",
+    "ac": 12,
+    "hp": 42,
+    "init": 13,
+    "cr": 1.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/lion_bf.html"
+  },
+  {
     "name": "Liosalfar",
     "ac": 17,
     "hp": 132,
@@ -17657,7 +17657,7 @@ const monsterCombatStats = [
     "name": "Living Colossus",
     "ac": 18,
     "hp": 261,
-    "init": -1,
+    "init": 17,
     "cr": 15.0,
     "type": "Construct",
     "source": "Black Flag",
@@ -17716,16 +17716,6 @@ const monsterCombatStats = [
   {
     "name": "Lizard",
     "ac": 10,
-    "hp": 9,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/lizard_bf.html"
-  },
-  {
-    "name": "Lizard",
-    "ac": 10,
     "hp": 2,
     "init": 0,
     "cr": 0.0,
@@ -17744,10 +17734,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/lizard_mm_2024.html"
   },
   {
+    "name": "Lizard",
+    "ac": 10,
+    "hp": 9,
+    "init": 9,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/lizard_bf.html"
+  },
+  {
     "name": "Lizard, Giant",
     "ac": 12,
     "hp": 15,
-    "init": 1,
+    "init": 10,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -17770,18 +17770,18 @@ const monsterCombatStats = [
     "init": 0,
     "cr": 0.5,
     "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/lizardfolk_bf.html"
+    "source": "5.1 SRD (2015 MM)",
+    "htmlLink": "./html/5.1_srd_(2015_mm)/lizardfolk.html"
   },
   {
     "name": "Lizardfolk",
     "ac": 15,
     "hp": 22,
-    "init": 0,
+    "init": 13,
     "cr": 0.5,
     "type": "Humanoid",
-    "source": "5.1 SRD (2015 MM)",
-    "htmlLink": "./html/5.1_srd_(2015_mm)/lizardfolk.html"
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/lizardfolk_bf.html"
   },
   {
     "name": "Lizardfolk Chosen One",
@@ -17797,7 +17797,7 @@ const monsterCombatStats = [
     "name": "Lizardfolk Ruler",
     "ac": 15,
     "hp": 100,
-    "init": 1,
+    "init": 12,
     "cr": 4.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -17807,7 +17807,7 @@ const monsterCombatStats = [
     "name": "Lizardfolk Shaman",
     "ac": 13,
     "hp": 57,
-    "init": 0,
+    "init": 15,
     "cr": 2.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -18005,16 +18005,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Mage",
-    "ac": 10,
-    "hp": 140,
-    "init": 0,
-    "cr": 6.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/mage_bf.html"
-  },
-  {
-    "name": "Mage",
     "ac": 12,
     "hp": 40,
     "init": 2,
@@ -18034,10 +18024,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/mage_mm_2024.html"
   },
   {
+    "name": "Mage",
+    "ac": 10,
+    "hp": 70,
+    "init": 11,
+    "cr": 6.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/mage_bf.html"
+  },
+  {
     "name": "Mage Apprentice",
     "ac": 10,
     "hp": 40,
-    "init": 1,
+    "init": 11,
     "cr": 1.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -18052,16 +18052,6 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/magma-mephit-a5e.html"
-  },
-  {
-    "name": "Magma Mephit",
-    "ac": 12,
-    "hp": 27,
-    "init": 0,
-    "cr": 0.5,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/magma_mephit_bf.html"
   },
   {
     "name": "Magma Mephit",
@@ -18082,6 +18072,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/magma_mephit_mm_2024.html"
+  },
+  {
+    "name": "Magma Mephit",
+    "ac": 12,
+    "hp": 27,
+    "init": 12,
+    "cr": 0.5,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/magma_mephit_bf.html"
   },
   {
     "name": "Magma Octopus",
@@ -18106,16 +18106,6 @@ const monsterCombatStats = [
   {
     "name": "Magmin",
     "ac": 14,
-    "hp": 22,
-    "init": 2,
-    "cr": 0.5,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/magmin_bf.html"
-  },
-  {
-    "name": "Magmin",
-    "ac": 14,
     "hp": 9,
     "init": 2,
     "cr": 0.5,
@@ -18132,6 +18122,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/magmin_mm_2024.html"
+  },
+  {
+    "name": "Magmin",
+    "ac": 14,
+    "hp": 22,
+    "init": 10,
+    "cr": 0.5,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/magmin_bf.html"
   },
   {
     "name": "Magnetic Elemental",
@@ -18226,16 +18226,6 @@ const monsterCombatStats = [
   {
     "name": "Mammoth",
     "ac": 13,
-    "hp": 133,
-    "init": -1,
-    "cr": 6.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/mammoth_bf.html"
-  },
-  {
-    "name": "Mammoth",
-    "ac": 13,
     "hp": 126,
     "init": -1,
     "cr": 6.0,
@@ -18252,6 +18242,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mammoth_mm_2024.html"
+  },
+  {
+    "name": "Mammoth",
+    "ac": 13,
+    "hp": 133,
+    "init": 13,
+    "cr": 6.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/mammoth_bf.html"
   },
   {
     "name": "Mamura",
@@ -18326,16 +18326,6 @@ const monsterCombatStats = [
   {
     "name": "Manticore",
     "ac": 14,
-    "hp": 80,
-    "init": 3,
-    "cr": 3.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/manticore_bf.html"
-  },
-  {
-    "name": "Manticore",
-    "ac": 14,
     "hp": 68,
     "init": 3,
     "cr": 3.0,
@@ -18352,6 +18342,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/manticore_mm_2024.html"
+  },
+  {
+    "name": "Manticore",
+    "ac": 14,
+    "hp": 80,
+    "init": 11,
+    "cr": 3.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/manticore_bf.html"
   },
   {
     "name": "Map Mimic",
@@ -18406,16 +18406,6 @@ const monsterCombatStats = [
   {
     "name": "Marilith",
     "ac": 18,
-    "hp": 217,
-    "init": 5,
-    "cr": 16.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/marilith_bf.html"
-  },
-  {
-    "name": "Marilith",
-    "ac": 18,
     "hp": 189,
     "init": 5,
     "cr": 16.0,
@@ -18432,6 +18422,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/marilith_mm_2024.html"
+  },
+  {
+    "name": "Marilith",
+    "ac": 18,
+    "hp": 217,
+    "init": 18,
+    "cr": 16.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/marilith_bf.html"
   },
   {
     "name": "Marsh Dire",
@@ -18467,7 +18467,7 @@ const monsterCombatStats = [
     "name": "Master Alchemist",
     "ac": 16,
     "hp": 152,
-    "init": 4,
+    "init": 11,
     "cr": 7.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -18506,16 +18506,6 @@ const monsterCombatStats = [
   {
     "name": "Mastiff",
     "ac": 12,
-    "hp": 9,
-    "init": 2,
-    "cr": 0.125,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/mastiff_bf.html"
-  },
-  {
-    "name": "Mastiff",
-    "ac": 12,
     "hp": 5,
     "init": 2,
     "cr": 0.125,
@@ -18532,6 +18522,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mastiff_mm_2024.html"
+  },
+  {
+    "name": "Mastiff",
+    "ac": 12,
+    "hp": 9,
+    "init": 11,
+    "cr": 0.125,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/mastiff_bf.html"
   },
   {
     "name": "Matriarch Serpentine Lamia",
@@ -18577,7 +18577,7 @@ const monsterCombatStats = [
     "name": "Mechanist",
     "ac": 15,
     "hp": 60,
-    "init": 1,
+    "init": 10,
     "cr": 2.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -18606,16 +18606,6 @@ const monsterCombatStats = [
   {
     "name": "Medusa",
     "ac": 15,
-    "hp": 112,
-    "init": 4,
-    "cr": 6.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/medusa_bf.html"
-  },
-  {
-    "name": "Medusa",
-    "ac": 15,
     "hp": 127,
     "init": 2,
     "cr": 6.0,
@@ -18632,6 +18622,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/medusa_mm_2024.html"
+  },
+  {
+    "name": "Medusa",
+    "ac": 15,
+    "hp": 112,
+    "init": 14,
+    "cr": 6.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/medusa_bf.html"
   },
   {
     "name": "Medusa Queen",
@@ -18715,16 +18715,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Merfolk",
-    "ac": 12,
-    "hp": 9,
-    "init": 0,
-    "cr": 0.125,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/merfolk_bf.html"
-  },
-  {
-    "name": "Merfolk",
     "ac": 11,
     "hp": 11,
     "init": 1,
@@ -18732,6 +18722,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/merfolk.html"
+  },
+  {
+    "name": "Merfolk",
+    "ac": 12,
+    "hp": 9,
+    "init": 12,
+    "cr": 0.125,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/merfolk_bf.html"
   },
   {
     "name": "Merfolk Knight",
@@ -18766,16 +18766,6 @@ const monsterCombatStats = [
   {
     "name": "Merrow",
     "ac": 13,
-    "hp": 60,
-    "init": 0,
-    "cr": 2.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/merrow_bf.html"
-  },
-  {
-    "name": "Merrow",
-    "ac": 13,
     "hp": 45,
     "init": 0,
     "cr": 2.0,
@@ -18792,6 +18782,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/merrow_mm_2024.html"
+  },
+  {
+    "name": "Merrow",
+    "ac": 13,
+    "hp": 60,
+    "init": 12,
+    "cr": 2.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/merrow_bf.html"
   },
   {
     "name": "Merrow Mage",
@@ -18850,16 +18850,6 @@ const monsterCombatStats = [
     "init": 1,
     "cr": 2.0,
     "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/mimic_bf.html"
-  },
-  {
-    "name": "Mimic",
-    "ac": 12,
-    "hp": 58,
-    "init": 1,
-    "cr": 2.0,
-    "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/mimic.html"
   },
@@ -18872,6 +18862,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mimic_mm_2024.html"
+  },
+  {
+    "name": "Mimic",
+    "ac": 12,
+    "hp": 58,
+    "init": 11,
+    "cr": 2.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/mimic_bf.html"
   },
   {
     "name": "Mindrot Thrall",
@@ -18926,22 +18926,22 @@ const monsterCombatStats = [
   {
     "name": "Minotaur",
     "ac": 14,
-    "hp": 80,
-    "init": 0,
-    "cr": 3.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/minotaur_bf.html"
-  },
-  {
-    "name": "Minotaur",
-    "ac": 14,
     "hp": 76,
     "init": 0,
     "cr": 3.0,
     "type": "Monstrosity",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/minotaur.html"
+  },
+  {
+    "name": "Minotaur",
+    "ac": 14,
+    "hp": 80,
+    "init": 17,
+    "cr": 3.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/minotaur_bf.html"
   },
   {
     "name": "Minotaur Champion",
@@ -18952,16 +18952,6 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/minotaur-champion-a5e.html"
-  },
-  {
-    "name": "Minotaur Skeleton",
-    "ac": 12,
-    "hp": 63,
-    "init": 0,
-    "cr": 2.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/minotaur_skeleton_bf.html"
   },
   {
     "name": "Minotaur Skeleton",
@@ -18982,6 +18972,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/minotaur_skeleton_mm_2024.html"
+  },
+  {
+    "name": "Minotaur Skeleton",
+    "ac": 12,
+    "hp": 63,
+    "init": 9,
+    "cr": 2.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/minotaur_skeleton_bf.html"
   },
   {
     "name": "Minotaur of Baphomet",
@@ -19037,7 +19037,7 @@ const monsterCombatStats = [
     "name": "Mire Fiend",
     "ac": 16,
     "hp": 94,
-    "init": 6,
+    "init": 15,
     "cr": 5.0,
     "type": "Fiend",
     "source": "Black Flag",
@@ -19267,7 +19267,7 @@ const monsterCombatStats = [
     "name": "Mordovermis",
     "ac": 13,
     "hp": 72,
-    "init": 2,
+    "init": 14,
     "cr": 3.0,
     "type": "Aberration",
     "source": "Black Flag",
@@ -19416,16 +19416,6 @@ const monsterCombatStats = [
   {
     "name": "Mule",
     "ac": 10,
-    "hp": 10,
-    "init": 0,
-    "cr": 0.125,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/mule_bf.html"
-  },
-  {
-    "name": "Mule",
-    "ac": 10,
     "hp": 11,
     "init": 0,
     "cr": 0.125,
@@ -19444,6 +19434,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/mule_mm_2024.html"
   },
   {
+    "name": "Mule",
+    "ac": 10,
+    "hp": 10,
+    "init": 10,
+    "cr": 0.125,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/mule_bf.html"
+  },
+  {
     "name": "Mummy",
     "ac": 11,
     "hp": 67,
@@ -19452,16 +19452,6 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mummy-a5e.html"
-  },
-  {
-    "name": "Mummy",
-    "ac": 13,
-    "hp": 80,
-    "init": -1,
-    "cr": 3.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/mummy_bf.html"
   },
   {
     "name": "Mummy",
@@ -19484,6 +19474,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/mummy_mm_2024.html"
   },
   {
+    "name": "Mummy",
+    "ac": 13,
+    "hp": 80,
+    "init": 12,
+    "cr": 3.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/mummy_bf.html"
+  },
+  {
     "name": "Mummy Lord",
     "ac": 17,
     "hp": 221,
@@ -19492,16 +19492,6 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/mummy-lord-a5e.html"
-  },
-  {
-    "name": "Mummy Lord",
-    "ac": 17,
-    "hp": 270,
-    "init": 0,
-    "cr": 15.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/mummy_lord_bf.html"
   },
   {
     "name": "Mummy Lord",
@@ -19522,6 +19512,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/mummy_lord_mm_2024.html"
+  },
+  {
+    "name": "Mummy Lord",
+    "ac": 17,
+    "hp": 270,
+    "init": 19,
+    "cr": 15.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/mummy_lord_bf.html"
   },
   {
     "name": "Mummy, Peat",
@@ -19587,7 +19587,7 @@ const monsterCombatStats = [
     "name": "Mycolid Commoner",
     "ac": 12,
     "hp": 21,
-    "init": 2,
+    "init": 13,
     "cr": 0.5,
     "type": "Plant",
     "source": "Black Flag",
@@ -19597,7 +19597,7 @@ const monsterCombatStats = [
     "name": "Mycolid Spore Lord",
     "ac": 14,
     "hp": 68,
-    "init": 2,
+    "init": 14,
     "cr": 3.0,
     "type": "Plant",
     "source": "Black Flag",
@@ -19726,16 +19726,6 @@ const monsterCombatStats = [
   {
     "name": "Nalfeshnee",
     "ac": 18,
-    "hp": 196,
-    "init": 0,
-    "cr": 13.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/nalfeshnee_bf.html"
-  },
-  {
-    "name": "Nalfeshnee",
-    "ac": 18,
     "hp": 184,
     "init": 0,
     "cr": 13.0,
@@ -19752,6 +19742,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/nalfeshnee_mm_2024.html"
+  },
+  {
+    "name": "Nalfeshnee",
+    "ac": 18,
+    "hp": 196,
+    "init": 16,
+    "cr": 13.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/nalfeshnee_bf.html"
   },
   {
     "name": "Nalusa Falaya",
@@ -19936,16 +19936,6 @@ const monsterCombatStats = [
   {
     "name": "Night Hag",
     "ac": 17,
-    "hp": 104,
-    "init": 2,
-    "cr": 5.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/night_hag_bf.html"
-  },
-  {
-    "name": "Night Hag",
-    "ac": 17,
     "hp": 112,
     "init": 2,
     "cr": 5.0,
@@ -19962,6 +19952,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/night_hag_mm_2024.html"
+  },
+  {
+    "name": "Night Hag",
+    "ac": 17,
+    "hp": 104,
+    "init": 15,
+    "cr": 5.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/night_hag_bf.html"
   },
   {
     "name": "Night Scorpion",
@@ -20006,16 +20006,6 @@ const monsterCombatStats = [
   {
     "name": "Nightmare",
     "ac": 13,
-    "hp": 76,
-    "init": 2,
-    "cr": 3.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/nightmare_bf.html"
-  },
-  {
-    "name": "Nightmare",
-    "ac": 13,
     "hp": 68,
     "init": 2,
     "cr": 3.0,
@@ -20032,6 +20022,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/nightmare_mm_2024.html"
+  },
+  {
+    "name": "Nightmare",
+    "ac": 13,
+    "hp": 76,
+    "init": 11,
+    "cr": 3.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/nightmare_bf.html"
   },
   {
     "name": "Nihileth",
@@ -20145,16 +20145,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Noble",
-    "ac": 14,
-    "hp": 7,
-    "init": 1,
-    "cr": 0.125,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/noble_bf.html"
-  },
-  {
-    "name": "Noble",
     "ac": 15,
     "hp": 9,
     "init": 1,
@@ -20172,6 +20162,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/noble_mm_2024.html"
+  },
+  {
+    "name": "Noble",
+    "ac": 14,
+    "hp": 7,
+    "init": 12,
+    "cr": 0.125,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/noble_bf.html"
   },
   {
     "name": "Noctiny",
@@ -20416,16 +20416,6 @@ const monsterCombatStats = [
   {
     "name": "Ochre Jelly",
     "ac": 8,
-    "hp": 71,
-    "init": -2,
-    "cr": 2.0,
-    "type": "Ooze",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ochre_jelly_bf.html"
-  },
-  {
-    "name": "Ochre Jelly",
-    "ac": 8,
     "hp": 45,
     "init": -2,
     "cr": 2.0,
@@ -20444,6 +20434,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/ochre_jelly_mm_2024.html"
   },
   {
+    "name": "Ochre Jelly",
+    "ac": 8,
+    "hp": 71,
+    "init": 8,
+    "cr": 2.0,
+    "type": "Ooze",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ochre_jelly_bf.html"
+  },
+  {
     "name": "Octopus",
     "ac": 12,
     "hp": 3,
@@ -20452,16 +20452,6 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/octopus-a5e.html"
-  },
-  {
-    "name": "Octopus",
-    "ac": 11,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/octopus_bf.html"
   },
   {
     "name": "Octopus",
@@ -20474,10 +20464,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.1_srd_(2015_mm)/octopus.html"
   },
   {
+    "name": "Octopus",
+    "ac": 11,
+    "hp": 8,
+    "init": 12,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/octopus_bf.html"
+  },
+  {
     "name": "Octopus, Giant",
     "ac": 11,
     "hp": 44,
-    "init": 1,
+    "init": 14,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -20516,16 +20516,6 @@ const monsterCombatStats = [
   {
     "name": "Ogre",
     "ac": 11,
-    "hp": 66,
-    "init": -1,
-    "cr": 2.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ogre_bf.html"
-  },
-  {
-    "name": "Ogre",
-    "ac": 11,
     "hp": 59,
     "init": -1,
     "cr": 2.0,
@@ -20542,6 +20532,16 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ogre_mm_2024.html"
+  },
+  {
+    "name": "Ogre",
+    "ac": 11,
+    "hp": 66,
+    "init": 8,
+    "cr": 2.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ogre_bf.html"
   },
   {
     "name": "Ogre Flesh Heap",
@@ -20576,16 +20576,6 @@ const monsterCombatStats = [
   {
     "name": "Ogre Zombie",
     "ac": 8,
-    "hp": 72,
-    "init": -2,
-    "cr": 2.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/ogre_zombie_bf.html"
-  },
-  {
-    "name": "Ogre Zombie",
-    "ac": 8,
     "hp": 85,
     "init": -2,
     "cr": 2.0,
@@ -20602,6 +20592,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/ogre_zombie_mm_2024.html"
+  },
+  {
+    "name": "Ogre Zombie",
+    "ac": 8,
+    "hp": 72,
+    "init": 8,
+    "cr": 2.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/ogre_zombie_bf.html"
   },
   {
     "name": "Ogre, Alleybasher",
@@ -20736,16 +20736,6 @@ const monsterCombatStats = [
   {
     "name": "Oni",
     "ac": 16,
-    "hp": 134,
-    "init": 3,
-    "cr": 7.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/oni_bf.html"
-  },
-  {
-    "name": "Oni",
-    "ac": 16,
     "hp": 110,
     "init": 0,
     "cr": 7.0,
@@ -20762,6 +20752,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/oni_mm_2024.html"
+  },
+  {
+    "name": "Oni",
+    "ac": 16,
+    "hp": 134,
+    "init": 14,
+    "cr": 7.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/oni_bf.html"
   },
   {
     "name": "Onyx Magistrate",
@@ -20896,16 +20896,6 @@ const monsterCombatStats = [
   {
     "name": "Orc",
     "ac": 13,
-    "hp": 25,
-    "init": 1,
-    "cr": 0.5,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/orc_bf.html"
-  },
-  {
-    "name": "Orc",
-    "ac": 13,
     "hp": 15,
     "init": 1,
     "cr": 0.5,
@@ -20914,10 +20904,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.1_srd_(2015_mm)/orc.html"
   },
   {
+    "name": "Orc",
+    "ac": 13,
+    "hp": 25,
+    "init": 12,
+    "cr": 0.5,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/orc_bf.html"
+  },
+  {
     "name": "Orc Warlord",
     "ac": 17,
     "hp": 90,
-    "init": 2,
+    "init": 13,
     "cr": 4.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -20927,7 +20927,7 @@ const monsterCombatStats = [
     "name": "Orca",
     "ac": 12,
     "hp": 80,
-    "init": 0,
+    "init": 13,
     "cr": 3.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -21046,16 +21046,6 @@ const monsterCombatStats = [
   {
     "name": "Otyugh",
     "ac": 14,
-    "hp": 108,
-    "init": 0,
-    "cr": 5.0,
-    "type": "Aberration",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/otyugh_bf.html"
-  },
-  {
-    "name": "Otyugh",
-    "ac": 14,
     "hp": 114,
     "init": 0,
     "cr": 5.0,
@@ -21072,6 +21062,16 @@ const monsterCombatStats = [
     "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/otyugh_mm_2024.html"
+  },
+  {
+    "name": "Otyugh",
+    "ac": 14,
+    "hp": 108,
+    "init": 11,
+    "cr": 5.0,
+    "type": "Aberration",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/otyugh_bf.html"
   },
   {
     "name": "Ouroban",
@@ -21116,16 +21116,6 @@ const monsterCombatStats = [
   {
     "name": "Owl",
     "ac": 11,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/owl_bf.html"
-  },
-  {
-    "name": "Owl",
-    "ac": 11,
     "hp": 1,
     "init": 1,
     "cr": 0.0,
@@ -21144,6 +21134,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/owl_mm_2024.html"
   },
   {
+    "name": "Owl",
+    "ac": 11,
+    "hp": 8,
+    "init": 13,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/owl_bf.html"
+  },
+  {
     "name": "Owl Harpy",
     "ac": 14,
     "hp": 112,
@@ -21157,7 +21157,7 @@ const monsterCombatStats = [
     "name": "Owl, Giant",
     "ac": 12,
     "hp": 15,
-    "init": 2,
+    "init": 15,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -21172,16 +21172,6 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/owlbear-a5e.html"
-  },
-  {
-    "name": "Owlbear",
-    "ac": 14,
-    "hp": 80,
-    "init": 1,
-    "cr": 3.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/owlbear_bf.html"
   },
   {
     "name": "Owlbear",
@@ -21202,6 +21192,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/owlbear_mm_2024.html"
+  },
+  {
+    "name": "Owlbear",
+    "ac": 14,
+    "hp": 80,
+    "init": 13,
+    "cr": 3.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/owlbear_bf.html"
   },
   {
     "name": "Owlbear Recluse",
@@ -21286,16 +21286,6 @@ const monsterCombatStats = [
   {
     "name": "Panther",
     "ac": 12,
-    "hp": 15,
-    "init": 2,
-    "cr": 0.25,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/panther_bf.html"
-  },
-  {
-    "name": "Panther",
-    "ac": 12,
     "hp": 13,
     "init": 2,
     "cr": 0.25,
@@ -21312,6 +21302,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/panther_mm_2024.html"
+  },
+  {
+    "name": "Panther",
+    "ac": 12,
+    "hp": 15,
+    "init": 14,
+    "cr": 0.25,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/panther_bf.html"
   },
   {
     "name": "Paper Drake",
@@ -21416,16 +21416,6 @@ const monsterCombatStats = [
   {
     "name": "Pegasus",
     "ac": 12,
-    "hp": 57,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Celestial",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/pegasus_bf.html"
-  },
-  {
-    "name": "Pegasus",
-    "ac": 12,
     "hp": 59,
     "init": 2,
     "cr": 2.0,
@@ -21442,6 +21432,16 @@ const monsterCombatStats = [
     "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pegasus_mm_2024.html"
+  },
+  {
+    "name": "Pegasus",
+    "ac": 12,
+    "hp": 57,
+    "init": 12,
+    "cr": 2.0,
+    "type": "Celestial",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/pegasus_bf.html"
   },
   {
     "name": "Pelagic Blush Worm",
@@ -21546,16 +21546,6 @@ const monsterCombatStats = [
   {
     "name": "Phase Spider",
     "ac": 13,
-    "hp": 73,
-    "init": 3,
-    "cr": 3.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/phase_spider_bf.html"
-  },
-  {
-    "name": "Phase Spider",
-    "ac": 13,
     "hp": 32,
     "init": 2,
     "cr": 3.0,
@@ -21572,6 +21562,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/phase_spider_mm_2024.html"
+  },
+  {
+    "name": "Phase Spider",
+    "ac": 13,
+    "hp": 73,
+    "init": 10,
+    "cr": 3.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/phase_spider_bf.html"
   },
   {
     "name": "Philosopher's Ghost",
@@ -21716,16 +21716,6 @@ const monsterCombatStats = [
   {
     "name": "Pit Fiend",
     "ac": 19,
-    "hp": 323,
-    "init": 8,
-    "cr": 20.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/pit_fiend_bf.html"
-  },
-  {
-    "name": "Pit Fiend",
-    "ac": 19,
     "hp": 300,
     "init": 2,
     "cr": 20.0,
@@ -21742,6 +21732,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pit_fiend_mm_2024.html"
+  },
+  {
+    "name": "Pit Fiend",
+    "ac": 19,
+    "hp": 323,
+    "init": 20,
+    "cr": 20.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/pit_fiend_bf.html"
   },
   {
     "name": "Pit Fiend General",
@@ -21806,16 +21806,6 @@ const monsterCombatStats = [
   {
     "name": "Planetar",
     "ac": 19,
-    "hp": 242,
-    "init": 5,
-    "cr": 16.0,
-    "type": "Celestial",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/planetar_bf.html"
-  },
-  {
-    "name": "Planetar",
-    "ac": 19,
     "hp": 200,
     "init": 5,
     "cr": 16.0,
@@ -21832,6 +21822,16 @@ const monsterCombatStats = [
     "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/planetar_mm_2024.html"
+  },
+  {
+    "name": "Planetar",
+    "ac": 19,
+    "hp": 242,
+    "init": 21,
+    "cr": 16.0,
+    "type": "Celestial",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/planetar_bf.html"
   },
   {
     "name": "Planewatcher",
@@ -21866,16 +21866,6 @@ const monsterCombatStats = [
   {
     "name": "Plesiosaurus",
     "ac": 13,
-    "hp": 60,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/plesiosaurus_bf.html"
-  },
-  {
-    "name": "Plesiosaurus",
-    "ac": 13,
     "hp": 68,
     "init": 2,
     "cr": 2.0,
@@ -21892,6 +21882,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/plesiosaurus_mm_2024.html"
+  },
+  {
+    "name": "Plesiosaurus",
+    "ac": 13,
+    "hp": 60,
+    "init": 13,
+    "cr": 2.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/plesiosaurus_bf.html"
   },
   {
     "name": "Poisonous Snake",
@@ -21966,16 +21966,6 @@ const monsterCombatStats = [
   {
     "name": "Pony",
     "ac": 10,
-    "hp": 10,
-    "init": 0,
-    "cr": 0.125,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/pony_bf.html"
-  },
-  {
-    "name": "Pony",
-    "ac": 10,
     "hp": 11,
     "init": 0,
     "cr": 0.125,
@@ -21992,6 +21982,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pony_mm_2024.html"
+  },
+  {
+    "name": "Pony",
+    "ac": 10,
+    "hp": 10,
+    "init": 10,
+    "cr": 0.125,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/pony_bf.html"
   },
   {
     "name": "Porcellina",
@@ -22036,16 +22036,6 @@ const monsterCombatStats = [
   {
     "name": "Priest",
     "ac": 13,
-    "hp": 57,
-    "init": 0,
-    "cr": 2.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/priest_bf.html"
-  },
-  {
-    "name": "Priest",
-    "ac": 13,
     "hp": 27,
     "init": 0,
     "cr": 2.0,
@@ -22062,6 +22052,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/priest_mm_2024.html"
+  },
+  {
+    "name": "Priest",
+    "ac": 13,
+    "hp": 57,
+    "init": 15,
+    "cr": 2.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/priest_bf.html"
   },
   {
     "name": "Priest Acolyte",
@@ -22116,16 +22116,6 @@ const monsterCombatStats = [
   {
     "name": "Pseudodragon",
     "ac": 13,
-    "hp": 12,
-    "init": 2,
-    "cr": 0.25,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/pseudodragon_bf.html"
-  },
-  {
-    "name": "Pseudodragon",
-    "ac": 13,
     "hp": 7,
     "init": 2,
     "cr": 0.25,
@@ -22142,6 +22132,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/pseudodragon_mm_2024.html"
+  },
+  {
+    "name": "Pseudodragon",
+    "ac": 13,
+    "hp": 12,
+    "init": 13,
+    "cr": 0.25,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/pseudodragon_bf.html"
   },
   {
     "name": "Pseudodragon Familiar",
@@ -22236,16 +22236,6 @@ const monsterCombatStats = [
   {
     "name": "Purple Worm",
     "ac": 18,
-    "hp": 255,
-    "init": -2,
-    "cr": 15.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/purple_worm_bf.html"
-  },
-  {
-    "name": "Purple Worm",
-    "ac": 18,
     "hp": 247,
     "init": -2,
     "cr": 15.0,
@@ -22262,6 +22252,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/purple_worm_mm_2024.html"
+  },
+  {
+    "name": "Purple Worm",
+    "ac": 18,
+    "hp": 255,
+    "init": 14,
+    "cr": 15.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/purple_worm_bf.html"
   },
   {
     "name": "Pustulent Shambler",
@@ -22376,16 +22376,6 @@ const monsterCombatStats = [
   {
     "name": "Quasit",
     "ac": 13,
-    "hp": 35,
-    "init": 5,
-    "cr": 1.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/quasit_bf.html"
-  },
-  {
-    "name": "Quasit",
-    "ac": 13,
     "hp": 7,
     "init": 3,
     "cr": 1.0,
@@ -22402,6 +22392,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/quasit_mm_2024.html"
+  },
+  {
+    "name": "Quasit",
+    "ac": 13,
+    "hp": 35,
+    "init": 10,
+    "cr": 1.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/quasit_bf.html"
   },
   {
     "name": "Quasit Familiar",
@@ -22485,16 +22485,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Quipper",
-    "ac": 10,
-    "hp": 8,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/quipper_bf.html"
-  },
-  {
-    "name": "Quipper",
     "ac": 13,
     "hp": 1,
     "init": 3,
@@ -22504,10 +22494,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.1_srd_(2015_mm)/quipper.html"
   },
   {
+    "name": "Quipper",
+    "ac": 10,
+    "hp": 8,
+    "init": 8,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/quipper_bf.html"
+  },
+  {
     "name": "Quipper, Swarm of Quippers",
     "ac": 13,
     "hp": 34,
-    "init": 3,
+    "init": 10,
     "cr": 1.0,
     "type": "Swarm",
     "source": "Black Flag",
@@ -22586,16 +22586,6 @@ const monsterCombatStats = [
   {
     "name": "Rakshasa",
     "ac": 16,
-    "hp": 166,
-    "init": 8,
-    "cr": 13.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/rakshasa_bf.html"
-  },
-  {
-    "name": "Rakshasa",
-    "ac": 16,
     "hp": 110,
     "init": 3,
     "cr": 13.0,
@@ -22612,6 +22602,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/rakshasa_mm_2024.html"
+  },
+  {
+    "name": "Rakshasa",
+    "ac": 16,
+    "hp": 166,
+    "init": 18,
+    "cr": 13.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/rakshasa_bf.html"
   },
   {
     "name": "Rakshasa, Myrmidon",
@@ -22696,16 +22696,6 @@ const monsterCombatStats = [
   {
     "name": "Rat",
     "ac": 10,
-    "hp": 9,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/rat_bf.html"
-  },
-  {
-    "name": "Rat",
-    "ac": 10,
     "hp": 1,
     "init": 0,
     "cr": 0.0,
@@ -22724,6 +22714,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/rat_mm_2024.html"
   },
   {
+    "name": "Rat",
+    "ac": 10,
+    "hp": 9,
+    "init": 10,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/rat_bf.html"
+  },
+  {
     "name": "Rat King",
     "ac": 14,
     "hp": 76,
@@ -22737,7 +22737,7 @@ const monsterCombatStats = [
     "name": "Rat, Giant",
     "ac": 13,
     "hp": 14,
-    "init": 3,
+    "init": 10,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -22747,7 +22747,7 @@ const monsterCombatStats = [
     "name": "Rat, Swarm of Rats",
     "ac": 10,
     "hp": 14,
-    "init": 0,
+    "init": 10,
     "cr": 0.25,
     "type": "Swarm",
     "source": "Black Flag",
@@ -22835,16 +22835,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Raven",
-    "ac": 11,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/raven_bf.html"
-  },
-  {
-    "name": "Raven",
     "ac": 12,
     "hp": 1,
     "init": 2,
@@ -22864,10 +22854,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/raven_mm_2024.html"
   },
   {
+    "name": "Raven",
+    "ac": 11,
+    "hp": 8,
+    "init": 13,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/raven_bf.html"
+  },
+  {
     "name": "Raven, Swarm of Ravens",
     "ac": 12,
     "hp": 13,
-    "init": 2,
+    "init": 13,
     "cr": 0.25,
     "type": "Swarm",
     "source": "Black Flag",
@@ -22936,16 +22936,6 @@ const monsterCombatStats = [
   {
     "name": "Red Dragon Wyrmling",
     "ac": 17,
-    "hp": 68,
-    "init": 2,
-    "cr": 3.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/red_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Red Dragon Wyrmling",
-    "ac": 17,
     "hp": 75,
     "init": 0,
     "cr": 4.0,
@@ -22962,6 +22952,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/red_dragon_wyrmling_mm_2024.html"
+  },
+  {
+    "name": "Red Dragon Wyrmling",
+    "ac": 17,
+    "hp": 68,
+    "init": 14,
+    "cr": 3.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/red_dragon_wyrmling_bf.html"
   },
   {
     "name": "Red Hag",
@@ -23046,16 +23046,6 @@ const monsterCombatStats = [
   {
     "name": "Remorhaz",
     "ac": 17,
-    "hp": 216,
-    "init": 1,
-    "cr": 11.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/remorhaz_bf.html"
-  },
-  {
-    "name": "Remorhaz",
-    "ac": 17,
     "hp": 195,
     "init": 1,
     "cr": 11.0,
@@ -23072,6 +23062,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/remorhaz_mm_2024.html"
+  },
+  {
+    "name": "Remorhaz",
+    "ac": 17,
+    "hp": 216,
+    "init": 10,
+    "cr": 11.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/remorhaz_bf.html"
   },
   {
     "name": "Remorhaz Spawn",
@@ -23136,16 +23136,6 @@ const monsterCombatStats = [
   {
     "name": "Rhinoceros",
     "ac": 11,
-    "hp": 63,
-    "init": -1,
-    "cr": 2.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/rhinoceros_bf.html"
-  },
-  {
-    "name": "Rhinoceros",
-    "ac": 11,
     "hp": 45,
     "init": -1,
     "cr": 2.0,
@@ -23162,6 +23152,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/rhinoceros_mm_2024.html"
+  },
+  {
+    "name": "Rhinoceros",
+    "ac": 11,
+    "hp": 63,
+    "init": 11,
+    "cr": 2.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/rhinoceros_bf.html"
   },
   {
     "name": "Riding Horse",
@@ -23317,7 +23317,7 @@ const monsterCombatStats = [
     "name": "Robot Drone",
     "ac": 15,
     "hp": 21,
-    "init": 3,
+    "init": 15,
     "cr": 0.5,
     "type": "Construct",
     "source": "Black Flag",
@@ -23332,16 +23332,6 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/roc-a5e.html"
-  },
-  {
-    "name": "Roc",
-    "ac": 15,
-    "hp": 235,
-    "init": 4,
-    "cr": 11.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/roc_bf.html"
   },
   {
     "name": "Roc",
@@ -23362,6 +23352,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/roc_mm_2024.html"
+  },
+  {
+    "name": "Roc",
+    "ac": 15,
+    "hp": 235,
+    "init": 14,
+    "cr": 11.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/roc_bf.html"
   },
   {
     "name": "Roc Juvenile",
@@ -23436,16 +23436,6 @@ const monsterCombatStats = [
   {
     "name": "Roper",
     "ac": 20,
-    "hp": 111,
-    "init": -1,
-    "cr": 5.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/roper_bf.html"
-  },
-  {
-    "name": "Roper",
-    "ac": 20,
     "hp": 93,
     "init": -1,
     "cr": 5.0,
@@ -23462,6 +23452,16 @@ const monsterCombatStats = [
     "type": "Aberration",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/roper_mm_2024.html"
+  },
+  {
+    "name": "Roper",
+    "ac": 20,
+    "hp": 111,
+    "init": 16,
+    "cr": 5.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/roper_bf.html"
   },
   {
     "name": "Rotsam",
@@ -23526,22 +23526,22 @@ const monsterCombatStats = [
   {
     "name": "Rug of Smothering",
     "ac": 12,
-    "hp": 45,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/rug_of_smothering_bf.html"
-  },
-  {
-    "name": "Rug of Smothering",
-    "ac": 12,
     "hp": 33,
     "init": 2,
     "cr": 2.0,
     "type": "Construct",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/rug-of-smothering.html"
+  },
+  {
+    "name": "Rug of Smothering",
+    "ac": 12,
+    "hp": 45,
+    "init": 8,
+    "cr": 2.0,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/rug_of_smothering_bf.html"
   },
   {
     "name": "Rum Gremlin",
@@ -23596,16 +23596,6 @@ const monsterCombatStats = [
   {
     "name": "Rust Monster",
     "ac": 14,
-    "hp": 23,
-    "init": 1,
-    "cr": 0.5,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/rust_monster_bf.html"
-  },
-  {
-    "name": "Rust Monster",
-    "ac": 14,
     "hp": 27,
     "init": 1,
     "cr": 0.5,
@@ -23622,6 +23612,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/rust_monster_mm_2024.html"
+  },
+  {
+    "name": "Rust Monster",
+    "ac": 14,
+    "hp": 23,
+    "init": 11,
+    "cr": 0.5,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/rust_monster_bf.html"
   },
   {
     "name": "Saber-Toothed Tiger",
@@ -23666,22 +23666,22 @@ const monsterCombatStats = [
   {
     "name": "Sahuagin",
     "ac": 12,
-    "hp": 25,
-    "init": 0,
-    "cr": 0.5,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/sahuagin_bf.html"
-  },
-  {
-    "name": "Sahuagin",
-    "ac": 12,
     "hp": 22,
     "init": 0,
     "cr": 0.5,
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/sahuagin.html"
+  },
+  {
+    "name": "Sahuagin",
+    "ac": 12,
+    "hp": 25,
+    "init": 15,
+    "cr": 0.5,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/sahuagin_bf.html"
   },
   {
     "name": "Sahuagin Champion",
@@ -23716,16 +23716,6 @@ const monsterCombatStats = [
   {
     "name": "Salamander",
     "ac": 15,
-    "hp": 114,
-    "init": 2,
-    "cr": 5.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/salamander_bf.html"
-  },
-  {
-    "name": "Salamander",
-    "ac": 15,
     "hp": 90,
     "init": 2,
     "cr": 5.0,
@@ -23742,6 +23732,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/salamander_mm_2024.html"
+  },
+  {
+    "name": "Salamander",
+    "ac": 15,
+    "hp": 114,
+    "init": 10,
+    "cr": 5.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/salamander_bf.html"
   },
   {
     "name": "Salamander Monarch",
@@ -23957,7 +23957,7 @@ const monsterCombatStats = [
     "name": "Satarre",
     "ac": 12,
     "hp": 40,
-    "init": 1,
+    "init": 12,
     "cr": 1.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -23985,16 +23985,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Satyr",
-    "ac": 13,
-    "hp": 23,
-    "init": 3,
-    "cr": 0.5,
-    "type": "Fey",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/satyr_bf.html"
-  },
-  {
-    "name": "Satyr",
     "ac": 14,
     "hp": 31,
     "init": 3,
@@ -24012,6 +24002,16 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/satyr_mm_2024.html"
+  },
+  {
+    "name": "Satyr",
+    "ac": 13,
+    "hp": 23,
+    "init": 12,
+    "cr": 0.5,
+    "type": "Fey",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/satyr_bf.html"
   },
   {
     "name": "Savager",
@@ -24127,7 +24127,7 @@ const monsterCombatStats = [
     "name": "Scorch Drake",
     "ac": 15,
     "hp": 145,
-    "init": 1,
+    "init": 15,
     "cr": 6.0,
     "type": "Dragon",
     "source": "Black Flag",
@@ -24216,16 +24216,6 @@ const monsterCombatStats = [
   {
     "name": "Scout",
     "ac": 13,
-    "hp": 25,
-    "init": 2,
-    "cr": 0.5,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/scout_bf.html"
-  },
-  {
-    "name": "Scout",
-    "ac": 13,
     "hp": 16,
     "init": 2,
     "cr": 0.5,
@@ -24242,6 +24232,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/scout_mm_2024.html"
+  },
+  {
+    "name": "Scout",
+    "ac": 13,
+    "hp": 25,
+    "init": 13,
+    "cr": 0.5,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/scout_bf.html"
   },
   {
     "name": "Scrag",
@@ -24306,16 +24306,6 @@ const monsterCombatStats = [
   {
     "name": "Sea Hag",
     "ac": 14,
-    "hp": 51,
-    "init": 1,
-    "cr": 2.0,
-    "type": "Fey",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/sea_hag_bf.html"
-  },
-  {
-    "name": "Sea Hag",
-    "ac": 14,
     "hp": 52,
     "init": 1,
     "cr": 2.0,
@@ -24332,6 +24322,16 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sea_hag_mm_2024.html"
+  },
+  {
+    "name": "Sea Hag",
+    "ac": 14,
+    "hp": 51,
+    "init": 11,
+    "cr": 2.0,
+    "type": "Fey",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/sea_hag_bf.html"
   },
   {
     "name": "Sea Horse",
@@ -24365,16 +24365,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Seahorse",
-    "ac": 11,
-    "hp": 9,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/seahorse_bf.html"
-  },
-  {
-    "name": "Seahorse",
     "ac": 12,
     "hp": 1,
     "init": 1,
@@ -24384,10 +24374,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/seahorse_mm_2024.html"
   },
   {
+    "name": "Seahorse",
+    "ac": 11,
+    "hp": 9,
+    "init": 10,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/seahorse_bf.html"
+  },
+  {
     "name": "Seahorse, Giant",
     "ac": 13,
     "hp": 25,
-    "init": 2,
+    "init": 11,
     "cr": 0.5,
     "type": "Beast",
     "source": "Black Flag",
@@ -24506,16 +24506,6 @@ const monsterCombatStats = [
   {
     "name": "Shadow",
     "ac": 12,
-    "hp": 17,
-    "init": 4,
-    "cr": 0.5,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/shadow_bf.html"
-  },
-  {
-    "name": "Shadow",
-    "ac": 12,
     "hp": 16,
     "init": 2,
     "cr": 0.5,
@@ -24532,6 +24522,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/shadow_mm_2024.html"
+  },
+  {
+    "name": "Shadow",
+    "ac": 12,
+    "hp": 17,
+    "init": 10,
+    "cr": 0.5,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/shadow_bf.html"
   },
   {
     "name": "Shadow Antipaladin",
@@ -24756,16 +24756,6 @@ const monsterCombatStats = [
   {
     "name": "Shambling Mound",
     "ac": 15,
-    "hp": 110,
-    "init": -1,
-    "cr": 5.0,
-    "type": "Plant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/shambling_mound_bf.html"
-  },
-  {
-    "name": "Shambling Mound",
-    "ac": 15,
     "hp": 136,
     "init": -1,
     "cr": 5.0,
@@ -24782,6 +24772,16 @@ const monsterCombatStats = [
     "type": "Plant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/shambling_mound_mm_2024.html"
+  },
+  {
+    "name": "Shambling Mound",
+    "ac": 15,
+    "hp": 110,
+    "init": 10,
+    "cr": 5.0,
+    "type": "Plant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/shambling_mound_bf.html"
   },
   {
     "name": "Shantak",
@@ -24807,7 +24807,7 @@ const monsterCombatStats = [
     "name": "Shark, Giant",
     "ac": 13,
     "hp": 126,
-    "init": 0,
+    "init": 13,
     "cr": 5.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -24817,7 +24817,7 @@ const monsterCombatStats = [
     "name": "Shark, Hunter",
     "ac": 12,
     "hp": 63,
-    "init": 1,
+    "init": 12,
     "cr": 2.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -24827,7 +24827,7 @@ const monsterCombatStats = [
     "name": "Shark, Reef",
     "ac": 12,
     "hp": 27,
-    "init": 1,
+    "init": 12,
     "cr": 0.5,
     "type": "Beast",
     "source": "Black Flag",
@@ -24876,16 +24876,6 @@ const monsterCombatStats = [
   {
     "name": "Shield Guardian",
     "ac": 17,
-    "hp": 139,
-    "init": -1,
-    "cr": 7.0,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/shield_guardian_bf.html"
-  },
-  {
-    "name": "Shield Guardian",
-    "ac": 17,
     "hp": 142,
     "init": -1,
     "cr": 7.0,
@@ -24902,6 +24892,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/shield_guardian_mm_2024.html"
+  },
+  {
+    "name": "Shield Guardian",
+    "ac": 17,
+    "hp": 139,
+    "init": 12,
+    "cr": 7.0,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/shield_guardian_bf.html"
   },
   {
     "name": "Shiftshroom",
@@ -24976,22 +24976,22 @@ const monsterCombatStats = [
   {
     "name": "Shrieker",
     "ac": 5,
-    "hp": 7,
-    "init": -5,
-    "cr": 0.0,
-    "type": "Plant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/shrieker_bf.html"
-  },
-  {
-    "name": "Shrieker",
-    "ac": 5,
     "hp": 13,
     "init": -5,
     "cr": 0.0,
     "type": "Plant",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/shrieker.html"
+  },
+  {
+    "name": "Shrieker",
+    "ac": 5,
+    "hp": 7,
+    "init": 6,
+    "cr": 0.0,
+    "type": "Plant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/shrieker_bf.html"
   },
   {
     "name": "Shrieker Fungus",
@@ -25057,7 +25057,7 @@ const monsterCombatStats = [
     "name": "Sila",
     "ac": 17,
     "hp": 216,
-    "init": 6,
+    "init": 16,
     "cr": 11.0,
     "type": "Elemental",
     "source": "Black Flag",
@@ -25096,16 +25096,6 @@ const monsterCombatStats = [
   {
     "name": "Silver Dragon Wyrmling",
     "ac": 17,
-    "hp": 51,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/silver_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "Silver Dragon Wyrmling",
-    "ac": 17,
     "hp": 45,
     "init": 0,
     "cr": 2.0,
@@ -25122,6 +25112,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/silver_dragon_wyrmling_mm_2024.html"
+  },
+  {
+    "name": "Silver Dragon Wyrmling",
+    "ac": 17,
+    "hp": 51,
+    "init": 14,
+    "cr": 2.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/silver_dragon_wyrmling_bf.html"
   },
   {
     "name": "Silver Dragon Wyrmling Skeleton",
@@ -25236,16 +25236,6 @@ const monsterCombatStats = [
   {
     "name": "Skeleton",
     "ac": 13,
-    "hp": 14,
-    "init": 2,
-    "cr": 0.25,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/skeleton_bf.html"
-  },
-  {
-    "name": "Skeleton",
-    "ac": 13,
     "hp": 13,
     "init": 2,
     "cr": 0.25,
@@ -25262,6 +25252,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/skeleton_mm_2024.html"
+  },
+  {
+    "name": "Skeleton",
+    "ac": 13,
+    "hp": 14,
+    "init": 9,
+    "cr": 0.25,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/skeleton_bf.html"
   },
   {
     "name": "Skeleton Horde",
@@ -25317,7 +25317,7 @@ const monsterCombatStats = [
     "name": "Skullbloom",
     "ac": 11,
     "hp": 23,
-    "init": 0,
+    "init": 11,
     "cr": 0.5,
     "type": "Plant",
     "source": "Black Flag",
@@ -25387,7 +25387,7 @@ const monsterCombatStats = [
     "name": "Snake, Constrictor",
     "ac": 12,
     "hp": 15,
-    "init": 2,
+    "init": 10,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -25397,7 +25397,7 @@ const monsterCombatStats = [
     "name": "Snake, Flying",
     "ac": 11,
     "hp": 10,
-    "init": 1,
+    "init": 11,
     "cr": 0.125,
     "type": "Beast",
     "source": "Black Flag",
@@ -25407,7 +25407,7 @@ const monsterCombatStats = [
     "name": "Snake, Giant Constrictor",
     "ac": 12,
     "hp": 63,
-    "init": 2,
+    "init": 12,
     "cr": 2.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -25417,7 +25417,7 @@ const monsterCombatStats = [
     "name": "Snake, Giant Poisonous",
     "ac": 12,
     "hp": 14,
-    "init": 2,
+    "init": 10,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -25427,7 +25427,7 @@ const monsterCombatStats = [
     "name": "Snake, Poisonous",
     "ac": 11,
     "hp": 9,
-    "init": 1,
+    "init": 10,
     "cr": 0.125,
     "type": "Beast",
     "source": "Black Flag",
@@ -25437,7 +25437,7 @@ const monsterCombatStats = [
     "name": "Snake, Swarm of Poisonous Snakes",
     "ac": 14,
     "hp": 48,
-    "init": 4,
+    "init": 10,
     "cr": 2.0,
     "type": "Swarm",
     "source": "Black Flag",
@@ -25546,16 +25546,6 @@ const monsterCombatStats = [
   {
     "name": "Solar",
     "ac": 21,
-    "hp": 306,
-    "init": 6,
-    "cr": 21.0,
-    "type": "Celestial",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/solar_bf.html"
-  },
-  {
-    "name": "Solar",
-    "ac": 21,
     "hp": 243,
     "init": 6,
     "cr": 21.0,
@@ -25572,6 +25562,16 @@ const monsterCombatStats = [
     "type": "Celestial",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/solar_mm_2024.html"
+  },
+  {
+    "name": "Solar",
+    "ac": 21,
+    "hp": 306,
+    "init": 24,
+    "cr": 21.0,
+    "type": "Celestial",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/solar_bf.html"
   },
   {
     "name": "Soldier",
@@ -25756,16 +25756,6 @@ const monsterCombatStats = [
   {
     "name": "Specter",
     "ac": 12,
-    "hp": 27,
-    "init": 2,
-    "cr": 1.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/specter_bf.html"
-  },
-  {
-    "name": "Specter",
-    "ac": 12,
     "hp": 22,
     "init": 2,
     "cr": 1.0,
@@ -25782,6 +25772,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/specter_mm_2024.html"
+  },
+  {
+    "name": "Specter",
+    "ac": 12,
+    "hp": 27,
+    "init": 10,
+    "cr": 1.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/specter_bf.html"
   },
   {
     "name": "Spectral Guardian",
@@ -25866,16 +25866,6 @@ const monsterCombatStats = [
   {
     "name": "Spider",
     "ac": 12,
-    "hp": 8,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/spider_bf.html"
-  },
-  {
-    "name": "Spider",
-    "ac": 12,
     "hp": 1,
     "init": 2,
     "cr": 0.0,
@@ -25892,6 +25882,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/spider_mm_2024.html"
+  },
+  {
+    "name": "Spider",
+    "ac": 12,
+    "hp": 8,
+    "init": 10,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/spider_bf.html"
   },
   {
     "name": "Spider Drake",
@@ -25927,7 +25927,7 @@ const monsterCombatStats = [
     "name": "Spider, Giant",
     "ac": 15,
     "hp": 40,
-    "init": 3,
+    "init": 10,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -25937,7 +25937,7 @@ const monsterCombatStats = [
     "name": "Spider, Giant Wolf",
     "ac": 13,
     "hp": 14,
-    "init": 2,
+    "init": 13,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -25986,16 +25986,6 @@ const monsterCombatStats = [
   {
     "name": "Spirit Naga",
     "ac": 15,
-    "hp": 166,
-    "init": 6,
-    "cr": 8.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/spirit_naga_bf.html"
-  },
-  {
-    "name": "Spirit Naga",
-    "ac": 15,
     "hp": 75,
     "init": 3,
     "cr": 8.0,
@@ -26012,6 +26002,16 @@ const monsterCombatStats = [
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/spirit_naga_mm_2024.html"
+  },
+  {
+    "name": "Spirit Naga",
+    "ac": 15,
+    "hp": 166,
+    "init": 15,
+    "cr": 8.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/spirit_naga_bf.html"
   },
   {
     "name": "Splinter Matron",
@@ -26055,16 +26055,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Sprite",
-    "ac": 14,
-    "hp": 13,
-    "init": 3,
-    "cr": 0.25,
-    "type": "Fey",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/sprite_bf.html"
-  },
-  {
-    "name": "Sprite",
     "ac": 15,
     "hp": 2,
     "init": 4,
@@ -26082,6 +26072,16 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/sprite_mm_2024.html"
+  },
+  {
+    "name": "Sprite",
+    "ac": 14,
+    "hp": 13,
+    "init": 11,
+    "cr": 0.25,
+    "type": "Fey",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/sprite_bf.html"
   },
   {
     "name": "Spurred Water Skate",
@@ -26105,16 +26105,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Spy",
-    "ac": 13,
-    "hp": 40,
-    "init": 5,
-    "cr": 1.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/spy_bf.html"
-  },
-  {
-    "name": "Spy",
     "ac": 12,
     "hp": 27,
     "init": 2,
@@ -26132,6 +26122,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/spy_mm_2024.html"
+  },
+  {
+    "name": "Spy",
+    "ac": 13,
+    "hp": 40,
+    "init": 16,
+    "cr": 1.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/spy_bf.html"
   },
   {
     "name": "Spymaster",
@@ -26167,7 +26167,7 @@ const monsterCombatStats = [
     "name": "Star Crow",
     "ac": 15,
     "hp": 12,
-    "init": 3,
+    "init": 13,
     "cr": 0.25,
     "type": "Aberration",
     "source": "Black Flag",
@@ -26245,16 +26245,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Steam Mephit",
-    "ac": 12,
-    "hp": 27,
-    "init": 2,
-    "cr": 0.5,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/steam_mephit_bf.html"
-  },
-  {
-    "name": "Steam Mephit",
     "ac": 10,
     "hp": 21,
     "init": 0,
@@ -26272,6 +26262,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/steam_mephit_mm_2024.html"
+  },
+  {
+    "name": "Steam Mephit",
+    "ac": 12,
+    "hp": 27,
+    "init": 13,
+    "cr": 0.5,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/steam_mephit_bf.html"
   },
   {
     "name": "Stegosaurus",
@@ -26306,16 +26306,6 @@ const monsterCombatStats = [
   {
     "name": "Stirge",
     "ac": 14,
-    "hp": 7,
-    "init": 2,
-    "cr": 0.125,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/stirge_bf.html"
-  },
-  {
-    "name": "Stirge",
-    "ac": 14,
     "hp": 2,
     "init": 3,
     "cr": 0.125,
@@ -26332,6 +26322,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/stirge_mm_2024.html"
+  },
+  {
+    "name": "Stirge",
+    "ac": 14,
+    "hp": 7,
+    "init": 9,
+    "cr": 0.125,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/stirge_bf.html"
   },
   {
     "name": "Stone Colossus",
@@ -26366,16 +26366,6 @@ const monsterCombatStats = [
   {
     "name": "Stone Giant",
     "ac": 17,
-    "hp": 156,
-    "init": 5,
-    "cr": 7.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/stone_giant_bf.html"
-  },
-  {
-    "name": "Stone Giant",
-    "ac": 17,
     "hp": 126,
     "init": 2,
     "cr": 7.0,
@@ -26394,6 +26384,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/stone_giant_mm_2024.html"
   },
   {
+    "name": "Stone Giant",
+    "ac": 17,
+    "hp": 156,
+    "init": 14,
+    "cr": 7.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/stone_giant_bf.html"
+  },
+  {
     "name": "Stone Giant Stonetalker",
     "ac": 17,
     "hp": 126,
@@ -26402,16 +26402,6 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/stone-giant-stonetalker-a5e.html"
-  },
-  {
-    "name": "Stone Golem",
-    "ac": 17,
-    "hp": 176,
-    "init": -1,
-    "cr": 10.0,
-    "type": "Construct",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/stone_golem_bf.html"
   },
   {
     "name": "Stone Golem",
@@ -26432,6 +26422,16 @@ const monsterCombatStats = [
     "type": "Construct",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/stone_golem_mm_2024.html"
+  },
+  {
+    "name": "Stone Golem",
+    "ac": 17,
+    "hp": 176,
+    "init": 10,
+    "cr": 10.0,
+    "type": "Construct",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/stone_golem_bf.html"
   },
   {
     "name": "Stone Guardian",
@@ -26466,16 +26466,6 @@ const monsterCombatStats = [
   {
     "name": "Storm Giant",
     "ac": 16,
-    "hp": 243,
-    "init": 2,
-    "cr": 13.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/storm_giant_bf.html"
-  },
-  {
-    "name": "Storm Giant",
-    "ac": 16,
     "hp": 230,
     "init": 2,
     "cr": 13.0,
@@ -26492,6 +26482,16 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/storm_giant_mm_2024.html"
+  },
+  {
+    "name": "Storm Giant",
+    "ac": 16,
+    "hp": 243,
+    "init": 19,
+    "cr": 13.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/storm_giant_bf.html"
   },
   {
     "name": "Storm Giant Monarch",
@@ -26626,22 +26626,22 @@ const monsterCombatStats = [
   {
     "name": "Succubus",
     "ac": 15,
-    "hp": 79,
-    "init": 3,
-    "cr": 4.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/succubus_bf.html"
-  },
-  {
-    "name": "Succubus",
-    "ac": 15,
     "hp": 71,
     "init": 3,
     "cr": 4.0,
     "type": "Fiend",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/succubus_mm_2024.html"
+  },
+  {
+    "name": "Succubus",
+    "ac": 15,
+    "hp": 79,
+    "init": 15,
+    "cr": 4.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/succubus_bf.html"
   },
   {
     "name": "Succubus/Incubus",
@@ -27176,16 +27176,6 @@ const monsterCombatStats = [
   {
     "name": "Tarrasque",
     "ac": 25,
-    "hp": 680,
-    "init": 3,
-    "cr": 30.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/tarrasque_bf.html"
-  },
-  {
-    "name": "Tarrasque",
-    "ac": 25,
     "hp": 676,
     "init": 0,
     "cr": 30.0,
@@ -27202,6 +27192,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/tarrasque_mm_2024.html"
+  },
+  {
+    "name": "Tarrasque",
+    "ac": 25,
+    "hp": 680,
+    "init": 19,
+    "cr": 30.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/tarrasque_bf.html"
   },
   {
     "name": "Tatzelwurm",
@@ -27386,22 +27386,22 @@ const monsterCombatStats = [
   {
     "name": "Thug",
     "ac": 11,
-    "hp": 25,
-    "init": 0,
-    "cr": 0.5,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/thug_bf.html"
-  },
-  {
-    "name": "Thug",
-    "ac": 11,
     "hp": 32,
     "init": 0,
     "cr": 0.5,
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/thug.html"
+  },
+  {
+    "name": "Thug",
+    "ac": 11,
+    "hp": 25,
+    "init": 10,
+    "cr": 0.5,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/thug_bf.html"
   },
   {
     "name": "Thunderbird",
@@ -27456,16 +27456,6 @@ const monsterCombatStats = [
   {
     "name": "Tiger",
     "ac": 12,
-    "hp": 38,
-    "init": 2,
-    "cr": 1.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/tiger_bf.html"
-  },
-  {
-    "name": "Tiger",
-    "ac": 12,
     "hp": 37,
     "init": 2,
     "cr": 1.0,
@@ -27484,10 +27474,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/tiger_mm_2024.html"
   },
   {
+    "name": "Tiger",
+    "ac": 12,
+    "hp": 38,
+    "init": 13,
+    "cr": 1.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/tiger_bf.html"
+  },
+  {
     "name": "Tiger, Saber-Toothed",
     "ac": 12,
     "hp": 63,
-    "init": 2,
+    "init": 13,
     "cr": 2.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -27676,16 +27676,6 @@ const monsterCombatStats = [
   {
     "name": "Treant",
     "ac": 16,
-    "hp": 185,
-    "init": -1,
-    "cr": 9.0,
-    "type": "Plant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/treant_bf.html"
-  },
-  {
-    "name": "Treant",
-    "ac": 16,
     "hp": 138,
     "init": -1,
     "cr": 9.0,
@@ -27702,6 +27692,16 @@ const monsterCombatStats = [
     "type": "Plant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/treant_mm_2024.html"
+  },
+  {
+    "name": "Treant",
+    "ac": 16,
+    "hp": 185,
+    "init": 17,
+    "cr": 9.0,
+    "type": "Plant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/treant_bf.html"
   },
   {
     "name": "Tree Skinner",
@@ -27746,16 +27746,6 @@ const monsterCombatStats = [
   {
     "name": "Triceratops",
     "ac": 13,
-    "hp": 126,
-    "init": -1,
-    "cr": 5.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/triceratops_bf.html"
-  },
-  {
-    "name": "Triceratops",
-    "ac": 13,
     "hp": 95,
     "init": -1,
     "cr": 5.0,
@@ -27772,6 +27762,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/triceratops_mm_2024.html"
+  },
+  {
+    "name": "Triceratops",
+    "ac": 13,
+    "hp": 126,
+    "init": 10,
+    "cr": 5.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/triceratops_bf.html"
   },
   {
     "name": "Trickster Priest",
@@ -27816,16 +27816,6 @@ const monsterCombatStats = [
   {
     "name": "Troll",
     "ac": 15,
-    "hp": 94,
-    "init": 1,
-    "cr": 5.0,
-    "type": "Giant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/troll_bf.html"
-  },
-  {
-    "name": "Troll",
-    "ac": 15,
     "hp": 84,
     "init": 1,
     "cr": 5.0,
@@ -27842,6 +27832,16 @@ const monsterCombatStats = [
     "type": "Giant",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/troll_mm_2024.html"
+  },
+  {
+    "name": "Troll",
+    "ac": 15,
+    "hp": 94,
+    "init": 12,
+    "cr": 5.0,
+    "type": "Giant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/troll_bf.html"
   },
   {
     "name": "Troll Limb",
@@ -28046,16 +28046,6 @@ const monsterCombatStats = [
   {
     "name": "Tyrannosaurus Rex",
     "ac": 13,
-    "hp": 184,
-    "init": 0,
-    "cr": 8.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/tyrannosaurus_rex_bf.html"
-  },
-  {
-    "name": "Tyrannosaurus Rex",
-    "ac": 13,
     "hp": 136,
     "init": 0,
     "cr": 8.0,
@@ -28072,6 +28062,16 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/tyrannosaurus_rex_mm_2024.html"
+  },
+  {
+    "name": "Tyrannosaurus Rex",
+    "ac": 13,
+    "hp": 184,
+    "init": 14,
+    "cr": 8.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/tyrannosaurus_rex_bf.html"
   },
   {
     "name": "Tzepharion",
@@ -28156,16 +28156,6 @@ const monsterCombatStats = [
   {
     "name": "Unicorn",
     "ac": 12,
-    "hp": 92,
-    "init": 2,
-    "cr": 5.0,
-    "type": "Celestial",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/unicorn_bf.html"
-  },
-  {
-    "name": "Unicorn",
-    "ac": 12,
     "hp": 67,
     "init": 2,
     "cr": 5.0,
@@ -28184,10 +28174,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/unicorn_mm_2024.html"
   },
   {
+    "name": "Unicorn",
+    "ac": 12,
+    "hp": 92,
+    "init": 16,
+    "cr": 5.0,
+    "type": "Celestial",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/unicorn_bf.html"
+  },
+  {
     "name": "Unska",
     "ac": 17,
     "hp": 88,
-    "init": 2,
+    "init": 10,
     "cr": 5.0,
     "type": "Fiend",
     "source": "Black Flag",
@@ -28316,16 +28316,6 @@ const monsterCombatStats = [
   {
     "name": "Vampire",
     "ac": 16,
-    "hp": 177,
-    "init": 9,
-    "cr": 13.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/vampire_bf.html"
-  },
-  {
-    "name": "Vampire",
-    "ac": 16,
     "hp": 144,
     "init": 4,
     "cr": 13.0,
@@ -28342,6 +28332,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/vampire_mm_2024.html"
+  },
+  {
+    "name": "Vampire",
+    "ac": 16,
+    "hp": 177,
+    "init": 17,
+    "cr": 13.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/vampire_bf.html"
   },
   {
     "name": "Vampire Assassin",
@@ -28406,16 +28406,6 @@ const monsterCombatStats = [
   {
     "name": "Vampire Spawn",
     "ac": 15,
-    "hp": 91,
-    "init": 6,
-    "cr": 5.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/vampire_spawn_bf.html"
-  },
-  {
-    "name": "Vampire Spawn",
-    "ac": 15,
     "hp": 82,
     "init": 3,
     "cr": 5.0,
@@ -28434,10 +28424,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/vampire_spawn_mm_2024.html"
   },
   {
+    "name": "Vampire Spawn",
+    "ac": 15,
+    "hp": 91,
+    "init": 13,
+    "cr": 5.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/vampire_spawn_bf.html"
+  },
+  {
     "name": "Vampire Thrall",
     "ac": 13,
     "hp": 40,
-    "init": 5,
+    "init": 13,
     "cr": 1.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -28517,7 +28517,7 @@ const monsterCombatStats = [
     "name": "Velociraptor",
     "ac": 13,
     "hp": 25,
-    "init": 4,
+    "init": 13,
     "cr": 0.5,
     "type": "Beast",
     "source": "Black Flag",
@@ -28615,16 +28615,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Veteran",
-    "ac": 16,
-    "hp": 68,
-    "init": 2,
-    "cr": 3.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/veteran_bf.html"
-  },
-  {
-    "name": "Veteran",
     "ac": 17,
     "hp": 58,
     "init": 1,
@@ -28632,6 +28622,16 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "5.1 SRD (2015 MM)",
     "htmlLink": "./html/5.1_srd_(2015_mm)/veteran.html"
+  },
+  {
+    "name": "Veteran",
+    "ac": 16,
+    "hp": 68,
+    "init": 12,
+    "cr": 3.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/veteran_bf.html"
   },
   {
     "name": "Veteran Swordbreaker Skeleton",
@@ -28745,16 +28745,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Violet Fungus",
-    "ac": 10,
-    "hp": 14,
-    "init": 0,
-    "cr": 0.25,
-    "type": "Plant",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/violet_fungus_bf.html"
-  },
-  {
-    "name": "Violet Fungus",
     "ac": 5,
     "hp": 18,
     "init": -5,
@@ -28774,6 +28764,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/violet_fungus_mm_2024.html"
   },
   {
+    "name": "Violet Fungus",
+    "ac": 10,
+    "hp": 14,
+    "init": 6,
+    "cr": 0.25,
+    "type": "Plant",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/violet_fungus_bf.html"
+  },
+  {
     "name": "Virtuoso Lich",
     "ac": 17,
     "hp": 123,
@@ -28787,7 +28787,7 @@ const monsterCombatStats = [
     "name": "Virtuoso Lich",
     "ac": 17,
     "hp": 185,
-    "init": 7,
+    "init": 15,
     "cr": 12.0,
     "type": "Undead",
     "source": "Black Flag",
@@ -28886,16 +28886,6 @@ const monsterCombatStats = [
   {
     "name": "Vrock",
     "ac": 15,
-    "hp": 110,
-    "init": 5,
-    "cr": 6.0,
-    "type": "Fiend",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/vrock_bf.html"
-  },
-  {
-    "name": "Vrock",
-    "ac": 15,
     "hp": 104,
     "init": 2,
     "cr": 6.0,
@@ -28914,6 +28904,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/vrock_mm_2024.html"
   },
   {
+    "name": "Vrock",
+    "ac": 15,
+    "hp": 110,
+    "init": 16,
+    "cr": 6.0,
+    "type": "Fiend",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/vrock_bf.html"
+  },
+  {
     "name": "Vulture",
     "ac": 10,
     "hp": 4,
@@ -28922,16 +28922,6 @@ const monsterCombatStats = [
     "type": "Beast",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/vulture-a5e.html"
-  },
-  {
-    "name": "Vulture",
-    "ac": 10,
-    "hp": 8,
-    "init": 0,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/vulture_bf.html"
   },
   {
     "name": "Vulture",
@@ -28954,10 +28944,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/vulture_mm_2024.html"
   },
   {
+    "name": "Vulture",
+    "ac": 10,
+    "hp": 8,
+    "init": 13,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/vulture_bf.html"
+  },
+  {
     "name": "Vulture, Giant",
     "ac": 10,
     "hp": 46,
-    "init": 0,
+    "init": 13,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -29047,7 +29047,7 @@ const monsterCombatStats = [
     "name": "War Horse Skeleton",
     "ac": 13,
     "hp": 25,
-    "init": 1,
+    "init": 11,
     "cr": 0.5,
     "type": "Undead",
     "source": "Black Flag",
@@ -29266,16 +29266,6 @@ const monsterCombatStats = [
   {
     "name": "Water Elemental",
     "ac": 14,
-    "hp": 104,
-    "init": 2,
-    "cr": 5.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/water_elemental_bf.html"
-  },
-  {
-    "name": "Water Elemental",
-    "ac": 14,
     "hp": 114,
     "init": 2,
     "cr": 5.0,
@@ -29292,6 +29282,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/water_elemental_mm_2024.html"
+  },
+  {
+    "name": "Water Elemental",
+    "ac": 14,
+    "hp": 104,
+    "init": 13,
+    "cr": 5.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/water_elemental_bf.html"
   },
   {
     "name": "Water Horse",
@@ -29335,16 +29335,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Weasel",
-    "ac": 11,
-    "hp": 8,
-    "init": 1,
-    "cr": 0.0,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/weasel_bf.html"
-  },
-  {
-    "name": "Weasel",
     "ac": 13,
     "hp": 1,
     "init": 3,
@@ -29364,10 +29354,20 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/weasel_mm_2024.html"
   },
   {
+    "name": "Weasel",
+    "ac": 11,
+    "hp": 8,
+    "init": 13,
+    "cr": 0.0,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/weasel_bf.html"
+  },
+  {
     "name": "Weasel, Giant",
     "ac": 13,
     "hp": 14,
-    "init": 3,
+    "init": 13,
     "cr": 0.25,
     "type": "Beast",
     "source": "Black Flag",
@@ -29436,16 +29436,6 @@ const monsterCombatStats = [
   {
     "name": "Werebear",
     "ac": 10,
-    "hp": 126,
-    "init": 0,
-    "cr": 5.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/werebear_bf.html"
-  },
-  {
-    "name": "Werebear",
-    "ac": 10,
     "hp": 135,
     "init": 0,
     "cr": 5.0,
@@ -29464,6 +29454,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/werebear_mm_2024.html"
   },
   {
+    "name": "Werebear",
+    "ac": 10,
+    "hp": 126,
+    "init": 14,
+    "cr": 5.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/werebear_bf.html"
+  },
+  {
     "name": "Wereboar",
     "ac": 12,
     "hp": 78,
@@ -29472,16 +29472,6 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wereboar-a5e.html"
-  },
-  {
-    "name": "Wereboar",
-    "ac": 10,
-    "hp": 100,
-    "init": 0,
-    "cr": 4.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/wereboar_bf.html"
   },
   {
     "name": "Wereboar",
@@ -29502,6 +29492,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wereboar_mm_2024.html"
+  },
+  {
+    "name": "Wereboar",
+    "ac": 10,
+    "hp": 100,
+    "init": 12,
+    "cr": 4.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/wereboar_bf.html"
   },
   {
     "name": "Werehyena",
@@ -29536,16 +29536,6 @@ const monsterCombatStats = [
   {
     "name": "Wererat",
     "ac": 12,
-    "hp": 57,
-    "init": 4,
-    "cr": 2.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/wererat_bf.html"
-  },
-  {
-    "name": "Wererat",
-    "ac": 12,
     "hp": 33,
     "init": 2,
     "cr": 2.0,
@@ -29562,6 +29552,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wererat_mm_2024.html"
+  },
+  {
+    "name": "Wererat",
+    "ac": 12,
+    "hp": 57,
+    "init": 12,
+    "cr": 2.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/wererat_bf.html"
   },
   {
     "name": "Wereshark",
@@ -29586,16 +29586,6 @@ const monsterCombatStats = [
   {
     "name": "Weretiger",
     "ac": 12,
-    "hp": 95,
-    "init": 4,
-    "cr": 4.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/weretiger_bf.html"
-  },
-  {
-    "name": "Weretiger",
-    "ac": 12,
     "hp": 120,
     "init": 2,
     "cr": 4.0,
@@ -29614,6 +29604,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/weretiger_mm_2024.html"
   },
   {
+    "name": "Weretiger",
+    "ac": 12,
+    "hp": 95,
+    "init": 13,
+    "cr": 4.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/weretiger_bf.html"
+  },
+  {
     "name": "Werewolf",
     "ac": 12,
     "hp": 58,
@@ -29622,16 +29622,6 @@ const monsterCombatStats = [
     "type": "Humanoid",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/werewolf-a5e.html"
-  },
-  {
-    "name": "Werewolf",
-    "ac": 11,
-    "hp": 76,
-    "init": 1,
-    "cr": 3.0,
-    "type": "Humanoid",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/werewolf_bf.html"
   },
   {
     "name": "Werewolf",
@@ -29652,6 +29642,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/werewolf_mm_2024.html"
+  },
+  {
+    "name": "Werewolf",
+    "ac": 11,
+    "hp": 76,
+    "init": 12,
+    "cr": 3.0,
+    "type": "Humanoid",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/werewolf_bf.html"
   },
   {
     "name": "Werynax",
@@ -29706,16 +29706,6 @@ const monsterCombatStats = [
   {
     "name": "White Dragon Wyrmling",
     "ac": 16,
-    "hp": 54,
-    "init": 2,
-    "cr": 2.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/white_dragon_wyrmling_bf.html"
-  },
-  {
-    "name": "White Dragon Wyrmling",
-    "ac": 16,
     "hp": 32,
     "init": 0,
     "cr": 2.0,
@@ -29732,6 +29722,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/white_dragon_wyrmling_mm_2024.html"
+  },
+  {
+    "name": "White Dragon Wyrmling",
+    "ac": 16,
+    "hp": 54,
+    "init": 14,
+    "cr": 2.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/white_dragon_wyrmling_bf.html"
   },
   {
     "name": "White Stag",
@@ -29776,16 +29776,6 @@ const monsterCombatStats = [
   {
     "name": "Wight",
     "ac": 14,
-    "hp": 69,
-    "init": 2,
-    "cr": 3.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/wight_bf.html"
-  },
-  {
-    "name": "Wight",
-    "ac": 14,
     "hp": 45,
     "init": 2,
     "cr": 3.0,
@@ -29804,6 +29794,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/wight_mm_2024.html"
   },
   {
+    "name": "Wight",
+    "ac": 14,
+    "hp": 69,
+    "init": 13,
+    "cr": 3.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/wight_bf.html"
+  },
+  {
     "name": "Wild Sirocco",
     "ac": 13,
     "hp": 105,
@@ -29817,7 +29817,7 @@ const monsterCombatStats = [
     "name": "Wild Warrior",
     "ac": 12,
     "hp": 9,
-    "init": 0,
+    "init": 12,
     "cr": 0.125,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -29832,16 +29832,6 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "Tome of Beasts 3",
     "htmlLink": "./html/tome_of_beasts_3/wilderness-crone.html"
-  },
-  {
-    "name": "Will-o'-Wisp",
-    "ac": 17,
-    "hp": 31,
-    "init": 4,
-    "cr": 2.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/willowisp_bf.html"
   },
   {
     "name": "Will-o'-Wisp",
@@ -29862,6 +29852,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/willowisp_mm_2024.html"
+  },
+  {
+    "name": "Will-o'-Wisp",
+    "ac": 17,
+    "hp": 31,
+    "init": 13,
+    "cr": 2.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/willowisp_bf.html"
   },
   {
     "name": "Will-o-Wisp",
@@ -29976,16 +29976,6 @@ const monsterCombatStats = [
   {
     "name": "Winter Wolf",
     "ac": 13,
-    "hp": 76,
-    "init": 1,
-    "cr": 3.0,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/winter_wolf_bf.html"
-  },
-  {
-    "name": "Winter Wolf",
-    "ac": 13,
     "hp": 75,
     "init": 1,
     "cr": 3.0,
@@ -30002,6 +29992,16 @@ const monsterCombatStats = [
     "type": "Monstrosity",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/winter_wolf_mm_2024.html"
+  },
+  {
+    "name": "Winter Wolf",
+    "ac": 13,
+    "hp": 76,
+    "init": 15,
+    "cr": 3.0,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/winter_wolf_bf.html"
   },
   {
     "name": "Winterghast",
@@ -30096,16 +30096,6 @@ const monsterCombatStats = [
   {
     "name": "Wolf",
     "ac": 13,
-    "hp": 14,
-    "init": 2,
-    "cr": 0.25,
-    "type": "Beast",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/wolf_bf.html"
-  },
-  {
-    "name": "Wolf",
-    "ac": 13,
     "hp": 11,
     "init": 2,
     "cr": 0.25,
@@ -30124,6 +30114,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/wolf_mm_2024.html"
   },
   {
+    "name": "Wolf",
+    "ac": 13,
+    "hp": 14,
+    "init": 11,
+    "cr": 0.25,
+    "type": "Beast",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/wolf_bf.html"
+  },
+  {
     "name": "Wolf Reaver Dwarf",
     "ac": 16,
     "hp": 76,
@@ -30137,7 +30137,7 @@ const monsterCombatStats = [
     "name": "Wolf, Dire",
     "ac": 14,
     "hp": 40,
-    "init": 2,
+    "init": 13,
     "cr": 1.0,
     "type": "Beast",
     "source": "Black Flag",
@@ -30187,7 +30187,7 @@ const monsterCombatStats = [
     "name": "Wood Herald",
     "ac": 13,
     "hp": 27,
-    "init": 1,
+    "init": 11,
     "cr": 0.5,
     "type": "Plant",
     "source": "Black Flag",
@@ -30226,16 +30226,6 @@ const monsterCombatStats = [
   {
     "name": "Worg",
     "ac": 13,
-    "hp": 25,
-    "init": 1,
-    "cr": 0.5,
-    "type": "Monstrosity",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/worg_bf.html"
-  },
-  {
-    "name": "Worg",
-    "ac": 13,
     "hp": 26,
     "init": 1,
     "cr": 0.5,
@@ -30252,6 +30242,16 @@ const monsterCombatStats = [
     "type": "Fey",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/worg_mm_2024.html"
+  },
+  {
+    "name": "Worg",
+    "ac": 13,
+    "hp": 25,
+    "init": 14,
+    "cr": 0.5,
+    "type": "Monstrosity",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/worg_bf.html"
   },
   {
     "name": "Wormhearted Suffragan",
@@ -30285,16 +30285,6 @@ const monsterCombatStats = [
   },
   {
     "name": "Wraith",
-    "ac": 14,
-    "hp": 85,
-    "init": 4,
-    "cr": 5.0,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/wraith_bf.html"
-  },
-  {
-    "name": "Wraith",
     "ac": 13,
     "hp": 67,
     "init": 3,
@@ -30312,6 +30302,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wraith_mm_2024.html"
+  },
+  {
+    "name": "Wraith",
+    "ac": 14,
+    "hp": 85,
+    "init": 12,
+    "cr": 5.0,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/wraith_bf.html"
   },
   {
     "name": "Wraith Bear",
@@ -30347,7 +30347,7 @@ const monsterCombatStats = [
     "name": "Wyrdling",
     "ac": 12,
     "hp": 40,
-    "init": 2,
+    "init": 13,
     "cr": 1.0,
     "type": "Humanoid",
     "source": "Black Flag",
@@ -30362,16 +30362,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/wyvern-a5e.html"
-  },
-  {
-    "name": "Wyvern",
-    "ac": 13,
-    "hp": 147,
-    "init": 0,
-    "cr": 6.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/wyvern_bf.html"
   },
   {
     "name": "Wyvern",
@@ -30392,6 +30382,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/wyvern_mm_2024.html"
+  },
+  {
+    "name": "Wyvern",
+    "ac": 13,
+    "hp": 147,
+    "init": 14,
+    "cr": 6.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/wyvern_bf.html"
   },
   {
     "name": "Wyvern Knight",
@@ -30476,16 +30476,6 @@ const monsterCombatStats = [
   {
     "name": "Xorn",
     "ac": 19,
-    "hp": 111,
-    "init": 0,
-    "cr": 5.0,
-    "type": "Elemental",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/xorn_bf.html"
-  },
-  {
-    "name": "Xorn",
-    "ac": 19,
     "hp": 73,
     "init": 0,
     "cr": 5.0,
@@ -30502,6 +30492,16 @@ const monsterCombatStats = [
     "type": "Elemental",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/xorn_mm_2024.html"
+  },
+  {
+    "name": "Xorn",
+    "ac": 19,
+    "hp": 111,
+    "init": 16,
+    "cr": 5.0,
+    "type": "Elemental",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/xorn_bf.html"
   },
   {
     "name": "Yaga Goo",
@@ -30636,16 +30636,6 @@ const monsterCombatStats = [
   {
     "name": "Young Black Dragon",
     "ac": 18,
-    "hp": 136,
-    "init": 5,
-    "cr": 7.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_black_dragon_bf.html"
-  },
-  {
-    "name": "Young Black Dragon",
-    "ac": 18,
     "hp": 127,
     "init": 2,
     "cr": 7.0,
@@ -30664,6 +30654,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_black_dragon_mm_2024.html"
   },
   {
+    "name": "Young Black Dragon",
+    "ac": 18,
+    "hp": 136,
+    "init": 17,
+    "cr": 7.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_black_dragon_bf.html"
+  },
+  {
     "name": "Young Blue Dragon",
     "ac": 18,
     "hp": 152,
@@ -30672,16 +30672,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-blue-dragon-a5e.html"
-  },
-  {
-    "name": "Young Blue Dragon",
-    "ac": 18,
-    "hp": 175,
-    "init": 4,
-    "cr": 9.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_blue_dragon_bf.html"
   },
   {
     "name": "Young Blue Dragon",
@@ -30702,6 +30692,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_blue_dragon_mm_2024.html"
+  },
+  {
+    "name": "Young Blue Dragon",
+    "ac": 18,
+    "hp": 175,
+    "init": 19,
+    "cr": 9.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_blue_dragon_bf.html"
   },
   {
     "name": "Young Blue Dragon Zombie",
@@ -30736,16 +30736,6 @@ const monsterCombatStats = [
   {
     "name": "Young Brass Dragon",
     "ac": 17,
-    "hp": 119,
-    "init": 3,
-    "cr": 6.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_brass_dragon_bf.html"
-  },
-  {
-    "name": "Young Brass Dragon",
-    "ac": 17,
     "hp": 110,
     "init": 0,
     "cr": 6.0,
@@ -30764,6 +30754,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_brass_dragon_mm_2024.html"
   },
   {
+    "name": "Young Brass Dragon",
+    "ac": 17,
+    "hp": 119,
+    "init": 16,
+    "cr": 6.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_brass_dragon_bf.html"
+  },
+  {
     "name": "Young Bronze Dragon",
     "ac": 17,
     "hp": 152,
@@ -30772,16 +30772,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-bronze-dragon-a5e.html"
-  },
-  {
-    "name": "Young Bronze Dragon",
-    "ac": 18,
-    "hp": 148,
-    "init": 3,
-    "cr": 8.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_bronze_dragon_bf.html"
   },
   {
     "name": "Young Bronze Dragon",
@@ -30802,6 +30792,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_bronze_dragon_mm_2024.html"
+  },
+  {
+    "name": "Young Bronze Dragon",
+    "ac": 18,
+    "hp": 148,
+    "init": 17,
+    "cr": 8.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_bronze_dragon_bf.html"
   },
   {
     "name": "Young Cave Dragon",
@@ -30826,16 +30826,6 @@ const monsterCombatStats = [
   {
     "name": "Young Copper Dragon",
     "ac": 17,
-    "hp": 144,
-    "init": 4,
-    "cr": 7.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_copper_dragon_bf.html"
-  },
-  {
-    "name": "Young Copper Dragon",
-    "ac": 17,
     "hp": 119,
     "init": 1,
     "cr": 7.0,
@@ -30852,6 +30842,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_copper_dragon_mm_2024.html"
+  },
+  {
+    "name": "Young Copper Dragon",
+    "ac": 17,
+    "hp": 144,
+    "init": 17,
+    "cr": 7.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_copper_dragon_bf.html"
   },
   {
     "name": "Young Earth Dragon",
@@ -30896,16 +30896,6 @@ const monsterCombatStats = [
   {
     "name": "Young Gold Dragon",
     "ac": 18,
-    "hp": 193,
-    "init": 6,
-    "cr": 10.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_gold_dragon_bf.html"
-  },
-  {
-    "name": "Young Gold Dragon",
-    "ac": 18,
     "hp": 178,
     "init": 2,
     "cr": 10.0,
@@ -30924,6 +30914,16 @@ const monsterCombatStats = [
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_gold_dragon_mm_2024.html"
   },
   {
+    "name": "Young Gold Dragon",
+    "ac": 18,
+    "hp": 193,
+    "init": 22,
+    "cr": 10.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_gold_dragon_bf.html"
+  },
+  {
     "name": "Young Green Dragon",
     "ac": 17,
     "hp": 161,
@@ -30932,16 +30932,6 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "A5e Monstrous Menagerie",
     "htmlLink": "./html/a5e_monstrous_menagerie/young-green-dragon-a5e.html"
-  },
-  {
-    "name": "Young Green Dragon",
-    "ac": 18,
-    "hp": 148,
-    "init": 4,
-    "cr": 8.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_green_dragon_bf.html"
   },
   {
     "name": "Young Green Dragon",
@@ -30962,6 +30952,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_green_dragon_mm_2024.html"
+  },
+  {
+    "name": "Young Green Dragon",
+    "ac": 18,
+    "hp": 148,
+    "init": 17,
+    "cr": 8.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_green_dragon_bf.html"
   },
   {
     "name": "Young Imperial Dragon",
@@ -31006,16 +31006,6 @@ const monsterCombatStats = [
   {
     "name": "Young Red Dragon",
     "ac": 18,
-    "hp": 193,
-    "init": 4,
-    "cr": 10.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_red_dragon_bf.html"
-  },
-  {
-    "name": "Young Red Dragon",
-    "ac": 18,
     "hp": 178,
     "init": 0,
     "cr": 10.0,
@@ -31032,6 +31022,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_red_dragon_mm_2024.html"
+  },
+  {
+    "name": "Young Red Dragon",
+    "ac": 18,
+    "hp": 193,
+    "init": 18,
+    "cr": 10.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_red_dragon_bf.html"
   },
   {
     "name": "Young Red Dragon Zombie",
@@ -31096,16 +31096,6 @@ const monsterCombatStats = [
   {
     "name": "Young Silver Dragon",
     "ac": 18,
-    "hp": 175,
-    "init": 4,
-    "cr": 9.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_silver_dragon_bf.html"
-  },
-  {
-    "name": "Young Silver Dragon",
-    "ac": 18,
     "hp": 168,
     "init": 0,
     "cr": 9.0,
@@ -31122,6 +31112,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_silver_dragon_mm_2024.html"
+  },
+  {
+    "name": "Young Silver Dragon",
+    "ac": 18,
+    "hp": 175,
+    "init": 19,
+    "cr": 9.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_silver_dragon_bf.html"
   },
   {
     "name": "Young Spinosaurus",
@@ -31166,16 +31166,6 @@ const monsterCombatStats = [
   {
     "name": "Young White Dragon",
     "ac": 17,
-    "hp": 126,
-    "init": 3,
-    "cr": 6.0,
-    "type": "Dragon",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/young_white_dragon_bf.html"
-  },
-  {
-    "name": "Young White Dragon",
-    "ac": 17,
     "hp": 133,
     "init": 0,
     "cr": 6.0,
@@ -31192,6 +31182,16 @@ const monsterCombatStats = [
     "type": "Dragon",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/young_white_dragon_mm_2024.html"
+  },
+  {
+    "name": "Young White Dragon",
+    "ac": 17,
+    "hp": 126,
+    "init": 17,
+    "cr": 6.0,
+    "type": "Dragon",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/young_white_dragon_bf.html"
   },
   {
     "name": "Young Wind Dragon",
@@ -31316,16 +31316,6 @@ const monsterCombatStats = [
   {
     "name": "Zombie",
     "ac": 8,
-    "hp": 16,
-    "init": -2,
-    "cr": 0.25,
-    "type": "Undead",
-    "source": "Black Flag",
-    "htmlLink": "./html/black_flag/zombie_bf.html"
-  },
-  {
-    "name": "Zombie",
-    "ac": 8,
     "hp": 22,
     "init": -2,
     "cr": 0.25,
@@ -31342,6 +31332,16 @@ const monsterCombatStats = [
     "type": "Undead",
     "source": "5.2 SRD (2025 MM)",
     "htmlLink": "./html/5.2_srd_(2025_mm)/zombie_mm_2024.html"
+  },
+  {
+    "name": "Zombie",
+    "ac": 8,
+    "hp": 16,
+    "init": 10,
+    "cr": 0.25,
+    "type": "Undead",
+    "source": "Black Flag",
+    "htmlLink": "./html/black_flag/zombie_bf.html"
   },
   {
     "name": "Zombie Horde",
