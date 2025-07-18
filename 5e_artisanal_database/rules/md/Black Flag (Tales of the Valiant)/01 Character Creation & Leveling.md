@@ -207,6 +207,31 @@ Each spell you know and prepare is associated with one of your classes, and you 
 
 **Spell Slots.** Determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes. Use this total to determine your spell slots by consulting the **Multiclass Spellcaster** table.
 
+#### Multiclass Spellcaster: Spell Slots per Spell Circle
+
+| CHARACTER LEVEL | 1ST | 2ND | 3RD | 4TH | 5TH | 6TH | 7TH | 8TH | 9TH |
+|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1st            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd            | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4th            | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th            | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6th            | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th            | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th            | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th            | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th           | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th           | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th           | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+
 If you have more than one spellcasting class, this table might give you spell slots of a circle that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-circle spells. If a lower-circle spell that you cast, like burning hands, has an enhanced effect when cast using a higher-circle slot, you can use the enhanced effect, even though you don't have spells of that higher circle.
 
 For example, if you are a 4th-level ranger and 3rd level wizard, you count as a 5th-level character when determining your spell slots: you have four 1st-circle slots, three 2nd-circle slots, and two 3rd-circle slots. However, you don't know any 3rd-circle spells, nor do you know any 2nd-circle Primordial spells. You can use the spell slots of those circles to cast the spells you do know and potentially enhance their effects.

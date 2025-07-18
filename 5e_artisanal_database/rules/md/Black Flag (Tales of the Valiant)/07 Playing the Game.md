@@ -518,11 +518,15 @@ Damage types have no rules of their own, but other rules, such as damage resista
 
 **_Force._** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including magic missile and spiritual weapon.
 
-**_Lightning._** A lightning bolt spell and a blue dragon's breath deal lightning damage. Necrotic. Necrotic damage, dealt by certain Undead and a spell such as grave touch, withers matter and even the soul.
+**_Lightning._** A lightning bolt spell and a blue dragon's breath deal lightning damage.
+
+**_Necrotic._** Necrotic damage, dealt by certain Undead and a spell such as grave touch, withers matter and even the soul.
 
 **_Piercing._** Puncturing and impaling attacks, including spears and monster bites, deal piercing damage.
 
 **_Poison._** Venomous stings and the toxic gas of a green dragon's breath deal poison damage.
+
+**_Psychic._** Mental abilities or abilities that assault the mind, such as an aboleth's Psychic Bolt or a ghost's Horrify, deal psychic damage.
 
 **_Radiant._** Radiant damage, dealt by a cleric's flame strike spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power.
 

@@ -895,7 +895,21 @@ You have learned to harness the ambient energy of nature and can redirect that e
 
 _2nd, 6th, 13th, and 18th-Level Druid Feature_
 
-You gain the ability to channel energy directly from nature to produce effects beyond spells. You start with two effects: Beast Form and Draw Power. Some subclasses grant additional effects as you advance in levels, as noted in their descriptions. When you use your Wild Shape feature, simply choose which specific effect you want, such as Beast Form. Some of these effects require a save, and in those cases, the DC is equal to your druid spell save DC. Beginning at 2nd level, you can use your Wild Shape feature once until you finish a short or long rest, then twice between rests at 6th level, three times at 13th level, and four times at 18th level. When you finish a short or long rest, you regain all expended uses. Wild Shape: Beast Form As an action, you can magically assume the form of a Beast. When you first gain this feature, choose two Beasts of challenge rating (CR) 1/4 or less as your known forms. To select a known form, you must have seen or interacted with a Beast in your past. For example, a druid that hails from a desert environment is unlikely to be familiar enough with a sea-dwelling creature like a dolphin to select it as a known form. The Beast you choose can't have any legendary actions or lair actions. As you advance in druid levels, you can choose more beast forms as shown in the Beast Forms Known column of the Druid Progression table. When you gain a level of druid, you can replace one known form with a different form of your choosing. Any new form you choose must abide by the form restrictions. Wild Shape: Draw Power As a bonus action, you can reshape the natural energies around you to draw them within yourself and recharge your spellcasting ability. When you do so, choose a single expended Primordial spell slot to recover. The recovered spell slot must be of a circle equal to or less than your proficiency bonus (PB). For example, a 5th-level druid with a PB of +3 could recover an expended 1st, 2nd, or 3rd-circle Primordial spell slot with this feature. You can't use Draw Power while transformed by the Beast Form effect of your Wild Shape feature, even if you have multiple uses of Wild Shape available to expend.
+You gain the ability to channel energy directly from nature to produce effects beyond spells. You start with two effects: Beast Form and Draw Power. Some subclasses grant additional effects as you advance in levels, as noted in their descriptions. When you use your Wild Shape feature, simply choose which specific effect you want, such as Beast Form. Some of these effects require a save, and in those cases, the DC is equal to your druid spell save DC. Beginning at 2nd level, you can use your Wild Shape feature once until you finish a short or long rest, then twice between rests at 6th level, three times at 13th level, and four times at 18th level. When you finish a short or long rest, you regain all expended uses.
+
+#### Wild Shape: Beast Form
+
+As an action, you can magically assume the form of a Beast. When you first gain this feature, choose two Beasts of challenge rating (CR) 1/4 or less as your known forms. To select a known form, you must have seen or interacted with a Beast in your past. For example, a druid that hails from a desert environment is unlikely to be familiar enough with a sea-dwelling creature like a dolphin to select it as a known form. The Beast you choose can't have any legendary actions or lair actions. As you advance in druid levels, you can choose more beast forms as shown in the Beast Forms Known column of the Druid Progression table. When you gain a level of druid, you can replace one known form with a different form of your choosing. Any new form you choose must abide by the form restrictions.
+
+##### Rules of Transformation
+
+You can stay in a beast form for a number of hours equal to your PB. You then revert to your normal form unless you expend another use of Wild Shape. You can also choose to revert to your normal form as a bonus action. You automatically revert if you become unconscious, drop to 0 HP while in beast form, or die.
+
+While transformed, your game statistics are replaced by those of your new form, except you retain your INT, WIS, and CHA scores. You also retain your personality. If you make an ability check or save while in beast form, you can choose whether to use either your normal character proficiencies and PB or else use the Beast's listed ability modifier to determine the check total (without your PB in this case).
+
+#### Wild Shape: Draw Power
+
+As a bonus action, you can reshape the natural energies around you to draw them within yourself and recharge your spellcasting ability. When you do so, choose a single expended Primordial spell slot to recover. The recovered spell slot must be of a circle equal to or less than your proficiency bonus (PB). For example, a 5th-level druid with a PB of +3 could recover an expended 1st, 2nd, or 3rd-circle Primordial spell slot with this feature. You can't use Draw Power while transformed by the Beast Form effect of your Wild Shape feature, even if you have multiple uses of Wild Shape available to expend.
 
 ### Druid Subclass
 
@@ -3702,6 +3716,14 @@ At 1st level, choose three cantrips from the Arcane spell list to learn. You cho
 ##### Spellbook
 
 At 1st level, your spellbook contains six 1st-circle Arcane spells of your choice. It is the repository of all the Arcane spells you know - except for your cantrips, which are so simple and well - rehearsed that you don't even need to write them down.
+
+###### Your Spellbook
+
+The spells you automatically add to your spellbook as you gain levels reflect the spell research you conduct on your own. However, you might find other spells during your adventures.
+
+**Copying a Spell into the Book.** When you find an Arcane spell of 1st circle or higher, you can add it to your spellbook if it is of a spell circle you can prepare and if you can make time to decipher and copy it. For each circle of the spell, the process takes 2 hours and costs 50 gp.
+
+**Replacing the Book.** You can copy a spell from your own spellbook into another book. This is faster and easier since you understand your own notation and already know how to cast the copied spell. If you lose your spellbook, you can use the same procedure to transcribe the spells you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells, as normal.
 
 ##### Preparing Spells
 

@@ -110,7 +110,7 @@ Your character class defines what you must do to prepare spells and how many spe
 
 Some spellcasters can cast a simple type of spell called a cantrip. A caster can cast a cantrip without using a spell slot and without preparing it. Repeated practice has fixed the spell in the caster's mind and infused the caster with the energy needed to produce the effect on demand. A cantrip's spell circle is 0.
 
-Your character class defines whether you can access cantrips and how many cantrips you know at each class level.
+Your character class typically defines whether you can access cantrips and how many cantrips you know at each class level. Many cantrips increase in power as you do. **Regardless of how you have the cantrip (such as from a class or a talent), you use your character level, not your level in a spellcasting class, to determine the cantrip's power.**
 
 ## Rituals
 
