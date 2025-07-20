@@ -2007,7 +2007,7 @@ RPG tip: Ensure there's a purpose for a puzzle room. Most lichs likely don't bui
 RPG tip: Worry less about designing a location and its inhabitants around the current power level of the characters. Give them one that makes sense given the current story.
 RPG tip: Rule number one for running narrative combat: Help characters succeed with their intent.
 RPG tip: The general flow of narrative "theater of the mind" combat: describe the environment and situation, ask the player for their desire and intent, adjudicate the results favoring the character. Repeat.
-RPG tip: Let monsters act in a non-optimized way if the pace of battle calls for it. Just because a bully wig can swim doesn't mean players want to chase it for six rounds.
+RPG tip: Let monsters act in a non-optimized way if the pace of battle calls for it. Just because a bullywug can swim doesn't mean players want to chase it for six rounds.
 RPG tip: Above all, stay on time. Watch your time throughout the whole adventure. Let players end on a high note. Don't "call it right here".
 RPG tip: Its perfectly fine to play sub-optimally for the fun of the story and the pace of the game.
 RPG tip: Describe what the characters are seeing or what is happening to them before asking for a roll. Ask that players likewise describe their actions.
@@ -3793,3 +3793,440 @@ RPG tip: Bring old NPCs back and show how they’ve changed.
 RPG tip: Mix your adventure types. Dungeon crawls, heists, and intrigue all work together into a unique mashup of an adventure. 
 RPG tip: Give players the option to avoid monsters if desired. 
 RPG tip: Test future boss fights with similar but reskinned interim battles. 
+RPG tip: Mix your adventure types. Dungeon crawls, heists, and intrigue all work together into a unique mashup of an adventure. 
+RPG tip: Give players the option to avoid monsters if desired. 
+RPG tip: Test future boss fights with similar but reskinned interim battles. 
+RPG tip: Each session think about the hooks between each character and elements from the next adventure. 
+RPG tip: Give big monsters a way to threaten back-line characters. 
+RPG tip: Give characters a painful option to break out of effects that take away their actions. 
+RPG tip: Mix and match 5e elements from several published sourcebooks. 
+RPG tip: Bathe your dungeon crawl in interesting lore. 
+RPG tip: Challenge high level characters by attacking several points — AC, saves, death saves, exhaustion, hit points, cumulative -1 penalties, and so on.
+RPG tip: Build big arenas for big boss battles with interesting terrain and layers of monsters.
+RPG tip: Offer weapon enchantment gemstones any character can affix to a weapon or armor to make it magical.
+RPG tip: Let the characters glimpse their final villains. Make villains and boss monsters ever present.
+RPG tip: With six regular players and two on-call players, five people have to cancel before you can’t get four to the table for a game.
+RPG tip: Print maps, pen in one- or two-word room descriptions, and make a list of potential inhabitants.
+RPG tip: Roll up treasure horde parcels and jot them down in your notes. Distribute them when it makes sense.
+RPG tip: Offer opportunities for roleplaying even in the depths of the darkest dungeons. 
+RPG tip: Mix up battles with several smaller foes and fewer large foes. 
+RPG tip: Build encounters first from the fiction. What makes sense?
+RPG tip: Add motivation and distance rolls to random encounters for unique experiences. 
+RPG tip: Include interactive monuments in bigger battles. 
+RPG tip: Write down connections between the characters and the next session you’re running. 
+RPG tip: Single monsters are at a significant disadvantage against a group of characters. This gets worse the higher level the characters are.
+RPG tip: Give characters and players a warning when they’re facing a foe beyond their capabilities. 
+RPG tip: Use rolls for distance and motivation to change up random encounters. 
+RPG tip: Improvise connections between random encounters and the larger story through secrets and clues. 
+RPG tip: Build your own 5e from the sources that bring you the coolest options for your game. 
+RPG tip: Clarify options and choices. 
+RPG tip: Print maps, write down one- or two-word descriptions.  
+RPG tip: Build encounters, secrets, NPCs, monsters, and treasure from the characters outward.
+RPG tip: Skip scenes or locations if there’s no chance to learn something interesting or useful in them. 
+RPG tip: Spend time building and planning your big boss encounters. 
+RPG tip: Clarify choices. 
+RPG tip: Use the opportunity at your game to step away from real life and enjoy tales of high fantasy with your friends.
+RPG tip: Drop in potions or concoctions that let characters receive the equivalent of a long rest. 
+RPG tip: Challenge high level characters with waves of combatants —  hordes of low challenge monsters, a few even-power monsters, and huge heavy hitters. 
+RPG tip: Let players learn about changing circumstances through the dialog of their opponents.
+RPG tip: Make every character shine. 
+RPG tip: Lean into the characters’ BS. 
+RPG tip: Focus on enjoying spending time with your friends. 
+RPG tip: Run lots of monsters sub-optimally. 
+RPG tip: Add flavor and story every turn in combat. 
+RPG tip: Set up monsters to show off character abilities. 
+RPG tip: Build awesome boss fights with a variety of monsters, waves of combatants, cool environmental effects, and wild terrain. 
+RPG tip: At the end of your campaign, ask the characters to describe where their characters are one year later. Write down and share their stories. 
+RPG tip: Ask players what they want and where they want their characters to go as you close out your campaign. 
+RPG tip: Have players build characters together at a session zero so they can build their characters off of one another. 
+RPG tip: Mash up multiple encounters into one big fun complicated scene. 
+RPG tip: Build encounters around an interesting set piece or monument to define the physical location and give players something to play off of. 
+RPG tip: Keep track of current and previous NPCs in a big list with a name and a few descriptive words. 
+RPG tip: Roll a d20 to see how the lives of off-screen NPCs have been going. The higher the roll, the better things have been going for them.
+RPG tip: Read over your material just before running your game. 
+RPG tip: Give players plenty of time to build characters together at your session zero. 
+RPG tip: Run one scene to pull characters into the campaign at the end of your session zero. 
+RPG tip: Define clearly what sets your campaign apart to get players excited to play there. 
+RPG tip: Give players a choice of their group’s primary faction or patron. Use ranked-choice voting to determine the preferred patron. 
+RPG tip: Show pictures of important NPCs. 
+RPG tip: Build plots and conspiracies through the actions of NPCs. 
+RPG tip: Typical scenarios become unique with the lore and details you include. 
+RPG tip: Spread around the threat and damage in combat. 
+RPG tip: Keep the characters’ names in front of you. 
+RPG tip: Replace NPCs in published settings with those important to the characters or even the characters themselves. 
+RPG tip: Drop in magic items that fit the characters.
+RPG tip: Write down a quick summary of important events and where the session ended right after the game. 
+RPG tip: Keep two or three options in front of the characters. 
+RPG tip: Leave blanks. Let your players fill them in with their imaginations.
+RPG tip: Describe monsters, don't define monsters. A hulking behemoth covered in rough tattoos wielding an axe the size of a carriage door is far scarier than an ogre.
+RPG tip: Sandwich mechanics with fiction.
+RPG tip: Write down ten fictional characters you dig. Keep them handy as NPC archetypes. Change appearances and genders to keep them fresh.
+RPG tip: Use a mixture of theater of the mind, abstract combat, and tactical combat. Keep all the tools in your toolbox.
+RPG tip: Try using backdrop pictures in your VTT instead of grid-aligned battle maps.
+RPG tip: Write down the factions of your campaign setting. Roll on this list to flavor items, monuments, encounters, NPCs, quests, or situations.
+RPG tip: Show pictures of NPCs. 
+RPG tip: Tie loot to the story of the campaign. 
+RPG tip: Write down improvised NPC names. 
+RPG tip: Note new character features when they level up. 
+RPG tip: The smallest dungeon can have one open path and one secret path. 
+RPG tip: Roll for a monsters motivation. 
+RPG tip: Build handouts to focus both you and your players around the oncoming story. 
+RPG tip: Build a resilient group by having six full time players and two on call players. Run with as few as four and it takes five cancellations before you can’t run a game. 
+RPG tip: Build episodic campaigns like a tv serial so it doesn’t matter too much if a particular player can’t make it. 
+RPG tip: Keep lair-style adventures on hand for side quests and improvised sessions. 
+RPG tip: Describe, don’t define.
+RPG tip: Keep passive perceptions in front of you. Tell players what their characters see. 
+RPG tip: Add healing potions to loot hoards generously. 
+RPG tip: Tie NPCs the characters saved to more important NPCs so the players can see the benefits of their actions. 
+RPG tip: End sessions after the characters have chosen a clear path for the next. 
+RPG tip: Prep one scene per 45 minutes of gameplay. 
+RPG tip: Build scenes from fantastic locations, interesting NPCs, and intriguing secrets. 
+RPG tip: Try to include one battle, one roleplay scene, and some interesting exploration in a session. 
+RPG tip: Build secrets from the characters outwards. 
+RPG tip: Ask players what their characters’ dwelling is like. 
+RPG tip: Write down where your session ended and any major plot arcs or NPCs the characters met.
+RPG tip: End sessions after the characters have chosen a clear path for the next. 
+RPG tip: Prep one scene per 45 minutes of gameplay. 
+RPG tip: Build scenes from fantastic locations, interesting NPCs, and intriguing secrets. 
+RPG tip: Try to include one battle, one roleplay scene, and some interesting exploration in a session. 
+RPG tip: Build secrets from the characters outwards. 
+RPG tip: Ask players what their characters’ dwelling is like. 
+RPG tip: Write down where your session ended and any major plot arcs or NPCs the characters met.
+RPG tip: Know your players’ tolerance for tales of horror and gore.
+RPG tip: Ask yourself what worked well in your last game. What can be improved?
+RPG tip: Draw small maps on a dry-erase mat as players explore a dungeon. 
+RPG tip: Shake up your ideas with random tables. 
+RPG tip: Print and collect your favorite random tables from your most valued sources of such tables. 
+RPG tip: Write down notes at the end of the game you know you’ll need in your next game’s prep. 
+RPG tip: State clearly the goal and reward for the characters’ exploration.
+RPG tip: If players have a name for an NPC different from yours, go with theirs.
+RPG tip: Build NPCs from goals and motivations. Get into their heads and react as they would.
+RPG tip: Reskin monsters often to make each one unique. A simple skeleton can be a skeletal jailer with a cage over their skulls or a blackfire skeleton that does necrotic damage instead of piercing and slashing.
+RPG tip: Assume one scene for every 45 minutes of gameplay.
+RPG tip: Take breaks every 90 minutes or so.
+RPG tip: Leave time at the beginning and end of your game for chit-chat.
+RPG tip: Add environmental effects and options that showcase the characters and their abilities.
+RPG tip: Give two or three paths for longer journeys to adventure locations. 
+RPG tip: Break up travel with interesting encounters at fantastic locations. 
+RPG tip: Add interesting lore to typical random encounters. 
+RPG tip: Stage random encounters at notable locations. 
+RPG tip: Give the characters the latest news through town or city heralds. 
+RPG tip: Let the characters see the long term results of their heroic actions. 
+RPG tip: Give the characters a nice coffee shop they enjoy hanging out at between adventures. 
+RPG tip: Shake up adventure types across your campaign: dungeon crawls, infiltrations, investigations, intrigue, overland exploration, and so on. 
+RPG tip: Include upward beats in your dungeon crawls. 
+RPG tip: Plant future adventure seeds in your existing session. Outline three possible adventure options revealed and decided upon before the end of your next session. 
+RPG tip: Clarify where rests can take place and where they can’t. 
+RPG tip: Show pictures of NPCs. 
+RPG tip: Give characters a home base or common hangout. Don’t constantly threaten it. 
+RPG tip: Ask players how much leeway you have to integrate their backgrounds into the campaign. Don’t change a player’s character away from their intent. 
+RPG tip: Give enemies a story they can share during combat.
+RPG tip: Expose secrets and lore through ghosts, visions, mosaics, carvings, inscriptions, lost tomes, and the characters' own knowledge of history.
+RPG tip: Give bosses a finite number of "dark blessings" that let them break the rules but only a couple of times per battle – like super-legendary-resistances.
+RPG tip: Let bosses pull their underlings into attacks.
+RPG tip: Give bosses abilities to threaten all the characters in a fight.
+RPG tip: Run fights with multiple bosses at the same time.
+RPG tip: Notify players of upcoming downtime scenes.
+RPG tip: Give character-focused options for downtime activities. Warn them before the session begins.
+RPG tip: Ask players to talk about what new features they got when they level up.
+RPG tip: Mix multiple random encounters together.
+RPG tip: Use a table-less oracle die for distance, attitude, morale, weather severity and more. The lower the number, the less extreme.
+RPG tip: Draw quick maps on paper or dry-erase boards or mats to help players understand the situation.
+RPG tip: Add backgrounds and details to quest-giving NPCs. Names, intentions, etc.
+RPG tip: Write down notes during the game where you can keep track of them for your next session's prep – NPC names, where the game ended, and other details to help you prep the next session.
+RPG tip: Even if characters chase a red herring, give them something valuable for their effort.
+RPG tip: If a character fails the save to fall a great distance, give another character a chance to succeed on a check to catch them before they fall.
+RPG tip: Build musical playlists for relaxing, sinister, and combat music.
+RPG tip: Let your players know if they're at risk of missing something awesome.
+RPG tip: Add one secret tied to each character's story during your prep.
+RPG tip: Mix up monster types. Don't fill crypts with nothing but undead.
+RPG tip: Jot down three noteworthy features for larger locations. Use one feature for smaller rooms or chambers.
+RPG tip: Give the characters and players clear goals and meaningful options in open-ended situation-based adventures. 
+RPG tip: Gauge the types of interactions players are interested in while running situation-based adventures.
+RPG tip: Work with players to coordinate their activities in larger open situations.
+RPG tip: Prep a handful of solid NPCs the characters can meet in social interactions.
+RPG tip: Steer players towards the fun even if you have to just tell them where it is.
+RPG tip: Write notes during your game. Keep track of what's important to the players.
+RPG tip: After your game, evaluate what worked well and what could be improved.
+RPG tip: Track magic item rewards per character. Don’t let a character fall significantly behind. 
+RPG tip: Let random treasure tools inspire your own parcels and rewards. 
+RPG tip: Keep character names in front of you. Track turns even outside of combat. 
+RPG tip: Keep the lazy encounter benchmark on hand to tell you if a fight is way too difficult or not. A battle may be hard if the total of monster CRs is greater than one quarter of total character levels, or half of total character levels if the characters are 5th level or above. 
+RPG tip: Prep handouts and secret villain notes. Use them to keep yourself and your players focused. 
+RPG tip: Clarify goals in open situations, heists, or infiltration adventures. 
+RPG tip: Give characters a home base. 
+RPG tip: Bathe dungeons in layers of lore hidden behind the previous. 
+RPG tip: Give characters a customizable home base. 
+RPG tip: Write down NPC names of those associated with the characters 
+RPG tip: Drop in quick combat encounters in looser exploration and downtime scenes to focus peoples’ attention. 
+RPG tip: What cool magic item reinforces each character’s theme?
+RPG tip: Think of encounters as situations the characters can navigate instead of purely tactical combat encounters. 
+RPG tip: Write your own quick random lists to bring locations to life.
+RPG tip: Build layers of gods the characters can discover as they explore the world around them. 
+RPG tip: Improvise gods by shifting the names, appearances, genders, and domains of existing gods from fiction or history. 
+RPG tip: Study types of historical artwork and decorations to improvise such features in your game. 
+RPG tip: Lean in on the characters’ cool abilities. 
+RPG tip: Mix encounters so the characters discover two groups already in battle. 
+RPG tip: Mix roleplay, exploration, and combat even in the deepest dungeon. 
+RPG tip: Warn players that they might not have everything they need, should they have to backtrack in a dungeon. 
+RPG tip: Don’t start your game with a huge hard battle. It might wipe out your players’ energy just as things get started. 
+RPG tip: Give characters multiple paths to research problems and discover answers. 
+RPG tip: Abstract clues from their location and method of discovery. Improvise their discovery during the game. 
+RPG tip: Add meaningful choices to every scene. 
+RPG tip: Drop one interesting encounter in the middle of travel. 
+RPG tip: Roll and mix two random encounters together. 
+RPG tip: Use random encounters to show what passes by before.
+RPG tip: Reiterate lines and veils if your game head towards potentially sensitive areas like body horror or sexual intimacy. Peoples’ feelings may have changed since your session zero. 
+RPG tip: Stay in turn order, even outside of combat so you give everyone enough time in the spotlight.
+RPG tip: Give players' roles including quartermaster, cartographer, scribe, and caller.
+RPG tip: Two key pieces of dungeon-crawling structure: what is the marching order of the characters and who's maintaining light?
+RPG tip: Build a faction list unique for your campaign including gods, factions, historical figures, and campaign icons. Roll on this list to flavor items, monuments, and NPCs.
+RPG tip: Roll on behalf of characters when their character wouldn't know if they succeeded or not.
+RPG tip: Offer multiple paths and decisions as often as you can.
+RPG tip: Give seeds of clues even on low ability checks. 
+RPG tip: Use static initiative to better time and pace battles. 5 for slow, 10 for medium, and 15 for fast creatures. 
+RPG tip: Spread out combatants and clarify the distances if trying to avoid all the baddies getting nuked at once. 
+RPG tip: If a spell you’re not familiar with sounds too good to be true, it probably is. 
+RPG tip: Start your prep with a map of a cool location. Print it out. Jot down two word room descriptions. Put your strong start, secrets, NPCs, monsters, and treasure on the back. 
+RPG tip: A single sheet of paper is likely all you need for your prep notes. 
+RPG tip: Give monsters one cool trait to make them unique. 
+RPG tip: Mix easy encounters with hard encounters. Don’t always push PCs to the limit. 
+RPG tip: You don’t always have to call for an ability check. Sometimes characters just do it. 
+RPG tip: Add shortcuts to your dungeons so characters have an easy way to enter and exit big multi-level dungeons. 
+RPG tip: Visions or remnant illusions can show  moments of history long forgotten. 
+RPG tip: Know your wall decorations: mosaics, frescos, reliefs, friezes, murals, tapestries, engravings, marouflage, encaustic paintings. 
+RPG tip: Use waves of combatants to shake up challenging fights. 
+RPG tip: Tag improvised monsters with keywords that remind you of unique abilities like “life drain” or “necrotic blast” or “cunning action” or “pack tactics” or “reposte”.
+RPG tip: Give each improvised monster an interesting trait to define its story in mechanics.
+RPG tip: At 7th level, don't expect any single monster to bring a significant challenge unless it has legendary resistance.
+RPG tip: Prepare one major scene for every 45 minutes of gameplay.
+RPG tip: Show characters the breadth of cultures from the humanoid creatures they meet.
+RPG tip: Keep a list of names of previous NPCs you can quickly reference when an old NPC comes back into the spotlight.
+RPG tip: Let players level up characters together and discuss the new abilities they're considering.
+RPG tip: Build historical layers to your dungeons. What is it now? What did it used to be? And what before that?
+RPG tip: Keep character name names in front of you. Track turn order outside of combat to ensure players get their time in the spotlight. 
+RPG tip: Listen to audiobooks. Study the way the narrator changes voices to represent different characters.
+RPG tip: Break combat encounter locations into several zones. Give each zone an identifying monument or feature.
+RPG tip: Two simple words can increase the challenge of any comment encounter: more monsters.
+RPG tip: Ask for a marching order and a lighting situation anytime the characters delve into dungeons deep. 
+RPG tip: Roll twice on random encounter tables and combine the results to build a unique situation. 
+RPG tip: Roll two random encounters to show an encounter that took place before the characters arrived. This gives them an interesting investigation along their journey.
+RPG tip: Avoid damned-if-you-do, damned-if-you-don't choices too often. Offer choices with a clear gain.
+RPG tip: Limit source material to focus a campaign and make it unique among all others.
+RPG tip: Check in with players every few sessions to make sure it's headed the way everyone enjoys.
+RPG tip: Keep track of magic items distributed to which characters. Better yet, ask a player to quartermaster and post the distribution.
+RPG tip: Build characters from the story and situation first. Then measure against potentially deadly benchmarks.
+RPG tip: Index cards and a Pathfinder Basic Flip Mat are hard tools to beat for improvising your game.
+RPG tip: The d20 is a swingy die. Don't expect it to behave the way you want. Plan for and enjoy its high randomness.
+RPG tip: Make sure players are good with the controversial choices of the characters. 
+RPG tip: Avoid betraying NPCs. Use shady NPCs with valuable information instead. 
+RPG tip: Jot down the Lazy Encounter Benchmark during prep. Improv combat encounters during the game based on the unfolding situation. 
+RPG tip: Imagine your game as a pool table with characters and NPCs like the balls. Who knows where they’re going to end up until you hit them with your cue. 
+RPG tip: Keep a good list of NPCs in your session notes. Update it every session. 
+RPG tip: Print out maps, annotate one or two word descriptions on the rooms. 
+RPG tip: Take turns during downtime. Make sure everyone gets a chance to say what their character does.
+RPG tip: Aim for four players. 
+RPG tip: Get into the head of your NPCs. What do they want? What do they fear? What do they have to offer?
+RPG tip: Choose monsters based on the situation even if they’re really easy.
+RPG tip: Keep track of the magic items each character has. Review it when planning treasure in future adventures. 
+RPG tip: Keep a treasure parcel in your prep notes. Reward it, or pieces of it, when it makes sense. 
+RPG tip: Require exotic material rewards for crafting particular magic items. Now the exotic material becomes the reward. 
+RPG tip: Prepare for single big monsters to be banished or otherwise completely incapacitated when the characters reach 7th level or above. 
+RPG tip: Use static initiative of 10 + dex for monsters so some players go before them and some go after. 
+RPG tip: Use little adhesive tabs to bookmark monsters in your monster books. There’s no need to copy them elsewhere. 
+RPG tip: Staedler wet erase markers work very well on the Pathfinder basic flip mat. 
+RPG tip: Draw small maps so players can see what they’ve explored so far. 
+RPG tip: Use a mixture of random treasure and magic items selected for particular characters. Prep treasure parcels ahead of time. 
+RPG tip: Plan a strong start. What happens at the very beginning of your next session to draw players into the game?
+RPG tip: Prep what you need to help you improvise during your next session. 
+RPG tip: Set up locations and inhabitants separately. Let inhabitants move around depending on what happens. 
+RPG tip: Let the actions of the characters drive the story — not your initial big idea. 
+RPG tip: Go with the rule of cool. If it sounds cool, work to help it happen 
+RPG tip: Start with what makes sense in the world. Adjust towards what’s the most fun in the game. 
+RPG tip: Write down NPC names. 
+RPG tip: Write down where your session ended. 
+RPG tip: Think about each character during prep. What do they want? What story hooks do they have? What monsters do they like fighting? What magic items do they look forward to?
+RPG tip: Use your current favorite TV show as a collection of NPC archetypes. 
+RPG tip: Use Staedtler medium point wet erase markers on your Pathfinder basic flip mat. 
+RPG tip: Keep generic monster tokens on hand for improvised combat encounters. 
+RPG tip: Index cards are one of the most flexible and useful tools in TTRPGs. 
+RPG tip: Keep a list of the characters in front of you throughout your game. 
+RPG tip: Add a touch of variance to static monster damage by subtracting 3 and adding 1d6. 
+RPG tip: Use 10 + dex for static monster initiative. This way some players go before them and some go after.
+RPG tip: Include one or two social encounters in your list of potential dungeon encounters. 
+RPG tip: Run multiple bosses. 
+RPG tip: Avoid NPC betrayal. Make NPC motivations clear. 
+RPG tip: Customize every magic weapon or suit of armor. Add stories, themes, and single-use spell effects. 
+RPG tip: Include and reveal secret passages. 
+RPG tip: When running a session focused on a single character highlight others as well. 
+RPG tip: Break character and talk to your players about potential game-changing secret character decisions.
+RPG tip: Characters are the only sources of secrets you can guarantee.
+RPG tip: Let players know when boss monsters have legendary resistance or other ability breaking effects so they can make informed choices. 
+RPG tip: Replace legendary resistances with “dreadful blessings” that let powerful boss monsters break effects that ruin their place in the fiction. 
+RPG tip: Discovering traps is the fun part, not triggering them. 
+RPG tip: Get to decisions and actions quickly. Avoid long narratives. 
+RPG tip: Have players make choices for their next course before the end of your current session. 
+RPG tip: Avoid one-shotting characters to zero HP. Spread dangerous damage around.
+RPG tip: Ensure loot distribution is fair so players don’t feel left out. 
+RPG tip: Keep track of spells as rewards to wizards. 
+RPG tip: Offer two or three paths when traveling through the wilds or into the depths of the earth. 
+RPG tip: Ask the characters where their minds and conversations go as they rest around a campfire. 
+RPG tip: Keep good lists of random encounters handy during prep and play. 
+RPG tip: Ask for marching orders and who’s carrying a light during exploration. 
+RPG tip: Review character items, notable features, backgrounds, previous campfire tales, and player desires when you start your prep. 
+RPG tip: You don’t need to spell out every detail in a room. Let your players’ imaginations fill in the blanks. 
+RPG tip: Huge wheels, running water, and heat can power ancient machines for millennia. 
+RPG tip: Use adhesive tabs to mark important pages in your GM books you use at the table. 
+RPG tip: There’s no such thing as “official”. No single company holds a monopoly on good game design. Build your own game for your table from many sources. 
+RPG tip: Get used to averaging damage — for every two dice you subtract from a big pool of dice, add the max of one of those dice plus one to the static value. 8d8 becomes 36. 
+RPG tip: Add variance to static damage by subtracting 3 and adding 1d6. 
+RPG tip: Keep a good list of random names on hand. Write them down when you tie them to an NPC. This is one of the simplest examples of “preparing to improvise”.
+RPG tip: Keep your prep, your tools, and your game simple. Let it get complicated as the story evolves with your players. 
+RPG tip: List and refine your most useful tools for prep and play. 
+RPG tip: Ask for out of game feedback every few games. What do people like? What do they want to see more of?
+RPG tip: Trouble sleeping? Put yourself in your game’s world. What do you see? How is the world evolving?
+RPG tip: Who are your three main antagonists? What do they want? What three steps are they taking to get there?
+RPG tip: Draw mini-maps to show the characters’ progression through a dungeon. 
+RPG tip: Use a small fishing tackle box to hold minis, tokens, coins, markers, sticky tack, index cards, and other small things you use during your game.
+RPG tip: Break up long sequences of narration with clear opportunities for player-driven decisions. 
+RPG tip: Call for checks to keep things moving. 
+RPG tip: Let characters break out of debilitating effects by taking damage. 
+RPG tip: Know the purpose of an NPCs appearance. Why are they in the scene?
+RPG tip: Review your prep notes right before your game. 
+RPG tip: Break up a long series of roleplay scenes with exploration or combat.
+RPG tip: Offer multiple vertical connections between the levels of a big dungeon – sinkholes, collapsed floors, waterfalls, and, of course, staircases.
+RPG tip: Choose monsters that fit the story and environment. Wrap them in historical lore.
+RPG tip: Swarm characters with lots of one-  or two-hit low CR monsters. Let players enjoy their big area blasts.
+RPG tip: Include big brutes in battles who are intended to be banished or controlled.
+RPG tip: Give magic weapons or suit of armor a cool name, theme, history, and daily-use spell effect.
+RPG tip: Let mechanists and artificers understand how magical artifacts and arcane machines operate.
+RPG tip: Roll on behalf of characters attempting to detect traps so they don't know if they failed or if there was never a trap to begin with.
+RPG tip: Include several ways for characters to traverse a dungeon – vertical chutes, deep cracks, collapsed elevators, and so on.
+RPG tip: Give players a way to hack the dungeon. Secret passages, puzzle bypasses, ways to get the jump on bad guys.
+RPG tip: Set up a goal and a situation and let the story unfold during the game. 
+RPG tip: Avoid a series of hard combat encounters all in a row. 
+RPG tip: Improvise combat encounters by what makes sense in the story and then what is the most fun for the game.
+RPG tip: Tell the story of a location through the discoveries in each chamber. 
+RPG tip: Layer histories in your dungeons. What was it before? What is it now?
+RPG tip: Modify dungeons as you play should they overstay their welcome. Cut off hallways. Collapse chambers. Move things around. 
+RPG tip: Call on individual characters during online games. 
+RPG tip: Clarify options and ask for decisions from each player. 
+RPG tip: Assign a “caller” who gets consensus from the group. 
+RPG tip: Assign roles to players including scribe (game notes), cartographer (mapping), quartermaster (loot tracking), and caller (choice consensus). 
+RPG tip: Ensure each scene has choices and options for the characters’ approach. 
+RPG tip: Have characters describe their new features to the group on leveling up. 
+RPG tip: Keep narrative descriptions brief and focus quickly on the options in front of the characters.  
+RPG tip: Puzzles and riddles are like tapping out songs with your finger. They’re totally obvious to you and no one else has any idea what you’re talking about.
+RPG tip: Have at least two ways to get past a puzzle.
+RPG tip: How did the creator of a puzzle door use it themselves? Why did they lock their door with a Sudoku?
+RPG tip: Let players roll all their dice even if you know it’s a fatal blow. Don’t take away their fun with the math rocks. 
+RPG tip: If you love them and they do 52 damage, tell them the monster had only 51 hit points left. If you don’t love them, tell them their foe only had four. 
+RPG tip: Let players use character shenanigans during skill challenges. Don’t force them to just make ability checks the whole time.
+RPG tip: Add beneficial and detrimental environmental effects to get characters moving around the battlefield.
+RPG tip: When it works for pacing, have minions flee or die when their bosses drop. 
+RPG tip: Let some bosses suck the life out of minions for temporary hit points. 
+RPG tip: Show players how many legendary resistances or doom points a villain has so they can see their progress at eliminating them. 
+RPG tip: Give yourself a good 60 to 90 minutes to run a big boss fight.  
+RPG tip: Add interactive terrain and monuments to big boss battles. 
+RPG tip: Add 25% more HP to a boss for each extra character above four.
+RPG tip: Add roleplay or exploration scenes before a big boss fight where the characters can reduce the forces they have to fight. 
+RPG tip: Ensure characters have meaningful choices in every scene. 
+RPG tip: Build scenes from locations, inhabitants, and situations. 
+RPG tip: Be prepared for the characters to negotiate with even the worst villains. 
+RPG tip: Assign a quartermaster to keep track of all loot and who received it. Have them share a spreadsheet. 
+RPG tip: Give players additional roles like cartographer (mapper), quartermaster (loot tracker), scribe (note-taker), and caller (arbiter of choices). 
+RPG tip: Be ready for characters to bypass combat encounters through subterfuge or negotiation. 
+RPG tip: Use random tables during prep and play to shake up ideas and come up with unique situations. 
+RPG tip: Don’t be afraid to have out of game conversations about in-game character dynamics and relationships. 
+RPG tip: Let players retreat from battles gone wrong, escaping with any downed characters but with a potential story loss. 
+RPG tip: Run easy fights. 
+RPG tip: Use tools that help you improvise during the game. 
+RPG tip: Build battles first from what makes sense in the situation. Tune them for the fun of the game. 
+RPG tip: Have the outcome of a TPK in mind when running hard battles. Where does the story go if the characters all drop?
+RPG tip: Write a list of ten to twenty factions you can roll on to flavor items, monuments, and encounters. 
+RPG tip: Increase combat difficulty by adding more monsters. 
+RPG tip: Speed up combat by increasing damage and lowering hit points. 
+RPG tip: Let boss monsters spread damage to minions or suck out their souls for temporary hit points. 
+RPG tip: Expect and prepare for characters to focus on the boss in any boss encounter. 
+RPG tip: Limit long rests when needed through nightmares, premonitions, and unholy auras. “You will find monster until…”
+RPG tip: Build dynamic dungeons where multiple factions battle each other while the characters explore it. Let them hear the chaos and witness the aftermath in other chambers. 
+RPG tip: Flavor chambers with murals, frescoes, and bas reliefs revealing secrets and clues. 
+RPG tip: Can only a handful of players make your game? Run a one-shot game for a new system you’ve always wanted to try. 
+RPG tip: Beyond challenge rating, pay careful attention to the damage monsters put out, especially at first level. 
+RPG tip: Have six regular players and one or two “on call” players willing to jump in when there’s a seat free. Play with as few as three or four. 
+RPG tip: Run games weekly at the same time every week and play with whoever can make it. 
+RPG tip: Draw small dungeon maps on a Chessex or Paizo battle map as the players explore it. 
+RPG tip: Small fishing tackle boxes are a great way to store pencils, index cards, miniatures, tokens, and the other odds and ends you need to run a great game. 
+RPG tip: Run online games with a stack of independent pieces of software and physical books so you’re not dependent on a single online platform that can go down or change in ways you don’t like. 
+RPG tip: Try to ensure a single character doesn’t get pinned down and is unable to act in combat.
+RPG tip: Roll randomly for monster attacks when no path is clear. Also act towards the most fun for the group. 
+RPG tip: Avoid picking on any single character in combat unless they’re really asking for it. 
+RPG tip: Plan three options for the characters’ next quest. Offer them and get consensus on a single path before the end of your session. 
+RPG tip: Always aim towards character decisions and actions. What can they do?
+RPG tip: Write down one way to connect each character into the next session. 
+RPG tip: Focus adventures on goals, locations, and inhabitants. Make them direct, focused, and practical. 
+RPG tip: Keep basic monster stats on hand to improvise monsters during your game. 
+RPG tip: Simple 5e monster stats: AC / DC = 12 + 1/2 CR, HP = 15 to 20 per CR, Attack + Primary Save = 4 + 1/2 CR, Damage Per Round = 7 x CR. 
+RPG tip: During prep write down the Lazy Encounter Benchmark (https://slyflourish.com/the_lazy_encounter_benchmark.html) for a potentially deadly encounter and the max CR for any single monster. 
+RPG tip: Mix up easy combat encounters, roleplay scenes, exploration, and hard encounters. 
+RPG tip: When time is tight, cut from the boring middle instead of the exciting conclusion. 
+RPG tip: Bathe dungeons in multiple layers of history and purpose. 
+RPG tip: Know your wall decorations: murals, mosaics, frescoes, bas-reliefs, friezes, wax paintings, gilded engravings, and marouflage. 
+RPG tip: Tailor magic items for your characters. 
+RPG tip: Boss monsters almost always need some minions. 
+RPG tip: Assign hit points to detrimental monuments in complicated battles so they can destroyed with either ability checks or raw damage. Each successful ability check inflicts damage to the monument.  
+RPG tip: Keep the simple DC ladder in mind: easy 10, medium 15, hard 20. 
+RPG tip: Offer multiple options for the conclusion of big battles. Do they re-bind the pit friend? Do they kill him and send him back to hell? Do they convert the hellfire into a radiant pillar of holy light?
+RPG tip: Don’t offer options you don’t want the players to choose. 
+RPG tip: Plan one scene for every 45 minutes of gameplay.
+RPG tip: Keep a handle on combat pacing. Don’t just run one hard fight after another. 
+RPG tip: Have the characters walk in on the tail end of a battle between two other competing foes. 
+RPG tip: Give characters an opportunity for a long rest or an equivalent magical restoration service like a healing fountain. 
+RPG tip: Include multiple possible solutions to hard problems. 
+RPG tip: Keep a general gauge of hit points to damage in mind. Roughly how many hit points do the characters have? For 5e it’s roughly 7 x level + 3. 
+RPG tip: Include NPCs to roleplay with even in the darkest dungeons. 
+RPG tip: Offer multiple paths and secret paths to navigate complex dungeons. Offer enough details so players can make informed choices. RPG tip: Throw two or three different monster types at the characters for big battles. 
+RPG tip: Clarify how the characters can interact with objects in battle. 
+RPG tip: Let your players know when they’re about to jump into a big two hour fight. 
+RPG tip: Roll randomly to see which factions got the better of the others. 
+RPG tip: Prep three future quest paths. Have players choose before the end of a session so you know what to prep next. 
+RPG tip: Give the characters a chance to see old NPCs and what they’re up to now. 
+RPG tip: Keep an NPC list handy of the current and previous NPCs in your campaign.
+RPG tip: Drop in relaxed sessions where the characters can catch up with old NPCs, happens some time shopping, and maybe have a dinner party in their villa. 
+RPG tip: Join two encounters together and let the characters navigate the conflicted sides. 
+RPG tip: Roll randomly for three magic items for sale in larger towns. 
+RPG tip: Use baseline costs for magic items but change them up or down based on each items actual utility. 
+RPG tip: Give meaty battles a good hour of allocated time. 
+RPG tip: Always keep an eye on the clock. Manage your session's time. 
+RPG tip: Let campaigns grow from each adventure and the choices the players make in between. RPG tip: Corrupted versions of good-aligned monsters are a good way to use those monsters the characters might otherwise never fight. 
+RPG tip: On defeat, corrupted good-aligned monsters can reappear as friendly ghosts or become resurrected back to their friendly form. 
+RPG tip: Roll random loot and add in or modify results to fit the characters. 
+RPG tip: Add daily use spells to magical armor instead of plus bonuses to keep ACs reasonable but still provide cool effects. 
+RPG tip: Check the damage output of published 5e monsters. 7 damage per CR is a good general benchmark. 
+RPG tip: Reintroduce old friends. Let the characters see what became of the lives they’ve touched. 
+RPG tip: Small three-room dungeons are a fun way to spend an evening. Every dungeon need not be a sprawling megaplex. 
+RPG tip: Track damage done to monsters with Xs and slashes (\\). Each slash is five damage. Cross the slash into an X is ten damage. Keep a tally of extra damage separate.
+RPG tip: Introduce one character-focused location in any new town the characters visit.
+RPG tip: Offer a handful of options for downtime scenes.
+RPG tip: Tie the game's story and narrative to information the characters know or learn.
+RPG tip: Add high ground areas and cover for some tactical crunch in combat encounters.
+RPG tip: Build scenes during travel around monuments or other interesting backdrops.
+RPG tip: Add an extra mage if you have a character who loves to counterspell.
+RPG tip: Drop one interesting terrain feature to each big combat encounter. 
+RPG tip: Assign the role of “caller” to arbitrate group choices. Ensure they listen to other players and remain even-handed. 
+RPG tip: Let players engage in crazy ideas. Don’t punish them for it. 
+RPG tip: Avoid running too many hard battles. Give the characters a break. 
+RPG tip: End on cliffhangers.
+RPG tip: Strip your tools and prep down to the essentials. 
+RPG tip: Your prep notes serve you, no one else. 
+RPG tip: Keep a list of monsters in your prep notes the characters might encounter in your next session. Write down their page numbers.
+RPG tip: Spend time understanding the relationship between monster power and character power so you can better improvise combat encounters during the game.
+RPG tip: Ask players to let you know when they feel like they earned enough in-world knowledge to level up their characters.
+RPG tip: Mix easier encounters with hard encounters. Not every encounter needs to be a knock-down drag-out fight.
+RPG tip: Let players know what skills are likely more relevant for a given campaign.
+RPG tip: Ask players how their character learned of the information they received on a good ability check.
+RPG tip: Show characters the layers of history in the dungeon they explore.
+RPG tip: Keep the pace moving when a session tends to avoid combat. Move from scene to scene quickly to keep people engaged. 
+RPG tip: Set the stage, offer options. 
+RPG tip: Note dissenters to popular decisions, ensure they’re ok going forward anyway. 
+RPG tip: Give the characters the comfort of home every few sessions. 
