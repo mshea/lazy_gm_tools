@@ -16,7 +16,6 @@
 - **Damage Immunities:** cold, fire; nonmagic bludgeoning, piercing, and slashing attacks
 - **Condition Immunities:** charmed, frightened, paralyzed, poisoned
 - **Senses:** blindsight 90', passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

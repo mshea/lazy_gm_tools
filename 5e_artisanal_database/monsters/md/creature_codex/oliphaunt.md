@@ -13,7 +13,6 @@
 | 27 (+8) | 9 (-1) | 23 (+6) | 3 (-4) | 11 (+0) | 6 (-2) |
 
 - **Saving Throws**: Dex +2
-- **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** -
 

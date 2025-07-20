@@ -13,7 +13,6 @@
 | 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
 
 - **Saving Throws**: Int +7, Wis +6, Cha +7
-- **Skills:** 
 - **Damage Immunities:** fire
 - **Senses:** darkvision 120 ft., passive Perception 12
 - **Languages:** Ignan

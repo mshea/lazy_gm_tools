@@ -13,7 +13,6 @@
 | 6 (-2) | 18 (+4) | 18 (+4) | 11 (+0) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Dex +7, Wis +6
-- **Skills:** 
 - **Damage Immunities:** cold, necrotic, poison
 - **Damage Resistances:** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing damage from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained

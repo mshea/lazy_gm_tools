@@ -13,7 +13,6 @@
 | 21 (+5) | 13 (+1) | 18 (+4) | 8 (-1) | 10 (+0) | 7 (-2) |
 
 - **Saving Throws**: Dex +4, Con +7
-- **Skills:** 
 - **Damage Vulnerabilities:** radiant
 - **Damage Resistances:** cold
 - **Senses:** blindsight 90 ft. (blind beyond this radius), passive Perception 10

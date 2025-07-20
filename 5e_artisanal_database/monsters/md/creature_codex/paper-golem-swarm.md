@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 16 (+3) | 12 (+1) | 3 (-4) | 7 (-2) | 3 (-4) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned

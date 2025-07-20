@@ -15,7 +15,6 @@
 - **Skills:** athletics +7
 - **Damage Resistances:** bludgeoning, cold
 - **Senses:** passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

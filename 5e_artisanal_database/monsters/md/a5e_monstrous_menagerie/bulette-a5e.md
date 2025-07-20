@@ -15,7 +15,6 @@
 - **Saving Throws**: Int +-1
 - **Skills:** perception +3
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 13
-- **Languages:** 
 
 ### Special Abilities
 

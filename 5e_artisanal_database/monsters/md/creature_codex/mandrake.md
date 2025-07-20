@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 6 (-2) | 16 (+3) | 1 (-5) | 9 (-1) | 12 (+1) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** tremorsense 60 ft. (blind beyond this radius), passive Perception 9

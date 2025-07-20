@@ -16,7 +16,6 @@
 - **Damage Immunities:** acid, fire, poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

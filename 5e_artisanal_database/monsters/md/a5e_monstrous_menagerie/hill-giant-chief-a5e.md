@@ -13,7 +13,6 @@
 | 20 (+5) | 8 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 6 (-2) |
 
 - **Saving Throws**: Str +8, Con +7
-- **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** Giant
 

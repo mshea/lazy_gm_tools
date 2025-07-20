@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 24 (+7) | 13 (+1) | 21 (+5) | 4 (-3) | 10 (+0) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Immunities:** cold, fire
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
-- **Languages:** 
 
 ### Special Abilities
 

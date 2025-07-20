@@ -16,7 +16,6 @@
 - **Damage Immunities:** radiant
 - **Damage Resistances:** necrotic
 - **Senses:** tremorsense 30', passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

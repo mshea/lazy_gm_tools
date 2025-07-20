@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 17 (+3) | 4 (-3) | 12 (+1) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Resistances:** force, poison
 - **Senses:** darkvision 60 ft., passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

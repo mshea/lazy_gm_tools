@@ -13,7 +13,6 @@
 | 17 (+3) | 19 (+4) | 16 (+3) | 12 (+1) | 10 (+0) | 8 (-1) |
 
 - **Saving Throws**: Con +6, Wis +3
-- **Skills:** 
 - **Damage Vulnerabilities:** radiant
 - **Damage Resistances:** bludgeoning, cold
 - **Senses:** darkvision 60 ft., passive Perception 10

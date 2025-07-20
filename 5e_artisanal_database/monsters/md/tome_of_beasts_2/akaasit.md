@@ -12,12 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 18 (+4) | 14 (+2) | 3 (-4) | 10 (+0) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** piercing
 - **Condition Immunities:** blinded, charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** truesight 60 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

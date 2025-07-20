@@ -15,7 +15,6 @@
 - **Skills:** athletics +5, stealth +2
 - **Damage Resistances:** cold
 - **Senses:** tremorsense 30 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

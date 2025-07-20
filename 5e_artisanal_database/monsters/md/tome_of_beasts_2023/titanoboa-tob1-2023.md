@@ -15,7 +15,6 @@
 - **Saving Throws**: Dex +4, Wis +4
 - **Skills:** Perception +4
 - **Senses:** blindsight 10 ft., passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

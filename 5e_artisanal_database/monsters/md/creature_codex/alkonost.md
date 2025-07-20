@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 11 (+0) | 14 (+2) | 10 (+0) | 7 (-2) | 14 (+2) | 13 (+1) |
 
-- **Skills:** 
 - **Damage Resistances:** lightning
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Common

@@ -13,7 +13,6 @@
 | 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
 
 - **Saving Throws**: Dex +6, Con +5, Wis +5, Cha +6
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12

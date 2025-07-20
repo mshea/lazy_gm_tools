@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 17 (+3) | 13 (+1) | 3 (-4) | 8 (-1) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** slashing
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** bludgeoning and piercing from nonmagical attacks not made with adamantine

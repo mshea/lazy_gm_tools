@@ -13,7 +13,6 @@
 | 1 (-5) | 16 (+3) | 12 (+1) | 3 (-4) | 6 (-2) | 5 (-3) |
 
 - **Saving Throws**: Dex +5
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned, prone, unconscious
 - **Senses:** passive Perception 8

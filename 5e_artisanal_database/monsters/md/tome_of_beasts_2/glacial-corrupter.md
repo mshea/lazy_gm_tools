@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 13 (+1) | 18 (+4) | 6 (-2) | 8 (-1) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Immunities:** cold, poison
 - **Condition Immunities:** exhaustion, poisoned, petrified
 - **Senses:** darkvision 60 ft., passive Perception 9

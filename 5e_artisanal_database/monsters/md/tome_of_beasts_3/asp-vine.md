@@ -16,7 +16,6 @@
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** blinded, deafened, frightened
 - **Senses:** blindsight 30' (blind beyond), passive Perception 6
-- **Languages:** —
 
 ### Special Abilities
 

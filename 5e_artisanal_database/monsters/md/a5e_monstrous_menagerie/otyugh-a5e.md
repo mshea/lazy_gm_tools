@@ -13,7 +13,6 @@
 | 16 (+3) | 10 (+0) | 16 (+3) | 6 (-2) | 14 (+2) | 5 (-3) |
 
 - **Saving Throws**: Str +6, Con +6
-- **Skills:** 
 - **Senses:** darkvision 120 ft., passive Perception 12
 - **Languages:** telepathy 120 ft. (can transmit but not receive thoughts and images)
 

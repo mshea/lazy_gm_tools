@@ -12,12 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 6 (-2) | 17 (+3) | 1 (-5) | 12 (+1) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** necrotic, poison
 - **Condition Immunities:** blinded, charmed, deafened, frightened, poisoned
 - **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

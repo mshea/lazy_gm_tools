@@ -13,7 +13,6 @@
 | 12 (+1) | 20 (+5) | 16 (+3) | 14 (+2) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Con +7, Wis +7, Cha +8
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Condition Immunities:** blinded, deafened
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 13

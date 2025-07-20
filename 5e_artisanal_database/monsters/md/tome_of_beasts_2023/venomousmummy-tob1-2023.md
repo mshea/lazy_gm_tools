@@ -13,7 +13,6 @@
 | 16 (+3) | 8 (-1) | 15 (+2) | 7 (-2) | 10 (+0) | 14 (+2) |
 
 - **Saving Throws**: Wis +2
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks

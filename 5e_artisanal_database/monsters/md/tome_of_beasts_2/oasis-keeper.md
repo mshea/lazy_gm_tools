@@ -18,7 +18,6 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 20 ft., darkvision 60 ft., passive Perception 15
-- **Languages:** —
 
 ### Special Abilities
 

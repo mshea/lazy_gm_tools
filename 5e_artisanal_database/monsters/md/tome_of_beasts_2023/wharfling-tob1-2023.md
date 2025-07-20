@@ -14,7 +14,6 @@
 
 - **Skills:** Perception +3, Sleight of Hand +4
 - **Senses:** darkvision 60 ft., passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

@@ -14,7 +14,6 @@
 
 - **Skills:** perception +5
 - **Senses:** passive Perception 15
-- **Languages:** 
 
 ### Special Abilities
 

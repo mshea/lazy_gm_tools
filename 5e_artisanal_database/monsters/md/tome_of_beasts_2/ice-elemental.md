@@ -13,7 +13,6 @@
 | 18 (+4) | 9 (-1) | 19 (+4) | 5 (-3) | 14 (+2) | 6 (-2) |
 
 - **Saving Throws**: Str +7
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** cold, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks

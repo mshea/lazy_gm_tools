@@ -14,7 +14,6 @@
 
 - **Skills:** Acrobatics +5, Stealth +5
 - **Senses:** darkvision 60 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

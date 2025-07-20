@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 7 (-2) | 12 (+1) | 3 (-4) | 6 (-2) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** piercing and slashing from nonmagical attacks not made with adamantine
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 8 (-1) |
 
-- **Skills:** 
 - **Damage Immunities:** acid, cold, lightning, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

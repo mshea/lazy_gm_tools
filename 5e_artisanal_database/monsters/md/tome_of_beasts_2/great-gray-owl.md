@@ -15,7 +15,6 @@
 - **Saving Throws**: Dex +5, Wis +4
 - **Skills:** perception +4, stealth +5
 - **Senses:** darkvision 120 ft., passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

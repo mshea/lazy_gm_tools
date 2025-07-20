@@ -16,7 +16,6 @@
 - **Skills:** perception +1
 - **Damage Immunities:** acid, cold
 - **Senses:** blindsight 120', passive Perception 15
-- **Languages:** —
 
 ### Special Abilities
 

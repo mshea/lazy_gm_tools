@@ -15,7 +15,6 @@
 - **Skills:** stealth +4
 - **Damage Resistances:** damage from nonmagical weapons
 - **Senses:** darkvision 60 ft., passive Perception 12
-- **Languages:** 
 
 ### Special Abilities
 

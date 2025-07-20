@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 7 (-2) | 15 (+2) | 12 (+1) | 8 (-1) | 11 (+0) | 10 (+0) |
 
-- **Skills:** 
 - **Damage Immunities:** fire
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft., passive Perception 10

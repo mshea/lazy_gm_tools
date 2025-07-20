@@ -16,7 +16,6 @@
 - **Damage Immunities:** psychic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 20', passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

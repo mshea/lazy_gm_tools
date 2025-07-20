@@ -18,7 +18,6 @@
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** blinded, charmed, deafened, frightened, grappled, prone
 - **Senses:** tremorsense 60', passive Perception 7
-- **Languages:** —
 
 ### Special Abilities
 

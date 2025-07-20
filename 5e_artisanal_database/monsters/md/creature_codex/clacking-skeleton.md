@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 11 (+0) | 6 (-2) | 8 (-1) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** poison
 - **Condition Immunities:** exhaustion, poisoned

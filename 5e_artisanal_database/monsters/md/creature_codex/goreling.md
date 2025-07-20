@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 14 (+2) | 14 (+2) | 1 (-5) | 5 (-3) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 7

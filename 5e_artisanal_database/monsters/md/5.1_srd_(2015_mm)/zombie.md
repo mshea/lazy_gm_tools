@@ -13,7 +13,6 @@
 | 13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
 
 - **Saving Throws**: Wis +0
-- **Skills:** 
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 8
 - **Languages:** understands the languages it knew in life but can't speak

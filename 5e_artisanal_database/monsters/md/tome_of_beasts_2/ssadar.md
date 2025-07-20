@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 15 (+2) | 9 (-1) | 14 (+2) | 10 (+0) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 12

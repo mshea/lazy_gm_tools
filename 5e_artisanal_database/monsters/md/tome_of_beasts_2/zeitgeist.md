@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 17 (+3) | 18 (+4) | 16 (+3) | 12 (+1) | 10 (+0) | 6 (-2) |
 
-- **Skills:** 
 - **Damage Immunities:** psychic
 - **Condition Immunities:** exhaustion, frightened
 - **Senses:** passive Perception 10

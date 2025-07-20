@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 14 (+2) | 10 (+0) | 8 (-1) | 10 (+0) | 10 (+0) |
 
-- **Skills:** 
 - **Damage Immunities:** cold, fire
 - **Damage Resistances:** damage from nonmagical weapons
 - **Senses:** passive Perception 10

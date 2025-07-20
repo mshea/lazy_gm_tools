@@ -15,7 +15,6 @@
 - **Skills:** perception +1
 - **Condition Immunities:** blinded, deafened, prone
 - **Senses:** tremorsense 60', passive Perception 15
-- **Languages:** —
 
 ### Special Abilities
 

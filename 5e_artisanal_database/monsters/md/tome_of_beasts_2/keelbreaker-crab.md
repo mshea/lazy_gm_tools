@@ -14,7 +14,6 @@
 
 - **Skills:** perception +5, stealth +4
 - **Senses:** blindsight 60 ft., passive Perception 15
-- **Languages:** —
 
 ### Special Abilities
 

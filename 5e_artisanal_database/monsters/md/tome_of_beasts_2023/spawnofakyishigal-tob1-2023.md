@@ -13,7 +13,6 @@
 | 15 (+2) | 13 (+1) | 19 (+4) | 10 (+0) | 11 (+0) | 12 (+1) |
 
 - **Saving Throws**: Dex +4
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning
 - **Condition Immunities:** poisoned

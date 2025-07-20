@@ -15,7 +15,6 @@
 - **Saving Throws**: Wis +4
 - **Skills:** perception +4, stealth +6
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

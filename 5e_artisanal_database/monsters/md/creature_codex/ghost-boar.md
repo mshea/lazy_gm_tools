@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 16 (+3) | 7 (-2) | 12 (+1) | 7 (-2) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** understands Common but can't speak it
 

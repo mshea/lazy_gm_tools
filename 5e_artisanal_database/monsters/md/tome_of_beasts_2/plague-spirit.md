@@ -13,12 +13,10 @@
 | 10 (+0) | 18 (+4) | 17 (+3) | 2 (-4) | 18 (+4) | 16 (+3) |
 
 - **Saving Throws**: Dex +8, Wis +8
-- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, diseased, exhaustion, frightened, poisoned, unconscious
 - **Senses:** darkvision 120 ft., passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

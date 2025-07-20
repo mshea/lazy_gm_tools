@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 15 (+2) | 18 (+4) | 6 (-2) | 6 (-2) | 8 (-1) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Condition Immunities:** blinded, deafened
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8

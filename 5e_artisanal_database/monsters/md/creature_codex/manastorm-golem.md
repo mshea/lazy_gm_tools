@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 14 (+2) | 14 (+2) | 16 (+3) | 8 (-1) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Immunities:** acid, cold, fire, lightning, necrotic, poison, psychic, radiant, thunder
 - **Damage Resistances:** bludgeoning, piercing, and slashing from magical weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

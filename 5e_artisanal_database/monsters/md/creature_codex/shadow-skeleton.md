@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 16 (+3) | 15 (+2) | 9 (-1) | 11 (+0) | 9 (-1) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** fire, piercing, slashing
 - **Condition Immunities:** exhaustion, poisoned

@@ -15,7 +15,6 @@
 - **Skills:** athletics +5, perception +3, stealth +4
 - **Damage Resistances:** cold
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

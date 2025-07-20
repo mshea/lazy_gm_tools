@@ -16,7 +16,6 @@
 - **Damage Resistances:** fire, necrotic
 - **Condition Immunities:** blinded, deafened, frightened
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 9
-- **Languages:** —
 
 ### Special Abilities
 

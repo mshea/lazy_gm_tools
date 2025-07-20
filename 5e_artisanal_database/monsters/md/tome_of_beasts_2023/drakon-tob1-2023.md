@@ -16,7 +16,6 @@
 - **Damage Resistances:** acid
 - **Condition Immunities:** paralyzed
 - **Senses:** darkvision 60 ft., passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

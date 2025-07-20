@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 17 (+3) | 12 (+1) | 19 (+4) | 3 (-4) | 10 (+0) | 18 (+4) |
 
-- **Skills:** 
 - **Damage Immunities:** psychic
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** blinded, charmed, deafened, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned

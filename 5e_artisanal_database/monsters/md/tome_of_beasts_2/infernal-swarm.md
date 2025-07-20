@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 16 (+3) | 13 (+1) | 8 (-1) | 12 (+1) | 19 (+4) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** bludgeoning, cold, piercing, psychic, slashing

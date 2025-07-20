@@ -12,12 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 12 (+1) | 15 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 9
-- **Languages:** 
 
 ### Actions
 

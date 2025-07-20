@@ -16,7 +16,6 @@
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, frightened, grappled, prone, restrained, stunned
 - **Senses:** passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

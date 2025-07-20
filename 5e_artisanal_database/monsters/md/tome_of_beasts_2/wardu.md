@@ -13,7 +13,6 @@
 | 10 (+0) | 18 (+4) | 16 (+3) | 10 (+0) | 15 (+2) | 12 (+1) |
 
 - **Saving Throws**: Int +3, Cha +4
-- **Skills:** 
 - **Condition Immunities:** exhaustion, prone
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** understands Deep Speech but can’t speak, telepathy 60 ft.

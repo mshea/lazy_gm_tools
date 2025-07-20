@@ -13,7 +13,6 @@
 | 16 (+3) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 2 (-4) |
 
 - **Saving Throws**: Con +5
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, necrotic, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone

@@ -13,7 +13,6 @@
 | 11 (+0) | 17 (+3) | 16 (+3) | 10 (+0) | 8 (-1) | 15 (+2) |
 
 - **Saving Throws**: Dex +6, Wis +2
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** frightened, poisoned

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 10 (+0) | 6 (-2) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** thunder
 - **Damage Immunities:** poison
 - **Damage Resistances:** damage from nonmagical weapons

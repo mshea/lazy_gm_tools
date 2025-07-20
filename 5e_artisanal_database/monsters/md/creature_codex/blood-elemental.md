@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 13 (+1) | 18 (+4) | 5 (-3) | 10 (+0) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** poison
 - **Damage Immunities:** necrotic, psychic
 - **Damage Resistances:** acid, fire; bludgeoning, piercing, and slashing from nonmagical attacks

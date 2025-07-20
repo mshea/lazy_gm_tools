@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 14 (+2) | 17 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Resistances:** bludgeoning
 - **Senses:** blindsight 60 ft., passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

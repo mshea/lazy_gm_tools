@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 17 (+3) | 16 (+3) | 8 (-1) | 7 (-2) | 18 (+4) |
 
-- **Skills:** 
 - **Damage Resistances:** psychic
 - **Condition Immunities:** charmed
 - **Senses:** passive Perception 8

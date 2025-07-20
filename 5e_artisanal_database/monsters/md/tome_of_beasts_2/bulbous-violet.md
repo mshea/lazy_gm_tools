@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 14 (+2) | 13 (+1) | 2 (-4) | 10 (+0) | 2 (-4) |
 
-- **Skills:** 
 - **Damage Immunities:** acid
 - **Senses:** passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

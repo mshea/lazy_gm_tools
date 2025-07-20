@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 13 (+1) | 16 (+3) | 9 (-1) | 11 (+0) | 10 (+0) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Common, Trollkin
 

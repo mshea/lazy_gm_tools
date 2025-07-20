@@ -17,7 +17,6 @@
 - **Damage Immunities:** acid, cold, fire
 - **Condition Immunities:** blinded, prone
 - **Senses:** blindsight 60' (blind beyond), tremorsense 60', passive Perception 18
-- **Languages:** —
 
 ### Special Abilities
 

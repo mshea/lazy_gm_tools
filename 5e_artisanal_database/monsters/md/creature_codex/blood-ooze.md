@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 6 (-2) | 18 (+4) | 1 (-5) | 8 (-1) | 2 (-4) |
 
-- **Skills:** 
 - **Damage Immunities:** acid, fire, necrotic, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 9

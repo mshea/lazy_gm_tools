@@ -17,7 +17,6 @@
 - **Damage Resistances:** cold, fire, piercing
 - **Condition Immunities:** blinded, deafened, fatigue
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 11
-- **Languages:** 
 
 ### Special Abilities
 

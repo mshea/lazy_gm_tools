@@ -13,7 +13,6 @@
 | 20 (+5) | 16 (+3) | 22 (+6) | 20 (+5) | 16 (+3) | 16 (+3) |
 
 - **Saving Throws**: Str +10, Con +11, Int +10, Wis +8, Cha +8
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned

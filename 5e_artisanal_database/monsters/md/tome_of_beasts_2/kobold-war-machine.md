@@ -18,7 +18,6 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

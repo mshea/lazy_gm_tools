@@ -16,7 +16,6 @@
 - **Damage Immunities:** thunder
 - **Damage Resistances:** slashing from nonmagical attacks
 - **Senses:** blindsight 30', passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

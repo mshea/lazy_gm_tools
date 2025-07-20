@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 8 (-1) | 18 (+4) | 2 (-4) | 6 (-2) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** lightning
 - **Damage Immunities:** acid, fire
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks

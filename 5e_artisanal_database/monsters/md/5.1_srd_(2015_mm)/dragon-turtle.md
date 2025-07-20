@@ -13,7 +13,6 @@
 | 25 (+7) | 10 (+0) | 20 (+5) | 10 (+0) | 12 (+1) | 12 (+1) |
 
 - **Saving Throws**: Dex +6, Con +11, Wis +7
-- **Skills:** 
 - **Damage Resistances:** fire
 - **Senses:** darkvision 120 ft., passive Perception 11
 - **Languages:** Aquan, Draconic

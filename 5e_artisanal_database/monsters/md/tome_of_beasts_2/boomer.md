@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 (-5) | 1 (-5) | 12 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Immunities:** thunder
 - **Condition Immunities:** blinded, deafened, frightened
 - **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 6
-- **Languages:** —
 
 ### Special Abilities
 

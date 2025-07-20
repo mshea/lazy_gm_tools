@@ -13,7 +13,6 @@
 | 21 (+5) | 11 (+0) | 19 (+4) | 9 (-1) | 15 (+2) | 5 (-3) |
 
 - **Saving Throws**: Dex +4
-- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

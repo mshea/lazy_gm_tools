@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 12 (+1) | 13 (+1) | 3 (-4) | 10 (+0) | 14 (+2) |
 
-- **Skills:** 
 - **Damage Immunities:** psychic
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, petrified, poisoned, prone, stunned

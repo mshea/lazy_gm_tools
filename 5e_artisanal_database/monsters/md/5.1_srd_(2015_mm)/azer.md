@@ -13,7 +13,6 @@
 | 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
 
 - **Saving Throws**: Con +4
-- **Skills:** 
 - **Damage Immunities:** fire, poison
 - **Condition Immunities:** poisoned
 - **Senses:** passive Perception 11

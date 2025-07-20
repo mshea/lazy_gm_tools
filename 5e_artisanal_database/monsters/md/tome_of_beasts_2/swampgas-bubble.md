@@ -12,12 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 7 (-2) | 18 (+4) | 1 (-5) | 10 (+0) | 3 (-4) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** bludgeoning, poison
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

@@ -18,7 +18,6 @@
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 16
-- **Languages:** —
 
 ### Special Abilities
 

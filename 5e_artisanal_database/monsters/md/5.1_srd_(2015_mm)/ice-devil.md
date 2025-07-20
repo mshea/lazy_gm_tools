@@ -13,7 +13,6 @@
 | 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
 
 - **Saving Throws**: Dex +7, Con +9, Wis +7, Cha +9
-- **Skills:** 
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** poisoned

@@ -15,7 +15,6 @@
 - **Skills:** perception +4
 - **Condition Immunities:** petrified
 - **Senses:** darkvision 60 ft., passive Perception 14
-- **Languages:** 
 
 ### Special Abilities
 

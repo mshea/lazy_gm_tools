@@ -16,7 +16,6 @@
 - **Damage Immunities:** cold
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 90 ft., passive Perception 16
-- **Languages:** —
 
 ### Special Abilities
 

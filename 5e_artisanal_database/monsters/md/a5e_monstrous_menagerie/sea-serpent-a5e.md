@@ -13,9 +13,7 @@
 | 28 (+9) | 10 (+0) | 22 (+6) | 4 (-3) | 14 (+2) | 8 (-1) |
 
 - **Saving Throws**: Dex +5, Con +11, Int +2, Wis +7, Cha +4
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 12
-- **Languages:** 
 
 ### Special Abilities
 

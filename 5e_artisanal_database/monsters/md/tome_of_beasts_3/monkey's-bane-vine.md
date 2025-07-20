@@ -16,7 +16,6 @@
 - **Damage Resistances:** cold, fire
 - **Condition Immunities:** blinded, deafened, exhaustion, prone
 - **Senses:** blindsight 30', passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

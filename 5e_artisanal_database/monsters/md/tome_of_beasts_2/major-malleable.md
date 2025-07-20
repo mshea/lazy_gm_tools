@@ -13,7 +13,6 @@
 | 22 (+6) | 8 (-1) | 17 (+3) | 19 (+4) | 16 (+3) | 10 (+0) |
 
 - **Saving Throws**: Int +8, Wis +7, Cha +4
-- **Skills:** 
 - **Damage Immunities:** psychic
 - **Condition Immunities:** blinded, prone
 - **Senses:** blindsight 90 ft. (blind beyond this radius), passive Perception 13

@@ -12,9 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 9 (-1) | 17 (+3) | 3 (-4) | 11 (+0) | 6 (-2) |
 
-- **Skills:** 
 - **Senses:** passive Perception 10
-- **Languages:** 
 
 ### Special Abilities
 

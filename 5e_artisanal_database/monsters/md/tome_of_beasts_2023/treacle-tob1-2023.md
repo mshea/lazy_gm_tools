@@ -14,7 +14,6 @@
 
 - **Skills:** Deception +4
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 5
-- **Languages:** —
 
 ### Special Abilities
 

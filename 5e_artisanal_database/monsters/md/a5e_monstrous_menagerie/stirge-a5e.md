@@ -12,9 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 4 (-3) | 16 (+3) | 10 (+0) | 2 (-4) | 8 (-1) | 4 (-3) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 9
-- **Languages:** 
 
 ### Actions
 

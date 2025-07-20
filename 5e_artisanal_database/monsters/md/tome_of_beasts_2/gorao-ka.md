@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 11 (+0) | 13 (+1) | 15 (+2) | 17 (+3) | 15 (+2) |
 
-- **Skills:** 
 - **Senses:** passive Perception 13
 - **Languages:** Common, Sylvan
 

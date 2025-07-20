@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 14 (+2) | 10 (+0) | 14 (+2) | 14 (+2) | 10 (+0) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** psychic
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** understands Common and Undercommon but can't speak, telepathy 60 ft.

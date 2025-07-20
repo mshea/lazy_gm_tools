@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 23 (+6) | 3 (-4) | 20 (+5) | 1 (-5) | 10 (+0) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Immunities:** lightning
 - **Damage Resistances:** acid, fire, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone

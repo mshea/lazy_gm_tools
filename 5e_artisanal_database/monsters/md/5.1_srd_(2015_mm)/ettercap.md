@@ -14,7 +14,6 @@
 
 - **Skills:** perception +3, stealth +4, survival +3
 - **Senses:** darkvision 60 ft., passive Perception 13
-- **Languages:** 
 
 ### Special Abilities
 

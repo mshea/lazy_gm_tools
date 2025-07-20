@@ -12,13 +12,11 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 8 (-1) | 15 (+2) | 3 (-4) | 13 (+1) | 4 (-3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

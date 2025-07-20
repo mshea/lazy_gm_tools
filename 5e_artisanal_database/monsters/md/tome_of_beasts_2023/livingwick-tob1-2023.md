@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 10 (+0) | 10 (+0) | 5 (-3) | 5 (-3) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 8 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Immunities:** lightning, poison; damage from nonmagical, non-adamantine weapons
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10

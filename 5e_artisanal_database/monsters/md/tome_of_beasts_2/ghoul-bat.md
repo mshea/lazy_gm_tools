@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 16 (+3) | 11 (+0) | 8 (-1) | 12 (+1) | 10 (+0) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** blindsight 60 ft., passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

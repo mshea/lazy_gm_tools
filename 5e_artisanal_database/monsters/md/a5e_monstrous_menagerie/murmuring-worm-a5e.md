@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 12 (+1) | 20 (+5) | 8 (-1) | 14 (+2) | 18 (+4) |
 
-- **Skills:** 
 - **Damage Immunities:** psychic
 - **Condition Immunities:** prone
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 12
-- **Languages:** 
 
 ### Special Abilities
 

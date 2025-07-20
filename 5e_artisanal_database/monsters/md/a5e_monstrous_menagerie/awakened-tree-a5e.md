@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 6 (-2) | 14 (+2) | 10 (+0) | 10 (+0) | 10 (+0) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning, piercing
 - **Senses:** passive Perception 10

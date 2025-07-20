@@ -13,10 +13,8 @@
 | 22 (+6) | 12 (+1) | 20 (+5) | 4 (-3) | 12 (+1) | 5 (-3) |
 
 - **Saving Throws**: Int +1, Wis +5
-- **Skills:** 
 - **Damage Immunities:** cold, fire
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
-- **Languages:** 
 
 ### Special Abilities
 

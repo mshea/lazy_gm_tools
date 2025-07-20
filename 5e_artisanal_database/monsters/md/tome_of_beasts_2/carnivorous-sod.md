@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 6 (-2) | 12 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** blinded, deafened, poisoned
 - **Senses:** blindsight 30 ft., tremorsense 60 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

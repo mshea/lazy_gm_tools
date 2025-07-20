@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 8 (-1) | 20 (+5) | 12 (+1) | 20 (+5) | 12 (+1) |
 
-- **Skills:** 
 - **Damage Resistances:** bludgeoning, piercing
 - **Senses:** darkvision 60 ft., passive Perception 15
 - **Languages:** Common, Druidic, Elvish, Sylvan

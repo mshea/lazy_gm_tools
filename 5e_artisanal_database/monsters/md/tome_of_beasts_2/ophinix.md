@@ -15,7 +15,6 @@
 - **Skills:** perception +3, stealth +5
 - **Damage Immunities:** lightning
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

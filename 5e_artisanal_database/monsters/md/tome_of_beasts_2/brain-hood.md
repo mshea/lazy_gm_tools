@@ -13,7 +13,6 @@
 | 4 (-3) | 16 (+3) | 14 (+2) | 17 (+3) | 15 (+2) | 10 (+0) |
 
 - **Saving Throws**: Dex +5
-- **Skills:** 
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 12

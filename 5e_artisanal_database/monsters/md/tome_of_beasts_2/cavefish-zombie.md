@@ -13,7 +13,6 @@
 | 15 (+2) | 10 (+0) | 16 (+3) | 3 (-4) | 6 (-2) | 3 (-4) |
 
 - **Saving Throws**: Wis +0
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 8

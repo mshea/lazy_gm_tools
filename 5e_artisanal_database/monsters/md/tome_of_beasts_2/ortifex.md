@@ -13,7 +13,6 @@
 | 17 (+3) | 10 (+0) | 15 (+2) | 8 (-1) | 13 (+1) | 12 (+1) |
 
 - **Saving Throws**: Con +4, Wis +3
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 11

@@ -18,7 +18,6 @@
 - **Damage Resistances:** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** passive Perception 13
-- **Languages:** 
 
 ### Special Abilities
 

@@ -18,7 +18,6 @@
 - **Damage Resistances:** nonmagic B/P/S attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** truesight 60', passive Perception 17
-- **Languages:** —
 
 ### Special Abilities
 

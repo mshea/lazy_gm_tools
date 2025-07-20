@@ -14,7 +14,6 @@
 
 - **Skills:** athletics +8, perception +4
 - **Senses:** darkvision 60 ft., passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

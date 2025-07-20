@@ -12,12 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 10 (+0) | 19 (+4) | 4 (-3) | 10 (+0) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** piercing
 - **Damage Resistances:** acid, thunder
 - **Condition Immunities:** blinded
 - **Senses:** blindsight 120 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

@@ -16,7 +16,6 @@
 - **Damage Vulnerabilities:** fire
 - **Condition Immunities:** prone
 - **Senses:** blindsight 90' (blind beyond), tremorsense 30', passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

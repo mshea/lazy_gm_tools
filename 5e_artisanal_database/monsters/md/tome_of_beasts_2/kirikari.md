@@ -16,7 +16,6 @@
 - **Damage Immunities:** acid, poison
 - **Condition Immunities:** poisoned
 - **Senses:** tremorsense 60 ft., passive Perception 16
-- **Languages:** —
 
 ### Special Abilities
 

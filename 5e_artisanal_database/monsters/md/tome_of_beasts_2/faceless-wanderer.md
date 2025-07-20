@@ -13,7 +13,6 @@
 | 12 (+1) | 17 (+3) | 14 (+2) | 16 (+3) | 12 (+1) | 10 (+0) |
 
 - **Saving Throws**: Wis +3
-- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** cold
 - **Condition Immunities:** blinded, exhaustion, poisoned, prone

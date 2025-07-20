@@ -13,7 +13,6 @@
 | 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
 
 - **Saving Throws**: Dex +6, Wis +7, Cha +9
-- **Skills:** 
 - **Damage Immunities:** lightning, thunder
 - **Senses:** darkvision 120 ft., passive Perception 13
 - **Languages:** Auran, Common, Ignan

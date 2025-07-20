@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 17 (+3) | 16 (+3) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, paralyzed, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 13

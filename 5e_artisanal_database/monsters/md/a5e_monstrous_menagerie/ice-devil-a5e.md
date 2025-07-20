@@ -13,7 +13,6 @@
 | 20 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Dex +6, Con +8, Wis +7, Cha +8
-- **Skills:** 
 - **Damage Immunities:** cold, fire, poison
 - **Damage Resistances:** damage from nonmagical, non-silvered weapons
 - **Condition Immunities:** poisoned

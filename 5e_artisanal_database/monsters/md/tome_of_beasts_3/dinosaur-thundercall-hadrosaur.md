@@ -17,7 +17,6 @@
 - **Damage Resistances:** thunder
 - **Condition Immunities:** deafened
 - **Senses:** passive Perception 15
-- **Languages:** —
 
 ### Special Abilities
 

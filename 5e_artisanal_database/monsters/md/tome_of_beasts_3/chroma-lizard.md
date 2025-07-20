@@ -15,7 +15,6 @@
 - **Skills:** perception +0
 - **Damage Resistances:** radiant
 - **Senses:** passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

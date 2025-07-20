@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 16 (+3) | 15 (+2) | 10 (+0) | 11 (+0) | 17 (+3) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, paralyzed, petrified, poisoned, unconscious

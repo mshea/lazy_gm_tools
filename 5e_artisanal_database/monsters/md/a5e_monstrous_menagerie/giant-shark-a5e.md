@@ -14,7 +14,6 @@
 
 - **Skills:** perception +3
 - **Senses:** blindsight 60 ft., passive Perception 13
-- **Languages:** 
 
 ### Special Abilities
 

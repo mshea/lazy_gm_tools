@@ -13,7 +13,6 @@
 | 19 (+4) | 10 (+0) | 17 (+3) | 8 (-1) | 10 (+0) | 8 (-1) |
 
 - **Saving Throws**: Dex +2, Con +5, Wis +2, Cha +1
-- **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** cold, poison
 - **Condition Immunities:** exhaustion, poisoned

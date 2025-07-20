@@ -15,7 +15,6 @@
 - **Skills:** perception +4, stealth +5
 - **Damage Resistances:** cold
 - **Senses:** blindsight 120 ft., passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

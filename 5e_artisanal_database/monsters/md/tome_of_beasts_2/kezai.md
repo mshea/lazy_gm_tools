@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 18 (+4) | 16 (+3) | 4 (-3) | 12 (+1) | 12 (+1) |
 
-- **Skills:** 
 - **Damage Immunities:** fire
 - **Senses:** blindsight 60 ft., passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

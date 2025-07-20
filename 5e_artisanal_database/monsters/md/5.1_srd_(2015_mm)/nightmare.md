@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
-- **Skills:** 
 - **Damage Immunities:** fire
 - **Senses:** passive Perception 11
 - **Languages:** understands Abyssal, Common, and Infernal but can't speak

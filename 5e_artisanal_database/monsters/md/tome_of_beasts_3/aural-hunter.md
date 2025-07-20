@@ -15,7 +15,6 @@
 - **Skills:** perception +4
 - **Condition Immunities:** blinded
 - **Senses:** blindsight 60' or 20' while deafened (blind beyond), passive Perception 17
-- **Languages:** —
 
 ### Special Abilities
 

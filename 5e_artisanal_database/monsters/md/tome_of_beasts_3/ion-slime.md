@@ -17,7 +17,6 @@
 - **Damage Resistances:** thunder
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60' (blind beyond), passive Perception 7
-- **Languages:** —
 
 ### Special Abilities
 

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 16 (+3) | 15 (+2) | 7 (-2) | 14 (+2) | 6 (-2) |
 
-- **Skills:** 
 - **Senses:** blindsight 60 ft., passive Perception 11
 - **Languages:** Abyssal, understands Common but can't speak it
 

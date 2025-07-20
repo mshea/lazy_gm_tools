@@ -14,7 +14,6 @@
 
 - **Skills:** athletics +5, perception +3
 - **Senses:** passive Perception 13
-- **Languages:** 
 
 ### Actions
 

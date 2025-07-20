@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 (-5) | 5 (-3) | 10 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
 
-- **Skills:** 
 - **Condition Immunities:** blinded, deafened, frightened
 - **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 7
-- **Languages:** —
 
 ### Special Abilities
 

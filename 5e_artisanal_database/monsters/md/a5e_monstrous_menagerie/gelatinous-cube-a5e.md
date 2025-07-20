@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 2 (-4) | 18 (+4) | 1 (-5) | 6 (-2) | 1 (-5) |
 
-- **Skills:** 
 - **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
-- **Languages:** 
 
 ### Special Abilities
 

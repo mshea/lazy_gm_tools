@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 17 (+3) | 16 (+3) | 5 (-3) | 12 (+1) | 7 (-2) |
 
-- **Skills:** 
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** charmed, frightened, exhaustion
 - **Senses:** darkvision 120 ft., passive Perception 11

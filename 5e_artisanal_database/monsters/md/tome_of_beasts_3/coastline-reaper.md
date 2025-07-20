@@ -17,7 +17,6 @@
 - **Damage Resistances:** cold, poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60', passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

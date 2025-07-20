@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 14 (+2) | 12 (+1) | 16 (+3) | 16 (+3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire, poison
 - **Condition Immunities:** poisoned

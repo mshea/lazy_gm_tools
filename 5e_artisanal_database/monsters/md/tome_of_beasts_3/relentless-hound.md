@@ -18,7 +18,6 @@
 - **Damage Resistances:** acid, fire, lightning, thunder; nonmagic B/P/S attacks
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses:** darkvision 60 ft, passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

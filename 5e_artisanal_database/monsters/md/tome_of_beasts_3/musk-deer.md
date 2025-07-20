@@ -15,7 +15,6 @@
 - **Skills:** perception +2
 - **Condition Immunities:** poisoned
 - **Senses:** passive Perception 12
-- **Languages:** —
 
 ### Actions
 

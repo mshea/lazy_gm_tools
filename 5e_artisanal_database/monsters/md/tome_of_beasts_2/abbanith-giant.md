@@ -13,7 +13,6 @@
 | 20 (+5) | 9 (-1) | 17 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 - **Saving Throws**: Str +7, Con +5
-- **Skills:** 
 - **Senses:** tremorsense 120 ft., passive Perception 11
 - **Languages:** Giant, Terran
 

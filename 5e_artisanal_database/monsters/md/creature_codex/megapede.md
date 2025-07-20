@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 17 (+3) | 14 (+2) | 15 (+2) | 2 (-4) | 7 (-2) | 3 (-4) |
 
-- **Skills:** 
 - **Damage Immunities:** acid
 - **Senses:** blindsight 60 ft., darkvision 120 ft., passive Perception 8
 - **Languages:** -

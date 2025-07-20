@@ -13,7 +13,6 @@
 | 17 (+3) | 8 (-1) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
 
 - **Saving Throws**: Str +5, Wis +0
-- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 8

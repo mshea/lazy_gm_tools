@@ -13,9 +13,7 @@
 | 28 (+9) | 7 (-2) | 22 (+6) | 1 (-5) | 8 (-1) | 4 (-3) |
 
 - **Saving Throws**: Con +11, Wis +4
-- **Skills:** 
 - **Senses:** blindsight 30 ft., tremorsense 60 ft., passive Perception 9
-- **Languages:** 
 
 ### Special Abilities
 

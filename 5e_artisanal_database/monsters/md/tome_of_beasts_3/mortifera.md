@@ -15,7 +15,6 @@
 - **Skills:** perception +0
 - **Condition Immunities:** blinded, deafened, exhaustion, poisoned
 - **Senses:** blindsight 60' (blind beyond), passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

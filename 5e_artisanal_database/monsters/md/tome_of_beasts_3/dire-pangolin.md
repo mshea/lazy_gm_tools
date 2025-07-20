@@ -15,7 +15,6 @@
 - **Skills:** perception +1
 - **Damage Resistances:** poison
 - **Senses:** passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

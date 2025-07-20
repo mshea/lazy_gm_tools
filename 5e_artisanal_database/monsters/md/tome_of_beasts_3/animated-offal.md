@@ -16,7 +16,6 @@
 - **Damage Immunities:** necrotic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 120' (blind beyond), passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

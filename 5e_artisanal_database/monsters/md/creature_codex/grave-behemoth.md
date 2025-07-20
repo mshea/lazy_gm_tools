@@ -13,7 +13,6 @@
 | 22 (+6) | 8 (-1) | 19 (+4) | 13 (+1) | 10 (+0) | 8 (-1) |
 
 - **Saving Throws**: Con +8, Wis +4
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** charmed, frightened, poisoned

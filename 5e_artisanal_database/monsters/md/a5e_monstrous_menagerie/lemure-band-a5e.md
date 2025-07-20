@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 4 (-3) | 10 (+0) | 1 (-5) | 10 (+0) | 2 (-4) |
 
-- **Skills:** 
 - **Damage Immunities:** fire, poison
 - **Damage Resistances:** cold
 - **Condition Immunities:** poisoned

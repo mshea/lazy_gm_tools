@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (-1) |
 
-- **Skills:** 
 - **Damage Resistances:** poison
 - **Senses:** darkvision 120 ft., passive Perception 10
 - **Languages:** Dwarvish, Undercommon

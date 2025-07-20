@@ -13,11 +13,9 @@
 | 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
 
 - **Saving Throws**: Dex +4
-- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 7
-- **Languages:** 
 
 ### Special Abilities
 

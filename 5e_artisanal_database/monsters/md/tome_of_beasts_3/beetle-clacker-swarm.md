@@ -15,7 +15,6 @@
 - **Skills:** perception +-2
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
 - **Senses:** blindsight 30', passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

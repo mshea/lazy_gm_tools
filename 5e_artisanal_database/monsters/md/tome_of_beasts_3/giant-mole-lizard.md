@@ -16,7 +16,6 @@
 - **Damage Resistances:** acid
 - **Condition Immunities:** prone
 - **Senses:** blindsight 10', tremorsense 60', passive Perception 9
-- **Languages:** —
 
 ### Special Abilities
 

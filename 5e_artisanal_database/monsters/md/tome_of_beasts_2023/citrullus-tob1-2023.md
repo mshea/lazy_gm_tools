@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 8 (-1) | 16 (+3) | 3 (-4) | 10 (+0) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** acid
 - **Senses:** blindsight 30 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

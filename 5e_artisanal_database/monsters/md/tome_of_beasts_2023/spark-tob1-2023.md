@@ -13,7 +13,6 @@
 | 4 (-3) | 20 (+5) | 18 (+4) | 10 (+0) | 12 (+1) | 17 (+3) |
 
 - **Saving Throws**: Dex +8
-- **Skills:** 
 - **Damage Immunities:** lightning
 - **Damage Resistances:** thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious

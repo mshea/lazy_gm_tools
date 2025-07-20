@@ -13,7 +13,6 @@
 | 18 (+4) | 13 (+1) | 16 (+3) | 6 (-2) | 15 (+2) | 5 (-3) |
 
 - **Saving Throws**: Dex +4
-- **Skills:** 
 - **Damage Immunities:** acid
 - **Damage Resistances:** piercing
 - **Senses:** darkvision 60 ft., passive Perception 12

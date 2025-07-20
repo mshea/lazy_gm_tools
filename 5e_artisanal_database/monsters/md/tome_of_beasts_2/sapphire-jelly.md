@@ -13,11 +13,9 @@
 | 16 (+3) | 8 (-1) | 18 (+4) | 3 (-4) | 12 (+1) | 12 (+1) |
 
 - **Saving Throws**: Wis +4, Cha +4
-- **Skills:** 
 - **Damage Immunities:** cold, poison
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

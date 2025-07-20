@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 8 (-1) | 18 (+4) | 5 (-3) | 10 (+0) | 9 (-1) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** blinded, deafened

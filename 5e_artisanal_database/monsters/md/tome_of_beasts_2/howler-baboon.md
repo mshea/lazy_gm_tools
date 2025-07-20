@@ -15,7 +15,6 @@
 - **Saving Throws**: Str +4, Wis +3
 - **Skills:** athletics +4, perception +3
 - **Senses:** passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

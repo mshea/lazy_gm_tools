@@ -17,7 +17,6 @@
 - **Damage Immunities:** bludgeoning, poison
 - **Condition Immunities:** poisoned, prone
 - **Senses:** blindsight 10', passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

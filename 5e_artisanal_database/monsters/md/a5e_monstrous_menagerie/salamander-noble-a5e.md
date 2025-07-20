@@ -13,7 +13,6 @@
 | 18 (+4) | 14 (+2) | 14 (+2) | 10 (+0) | 10 (+0) | 12 (+1) |
 
 - **Saving Throws**: Con +5, Wis +3
-- **Skills:** 
 - **Damage Immunities:** fire
 - **Damage Resistances:** damage from nonmagical weapons
 - **Senses:** darkvision 60 ft., passive Perception 10

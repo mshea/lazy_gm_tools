@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 21 (+5) | 10 (+0) | 18 (+4) | 7 (-2) | 14 (+2) | 9 (-1) |
 
-- **Skills:** 
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

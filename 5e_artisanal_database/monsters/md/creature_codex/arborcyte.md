@@ -13,7 +13,6 @@
 | 21 (+5) | 12 (+1) | 16 (+3) | 5 (-3) | 10 (+0) | 3 (-4) |
 
 - **Saving Throws**: Con +6
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning, piercing
 - **Condition Immunities:** deafened

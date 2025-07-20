@@ -13,7 +13,6 @@
 | 20 (+5) | 12 (+1) | 16 (+3) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 - **Saving Throws**: Con +7
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing damage from nonmagical attacks
 - **Condition Immunities:** deafened, exhaustion, poisoned

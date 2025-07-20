@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 14 (+2) | 6 (-2) | 14 (+2) | 10 (+0) |
 
-- **Skills:** 
 - **Senses:** passive Perception 12
 - **Languages:** Giant Elk, understands but can't speak Common, Elvish, and Sylvan
 

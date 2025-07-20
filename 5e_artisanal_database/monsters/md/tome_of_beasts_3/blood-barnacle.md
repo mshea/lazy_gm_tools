@@ -17,7 +17,6 @@
 - **Damage Vulnerabilities:** fire
 - **Damage Resistances:** necrotic
 - **Senses:** blindsight 60' (blind beyond), passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 16 (+3) | 14 (+2) | 8 (-1) | 10 (+0) | 13 (+1) |
 
-- **Skills:** 
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 10

@@ -15,7 +15,6 @@
 - **Saving Throws**: Dex +5, Con +10, Wis +6, Cha +4
 - **Skills:** perception +6
 - **Senses:** passive Perception 16
-- **Languages:** 
 
 ### Special Abilities
 

@@ -13,7 +13,6 @@
 | 25 (+7) | 7 (-2) | 21 (+5) | 6 (-2) | 8 (-1) | 4 (-3) |
 
 - **Saving Throws**: Con +9, Wis +3
-- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** poisoned

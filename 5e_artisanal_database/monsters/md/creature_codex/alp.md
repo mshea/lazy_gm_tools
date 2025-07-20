@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 16 (+3) | 14 (+2) | 10 (+0) | 16 (+3) | 8 (-1) |
 
-- **Skills:** 
 - **Damage Resistances:** cold, necrotic
 - **Condition Immunities:** charmed, exhaustion, paralyzed, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 13

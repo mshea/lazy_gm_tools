@@ -564,11 +564,15 @@ function selectMonster(searchInput, monster) {
     const container = searchInput.closest('.monster-search-container');
     const crSelect = container.closest('.monster-group').querySelector('.monster-cr');
     const nameDisplay = container.querySelector('.monster-name-display');
+    const monsterGroup = container.closest('.monster-group');
     
     searchInput.value = monster.name;
     // Ensure CR is converted to string to match dropdown options
     crSelect.value = String(monster.cr);
     nameDisplay.textContent = monster.name + ' (CR ' + formatCR(monster.cr) + ')';
+    
+    // Store the selected monster's source for accurate lookup later
+    monsterGroup.dataset.selectedMonsterSource = monster.source || monster.sourceFull;
     
     calculateEncounter();
 }
@@ -982,16 +986,26 @@ function exportForCombatTracker() {
         // Extract just the monster name (remove the CR part)
         const monsterName = displayText.replace(/ \(CR .*\)$/, '');
         
-        // Find monster data from our available list
-        const monsterData = availableMonsters.find(m => m.name === monsterName);
+        // Find monster data from our available list, considering stored source
+        const storedSource = group.dataset.selectedMonsterSource;
+        let monsterData = null;
         
+        if (storedSource) {
+            // First try to find exact match with stored source
+            monsterData = availableMonsters.find(m => 
+                m.name === monsterName && (m.source === storedSource || m.sourceFull === storedSource)
+            );
+        }
+        
+        // Fall back to first name match if no source-specific match found
+        if (!monsterData) {
+            monsterData = availableMonsters.find(m => m.name === monsterName);
+        }
         
         for (let i = 0; i < count; i++) {
             const finalName = count > 1 ? `${monsterName} ${String.fromCharCode(65 + i)}` : monsterName;
             
-            // Find monster in availableMonsters array for better data
-            const encounterMonster = availableMonsters.find(m => m.name === monsterName);
-            const sourceMonster = monsterData || encounterMonster;
+            const sourceMonster = monsterData;
             
             const combatant = {
                 id: combatantId++,
@@ -1046,8 +1060,21 @@ function openInCombatTracker() {
         const displayText = nameDisplay.textContent || 'Unknown Monster';
         const monsterName = displayText.replace(/ \(CR .*\)$/, '');
         
-        // Find monster in availableMonsters array for better data
-        const encounterMonster = availableMonsters.find(m => m.name === monsterName);
+        // Find monster in availableMonsters array for better data, considering stored source
+        const storedSource = group.dataset.selectedMonsterSource;
+        let encounterMonster = null;
+        
+        if (storedSource) {
+            // First try to find exact match with stored source
+            encounterMonster = availableMonsters.find(m => 
+                m.name === monsterName && (m.source === storedSource || m.sourceFull === storedSource)
+            );
+        }
+        
+        // Fall back to first name match if no source-specific match found
+        if (!encounterMonster) {
+            encounterMonster = availableMonsters.find(m => m.name === monsterName);
+        }
         
         for (let i = 0; i < count; i++) {
             const finalName = count > 1 ? `${monsterName} ${String.fromCharCode(65 + i)}` : monsterName;

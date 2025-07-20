@@ -17,7 +17,6 @@
 - **Damage Resistances:** bludgeoning, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 6
-- **Languages:** —
 
 ### Special Abilities
 

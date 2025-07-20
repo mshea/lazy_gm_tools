@@ -13,7 +13,6 @@
 | 30 (+10) | 10 (+0) | 26 (+8) | 22 (+6) | 18 (+4) | 18 (+4) |
 
 - **Saving Throws**: Str +18, Dex +8, Con +16, Int +14, Wis +12
-- **Skills:** 
 - **Damage Immunities:** lightning; damage from nonmagical weapons
 - **Damage Resistances:** cold, fire, thunder
 - **Senses:** truesight 120 ft., passive Perception 14

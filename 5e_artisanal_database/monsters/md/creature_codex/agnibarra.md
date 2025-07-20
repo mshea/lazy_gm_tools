@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 14 (+2) | 16 (+3) | 8 (-1) | 10 (+0) | 12 (+1) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** cold
 - **Damage Immunities:** fire
 - **Senses:** passive Perception 10

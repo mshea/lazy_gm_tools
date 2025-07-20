@@ -16,7 +16,6 @@
 - **Damage Immunities:** fire, radiant
 - **Condition Immunities:** prone
 - **Senses:** blindsight 120' (blind beyond), passive Perception 15
-- **Languages:** —
 
 ### Special Abilities
 

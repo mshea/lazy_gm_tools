@@ -18,7 +18,6 @@
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60', passive Perception 15
-- **Languages:** —
 
 ### Special Abilities
 

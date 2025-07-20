@@ -16,7 +16,6 @@
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

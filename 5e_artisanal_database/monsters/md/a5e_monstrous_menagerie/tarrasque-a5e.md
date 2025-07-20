@@ -13,11 +13,9 @@
 | 30 (+10) | 12 (+1) | 30 (+10) | 4 (-3) | 14 (+2) | 14 (+2) |
 
 - **Saving Throws**: Str +19, Dex +10, Con +19, Int +6, Wis +11, Cha +11
-- **Skills:** 
 - **Damage Immunities:** fire, poison; damage from nonmagical weapons
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 120 ft., tremorsense 60 ft., passive Perception 12
-- **Languages:** 
 
 ### Special Abilities
 

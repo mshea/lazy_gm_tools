@@ -16,7 +16,6 @@
 - **Skills:** perception +5
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** passive Perception 15
-- **Languages:** —
 
 ### Special Abilities
 

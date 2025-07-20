@@ -17,7 +17,6 @@
 - **Damage Immunities:** cold, necrotic
 - **Condition Immunities:** frightened
 - **Senses:** darkvision 120 ft., passive Perception 16
-- **Languages:** —
 
 ### Special Abilities
 

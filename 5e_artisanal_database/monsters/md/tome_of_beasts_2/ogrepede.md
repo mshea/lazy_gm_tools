@@ -13,7 +13,6 @@
 | 21 (+5) | 9 (-1) | 17 (+3) | 5 (-3) | 5 (-3) | 3 (-4) |
 
 - **Saving Throws**: Wis +0
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, exhaustion, poisoned, prone
 - **Senses:** darkvision 90 ft., passive Perception 7

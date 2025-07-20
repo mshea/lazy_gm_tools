@@ -13,7 +13,6 @@
 | 20 (+5) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
 - **Saving Throws**: Dex +4, Wis +3
-- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Condition Immunities:** charmed, frightened, poisoned
 - **Senses:** truesight 30 ft., darkvision 60 ft., passive Perception 11

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 11 (+0) | 6 (-2) | 10 (+0) | 7 (-2) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Gnoll
 

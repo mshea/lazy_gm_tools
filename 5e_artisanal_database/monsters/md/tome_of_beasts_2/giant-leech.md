@@ -15,7 +15,6 @@
 - **Saving Throws**: Dex +5, Con +2
 - **Skills:** stealth +5
 - **Senses:** tremorsense 30 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

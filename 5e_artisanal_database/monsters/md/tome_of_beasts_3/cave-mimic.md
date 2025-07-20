@@ -16,7 +16,6 @@
 - **Damage Immunities:** acid
 - **Condition Immunities:** prone
 - **Senses:** darkvision 60', tremorsense 60', passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

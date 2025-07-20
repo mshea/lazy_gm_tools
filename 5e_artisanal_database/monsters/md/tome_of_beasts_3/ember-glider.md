@@ -17,7 +17,6 @@
 - **Damage Immunities:** fire
 - **Damage Resistances:** poison
 - **Senses:** passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

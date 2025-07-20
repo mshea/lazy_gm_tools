@@ -13,7 +13,6 @@
 | 21 (+5) | 19 (+4) | 22 (+6) | 10 (+0) | 15 (+2) | 10 (+0) |
 
 - **Saving Throws**: Dex +8, Wis +6, Cha +4
-- **Skills:** 
 - **Damage Immunities:** lightning, poison
 - **Damage Resistances:** cold, thunder
 - **Condition Immunities:** poisoned

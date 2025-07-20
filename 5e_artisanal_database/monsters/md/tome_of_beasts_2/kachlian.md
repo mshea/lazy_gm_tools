@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 19 (+4) | 16 (+3) | 15 (+2) | 9 (-1) |
 
-- **Skills:** 
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** stunned, paralyzed, prone
 - **Senses:** darkvision 120 ft., passive Perception 12

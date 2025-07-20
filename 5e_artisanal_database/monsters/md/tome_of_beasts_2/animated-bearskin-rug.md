@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 13 (+1) | 12 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 6
-- **Languages:** —
 
 ### Special Abilities
 

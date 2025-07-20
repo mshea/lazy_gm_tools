@@ -17,7 +17,6 @@
 - **Damage Immunities:** poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 11
-- **Languages:** —
 
 ### Actions
 

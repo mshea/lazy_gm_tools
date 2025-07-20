@@ -16,7 +16,6 @@
 - **Damage Resistances:** acid, fire, necrotic, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60' (blind beyond), passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

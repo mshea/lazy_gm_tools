@@ -18,7 +18,6 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** grappled, prone, restrained
 - **Senses:** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
-- **Languages:** —
 
 ### Special Abilities
 

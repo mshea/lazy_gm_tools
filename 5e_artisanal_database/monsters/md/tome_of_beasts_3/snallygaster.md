@@ -17,7 +17,6 @@
 - **Damage Immunities:** acid, thunder
 - **Condition Immunities:** frightened
 - **Senses:** darkvision 120', passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

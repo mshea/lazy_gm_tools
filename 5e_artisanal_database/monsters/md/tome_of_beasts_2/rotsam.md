@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 5 (-3) | 16 (+3) | 14 (+2) | 1 (-5) | 9 (-1) | 6 (-2) |
 
-- **Skills:** 
 - **Damage Immunities:** necrotic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 9
-- **Languages:** —
 
 ### Special Abilities
 

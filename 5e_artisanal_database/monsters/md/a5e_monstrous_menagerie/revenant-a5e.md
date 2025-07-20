@@ -13,7 +13,6 @@
 | 18 (+4) | 16 (+3) | 18 (+4) | 10 (+0) | 12 (+1) | 18 (+4) |
 
 - **Saving Throws**: Str +7, Con +7, Wis +4, Cha +7
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic, psychic
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, poisoned, stunned

@@ -16,7 +16,6 @@
 - **Skills:** perception +2
 - **Damage Immunities:** fire
 - **Senses:** passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

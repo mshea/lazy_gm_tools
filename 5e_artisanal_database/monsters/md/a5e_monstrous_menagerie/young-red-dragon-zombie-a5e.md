@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 22 (+6) | 6 (-2) | 20 (+5) | 3 (-4) | 8 (-1) | 4 (-3) |
 
-- **Skills:** 
 - **Damage Immunities:** fire, poison
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 9
 - **Languages:** understands Common and Draconic but can't speak

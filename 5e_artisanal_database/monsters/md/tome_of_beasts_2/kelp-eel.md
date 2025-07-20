@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 14 (+2) | 19 (+4) | 3 (-4) | 15 (+2) | 5 (-3) |
 
-- **Skills:** 
 - **Damage Resistances:** acid, bludgeoning, piercing
 - **Condition Immunities:** blinded, deafened, unconscious
 - **Senses:** blindsight 90 ft. (blind beyond this radius), passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 15 (+2) | 8 (-1) | 10 (+0) | 9 (-1) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Abyssal, Aquan
 

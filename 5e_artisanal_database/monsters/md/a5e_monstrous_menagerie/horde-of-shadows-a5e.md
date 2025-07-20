@@ -18,7 +18,6 @@
 - **Damage Resistances:** acid, cold, fire, lightning, thunder; damage from nonmagical weapons
 - **Condition Immunities:** charmed, fatigue, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 - **Senses:** darkvision 120 ft., passive Perception 10
-- **Languages:** 
 
 ### Special Abilities
 

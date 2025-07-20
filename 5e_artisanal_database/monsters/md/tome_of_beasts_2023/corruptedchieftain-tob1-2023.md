@@ -13,7 +13,6 @@
 | 23 (+6) | 8 (-1) | 18 (+4) | 5 (-3) | 7 (-2) | 12 (+1) |
 
 - **Saving Throws**: Con +7, Cha +4
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 8
 - **Languages:** Common, Giant
 

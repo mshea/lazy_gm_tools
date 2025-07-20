@@ -408,14 +408,24 @@ function getMonsterLink(combatant) {
     // Try to find the monster in the database to get the exact slug
     let foundMonster = null;
     if (monsterName && allMonsters) {
-        foundMonster = allMonsters.find(m => 
-            m.name.toLowerCase() === monsterName.toLowerCase() && 
-            (monsterSource ? m.source === monsterSource : true)
-        );
+        // First try to find exact match with source
+        if (monsterSource) {
+            foundMonster = allMonsters.find(m => 
+                m.name.toLowerCase() === monsterName.toLowerCase() && 
+                m.source === monsterSource
+            );
+        }
         
-        // If no source was stored, use the found monster's source
-        if (!monsterSource && foundMonster) {
-            monsterSource = foundMonster.source;
+        // If no exact match found or no source provided, fall back to first name match
+        if (!foundMonster) {
+            foundMonster = allMonsters.find(m => 
+                m.name.toLowerCase() === monsterName.toLowerCase()
+            );
+            
+            // If no source was stored, use the found monster's source
+            if (!monsterSource && foundMonster) {
+                monsterSource = foundMonster.source;
+            }
         }
     }
     

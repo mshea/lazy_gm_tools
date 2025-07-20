@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 18 (+4) |
 
-- **Skills:** 
 - **Condition Immunities:** blinded, deafened, frightened
 - **Senses:** blindsight 120 ft. passive Perception 8
 - **Languages:** understands all languages known by creatures within 120 feet, but can't speak, telepathy 120 ft.

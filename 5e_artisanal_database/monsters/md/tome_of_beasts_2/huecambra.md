@@ -17,7 +17,6 @@
 - **Damage Immunities:** poison, thunder
 - **Condition Immunities:** charmed, petrified, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 14
-- **Languages:** —
 
 ### Actions
 

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 14 (+2) | 18 (+4) | 9 (-1) | 11 (+0) | 8 (-1) |
 
-- **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** Common, Giant
 

@@ -16,7 +16,6 @@
 - **Damage Resistances:** poison
 - **Condition Immunities:** poisoned
 - **Senses:** passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

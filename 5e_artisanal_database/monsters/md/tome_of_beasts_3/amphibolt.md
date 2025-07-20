@@ -17,7 +17,6 @@
 - **Damage Immunities:** lightning
 - **Damage Resistances:** fire
 - **Senses:** darkvision 60', passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

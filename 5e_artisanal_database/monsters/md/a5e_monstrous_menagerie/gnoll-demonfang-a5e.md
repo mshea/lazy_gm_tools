@@ -13,7 +13,6 @@
 | 16 (+3) | 16 (+3) | 14 (+2) | 10 (+0) | 10 (+0) | 12 (+1) |
 
 - **Saving Throws**: Con +4, Wis +2, Cha +3
-- **Skills:** 
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Abyssal, Gnoll

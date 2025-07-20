@@ -17,7 +17,6 @@
 - **Damage Resistances:** slashing, piercing
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 10', darkvision 60', passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

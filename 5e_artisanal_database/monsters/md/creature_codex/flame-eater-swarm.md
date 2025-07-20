@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 3 (-4) | 15 (+2) | 12 (+1) | 2 (-4) | 14 (+2) | 4 (-3) |
 
-- **Skills:** 
 - **Damage Immunities:** fire
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, prone, restrained, stunned

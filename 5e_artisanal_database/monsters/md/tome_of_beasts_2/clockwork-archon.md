@@ -13,7 +13,6 @@
 | 24 (+7) | 9 (-1) | 20 (+5) | 7 (-2) | 10 (+0) | 10 (+0) |
 
 - **Saving Throws**: Con +9
-- **Skills:** 
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone
 - **Senses:** darkvision 60 ft., passive Perception 10

@@ -16,7 +16,6 @@
 - **Damage Immunities:** poison
 - **Condition Immunities:** frightened, poisoned
 - **Senses:** passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

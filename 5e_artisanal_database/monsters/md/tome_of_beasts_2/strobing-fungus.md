@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 11 (+0) | 19 (+4) | 5 (-3) | 13 (+1) | 15 (+2) |
 
-- **Skills:** 
 - **Condition Immunities:** blinded, deafened, frightened
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 11
 - **Languages:** understands Common but can’t speak

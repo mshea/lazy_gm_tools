@@ -13,7 +13,6 @@
 | 12 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 14 (+2) |
 
 - **Saving Throws**: Wis +2
-- **Skills:** 
 - **Senses:** passive Perception 10
 - **Languages:** Common
 

@@ -13,7 +13,6 @@
 | 14 (+2) | 12 (+1) | 17 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
 
 - **Saving Throws**: Str +5, Wis +5
-- **Skills:** 
 - **Damage Immunities:** necrotic, poison, psychic
 - **Damage Resistances:** acid, cold, fire, lightning
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned

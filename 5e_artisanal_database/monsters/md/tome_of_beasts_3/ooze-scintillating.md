@@ -16,7 +16,6 @@
 - **Damage Immunities:** acid, cold, lightning, slashing
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, grappled, prone
 - **Senses:** blindsight 120' (blind beyond), passive Perception 16
-- **Languages:** —
 
 ### Special Abilities
 

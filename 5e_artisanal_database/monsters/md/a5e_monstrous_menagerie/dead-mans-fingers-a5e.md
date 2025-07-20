@@ -13,10 +13,8 @@
 | 20 (+5) | 10 (+0) | 20 (+5) | 1 (-5) | 12 (+1) | 1 (-5) |
 
 - **Saving Throws**: Int +-1, Cha +-1
-- **Skills:** 
 - **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone, restrained, stunned
 - **Senses:** blindsight 90 ft. (blind beyond this radius), passive Perception 11
-- **Languages:** 
 
 ### Special Abilities
 

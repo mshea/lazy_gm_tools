@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 14 (+2) | 8 (-1) | 8 (-1) | 8 (-1) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning; damage from nonmagical weapons
 - **Condition Immunities:** poisoned

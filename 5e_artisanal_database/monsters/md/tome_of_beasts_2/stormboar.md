@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 12 (+1) | 18 (+4) | 3 (-4) | 10 (+0) | 7 (-2) |
 
-- **Skills:** 
 - **Damage Immunities:** lightning, thunder
 - **Senses:** passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

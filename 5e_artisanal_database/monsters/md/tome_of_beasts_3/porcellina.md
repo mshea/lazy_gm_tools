@@ -15,7 +15,6 @@
 - **Saving Throws**: Dex +5
 - **Skills:** perception +0
 - **Senses:** passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 14 (+2) | 11 (+0) | 6 (-2) | 10 (+0) | 6 (-2) |
 
-- **Skills:** 
 - **Damage Immunities:** lightning, thunder
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses:** darkvision 60 ft., passive Perception 10

@@ -13,7 +13,6 @@
 | 21 (+5) | 6 (-2) | 19 (+4) | 3 (-4) | 8 (-1) | 5 (-3) |
 
 - **Saving Throws**: Dex +2, Con +8, Wis +3, Cha +1
-- **Skills:** 
 - **Damage Immunities:** lightning, poison
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 30 ft., darkvision 120 ft., passive Perception 9

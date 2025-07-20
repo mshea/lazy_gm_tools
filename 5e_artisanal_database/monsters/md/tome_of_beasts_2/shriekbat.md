@@ -16,7 +16,6 @@
 - **Skills:** perception +4, stealth +5
 - **Damage Immunities:** thunder
 - **Senses:** blindsight 60 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

@@ -17,7 +17,6 @@
 - **Damage Resistances:** cold
 - **Condition Immunities:** deafened
 - **Senses:** darkvision 60', passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

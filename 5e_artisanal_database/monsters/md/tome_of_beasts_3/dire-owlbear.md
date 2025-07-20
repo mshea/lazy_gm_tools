@@ -15,7 +15,6 @@
 - **Skills:** perception +1
 - **Condition Immunities:** blinded, frightened
 - **Senses:** darkvision 60', tremorsense 30', passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

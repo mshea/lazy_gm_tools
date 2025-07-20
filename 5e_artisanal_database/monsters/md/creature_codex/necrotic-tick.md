@@ -13,7 +13,6 @@
 | 2 (-4) | 14 (+2) | 12 (+1) | 1 (-5) | 12 (+1) | 8 (-1) |
 
 - **Saving Throws**: Con +3
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** -
 

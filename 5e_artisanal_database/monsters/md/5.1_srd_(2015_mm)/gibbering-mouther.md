@@ -12,10 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 8 (-1) | 16 (+3) | 3 (-4) | 10 (+0) | 6 (-2) |
 
-- **Skills:** 
 - **Condition Immunities:** prone
 - **Senses:** darkvision 60 ft., passive Perception 10
-- **Languages:** 
 
 ### Special Abilities
 

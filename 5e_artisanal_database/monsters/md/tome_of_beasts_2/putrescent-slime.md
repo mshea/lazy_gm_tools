@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 8 (-1) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Immunities:** acid, poison
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

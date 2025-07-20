@@ -18,7 +18,6 @@
 - **Damage Resistances:** cold
 - **Condition Immunities:** frightened, prone
 - **Senses:** tremorsense 60 ft., passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

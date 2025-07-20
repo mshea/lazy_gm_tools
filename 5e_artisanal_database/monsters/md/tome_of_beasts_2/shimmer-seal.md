@@ -16,7 +16,6 @@
 - **Skills:** acrobatics +8, performance +5, stealth +5
 - **Damage Resistances:** cold
 - **Senses:** darkvision 60 ft., passive Perception 11
-- **Languages:** —
 
 ### Special Abilities
 

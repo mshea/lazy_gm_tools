@@ -13,7 +13,6 @@
 | 6 (-2) | 14 (+2) | 11 (+0) | 11 (+0) | 17 (+3) | 9 (-1) |
 
 - **Saving Throws**: Dex +4, Wis +5
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 13
 - **Languages:** Common, Draconic
 

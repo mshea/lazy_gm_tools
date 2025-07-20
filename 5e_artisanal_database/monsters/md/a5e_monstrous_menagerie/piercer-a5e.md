@@ -12,9 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 10 (+0) | 12 (+1) | 1 (-5) | 6 (-2) | 2 (-4) |
 
-- **Skills:** 
 - **Senses:** blindsight 30 ft. (blind beyond that radius), passive Perception 8
-- **Languages:** 
 
 ### Special Abilities
 

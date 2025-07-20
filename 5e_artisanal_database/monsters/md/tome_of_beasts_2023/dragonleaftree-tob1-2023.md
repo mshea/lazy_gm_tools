@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 19 (+4) | 5 (-3) | 12 (+1) | 17 (+3) |
 
-- **Skills:** 
 - **Condition Immunities:** blinded, deafened
 - **Senses:** blindsight 120 ft., passive Perception 11
 - **Languages:** understands Draconic but can’t speak

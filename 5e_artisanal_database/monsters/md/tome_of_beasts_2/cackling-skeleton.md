@@ -13,7 +13,6 @@
 | 12 (+1) | 9 (-1) | 15 (+2) | 8 (-1) | 10 (+0) | 14 (+2) |
 
 - **Saving Throws**: Cha +4
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Condition Immunities:** exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10

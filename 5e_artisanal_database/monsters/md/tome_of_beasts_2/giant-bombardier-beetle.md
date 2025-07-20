@@ -13,10 +13,8 @@
 | 10 (+0) | 14 (+2) | 15 (+2) | 3 (-4) | 10 (+0) | 3 (-4) |
 
 - **Saving Throws**: Con +4
-- **Skills:** 
 - **Damage Resistances:** fire
 - **Senses:** blindsight 30 ft., passive Perception 10
-- **Languages:** —
 
 ### Actions
 

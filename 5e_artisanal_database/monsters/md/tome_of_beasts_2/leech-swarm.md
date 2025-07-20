@@ -16,7 +16,6 @@
 - **Damage Resistances:** bludgeoning, piercing, and slashing
 - **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 - **Senses:** darkvision 30 ft., passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 13 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Common, Umbral
 

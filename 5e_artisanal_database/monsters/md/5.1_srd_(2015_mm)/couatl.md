@@ -13,7 +13,6 @@
 | 16 (+3) | 20 (+5) | 17 (+3) | 18 (+4) | 20 (+5) | 18 (+4) |
 
 - **Saving Throws**: Con +5, Wis +7, Cha +6
-- **Skills:** 
 - **Damage Immunities:** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances:** radiant
 - **Senses:** truesight 120 ft., passive Perception 15

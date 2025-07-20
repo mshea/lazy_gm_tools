@@ -16,7 +16,6 @@
 - **Skills:** perception +1
 - **Damage Resistances:** thunder
 - **Senses:** darkvision 60', passive Perception 14
-- **Languages:** —
 
 ### Special Abilities
 

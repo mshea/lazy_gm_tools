@@ -13,7 +13,6 @@
 | 9 (-1) | 15 (+2) | 17 (+3) | 12 (+1) | 9 (-1) | 8 (-1) |
 
 - **Saving Throws**: Wis +2
-- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** charmed, exhaustion, paralyzed, poisoned, prone

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 16 (+3) | 14 (+2) | 8 (-1) | 12 (+1) | 4 (-3) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Tosculi
 

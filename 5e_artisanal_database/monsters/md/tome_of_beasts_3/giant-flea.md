@@ -15,7 +15,6 @@
 - **Skills:** perception +0
 - **Damage Resistances:** bludgeoning
 - **Senses:** blindsight 60', passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

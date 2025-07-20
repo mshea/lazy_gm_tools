@@ -15,7 +15,6 @@
 - **Skills:** perception +1
 - **Condition Immunities:** charmed
 - **Senses:** passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

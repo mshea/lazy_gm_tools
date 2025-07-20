@@ -17,7 +17,6 @@
 - **Damage Resistances:** cold
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
 - **Senses:** blindsight 120' (blind beyond), passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

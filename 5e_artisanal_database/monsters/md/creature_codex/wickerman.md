@@ -13,7 +13,6 @@
 | 18 (+4) | 8 (-1) | 21 (+5) | 3 (-4) | 14 (+2) | 1 (-5) |
 
 - **Saving Throws**: Str +8, Con +9
-- **Skills:** 
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 10

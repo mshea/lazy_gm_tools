@@ -17,7 +17,6 @@
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, frightened, paralyzed, poisoned
 - **Senses:** blindsight 10', passive Perception 17
-- **Languages:** —
 
 ### Special Abilities
 

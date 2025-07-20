@@ -12,12 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 15 (+2) | 16 (+3) | 4 (-3) | 6 (-2) | 4 (-3) |
 
-- **Skills:** 
 - **Damage Immunities:** acid, poison
 - **Damage Resistances:** bludgeoning
 - **Condition Immunities:** poisoned
 - **Senses:** tremorsense 60 ft. (blind beyond this radius), passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

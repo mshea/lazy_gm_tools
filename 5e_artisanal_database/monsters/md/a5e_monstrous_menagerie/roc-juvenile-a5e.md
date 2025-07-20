@@ -15,7 +15,6 @@
 - **Saving Throws**: Con +7, Wis +4
 - **Skills:** perception +4
 - **Senses:** passive Perception 14
-- **Languages:** 
 
 ### Special Abilities
 

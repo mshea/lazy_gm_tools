@@ -12,11 +12,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 3 (-4) | 13 (+1) | 10 (+0) | 1 (-5) | 7 (-2) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Resistances:** bludgeoning, piercing, slashing
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
 - **Senses:** blindsight 10 ft., passive Perception 8
-- **Languages:** 
 
 ### Special Abilities
 

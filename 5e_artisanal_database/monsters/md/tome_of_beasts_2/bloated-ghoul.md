@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 17 (+3) | 10 (+0) | 16 (+3) | 11 (+0) | 12 (+1) | 13 (+1) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** necrotic, slashing
 - **Condition Immunities:** charmed, exhaustion, poisoned

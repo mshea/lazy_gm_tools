@@ -13,12 +13,10 @@
 | 26 (+8) | 10 (+0) | 20 (+5) | 1 (-5) | 10 (+0) | 4 (-3) |
 
 - **Saving Throws**: Con +9, Wis +4
-- **Skills:** 
 - **Damage Immunities:** poison; bludgeoning from nonmagical attacks
 - **Damage Resistances:** lightning
 - **Condition Immunities:** poisoned
 - **Senses:** tremorsense 120 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

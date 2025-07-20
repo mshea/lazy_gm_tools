@@ -14,7 +14,6 @@
 
 - **Skills:** perception +0
 - **Senses:** tremorsense 30', passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 10 (+0) | 15 (+2) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning, necrotic
 - **Condition Immunities:** charmed, exhaustion, petrified, poisoned

@@ -13,7 +13,6 @@
 | 16 (+3) | 16 (+3) | 14 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 - **Saving Throws**: Str +5, Dex +5, Con +4
-- **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Immunities:** poison
 - **Condition Immunities:** fatigue, poisoned

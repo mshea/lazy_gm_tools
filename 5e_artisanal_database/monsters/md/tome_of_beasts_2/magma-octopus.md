@@ -15,7 +15,6 @@
 - **Skills:** athletics +8, stealth +6
 - **Damage Immunities:** fire
 - **Senses:** darkvision 60 ft., passive Perception 9
-- **Languages:** —
 
 ### Special Abilities
 

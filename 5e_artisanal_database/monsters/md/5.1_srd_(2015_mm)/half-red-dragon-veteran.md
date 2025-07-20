@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-- **Skills:** 
 - **Damage Resistances:** fire
 - **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 12
 - **Languages:** Common, Draconic

@@ -15,7 +15,6 @@
 - **Skills:** stealth +4
 - **Condition Immunities:** grappled, prone
 - **Senses:** darkvision 60 ft., passive Perception 12
-- **Languages:** 
 
 ### Special Abilities
 

@@ -17,7 +17,6 @@
 - **Damage Resistances:** necrotic
 - **Condition Immunities:** frightened, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

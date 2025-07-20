@@ -13,7 +13,6 @@
 | 16 (+3) | 8 (-1) | 16 (+3) | 10 (+0) | 10 (+0) | 12 (+1) |
 
 - **Saving Throws**: Wis +2
-- **Skills:** 
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** damage from nonmagical weapons
 - **Condition Immunities:** charmed, fatigue, frightened, paralyzed, poisoned

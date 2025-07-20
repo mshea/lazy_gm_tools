@@ -15,7 +15,6 @@
 - **Skills:** perception +0
 - **Damage Immunities:** lightning
 - **Senses:** tremorsense 60', passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

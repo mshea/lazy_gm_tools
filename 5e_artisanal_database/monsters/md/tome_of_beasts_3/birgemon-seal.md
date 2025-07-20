@@ -15,7 +15,6 @@
 - **Skills:** perception +1
 - **Damage Resistances:** acid, cold
 - **Senses:** darkvision 60', passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

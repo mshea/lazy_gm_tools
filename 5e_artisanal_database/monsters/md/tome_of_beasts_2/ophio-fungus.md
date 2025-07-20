@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 6 (-2) | 14 (+2) | 20 (+5) | 17 (+3) | 17 (+3) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** fire
 - **Damage Immunities:** poison, psychic
 - **Damage Resistances:** bludgeoning, piercing

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 17 (+3) | 18 (+4) | 10 (+0) | 10 (+0) | 16 (+3) |
 
-- **Skills:** 
 - **Damage Immunities:** thunder
 - **Condition Immunities:** deafened
 - **Senses:** darkvision 60 ft., passive Perception 10

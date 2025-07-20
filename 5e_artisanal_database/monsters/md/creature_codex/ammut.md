@@ -18,7 +18,6 @@
 - **Damage Resistances:** cold, radiant
 - **Condition Immunities:** frightened
 - **Senses:** darkvision 120 ft., passive Perception 21
-- **Languages:** 
 
 ### Special Abilities
 

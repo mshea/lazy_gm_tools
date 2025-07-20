@@ -14,7 +14,6 @@
 
 - **Skills:** perception +1
 - **Senses:** truesight 60', passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

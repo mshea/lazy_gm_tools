@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
 
-- **Skills:** 
 - **Senses:** blindsight 30 ft., darkvision 60 ft., passive Perception 9
 - **Languages:** Deep Speech
 

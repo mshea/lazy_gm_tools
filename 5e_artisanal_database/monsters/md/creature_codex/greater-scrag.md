@@ -13,7 +13,6 @@
 | 20 (+5) | 10 (+0) | 17 (+3) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 - **Saving Throws**: Str +8, Con +6
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Abyssal, Aquan, Giant
 

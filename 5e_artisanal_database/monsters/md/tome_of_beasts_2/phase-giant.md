@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 21 (+5) | 11 (+0) | 18 (+4) | 8 (-1) | 15 (+2) | 8 (-1) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 12
 - **Languages:** Giant, Undercommon
 

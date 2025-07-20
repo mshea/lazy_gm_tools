@@ -15,7 +15,6 @@
 - **Saving Throws**: Str +5
 - **Skills:** athletics +5
 - **Senses:** passive Perception 11
-- **Languages:** 
 
 ### Actions
 

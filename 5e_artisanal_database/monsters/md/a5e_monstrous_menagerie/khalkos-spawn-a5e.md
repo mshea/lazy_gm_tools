@@ -13,7 +13,6 @@
 | 6 (-2) | 16 (+3) | 14 (+2) | 18 (+4) | 14 (+2) | 12 (+1) |
 
 - **Saving Throws**: Int +5, Wis +4, Cha +3
-- **Skills:** 
 - **Damage Resistances:** fire, psychic, radiant
 - **Condition Immunities:** charmed
 - **Senses:** darkvision 60 ft., passive Perception 12

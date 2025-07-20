@@ -13,7 +13,6 @@
 | 22 (+6) | 18 (+4) | 24 (+7) | 15 (+2) | 16 (+3) | 18 (+4) |
 
 - **Saving Throws**: Str +11, Dex +9, Con +12, Int +7, Wis +8, Cha +9
-- **Skills:** 
 - **Damage Vulnerabilities:** radiant
 - **Damage Immunities:** necrotic, poison
 - **Damage Resistances:** acid, fire, lightning, cold; bludgeoning, piercing, and slashing from nonmagical attacks

@@ -13,7 +13,6 @@
 | 7 (-2) | 24 (+7) | 16 (+3) | 15 (+2) | 18 (+4) | 17 (+3) |
 
 - **Saving Throws**: Con +8, Wis +9
-- **Skills:** 
 - **Damage Immunities:** cold
 - **Damage Resistances:** acid, fire, lightning, radiant, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained

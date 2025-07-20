@@ -13,7 +13,6 @@
 | 14 (+2) | 18 (+4) | 15 (+2) | 10 (+0) | 13 (+1) | 15 (+2) |
 
 - **Saving Throws**: Cha +5
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** cold, fire, lightning
 - **Condition Immunities:** poisoned, prone

@@ -16,7 +16,6 @@
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses:** blindsight 60 ft. (blind beyond that range), passive Perception 12
-- **Languages:** 
 
 ### Special Abilities
 

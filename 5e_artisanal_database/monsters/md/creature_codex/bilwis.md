@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 16 (+3) | 10 (+0) | 10 (+0) | 13 (+1) | 16 (+3) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** lightning, thunder
 - **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious

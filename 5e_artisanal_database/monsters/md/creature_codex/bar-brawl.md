@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 13 (+1) | 11 (+0) | 10 (+0) | 9 (-1) |
 
-- **Skills:** 
 - **Damage Vulnerabilities:** bludgeoning
 - **Damage Resistances:** piercing, slashing
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, prone, restrained, stunned

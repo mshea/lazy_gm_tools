@@ -17,7 +17,6 @@
 - **Damage Resistances:** bludgeoning, lightning
 - **Condition Immunities:** blinded, deafened, frightened
 - **Senses:** tremorsense 90', passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (-1) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 10
 - **Languages:** Common, Goblin
 

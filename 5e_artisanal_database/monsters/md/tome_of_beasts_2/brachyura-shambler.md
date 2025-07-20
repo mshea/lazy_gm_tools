@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 15 (+2) | 6 (-2) | 12 (+1) | 8 (-1) |
 
-- **Skills:** 
 - **Damage Resistances:** bludgeoning
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Brachyura

@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 7 (-2) | 17 (+3) | 16 (+3) | 10 (+0) | 12 (+1) | 13 (+1) |
 
-- **Skills:** 
 - **Senses:** darkvision 60 ft., passive Perception 11
 - **Languages:** Common, Draconic
 

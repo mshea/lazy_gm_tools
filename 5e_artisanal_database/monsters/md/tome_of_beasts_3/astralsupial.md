@@ -15,7 +15,6 @@
 - **Saving Throws**: Dex +5, Cha +4
 - **Skills:** perception +1
 - **Senses:** darkvision 30', passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

@@ -16,7 +16,6 @@
 - **Damage Immunities:** psychic
 - **Condition Immunities:** charmed, frightened
 - **Senses:** darkvision 60 ft., passive Perception 12
-- **Languages:** —
 
 ### Special Abilities
 

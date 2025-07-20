@@ -15,7 +15,6 @@
 - **Saving Throws**: Str +4, Con +3
 - **Skills:** stealth +2
 - **Senses:** passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

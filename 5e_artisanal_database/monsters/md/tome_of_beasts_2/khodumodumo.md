@@ -16,7 +16,6 @@
 - **Skills:** perception +7, stealth +10
 - **Damage Resistances:** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 17
-- **Languages:** —
 
 ### Special Abilities
 

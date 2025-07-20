@@ -15,7 +15,6 @@
 - **Skills:** Perception +3, Stealth +4
 - **Damage Resistances:** bludgeoning
 - **Senses:** darkvision 60 ft., passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

@@ -12,12 +12,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 5 (-3) | 17 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
-- **Skills:** 
 - **Damage Immunities:** poison
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

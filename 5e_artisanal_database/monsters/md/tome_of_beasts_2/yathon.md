@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 21 (+5) | 15 (+2) | 18 (+4) | 10 (+0) | 16 (+3) | 7 (-2) |
 
-- **Skills:** 
 - **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 13
 - **Languages:** Common, Orc
 

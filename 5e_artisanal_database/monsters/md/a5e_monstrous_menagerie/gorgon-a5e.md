@@ -15,7 +15,6 @@
 - **Skills:** perception +4
 - **Condition Immunities:** petrified
 - **Senses:** passive Perception 14
-- **Languages:** 
 
 ### Actions
 

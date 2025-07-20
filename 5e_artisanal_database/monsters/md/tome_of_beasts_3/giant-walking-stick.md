@@ -15,7 +15,6 @@
 - **Skills:** perception +0
 - **Damage Resistances:** bludgeoning, piercing
 - **Senses:** tremorsense 30', passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 

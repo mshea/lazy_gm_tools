@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 5 (-3) | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
 
-- **Skills:** 
 - **Damage Immunities:** fire, poison
 - **Condition Immunities:** poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10

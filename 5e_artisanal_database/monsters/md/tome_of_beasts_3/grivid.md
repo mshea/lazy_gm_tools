@@ -15,7 +15,6 @@
 - **Saving Throws**: Dex +7, Wis +6
 - **Skills:** perception +2
 - **Senses:** tremorsense 60', passive Perception 16
-- **Languages:** —
 
 ### Special Abilities
 

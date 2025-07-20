@@ -16,7 +16,6 @@
 - **Skills:** athletics +9, perception +4, stealth +5, survival +4
 - **Damage Resistances:** cold, thunder
 - **Senses:** darkvision 120 ft., passive Perception 16
-- **Languages:** 
 
 ### Special Abilities
 

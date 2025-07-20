@@ -13,7 +13,6 @@
 | 18 (+4) | 18 (+4) | 18 (+4) | 23 (+6) | 15 (+2) | 18 (+4) |
 
 - **Saving Throws**: Dex +9, Wis +7, Cha +9
-- **Skills:** 
 - **Damage Immunities:** psychic
 - **Damage Resistances:** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses:** darkvision 120 ft., passive Perception 12

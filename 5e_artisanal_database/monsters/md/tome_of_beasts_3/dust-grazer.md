@@ -16,7 +16,6 @@
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned
 - **Senses:** blindsight 120' (blind beyond), passive Perception 8
-- **Languages:** —
 
 ### Special Abilities
 

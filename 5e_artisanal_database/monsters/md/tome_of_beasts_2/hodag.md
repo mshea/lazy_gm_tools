@@ -15,7 +15,6 @@
 - **Skills:** perception +3, stealth +5
 - **Condition Immunities:** charmed
 - **Senses:** darkvision 60 ft., passive Perception 13
-- **Languages:** —
 
 ### Special Abilities
 

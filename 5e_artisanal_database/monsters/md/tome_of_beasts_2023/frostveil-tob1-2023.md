@@ -18,7 +18,6 @@
 - **Damage Resistances:** bludgeoning and piercing from nonmagical attacks
 - **Condition Immunities:** blinded, charmed, deafened, frightened, prone
 - **Senses:** blindsight 120 ft., passive Perception 10
-- **Languages:** —
 
 ### Special Abilities
 
