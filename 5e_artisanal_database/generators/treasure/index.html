@@ -14,18 +14,34 @@
 <div><a href="../../index.html">5e Artisanal Database</a> → Lazy 5e Treasure Generator</div>
 <h1>Lazy 5e Treasure Generator</h1>
 
-<select id="tier">
-  <option value="tier1">1st–4th Level</option>
-  <option value="tier2">5th–10th Level</option>
-  <option value="tier3">11th–16th Level</option>
-  <option value="tier4">17th+ Level</option>
-</select>
-<br><br><button onclick="generate()">Generate</button>
+<div style="margin: 20px 0;">
+    <div style="margin-bottom: 15px;">
+        <label for="tier">Character Tier:</label>
+        <select id="tier" style="margin-left: 10px;">
+            <option value="tier1">1st–4th Level</option>
+            <option value="tier2">5th–10th Level</option>
+            <option value="tier3">11th–16th Level</option>
+            <option value="tier4">17th+ Level</option>
+        </select>
+    </div>
+    
+    <div>
+        <label for="spellSource">Spell Source:</label>
+        <select id="spellSource" style="margin-left: 10px;">
+            <option value="srd-2024" selected>D&D 2024 (5.2 SRD)</option>
+            <option value="wotc-srd">D&D 2014 (5.1 SRD)</option>
+            <option value="dmag">Deep Magic 5e</option>
+            <option value="a5e">Level Up Advanced 5e</option>
+        </select>
+    </div>
+</div>
+
+<button onclick="generate()">Generate</button>
 
 <div id="output"></div>
 
 <h2>About This Generator</h2>
-<p>The Lazy 5e Generator is a general-purpose 5e treasure generator built for any 5e game. Treasure is based on 5.1 SRD (D&D 2014) magic items and spells.</p>
+<p>The Lazy 5e Generator is a general-purpose 5e treasure generator built for any 5e game.</p>
 <ul>
 <li>Treasure hordes are intended to be rewarded per-session.</li>
 <li>Monetary treasure averages 400 GP at tier 1, 4,000 GP at tier 2, 30,000 GP at tier 3, and 200,000 GP at tier 4.</li>
@@ -34,7 +50,113 @@
 </ul>
 
 <!-- Load external data and generator files -->
+<script src="../../css_js/spell_index.js"></script>
 <script src="data.js"></script>
 <script src="../../css_js/generator.js"></script>
+
+<script>
+function getOrdinalSuffix(num) {
+    const j = num % 10;
+    const k = num % 100;
+    if (j == 1 && k != 11) return "st";
+    if (j == 2 && k != 12) return "nd";
+    if (j == 3 && k != 13) return "rd";
+    return "th";
+}
+
+// Override the generate function after all scripts load
+window.addEventListener('load', function() {
+    // Store reference to original function if needed
+    const originalGenerate = window.generate;
+    
+    window.generate = function() {
+        const spellSourceSelect = document.getElementById('spellSource');
+        const selectedSource = spellSourceSelect ? spellSourceSelect.value : 'srd-2024';
+        
+        const tier = document.getElementById('tier').value;
+        
+        const parsed = parseInput(dataText);
+        
+        
+        // Function for relic spells - includes level, DC, mod but no price
+        function getSpellForRelics(source) {
+            const sourceLevels = spellIndex[source];
+            const availableLevels = Object.keys(sourceLevels).filter(level => sourceLevels[level] && sourceLevels[level].length > 0);
+            
+            const randomLevel = availableLevels[Math.floor(Math.random() * availableLevels.length)];
+            const spells = sourceLevels[randomLevel];
+            const spellName = spells[Math.floor(Math.random() * spells.length)];
+            const stats = scrollStats[randomLevel];
+            const levelText = randomLevel === "0" ? "Cantrip" : `${randomLevel}${getOrdinalSuffix(randomLevel)} level`;
+            const spellLink = getSpellLink(spellName, source);
+            
+            return `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> once (${levelText}, DC ${stats.dc}, Mod +${stats.attack})`;
+        }
+        
+        // Function for weapon/armor spells - includes level, DC, mod but no price or rarity
+        function getSpellForWeaponsArmor(source, spellLevel) {
+            const spells = spellIndex[source][spellLevel];
+            const spellName = spells[Math.floor(Math.random() * spells.length)];
+            const stats = scrollStats[spellLevel];
+            const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
+            const spellLink = getSpellLink(spellName, source);
+            
+            return `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, DC ${stats.dc}, Mod +${stats.attack})`;
+        }
+
+        // Generate multiple spells for each level to provide variety
+        function generateMultipleSpells(source, level, count = 10) {
+            const spells = [];
+            for (let i = 0; i < count; i++) {
+                spells.push(getSpellForWeaponsArmor(source, level));
+            }
+            return spells;
+        }
+        
+        function generateMultipleRelicSpells(source, count = 10) {
+            const spells = [];
+            for (let i = 0; i < count; i++) {
+                spells.push(getSpellForRelics(source));
+            }
+            return spells;
+        }
+        
+        parsed.cantrip = generateMultipleSpells(selectedSource, "0");
+        parsed.circle_1_spell = generateMultipleSpells(selectedSource, "1");
+        parsed.circle_2_spell = generateMultipleSpells(selectedSource, "2");
+        parsed.circle_3_spell = generateMultipleSpells(selectedSource, "3");
+        parsed.circle_4_spell = generateMultipleSpells(selectedSource, "4");
+        parsed.circle_5_spell = generateMultipleSpells(selectedSource, "5");
+        parsed.circle_6_spell = generateMultipleSpells(selectedSource, "6");
+        parsed.circle_7_spell = generateMultipleSpells(selectedSource, "7");
+        parsed.circle_8_spell = generateMultipleSpells(selectedSource, "8");
+        parsed.circle_9_spell = generateMultipleSpells(selectedSource, "9");
+        parsed.spell = generateMultipleRelicSpells(selectedSource);
+        
+        const output = document.getElementById('output');
+        
+        let result = pick(parsed[tier]);
+        
+        // Process templates until no more changes, using comma formatting for treasure
+        for (let i = 0; i < 10; i++) {
+            const newResult = fillTemplate(result, parsed, true); // true = use comma formatting
+            if (newResult === result) break;
+            result = newResult;
+        }
+        
+        
+        // Format output as bulleted list (original formatting)
+        const items = result.split('<br>')
+            .map(item => item.trim())
+            .filter(item => item !== '')
+            .map(item => '- ' + item.charAt(0).toUpperCase() + item.slice(1));
+        
+        output.innerHTML = '<p>' + items.join('<br>') + '</p>';
+    };
+    
+    // Generate initial treasure
+    window.generate();
+});
+</script>
 </body>
 </html>
