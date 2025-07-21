@@ -174,11 +174,21 @@ function processQuantityPatterns(text, data) {
             return match; // Return original if table not found
         }
         
-        // Pick one item and return with quantity
-        const item = pick(table);
-        // Handle singular/plural for gemstones
-        const result = `${qty} x ${item}`;
-        return qty === 1 ? result.replace(' gemstones ', ' gemstone ') : result;
+        // For magic item tables, generate unique items; for gems/art, allow duplicates
+        if (tableName.includes('magic_items') || tableName.includes('_themes') || tableName.includes('art')) {
+            // Generate unique magic items
+            const items = [];
+            for (let i = 0; i < qty; i++) {
+                const item = pick(table);
+                items.push(item);
+            }
+            return items.join('<br>');
+        } else {
+            // For gems, art objects, etc., use the original behavior (allow duplicates)
+            const item = pick(table);
+            const result = `${qty} x ${item}`;
+            return qty === 1 ? result.replace(' gemstones ', ' gemstone ') : result;
+        }
     });
 }
 
