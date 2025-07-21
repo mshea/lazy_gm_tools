@@ -12,14 +12,230 @@
 <h1>Unique Armor Generator</h1>
 <p>Use these results to inspire your own custom magic items. Add bonuses as desired. Spells are intended to be usable once per day, recharging at the next dawn. Cantrips may be used at-will if desired.</p>
 
+<div style="margin: 20px 0;">
+    <div style="margin-bottom: 15px;">
+        <label for="source">Spell Source:</label>
+        <select id="source" style="margin-left: 10px;">
+            <option value="srd-2024" selected>D&D 2024 (5.2 SRD)</option>
+            <option value="wotc-srd">D&D 2014 (5.1 SRD)</option>
+            <option value="dmag">Deep Magic 5e</option>
+            <option value="a5e">Level Up Advanced 5e</option>
+        </select>
+    </div>
+    
+    <div>
+        <label for="rarity">Spell Level/Rarity:</label>
+        <select id="rarity" style="margin-left: 10px;">
+            <option value="any" selected>Any (All spell levels)</option>
+            <option value="common">Common (Cantrips & 1st level)</option>
+            <option value="uncommon">Uncommon (2nd & 3rd level)</option>
+            <option value="rare">Rare (4th & 5th level)</option>
+            <option value="very-rare">Very Rare (6th, 7th & 8th level)</option>
+            <option value="legendary">Legendary (9th level)</option>
+        </select>
+    </div>
+</div>
+
 <button onclick="generateContent()">Roll</button>
 
 <div id="output">
     <em>Click the button above to generate content...</em>
 </div>
 
-<script src="generator_text.js"></script>
+<script src="../scrolls/spell_index.js"></script>
 <script src="../../css_js/generator.js"></script>
+<script>
+// Armor generator data
+const dataText = `
+template
+    {race} {condition} {armor} that casts {spell}.
+
+condition
+  aberrant
+  abyssal
+  acidic
+  ancient
+  astral
+  bladed
+  bloody
+  buried
+  cracked
+  crumbling
+  crystalline
+  cursed
+  cyclopean
+  defiled
+  dreamscape
+  earthen
+  eldritch
+  emerald
+  entombed
+  ethereal
+  flaming
+  floating
+  flooded
+  foggy
+  frozen
+  glass
+  glowing
+  glyphed
+  hallowed
+  haunted
+  holy
+  infested
+  lightning-touched
+  moontouched
+  musical
+  necrotic
+  obsidian
+  oozing
+  opal
+  poisonous
+  psionic
+  radiant
+  ruby
+  ruined
+  sapphire
+  shadowy
+  spiked
+  startouched
+  stormy
+  temporal
+  titanic
+  twilight
+  unearthed
+  unhallowed
+  unholy
+
+race
+  human
+  elven
+  dwarven
+  halfling
+  gnomish
+  dragonborn
+  orcish
+  bestial
+  primordial
+  gearforged
+  constructed
+  elemental
+  draconic
+  fiendish
+  giant
+  shadow-touched
+  aberrant
+  fungoid
+  goblinoid
+  infernal
+  celestial
+  outerplanar
+  faerie
+  monstrous
+  ooze-touched
+  undead
+  plant-touched
+  minotaur
+  shadowborn
+  serpentine
+
+armor
+  robe
+  padded armor
+  leather armor
+  studded leather armor
+  hide armor
+  chain shirt
+  scale mail
+  breastplate
+  half plate armor
+  ring mail
+  chain mail
+  splint armor
+  plate armor
+
+spell
+  <em>magic missile</em> (1st level, Uncommon, DC 13, Mod +5)
+`;
+
+// Override spell selection with source and rarity filtering
+function getSpellFromSourceAndRarity(source, rarity) {
+    if (typeof spellIndex !== 'undefined' && spellIndex[source] && typeof rarityToLevels !== 'undefined') {
+        // Get possible levels for the selected rarity
+        const possibleLevels = rarityToLevels[rarity] || rarityToLevels['any'];
+        const sourceLevels = spellIndex[source];
+        
+        // Filter to only levels that exist in both the rarity and the source
+        const availableLevels = possibleLevels.filter(level => sourceLevels[level] && sourceLevels[level].length > 0);
+        
+        if (availableLevels.length > 0) {
+            const randomLevel = availableLevels[Math.floor(Math.random() * availableLevels.length)];
+            const spells = sourceLevels[randomLevel];
+            
+            if (spells && spells.length > 0) {
+                const spellName = spells[Math.floor(Math.random() * spells.length)];
+                const stats = scrollStats && scrollStats[randomLevel] ? scrollStats[randomLevel] : { rarity: 'Uncommon', dc: 13, attack: 5 };
+                const levelText = randomLevel === "0" ? "Cantrip" : `${randomLevel}${getOrdinalSuffix(randomLevel)} level`;
+                const spellLink = getSpellLink(spellName, source);
+                
+                return `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, ${stats.rarity}, DC ${stats.dc}, Mod +${stats.attack})`;
+            }
+        }
+    }
+    
+    // Fallback to original spell data
+    const parsed = parseInput(dataText);
+    if (parsed.spell && parsed.spell.length > 0) {
+        return pick(parsed.spell);
+    }
+    
+    return '<em>magic missile</em> (1st level, Uncommon, DC 13, Mod +5)';
+}
+
+function getOrdinalSuffix(num) {
+    const j = num % 10;
+    const k = num % 100;
+    if (j == 1 && k != 11) return "st";
+    if (j == 2 && k != 12) return "nd";
+    if (j == 3 && k != 13) return "rd";
+    return "th";
+}
+
+// Enhanced generateContent with spell source and rarity selection
+const originalGenerateContent = generateContent;
+generateContent = function() {
+    const sourceSelect = document.getElementById('source');
+    const raritySelect = document.getElementById('rarity');
+    
+    if (!sourceSelect || !raritySelect) {
+        // No selectors, use original function
+        originalGenerateContent();
+        return;
+    }
+    
+    const selectedSource = sourceSelect.value;
+    const selectedRarity = raritySelect.value;
+    const parsed = parseInput(dataText);
+    const templates = parsed.template || [''];
+    delete parsed.template;
+    
+    const output = document.getElementById('output');
+    let html = '<ol>';
+    
+    for (let i = 0; i < 10; i++) {
+        // Get a fresh spell for each item
+        parsed.spell = [getSpellFromSourceAndRarity(selectedSource, selectedRarity)];
+        
+        const template = pick(templates);
+        const result = fillTemplate(template, parsed);
+        const capitalizedResult = result.charAt(0).toUpperCase() + result.slice(1);
+        html += '<li>' + capitalizedResult + '</li>';
+    }
+    
+    html += '</ol>';
+    output.innerHTML = html;
+};
+</script>
 
 </body>
 </html>
