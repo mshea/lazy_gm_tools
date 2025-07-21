@@ -11,15 +11,158 @@
 
 <h1>Relic Generator</h1>
 
-<p>Relics are single-use magic items usable by any class. Any character can identify the spell on the item with ten minutes of examination. Use the price listed as a guide. The action required to use the relic is the same as the action required for the spell.</p> 
+<p>Relics are single-use magic items usable by any class. Any character can identify the spell on the item with ten minutes of examination. Use the price listed as a guide. The action required to use the relic is the same as the action required for the spell.</p>
 
-<button onclick="generateContent()">Roll</button>
+<div style="margin: 20px 0;">
+    <div style="margin-bottom: 15px;">
+        <label for="source">Spell Source:</label>
+        <select id="source" style="margin-left: 10px;">
+            <option value="srd-2024" selected>D&D 2024 (5.2 SRD)</option>
+            <option value="wotc-srd">D&D 2014 (5.1 SRD)</option>
+            <option value="dmag">Deep Magic 5e</option>
+            <option value="a5e">Level Up Advanced 5e</option>
+        </select>
+    </div>
+    
+    <div>
+        <label for="rarity">Spell Level/Rarity:</label>
+        <select id="rarity" style="margin-left: 10px;">
+            <option value="any" selected>Any (All spell levels)</option>
+            <option value="common">Common (Cantrips & 1st level)</option>
+            <option value="uncommon">Uncommon (2nd & 3rd level)</option>
+            <option value="rare">Rare (4th & 5th level)</option>
+            <option value="very-rare">Very Rare (6th, 7th & 8th level)</option>
+            <option value="legendary">Legendary (9th level)</option>
+        </select>
+    </div>
+</div>
+
+<button onclick="generateContent()">Generate 10 Relics</button>
 
 <div id="output">
     <em>Click the button above to generate content...</em>
 </div>
 
-<script src="generator_text.js"></script>
-<script src="../../css_js/generator.js"></script>
+<script src="../scrolls/spell_index.js"></script>
+<script>
+// Relic data arrays - extracted from the generator_text.js template format
+const conditions = [
+    'aberrant', 'abyssal', 'acidic', 'ancient', 'astral', 'bladed', 'bloody', 'buried', 'cracked', 'crumbling',
+    'crystalline', 'cursed', 'cyclopean', 'defiled', 'dreamscape', 'earthen', 'eldritch', 'emerald', 'entombed',
+    'ethereal', 'flaming', 'floating', 'flooded', 'foggy', 'frozen', 'glass', 'glowing', 'glyphed', 'hallowed',
+    'haunted', 'holy', 'infested', 'lightning-touched', 'moontouched', 'musical', 'necrotic', 'obsidian',
+    'oozing', 'opal', 'poisonous', 'psionic', 'radiant', 'ruby', 'ruined', 'sapphire', 'shadowy', 'spiked',
+    'startouched', 'stormy', 'temporal', 'titanic', 'twilight', 'unearthed', 'unhallowed', 'unholy'
+];
+
+const items = [
+    'amulet', 'arrowhead', 'badge', 'bell', 'bird skull', 'bone', 'bottle', 'bowl', 'box', 'bracelet',
+    'brooch', 'buckle', 'candle', 'clock', 'coin', 'crown', 'crystal', 'cup', 'dagger', 'die', 'disc',
+    'doll', 'earring', 'egg', 'fan', 'feather', 'figurine', 'finger bone', 'flute', 'forked rod',
+    'game piece', 'gemstone', 'glass eye', 'glove', 'goblet', 'hammer', 'holy symbol', 'icon', 'idol',
+    'insignia', 'jar', 'jeweled egg', 'jewelry box', 'key', 'knife', 'lamp', 'lantern', 'mask',
+    'medallion', 'mirror', 'monocle', 'mummified finger', 'music box', 'necklace', 'opal', 'orb', 'pipe',
+    'pipes', 'portrait', 'pouch of dust', 'quill', 'ring', 'rod', 'scale', 'scrimshaw', 'scroll', 'shard',
+    'skull', 'snuffbox', 'sphere', 'spike', 'statue', 'statuette', 'stone', 'stone disk', 'string of beads',
+    'swordhilt', 'symbol', 'talon', 'tiara', 'tile', 'tooth', 'urn', 'vial', 'wand', 'whistle', 'ink pen',
+    'dreamcatcher'
+];
+
+const races = [
+    'human', 'elven', 'dwarven', 'halfling', 'gnomish', 'dragonborn', 'orcish', 'bestial', 'primordial',
+    'gearforged', 'constructed', 'elemental', 'draconic', 'fiendish', 'giant', 'shadow-touched', 'aberrant',
+    'fungoid', 'goblinoid', 'infernal', 'celestial', 'outerplanar', 'faerie', 'monstrous', 'ooze-touched',
+    'undead', 'plant-touched', 'minotaur', 'shadowborn', 'serpentine'
+];
+
+// Simple random picker
+function getRandomElement(array) {
+    return array[Math.floor(Math.random() * array.length)];
+}
+
+function formatPrice(price) {
+    return price.toLocaleString() + " GP";
+}
+
+function getOrdinalSuffix(num) {
+    const j = num % 10;
+    const k = num % 100;
+    if (j == 1 && k != 11) return "st";
+    if (j == 2 && k != 12) return "nd";
+    if (j == 3 && k != 13) return "rd";
+    return "th";
+}
+
+function generateContent() {
+    const sourceSelect = document.getElementById('source');
+    const raritySelect = document.getElementById('rarity');
+    const output = document.getElementById('output');
+    
+    const selectedSource = sourceSelect.value;
+    const selectedRarity = raritySelect.value;
+    
+    if (!selectedSource || !selectedRarity) {
+        output.innerHTML = '<p><em>Please select both a source and rarity first.</em></p>';
+        return;
+    }
+    
+    const possibleLevels = rarityToLevels[selectedRarity];
+    if (!possibleLevels) {
+        output.innerHTML = '<p><em>Invalid rarity selected.</em></p>';
+        return;
+    }
+    
+    let html = '<ol>';
+    
+    // Generate 10 relics
+    for (let i = 0; i < 10; i++) {
+        // Pick random components
+        const race = getRandomElement(races);
+        const condition = getRandomElement(conditions);
+        const item = getRandomElement(items);
+        
+        // Pick a random spell level from the possible levels for this rarity
+        const spellLevel = getRandomElement(possibleLevels);
+        
+        // Get spells from the selected source
+        const availableSpells = getSpellsFromSource(selectedSource, spellLevel);
+        
+        let spellHtml;
+        if (availableSpells.length === 0) {
+            spellHtml = '<em>magic missile</em> (1st level, Common, DC 13, Mod +5, 100 GP)';
+        } else {
+            // Pick a random spell
+            const spellName = getRandomElement(availableSpells);
+            
+            // Get stats for this spell level
+            const stats = scrollStats[spellLevel];
+            if (!stats) {
+                spellHtml = '<em>magic missile</em> (1st level, Common, DC 13, Mod +5, 100 GP)';
+            } else {
+                // Create spell link
+                const spellLink = getSpellLink(spellName, selectedSource);
+                
+                const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
+                let spellPrice = Math.round(stats.price / 2); // Relics are half scroll price
+                
+                spellHtml = `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, ${stats.rarity}, DC ${stats.dc}, Mod +${stats.attack}, ${formatPrice(spellPrice)})`;
+            }
+        }
+        
+        // Build the relic description
+        html += '<li>';
+        html += `${race.charAt(0).toUpperCase() + race.slice(1)} ${condition} ${item} that casts ${spellHtml}.`;
+        html += '</li>';
+    }
+    
+    html += '</ol>';
+    output.innerHTML = html;
+}
+
+// Auto-generate on page load
+document.addEventListener('DOMContentLoaded', function() {
+    generateContent();
+});
+</script>
 </body>
 </html>
