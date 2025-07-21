@@ -17,8 +17,73 @@
     <em>Click the button above to generate content...</em>
 </div>
 
-<script src="generator_text.js"></script>
+<!-- Load shared common data -->
+<script src="../../css_js/common_conditions.js"></script>
+<script src="../../css_js/common_origins.js"></script>
+<script src="../../css_js/common_items.js"></script>
+<script src="../../css_js/common_generator_data.js"></script>
 <script src="../../css_js/generator.js"></script>
+
+<script>
+// Location-specific data - condition and species data now loaded from shared files
+const locationDataText = `
+template
+  {species} {condition} {location}.
+
+location
+  aerie
+  amphitheater
+  arcane laboratory
+  arena
+  armory
+  bailey
+  banquet hall
+  barracks
+  bastille
+  battlement
+  bestiary
+  bone bridge
+  bridge
+  caravan
+  castle
+  catacomb
+  cavern
+  cemetery
+  chapel
+  cistern
+  citadel
+  colosseum
+  crag
+  crypt
+  den
+  dungeon
+  fane
+  gatehouse
+  gorge
+  grove
+  guardhouse
+  guildhall
+  harbor
+  keep
+  laboratory
+  lair
+  library
+  mine
+  palace
+  prison
+  sanctum
+  shrine
+  stronghold
+  temple
+  tomb
+  tower
+  watchtower
+  ziggurat
+`;
+
+// Combine location-specific data with shared common data
+const dataText = addCommonDataTo(locationDataText);
+</script>
 
 </body>
 </html>

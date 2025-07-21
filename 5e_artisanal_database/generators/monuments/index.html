@@ -18,8 +18,124 @@
     <em>Click the button above to generate content...</em>
 </div>
 
-<script src="generator_text.js"></script>
+<!-- Load shared common data -->
+<script src="../../css_js/common_conditions.js"></script>
+<script src="../../css_js/common_origins.js"></script>
+<script src="../../css_js/common_items.js"></script>
+<script src="../../css_js/common_generator_data.js"></script>
 <script src="../../css_js/generator.js"></script>
+
+<script>
+// Monument-specific data - condition and species data now loaded from shared files
+const monumentDataText = `
+template
+  {species} {condition} {monument}.
+
+monument
+  aerie
+  altar
+  aqueduct
+  arcane circle
+  archway
+  aviary
+  barrow
+  battlefield
+  bell
+  bone pile
+  boneyard
+  bonfire
+  brazier
+  bridge
+  cage
+  cairn
+  campsite
+  canal
+  carcass
+  carriage 
+  cauldron
+  cave
+  cenotaph 
+  cesspit
+  charnel pit
+  columns
+  crater
+  crossroads
+  crystal
+  dome
+  doorway
+  earthmote
+  effigy
+  fighting pit
+  firepit
+  fossil
+  fountain
+  gallows
+  gateway
+  geode
+  geyser
+  graveyard
+  gravestone
+  grotto
+  grove
+  hollow
+  huge skull
+  idol
+  illusion
+  keep
+  lantern
+  machine
+  mausoleum
+  megalith
+  meteorite
+  midden
+  mill
+  mine
+  mirror
+  monolith
+  monument
+  mosaic
+  nest
+  obelisk 
+  orb
+  orrery
+  oubliette 
+  petrified creature
+  pillar
+  pit
+  planar rift
+  platform
+  podium
+  pool
+  rock
+  ruin
+  sacred circle
+  sarcophagus
+  shipwreck 
+  shrine
+  sigil
+  sinkhole
+  slab
+  sphere
+  spire
+  statue
+  stone circle
+  stone tablets
+  sundial
+  throne
+  tomb
+  totem
+  tower
+  trash heap
+  tree
+  wall
+  waymarker
+  well
+  windmill
+`;
+
+// Combine monument-specific data with shared common data
+const dataText = addCommonDataTo(monumentDataText);
+</script>
 
 </body>
 </html>

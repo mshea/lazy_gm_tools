@@ -42,7 +42,91 @@
 </div>
 
 <script src="../../css_js/spell_index.js"></script>
-<script src="scroll_generator.js"></script>
+
+<script>
+// Simplified scroll generator using minimal spell index
+
+function getRandomElement(array) {
+    return array[Math.floor(Math.random() * array.length)];
+}
+
+function formatPrice(price) {
+    return price.toLocaleString() + " GP";
+}
+
+function getOrdinalSuffix(num) {
+    const j = num % 10;
+    const k = num % 100;
+    if (j == 1 && k != 11) return "st";
+    if (j == 2 && k != 12) return "nd";
+    if (j == 3 && k != 13) return "rd";
+    return "th";
+}
+
+function generateScrolls() {
+    const sourceSelect = document.getElementById('source');
+    const raritySelect = document.getElementById('rarity');
+    const output = document.getElementById('output');
+    
+    const selectedSource = sourceSelect.value;
+    const selectedRarity = raritySelect.value;
+    
+    if (!selectedSource || !selectedRarity) {
+        output.innerHTML = '<p><em>Please select both a source and rarity first.</em></p>';
+        return;
+    }
+    
+    const possibleLevels = rarityToLevels[selectedRarity];
+    if (!possibleLevels) {
+        output.innerHTML = '<p><em>Invalid rarity selected.</em></p>';
+        return;
+    }
+    
+    let html = '<ol>';
+    
+    // Generate 10 scrolls
+    for (let i = 0; i < 10; i++) {
+        // Pick a random spell level from the possible levels for this rarity
+        const spellLevel = getRandomElement(possibleLevels);
+        
+        // Get spells from the selected source
+        const availableSpells = getSpellsFromSource(selectedSource, spellLevel);
+        
+        if (availableSpells.length === 0) {
+            html += '<li>Spell Scroll (<em>magic missile</em>) - Uncommon - 100 GP';
+            html += ' - Spell save DC 13, +5 to hit with spell attacks</li>';
+            continue;
+        }
+        
+        // Pick a random spell
+        const spellName = getRandomElement(availableSpells);
+        
+        // Get stats for this spell level
+        const stats = scrollStats[spellLevel];
+        if (!stats) {
+            html += '<li>Spell Scroll (<em>magic missile</em>) - Uncommon - 100 GP';
+            html += ' - Spell save DC 13, +5 to hit with spell attacks</li>';
+            continue;
+        }
+        
+        // Create spell link
+        const spellLink = getSpellLink(spellName, selectedSource);
+        
+        const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
+        
+        html += '<li>';
+        html += `Spell Scroll (<em><a href="${spellLink}" target="_blank">${spellName}</a></em>) - ${stats.rarity} - ${formatPrice(stats.price)}`;
+        if (spellLevel !== "0") {
+            html += ` - Spell save DC ${stats.dc}, +${stats.attack} to hit with spell attacks`;
+        }
+        html += '</li>';
+    }
+    
+    html += '</ol>';
+    
+    output.innerHTML = html;
+}
+</script>
 <script>
 // Auto-generate scrolls on page load
 document.addEventListener('DOMContentLoaded', function() {

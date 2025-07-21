@@ -42,102 +42,18 @@
     <em>Click the button above to generate content...</em>
 </div>
 
+<!-- Load shared common data -->
+<script src="../../css_js/common_conditions.js"></script>
+<script src="../../css_js/common_origins.js"></script>
+<script src="../../css_js/common_items.js"></script>
+<script src="../../css_js/common_generator_data.js"></script>
 <script src="../../css_js/spell_index.js"></script>
 <script src="../../css_js/generator.js"></script>
 <script>
-// Armor generator data
-const dataText = `
+// Armor-specific data - condition and species data now loaded from shared files
+const armorDataText = `
 template
-    {race} {condition} {armor} that casts {spell}.
-
-condition
-  aberrant
-  abyssal
-  acidic
-  ancient
-  astral
-  bladed
-  bloody
-  buried
-  cracked
-  crumbling
-  crystalline
-  cursed
-  cyclopean
-  defiled
-  dreamscape
-  earthen
-  eldritch
-  emerald
-  entombed
-  ethereal
-  flaming
-  floating
-  flooded
-  foggy
-  frozen
-  glass
-  glowing
-  glyphed
-  hallowed
-  haunted
-  holy
-  infested
-  lightning-touched
-  moontouched
-  musical
-  necrotic
-  obsidian
-  oozing
-  opal
-  poisonous
-  psionic
-  radiant
-  ruby
-  ruined
-  sapphire
-  shadowy
-  spiked
-  startouched
-  stormy
-  temporal
-  titanic
-  twilight
-  unearthed
-  unhallowed
-  unholy
-
-race
-  human
-  elven
-  dwarven
-  halfling
-  gnomish
-  dragonborn
-  orcish
-  bestial
-  primordial
-  gearforged
-  constructed
-  elemental
-  draconic
-  fiendish
-  giant
-  shadow-touched
-  aberrant
-  fungoid
-  goblinoid
-  infernal
-  celestial
-  outerplanar
-  faerie
-  monstrous
-  ooze-touched
-  undead
-  plant-touched
-  minotaur
-  shadowborn
-  serpentine
+    {species} {condition} {armor} that casts {spell}.
 
 armor
   robe
@@ -155,8 +71,11 @@ armor
   plate armor
 
 spell
-  <em>magic missile</em> (1st level, Uncommon, DC 13, Mod +5)
+  <em>spell</em>
 `;
+
+// Combine armor-specific data with shared common data
+const dataText = addCommonDataTo(armorDataText);
 
 // Override spell selection with source and rarity filtering
 function getSpellFromSourceAndRarity(source, rarity) {
