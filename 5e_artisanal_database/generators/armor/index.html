@@ -43,9 +43,6 @@
 </div>
 
 <!-- Load shared common data -->
-<script src="../../css_js/common_conditions.js"></script>
-<script src="../../css_js/common_origins.js"></script>
-<script src="../../css_js/common_items.js"></script>
 <script src="../../css_js/common_generator_data.js"></script>
 <script src="../../css_js/spell_index.js"></script>
 <script src="../../css_js/generator.js"></script>
@@ -102,13 +99,13 @@ function getSpellFromSourceAndRarity(source, rarity) {
         }
     }
     
-    // Fallback to original spell data
+    // This shouldn't happen with proper spell data
     const parsed = parseInput(dataText);
     if (parsed.spell && parsed.spell.length > 0) {
         return pick(parsed.spell);
     }
     
-    return '<em>magic missile</em> (1st level, Uncommon, DC 13, Mod +5)';
+    throw new Error('No spells available for the selected source and rarity');
 }
 
 function getOrdinalSuffix(num) {

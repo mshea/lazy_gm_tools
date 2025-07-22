@@ -44,15 +44,15 @@
 </div>
 
 <!-- Load shared common data -->
-<script src="../../css_js/common_conditions.js"></script>
-<script src="../../css_js/common_origins.js"></script>
-<script src="../../css_js/common_items.js"></script>
+<script src="../../css_js/common_generator_data.js"></script>
+<script src="../../css_js/generator.js"></script>
 <script src="../../css_js/spell_index.js"></script>
 <script>
-// Use shared data for conditions, species, and items
-const conditions = commonConditions;
-const races = commonOrigins;
-const items = commonItems;
+// Parse shared data from the common generator data text
+const parsedData = parseInput(commonGeneratorDataText);
+const conditions = parsedData.condition || [];
+const races = parsedData.species || [];
+const items = parsedData.item || [];
 
 // Simple random picker
 function getRandomElement(array) {
@@ -106,27 +106,19 @@ function generateContent() {
         // Get spells from the selected source
         const availableSpells = getSpellsFromSource(selectedSource, spellLevel);
         
-        let spellHtml;
-        if (availableSpells.length === 0) {
-            spellHtml = '<em>magic missile</em> (1st level, Common, DC 13, Mod +5, 100 GP)';
-        } else {
-            // Pick a random spell
-            const spellName = getRandomElement(availableSpells);
-            
-            // Get stats for this spell level
-            const stats = scrollStats[spellLevel];
-            if (!stats) {
-                spellHtml = '<em>magic missile</em> (1st level, Common, DC 13, Mod +5, 100 GP)';
-            } else {
-                // Create spell link
-                const spellLink = getSpellLink(spellName, selectedSource);
-                
-                const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
-                let spellPrice = Math.round(stats.price / 2); // Relics are half scroll price
-                
-                spellHtml = `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, ${stats.rarity}, DC ${stats.dc}, Mod +${stats.attack}, ${formatPrice(spellPrice)})`;
-            }
-        }
+        // Pick a random spell
+        const spellName = getRandomElement(availableSpells);
+        
+        // Get stats for this spell level
+        const stats = scrollStats[spellLevel];
+        
+        // Create spell link
+        const spellLink = getSpellLink(spellName, selectedSource);
+        
+        const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
+        let spellPrice = Math.round(stats.price / 2); // Relics are half scroll price
+        
+        const spellHtml = `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, ${stats.rarity}, DC ${stats.dc}, Mod +${stats.attack}, ${formatPrice(spellPrice)})`;
         
         // Build the relic description
         html += '<li>';
