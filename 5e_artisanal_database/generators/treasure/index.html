@@ -50,6 +50,7 @@
 </ul>
 
 <!-- Load external data and generator files -->
+<script src="../../css_js/common_generator_data.js"></script>
 <script src="../../css_js/spell_index.js"></script>
 <script src="data.js"></script>
 <script src="../../css_js/generator.js"></script>
@@ -75,7 +76,8 @@ window.addEventListener('load', function() {
         
         const tier = document.getElementById('tier').value;
         
-        const parsed = parseInput(dataText);
+        const combinedDataText = addCommonDataTo(dataText);
+        const parsed = parseInput(combinedDataText);
         
         
         // Function for relic spells - includes level, DC, mod but no price
