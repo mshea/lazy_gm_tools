@@ -118,7 +118,7 @@ function generateContent() {
         const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
         let spellPrice = Math.round(stats.price / 2); // Relics are half scroll price
         
-        const spellHtml = `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, ${stats.rarity}, DC ${stats.dc}, Mod +${stats.attack}, ${formatPrice(spellPrice)})`;
+        const spellHtml = `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, ${stats.rarity}, DC ${stats.dc}, +${stats.attack} Spell Attack, ${formatPrice(spellPrice)})`;
         
         // Build the relic description
         html += '<li>';

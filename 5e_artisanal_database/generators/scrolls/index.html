@@ -67,20 +67,9 @@ function generateScrolls() {
     const sourceSelect = document.getElementById('source');
     const raritySelect = document.getElementById('rarity');
     const output = document.getElementById('output');
-    
     const selectedSource = sourceSelect.value;
     const selectedRarity = raritySelect.value;
-    
-    if (!selectedSource || !selectedRarity) {
-        output.innerHTML = '<p><em>Please select both a source and rarity first.</em></p>';
-        return;
-    }
-    
     const possibleLevels = rarityToLevels[selectedRarity];
-    if (!possibleLevels) {
-        output.innerHTML = '<p><em>Invalid rarity selected.</em></p>';
-        return;
-    }
     
     let html = '<ol>';
     
@@ -92,33 +81,20 @@ function generateScrolls() {
         // Get spells from the selected source
         const availableSpells = getSpellsFromSource(selectedSource, spellLevel);
         
-        if (availableSpells.length === 0) {
-            html += '<li>Spell Scroll (<em>magic missile</em>) - Uncommon - 100 GP';
-            html += ' - Spell save DC 13, +5 to hit with spell attacks</li>';
-            continue;
-        }
-        
         // Pick a random spell
         const spellName = getRandomElement(availableSpells);
         
         // Get stats for this spell level
         const stats = scrollStats[spellLevel];
-        if (!stats) {
-            html += '<li>Spell Scroll (<em>magic missile</em>) - Uncommon - 100 GP';
-            html += ' - Spell save DC 13, +5 to hit with spell attacks</li>';
-            continue;
-        }
         
         // Create spell link
         const spellLink = getSpellLink(spellName, selectedSource);
         
         const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
         
-        html += '<li>';
-        html += `Spell Scroll (<em><a href="${spellLink}" target="_blank">${spellName}</a></em>) - ${stats.rarity} - ${formatPrice(stats.price)}`;
-        if (spellLevel !== "0") {
-            html += ` - Spell save DC ${stats.dc}, +${stats.attack} to hit with spell attacks`;
-        }
+        html += '<li>Spell Scroll ';
+        html += `<em><a href="${spellLink}" target="_blank">${spellName}</a></em>, ${levelText}, ${stats.rarity}, `;
+        html += ` DC ${stats.dc}, +${stats.attack} Spell Attack, ${formatPrice(stats.price)}`;
         html += '</li>';
     }
     
