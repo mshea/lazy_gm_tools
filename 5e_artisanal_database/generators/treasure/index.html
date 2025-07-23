@@ -92,7 +92,7 @@ window.addEventListener('load', function() {
             const levelText = randomLevel === "0" ? "Cantrip" : `${randomLevel}${getOrdinalSuffix(randomLevel)} level`;
             const spellLink = getSpellLink(spellName, source);
             
-            return `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> once (${levelText}, DC ${stats.dc}, Mod +${stats.attack})`;
+            return `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> once (${levelText}, DC ${stats.dc}, +${stats.attack} Spell Attack)`;
         }
         
         // Function for weapon/armor spells - includes level, DC, mod but no price or rarity
@@ -103,7 +103,7 @@ window.addEventListener('load', function() {
             const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
             const spellLink = getSpellLink(spellName, source);
             
-            return `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, DC ${stats.dc}, Mod +${stats.attack})`;
+            return `<em><a href="${spellLink}" target="_blank">${spellName}</a></em> (${levelText}, DC ${stats.dc}, +${stats.attack} Spell Attack)`;
         }
 
         // Generate multiple spells for each level to provide variety

@@ -343,9 +343,9 @@ uncommon_consumable
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/restorative-ointment.html">Restorative Ointment</a>
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-healing.html">Potion of Healing</a> (Greater) ^10
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-giant-strength.html">Potion of Giant Strength</a> (Hill)
-  Spell Scroll — {cantrip} (Uncommon, Cantrip, DC 13, Mod +5)
-  Spell Scroll — {circle_1_spell} (Uncommon, 1st level, DC 13, Mod +5) ^5
-  Spell Scroll — {circle_2_spell} (Uncommon, 2nd level, DC 13, Mod +5) ^2
+  Spell Scroll {cantrip}
+  Spell Scroll {circle_1_spell} ^5
+  Spell Scroll {circle_2_spell} ^2
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-climbing.html">Potion of Climbing</a>
   [[5-15]] x +1 {ammunition}
 
@@ -440,9 +440,9 @@ rare_consumable
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/feather-token.html">Feather Token</a>
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-healing.html">Potion of Healing</a> (Superior) ^10
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-giant-strength.html">Potion of Giant Strength</a> ({Stone|Frost|Fire})
-  Spell Scroll — {circle_2_spell} (Uncommon, 2nd level, DC 13, Mod +5) ^5
-  Spell Scroll — {circle_3_spell} (Uncommon, 3rd level, DC 15, Mod +7) ^2
-  Spell Scroll — {circle_4_spell} (Rare, 4th level, DC 15, Mod +7)
+  Spell Scroll {circle_2_spell} ^5
+  Spell Scroll {circle_3_spell} ^2
+  Spell Scroll {circle_4_spell}
   [[5-15]] x +2 {ammunition}
 
 very_rare_magic_item
@@ -508,9 +508,9 @@ very_rare_consumable
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-speed.html">Potion of Speed</a>
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-giant-strength.html">Potion of Giant Strength</a> (Cloud)
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-healing.html">Potion of Healing</a> (Supreme) ^10
-  Spell Scroll — {circle_5_spell} (Rare, 5th level, DC 17, Mod +9) ^5
-  Spell Scroll — {circle_6_spell} (Very Rare, 6th level, DC 17, Mod +9) ^2
-  Spell Scroll — {circle_7_spell} (Very Rare, 7th level, DC 18, Mod +10)
+  Spell Scroll {circle_5_spell} ^5
+  Spell Scroll {circle_6_spell} ^2
+  Spell Scroll {circle_7_spell}
   [[5-15]] x +3 {ammunition}
 
 legendary_magic_item
@@ -549,8 +549,8 @@ legendary_consumable
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/sovereign-glue.html">Sovereign Glue</a>
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/universal-solvent.html">Universal Solvent</a>
   <a href="../../magic_items/html/5.1_srd_(d&d_2014)/potion-of-giant-strength.html">Potion of Giant Strength</a> (Storm)
-  Spell Scroll — {circle_7_spell} (Very Rare, 7th level, DC 18, Mod +10) ^5
-  Spell Scroll — {circle_8_spell} (Very Rare, 8th level, DC 18, Mod +10) ^2
-  Spell Scroll — {circle_9_spell} (Legendary, 9th level, DC 19, Mod +11)
+  Spell Scroll {circle_7_spell} ^5
+  Spell Scroll {circle_8_spell} ^2
+  Spell Scroll {circle_9_spell}
 
 `;
