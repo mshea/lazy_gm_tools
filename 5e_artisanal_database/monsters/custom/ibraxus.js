@@ -56,4 +56,9 @@ Ibraxus can take 3 legendary actions, choosing from the options below. Only one 
 **Spectral Scourge.** Ibraxus makes a Spectral Scourge attack.
 
 **Scepter's Call (Costs 2 Actions).** Ibraxus makes a Scepter of Vyse attack. On a hit, the target can be teleported up to 120 feet to a space within 5 feet of Ibraxus.
+
+#### Licensing
+
+This stat block comes from the *[City of Arches](https://shop.slyflourish.com/collections/sly-flourishs-adventures/products/the-city-of-arches)* copyright 2024 by Michael E. Shea. This stat block is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
 `;

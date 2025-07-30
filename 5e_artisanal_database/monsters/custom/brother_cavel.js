@@ -45,4 +45,8 @@ At will: *darkness, invisibility*, *spare* *the dying*
 ***Aura of the Dead.*** While conscious, Brother Cavel can surround himself with the screaming specters of his victims or suppress that manifestation. While the specters are active, whenever a creature hostile to Brother Cavel moves within 15 feet of him for the first time on a turn or starts their turn there, that creature must make a DC 15 Wisdom saving throw. The creature takes 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one.
 
 ***Step Through Darkness (2/Day).*** Brother Cavel teleports, along with any equipment he is wearing or carrying, up to 60 feet to an unoccupied space he can see.
+
+#### Licensing
+
+This stat block comes from the *[City of Arches](https://shop.slyflourish.com/collections/sly-flourishs-adventures/products/the-city-of-arches)* copyright 2024 by Michael E. Shea. This stat block is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 `;

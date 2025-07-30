@@ -58,4 +58,10 @@ The Nameless King can take 3 legendary actions, choosing from the options below.
 
 **Elemental Apocalypse (Costs 3 Actions).** If the Nameless King is at half his hit points or fewer, he creates a burst of energy in a 60-foot-radius sphere centered on his position. Each creature of the Nameless King's choice within that area must make a DC 23 Constitution saving throw. On a failed save, a creature takes 42 (12d6) damage of a type chosen by the Nameless King and 42 (12d6) damage of a second chosen type, including acid, cold, fire, lightning, necrotic, poison, psychic, or radiant damage. A creature takes half as much damage on a successful save.
 
-**Hurl Through the Arches (Costs 2 Actions).** The Nameless King uses Hurl Through the Arches.`;
+**Hurl Through the Arches (Costs 2 Actions).** The Nameless King uses Hurl Through the Arches.
+
+#### Licensing
+
+This stat block comes from the *[City of Arches](https://shop.slyflourish.com/collections/sly-flourishs-adventures/products/the-city-of-arches)* copyright 2024 by Michael E. Shea. This stat block is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+`;

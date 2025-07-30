@@ -101,6 +101,6 @@ const customMonsterCombatStats = [
     "cr": 9,
     "type": "Humanoid",
     "source": "City of Arches",
-    "htmlLink": "./custom/index.html?file=ibraxus.js"
+    "htmlLink": "./custom/index.html?file=brother_cavel.js"
   },
 ];
