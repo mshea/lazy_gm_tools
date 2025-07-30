@@ -73,4 +73,34 @@ const customMonsterCombatStats = [
     "source": "Forge of Foes",
     "htmlLink": "./custom/index.html?file=champion.js"
   },
+  {
+    "name": "The Nameless King",
+    "ac": 24,
+    "hp": 561,
+    "init": 12,
+    "cr": 26,
+    "type": "Undead",
+    "source": "City of Arches",
+    "htmlLink": "./custom/index.html?file=nameless_king.js"
+  },
+  {
+    "name": "Ibraxus of Choul",
+    "ac": 24,
+    "hp": 666,
+    "init": 12,
+    "cr": 30,
+    "type": "Fiend",
+    "source": "City of Arches",
+    "htmlLink": "./custom/index.html?file=ibraxus.js"
+  },
+  {
+    "name": "Brother Cavel",
+    "ac": 16,
+    "hp": 195,
+    "init": 14,
+    "cr": 9,
+    "type": "Humanoid",
+    "source": "City of Arches",
+    "htmlLink": "./custom/index.html?file=ibraxus.js"
+  },
 ];
