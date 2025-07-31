@@ -2,25 +2,22 @@ window.monsterMarkdown = `# The Nameless King
 
 Medium Undead, Neutral Evil
 
-**Armor Class** 24 (natural)
-
-**Hit Points** 561 (66d8 + 264)
-
-**Speed** 30 ft., fly 30 ft. (hover)
+- **Armor Class** 24 (natural)
+- **Hit Points** 561 (66d8 + 264)
+- **Speed** 30 ft., fly 30 ft. (hover)
 
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 | 12 (+1) | 14 (+2) | 18 (+4) | 24 (+7) | 22 (+6) | 20 (+5) |
 
-**Saving Throws** Dex +10, Con +12, Int +15, Wis +14, Cha +13
-
-**Skills** Arcana +15, History +15, Perception +14, Religion +15
-
-**Senses** darkvision 60 ft., truesight 120 ft., passive Perception 24
-
-**Languages** all
-
-**Challenge** 26 (90,000 XP)**Proficiency Bonus** +8
+- **Saving Throws** Dex +10, Con +12, Int +15, Wis +14, Cha +13
+- **Damage Immunities:** necrotic, poison; damage from nonmagical weapons
+- **Damage Resistances:** cold, lightning
+- **Condition Immunities:** charmed, fatigue, frightened, paralyzed, poisoned
+- **Skills** Arcana +15, History +15, Perception +14, Religion +15
+- **Senses** darkvision 60 ft., truesight 120 ft., passive Perception 24
+- **Languages** all
+- **Challenge** 26 (90,000 XP) **Proficiency Bonus** +8
 
 ***Legendary Resistance (5/Day).*** If the Nameless King fails a saving throw, he can choose to succeed instead.
 
