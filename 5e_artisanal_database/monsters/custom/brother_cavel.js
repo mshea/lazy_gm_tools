@@ -2,27 +2,20 @@ window.monsterMarkdown = `# Brother Cavel
 
 Medium Humanoid (Cleric), Neutral Evil
 
-**Armor Class** 16 (*bracers of defense*)
-
-**Hit Points** 195 (23d8 + 92)
-
-**Speed** 30 ft.
+- **Armor Class** 16 (*bracers of defense*)
+- **Hit Points** 195 (23d8 + 92)
+- **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 | 12 (+1) | 18 (+4) | 18 (+4) | 14 (+2) | 16 (+3) | 14 (+2) |
 
-**Saving Throws** Dex +8, Wis +7
-
-**Skills** Perception +7, Stealth +8
-
-**Damage Resistances** necrotic
-
-**Senses** blindsight 30 ft., passive Perception 17
-
-**Languages** Abyssal, Celestial, Common, Elvish, Undercommon
-
-**Challenge** 9 (5,000 XP)**Proficiency Bonus** +4
+- **Saving Throws** Dex +8, Wis +7
+- **Skills** Perception +7, Stealth +8
+- **Damage Resistances** necrotic
+- **Senses** blindsight 30 ft., passive Perception 17
+- **Languages** Abyssal, Celestial, Common, Elvish, Undercommon
+- **Challenge** 9 (5,000 XP) **Proficiency Bonus** +4
 
 ***Legendary Resistance (2/Day).*** If Brother Cavel fails a saving throw, he can choose to succeed instead.
 

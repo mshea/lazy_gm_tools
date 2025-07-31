@@ -3,31 +3,22 @@ window.monsterMarkdown = `
 
 Huge Fiend (Demon), Chaotic Evil
 
-**Armor Class** 24 (natural and arcane)
-
-**Hit Points** 666 (46d12 + 368)
-
-**Speed** 0 ft., fly 60 ft. (hover)
+- **Armor Class** 24 (natural and arcane)
+- **Hit Points** 666 (46d12 + 368)
+- **Speed** 0 ft., fly 60 ft. (hover)
 
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 | 28 (+9) | 14 (+2) | 26 (+8) | 26 (+8) | 22 (+6) | 22 (+6) |
 
-**Saving Throws** Con +17, Wis +15, Cha +15
-
-**Skills** Arcana +17, Perception +15, Religion +17
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Damage Immunities** poison, necrotic
-
-**Condition Immunities** blinded, charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
-
-**Senses** darkvision 120 ft., truesight 120 ft., passive Perception 25
-
-**Languages** all
-
-**Challenge** 30 (155,000 XP)**Proficiency Bonus** +9
+- **Saving Throws** Con +17, Wis +15, Cha +15
+- **Skills** Arcana +17, Perception +15, Religion +17
+- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Immunities** poison, necrotic
+- **Condition Immunities** blinded, charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
+- **Senses** darkvision 120 ft., truesight 120 ft., passive Perception 25
+- **Languages** all
+- **Challenge** 30 (155,000 XP) **Proficiency Bonus** +9
 
 ***Legendary Resistance (6/Day).*** If Ibraxus fails a saving throw, he can choose to succeed instead. Each time Ibraxus uses his legendary resistance, one of his eyes goes black. If all six of his eyes go black, Ibraxus is blinded and loses his darkvision and truesight.
 
