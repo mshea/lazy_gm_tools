@@ -23,6 +23,10 @@ canvas {
     touch-action: none;
 }
 
+canvas.has-image {
+    background: transparent;
+}
+
 input[type="color"] {
     width: 50px;
     height: 30px;
@@ -38,10 +42,13 @@ button, #fileButton {
     display: inline-block;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
-    width: auto;
-    min-width: 140px;
+    width: 160px;
+    height: 40px;
+    line-height: 40px;
     text-align: center;
     margin: 0.5rem 0.5rem 0.5rem 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 button:active, #fileButton:active {
@@ -61,7 +68,7 @@ button:active, #fileButton:active {
     cursor: pointer;
 }
 
-#ringColorLabel {
+#ringColorLabel, #transparentBorderLabel {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -69,7 +76,15 @@ button:active, #fileButton:active {
 }
 
 #ringColor {
-    flex-shrink: 0;
+    cursor: pointer;
+}
+
+#ringColor:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+#transparentBorder {
     cursor: pointer;
 }
 </style>
@@ -81,7 +96,7 @@ button:active, #fileButton:active {
 <h1>VTT Token Generator</h1>
 <p>Upload an image, use your mouse wheel or pinchies to zoom in and out, and download a PNG token for your VTT.</p>
 
-<label id="fileButton" role="button" aria-label="Choose File" tabindex="0">
+<label id="fileButton">
   Choose File
   <input type="file" id="imageInput" accept="image/*" />
 </label>
@@ -91,13 +106,19 @@ button:active, #fileButton:active {
   <span>Ring Color</span>
 </div>
 
-<button id="downloadBtn" aria-label="Generate Token" type="button">Generate Token</button>
+<div id="transparentBorderLabel">
+  <input type="checkbox" id="transparentBorder" />
+  <span>Transparent Border</span>
+</div>
+
+<button id="downloadBtn" aria-label="Download Token" type="button">Download Token</button>
 
 <p><canvas id="tokenCanvas" width="512" height="512"></canvas></p>
 
 <script>
 const imageInput = document.getElementById('imageInput');
 const ringColor = document.getElementById('ringColor');
+const transparentBorder = document.getElementById('transparentBorder');
 const canvas = document.getElementById('tokenCanvas');
 const ctx = canvas.getContext('2d');
 const downloadBtn = document.getElementById('downloadBtn');
@@ -123,7 +144,10 @@ function render() {
   const size = canvas.width;
   ctx.clearRect(0, 0, size, size);
 
+  // Always draw the image with circular clipping
   ctx.save();
+  
+  // Create circular clipping path
   ctx.beginPath();
   ctx.arc(size / 2, size / 2, size / 2 - 10, 0, Math.PI * 2);
   ctx.closePath();
@@ -132,13 +156,24 @@ function render() {
   if (uploadedImage) {
     ctx.drawImage(uploadedImage, imgX, imgY, uploadedImage.width * imgScale, uploadedImage.height * imgScale);
   }
+  
   ctx.restore();
 
+  // Draw the border only if transparent border is NOT checked
+  if (!transparentBorder.checked) {
+    ctx.beginPath();
+    ctx.arc(size / 2, size / 2, size / 2 - 5, 0, Math.PI * 2);
+    ctx.strokeStyle = ringColor.value;
+    ctx.lineWidth = 10;
+    ctx.stroke();
+  }
+  
+  // Always create circular mask for final output
+  ctx.globalCompositeOperation = 'destination-in';
   ctx.beginPath();
-  ctx.arc(size / 2, size / 2, size / 2 - 5, 0, Math.PI * 2);
-  ctx.strokeStyle = ringColor.value;
-  ctx.lineWidth = 10;
-  ctx.stroke();
+  ctx.arc(size / 2, size / 2, size / 2, 0, Math.PI * 2);
+  ctx.fill();
+  ctx.globalCompositeOperation = 'source-over';
 }
 
 imageInput.addEventListener('change', (e) => {
@@ -149,6 +184,7 @@ imageInput.addEventListener('change', (e) => {
     const img = new Image();
     img.onload = () => {
       uploadedImage = img;
+      canvas.classList.add('has-image');
       resetView();
       render();
     };
@@ -158,6 +194,12 @@ imageInput.addEventListener('change', (e) => {
 });
 
 ringColor.addEventListener('input', () => {
+  if (!uploadedImage) return;
+  render();
+});
+
+transparentBorder.addEventListener('change', () => {
+  ringColor.disabled = transparentBorder.checked;
   if (!uploadedImage) return;
   render();
 });
@@ -269,14 +311,38 @@ downloadBtn.addEventListener('click', () => {
     alert('Upload an image first.');
     return;
   }
-  render();
-  const dataUrl = canvas.toDataURL('image/png');
-  const a = document.createElement('a');
-  a.href = dataUrl;
-  a.download = 'token.png';
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
+  
+  try {
+    render();
+    
+    // Use canvas.toBlob for better Safari compatibility
+    canvas.toBlob((blob) => {
+      if (!blob) {
+        alert('Failed to generate image data.');
+        return;
+      }
+      
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'token.png';
+      a.style.display = 'none';
+      
+      document.body.appendChild(a);
+      a.click();
+      
+      // Clean up after a short delay
+      setTimeout(() => {
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }, 100);
+      
+    }, 'image/png');
+    
+  } catch (error) {
+    console.error('Download failed:', error);
+    alert('Download failed: ' + error.message);
+  }
 });
 </script>
 
