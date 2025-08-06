@@ -31,7 +31,7 @@ input[type="color"] {
     width: 50px;
     height: 30px;
     padding: 0;
-    border: none;
+    border: 1px solid #ccc;
     vertical-align: middle;
 }
 
@@ -68,14 +68,14 @@ button:active, #fileButton:active {
     cursor: pointer;
 }
 
-#ringColorLabel, #transparentBorderLabel {
+#ringColorLabel, #backgroundColorLabel, #transparentBorderLabel {
     display: flex;
     align-items: center;
     gap: 10px;
     margin: 1rem 0;
 }
 
-#ringColor {
+#ringColor, #backgroundColor {
     cursor: pointer;
 }
 
@@ -106,6 +106,11 @@ button:active, #fileButton:active {
   <span>Ring Color</span>
 </div>
 
+<div id="backgroundColorLabel">
+  <input type="color" id="backgroundColor" value="#ffffff" />
+  <span>Background Color</span>
+</div>
+
 <div id="transparentBorderLabel">
   <input type="checkbox" id="transparentBorder" />
   <span>Transparent Border</span>
@@ -118,6 +123,7 @@ button:active, #fileButton:active {
 <script>
 const imageInput = document.getElementById('imageInput');
 const ringColor = document.getElementById('ringColor');
+const backgroundColor = document.getElementById('backgroundColor');
 const transparentBorder = document.getElementById('transparentBorder');
 const canvas = document.getElementById('tokenCanvas');
 const ctx = canvas.getContext('2d');
@@ -143,6 +149,15 @@ function resetView() {
 function render() {
   const size = canvas.width;
   ctx.clearRect(0, 0, size, size);
+
+  // Draw background color in circular area first
+  ctx.save();
+  ctx.beginPath();
+  ctx.arc(size / 2, size / 2, size / 2 - 10, 0, Math.PI * 2);
+  ctx.closePath();
+  ctx.fillStyle = backgroundColor.value;
+  ctx.fill();
+  ctx.restore();
 
   // Always draw the image with circular clipping
   ctx.save();
@@ -194,13 +209,15 @@ imageInput.addEventListener('change', (e) => {
 });
 
 ringColor.addEventListener('input', () => {
-  if (!uploadedImage) return;
+  render();
+});
+
+backgroundColor.addEventListener('input', () => {
   render();
 });
 
 transparentBorder.addEventListener('change', () => {
   ringColor.disabled = transparentBorder.checked;
-  if (!uploadedImage) return;
   render();
 });
 
@@ -344,6 +361,9 @@ downloadBtn.addEventListener('click', () => {
     alert('Download failed: ' + error.message);
   }
 });
+
+// Initial render to show background color
+render();
 </script>
 
 <p>No images are saved to any server when using this tool. All file manipulation happens in your local web browser.</p>
