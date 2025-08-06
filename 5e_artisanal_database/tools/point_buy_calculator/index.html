@@ -1,0 +1,355 @@
+<!--
+The code for this tool is released under a CC0 1.0 Universal license. You can copy, modify, and distribute this tool, even for commercial purposes, all without asking permission.
+
+Learn about the licensing of the data of this tool in the license.html file located in the root director of this application.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="user-scalable=yes, width=device-width">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<style>
+/* Point Buy Calculator Specific Styles */
+.ability-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.ability-card {
+    background: #f9f9f9;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+    text-align: center;
+}
+
+.ability-name {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.ability-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin: 5px 0;
+}
+
+.ability-button {
+    background-color: #444;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ability-button:hover:not(:disabled) {
+    background-color: #222;
+}
+
+.ability-button:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+}
+
+.ability-score {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    width: 50px;
+    border: 2px solid #666;
+    border-radius: 3px;
+    padding: 4px;
+    text-align: center;
+    background: white;
+}
+
+.ability-modifier {
+    font-size: 14px;
+    color: #666;
+    margin-top: 5px;
+}
+
+.ability-cost {
+    font-size: 12px;
+    color: #888;
+    margin-top: 5px;
+}
+
+
+.reset-button {
+    background-color: #666;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.reset-button:hover {
+    background-color: #444;
+}
+
+
+@media (max-width: 480px) {
+    .ability-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 320px) {
+    .ability-grid {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
+<title>5e Point Buy Calculator</title>
+</head>
+<body>
+<p><a href="../../index.html">5e Artisanal Database</a> → 5e Point Buy Calculator</p>
+
+<h1>5e Point Buy Calculator</h1>
+
+<p>Allocate ability scores using the point buy system. You have <strong><span id="pointsRemaining">27</span> points</strong> to spend.</p>
+
+<div class="ability-grid">
+    <div class="ability-card">
+        <div class="ability-name">Strength</div>
+        <div class="ability-controls">
+            <button type="button" class="ability-button" onclick="decreaseScore('str')">−</button>
+            <input type="number" class="ability-score" id="str-score" value="8" min="8" max="15" onchange="validateScore('str')" oninput="validateScore('str')">
+            <button type="button" class="ability-button" onclick="increaseScore('str')">+</button>
+        </div>
+        <div class="ability-modifier" id="str-modifier">(-1)</div>
+        <div class="ability-cost" id="str-cost">Cost: 0</div>
+    </div>
+
+    <div class="ability-card">
+        <div class="ability-name">Dexterity</div>
+        <div class="ability-controls">
+            <button type="button" class="ability-button" onclick="decreaseScore('dex')">−</button>
+            <input type="number" class="ability-score" id="dex-score" value="8" min="8" max="15" onchange="validateScore('dex')" oninput="validateScore('dex')">
+            <button type="button" class="ability-button" onclick="increaseScore('dex')">+</button>
+        </div>
+        <div class="ability-modifier" id="dex-modifier">(-1)</div>
+        <div class="ability-cost" id="dex-cost">Cost: 0</div>
+    </div>
+
+    <div class="ability-card">
+        <div class="ability-name">Constitution</div>
+        <div class="ability-controls">
+            <button type="button" class="ability-button" onclick="decreaseScore('con')">−</button>
+            <input type="number" class="ability-score" id="con-score" value="8" min="8" max="15" onchange="validateScore('con')" oninput="validateScore('con')">
+            <button type="button" class="ability-button" onclick="increaseScore('con')">+</button>
+        </div>
+        <div class="ability-modifier" id="con-modifier">(-1)</div>
+        <div class="ability-cost" id="con-cost">Cost: 0</div>
+    </div>
+
+    <div class="ability-card">
+        <div class="ability-name">Intelligence</div>
+        <div class="ability-controls">
+            <button type="button" class="ability-button" onclick="decreaseScore('int')">−</button>
+            <input type="number" class="ability-score" id="int-score" value="8" min="8" max="15" onchange="validateScore('int')" oninput="validateScore('int')">
+            <button type="button" class="ability-button" onclick="increaseScore('int')">+</button>
+        </div>
+        <div class="ability-modifier" id="int-modifier">(-1)</div>
+        <div class="ability-cost" id="int-cost">Cost: 0</div>
+    </div>
+
+    <div class="ability-card">
+        <div class="ability-name">Wisdom</div>
+        <div class="ability-controls">
+            <button type="button" class="ability-button" onclick="decreaseScore('wis')">−</button>
+            <input type="number" class="ability-score" id="wis-score" value="8" min="8" max="15" onchange="validateScore('wis')" oninput="validateScore('wis')">
+            <button type="button" class="ability-button" onclick="increaseScore('wis')">+</button>
+        </div>
+        <div class="ability-modifier" id="wis-modifier">(-1)</div>
+        <div class="ability-cost" id="wis-cost">Cost: 0</div>
+    </div>
+
+    <div class="ability-card">
+        <div class="ability-name">Charisma</div>
+        <div class="ability-controls">
+            <button type="button" class="ability-button" onclick="decreaseScore('cha')">−</button>
+            <input type="number" class="ability-score" id="cha-score" value="8" min="8" max="15" onchange="validateScore('cha')" oninput="validateScore('cha')">
+            <button type="button" class="ability-button" onclick="increaseScore('cha')">+</button>
+        </div>
+        <div class="ability-modifier" id="cha-modifier">(-1)</div>
+        <div class="ability-cost" id="cha-cost">Cost: 0</div>
+    </div>
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+    <button type="button" class="reset-button" onclick="resetScores()">Reset All Scores</button>
+</div>
+
+<script>
+const TOTAL_POINTS = 27;
+const MIN_SCORE = 8;
+const MAX_SCORE = 15;
+
+// Point costs for each score
+const POINT_COSTS = {
+    8: 0, 9: 1, 10: 2, 11: 3, 12: 4, 13: 5, 14: 7, 15: 9
+};
+
+// Current ability scores
+let abilities = {
+    str: 8, dex: 8, con: 8, int: 8, wis: 8, cha: 8
+};
+
+function getModifier(score) {
+    return Math.floor((score - 10) / 2);
+}
+
+function formatModifier(modifier) {
+    if (modifier >= 0) {
+        return '(+' + modifier + ')';
+    } else {
+        return '(' + modifier + ')';
+    }
+}
+
+function calculateTotalCost() {
+    let total = 0;
+    for (let ability in abilities) {
+        total += POINT_COSTS[abilities[ability]];
+    }
+    return total;
+}
+
+function updateDisplay() {
+    // Update each ability display
+    for (let ability in abilities) {
+        const score = abilities[ability];
+        const modifier = getModifier(score);
+        
+        document.getElementById(ability + '-score').value = score;
+        document.getElementById(ability + '-modifier').textContent = formatModifier(modifier);
+        document.getElementById(ability + '-cost').textContent = 'Cost: ' + POINT_COSTS[score];
+    }
+    
+    // Update points remaining in description
+    const totalCost = calculateTotalCost();
+    const pointsRemaining = TOTAL_POINTS - totalCost;
+    const remainingElement = document.getElementById('pointsRemaining');
+    
+    remainingElement.textContent = pointsRemaining;
+    
+    updateButtons();
+}
+
+function updateButtons() {
+    const totalCost = calculateTotalCost();
+    const pointsRemaining = TOTAL_POINTS - totalCost;
+    
+    for (let ability in abilities) {
+        const score = abilities[ability];
+        const decreaseBtn = document.querySelector(`[onclick="decreaseScore('${ability}')"]`);
+        const increaseBtn = document.querySelector(`[onclick="increaseScore('${ability}')"]`);
+        
+        // Disable decrease if at minimum
+        decreaseBtn.disabled = (score <= MIN_SCORE);
+        
+        // Disable increase if at maximum or not enough points
+        const nextScoreCost = POINT_COSTS[score + 1] || 999;
+        const currentScoreCost = POINT_COSTS[score];
+        const costIncrease = nextScoreCost - currentScoreCost;
+        
+        increaseBtn.disabled = (score >= MAX_SCORE) || (costIncrease > pointsRemaining);
+    }
+}
+
+function increaseScore(ability) {
+    if (abilities[ability] < MAX_SCORE) {
+        const currentCost = POINT_COSTS[abilities[ability]];
+        const newCost = POINT_COSTS[abilities[ability] + 1];
+        const costIncrease = newCost - currentCost;
+        const totalCost = calculateTotalCost();
+        const pointsRemaining = TOTAL_POINTS - totalCost;
+        
+        if (costIncrease <= pointsRemaining) {
+            abilities[ability]++;
+            updateDisplay();
+        }
+    }
+}
+
+function decreaseScore(ability) {
+    if (abilities[ability] > MIN_SCORE) {
+        abilities[ability]--;
+        updateDisplay();
+    }
+}
+
+function validateScore(ability) {
+    const input = document.getElementById(ability + '-score');
+    let value = parseInt(input.value) || MIN_SCORE;
+    
+    // If they type something higher than 15, set it to 15
+    if (value > MAX_SCORE) {
+        value = MAX_SCORE;
+    }
+    
+    // If they type something lower than 8, set it to 8
+    if (value < MIN_SCORE) {
+        value = MIN_SCORE;
+    }
+    
+    // Check if we can afford this change
+    const currentScore = abilities[ability];
+    const currentCost = POINT_COSTS[currentScore];
+    const newCost = POINT_COSTS[value];
+    const costDifference = newCost - currentCost;
+    const totalCost = calculateTotalCost();
+    const pointsRemaining = TOTAL_POINTS - totalCost;
+    
+    // If the cost difference would put us over budget, find the highest affordable score
+    if (costDifference > pointsRemaining) {
+        // Find the highest score we can afford
+        let affordableScore = currentScore;
+        for (let testScore = MAX_SCORE; testScore >= MIN_SCORE; testScore--) {
+            const testCostDifference = POINT_COSTS[testScore] - currentCost;
+            if (testCostDifference <= pointsRemaining) {
+                affordableScore = testScore;
+                break;
+            }
+        }
+        value = affordableScore;
+    }
+    
+    abilities[ability] = value;
+    updateDisplay();
+}
+
+function resetScores() {
+    for (let ability in abilities) {
+        abilities[ability] = 8;
+    }
+    updateDisplay();
+}
+
+// Initialize the display
+updateDisplay();
+</script>
+
+</body>
+</html>
