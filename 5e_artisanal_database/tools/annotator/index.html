@@ -59,6 +59,26 @@ input, button, select, textarea {
     resize: vertical;
 }
 
+.controls input[type="color"] {
+    width: 40px;
+    height: 28px;
+    border: 1px solid #999;
+    border-radius: 4px;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+}
+
+.controls select {
+    background-color: white;
+    color: black;
+    border: 1px solid #999;
+    padding: 4px;
+    font-size: 16px;
+    border-radius: 4px;
+    width: 140px;
+}
+
 .controls button {
     background-color: #666;
     color: white;
@@ -243,18 +263,56 @@ input, button, select, textarea {
         <h3 style="margin-bottom: 15px;">Add Labels <span style="font-size: 14px; font-weight: normal;">(Click on map to place label)</span></h3>
         <div>
             <textarea id="labelText" placeholder="Label text (use Shift+Enter for new lines)" rows="2" maxlength="200"></textarea>
-            <div class="size-control">
-                <input type="number" id="labelSize" value="16" min="8" max="72" step="2">
-                <span>px</span>
+            <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 8px;">
+                <div class="size-control">
+                    <input type="number" id="labelSize" value="16" min="8" max="72" step="2">
+                    <span>px</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 5px;">
+                    <label for="labelColor">Color:</label>
+                    <input type="color" id="labelColor" value="#000000">
+                </div>
+                <div style="display: flex; align-items: center; gap: 5px;">
+                    <label for="labelFont">Font:</label>
+                    <select id="labelFont">
+                        <option value="Arial, sans-serif">Arial</option>
+                        <option value="Times New Roman, serif">Times New Roman</option>
+                        <option value="Courier New, monospace">Courier New</option>
+                        <option value="Georgia, serif">Georgia</option>
+                        <option value="Verdana, sans-serif">Verdana</option>
+                        <option value="Comic Sans MS, cursive">Comic Sans MS</option>
+                        <option value="Impact, sans-serif">Impact</option>
+                        <option value="Trebuchet MS, sans-serif">Trebuchet MS</option>
+                    </select>
+                </div>
             </div>
         </div>
     </div>
     <div id="labelControls" class="label-controls controls" style="margin: 0; width: 400px;">
         <h4>Edit Selected Label</h4>
         <textarea id="editLabelText" placeholder="Label text (use Shift+Enter for new lines)" rows="2"></textarea>
-        <div class="size-control">
-            <input type="number" id="editLabelSize" min="8" max="72" step="2">
-            <span>px</span>
+        <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 8px 0;">
+            <div class="size-control">
+                <input type="number" id="editLabelSize" min="8" max="72" step="2">
+                <span>px</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 5px;">
+                <label for="editLabelColor">Color:</label>
+                <input type="color" id="editLabelColor">
+            </div>
+            <div style="display: flex; align-items: center; gap: 5px;">
+                <label for="editLabelFont">Font:</label>
+                <select id="editLabelFont">
+                    <option value="Arial, sans-serif">Arial</option>
+                    <option value="Times New Roman, serif">Times New Roman</option>
+                    <option value="Courier New, monospace">Courier New</option>
+                    <option value="Georgia, serif">Georgia</option>
+                    <option value="Verdana, sans-serif">Verdana</option>
+                    <option value="Comic Sans MS, cursive">Comic Sans MS</option>
+                    <option value="Impact, sans-serif">Impact</option>
+                    <option value="Trebuchet MS, sans-serif">Trebuchet MS</option>
+                </select>
+            </div>
         </div>
         <button onclick="updateSelectedLabel()">Update</button>
         <button onclick="deleteSelectedLabel()">Delete</button>
@@ -445,13 +503,17 @@ function handleCanvasClick(event) {
 
 function addLabel(x, y, text) {
     const size = parseInt(document.getElementById('labelSize').value) || 16;
+    const color = document.getElementById('labelColor').value || '#000000';
+    const font = document.getElementById('labelFont').value || 'Arial, sans-serif';
     
     const label = {
         id: labelIdCounter++,
         x: x,
         y: y,
         text: text,
-        size: size
+        size: size,
+        color: color,
+        font: font
     };
     
     labels.push(label);
@@ -481,6 +543,8 @@ function renderLabels() {
             labelElement.style.left = (label.x * scaleX) + 'px';
             labelElement.style.top = (label.y * scaleY) + 'px';
             labelElement.style.fontSize = (label.size * Math.min(scaleX, scaleY)) + 'px';
+            labelElement.style.color = label.color || '#000000';
+            labelElement.style.fontFamily = label.font || 'Arial, sans-serif';
         }
         
         labelElement.dataset.labelId = label.id;
@@ -584,6 +648,8 @@ function selectLabel(labelId) {
     if (selectedLabel) {
         document.getElementById('editLabelText').value = selectedLabel.text;
         document.getElementById('editLabelSize').value = selectedLabel.size;
+        document.getElementById('editLabelColor').value = selectedLabel.color || '#000000';
+        document.getElementById('editLabelFont').value = selectedLabel.font || 'Arial, sans-serif';
         showEditControls();
         renderLabels(); // Re-render to show selection
     }
@@ -608,6 +674,8 @@ function updateSelectedLabel() {
     
     const newText = document.getElementById('editLabelText').value.trim();
     const newSize = parseInt(document.getElementById('editLabelSize').value) || 16;
+    const newColor = document.getElementById('editLabelColor').value || '#000000';
+    const newFont = document.getElementById('editLabelFont').value || 'Arial, sans-serif';
     
     if (!newText) {
         alert('Label text cannot be empty.');
@@ -616,6 +684,8 @@ function updateSelectedLabel() {
     
     selectedLabel.text = newText;
     selectedLabel.size = newSize;
+    selectedLabel.color = newColor;
+    selectedLabel.font = newFont;
     renderLabels();
 }
 
@@ -695,7 +765,8 @@ function exportMap() {
                     const finalX = label.x;
                     const finalY = startY + (index * lineHeight);
                     
-                    ctx.font = `bold ${label.size}px Arial`;
+                    const fontFamily = (label.font || 'Arial, sans-serif').split(',')[0].replace(/[\"']/g, '');
+                    ctx.font = `bold ${label.size}px ${fontFamily}`;
                     ctx.textAlign = 'center';
                     ctx.textBaseline = 'middle';
                     
@@ -704,8 +775,8 @@ function exportMap() {
                     ctx.lineWidth = Math.max(6, label.size / 3);
                     ctx.strokeText(line, finalX, finalY);
                     
-                    // Draw black text (fill)
-                    ctx.fillStyle = 'black';
+                    // Draw colored text (fill)
+                    ctx.fillStyle = label.color || '#000000';
                     ctx.fillText(line, finalX, finalY);
                     
                     console.log(`Drew line "${line}" at (${finalX}, ${finalY})`);
