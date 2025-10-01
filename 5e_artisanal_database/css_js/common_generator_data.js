@@ -249,6 +249,99 @@ item
   vial
   wand
   whistle
+
+location
+  aerie
+  amphitheater
+  arcane laboratory
+  arena
+  armory
+  bailey
+  banquet hall
+  barracks
+  bastille
+  battlement
+  bestiary
+  bone bridge
+  bridge
+  caravan
+  castle
+  catacomb
+  cavern
+  cemetery
+  chapel
+  cistern
+  citadel
+  colosseum
+  crag
+  crypt
+  den
+  dungeon
+  fane
+  gatehouse
+  gorge
+  grove
+  guardhouse
+  guildhall
+  harbor
+  keep
+  laboratory
+  lair
+  library
+  mine
+  palace
+  prison
+  sanctum
+  shrine
+  stronghold
+  temple
+  tomb
+  tower
+  watchtower
+  ziggurat
+
+domain
+  light
+  darkness
+  life
+  death
+  nature
+  war
+  trickery
+  knowledge
+  tempest
+  harvest
+  the hells
+  the abyss
+  fire
+  water
+  earth
+  air
+  the sea
+  undeath
+  magic
+  creation
+  murder
+  love
+  serpents
+  insects
+  the void
+  blood
+  the hearth
+  stars
+  the hunt
+  beauty
+  music
+  prophecy
+  the wilds
+  seelie fey
+  unseelie fey
+  shadow
+  wine
+  metalwork
+  revelry
+  beasts
+
 `;
 
 // Function to add common data to existing dataText

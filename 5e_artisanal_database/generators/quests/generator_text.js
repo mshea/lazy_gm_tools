@@ -1,6 +1,7 @@
-const dataText = `
+// Combine common data with quest-specific data
+const dataText = (typeof commonGeneratorDataText !== 'undefined' ? commonGeneratorDataText + '\n\n' : '') + `
 template
-  <strong>{name} {surname_first}{surname_last}</strong>. A {personality} {species} {npc_type} with {trait} who dresses {dress} and wants to {goal}.
+  <strong>{name} {surname_first}{surname_last}</strong>, a {personality} {species} {npc_type} of {domain} with {trait} who dresses {dress}, wants the characters to {quest} at a {origin} {condition} {location} of {domain}.
 
 species
   human ^10
@@ -1620,24 +1621,24 @@ goal
   honor someone
 
 quest
-  find an item
+  find a {condition} {origin} {item} of {domain}
   kill a villain
   rescue an NPC
   uncover a secret
   clear out monsters
   protect a monument
   protect an NPC
-  steal an item
-  return an item
+  steal a {condition} {origin} {item} of {domain}
+  return a {condition} {origin} {item} of {domain}
   close a gate
   open a gate
   activate a monument
-  disable an artifact
-  recover an item
+  disable a {condition} {origin} {item} of {domain}
+  recover an {condition} {origin} {item} of {domain}
   convince an NPC
   awaken a monster
   put a monster to sleep
   bury a secret
   discover a monument
-  dig up an artifact
+  dig up a {condition} {origin} {item} of {domain}
 `;
