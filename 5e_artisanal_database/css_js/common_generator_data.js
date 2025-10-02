@@ -342,6 +342,22 @@ domain
   revelry
   beasts
 
+monster_type
+  aberrations
+  beasts
+  celestials
+  constructs
+  dragons
+  elementals
+  fey
+  fiends
+  giants
+  humanoids
+  monstrosities
+  oozes
+  plants
+  undead
+
 `;
 
 // Function to add common data to existing dataText

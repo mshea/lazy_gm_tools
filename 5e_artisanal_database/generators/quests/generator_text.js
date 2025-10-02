@@ -1,7 +1,7 @@
 // Combine common data with quest-specific data
 const dataText = (typeof commonGeneratorDataText !== 'undefined' ? commonGeneratorDataText + '\n\n' : '') + `
 template
-  <strong>{name} {surname_first}{surname_last}</strong>, a {personality} {species} {npc_type}, wants the characters to {quest} at a {origin} {condition} {location}.
+  <strong>{name} {surname_first}{surname_last}</strong>, a {personality} {species} {npc_type}, wants the characters to {quest} at a {origin} {condition} {location} inhabited by {monster_type}.
 
 species
   human ^10
