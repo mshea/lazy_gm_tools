@@ -321,6 +321,7 @@ select {
 <table id="combatTable">
     <thead>
         <tr>
+            <th class="conditions-col" style="width: 110px;">Conditions</th>
             <th class="init-col">Init</th>
             <th class="name-col">Name</th>
             <th class="ac-col">AC</th>
@@ -338,6 +339,80 @@ let allMonsters = [];
 let monsters = [];
 let monsterSources = [];
 let selectedSource = '';
+
+// Conditions system
+const CONDITIONS = {
+    'Blinded': '🙈',
+    'Charmed': '😍',
+    'Deafened': '🙉',
+    'Exhaustion': '🥵',
+    'Frightened': '😱',
+    'Grappled': '⛓️',
+    'Incapacitated': '🚫',
+    'Invisible': '🌫️',
+    'Paralyzed': '🥶',
+    'Petrified': '🪨',
+    'Poisoned': '🤢',
+    'Prone': '🛌',
+    'Restrained': '🕸️',
+    'Stunned': '💫',
+    'Unconscious': '😴'
+};
+
+// Function to sync data to player view
+function syncToPlayerView() {
+    const syncData = {
+        combatants: combatants.map(c => ({
+            name: c.name,
+            initiative: c.initiative,
+            id: c.id,
+            currentHp: c.currentHp,
+            maxHp: c.maxHp,
+            conditions: c.conditions || []
+        })),
+        currentTurnIndex: currentTurnIndex,
+        timestamp: Date.now()
+    };
+
+    localStorage.setItem('combatTrackerSync', JSON.stringify(syncData));
+    console.log('Synced to player view:', syncData);
+}
+
+// Add condition to combatant
+function addCondition(combatantId, condition) {
+    const combatant = combatants.find(c => c.id === combatantId);
+    if (combatant) {
+        if (!combatant.conditions) combatant.conditions = [];
+        if (!combatant.conditions.includes(condition)) {
+            combatant.conditions.push(condition);
+            renderCombatTable();
+            syncToPlayerView();
+        }
+    }
+}
+
+// Remove condition from combatant
+function removeCondition(combatantId, condition) {
+    const combatant = combatants.find(c => c.id === combatantId);
+    if (combatant && combatant.conditions) {
+        combatant.conditions = combatant.conditions.filter(c => c !== condition);
+        renderCombatTable();
+        syncToPlayerView();
+    }
+}
+
+// Generate conditions display HTML
+function getConditionsDisplay(combatant) {
+    if (!combatant.conditions || combatant.conditions.length === 0) {
+        return '';
+    }
+
+    return combatant.conditions.map(condition =>
+        `<span onclick="removeCondition(${combatant.id}, '${condition}')"
+               style="cursor: pointer; margin-right: 4px; font-size: 16px;"
+               title="Click to remove ${condition}">${CONDITIONS[condition]}</span>`
+    ).join('');
+}
 
 // Load monster data from included JavaScript
 function loadMonstersFromJS() {
@@ -652,21 +727,34 @@ function abbreviateSource(fullSourceName) {
 function renderCombatTable() {
     const tbody = document.getElementById('combatBody');
     tbody.innerHTML = '';
-    
+
     combatants.forEach((combatant, index) => {
         const row = document.createElement('tr');
-        
+
         // Add current turn highlighting
         if (index === currentTurnIndex && combatants.length > 0) {
             row.classList.add('current-turn');
         }
-        
+
+        // Create conditions dropdown
+        const conditionsDropdown = `
+            <select onchange="if(this.value) { addCondition(${combatant.id}, this.value); this.value = ''; }"
+                    style="width: 100px; font-size: 12px; padding: 2px;">
+                <option value="">+ Condition</option>
+                ${Object.keys(CONDITIONS).map(condition =>
+                    `<option value="${condition}">${CONDITIONS[condition]} ${condition}</option>`
+                ).join('')}
+            </select>
+        `;
+
         row.innerHTML = `
+            <td style="width: 110px; padding: 4px;">${conditionsDropdown}</td>
             <td><input type="number" value="${combatant.initiative}" onchange="updateInitiative(${combatant.id}, this.value)" class="transparent-input" min="1" max="30"></td>
             <td style="position: relative; padding-right: 100px;">
                 <div style="display: flex; align-items: center; height: 100%;">
                     <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" class="transparent-input" style="flex: 1;">
-                    
+                    ${getConditionsDisplay(combatant)}
+
                     ${getMonsterLink(combatant)}
                     <button onclick="removeCombatant(${combatant.id})" title="Remove" class="remove-button" style="position: absolute; right: 5px; font-size: 18px !important; font-weight: bold; line-height: 18px !important; padding: 4px 10px !important;">×</button>
                 </div>
@@ -684,9 +772,12 @@ function renderCombatTable() {
                 </div>
             </td>` : '<td>-</td>'}
         `;
-        
+
         tbody.appendChild(row);
     });
+
+    // Sync to player view after rendering
+    syncToPlayerView();
 }
 
 function modifyHp(id, amount) {
