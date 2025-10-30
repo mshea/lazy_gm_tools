@@ -136,10 +136,11 @@ Table: Simple Melee Weapons
 | Spear                  | 1d6 Piercing    | Thrown (Range 20/60), Versatile (1d8)                     | Sap     | 3 lb.   | 1 GP   |
 
 Table: Simple Ranged Weapons 
+
 | Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
 |------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
 | Dart                   | 1d4 Piercing    | Finesse, Thrown (Range 20/60)                             | Vex     | 1/4 lb. | 5 CP   |
-| Light Crossbow         | 1d8 Piercing    | Ammunition (Range 80/320; Bolt), Loading, Two-Handed   | Slow    | 5 lb.   | 25 GP  |
+| Light Crossbow         | 1d8 Piercing    | Ammunition (Range 80/320; Bolt), Loading, Two-Handed      | Slow    | 5 lb.   | 25 GP  |
 | Shortbow               | 1d6 Piercing    | Ammunition (Range 80/320; Arrow), Two-Handed              | Vex     | 2 lb.   | 25 GP  |
 | Sling                  | 1d4 Bludgeoning | Ammunition (Range 30/120; Bullet)                         | Slow    | —       | 1 SP   |
 
