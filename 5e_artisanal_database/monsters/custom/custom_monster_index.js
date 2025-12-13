@@ -103,4 +103,14 @@ const customMonsterCombatStats = [
     "source": "City of Arches",
     "htmlLink": "./custom/index.html?file=brother_cavel.js"
   },
+  {
+    "name": "Ozymandias",
+    "ac": 26,
+    "hp": 561,
+    "init": 12,
+    "cr": 28,
+    "type": "Undead",
+    "source": "City of Arches",
+    "htmlLink": "./custom/index.html?file=ozymandias.js"
+  },
 ];
