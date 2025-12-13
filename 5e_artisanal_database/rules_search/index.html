@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../css_js/5eadb.css">
+<title>5.2 SRD Rules Search</title>
+<style>
+/* Search-specific styles */
+.search-container {
+    margin: 20px 0;
+    max-width: 600px;
+}
+
+.search-input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    min-height: 44px;
+}
+
+.search-input:focus {
+    border-color: #666;
+    outline: none;
+}
+
+.search-stats {
+    color: #666;
+    font-size: 14px;
+    margin: 15px 0 10px 0;
+}
+
+.search-results {
+    margin-top: 20px;
+}
+
+.result-item {
+    border: 1px solid #ddd;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.result-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.result-title a {
+    color: #1a0dab;
+    text-decoration: underline;
+}
+
+.result-title a:visited {
+    color: #609;
+}
+
+.result-content {
+    color: #333;
+    line-height: 1.6;
+}
+
+.result-content p {
+    margin: 8px 0;
+}
+
+.result-content h1, .result-content h2, .result-content h3 {
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+
+.result-content table {
+    margin: 10px 0;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.result-content th, .result-content td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.result-content th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.no-results {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+    margin: 40px 0;
+    font-size: 16px;
+}
+
+.loading {
+    text-align: center;
+    color: #666;
+    margin: 40px 0;
+    font-size: 16px;
+}
+
+.highlight {
+    background-color: #ffff99;
+    padding: 2px 4px;
+    border-radius: 2px;
+}
+
+.intro-text {
+    color: #666;
+    margin: 15px 0;
+    font-size: 16px;
+    line-height: 1.5;
+}
+</style>
+</head>
+<body>
+
+<div><a href="../index.html">5e Artisanal Database</a> → Rules Search</div>
+<h1>5.2 SRD Rules Search</h1>
+
+<p class="intro-text">
+    Fast search across 1,200+ rules from the 5.2 SRD (D&D 2024).
+</p>
+
+<div class="search-container">
+    <input type="text"
+           id="searchInput"
+           class="search-input"
+           placeholder="Search 5.2 SRD rules (e.g., 'grapple', 'advantage', 'action')..."
+           autocomplete="off"
+           autofocus>
+</div>
+
+<div id="searchStats"></div>
+<div id="searchResults"></div>
+
+<p style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; color: #666; font-size: 14px;">
+    This work includes material from the System Reference Document 5.2 ("SRD 5.2") by Wizards of the Coast LLC, available at <a href="https://www.dndbeyond.com/srd">dndbeyond.com/srd</a>. The SRD 5.2 is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a>.
+</p>
+
+<script src="../css_js/lunr.js"></script>
+<script src="search-data.js"></script>
+<script>
+/*
+This code is released under a CC0 1.0 Universal license.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+You can copy, modify, and distribute this tool, even for commercial purposes,
+all without asking permission.
+*/
+
+class RulesSearchEngine {
+    constructor() {
+        this.index = null;
+        this.documents = [];
+        this.searchInput = document.getElementById('searchInput');
+        this.searchStats = document.getElementById('searchStats');
+        this.searchResults = document.getElementById('searchResults');
+        this.debounceTimer = null;
+
+        this.init();
+    }
+
+    init() {
+        // Load pre-built index
+        console.log('Loading search index...');
+        this.index = lunr.Index.load(window.rulesSearchIndex);
+        this.documents = window.rulesDocuments;
+
+        console.log(`Loaded ${this.documents.length} documents`);
+
+        // Setup event listeners
+        this.setupEventListeners();
+
+        // Check for query parameter in URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const query = urlParams.get('q');
+        if (query) {
+            this.searchInput.value = query;
+            this.performSearch(query);
+        }
+    }
+
+    setupEventListeners() {
+        // Real-time search with debounce
+        this.searchInput.addEventListener('input', (e) => {
+            const query = e.target.value.trim();
+
+            // Clear previous timer
+            clearTimeout(this.debounceTimer);
+
+            // Set new timer
+            this.debounceTimer = setTimeout(() => {
+                if (query.length > 0) {
+                    this.performSearch(query);
+                    // Update URL
+                    const url = new URL(window.location);
+                    url.searchParams.set('q', query);
+                    window.history.replaceState({}, '', url);
+                } else {
+                    this.clearResults();
+                    // Clear URL param
+                    const url = new URL(window.location);
+                    url.searchParams.delete('q');
+                    window.history.replaceState({}, '', url);
+                }
+            }, 300);
+        });
+
+        // Handle Enter key
+        this.searchInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                clearTimeout(this.debounceTimer);
+                const query = e.target.value.trim();
+                if (query.length > 0) {
+                    this.performSearch(query);
+                }
+            }
+        });
+    }
+
+    performSearch(query) {
+        const startTime = performance.now();
+
+        // Show loading state
+        this.searchResults.innerHTML = '<div class="loading">Searching...</div>';
+
+        // Try fuzzy search with different edit distances
+        let results = [];
+
+        // Try exact match first
+        try {
+            results = this.index.search(query);
+        } catch (e) {
+            console.error('Search error:', e);
+        }
+
+        // If no results, try fuzzy with ~1
+        if (results.length === 0) {
+            try {
+                results = this.index.search(`${query}~1`);
+            } catch (e) {
+                console.error('Fuzzy search ~1 error:', e);
+            }
+        }
+
+        // If still no results, try fuzzy with ~2
+        if (results.length === 0) {
+            try {
+                results = this.index.search(`${query}~2`);
+            } catch (e) {
+                console.error('Fuzzy search ~2 error:', e);
+            }
+        }
+
+        const endTime = performance.now();
+        const searchTime = ((endTime - startTime) / 1000).toFixed(3);
+
+        // Display results
+        this.displayResults(results, query, searchTime);
+    }
+
+    displayResults(results, query, searchTime) {
+        // Clear previous results
+        this.searchResults.innerHTML = '';
+
+        // Show stats
+        this.searchStats.textContent = results.length > 0
+            ? `Found ${results.length} result${results.length !== 1 ? 's' : ''} in ${searchTime}s`
+            : '';
+
+        // Show no results message
+        if (results.length === 0) {
+            this.searchResults.innerHTML = '<div class="no-results">No results found. Try different keywords or check your spelling.</div>';
+            return;
+        }
+
+        // Limit to first 50 results
+        const displayResults = results.slice(0, 50);
+
+        if (results.length > 50) {
+            this.searchStats.textContent += ` (showing first 50)`;
+        }
+
+        // Create result items
+        displayResults.forEach(result => {
+            const doc = this.documents.find(d => d.id === parseInt(result.ref));
+            if (!doc) return;
+
+            const resultItem = this.createResultItem(doc, query);
+            this.searchResults.appendChild(resultItem);
+        });
+    }
+
+    createResultItem(doc, query) {
+        const item = document.createElement('div');
+        item.className = 'result-item';
+
+        // Title with link
+        const titleDiv = document.createElement('div');
+        titleDiv.className = 'result-title';
+
+        const titleLink = document.createElement('a');
+        titleLink.href = doc.url;
+        titleLink.textContent = doc.title;
+        titleDiv.appendChild(titleLink);
+
+        item.appendChild(titleDiv);
+
+        // Content snippet (first few paragraphs, skip headers)
+        const content = document.createElement('div');
+        content.className = 'result-content';
+
+        // Create a temporary element to extract just the first few elements
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = doc.contentHtml;
+
+        // Get the first 4 non-header elements
+        const elements = [];
+        for (let i = 0; i < tempDiv.children.length && elements.length < 4; i++) {
+            const el = tempDiv.children[i];
+            // Skip headers (h1, h2, h3, h4, h5, h6)
+            if (!el.tagName.match(/^H[1-6]$/)) {
+                elements.push(el.cloneNode(true));
+            }
+        }
+
+        elements.forEach(el => {
+            content.appendChild(el);
+        });
+
+        // Add ellipsis if there's more content
+        const totalNonHeaderElements = Array.from(tempDiv.children).filter(el => !el.tagName.match(/^H[1-6]$/)).length;
+        if (totalNonHeaderElements > 4) {
+            const ellipsis = document.createElement('p');
+            ellipsis.textContent = '...';
+            ellipsis.style.color = '#666';
+            ellipsis.style.fontStyle = 'italic';
+            content.appendChild(ellipsis);
+        }
+
+        // Highlight search terms
+        this.highlightTerms(content, query);
+
+        item.appendChild(content);
+
+        return item;
+    }
+
+    highlightTerms(element, query) {
+        // Split query into terms
+        const terms = query.toLowerCase().split(/\s+/);
+
+        // Walk through text nodes and highlight
+        const walk = document.createTreeWalker(
+            element,
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
+
+        const nodesToReplace = [];
+        let node;
+
+        while (node = walk.nextNode()) {
+            const text = node.textContent;
+            const lowerText = text.toLowerCase();
+
+            // Check if any term appears in this text
+            const hasMatch = terms.some(term => lowerText.includes(term));
+
+            if (hasMatch) {
+                nodesToReplace.push(node);
+            }
+        }
+
+        // Replace nodes with highlighted version
+        nodesToReplace.forEach(node => {
+            const text = node.textContent;
+            let html = text;
+
+            // Highlight each term
+            terms.forEach(term => {
+                if (term.length < 2) return; // Skip very short terms
+
+                const regex = new RegExp(`(${this.escapeRegex(term)})`, 'gi');
+                html = html.replace(regex, '<span class="highlight">$1</span>');
+            });
+
+            // Only replace if we actually highlighted something
+            if (html !== text) {
+                const span = document.createElement('span');
+                span.innerHTML = html;
+                node.parentNode.replaceChild(span, node);
+            }
+        });
+    }
+
+    escapeRegex(str) {
+        return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    clearResults() {
+        this.searchResults.innerHTML = '';
+        this.searchStats.textContent = '';
+    }
+}
+
+// Initialize search engine when page loads
+window.addEventListener('DOMContentLoaded', () => {
+    window.searchEngine = new RulesSearchEngine();
+});
+</script>
+
+</body>
+</html>
