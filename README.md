@@ -22,7 +22,7 @@ In this repository you'll find:
 
 **Dice Roller App** (now bundled in the 5e Artisanal Database). Inspired by the dice roller WOTC used to host on their site but threw away along with everything else on their website; this dice roller is self-hostable, executable in any browser, hostable on any website, and released under a CC0 license so you're free to do whatever you want with it without asking permission.
 
-**Stand-Alone D&D 2024 (5.2 SRD) Rules Search (dnd_2024_rules_search_standalone.html)**. A single stand-alone offline-runnable HTML file for searching 5.2 SRD rules (the ruleset from D&D 2024). All data and code are contained within the HTML file.
+**Stand-Alone D&D 2024 (5.2 SRD) Rules Search (dnd_2024_5-2_srd_stand_alone_rules_search.html)**. A single stand-alone offline-runnable HTML file for searching 5.2 SRD rules (the ruleset from D&D 2024). All data and code are contained within the HTML file.
 
 **wotc_5-1_srd_cc.md** (now bundled in the 5e Artisanal Database). The original WOTC 5.1 SRD containing all the rules for D&D 5th Edition released in the Creative Commons. This is formatted in Markdown so you can use it directly in Obsidian.
 
