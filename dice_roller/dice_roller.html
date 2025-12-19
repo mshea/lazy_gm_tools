@@ -15,6 +15,11 @@
     margin: 0;
   }
 
+  button {
+    font: inherit;
+    cursor: pointer;
+  }
+
   .input-form {
     display: flex;
     flex-direction: row;
@@ -47,19 +52,22 @@
     margin: 10px;
     padding: 20px;
     font-size: 1.5em;
-    cursor: pointer;
   }
 
   .history {
     width: 90%;
     max-width: 400px;
     margin: 20px 0;
-    padding: 10px;
+    padding: 5px 10px;
     border: 1px solid #000;
     background-color: #fff;
     max-height: 300px;
     overflow-y: auto;
     font-size: 1.5em;
+    list-style: none;
+  }
+  .history li {
+    margin-block: 5px;
   }
 
   .clear-history {
@@ -103,7 +111,7 @@
   <form class="input-form">
     <div class="c1">
       <label for="dice">Dice</label>
-      <input type="number" id="dice" name="dice" value="1">
+      <input type="number" id="dice" name="dice" value="1" min="1">
     </div>
     <div class="c1">
       <label for="modifier">Mod</label>
@@ -126,7 +134,7 @@
   <form class="input-form">
     <button type="button" class="clear-history">Clear History</button>
   </form>
-  <div class="history" id="history"></div>
+  <ul class="history" id="history"></ul>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
         const diceButtons = document.querySelectorAll('.dice');
@@ -137,6 +145,41 @@
         const customSidesInput = document.getElementById('custom-sides');
         const diceSidesInput = document.querySelector('[name="dice"]');
 
+        function historyEntry(rolls, sides, modifier, result) {
+            let btnStr = `${rolls}d${sides}`;
+            if (modifier !== 0) {
+              btnStr += ` ${modifier > 0 ? '+' : '-'} ${Math.abs(modifier)}`;
+            }
+
+            const btn = document.createElement('button');
+            btn.innerText = btnStr;
+
+            btn.addEventListener('click', () => {
+                console.log('history click');
+                roll(rolls, sides, modifier);
+            });
+
+            const li = document.createElement('li');
+            li.append(btn, result);
+
+            return li;
+        }
+
+        function roll(rolls, sides, modifier) {
+              let rollsArray = [];
+              let total = 0;
+              for (let i = 0; i < rolls; i++) {
+                  let roll = Math.floor(Math.random() * sides) + 1;
+                  rollsArray.push(roll);
+                  total += roll;
+              }
+              total += modifier;
+              const result = ` = ${total} (${rollsArray.join(', ')})`;
+              const rollEntry = historyEntry(rolls, sides, modifier, result);
+              history.prepend(rollEntry);
+              history.scrollTop = 0;
+        }
+
         diceButtons.forEach(button => {
             button.addEventListener('click', () => {
                 const sides = parseInt(button.dataset.sides);
@@ -144,25 +187,7 @@
                 let modifier = diceForm.elements.modifier.value;
                 rolls = parseInt(rolls) || 1;
                 modifier = parseInt(modifier) || 0;
-                let rollsArray = [];
-                let total = 0;
-                for (let i = 0; i < rolls; i++) {
-                    let roll = Math.floor(Math.random() * sides) + 1;
-                    rollsArray.push(roll);
-                    total += roll;
-                }
-                total += modifier;
-                let rollStr = `${rolls}d${sides}`;
-                if (rolls > 1) {
-                    rollStr += ` (${rollsArray.join(', ')})`;
-                }
-                if (modifier !== 0) {
-                    rollStr += ` + ${modifier}`;
-                }
-                rollStr += ` = ${total}`;
-                rollStr += `<br>`;
-                history.innerHTML = rollStr + history.innerHTML;
-                history.scrollTop = 0;
+                roll(rolls, sides, modifier);
             });
         });
 
@@ -174,28 +199,7 @@
             let rolls = parseInt(diceForm.elements.dice.value) || 1;
             let modifier = parseInt(diceForm.elements.modifier.value) || 0;
             let sides = parseInt(customSidesInput.value) || 10;
-            let rollsArray = [];
-            let total = 0;
-            for (let i = 0; i < rolls; i++) {
-                let roll = Math.floor(Math.random() * sides) + 1;
-                rollsArray.push(roll);
-                total += roll;
-            }
-            total += modifier;
-            let rollStr = `${rolls}d${sides}`;
-            if (rolls > 1) {
-                rollStr += ` (${rollsArray.join(', ')})`;
-            }
-            if (modifier !== 0) {
-                rollStr += ` + ${modifier}`;
-            }
-            rollStr += ` = ${total}`;
-            if (rolls > 1) {
-                rollStr += ` (${total - modifier})`;
-            }
-            rollStr += `<br>`;
-            history.innerHTML = rollStr + history.innerHTML;
-            history.scrollTop = 0;
+            roll(rolls, sides, modifier);
         });
     });
   </script>
