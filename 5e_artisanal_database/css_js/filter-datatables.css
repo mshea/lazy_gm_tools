@@ -207,13 +207,140 @@ input, button, select, label {
     .filter-row {
         flex-direction: column;
     }
-    
+
     .filter-column {
         min-width: 0;
     }
-    
+
     .level-comparison-row {
         flex-direction: column;
         align-items: flex-start;
+    }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #000;
+        color: #e0e0e0;
+    }
+
+    /* Filter panel */
+    .filter-panel {
+        background: #000;
+        border-color: #555;
+    }
+
+    .filter-header {
+        background: #111;
+        border-bottom-color: #555;
+    }
+
+    .filter-header:hover {
+        background: #222;
+    }
+
+    .filter-header h3 {
+        color: #e0e0e0;
+    }
+
+    .filter-toggle {
+        color: #999;
+    }
+
+    /* Filter content */
+    .filter-column h4 {
+        color: #e0e0e0;
+    }
+
+    .filter-options {
+        background: #000;
+        border-color: #555;
+    }
+
+    .filter-option label {
+        color: #e0e0e0;
+    }
+
+    /* Filter actions */
+    .filter-actions button.primary {
+        background: #007cba;
+        color: white;
+    }
+
+    .filter-actions button.primary:hover {
+        background: #005a87;
+    }
+
+    .filter-actions button:not(.primary) {
+        background: #222;
+        color: #e0e0e0;
+        border: 1px solid #555;
+    }
+
+    .filter-actions button:not(.primary):hover {
+        background: #333;
+    }
+
+    .filter-summary {
+        color: #999;
+    }
+
+    /* Level comparison */
+    .level-comparison {
+        background: #000;
+    }
+
+    .level-comparison h5 {
+        color: #e0e0e0;
+    }
+
+    .level-comparison-row select,
+    .level-comparison-row input[type="number"] {
+        background-color: #333;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    /* Input elements */
+    input[type="text"],
+    input[type="number"],
+    input[type="search"] {
+        background-color: #333;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    /* Make number input spinners visible */
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+        opacity: 1;
+        filter: invert(1);
+    }
+
+    input[type="checkbox"] {
+        background-color: transparent;
+        border-color: #555;
+        cursor: pointer;
+    }
+
+    input::placeholder {
+        color: #888;
+    }
+
+    /* Select elements */
+    select {
+        background-color: #333;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    /* Links */
+    a {
+        color: #6db3f2;
+    }
+
+    a:visited {
+        color: #b4a7d6;
     }
 }

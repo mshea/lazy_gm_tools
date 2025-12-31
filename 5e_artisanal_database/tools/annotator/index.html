@@ -239,6 +239,72 @@ input, button, select, textarea {
     font-size: 24px;
     border-radius: 4px;
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #000;
+        color: #e0e0e0;
+    }
+
+    .controls {
+        background-color: #111;
+        border-color: #555;
+    }
+
+    .controls input[type="file"],
+    .controls input[type="text"],
+    .controls input[type="number"],
+    .controls textarea {
+        background-color: #333;
+        color: #e0e0e0;
+        border-color: #555;
+    }
+
+    .controls select {
+        background-color: #333;
+        color: #e0e0e0;
+        border-color: #555;
+    }
+
+    .map-container {
+        background-color: #000;
+        border-color: #555;
+    }
+
+    .zoom-controls {
+        background: rgba(0, 0, 0, 0.3);
+    }
+
+    .zoom-controls button {
+        background-color: rgba(51, 51, 51, 0.9);
+    }
+
+    .zoom-controls button:hover {
+        background-color: rgba(68, 68, 68, 0.9);
+    }
+
+    .label-controls {
+        background-color: #111;
+        border-color: #555;
+    }
+
+    .label-controls input {
+        background-color: #333;
+        color: #e0e0e0;
+        border-color: #555;
+    }
+
+    .no-map {
+        color: #bbb;
+    }
+
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+        opacity: 1;
+        filter: invert(1);
+    }
+}
 </style>
 <title>Map Annotator - 5e Artisanal Database</title>
 </head>

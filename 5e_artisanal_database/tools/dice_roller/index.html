@@ -9,98 +9,8 @@ The code for this tool is released under a CC0 1.0 Universal license. You can co
   <meta name="robots" content="noindex">
   <title>Dice Roller</title>
   <link rel="stylesheet" href="../../css_js/5eadb.css">
-  <style>
-  body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    touch-action: manipulation;
-  }
-  
-  body > div:first-child {
-    align-self: flex-start;
-    width: 100%;
-  }
-
-  .input-form {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    margin-bottom: 10px;
-    width: 100%;
-    max-width: 300px;
-  }
-
-  .input-form label,
-  .input-form input {
-    flex: 1;
-    margin: 5px;
-    width: 100%;
-    font-size: 1.2em;
-  }
-
-  .input-form input {
-    text-align: center;
-  }
-
-  .dice-roller {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
-
-  .dice {
-    margin: 10px;
-    padding: 20px;
-    font-size: 1.5em;
-    cursor: pointer;
-  }
-
-  .history {
-    width: 90%;
-    max-width: 400px;
-    margin: 20px 0;
-    padding: 10px;
-    border: 1px solid #000;
-    background-color: #fff;
-    max-height: 300px;
-    overflow-y: auto;
-    font-size: 1.5em;
-  }
-
-  .clear-history {
-    margin-top: 10px;
-    font-weight: normal;
-    width: 100%;
-  }
-
-  p {
-    text-align: center;
-    width: 95%;
-  }
-
-  .custom-roll {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    margin-top: 10px;
-  }
-
-  .custom-roll input,
-  .custom-roll button {
-    margin: 5px;
-    width: 100%;
-    font-size: 1.2em;
-  }
-  div.c1 {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  </style>
 </head>
-<body>
+<body class="dice-roller">
 <div><a href="../../index.html">5e Artisanal Database</a> → Dice Roller</div>
   <h1>Dice Roller</h1>
   <form class="input-form">
@@ -113,7 +23,7 @@ The code for this tool is released under a CC0 1.0 Universal license. You can co
       <input type="number" id="modifier" name="modifier" value="0">
     </div>
   </form>
-  <div class="dice-roller">
+  <div class="dice-roller-container">
     <button class="dice" data-sides="4">d4</button>
     <button class="dice" data-sides="6">d6</button>
     <button class="dice" data-sides="8">d8</button>

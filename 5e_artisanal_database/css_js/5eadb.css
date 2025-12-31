@@ -255,3 +255,1049 @@ button:hover {
 .filter-actions button:hover {
     background-color: #555;
 }
+
+/* Tool-specific styles */
+
+/* Dice Roller */
+body.dice-roller {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    touch-action: manipulation;
+}
+
+body.dice-roller > div:first-child {
+    align-self: flex-start;
+    width: 100%;
+}
+
+.dice-roller .input-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 300px;
+}
+
+.dice-roller .input-form label,
+.dice-roller .input-form input {
+    flex: 1;
+    margin: 5px;
+    width: 100%;
+    font-size: 1.2em;
+}
+
+.dice-roller .input-form input {
+    text-align: center;
+}
+
+.dice-roller .dice-roller-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.dice-roller .dice {
+    margin: 10px;
+    padding: 20px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.dice-roller .history {
+    width: 90%;
+    max-width: 400px;
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    max-height: 300px;
+    overflow-y: auto;
+    font-size: 1.5em;
+}
+
+.dice-roller .clear-history {
+    margin-top: 10px;
+    font-weight: normal;
+    width: 100%;
+}
+
+.dice-roller p {
+    text-align: center;
+    width: 95%;
+}
+
+.dice-roller .custom-roll {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.dice-roller .custom-roll input,
+.dice-roller .custom-roll button {
+    margin: 5px;
+    width: 100%;
+    font-size: 1.2em;
+}
+
+.dice-roller div.c1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* Encounter Calculator */
+body.encounter-calculator table {
+    width: 100%;
+    margin: 10px 0;
+}
+
+body.encounter-calculator th {
+    background-color: #f0f0f0;
+}
+
+.encounter-calculator .flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.encounter-calculator .flex-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+.encounter-calculator .section-base {
+    margin: 15px 0;
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.encounter-calculator .input-section {
+    border-color: #ccc;
+}
+
+.encounter-calculator .results {
+    border-color: #333;
+    padding: 12px;
+    background-color: #f8f8f8;
+}
+
+.encounter-calculator .input-section h3,
+.encounter-calculator .results h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.encounter-calculator .input-group-base {
+    display: flex;
+    flex-direction: column;
+    min-width: 120px;
+}
+
+.encounter-calculator .character-group,
+.encounter-calculator .monster-group {
+    gap: 8px;
+    margin: 8px 0;
+    padding: 8px;
+    background-color: #f9f9f9;
+    border-radius: 3px;
+}
+
+.encounter-calculator .search-input-group {
+    flex: 2;
+}
+
+.encounter-calculator .source-select-group {
+    flex: 1;
+    min-width: 120px;
+}
+
+.encounter-calculator .input-group label,
+.encounter-calculator .search-input-group label,
+.encounter-calculator .source-select-group label {
+    font-weight: bold;
+    margin-bottom: 3px;
+    font-size: 16px;
+}
+
+.encounter-calculator input,
+.encounter-calculator select,
+.encounter-calculator .monster-search {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.encounter-calculator .monster-search {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.encounter-calculator .monster-search-container {
+    position: relative;
+    margin-top: 8px;
+}
+
+.encounter-calculator .monster-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: white;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 3px 3px;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 1000;
+    display: none;
+}
+
+.encounter-calculator .monster-option {
+    padding: 8px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+}
+
+.encounter-calculator .monster-option:hover,
+.encounter-calculator .monster-option.highlighted {
+    background-color: #f0f0f0;
+}
+
+.encounter-calculator .monster-option:last-child {
+    border-bottom: none;
+}
+
+.encounter-calculator .cr-tag {
+    float: right;
+    color: #666;
+    font-size: 14px;
+}
+
+.encounter-calculator .monster-name-display {
+    font-style: italic;
+    color: #666;
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.encounter-calculator .button-base {
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.encounter-calculator .add-button {
+    background-color: #777;
+    padding: 8px 15px;
+    font-size: 16px;
+}
+
+.encounter-calculator .add-button:hover {
+    background-color: #555;
+}
+
+.encounter-calculator .remove-button {
+    background-color: #f44336;
+    padding: 5px 10px;
+    font-size: 14px;
+    align-self: flex-end;
+}
+
+.encounter-calculator .remove-button:hover {
+    background-color: #da190b;
+}
+
+.encounter-calculator .button-row {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.encounter-calculator .difficulty-base {
+    font-weight: bold;
+}
+
+.encounter-calculator .difficulty-easy { color: green; }
+.encounter-calculator .difficulty-medium { color: orange; }
+.encounter-calculator .difficulty-hard { color: red; }
+.encounter-calculator .difficulty-deadly { color: darkred; }
+.encounter-calculator .difficulty-warning { color: #DAA520; }
+
+@media (max-width: 600px) {
+    .encounter-calculator .flex-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .encounter-calculator .input-group-base {
+        min-width: auto;
+    }
+    .encounter-calculator .remove-button {
+        align-self: center;
+        margin-top: 10px;
+    }
+    .encounter-calculator .button-row {
+        flex-direction: column;
+        gap: 8px;
+    }
+    .encounter-calculator .button-row .add-button {
+        width: 100%;
+    }
+    .encounter-calculator .search-input-group,
+    .encounter-calculator .source-select-group {
+        flex: none !important;
+        min-width: auto !important;
+        width: 100%;
+    }
+    .encounter-calculator .monster-search,
+    .encounter-calculator .monster-source-filter {
+        width: 100% !important;
+        box-sizing: border-box;
+    }
+}
+
+/* Point Buy Calculator */
+.point-buy-calculator .ability-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.point-buy-calculator .ability-card {
+    background: #f9f9f9;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+    text-align: center;
+}
+
+.point-buy-calculator .ability-name {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.point-buy-calculator .ability-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin: 5px 0;
+}
+
+.point-buy-calculator .ability-button {
+    background-color: #444;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.point-buy-calculator .ability-button:hover:not(:disabled) {
+    background-color: #222;
+}
+
+.point-buy-calculator .ability-button:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+}
+
+.point-buy-calculator .ability-score {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    width: 50px;
+    border: 2px solid #666;
+    border-radius: 3px;
+    padding: 4px;
+    text-align: center;
+    background: white;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.point-buy-calculator .ability-modifier {
+    font-size: 16px;
+    color: #666;
+    margin-top: 5px;
+}
+
+.point-buy-calculator .ability-cost {
+    font-size: 16px;
+    color: #888;
+    margin-top: 5px;
+}
+
+.point-buy-calculator .reset-button {
+    background-color: #666;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.point-buy-calculator .reset-button:hover {
+    background-color: #444;
+}
+
+@media (max-width: 480px) {
+    .point-buy-calculator .ability-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 320px) {
+    .point-buy-calculator .ability-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Rules Search */
+.rules-search .search-container {
+    margin: 20px 0;
+    max-width: 600px;
+}
+
+.rules-search .search-input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    min-height: 44px;
+}
+
+.rules-search .search-input:focus {
+    border-color: #666;
+    outline: none;
+}
+
+.rules-search .search-stats {
+    color: #666;
+    font-size: 14px;
+    margin: 15px 0 10px 0;
+}
+
+.rules-search .search-results {
+    margin-top: 20px;
+}
+
+.rules-search .result-item {
+    border: 1px solid #ddd;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.rules-search .result-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.rules-search .result-title a {
+    color: #1a0dab;
+    text-decoration: underline;
+}
+
+.rules-search .result-title a:visited {
+    color: #609;
+}
+
+.rules-search .result-content {
+    color: #333;
+    line-height: 1.6;
+}
+
+.rules-search .result-content p {
+    margin: 8px 0;
+}
+
+.rules-search .result-content h1,
+.rules-search .result-content h2,
+.rules-search .result-content h3 {
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+
+.rules-search .result-content table {
+    margin: 10px 0;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.rules-search .result-content th,
+.rules-search .result-content td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.rules-search .result-content th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.rules-search .result-content ul,
+.rules-search .result-content ol {
+    margin: 8px 0;
+    padding-left: 24px;
+}
+
+.rules-search .result-content li {
+    margin: 4px 0;
+}
+
+.rules-search .highlight {
+    background-color: #ffff99;
+    padding: 2px 4px;
+    border-radius: 2px;
+}
+
+.rules-search .intro-text {
+    color: #666;
+    margin: 15px 0;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Combat Tracker */
+.combat-tracker input[type="text"] {
+    text-align: left;
+}
+
+.combat-tracker input[type=number]::-webkit-outer-spin-button,
+.combat-tracker input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.combat-tracker input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.combat-tracker table {
+    width: 100%;
+    margin: 10px 0;
+    table-layout: auto;
+}
+
+.combat-tracker th,
+.combat-tracker td {
+    border: 1px solid #999;
+    padding: 6px;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.combat-tracker th {
+    background-color: #e0e0e0;
+    font-size: 16px;
+}
+
+.combat-tracker .init-col {
+    width: 40px;
+    text-align: center;
+}
+
+.combat-tracker .init-col input {
+    font-size: 16px;
+}
+
+.combat-tracker .name-col {
+    min-width: 160px;
+    text-align: left !important;
+}
+
+.combat-tracker .ac-col {
+    width: 45px;
+    text-align: center;
+}
+
+.combat-tracker .ac-col input {
+    font-size: 16px;
+}
+
+.combat-tracker .hp-col {
+    width: 300px;
+    min-width: 100px;
+}
+
+.combat-tracker .hp-col input {
+    font-size: 16px;
+}
+
+.combat-tracker .controls {
+    margin: 10px 0;
+    padding: 8px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+}
+
+.combat-tracker .controls h3 {
+    margin: 0 0 8px 0;
+}
+
+.combat-tracker .controls input {
+    margin: 2px;
+    padding: 6px;
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.combat-tracker .hp-controls {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    flex-wrap: wrap;
+}
+
+.combat-tracker .hp-controls button,
+.combat-tracker .combat-controls button {
+    background-color: #666;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.combat-tracker .hp-controls button:hover,
+.combat-tracker .combat-controls button:hover {
+    background-color: #555;
+}
+
+.combat-tracker .hp-controls button {
+    padding: 4px 8px;
+    margin: 0;
+    min-width: 28px;
+}
+
+.combat-tracker .hp-controls input {
+    width: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 3px;
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.combat-tracker .hp-controls span {
+    margin: 0 2px;
+}
+
+.combat-tracker .current-turn {
+    background-color: #d0d0d0;
+    font-weight: bold;
+}
+
+.combat-tracker .remove-btn {
+    background-color: #666;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.combat-tracker .remove-btn:hover {
+    background-color: #555;
+}
+
+.combat-tracker .combat-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.combat-tracker .combat-controls button {
+    padding: 8px 12px;
+    flex: 1;
+    min-width: 70px;
+    max-width: 100px;
+    min-height: 32px;
+}
+
+.combat-tracker .search-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+}
+
+.combat-tracker .search-input-group {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.combat-tracker .source-select-group {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 120px;
+}
+
+.combat-tracker .search-input-group label,
+.combat-tracker .source-select-group label {
+    font-weight: bold;
+    margin-bottom: 3px;
+    font-size: 16px;
+}
+
+.combat-tracker .monster-search {
+    width: 100%;
+    padding: 2px 6px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.combat-tracker select {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+.combat-tracker .hp-button {
+    background-color: #666 !important;
+    color: white !important;
+    border: none !important;
+    padding: 3px 8px !important;
+    cursor: pointer;
+    font-size: 16px !important;
+    margin: 0 2px !important;
+    border-radius: 3px !important;
+    line-height: 16px !important;
+    height: auto !important;
+    min-height: auto !important;
+    box-sizing: border-box !important;
+}
+
+.combat-tracker .hp-button:hover {
+    background-color: #555 !important;
+}
+
+.combat-tracker .hp-input {
+    width: 35px;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 3px;
+    padding: 1px;
+    background-color: white;
+    color: black;
+    border: 1px solid #999;
+}
+
+.combat-tracker .transparent-input {
+    border: none;
+    background: transparent;
+    font-size: 16px;
+    width: 35px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    padding: 1px;
+}
+
+.combat-tracker .remove-button {
+    background-color: #d9534f !important;
+    color: white !important;
+    border: none !important;
+    padding: 2px 6px !important;
+    cursor: pointer;
+    font-size: 12px !important;
+    margin: 0 2px !important;
+    border-radius: 3px !important;
+    line-height: 14px !important;
+    height: auto !important;
+    min-height: auto !important;
+    box-sizing: border-box !important;
+}
+
+.combat-tracker .remove-button:hover {
+    background-color: #c9302c !important;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #000;
+        color: #e0e0e0;
+    }
+
+    th, td {
+        border-color: #444;
+    }
+
+    button, select {
+        background-color: #222;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    button:hover {
+        background-color: #333;
+    }
+
+    .main-search-input {
+        background-color: #000;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    .main-search-input:focus {
+        border-color: #888;
+    }
+
+    .search-buttons button {
+        background-color: #222;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    .search-buttons button:hover {
+        background-color: #333;
+        border-color: #666;
+    }
+
+    .filter-container {
+        background-color: #000;
+        border-color: #555;
+    }
+
+    .filter-header h3 {
+        color: #e0e0e0;
+    }
+
+    .filter-toggle,
+    .section-toggle {
+        color: #999;
+    }
+
+    .filter-section-title {
+        color: #e0e0e0;
+    }
+
+    .filter-subsection-title {
+        color: #bbb;
+    }
+
+    .source-filter {
+        background-color: #000;
+        border-color: #555;
+    }
+
+    .source-filter:hover {
+        background-color: #222;
+    }
+
+    .source-filter-label {
+        color: #e0e0e0;
+    }
+
+    .source-filter-count {
+        background-color: #333;
+        color: #bbb;
+    }
+
+    .filter-actions button {
+        background-color: #333;
+    }
+
+    .filter-actions button:hover {
+        background-color: #444;
+    }
+    a {
+        color: #6db3f2;
+    }
+
+    a:visited {
+        color: #b4a7d6;
+    }
+    #history {
+        background-color: #000;
+        color: #e0e0e0;
+    }
+    label {
+        color: #e0e0e0;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    input[type="search"] {
+        background-color: #333;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    /* Make number input spinners visible */
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+        opacity: 1;
+        filter: invert(1);
+    }
+
+    input::placeholder {
+        color: #888;
+    }
+
+    /* Common dark mode overrides */
+    h1, h2, h3, h4, h5, h6 {
+        color: #e0e0e0 !important;
+    }
+
+    th {
+        background-color: #000 !important;
+        color: #e0e0e0;
+        border-color: #555;
+    }
+
+    input,
+    textarea,
+    select {
+        background-color: #333 !important;
+        border-color: #555 !important;
+        color: #e0e0e0 !important;
+    }
+
+    /* Common component styling */
+    .results,
+    .character-group,
+    .monster-group,
+    .ability-card,
+    .monster-results,
+    #monsterResults,
+    .monster-dropdown {
+        background-color: #000 !important;
+        border-color: #555 !important;
+        color: #e0e0e0;
+    }
+
+    .input-section {
+        background-color: transparent !important;
+        border-color: #555 !important;
+    }
+
+    .monster-option {
+        background-color: #000 !important;
+        color: #e0e0e0 !important;
+        border-color: #555 !important;
+    }
+
+    .monster-option:hover {
+        background-color: #222 !important;
+    }
+
+    .cr-tag,
+    .monster-name-display {
+        color: #bbb !important;
+    }
+
+    /* Dice Roller dark mode */
+    .dice-roller .history {
+        background-color: #000;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    .dice-roller .dice {
+        background-color: #222;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+
+    .dice-roller .dice:hover {
+        background-color: #333;
+    }
+
+    /* Encounter Calculator - only unique styles */
+    .encounter-calculator .difficulty-easy { color: #90ee90; }
+    .encounter-calculator .difficulty-medium { color: #ffa500; }
+    .encounter-calculator .difficulty-hard { color: #ff6b6b; }
+    .encounter-calculator .difficulty-deadly { color: #ff4444; }
+    .encounter-calculator .difficulty-warning { color: #ffb84d; }
+
+    /* Point Buy Calculator - only unique styles */
+    .point-buy-calculator .ability-button {
+        background-color: #333;
+    }
+
+    .point-buy-calculator .ability-button:hover:not(:disabled) {
+        background-color: #444;
+    }
+
+    .point-buy-calculator .ability-button:disabled {
+        background-color: #222;
+    }
+
+    .point-buy-calculator .ability-modifier,
+    .point-buy-calculator .ability-cost {
+        color: #bbb;
+    }
+
+    /* Rules Search - only unique styles */
+    .rules-search .search-stats,
+    .rules-search .intro-text {
+        color: #bbb;
+    }
+
+    .rules-search .result-item {
+        background-color: #000;
+        border-color: #555;
+    }
+
+    .rules-search .highlight {
+        background-color: #665500;
+        color: #fff;
+    }
+
+    /* Combat Tracker - only unique styles */
+    .combat-tracker .current-turn {
+        background-color: #222;
+    }
+
+    .combat-tracker .transparent-input {
+        background: transparent;
+        color: #e0e0e0;
+    }
+
+    .combat-tracker .controls {
+        background-color: #000;
+        border-color: #555;
+    }
+}
