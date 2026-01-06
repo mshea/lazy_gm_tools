@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Combat Tracker - Player View</title>
+    <link rel="stylesheet" href="../../css_js/5eadb.css">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { text-align: center; margin-bottom: 20px; }
+        .initiative-list { max-width: 400px; margin: 0 auto; }
+        .combatant-row { 
+            padding: 12px; 
+            margin: 4px 0; 
+            border: 2px solid #ccc; 
+            border-radius: 6px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .current-turn { 
+            background-color: #ffeb3b; 
+            border-color: #f57f17;
+            font-weight: bold;
+        }
+        .initiative-number { 
+            font-size: 18px; 
+            font-weight: bold; 
+            color: #666;
+        }
+        .combatant-name {
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .health-status {
+            font-size: 18px;
+            line-height: 1;
+        }
+        .conditions {
+            font-size: 16px;
+            line-height: 1;
+            margin-left: 4px;
+        }
+        .status-indicator {
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            background-color: #e0e0e0;
+        }
+        .current-turn .status-indicator {
+            background-color: #4caf50;
+            color: white;
+        }
+        .up-next-indicator {
+            background-color: #ff9800 !important;
+            color: white !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 onclick="clearTracker()" style="cursor: pointer;" title="Click to clear tracker and reset">Combat Tracker</h1>
+        <div style="margin: 10px 0;">
+            <label for="roundCounter" style="font-weight: bold; margin-right: 8px;">Round:</label>
+            <input type="number" id="roundCounter" value="1" min="1" max="999"
+                   style="width: 60px; text-align: center; font-size: 16px; font-weight: bold;
+                          border: 1px solid #ccc; border-radius: 4px; padding: 4px;">
+        </div>
+    </div>
+    
+    <div class="initiative-list" id="initiativeList">
+        <!-- Combatants will be populated here -->
+    </div>
+
+    <center><p id="connectionStatus">Connecting to DM tracker...</p></center>
+    <script>
+        let combatants = [];
+        let currentTurnIndex = 0;
+        let previousTurnIndex = -1;
+        
+        // Listen for changes from DM tracker
+        window.addEventListener('storage', function(e) {
+            if (e.key === 'combatTrackerSync') {
+                const data = JSON.parse(e.newValue || '{}');
+                updateFromDMTracker(data);
+            }
+        });
+        
+        function updateFromDMTracker(data) {
+            if (data.combatants && Array.isArray(data.combatants)) {
+                combatants = data.combatants;
+
+                const newTurnIndex = data.currentTurnIndex || 0;
+
+                // Check for round transition (turn went from last to first)
+                if (combatants.length > 0 &&
+                    currentTurnIndex === combatants.length - 1 &&
+                    newTurnIndex === 0) {
+                    incrementRound();
+                }
+
+                previousTurnIndex = currentTurnIndex;
+                currentTurnIndex = newTurnIndex;
+
+                renderInitiativeList();
+                updateConnectionStatus('Connected');
+            }
+        }
+
+        function incrementRound() {
+            const roundInput = document.getElementById('roundCounter');
+            const currentRound = parseInt(roundInput.value) || 1;
+            roundInput.value = currentRound + 1;
+        }
+
+        function getHealthStatusEmoji(combatant) {
+            // Return empty string if no HP data
+            if (!combatant.maxHp || combatant.maxHp <= 0) {
+                return '';
+            }
+
+            const hpPercent = (combatant.currentHp / combatant.maxHp) * 100;
+
+            if (hpPercent >= 100) {
+                return ''; // Full health - no icon
+            } else if (hpPercent <= 0) {
+                return '💀'; // Dead
+            } else if (hpPercent <= 10) {
+                return '🚨'; // Critical
+            } else if (hpPercent <= 50) {
+                return '🩸'; // Bloodied
+            } else {
+                return '🩹'; // Wounded but not bloodied (51-99%)
+            }
+        }
+
+        function getConditionsDisplay(combatant) {
+            if (!combatant.conditions || combatant.conditions.length === 0) {
+                return '';
+            }
+
+            const CONDITIONS = {
+                'Blinded': '🙈',
+                'Charmed': '😍',
+                'Deafened': '🙉',
+                'Exhaustion': '🥵',
+                'Frightened': '😱',
+                'Grappled': '⛓️',
+                'Incapacitated': '🚫',
+                'Invisible': '🌫️',
+                'Paralyzed': '🥶',
+                'Petrified': '🪨',
+                'Poisoned': '🤢',
+                'Prone': '🛌',
+                'Restrained': '🕸️',
+                'Stunned': '💫',
+                'Unconscious': '😴'
+            };
+
+            return combatant.conditions.map(condition =>
+                CONDITIONS[condition] || '❓'
+            ).join(' ');
+        }
+        
+        function renderInitiativeList() {
+            const container = document.getElementById('initiativeList');
+
+            if (combatants.length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: #666;">No active combat</p>';
+                return;
+            }
+
+            container.innerHTML = combatants.map((combatant, index) => {
+                const isCurrentTurn = index === currentTurnIndex;
+                const nextTurnIndex = (currentTurnIndex + 1) % combatants.length;
+                const isUpNext = index === nextTurnIndex && !isCurrentTurn;
+
+                let statusText = 'Waiting';
+                if (isCurrentTurn) {
+                    statusText = 'Current Turn';
+                } else if (isUpNext) {
+                    statusText = 'Up Next';
+                }
+
+                const healthEmoji = getHealthStatusEmoji(combatant);
+                const conditionsDisplay = getConditionsDisplay(combatant);
+
+                return `
+                    <div class="combatant-row ${isCurrentTurn ? 'current-turn' : ''}">
+                        <div class="combatant-name">
+                            <span>${combatant.name}</span>
+                            ${healthEmoji ? `<span class="health-status">${healthEmoji}</span>` : ''}
+                            ${conditionsDisplay ? `<span class="conditions">${conditionsDisplay}</span>` : ''}
+                        </div>
+                        <div>
+                            <span class="initiative-number">${combatant.initiative}</span>
+                            <span class="status-indicator ${isUpNext ? 'up-next-indicator' : ''}">${statusText}</span>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function updateConnectionStatus(status) {
+            const statusEl = document.getElementById('connectionStatus');
+            statusEl.textContent = status === 'Connected' ? 
+                'Connected to DM tracker' : 'Waiting for DM tracker...';
+            statusEl.style.color = status === 'Connected' ? '#4caf50' : '#666';
+        }
+        
+        // Initial load - check if DM tracker data exists
+        function initializePlayerView() {
+            const existingData = localStorage.getItem('combatTrackerSync');
+            if (existingData) {
+                updateFromDMTracker(JSON.parse(existingData));
+            } else {
+                updateConnectionStatus('Waiting');
+            }
+        }
+        
+        // Clear tracker function
+        function clearTracker() {
+            if (confirm('Clear combat tracker and reset round counter?')) {
+                // Clear data
+                combatants = [];
+                currentTurnIndex = 0;
+                previousTurnIndex = -1;
+
+                // Clear localStorage
+                localStorage.removeItem('combatTrackerSync');
+
+                // Reset round counter
+                document.getElementById('roundCounter').value = 1;
+
+                // Update display
+                renderInitiativeList();
+                updateConnectionStatus('Waiting');
+
+                console.log('Combat tracker cleared');
+            }
+        }
+
+        // Initialize when page loads
+        document.addEventListener('DOMContentLoaded', initializePlayerView);
+    </script>
+</body>
+</html>
