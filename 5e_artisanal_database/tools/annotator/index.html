@@ -328,7 +328,10 @@ input, button, select, textarea {
     <div class="controls" style="display: block; margin: 0; width: 400px;">
         <h3 style="margin-bottom: 15px;">Add Labels <span style="font-size: 14px; font-weight: normal;">(Click on map to place label)</span></h3>
         <div>
-            <textarea id="labelText" placeholder="Label text (use Shift+Enter for new lines)" rows="2" maxlength="200"></textarea>
+            <div style="display: flex; gap: 10px; align-items: flex-start; margin-bottom: 8px;">
+                <textarea id="labelText" placeholder="Label text (use Shift+Enter for new lines)" rows="2" maxlength="200" style="flex: 1;"></textarea>
+                <button id="numericKeyBtn" onclick="toggleNumericKey()" style="background-color: #666; color: white; border: none; padding: 8px 12px; font-size: 14px; border-radius: 4px; white-space: nowrap;">Numeric Key</button>
+            </div>
             <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 8px;">
                 <div class="size-control">
                     <input type="number" id="labelSize" value="16" min="8" max="72" step="2">
@@ -397,6 +400,10 @@ let labelIdCounter = 1;
 let currentZoom = 1;
 let mapCanvas = null;
 
+// Numeric keying system
+let numericKeyMode = false;
+let numericKeyCounter = 1;
+
 function loadMap(event) {
     const file = event.target.files[0];
     if (!file) return;
@@ -426,7 +433,11 @@ function loadMap(event) {
                 height: img.naturalHeight,
                 filename: file.name
             };
-            
+
+            // Set initial label size to 5% of image width, rounded to nearest pixel
+            const initialLabelSize = Math.round(img.naturalWidth * 0.015);
+            document.getElementById('labelSize').value = initialLabelSize;
+
             currentZoom = 1;
             updateZoom();
         };
@@ -560,9 +571,12 @@ function handleCanvasClick(event) {
     }
     
     addLabel(originalX, originalY, labelText);
-    
+
     // Clear the input and deselect any previously selected label
-    document.getElementById('labelText').value = '';
+    // Note: addLabel() handles setting the next numeric value if in numeric key mode
+    if (!numericKeyMode) {
+        document.getElementById('labelText').value = '';
+    }
     deselectLabel();
     document.getElementById('labelText').focus();
 }
@@ -571,7 +585,7 @@ function addLabel(x, y, text) {
     const size = parseInt(document.getElementById('labelSize').value) || 16;
     const color = document.getElementById('labelColor').value || '#000000';
     const font = document.getElementById('labelFont').value || 'Arial, sans-serif';
-    
+
     const label = {
         id: labelIdCounter++,
         x: x,
@@ -581,9 +595,37 @@ function addLabel(x, y, text) {
         color: color,
         font: font
     };
-    
+
     labels.push(label);
     renderLabels();
+
+    // Handle numeric key auto-increment
+    if (numericKeyMode) {
+        numericKeyCounter++;
+        document.getElementById('labelText').value = numericKeyCounter.toString();
+    }
+}
+
+function toggleNumericKey() {
+    const btn = document.getElementById('numericKeyBtn');
+    const labelTextInput = document.getElementById('labelText');
+
+    if (!numericKeyMode) {
+        // Enable numeric key mode
+        numericKeyMode = true;
+        numericKeyCounter = 1;
+        labelTextInput.value = numericKeyCounter.toString();
+        btn.style.backgroundColor = '#007acc';
+        btn.textContent = 'Numeric Key (ON)';
+        labelTextInput.focus();
+    } else {
+        // Disable numeric key mode
+        numericKeyMode = false;
+        labelTextInput.value = '';
+        btn.style.backgroundColor = '#666';
+        btn.textContent = 'Numeric Key';
+        labelTextInput.focus();
+    }
 }
 
 function renderLabels() {
@@ -772,12 +814,18 @@ function clearAllLabels() {
         alert('No labels to clear.');
         return;
     }
-    
+
     if (confirm(`Delete all ${labels.length} labels?`)) {
         labels = [];
         selectedLabel = null;
         hideEditControls();
         renderLabels();
+
+        // Reset numeric key mode
+        if (numericKeyMode) {
+            numericKeyCounter = 1;
+            document.getElementById('labelText').value = numericKeyCounter.toString();
+        }
     }
 }
 
@@ -789,7 +837,12 @@ function clearMap() {
         currentZoom = 1;
         mapCanvas = null;
         hideEditControls();
-        
+
+        // Reset numeric key mode
+        if (numericKeyMode) {
+            toggleNumericKey(); // This will turn off numeric key mode
+        }
+
         const container = document.getElementById('mapContainer');
         container.innerHTML = '<div class="no-map">Load a map image (JPG or PNG) to start adding labels</div>';
         document.getElementById('mapFile').value = '';
@@ -940,6 +993,10 @@ function loadProject(event) {
             
             // Wait for image to load before rendering labels
             img.onload = function() {
+                // Set initial label size to 2% of image width, rounded to nearest pixel
+                const initialLabelSize = Math.round(img.naturalWidth * 0.02);
+                document.getElementById('labelSize').value = initialLabelSize;
+
                 renderLabels();
             };
             
@@ -973,9 +1030,25 @@ document.addEventListener('keydown', function(event) {
     }
 });
 
-// Initialize
+// Handle input changes in numeric key mode
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('labelText').focus();
+
+    // Add input event listener for numeric key mode
+    document.getElementById('labelText').addEventListener('input', function(event) {
+        if (numericKeyMode) {
+            const value = event.target.value.trim();
+            const numValue = parseInt(value);
+
+            // If user enters a valid number, update the counter to continue from there
+            if (!isNaN(numValue) && numValue > 0) {
+                numericKeyCounter = numValue;
+            } else if (value === '') {
+                // If user clears the input, turn off numeric key mode
+                toggleNumericKey();
+            }
+        }
+    });
 });
 
 // Add mouse wheel zoom support
