@@ -22,8 +22,7 @@ Learn about the licensing of the data of this tool in the license.html file loca
         <div class="search-input-group">
             <div style="position: relative;">
                 <input type="text" id="nameInput" class="monster-search" placeholder="Name or search monsters..." required>
-                <div id="monsterResults" style="position: absolute; top: 100%; left: 0; right: 0; max-height: 200px; overflow-y: auto; border: 1px solid #999; background-color: white; display: none; z-index: 1000;">
-                </div>
+                <div id="monsterResults"></div>
             </div>
         </div>
         <div class="source-select-group">
@@ -202,12 +201,10 @@ function searchMonsters() {
 
 function renderMonsterResults() {
     const resultsDiv = document.getElementById('monsterResults');
-    resultsDiv.innerHTML = filteredMonsters.map((monster, index) => 
-        `<div style="padding: 4px; cursor: pointer; border-bottom: 1px solid #ddd; font-size: 16px; ${index === selectedMonsterIndex ? 'background-color: #e0e0e0;' : ''}" 
-              onclick="selectMonsterByIndex(${index})"
-              onmouseover="this.style.backgroundColor='#f0f0f0'" 
-              onmouseout="this.style.backgroundColor='${index === selectedMonsterIndex ? '#e0e0e0' : 'white'}'">
-            <strong>${monster.name}</strong> - AC ${monster.ac}, HP ${monster.hp}, Init ${monster.init >= 0 ? '+' + monster.init : monster.init} <span style="color: #666;">(${abbreviateSource(monster.source)})</span>
+    resultsDiv.innerHTML = filteredMonsters.map((monster, index) =>
+        `<div class="monster-result-item ${index === selectedMonsterIndex ? 'selected' : ''}"
+              onclick="selectMonsterByIndex(${index})">
+            <strong>${monster.name}</strong> - AC ${monster.ac}, HP ${monster.hp}, Init ${monster.init >= 0 ? '+' + monster.init : monster.init} <span class="monster-result-source">(${abbreviateSource(monster.source)})</span>
          </div>`
     ).join('');
 }

@@ -480,7 +480,8 @@ If you need to know how fast you can move when every second matters, see the mov
 
 While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a Short or Long Rest before they can move at that increased pace again (see “Equipment” for a selection of mounts for sale). “Gameplay Toolbox” has rules that affect which pace you can choose in certain types of terrain.
 
-Table: Travel Pace - Distance Traveled Per …
+Table: Travel Pace - Distance Traveled Per...
+
 | Pace   | Minute   | Hour    | Day      |
 |--------|----------|---------|----------|
 | Fast   | 400 feet | 4 miles | 30 miles |

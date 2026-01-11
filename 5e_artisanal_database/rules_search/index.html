@@ -22,7 +22,7 @@ all without asking permission.
 <h1>5.2 SRD Rules Search</h1>
 
 <p class="intro-text">
-    Fast search across 1,200+ rules from the 5.2 SRD (D&D 2024).
+    Search 1,200+ rules from the 5.2 SRD (D&D 2024).
 </p>
 
 <div class="search-container">
@@ -37,7 +37,7 @@ all without asking permission.
 <div id="searchStats"></div>
 <div id="searchResults"></div>
 
-<p style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; color: #666; font-size: 14px;">
+<p class="intro-text" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 14px;">
     This work includes material from the System Reference Document 5.2 ("SRD 5.2") by Wizards of the Coast LLC, available at <a href="https://www.dndbeyond.com/srd">dndbeyond.com/srd</a>. The SRD 5.2 is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a>.
 </p>
 
@@ -162,7 +162,7 @@ class RulesSearchEngine {
 
         // Show stats
         this.searchStats.textContent = results.length > 0
-            ? `Found ${results.length} result${results.length !== 1 ? 's' : ''} in ${searchTime}s`
+            ? `${results.length} result${results.length !== 1 ? 's' : ''}`
             : '';
 
         // Show no results message

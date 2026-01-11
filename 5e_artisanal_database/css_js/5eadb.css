@@ -109,13 +109,11 @@ button:hover {
 .filter-header h3 {
     margin: 0;
     font-size: 16px;
-    color: #333;
     font-weight: 600;
 }
 
 .filter-toggle {
     font-size: 18px;
-    color: #666;
     transition: transform 0.2s ease;
 }
 
@@ -156,7 +154,6 @@ button:hover {
     justify-content: space-between;
     font-weight: 600;
     font-size: 16px;
-    color: #333;
     margin-bottom: 8px;
     cursor: pointer;
     user-select: none;
@@ -166,7 +163,6 @@ button:hover {
 .section-toggle {
     margin-left: auto;
     font-size: 16px;
-    color: #666;
     transition: transform 0.2s ease;
 }
 
@@ -190,7 +186,6 @@ button:hover {
 .filter-subsection-title {
     font-weight: 600;
     font-size: 14px;
-    color: #555;
     margin-bottom: 6px;
 }
 
@@ -220,12 +215,10 @@ button:hover {
     flex: 1;
     cursor: pointer;
     font-size: 16px;
-    color: #333;
 }
 
 .source-filter-count {
     font-size: 12px;
-    color: #666;
     background-color: #f0f0f0;
     padding: 2px 6px;
     border-radius: 12px;
@@ -477,13 +470,11 @@ body.encounter-calculator th {
 
 .encounter-calculator .cr-tag {
     float: right;
-    color: #666;
     font-size: 14px;
 }
 
 .encounter-calculator .monster-name-display {
     font-style: italic;
-    color: #666;
     margin-top: 4px;
     font-size: 14px;
 }
@@ -585,7 +576,6 @@ body.encounter-calculator th {
     font-weight: bold;
     font-size: 16px;
     margin-bottom: 5px;
-    color: #333;
 }
 
 .point-buy-calculator .ability-controls {
@@ -623,7 +613,6 @@ body.encounter-calculator th {
 .point-buy-calculator .ability-score {
     font-size: 20px;
     font-weight: bold;
-    color: #333;
     width: 50px;
     border: 2px solid #666;
     border-radius: 3px;
@@ -636,13 +625,11 @@ body.encounter-calculator th {
 
 .point-buy-calculator .ability-modifier {
     font-size: 16px;
-    color: #666;
     margin-top: 5px;
 }
 
 .point-buy-calculator .ability-cost {
     font-size: 16px;
-    color: #888;
     margin-top: 5px;
 }
 
@@ -695,7 +682,6 @@ body.encounter-calculator th {
 }
 
 .rules-search .search-stats {
-    color: #666;
     font-size: 14px;
     margin: 15px 0 10px 0;
 }
@@ -719,16 +705,10 @@ body.encounter-calculator th {
 }
 
 .rules-search .result-title a {
-    color: #1a0dab;
     text-decoration: underline;
 }
 
-.rules-search .result-title a:visited {
-    color: #609;
-}
-
 .rules-search .result-content {
-    color: #333;
     line-height: 1.6;
 }
 
@@ -778,7 +758,6 @@ body.encounter-calculator th {
 }
 
 .rules-search .intro-text {
-    color: #666;
     margin: 15px 0;
     font-size: 16px;
     line-height: 1.5;
@@ -985,6 +964,39 @@ body.encounter-calculator th {
     text-align: left;
 }
 
+.combat-tracker #monsterResults {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid #999;
+    background-color: white;
+    display: none;
+    z-index: 1000;
+}
+
+.combat-tracker .monster-result-item {
+    padding: 4px;
+    cursor: pointer;
+    border-bottom: 1px solid #ddd;
+    font-size: 16px;
+    background-color: white;
+}
+
+.combat-tracker .monster-result-item:hover {
+    background-color: #f0f0f0;
+}
+
+.combat-tracker .monster-result-item.selected {
+    background-color: #e0e0e0;
+}
+
+.combat-tracker .monster-result-source {
+    color: #666;
+}
+
 .combat-tracker select {
     padding: 8px;
     font-size: 16px;
@@ -1100,23 +1112,6 @@ body.encounter-calculator th {
         border-color: #555;
     }
 
-    .filter-header h3 {
-        color: #e0e0e0;
-    }
-
-    .filter-toggle,
-    .section-toggle {
-        color: #999;
-    }
-
-    .filter-section-title {
-        color: #e0e0e0;
-    }
-
-    .filter-subsection-title {
-        color: #bbb;
-    }
-
     .source-filter {
         background-color: #000;
         border-color: #555;
@@ -1126,13 +1121,8 @@ body.encounter-calculator th {
         background-color: #222;
     }
 
-    .source-filter-label {
-        color: #e0e0e0;
-    }
-
     .source-filter-count {
         background-color: #333;
-        color: #bbb;
     }
 
     .filter-actions button {
@@ -1223,11 +1213,6 @@ body.encounter-calculator th {
         background-color: #222 !important;
     }
 
-    .cr-tag,
-    .monster-name-display {
-        color: #bbb !important;
-    }
-
     /* Dice Roller dark mode */
     .dice-roller .history {
         background-color: #000;
@@ -1265,20 +1250,19 @@ body.encounter-calculator th {
         background-color: #222;
     }
 
-    .point-buy-calculator .ability-modifier,
-    .point-buy-calculator .ability-cost {
-        color: #bbb;
-    }
-
     /* Rules Search - only unique styles */
-    .rules-search .search-stats,
-    .rules-search .intro-text {
-        color: #bbb;
-    }
-
     .rules-search .result-item {
         background-color: #000;
         border-color: #555;
+    }
+
+    .rules-search .result-content th,
+    .rules-search .result-content td {
+        border-color: #555;
+    }
+
+    .rules-search .result-content th {
+        background-color: #000;
     }
 
     .rules-search .highlight {
@@ -1288,11 +1272,39 @@ body.encounter-calculator th {
 
     /* Combat Tracker - only unique styles */
     .combat-tracker .current-turn {
-        background-color: #222;
+        background-color: #1a1a1a;
+    }
+
+    .combat-tracker #monsterResults {
+        background-color: #1a1a1a;
+        border-color: #555;
+    }
+
+    .combat-tracker .monster-result-item {
+        background-color: #1a1a1a;
+        border-bottom-color: #444;
+        color: #e0e0e0;
+    }
+
+    .combat-tracker .monster-result-item:hover {
+        background-color: #2a2a2a;
+    }
+
+    .combat-tracker .monster-result-item.selected {
+        background-color: #333;
+    }
+
+    .combat-tracker .monster-result-source {
+        color: #999;
     }
 
     .combat-tracker .transparent-input {
-        background: transparent;
+        background: #000 !important;
+        color: #e0e0e0;
+    }
+
+    .combat-tracker .hp-input {
+        background: #000 !important;
         color: #e0e0e0;
     }
 
