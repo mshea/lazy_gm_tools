@@ -104,6 +104,11 @@ button:hover {
     padding: 10px;
     cursor: pointer;
     user-select: none;
+    gap: 8px;
+}
+
+.filter-header:hover {
+    background-color: #e8e8e8;
 }
 
 .filter-header h3 {
@@ -114,6 +119,7 @@ button:hover {
 
 .filter-toggle {
     font-size: 18px;
+    color: #666;
     transition: transform 0.2s ease;
 }
 
@@ -160,9 +166,15 @@ button:hover {
     gap: 8px;
 }
 
+.filter-section-title:hover {
+    background-color: #f0f0f0;
+    border-radius: 4px;
+}
+
 .section-toggle {
     margin-left: auto;
     font-size: 16px;
+    color: #666;
     transition: transform 0.2s ease;
 }
 
@@ -186,6 +198,7 @@ button:hover {
 .filter-subsection-title {
     font-weight: 600;
     font-size: 14px;
+    color: #555;
     margin-bottom: 6px;
 }
 
@@ -247,6 +260,69 @@ button:hover {
 
 .filter-actions button:hover {
     background-color: #555;
+}
+
+/* Search result styles */
+.search-results {
+    margin-top: 20px;
+}
+
+.result-item {
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.result-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.result-title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.result-title a:hover {
+    text-decoration: underline;
+    color: #666;
+}
+
+.result-source {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.result-snippet {
+    color: #555;
+    line-height: 1.4;
+}
+
+.search-stats {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.no-results {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+    margin: 20px 0;
+}
+
+.loading {
+    text-align: center;
+    color: #666;
+    margin: 20px 0;
+}
+
+.highlight {
+    background-color: #ffff99;
+    padding: 1px 2px;
 }
 
 /* Tool-specific styles */
@@ -1132,6 +1208,71 @@ body.encounter-calculator th {
     .filter-actions button:hover {
         background-color: #444;
     }
+
+    .filter-header:hover {
+        background-color: #222;
+    }
+
+    .filter-toggle {
+        color: #999;
+    }
+
+    .filter-section-title {
+        color: #e0e0e0;
+        border-bottom-color: #555;
+    }
+
+    .filter-section-title:hover {
+        background-color: #222;
+    }
+
+    .section-toggle {
+        color: #999;
+    }
+
+    .filter-subsection-title {
+        color: #aaa;
+    }
+
+    /* Search result dark mode */
+    .result-item {
+        background-color: #1a1a1a;
+        border-color: #555;
+    }
+
+    .result-title a {
+        color: #6db3f2;
+    }
+
+    .result-title a:hover {
+        color: #b4a7d6;
+    }
+
+    .result-source {
+        color: #999;
+    }
+
+    .result-snippet {
+        color: #ccc;
+    }
+
+    .search-stats {
+        color: #999;
+    }
+
+    .no-results {
+        color: #999;
+    }
+
+    .loading {
+        color: #999;
+    }
+
+    .highlight {
+        background-color: #665500;
+        color: #fff;
+    }
+
     a {
         color: #6db3f2;
     }

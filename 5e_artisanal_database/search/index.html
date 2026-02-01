@@ -13,16 +13,13 @@
 }
 
 .search-input {
-    margin-bottom: 5px;
-}
-
-.search-input {
     width: 100%;
     padding: 10px;
     font-size: 16px;
     border: 2px solid #ddd;
     border-radius: 4px;
     box-sizing: border-box;
+    margin-bottom: 5px;
 }
 
 .search-input:focus {
@@ -35,169 +32,11 @@
     text-align: left;
 }
 
-.search-buttons button {
-    background-color: #f8f9fa;
-    color: #3c4043;
-    border: 1px solid #dadce0;
-    border-radius: 4px;
-    padding: 8px 16px;
-    font-size: 16px;
-    cursor: pointer;
-    margin: 0 5px;
-    min-height: auto;
-}
-
-.search-buttons button:hover {
-    box-shadow: 0 1px 1px rgba(0,0,0,.1);
-    background-color: #f1f3f4;
-    border: 1px solid #dadce0;
-    color: #202124;
-}
-
-.search-results {
-    margin-top: 20px;
-}
-
-.result-item {
-    border: 1px solid #ddd;
-    margin: 10px 0;
-    padding: 15px;
-    border-radius: 4px;
-    background-color: #f9f9f9;
-}
-
-.result-title {
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-
-.result-title a {
-    color: #333;
-    text-decoration: none;
-}
-
-.result-title a:hover {
-    text-decoration: underline;
-    color: #666;
-}
-
-.result-source {
-    color: #666;
-    font-size: 14px;
-    margin-bottom: 5px;
-}
-
-.result-snippet {
-    color: #555;
-    line-height: 1.4;
-}
-
-.no-results {
-    text-align: center;
-    color: #666;
-    font-style: italic;
-    margin: 20px 0;
-}
-
-.loading {
-    text-align: center;
-    color: #666;
-    margin: 20px 0;
-}
-
-.search-stats {
-    color: #666;
-    font-size: 14px;
-    margin-bottom: 10px;
-}
-
-.highlight {
-    background-color: #ffff99;
-    padding: 1px 2px;
-}
-
-.search-container .filter-container {
-    margin: 10px 0;
-    padding: 0;
-    background-color: #f8f8f8;
-    border-radius: 4px;
-    border: 1px solid #ddd;
-}
-
-.search-container .filter-header {
-    padding: 10px;
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    user-select: none;
-    gap: 8px;
-}
-
-.filter-header:hover {
-    background-color: #e8e8e8;
-}
-
-.filter-header h3 {
-    margin: 0;
-    font-size: 16px;
-    color: #333;
-}
-
-.filter-toggle {
-    font-size: 18px;
-    color: #666;
-    transition: transform 0.2s ease;
-}
-
-.filter-toggle.collapsed {
-    transform: rotate(-90deg);
-}
-
-.filter-content {
-    padding: 15px;
-    overflow: hidden;
-    transition: max-height 0.3s ease, opacity 0.3s ease;
-}
-
-.filter-content.collapsed {
-    max-height: 0;
-    padding: 0 15px;
-    opacity: 0;
-}
-
-.source-filters {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    margin-bottom: 15px;
-}
-
-.filter-section {
-    margin-bottom: 15px;
-}
-
-.filter-section:last-child {
-    margin-bottom: 0;
-}
-
+/* Search page filter overrides - slightly different sizing from shared defaults */
 .filter-section-title {
-    font-weight: bold;
-    font-size: 16px;
     color: #333;
-    margin-bottom: 8px;
     padding: 8px 4px;
     border-bottom: 1px solid #ddd;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    user-select: none;
-}
-
-.filter-section-title:hover {
-    background-color: #f0f0f0;
-    border-radius: 4px;
 }
 
 .filter-section-title input[type="checkbox"] {
@@ -207,58 +46,18 @@
 }
 
 .section-toggle {
-    margin-left: auto;
     font-size: 14px;
-    color: #666;
-    transition: transform 0.2s ease;
-}
-
-.section-toggle.collapsed {
-    transform: rotate(-90deg);
-}
-
-.filter-subsection {
-    margin-left: 25px;
-    margin-bottom: 10px;
-    overflow: hidden;
-    transition: max-height 0.3s ease, opacity 0.3s ease;
-}
-
-.filter-subsection.collapsed {
-    max-height: 0;
-    opacity: 0;
-    margin-bottom: 0;
-}
-
-.filter-subsection-title {
-    font-weight: 600;
-    font-size: 14px;
-    color: #555;
-    margin-bottom: 6px;
 }
 
 .source-filter {
-    display: flex;
-    align-items: center;
-    gap: 12px;
     padding: 12px;
     margin-bottom: 6px;
-    background-color: #f8f8f8;
     border-radius: 6px;
-    border: 1px solid #ddd;
-    cursor: pointer;
-    transition: background-color 0.2s;
-}
-
-.source-filter:hover {
-    background-color: #eeeeee;
 }
 
 .source-filter input[type="checkbox"] {
     width: 20px;
     height: 20px;
-    margin: 0;
-    cursor: pointer;
 }
 
 .source-filter label {
@@ -274,55 +73,53 @@
         padding: 16px;
         gap: 16px;
     }
-    
+
     .source-filter input[type="checkbox"] {
         width: 24px;
         height: 24px;
     }
-    
+
     .source-filter label {
         font-size: 16px;
         padding: 6px 0;
     }
-    
+
     .filter-subsection {
         margin-left: 10px;
     }
 }
 
 .filter-actions {
-    display: flex;
     gap: 8px;
     flex-wrap: wrap;
 }
 
 .filter-actions button {
-    background-color: #666;
-    color: white;
-    border: none;
     padding: 12px 20px;
     border-radius: 6px;
-    cursor: pointer;
     font-size: 14px;
-    white-space: nowrap;
     min-height: 44px;
-}
-
-.filter-actions button:hover {
-    background-color: #555;
 }
 
 @media (max-width: 600px) {
     .filter-actions {
         justify-content: center;
     }
-    
+
     .filter-actions button {
         flex: 1;
         min-width: 120px;
         padding: 16px 24px;
         font-size: 16px;
         min-height: 48px;
+    }
+}
+
+/* Dark mode - only needed for color explicitly set above that would otherwise clobber shared dark mode */
+@media (prefers-color-scheme: dark) {
+    .filter-section-title {
+        color: #e0e0e0;
+        border-bottom-color: #555;
     }
 }
 </style>
