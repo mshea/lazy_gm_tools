@@ -268,11 +268,8 @@ button:hover {
 }
 
 .result-item {
-    border: 1px solid #ddd;
-    margin: 10px 0;
-    padding: 15px;
-    border-radius: 4px;
-    background-color: #f9f9f9;
+    padding: 12px 0;
+    border-bottom: 1px solid #ddd;
 }
 
 .result-title {
@@ -1236,8 +1233,7 @@ body.encounter-calculator th {
 
     /* Search result dark mode */
     .result-item {
-        background-color: #1a1a1a;
-        border-color: #555;
+        border-bottom-color: #444;
     }
 
     .result-title a {
