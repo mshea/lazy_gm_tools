@@ -30,6 +30,8 @@ In this repository you'll find:
 
 **black_flag_monsters.md** (now bundled in the 5e Artisanal Database). All of the Kobold Press Black Flag monsters in a single markdown file so you can drop it right into Obisidian.
 
+**PDF Search**. A vibe-coded web-based application intended to be hosted locally on your machine or on an internal server on your network. It indexes a folder and subfolders noted in the config folder and gives you a web interface to search them.
+
 All of these fine tools are made possible by the generous support of the [Sly Flourish Patreon](https://www.patreon.com/slyflourish). If you are not a patron, please consider joining!
 
 Licenses are described in each of the tools.
