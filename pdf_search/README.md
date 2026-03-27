@@ -56,7 +56,6 @@ Edit `config.py` or set environment variables:
 |---|---|---|
 | `PDF_SEARCH_PDF_DIR` | `./pdfs` | Directory containing PDFs |
 | `PDF_SEARCH_DB` | `./pdf_search.db` | SQLite database path |
-| `PDF_SEARCH_TEXT_DIR` | `./text` | Extracted text cache directory |
 | `PDF_SEARCH_HOST` | `0.0.0.0` | Web server bind address |
 | `PDF_SEARCH_PORT` | `5000` | Web server port |
 | `PDF_SEARCH_TITLE` | `PDF Search` | Site title in the web UI |

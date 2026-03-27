@@ -13,9 +13,6 @@ PDF_DIR = os.environ.get("PDF_SEARCH_PDF_DIR", os.path.join(BASE_DIR, "pdfs"))
 # Database file
 DB_PATH = os.environ.get("PDF_SEARCH_DB", os.path.join(BASE_DIR, "pdf_search.db"))
 
-# Directory for extracted text cache
-TEXT_DIR = os.environ.get("PDF_SEARCH_TEXT_DIR", os.path.join(BASE_DIR, "text"))
-
 # Web server
 HOST = os.environ.get("PDF_SEARCH_HOST", "0.0.0.0")
 PORT = int(os.environ.get("PDF_SEARCH_PORT", "5000"))

@@ -28,7 +28,6 @@ def init_db(db_path):
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             pdf_path TEXT UNIQUE NOT NULL,
             filename TEXT NOT NULL,
-            text_file TEXT,
             file_hash TEXT,
             extracted_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             file_size INTEGER
@@ -75,7 +74,7 @@ def extract_text(pdf_path):
         return None
 
 
-def _extract_worker(pdf_path, text_dir):
+def _extract_worker(pdf_path):
     """Worker function for parallel extraction. Runs in a subprocess."""
     pdf_path = str(Path(pdf_path).resolve())
     filename = os.path.basename(pdf_path)
@@ -83,22 +82,17 @@ def _extract_worker(pdf_path, text_dir):
     if text is None:
         return None
 
-    text_filename = f"{hashlib.md5(pdf_path.encode()).hexdigest()}.txt"
-    text_path = os.path.join(text_dir, text_filename)
-    with open(text_path, 'w', encoding='utf-8') as f:
-        f.write(text)
-
     file_hash = get_file_hash(pdf_path)
     file_size = os.path.getsize(pdf_path)
     modified_date = os.path.getmtime(pdf_path)
     return {
         'pdf_path': pdf_path, 'filename': filename, 'text': text,
-        'text_path': text_path, 'file_hash': file_hash, 'file_size': file_size,
+        'file_hash': file_hash, 'file_size': file_size,
         'modified_date': modified_date,
     }
 
 
-def scan_directory(directory, db_path, text_dir):
+def scan_directory(directory, db_path):
     """Scan a directory tree for PDFs and index them."""
     conn = sqlite3.connect(db_path)
     c = conn.cursor()
@@ -147,7 +141,7 @@ def scan_directory(directory, db_path, text_dir):
     processed = 0
     batch_count = 0
     with ProcessPoolExecutor(max_workers=MAX_WORKERS) as pool:
-        futures = {pool.submit(_extract_worker, p, text_dir): p for p in to_process}
+        futures = {pool.submit(_extract_worker, p): p for p in to_process}
         for future in as_completed(futures):
             result = future.result()
             if result is None:
@@ -157,24 +151,23 @@ def scan_directory(directory, db_path, text_dir):
 
             pdf_path = result['pdf_path']
             existing = known.get(pdf_path)
+            mdate = datetime.fromtimestamp(result['modified_date']).strftime('%Y-%m-%d %H:%M:%S')
             print(f"  Indexed: {result['filename']}")
 
             if existing:
                 doc_id = existing[0]
-                mdate = datetime.fromtimestamp(result['modified_date']).strftime('%Y-%m-%d %H:%M:%S')
                 c.execute("""
                     UPDATE documents
-                    SET text_file = ?, file_hash = ?, extracted_date = CURRENT_TIMESTAMP,
+                    SET file_hash = ?, extracted_date = CURRENT_TIMESTAMP,
                         file_size = ?, modified_date = ?
                     WHERE id = ?
-                """, (result['text_path'], result['file_hash'], result['file_size'], mdate, doc_id))
+                """, (result['file_hash'], result['file_size'], mdate, doc_id))
                 c.execute("DELETE FROM documents_fts WHERE rowid = ?", (doc_id,))
             else:
-                mdate = datetime.fromtimestamp(result['modified_date']).strftime('%Y-%m-%d %H:%M:%S')
                 c.execute("""
-                    INSERT INTO documents (pdf_path, filename, text_file, file_hash, file_size, modified_date)
-                    VALUES (?, ?, ?, ?, ?, ?)
-                """, (pdf_path, result['filename'], result['text_path'],
+                    INSERT INTO documents (pdf_path, filename, file_hash, file_size, modified_date)
+                    VALUES (?, ?, ?, ?, ?)
+                """, (pdf_path, result['filename'],
                       result['file_hash'], result['file_size'], mdate))
                 doc_id = c.lastrowid
 
@@ -216,8 +209,7 @@ if __name__ == "__main__":
         print(f"Error: directory not found: {pdf_dir}")
         sys.exit(1)
 
-    os.makedirs(config.TEXT_DIR, exist_ok=True)
     init_db(config.DB_PATH)
 
     print(f"Scanning: {pdf_dir}\n")
-    scan_directory(pdf_dir, config.DB_PATH, config.TEXT_DIR)
+    scan_directory(pdf_dir, config.DB_PATH)
