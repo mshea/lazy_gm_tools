@@ -5,9 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site_title }}</title>
     <style>
+        *, *::before, *::after { box-sizing: border-box; }
+
         :root {
             --sidebar-width: 350px;
         }
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
             font-size: 20px;
@@ -15,39 +18,67 @@
             padding: 0;
             background: #000;
             color: #fff;
+        }
+
+        /* --- Breadcrumb bar (top-level, above everything) --- */
+        .breadcrumb-bar {
+            padding: 12px 20px;
+            border-bottom: 1px solid #333;
+            background: #000;
+            font-size: 0.9em;
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        .breadcrumb-bar .crumb { color: #fff; cursor: pointer; }
+        .breadcrumb-bar .crumb:hover { text-decoration: underline; }
+        .breadcrumb-bar .crumb.current { cursor: default; }
+        .breadcrumb-bar .crumb.current:hover { text-decoration: none; }
+        .breadcrumb-bar .sep { color: #aaa; margin: 0 8px; }
+
+        /* --- Layout wrapper (sidebar + main) --- */
+        .app-body {
             display: flex;
         }
+
+        /* --- Sidebar (desktop: fixed left panel) --- */
         .sidebar {
             width: var(--sidebar-width);
             min-width: 150px;
             background: #000;
             padding: 20px;
-            height: 100vh;
+            height: calc(100vh - 45px);
             overflow-y: auto;
             position: fixed;
+            top: 45px;
             border-right: 1px solid #444;
-            box-sizing: border-box;
         }
-        .sidebar h3 {
-            color: #fff;
-            margin-top: 0;
+        .sidebar h3 { color: #fff; margin-top: 0; }
+        .sidebar-close-btn { display: none; }
+        .sidebar-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.6);
+            z-index: 999;
         }
+
+        /* --- Resize handle --- */
         .resize-handle {
             width: 6px;
             position: fixed;
-            top: 0;
-            height: 100vh;
+            top: 45px;
+            height: calc(100vh - 45px);
             cursor: col-resize;
             z-index: 100;
             background: transparent;
         }
         .resize-handle:hover,
-        .resize-handle.active {
-            background: #fff;
-        }
+        .resize-handle.active { background: #fff; }
+
+        /* --- Folder list --- */
         #folder-filter {
             width: 100%;
-            box-sizing: border-box;
             padding: 8px 10px;
             font-size: 0.9em;
             font-family: inherit;
@@ -56,56 +87,17 @@
             border: 1px solid #444;
             margin-bottom: 10px;
         }
-        #folder-filter:focus {
-            outline: none;
-            border-color: #fff;
-        }
-        .folder-item {
-            padding: 6px 0;
-            cursor: pointer;
-        }
-        .folder-item:hover .folder-name {
-            text-decoration: underline;
-        }
-        .folder-name {
-            color: #fff;
-        }
-        .folder-count {
-            color: #aaa;
-            font-size: 0.8em;
-        }
-        #page-breadcrumbs {
-            padding: 12px 20px;
-            border-bottom: 1px solid #333;
-            font-size: 0.9em;
-            display: flex;
-            align-items: center;
-            gap: 0;
-        }
-        #page-breadcrumbs .crumb {
-            color: #fff;
-            cursor: pointer;
-        }
-        #page-breadcrumbs .crumb:hover {
-            text-decoration: underline;
-        }
-        #page-breadcrumbs .crumb.current {
-            color: #fff;
-            cursor: default;
-        }
-        #page-breadcrumbs .crumb.current:hover {
-            text-decoration: none;
-        }
-        #page-breadcrumbs .sep {
-            color: #aaa;
-            margin: 0 8px;
-        }
+        #folder-filter:focus { outline: none; border-color: #fff; }
+        .folder-item { padding: 6px 0; cursor: pointer; }
+        .folder-item:hover .folder-name { text-decoration: underline; }
+        .folder-name { color: #fff; }
+        .folder-count { color: #aaa; font-size: 0.8em; }
+
+        /* --- Main content --- */
         .main-content {
             margin-left: var(--sidebar-width);
-            padding: 0;
             flex: 1;
-            display: flex;
-            flex-direction: column;
+            min-width: 0;
         }
         .content-inner {
             padding: 20px;
@@ -116,21 +108,13 @@
             width: 100%;
             max-width: 900px;
         }
-        h1 {
-            color: #fff;
-        }
-        .stats {
-            color: #fff;
-            margin-bottom: 20px;
-        }
-        .search-help {
-            color: #aaa;
-            font-size: 0.85em;
-            margin-bottom: 10px;
-        }
-        form {
-            margin: 20px 0;
-        }
+        .mobile-folder-btn { display: none; }
+
+        /* --- Search form --- */
+        h1 { color: #fff; }
+        .stats { color: #fff; margin-bottom: 20px; }
+        .search-help { color: #aaa; font-size: 0.85em; margin-bottom: 10px; }
+        form { margin: 20px 0; }
         input[type="text"] {
             width: calc(100% - 130px);
             max-width: 600px;
@@ -150,6 +134,8 @@
             border: none;
             cursor: pointer;
         }
+
+        /* --- Sort bar --- */
         .sort-bar {
             display: flex;
             align-items: center;
@@ -157,9 +143,7 @@
             margin-bottom: 10px;
             font-size: 0.85em;
         }
-        .sort-bar span {
-            color: #aaa;
-        }
+        .sort-bar span { color: #aaa; }
         .sort-btn {
             background: none;
             border: 1px solid #555;
@@ -169,101 +153,69 @@
             font-family: inherit;
             font-size: inherit;
         }
-        .sort-btn:hover {
-            border-color: #fff;
-        }
-        .sort-btn.active {
-            background: #fff;
-            color: #000;
-            border-color: #fff;
-        }
-        .results-info {
-            margin: 20px 0 10px 0;
-            color: #fff;
-        }
-        .result {
-            margin: 16px 0;
-            padding: 15px;
-            background: #111;
-        }
+        .sort-btn:hover { border-color: #fff; }
+        .sort-btn.active { background: #fff; color: #000; border-color: #fff; }
+
+        /* --- Results --- */
+        .results-info { margin: 20px 0 10px 0; color: #fff; }
+        .result { margin: 16px 0; padding: 15px; background: #111; }
         .result-title {
             font-weight: bold;
             color: #fff;
             font-size: 1.1em;
-            word-break: break-all;
             overflow-wrap: break-word;
+            word-break: break-word;
         }
-        .result-title a {
-            color: #fff;
-            text-decoration: none;
-        }
-        .result-title a:hover {
-            text-decoration: none;
-        }
+        .result-title a { color: #fff; text-decoration: none; }
         .result-path {
             color: #aaa;
             font-size: 0.9em;
             margin: 5px 0;
-            word-break: break-all;
             overflow-wrap: break-word;
+            word-break: break-word;
         }
-        .result-snippet {
-            margin: 10px 0;
-            line-height: 1.5;
-            color: #fff;
-        }
-        mark {
-            background: #fff;
-            color: #000;
-            padding: 2px 4px;
-        }
-        .result-meta {
-            color: #aaa;
-            font-size: 0.85em;
-        }
-        hr {
-            border: 0;
-            border-top: 1px solid #444;
-            margin: 20px 0;
-        }
-        .mobile-folder-btn {
-            display: none;
-        }
-        .sidebar-overlay {
-            display: none;
-            position: fixed;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: rgba(0,0,0,0.6);
-            z-index: 999;
-        }
+        .result-snippet { margin: 10px 0; line-height: 1.5; color: #fff; }
+        mark { background: #fff; color: #000; padding: 2px 4px; }
+        .result-meta { color: #aaa; font-size: 0.85em; }
+        hr { border: 0; border-top: 1px solid #444; margin: 20px 0; }
+
+        /* --- Mobile --- */
         @media (max-width: 768px) {
-            body {
-                font-size: 15px;
-            }
+            body { font-size: 18px; overflow-x: hidden; }
+            .breadcrumb-bar { position: sticky; top: 0; z-index: 1100; }
+            .app-body { display: block; }
             .sidebar {
                 display: none;
                 position: fixed;
-                top: 0;
+                top: 45px;
                 left: 0;
-                width: 85%;
-                max-width: 360px;
-                height: 100vh;
+                width: 100% !important;
+                max-width: none !important;
+                height: calc(100vh - 45px);
                 z-index: 1000;
-                border-right: 1px solid #555;
+                border-right: none;
+                font-size: 20px;
             }
-            .sidebar.open {
+            .sidebar.open { display: block; }
+            .sidebar-overlay.open { display: block; }
+            .sidebar-close-btn {
                 display: block;
+                float: right;
+                background: none;
+                border: 1px solid #555;
+                color: #fff;
+                font-size: 20px;
+                padding: 4px 12px;
+                cursor: pointer;
+                margin: 0 0 10px 10px;
             }
-            .sidebar-overlay.open {
-                display: block;
-            }
-            .resize-handle {
-                display: none;
-            }
+            .resize-handle { display: none; }
+            .main-content { margin-left: 0 !important; }
+            .content-inner { padding: 15px; }
             .mobile-folder-btn {
                 display: inline-block;
                 padding: 12px 20px;
-                font-size: 15px;
+                font-size: 18px;
                 font-family: inherit;
                 background: #111;
                 color: #fff;
@@ -271,66 +223,43 @@
                 cursor: pointer;
                 margin-bottom: 15px;
             }
-            .main-content {
-                margin-left: 0;
-            }
-            .content-inner {
-                padding: 15px;
-                max-width: 100%;
-            }
-            input[type="text"] {
-                width: 100%;
-                max-width: none;
-                box-sizing: border-box;
-            }
-            input[type="submit"] {
-                width: 100%;
-                margin-top: 10px;
-                padding: 14px;
-            }
-            .result {
-                margin: 12px 0;
-                padding: 14px;
-            }
-            .result-title {
-                font-size: 1.1em;
-            }
-            .folder-item {
-                padding: 14px 12px;
-            }
-            h1 {
-                font-size: 1.5em;
-            }
+            .folder-item { padding: 14px 12px; }
+            h1 { font-size: 1.5em; }
+            input[type="text"] { width: 100%; max-width: none; }
+            input[type="submit"] { width: 100%; margin-top: 10px; padding: 14px; }
+            .result { margin: 12px 0; padding: 14px; }
         }
     </style>
 </head>
 <body>
-    <div class="sidebar-overlay" id="sidebar-overlay" onclick="closeSidebar()"></div>
-    <div class="sidebar" id="sidebar">
-        <h3 style="cursor: pointer;" onclick="goHome()">{{ site_title }}</h3>
-        <div style="color: #aaa; font-size: 0.85em; margin-bottom: 10px;">Folders</div>
-        <input type="text" id="folder-filter" placeholder="Filter folders..." oninput="filterFolders()">
-        <div id="folders-list">Loading...</div>
-    </div>
-    <div class="resize-handle" id="resize-handle"></div>
+    <div class="breadcrumb-bar" id="page-breadcrumbs"></div>
 
-    <div class="main-content" id="main-content">
-        <div id="page-breadcrumbs"></div>
-        <div class="content-inner">
-            <div class="content-wrapper">
-                <button class="mobile-folder-btn" onclick="openSidebar()">Folders</button>
-                <h1>{{ site_title }}</h1>
-                <div class="stats">{{ total_docs }} documents indexed</div>
-                <div class="search-help">
-                    Syntax: <code>path:folder</code> to filter by folder, <code>filename:term</code> for filename-only search
+    <div class="app-body">
+        <div class="sidebar-overlay" id="sidebar-overlay" onclick="closeSidebar()"></div>
+        <div class="sidebar" id="sidebar">
+            <button class="sidebar-close-btn" onclick="closeSidebar()">&#x2715;</button>
+            <h3 style="cursor: pointer;" onclick="goHome()">{{ site_title }}</h3>
+            <div style="color: #aaa; font-size: 0.85em; margin-bottom: 10px;">Folders</div>
+            <input type="text" id="folder-filter" placeholder="Filter folders..." oninput="filterFolders()">
+            <div id="folders-list">Loading...</div>
+        </div>
+        <div class="resize-handle" id="resize-handle"></div>
+
+        <div class="main-content" id="main-content">
+            <div class="content-inner">
+                <div class="content-wrapper">
+                    <button class="mobile-folder-btn" onclick="openSidebar()">Folders</button>
+                    <h1>{{ site_title }}</h1>
+                    <div class="stats">{{ total_docs }} documents indexed</div>
+                    <div class="search-help">
+                        Syntax: <code>path:folder</code> to filter by folder, <code>filename:term</code> for filename-only search
+                    </div>
+                    <form method="GET" action="/" id="search-form" onsubmit="return handleSubmit(event)">
+                        <input type="text" name="q" id="search-input" value="" placeholder="Search PDFs..." autofocus>
+                        <input type="submit" value="Search">
+                    </form>
+                    <div id="results-container"></div>
                 </div>
-
-                <form method="GET" action="/" id="search-form" onsubmit="return handleSubmit(event)">
-                    <input type="text" name="q" id="search-input" value="" placeholder="Search PDFs..." autofocus>
-                    <input type="submit" value="Search">
-                </form>
-
-                <div id="results-container"></div>
             </div>
         </div>
     </div>
@@ -341,14 +270,19 @@
         let currentQuery = null;
         let currentSort = 'relevance';
 
-        // --- Resizable sidebar ---
+        // --- Resizable sidebar (desktop only) ---
         (function initResize() {
             const sidebar = document.getElementById('sidebar');
             const handle = document.getElementById('resize-handle');
             const main = document.getElementById('main-content');
             let dragging = false;
 
+            function isMobile() {
+                return window.matchMedia('(max-width: 768px)').matches;
+            }
+
             function updateLayout(width) {
+                if (isMobile()) return;
                 width = Math.max(150, Math.min(width, 600));
                 document.documentElement.style.setProperty('--sidebar-width', width + 'px');
                 sidebar.style.width = width + 'px';
@@ -380,7 +314,7 @@
             });
         })();
 
-        // --- Page breadcrumbs ---
+        // --- Breadcrumbs ---
         function updatePageBreadcrumbs(path) {
             const div = document.getElementById('page-breadcrumbs');
             let html = '<span class="crumb' + (!path ? ' current' : '') + '" onclick="navigateFolder(\'\')">Home</span>';
@@ -434,19 +368,14 @@
         }
 
         function updateSortButtons() {
-            var buttons = document.querySelectorAll('.sort-btn');
-            buttons.forEach(function(btn) {
+            document.querySelectorAll('.sort-btn').forEach(function(btn) {
                 var field = btn.dataset.field;
                 var isActive = (field === 'relevance' && currentSort === 'relevance')
-                    || (field === 'name' && (currentSort === 'name-asc' || currentSort === 'name-desc'))
-                    || (field === 'date' && (currentSort === 'date-asc' || currentSort === 'date-desc'));
+                    || (field === 'name' && currentSort.startsWith('name'))
+                    || (field === 'date' && currentSort.startsWith('date'));
                 btn.classList.toggle('active', isActive);
-                // Update arrow
-                if (field === 'name') {
-                    btn.textContent = 'Name ' + (currentSort === 'name-desc' ? '\u2193' : '\u2191');
-                } else if (field === 'date') {
-                    btn.textContent = 'Date ' + (currentSort === 'date-asc' ? '\u2191' : '\u2193');
-                }
+                if (field === 'name') btn.textContent = 'Name ' + (currentSort === 'name-desc' ? '\u2193' : '\u2191');
+                else if (field === 'date') btn.textContent = 'Date ' + (currentSort === 'date-asc' ? '\u2191' : '\u2193');
             });
         }
 
@@ -470,20 +399,18 @@
 
         function filterFolders() {
             var query = document.getElementById('folder-filter').value.toLowerCase();
-            var container = document.getElementById('folders-list');
             var filtered = allFolders.filter(function(f) {
                 return f.name.toLowerCase().indexOf(query) !== -1;
             });
             if (filtered.length === 0) {
-                container.innerHTML = '<div style="color: #aaa;">No matching folders</div>';
+                document.getElementById('folders-list').innerHTML = '<div style="color: #aaa;">No matching folders</div>';
             } else {
                 renderFolderList(filtered, currentPath);
             }
         }
 
         function renderFolderList(folders, basePath) {
-            var container = document.getElementById('folders-list');
-            container.innerHTML = folders.map(function(f) {
+            document.getElementById('folders-list').innerHTML = folders.map(function(f) {
                 var fullPath = basePath ? basePath + '/' + f.name : f.name;
                 return '<div class="folder-item" onclick="navigateFolder(\'' + fullPath.replace(/'/g, "\\'") + '\')">'
                     + '<span class="folder-name">' + escapeHtml(f.name) + '</span> '
@@ -492,7 +419,7 @@
             }).join('');
         }
 
-        // On page load
+        // --- Init ---
         (function init() {
             const urlParams = new URLSearchParams(window.location.search);
             const query = urlParams.get('q') || '';
@@ -505,11 +432,8 @@
             loadFolders(currentPath);
             updatePageBreadcrumbs(currentPath);
 
-            if (query) {
-                doSearch(query);
-            } else if (currentPath) {
-                doBrowse(currentPath);
-            }
+            if (query) doSearch(query);
+            else if (currentPath) doBrowse(currentPath);
 
             if (input.value) {
                 input.focus();
@@ -528,13 +452,10 @@
             const url = query ? '/?q=' + encodeURIComponent(query) : '/';
             history.pushState(null, '', url);
 
-            if (query) {
-                doSearch(query);
-            } else if (currentPath) {
-                doBrowse(currentPath);
-            } else {
-                document.getElementById('results-container').innerHTML = '';
-            }
+            if (query) doSearch(query);
+            else if (currentPath) doBrowse(currentPath);
+            else document.getElementById('results-container').innerHTML = '';
+
             return false;
         }
 
@@ -542,13 +463,9 @@
             const urlParams = new URLSearchParams(window.location.search);
             const query = urlParams.get('q') || '';
             document.getElementById('search-input').value = query;
-            if (query) {
-                doSearch(query);
-            } else if (currentPath) {
-                doBrowse(currentPath);
-            } else {
-                document.getElementById('results-container').innerHTML = '';
-            }
+            if (query) doSearch(query);
+            else if (currentPath) doBrowse(currentPath);
+            else document.getElementById('results-container').innerHTML = '';
         });
 
         function doSearch(query) {
@@ -563,7 +480,7 @@
                     currentSort = 'relevance';
                     renderResults(data.results, data.count, data.query);
                 })
-                .catch(err => {
+                .catch(() => {
                     container.innerHTML = '<div class="results-info" style="color: #f44;">Search error</div>';
                 });
         }
@@ -584,62 +501,47 @@
                         renderResults(data.results, data.count, null);
                     }
                 })
-                .catch(err => {
+                .catch(() => {
                     container.innerHTML = '<div class="results-info" style="color: #f44;">Error loading files</div>';
                 });
         }
 
         function renderResults(results, count, query) {
             const container = document.getElementById('results-container');
-
             let label = query
                 ? 'Found ' + count + ' result(s) for "' + escapeHtml(query) + '"'
                 : count + ' file(s)';
-
             let html = '<div class="results-info">' + label + '</div>';
-
-            if (count > 0) {
-                html += buildSortBar();
-            }
-
+            if (count > 0) html += buildSortBar();
             container.innerHTML = html;
 
             if (count === 0) {
                 container.innerHTML += '<p>No results found.</p>';
             } else {
-                var sorted = sortResults(results, currentSort);
                 var listDiv = document.createElement('div');
                 listDiv.id = 'results-list';
-                listDiv.innerHTML = buildResultsHtml(sorted);
+                listDiv.innerHTML = buildResultsHtml(sortResults(results, currentSort));
                 container.appendChild(listDiv);
             }
         }
 
-        function renderResultsList(results, query) {
+        function renderResultsList(results) {
             var listDiv = document.getElementById('results-list');
-            if (listDiv) {
-                listDiv.innerHTML = buildResultsHtml(results);
-            }
+            if (listDiv) listDiv.innerHTML = buildResultsHtml(results);
         }
 
         function buildResultsHtml(results) {
-            var html = '';
-            results.forEach(function(r) {
+            return results.map(function(r) {
                 var datePart = r.modified ? r.modified.split(' ')[0] : '';
-                html += '<div class="result">';
-                html += '<div class="result-title"><a href="/pdf/' + r.id + '" target="_blank">' + escapeHtml(r.filename) + '</a></div>';
-                html += '<div class="result-path">' + escapeHtml(r.path) + '</div>';
-                if (r.snippet) {
-                    html += '<div class="result-snippet">' + r.snippet + '</div>';
-                }
+                var html = '<div class="result">'
+                    + '<div class="result-title"><a href="/pdf/' + r.id + '" target="_blank">' + escapeHtml(r.filename) + '</a></div>'
+                    + '<div class="result-path">' + escapeHtml(r.path) + '</div>';
+                if (r.snippet) html += '<div class="result-snippet">' + r.snippet + '</div>';
                 html += '<div class="result-meta">' + escapeHtml(r.size);
-                if (datePart) {
-                    html += ' &middot; ' + escapeHtml(datePart);
-                }
-                html += '</div>';
-                html += '</div>';
-            });
-            return html;
+                if (datePart) html += ' &middot; ' + escapeHtml(datePart);
+                html += '</div></div>';
+                return html;
+            }).join('');
         }
 
         function escapeHtml(text) {
@@ -658,16 +560,14 @@
                 .then(r => r.json())
                 .then(data => {
                     allFolders = data.folders;
-                    const container = document.getElementById('folders-list');
                     if (data.folders.length === 0) {
-                        container.innerHTML = '<div style="color: #aaa;">No subfolders</div>';
-                        return;
+                        document.getElementById('folders-list').innerHTML = '<div style="color: #aaa;">No subfolders</div>';
+                    } else {
+                        renderFolderList(data.folders, path);
                     }
-                    renderFolderList(data.folders, path);
                 })
                 .catch(function() {
-                    document.getElementById('folders-list').innerHTML =
-                        '<div style="color: #f44;">Error loading folders</div>';
+                    document.getElementById('folders-list').innerHTML = '<div style="color: #f44;">Error loading folders</div>';
                 });
         }
 
@@ -676,9 +576,7 @@
             loadFolders(folder);
 
             const input = document.getElementById('search-input');
-            let currentQuery = input.value;
-
-            let searchTerms = currentQuery.replace(/\s*path:"[^"]+"\s*|\s*path:\S+\s*/g, ' ').trim();
+            let searchTerms = input.value.replace(/\s*path:"[^"]+"\s*|\s*path:\S+\s*/g, ' ').trim();
 
             if (folder) {
                 if (searchTerms) {
