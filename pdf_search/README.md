@@ -68,7 +68,7 @@ python3 search.py "search terms" [limit]
 
 ## Re-indexing
 
-Run the extractor again to pick up new or changed PDFs. Already-indexed files are skipped (tracked by file size and MD5 hash). Deleted PDFs are automatically removed from the index.
+Run the extractor again to pick up new or changed PDFs. Already-indexed files are skipped (tracked by file size and modification time). Deleted PDFs are automatically removed from the index.
 
 ```bash
 python3 extractor.py

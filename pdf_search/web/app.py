@@ -40,6 +40,17 @@ def format_size(size_bytes):
     return f"{size_bytes:.1f} TB"
 
 
+def _make_result(row):
+    """Build a result dict from a database row."""
+    return {
+        'id': row['id'], 'filename': row['filename'],
+        'path': _rel_path(row['pdf_path']),
+        'size': format_size(row['file_size']),
+        'modified': row['modified_date'] or '',
+        'snippet': row['snippet'] if 'snippet' in row.keys() else ''
+    }
+
+
 def _pdf_dir_with_slash():
     """Return PDF_DIR ending with /."""
     d = config.PDF_DIR
@@ -119,13 +130,7 @@ def do_search(query):
 
         for row in c.fetchall():
             seen_ids.add(row['id'])
-            results.append({
-                'id': row['id'], 'filename': row['filename'],
-                'path': _rel_path(row['pdf_path']),
-                'size': format_size(row['file_size']),
-                'modified': row['modified_date'] or '',
-                'snippet': row['snippet'] or ''
-            })
+            results.append(_make_result(row))
 
         # Content matches
         if not filename_only:
@@ -141,13 +146,7 @@ def do_search(query):
 
             for row in c.fetchall():
                 if row['id'] not in seen_ids:
-                    results.append({
-                        'id': row['id'], 'filename': row['filename'],
-                        'path': _rel_path(row['pdf_path']),
-                        'size': format_size(row['file_size']),
-                        'modified': row['modified_date'] or '',
-                        'snippet': row['snippet'] or ''
-                    })
+                    results.append(_make_result(row))
     except sqlite3.OperationalError:
         pass
     finally:
@@ -196,13 +195,7 @@ def browse():
     for row in c.fetchall():
         rel_from_folder = row['pdf_path'][len(full_path):]
         if '/' not in rel_from_folder:
-            results.append({
-                'id': row['id'], 'filename': row['filename'],
-                'path': _rel_path(row['pdf_path']),
-                'size': format_size(row['file_size']),
-                'modified': row['modified_date'] or '',
-                'snippet': ''
-            })
+            results.append(_make_result(row))
     conn.close()
     return jsonify({'results': results, 'count': len(results), 'path': path})
 
