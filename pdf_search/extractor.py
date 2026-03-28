@@ -15,7 +15,6 @@ from pathlib import Path
 import config
 
 BATCH_SIZE = 50
-MAX_WORKERS = 3
 
 
 def init_db(db_path):
@@ -125,7 +124,7 @@ def scan_directory(directory, db_path):
     # Parallel extraction + serial DB writes
     processed = 0
     batch_count = 0
-    with ProcessPoolExecutor(max_workers=MAX_WORKERS) as pool:
+    with ProcessPoolExecutor(max_workers=config.MAX_WORKERS) as pool:
         futures = {pool.submit(_extract_worker, p): p for p in to_process}
         for future in as_completed(futures):
             result = future.result()

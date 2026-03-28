@@ -1,18 +1,17 @@
 # PDF Search
 
-Full-text search over a local PDF library with a web interface. Uses SQLite FTS5 for fast searching and `pdftotext` for text extraction. Disclaimer: this was totally vibe coded with Claude Code.
+Full-text search over a local PDF library with a web interface. Uses SQLite FTS5 for fast searching and `pdftotext` for text extraction. Search results link directly to the PDF files, served through Flask from your configured PDF directory. Disclaimer: This was totally vibe coded with Claude Code.
 
 ## Features
 
 - Full-text search across thousands of PDFs
 - Folder browsing sidebar with filter and resizable width
 - Filename matches ranked above content matches
+- Mobile-friendly responsive layout
 - Sort results by relevance, name, or date (toggle ascending/descending)
 - Search syntax: `path:"folder name"`, `filename:term`
-- Breadcrumb navigation across the top of the page
 - AJAX-powered results (no page reloads)
-- Mobile-friendly responsive layout
-- Parallel PDF extraction (3 workers)
+- Parallel PDF extraction (defaults to 3 workers, configure in the config)
 - Stale record cleanup on re-index
 - CLI search tool
 
@@ -29,10 +28,22 @@ sudo apt install poppler-utils
 pip install flask
 ```
 
+Install on macOS:
+
+```bash
+brew install poppler
+pip install flask
+```
+
 ## Setup
 
 1. Clone this repo.
-2. Edit `config.py` and set `PDF_DIR` to the directory containing your PDFs (or set the `PDF_SEARCH_PDF_DIR` environment variable).
+2. Copy `config.py.sample` to `config.py` and update it with your settings. This config is shared by the extractor, the web server, and the CLI search tool.
+
+```bash
+cp config.py.sample config.py
+```
+
 3. Index your PDFs:
 
 ```bash
@@ -59,6 +70,7 @@ Edit `config.py` or set environment variables:
 | `PDF_SEARCH_HOST` | `0.0.0.0` | Web server bind address |
 | `PDF_SEARCH_PORT` | `5000` | Web server port |
 | `PDF_SEARCH_TITLE` | `PDF Search` | Site title in the web UI |
+| `PDF_SEARCH_MAX_WORKERS` | `3` | Parallel workers for PDF extraction |
 
 ## CLI Search
 
