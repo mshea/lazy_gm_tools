@@ -111,14 +111,12 @@ class MonsterLookup {
     
     setupStyling() {
         if (!this.options.resultsElement) return;
-        
-        // Apply default styling to results container
+
         const styles = {
             position: 'absolute',
             top: '100%',
             left: '0',
             right: '0',
-            backgroundColor: 'white',
             border: '1px solid #ccc',
             borderTop: 'none',
             borderRadius: '0 0 4px 4px',
@@ -127,7 +125,7 @@ class MonsterLookup {
             zIndex: '1000',
             display: 'none'
         };
-        
+
         Object.assign(this.options.resultsElement.style, styles);
     }
     
@@ -215,14 +213,11 @@ class MonsterLookup {
             }
             
             if (this.options.showSource && monster.source) {
-                content += ` <span style="color: #666; font-size: 0.9em;">(${monster.source})</span>`;
+                content += ` <span class="monster-option-source">(${monster.source})</span>`;
             }
             
-            return `<div class="monster-lookup-result" 
+            return `<div class="monster-option${isSelected ? ' highlighted' : ''}"
                           data-index="${index}"
-                          style="padding: 8px; cursor: pointer; border-bottom: 1px solid #eee; font-size: 16px; ${isSelected ? 'background-color: #e0e0e0;' : ''}"
-                          onmouseenter="this.style.backgroundColor='#f0f0f0'"
-                          onmouseleave="this.style.backgroundColor='${isSelected ? '#e0e0e0' : 'white'}'"
                           onclick="window.monsterLookupInstances[this.closest('.monster-group').dataset.lookupId].selectMonsterByIndex(${index})">
                         ${content}
                     </div>`;

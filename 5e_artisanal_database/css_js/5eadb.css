@@ -530,6 +530,8 @@ body.encounter-calculator th {
     padding: 8px;
     cursor: pointer;
     border-bottom: 1px solid #eee;
+    font-size: 16px;
+    background-color: white;
 }
 
 .encounter-calculator .monster-option:hover,
@@ -539,6 +541,11 @@ body.encounter-calculator th {
 
 .encounter-calculator .monster-option:last-child {
     border-bottom: none;
+}
+
+.monster-option-source {
+    color: #666;
+    font-size: 0.9em;
 }
 
 .encounter-calculator .cr-tag {
@@ -1346,8 +1353,13 @@ body.encounter-calculator th {
         border-color: #555 !important;
     }
 
-    .monster-option:hover {
+    .monster-option:hover,
+    .monster-option.highlighted {
         background-color: #222 !important;
+    }
+
+    .monster-option-source {
+        color: #999;
     }
 
     /* Dice Roller dark mode */
