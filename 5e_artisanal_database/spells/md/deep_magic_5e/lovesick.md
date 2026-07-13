@@ -13,7 +13,7 @@ This spell causes creatures to behave unpredictably, as they randomly experience
 An affected target can’t take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
 | d10 | Behavior |
-|---|---|
+| --- | --- |
 | 1-3 | The creature spends its turn moping like a lovelorn teenager; it doesn’t move or take actions. |
 | 4–5 | The creature bursts into tears, takes the Dash action, and uses all its movement to run off in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. |
 | 6 | The creature uses its action to remove one item of clothing or piece of armor. Each round spent removing pieces of armor reduces its AC by 1. |

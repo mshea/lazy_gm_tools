@@ -11,7 +11,7 @@
 A ray of shifting color springs from your hand. Make a ranged spell attack against a single creature you can see within range. The ray’s effect and the saving throw that applies to it depend on which color is dominant when the beam strikes its target, determined by rolling a d8.
 
 | d8 | Color | Effect | Saving Throw |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 1 | Red | 8d10 fire damage | Dexterity |
 | 2 | Orange | 8d10 acid damage | Dexterity |
 | 3 | Yellow | 8d10 lightning damage | Dexterity |

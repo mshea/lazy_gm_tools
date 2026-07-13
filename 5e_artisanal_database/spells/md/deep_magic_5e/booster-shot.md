@@ -11,7 +11,7 @@
 You imbue a two-handed ranged weapon (typically a shortbow, longbow, light crossbow, or heavy crossbow) that you touch with a random magical benefit. While the spell lasts, a projectile fired from the weapon has an effect that occurs on a hit in addition to its normal damage. Roll a d6 to determine the additional effect for each casting of this spell.
 
 | D6 | EFFECT |
-|---|---|
+| --- | --- |
 | 1 | 2d10 acid damage to all creatures within 10 feet of the target |
 | 2 | 2d10 lightning damage to the target and 1d10 lightning damage to all creatures in a 5-foot-wide line between the weapon and the target |
 | 3 | 2d10 necrotic damage to the target, and the target has disadvantage on its first attack roll before the start of the weapon user’s next turn |

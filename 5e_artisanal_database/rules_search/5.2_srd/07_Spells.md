@@ -5997,7 +5997,7 @@ You manifest a minor wonder within range. You create one of the effects below wi
 
 **_Tremors._** You cause harmless tremors in the ground for 1 minute.
 
-#### Thunderwavea
+#### Thunderwave
 
 *Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
 

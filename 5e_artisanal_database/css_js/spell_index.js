@@ -1417,7 +1417,7 @@ const spellIndex = {
       "Silent Image",
       "Sleep",
       "Speak with Animals",
-      "Thunderwavea",
+      "Thunderwave",
       "Unseen Servant"
     ],
     "8": [

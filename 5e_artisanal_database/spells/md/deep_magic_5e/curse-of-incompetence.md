@@ -18,7 +18,7 @@ turns, ending the effect on itself on a success or applying
 the result of another roll on the table on a failure.
 
 | D4 | RESULT |
-|---|---|
+| --- | --- |
 | 1 | Target spends its turn shouting mocking words at caster and takes a -5 penalty to its initiative roll. |
 | 2 | Target stands transfixed and blinking, takes no action. |
 | 3 | Target flees or fights (50 percent chance of each). |

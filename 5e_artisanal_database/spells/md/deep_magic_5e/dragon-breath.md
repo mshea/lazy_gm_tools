@@ -13,7 +13,7 @@ You summon draconic power to gain a breath weapon. When you cast dragon breath, 
 When you cast the spell, choose one of the dragon types listed below. Your choice determines the affected area and the damage of the breath attack for the spell’s duration.
 
 | Dragon Type | Area | Damage |
-|---|---|---|
+| --- | --- | --- |
 | Black | 30-foot line, 5 feet wide | 6d6 acid damage |
 | Blue | 30-foot line, 5 feet wide | 6d6 lightning damage |
 | Green | 15-foot cone | 6d6 poison damage |

@@ -1,4 +1,4 @@
-# Thunderwavea
+# Thunderwave
 
 - **Level**: 1 Evocation
 - **Classes**: Bard, Druid, Sorcerer, Wizard

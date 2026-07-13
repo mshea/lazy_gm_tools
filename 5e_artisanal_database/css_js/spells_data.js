@@ -9741,11 +9741,11 @@ const spellsData = [
     "htmlLink": "./html/5.1_srd_(d&d_2014)/thunderwave.html"
   },
   {
-    "name": "Thunderwavea",
+    "name": "Thunderwave",
     "level": 1,
     "classes": "Bard, Druid, Sorcerer, Wizard",
     "source": "5.2 SRD (D&D 2024)",
-    "htmlLink": "./html/5.2_srd_(d&d_2024)/thunderwavea.html"
+    "htmlLink": "./html/5.2_srd_(d&d_2024)/thunderwave.html"
   },
   {
     "name": "Tidal Barrier",

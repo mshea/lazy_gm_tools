@@ -13,7 +13,7 @@ This spell destabilizes the flow of time, enabling you to create a vortex of tem
 An affected creature can’t take reactions and rolls a d10 at the start of its turn to determine its behavior for that turn.
 
 | D10 | EFFECT |
-|---|---|
+| --- | --- |
 | 1–2 | The creature is affected as if by a slow spell until the start of its next turn. |
 | 3–5 | The creature is stunned until the start of its next turn. |
 | 6–8 | The creature’s current initiative result is reduced by 5. The creature begins using this new initiative result in the next round. Multiple occurrences of this effect for the same creature are cumulative. |

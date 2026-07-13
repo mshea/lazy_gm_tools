@@ -842,7 +842,7 @@ level_1_wizard_spell
   <em><a href="../../spells/html/5.2_srd_(d&d_2024)/sleep.html">Sleep</a></em>
   <em>Tasha’s Hideous Laughter</em>
   <em>Tenser’s Floating Disk</em>
-  <em><a href="../../spells/html/5.2_srd_(d&d_2024)/thunderwavea.html">Thunderwave</a></em>
+  <em><a href="../../spells/html/5.2_srd_(d&d_2024)/thunderwave.html">Thunderwave</a></em>
   <em><a href="../../spells/html/5.2_srd_(d&d_2024)/unseen-servant.html">Unseen Servant</a></em>
   <em>Witch Bolt</em>
 

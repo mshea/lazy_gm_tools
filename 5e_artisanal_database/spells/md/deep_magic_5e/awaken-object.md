@@ -15,9 +15,9 @@ An awakened object's speed is 30 feet. If it has no apparent legs or other means
 An awakened object needs no air, food, water, or sleep. Damage to an awakened object can be healed or mechanically repaired.
 
 | Size | HP | AC | Attack | Str | Dex | Con | Int | Wis | Cha |
-|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | T | 20 | 18 | +8 to hit, 1d4 + 4 damage | 4 | 18 | 10 | 2d6 | 2d6 | 2d6 |
-| S | 25 | 16 | +6 to hit, 1d8 + 2 damage | 6 | 14 | 10  | 3d6 | 2d6 | 2d6 |
-| M | 40 | 13 | +5 to hit, 2d6 + 1 damage | 10 | 12  | 10 | 3d6 | 3d6 | 2d6 |
+| S | 25 | 16 | +6 to hit, 1d8 + 2 damage | 6 | 14 | 10 | 3d6 | 2d6 | 2d6 |
+| M | 40 | 13 | +5 to hit, 2d6 + 1 damage | 10 | 12 | 10 | 3d6 | 3d6 | 2d6 |
 | L | 50 | 10 | +6 to hit, 2d10 + 2 damage | 14 | 10 | 10 | 3d6 | 3d6 | 2d6 + 2 |
 
