@@ -7,7 +7,7 @@ all without asking permission.
 */
 
 // Auto-generated search data for 5.2 SRD Rules Search
-// Generated at: 2026-07-13T11:55:10.056Z
+// Generated at: 2026-07-24T21:28:53.781Z
 // Total documents: 1358
 // Source: 5.2 SRD (D&D 2024)
 

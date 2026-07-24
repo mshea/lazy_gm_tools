@@ -1,8 +1,8 @@
 /* Dark Theme for 5e Artisanal Database
-   Add [data-theme="dark"] to html element to activate.
+   Copy or rename this file to theme.css to activate.
    Variables override :root defaults in 5eadb.css.
 */
-[data-theme="dark"] {
+:root {
     /* Background colors - pure black and white */
     --bg-body: #000000;
     --bg-surface: #000000;

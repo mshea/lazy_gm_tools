@@ -1306,30 +1306,6 @@ body.encounter-calculator th {
 }
 
 /* ==========================================================================
-   Theme Switcher
-   ========================================================================== */
-
-.theme-switcher {
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    z-index: 9999;
-    font-size: 14px;
-    padding: 6px 10px;
-    min-height: auto;
-    background-color: var(--bg-button);
-    color: var(--text-body);
-    border: 1px solid var(--border-color-button);
-    border-radius: var(--border-radius);
-    cursor: pointer;
-    opacity: 0.8;
-}
-
-.theme-switcher:hover {
-    opacity: 1;
-}
-
-/* ==========================================================================
    DataTables Theme Overrides
    (Must beat jquery.dataTables.css hardcoded colors and its dark mode block)
    ========================================================================== */

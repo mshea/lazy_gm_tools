@@ -1,8 +1,8 @@
 /* Compact Theme for 5e Artisanal Database
-   Add [data-theme="compact"] to html element to activate.
+   Copy or rename this file to theme.css to activate.
    Smaller fonts, tighter spacing, more information density.
 */
-[data-theme="compact"] {
+:root {
     /* Fonts - smaller base size */
     --font-size-base: 14px;
     --font-size-small: 11px;
@@ -24,109 +24,102 @@
 }
 
 /* Reduce spacing in tables */
-[data-theme="compact"] th,
-[data-theme="compact"] td {
+th,
+td {
     padding: 2px 4px;
     font-size: var(--font-size-small);
 }
 
 /* Smaller input/button styles */
-[data-theme="compact"] button,
-[data-theme="compact"] select {
+button,
+select {
     min-height: 30px;
     padding: 6px 10px;
     margin: 3px;
     font-size: var(--font-size-base);
 }
 
-[data-theme="compact"] input[type="text"],
-[data-theme="compact"] input[type="number"],
-[data-theme="compact"] input[type="search"],
-[data-theme="compact"] textarea {
+input[type="text"],
+input[type="number"],
+input[type="search"],
+textarea {
     padding: 3px;
     font-size: var(--font-size-base);
 }
 
 /* Tighter list spacing */
-[data-theme="compact"] p,
-[data-theme="compact"] li {
+p,
+li {
     line-height: var(--line-height);
 }
 
 /* Smaller headings */
-[data-theme="compact"] h1 { font-size: 1.4em; margin: 0.3em 0; }
-[data-theme="compact"] h2 { font-size: 1.2em; margin: 0.3em 0; }
-[data-theme="compact"] h3 { font-size: 1.1em; margin: 0.2em 0; }
-[data-theme="compact"] h4 { font-size: 1em; margin: 0.2em 0; }
+h1 { font-size: 1.4em; margin: 0.3em 0; }
+h2 { font-size: 1.2em; margin: 0.3em 0; }
+h3 { font-size: 1.1em; margin: 0.2em 0; }
+h4 { font-size: 1em; margin: 0.2em 0; }
 
 /* Compact dice roller */
-[data-theme="compact"] .dice-roller .dice {
+.dice-roller .dice {
     margin: 5px;
     padding: 10px;
     font-size: 1.2em;
 }
 
-[data-theme="compact"] .dice-roller .history {
+.dice-roller .history {
     font-size: 1.2em;
     max-height: 200px;
 }
 
 /* Compact encounter calculator */
-[data-theme="compact"] .encounter-calculator .section-base {
+.encounter-calculator .section-base {
     margin: 8px 0;
     padding: 5px;
 }
 
 /* Compact filter panels */
-[data-theme="compact"] .filter-container {
+.filter-container {
     margin: 5px 0;
 }
 
-[data-theme="compact"] .filter-header {
+.filter-header {
     padding: 5px;
 }
 
-[data-theme="compact"] .filter-content {
+.filter-content {
     padding: 8px;
 }
 
 /* Compact DataTables */
-[data-theme="compact"] .dataTables_wrapper .dataTables_length,
-[data-theme="compact"] .dataTables_wrapper .dataTables_filter,
-[data-theme="compact"] .dataTables_wrapper .dataTables_info,
-[data-theme="compact"] .dataTables_wrapper .dataTables_paginate {
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_paginate {
     font-size: var(--font-size-small);
 }
 
-[data-theme="compact"] .dataTables_wrapper .dataTables_filter input {
+.dataTables_wrapper .dataTables_filter input {
     padding: 2px 4px;
 }
 
 /* Compact combat tracker */
-[data-theme="compact"] .combat-tracker th,
-[data-theme="compact"] .combat-tracker td {
+.combat-tracker th,
+.combat-tracker td {
     padding: 3px;
     font-size: var(--font-size-small);
 }
 
-[data-theme="compact"] .combat-tracker .controls {
+.combat-tracker .controls {
     padding: 5px;
     margin: 5px 0;
 }
 
 /* Compact point buy calculator */
-[data-theme="compact"] .point-buy-calculator .ability-grid {
+.point-buy-calculator .ability-grid {
     gap: 5px;
     margin: 10px 0;
 }
 
-[data-theme="compact"] .point-buy-calculator .ability-card {
+.point-buy-calculator .ability-card {
     padding: 4px;
-}
-
-/* Smaller theme switcher */
-[data-theme="compact"] .theme-switcher {
-    font-size: 11px;
-    padding: 3px 6px;
-    min-height: auto;
 }

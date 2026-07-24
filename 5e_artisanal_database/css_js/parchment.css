@@ -1,8 +1,8 @@
 /* Parchment Theme for 5e Artisanal Database
-   Add [data-theme="parchment"] to html element to activate.
+   Copy or rename this file to theme.css to activate.
    Gives a warm, paper-like feel for an old-world RPG aesthetic.
 */
-[data-theme="parchment"] {
+:root {
     /* Background colors */
     --bg-body: #f4e4c1;
     --bg-surface: #ead5a6;

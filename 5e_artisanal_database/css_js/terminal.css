@@ -1,8 +1,8 @@
 /* Terminal Theme for 5e Artisanal Database
-   Add [data-theme="terminal"] to html element to activate.
+   Copy or rename this file to theme.css to activate.
    Green-on-black terminal aesthetic.
 */
-[data-theme="terminal"] {
+:root {
     /* Background colors */
     --bg-body: #0a0a0a;
     --bg-surface: #111111;
