@@ -2,7 +2,7 @@
 // Contains name, rarity, type, source, and HTML links for custom magic items
 // Format matches magic_items_data.js for compatibility
 
-const customMagicItemsData = [
+window.customMagicItemsData = [
   {
     "name": "Black Flame Blade",
     "rarity": "Legendary",

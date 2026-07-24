@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Identify</title>
@@ -21,5 +28,6 @@
 </ul>
 <p>You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name. If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/5.2_srd_(d&d_2024)/identify.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Spellcasting</title>
 </head>
@@ -4935,5 +4942,6 @@ If you spend an hour in the same space as a dead creature of your original formâ
 <strong>Duration:</strong> 10 minutes<br />
 You create a zone that minimizes deception. Any creature that is able to be charmed canâ€™t deliberately lie while in the area.<br />
 An affected creature is aware of the spell and can choose not to speak, or it might be evasive in its communications. A creature that enters the zone for the first time on its turn or starts its turn there must make a Charisma saving throw. On a failed save, the creature takes 2d4 psychic damage when it intentionally tries to mislead or occlude important information. Each time the spell damages a creature, it makes a Deception check (DC 8 + the damage dealt) or its suffering is obvious. You know whether a creature succeeds on its saving throw.</p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

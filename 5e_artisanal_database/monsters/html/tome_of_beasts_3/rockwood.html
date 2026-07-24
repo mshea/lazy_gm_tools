@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Rockwood</title>
@@ -66,5 +73,6 @@
 <li><strong>Fossil Barrage (Recharge 6):</strong> Stone shards in 30' cone. Each creature in area: 28 (8d6) piercing damage (DC 15 Dex half).</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_3/rockwood.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

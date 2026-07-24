@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Poisoned Volley</title>
@@ -22,5 +29,6 @@
 <p>By drawing back and releasing an imaginary bowstring, you summon forth dozens of glowing green arrows. The arrows dissipate when they hit, but all creatures in a 20-foot square within range take 3d8 poison damage and become poisoned. A creature that makes a successful Constitution saving throw takes half as much damage and is not poisoned.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/poisoned-volley.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

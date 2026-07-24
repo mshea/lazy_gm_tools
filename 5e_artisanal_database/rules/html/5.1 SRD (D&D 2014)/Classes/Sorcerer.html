@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Sorcerer</title>
 </head>
@@ -574,5 +581,6 @@
 <p>You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.</p>
 <h4>Draconic Presence</h4>
 <p>Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Marvelous Pigments</title>
@@ -25,5 +32,6 @@
 <li>A pot of pigment can cover 1,000 square feet of a surface, creating a total area of 10,000 cubic feet of objects.</li>
 <li>Energy created by the paints, such as a burst of radiant light or a wildfire, dissipates harmlessly and does not deal any damage.</li>
 </ul><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/marvelous-pigments-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

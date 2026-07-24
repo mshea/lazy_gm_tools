@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Feather Travel</title>
@@ -22,5 +29,6 @@
 <p>The target of <strong>feather travel</strong> (along with its clothing and other gear) transforms into a feather and drifts on the wind. The drifting creature has a limited ability to control its travel. It can move only in the direction the wind is blowing and at the speed of the wind. It can, however, shift up, down, or sideways 5 feet per round as if caught by a gust, allowing the creature to aim for an open window or doorway, to avoid a flame, or to steer around an animal or another creature. When the spell ends, the feather settles gently to the ground and transforms back into the original creature.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 3rd level or higher, two additional creatures can be transformed per slot level above 2nd.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/feather-travel.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

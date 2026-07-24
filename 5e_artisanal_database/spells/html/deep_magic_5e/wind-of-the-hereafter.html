@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Wind of the Hereafter</title>
@@ -22,5 +29,6 @@
 <p>You create a 30-foot-radius sphere of roiling wind that carries the choking stench of death. The sphere is centered on a point you choose within range. The wind blows around corners. When a creature starts its turn in the sphere, it takes 8d8 necrotic damage, or half as much damage if it makes a successful Constitution saving throw. Creatures are affected even if they hold their breath or don’t need to breathe.</p>
 <p>The sphere moves 10 feet away from you at the start of each of your turns, drifting along the surface of the ground. It is not heavier than air but drifts in a straight line for the duration of the spell, even if that carries it over a cliff or gully. If the sphere meets a wall or other impassable obstacle, it turns to the left or right (select randomly).</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/wind-of-the-hereafter.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

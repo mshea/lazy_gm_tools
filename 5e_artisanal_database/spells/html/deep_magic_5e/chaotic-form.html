@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Chaotic Form</title>
@@ -22,5 +29,6 @@
 <p>You cause the form of a willing creature to become malleable, dripping and flowing according to the target’s will as if the creature were a vaguely humanoid-shaped ooze. The creature is not affected by difficult terrain, it has advantage on Dexterity (Acrobatics) checks made to escape a grapple, and it suffers no penalties when squeezing through spaces one size smaller than itself. The target’s movement is halved while it is affected by <strong>chaotic form</strong>.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 5th level or higher, the duration increases by 10 minutes for each slot level above 4th.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/chaotic-form.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

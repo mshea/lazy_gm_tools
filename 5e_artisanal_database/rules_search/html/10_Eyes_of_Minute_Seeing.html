@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Eyes of Minute Seeing - 5.2 SRD</title>
 </head>
@@ -11,5 +17,6 @@
 <h4 id="eyesofminuteseeing">Eyes of Minute Seeing</h4>
 <p><em>Wondrous Item, Uncommon</em></p>
 <p>These crystal lenses fit over the eyes. While wearing them, your vision improves significantly out to a range of 1 foot, granting you Darkvision within that range and Advantage on Intelligence (Investigation) checks made to examine something within that range.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

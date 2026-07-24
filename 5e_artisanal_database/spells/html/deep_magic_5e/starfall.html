@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Starfall</title>
@@ -22,5 +29,6 @@
 <p>You cause bolts of shimmering starlight to fall from the heavens, striking up to five creatures that you can see within range. Each bolt strikes one target, dealing 6d6 radiant damage, knocking the target prone, and blinding it until the start of your next turn. A creature that makes a successful Dexterity saving throw takes half the damage, is not knocked prone, and is not blinded. If you name fewer than five targets, excess bolts strike the ground harmlessly.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 6th level or higher, you can create one additional bolt for each slot level above 5th.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/starfall.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

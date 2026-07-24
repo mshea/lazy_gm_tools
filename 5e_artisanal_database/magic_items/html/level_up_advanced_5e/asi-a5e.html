@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Asi</title>
@@ -48,5 +55,6 @@
 <p>ACTIONS</p>
 <p><em><strong>Multiattack.</strong></em> The sword attacks twice with its blade.</p>
 <p><em><strong>Blade.</strong> Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit</em>: 16 (2d10+5) magical slashing damage plus 9 (2d8) fire damage.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/asi-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

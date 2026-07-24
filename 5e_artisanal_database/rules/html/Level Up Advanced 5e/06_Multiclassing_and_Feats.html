@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Multiclassing</title>
 </head>
@@ -928,5 +935,6 @@ In addition, you become particularly adept at subduing your enemies rather than 
 <li>You gain proficiency with the herbalism kit, navigator’s kit, a simple ranged weapon, or a martial ranged weapon.  </li>
 <li>You gain two exploration knacks of your choice from the ranger class.</li>
 </ul>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

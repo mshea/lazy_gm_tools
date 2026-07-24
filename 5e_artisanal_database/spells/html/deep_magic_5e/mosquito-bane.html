@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Mosquito Bane</title>
@@ -22,5 +29,6 @@
 <p>This spell kills any insects or swarms of insects within range that have a total of 25 hit points or fewer.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 2nd level or higher, the number of hit points affected increases by 15 for each slot level above 1st. Thus, a 2nd-level spell kills insects or swarms that have up to 40 hit points, a 3rd-level spell kills those with 55 hit points or fewer, and so forth, up to a maximum of 85 hit points for a slot of 6th level or higher.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/mosquito-bane.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

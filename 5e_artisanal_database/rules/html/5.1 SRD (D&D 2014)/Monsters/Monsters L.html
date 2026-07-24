@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Monsters (L)</title>
 </head>
@@ -344,5 +351,6 @@
 <p><strong><em>Bite (Wolf or Hybrid Form Only)</em></strong>. <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d8+2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
 <p><strong><em>Claws (Hybrid Form Only)</em></strong>. <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature. <em>Hit:</em> 7 (2d4+2) slashing damage.</p>
 <p><strong><em>Spear (Humanoid Form Only)</em></strong>. <em>Melee or Ranged Weapon Attack:</em> +4 to hit, reach 5 ft. or range 20/60 ft., one creature. <em>Hit:</em> 5 (1d6+2) piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Ray of Life Suppression</title>
@@ -22,5 +29,6 @@
 <p>You launch a swirling ray of disruptive energy at a creature within range. Make a ranged spell attack. On a hit, the creature takes 6d8 necrotic damage and its maximum hit points are reduced by an equal amount. This reduction lasts until the creature finishes a short or long rest, or until it receives the benefit of a greater restoration spell or comparable magic.</p>
 <p>This spell has no effect on constructs or undead.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/ray-of-life-suppression.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

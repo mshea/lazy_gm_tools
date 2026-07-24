@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Bitter Chains</title>
@@ -22,5 +29,6 @@
 <p>The spiked ring in your hand expands into a long, barbed chain to ensnare a creature you touch. Make a melee spell attack against the target. On a hit, the target is bound in metal chains for the duration. While bound, the target can move only at half speed and has disadvantage on attack rolls, saving throws, and Dexterity checks. If it moves more than 5 feet during a turn, it takes 3d6 piercing damage from the barbs.</p>
 <p>The creature can escape from the chains by using an action and making a successful Strength or Dexterity check against your spell save DC, or if the chains are destroyed. The chains have AC 18 and 20 hit points.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/bitter-chains.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

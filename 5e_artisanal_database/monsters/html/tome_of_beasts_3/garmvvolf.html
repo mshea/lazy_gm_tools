@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Garmvvolf</title>
@@ -58,5 +65,6 @@
 <li><strong>Tripartite Howl (Recharge 5-6):</strong> Its heads exhale a three-part howl one filled with poisonous spittle one a thunderous bellow and one a frightful bay in a 30' cone. Each creature in area: 17 (5d6) poison and 17 (5d6) thunder and becomes frightened 1 min (DC 16 Dex half damage isn't frightened). A frightened creature can re-save at end of each of its turns ending effect on itself on a success.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_3/garmvvolf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

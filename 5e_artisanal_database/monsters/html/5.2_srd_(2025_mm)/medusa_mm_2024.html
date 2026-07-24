@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Medusa</title>
@@ -80,5 +87,6 @@
 <h2>Bonus Actions</h2>
 <p><strong><em>Petrifying Gaze (Recharge 5-6).</em></strong> <em>Constitution Saving Throw</em>: DC 13, each creature in a 30-foot Cone. If the medusa sees its reflection in the Cone, the medusa must make this save. <em>First Failure</em> The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. <em>Second Failure</em> The target has the Petrified condition instead of the Restrained condition.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/5.2_srd_(2025_mm)/medusa_mm_2024.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

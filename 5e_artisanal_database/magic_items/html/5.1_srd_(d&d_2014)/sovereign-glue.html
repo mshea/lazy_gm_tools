@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Sovereign Glue</title>
@@ -18,5 +25,6 @@
 </ul>
 <p>This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with <em>oil of slipperiness.</em> When found, a container contains 1d6 + 1 ounces.</p>
 <p>One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of <em>universal solvent</em> or <em>oil of etherealness</em>, or with a <em>wish</em> spell.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/5.1_srd_(d&d_2014)/sovereign-glue.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

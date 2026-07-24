@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Dancing Caltrops</title>
@@ -17,5 +24,6 @@
 <li><strong>Source:</strong> Vault of Magic</li>
 </ul>
 <p>After you pour these magic caltrops out of the bag into an area, you can use a bonus action to animate them and command them to move up to 10 feet to occupy a different square area that is 5 feet on a side.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/dancing-caltrops.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

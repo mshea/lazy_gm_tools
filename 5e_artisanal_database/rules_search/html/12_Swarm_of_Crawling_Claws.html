@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Swarm of Crawling Claws - 5.2 SRD</title>
 </head>
@@ -75,5 +81,6 @@
 <p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain Hit Points or gain Temporary Hit Points.</p>
 <h3 id="actions">Actions</h3>
 <p><strong><em>Swarm of Grasping Hands.</em></strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. 20 (4d8 + 2) Necrotic damage, or 11 (2d8 + 2) Necrotic damage if the swarm is Bloodied. If the target is a Medium or smaller creature, it has the Prone condition.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Book Shroud</title>
@@ -17,5 +24,6 @@
 <li><strong>Source:</strong> Vault of Magic</li>
 </ul>
 <p>When not bound to a book, this red leather book cover is embossed with images of eyes on every inch of its surface. When you wrap this cover around a tome, it shifts the book's appearance to a plain red cover with a title of your choosing and blank pages on which you can write. When viewing the wrapped book, other creatures see the plain red version with any contents you've written. A creature succeeding on a DC 15 Wisdom (Perception) check sees the real book and can remove the shroud.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/book-shroud.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

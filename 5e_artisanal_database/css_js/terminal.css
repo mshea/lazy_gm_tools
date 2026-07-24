@@ -1,0 +1,89 @@
+/* Terminal Theme for 5e Artisanal Database
+   Add [data-theme="terminal"] to html element to activate.
+   Green-on-black terminal aesthetic.
+*/
+[data-theme="terminal"] {
+    /* Background colors */
+    --bg-body: #0a0a0a;
+    --bg-surface: #111111;
+    --bg-surface-alt: #1a1a1a;
+    --bg-input: #0a0a0a;
+    --bg-button: #111111;
+    --bg-button-hover: #1a1a1a;
+    --bg-button-secondary: #003300;
+    --bg-button-secondary-hover: #004400;
+    --bg-table-header: #111111;
+    --bg-filter-container: #111111;
+    --bg-filter-header-hover: #1a1a1a;
+    --bg-filter-item: #0a0a0a;
+    --bg-filter-item-hover: #111111;
+    --bg-filter-count: #111111;
+    --bg-dropdown: #111111;
+    --bg-dropdown-hover: #1a1a1a;
+    --bg-dropdown-selected: #003300;
+    --bg-current-turn: #0a1a0a;
+    --bg-ability-card: #111111;
+    --bg-controls: #111111;
+    --bg-results: #111111;
+    --bg-remove-btn: #800000;
+    --bg-remove-btn-hover: #990000;
+    --bg-remove-btn-alt: #800000;
+    --bg-remove-btn-alt-hover: #990000;
+    --bg-search-btn: #111111;
+    --bg-search-btn-hover: #1a1a1a;
+    --bg-ability-btn: #003300;
+    --bg-ability-btn-hover: #004400;
+    --bg-ability-btn-disabled: #002200;
+    --bg-add-btn: #003300;
+    --bg-add-btn-hover: #004400;
+    --bg-reset-btn: #003300;
+    --bg-reset-btn-hover: #004400;
+    --bg-dice: #111111;
+    --bg-dice-hover: #1a1a1a;
+    --bg-history: #111111;
+
+    /* Text colors */
+    --text-body: #00ff00;
+    --text-heading: #00ff00;
+    --text-muted: #008800;
+    --text-link: #00cc00;
+    --text-link-hover: #55ff55;
+    --text-button: #00ff00;
+    --text-button-hover: #55ff55;
+    --text-button-secondary: #00ff00;
+    --text-filter-section: #00aa00;
+    --text-label: #00ff00;
+    --text-input: #00ff00;
+    --text-placeholder: #005500;
+
+    /* Border colors */
+    --border-color: #003300;
+    --border-color-light: #002200;
+    --border-color-strong: #00ff00;
+    --border-color-input: #003300;
+    --border-color-input-focus: #00ff00;
+    --border-color-button: #003300;
+    --border-color-search-btn: #003300;
+    --border-color-table: #004400;
+    --border-color-result: #003300;
+    --border-color-section: #003300;
+    --border-color-ability: #003300;
+    --border-color-ability-score: #00ff00;
+    --border-color-controls: #003300;
+    --border-color-dice: #004400;
+
+    /* Accent / highlight */
+    --highlight-bg: #003300;
+    --highlight-text: #00ff00;
+
+    /* Fonts - monospace for terminal feel */
+    --font-body: 'Courier New', 'Consolas', 'Monaco', monospace;
+    --font-heading: 'Courier New', 'Consolas', 'Monaco', monospace;
+    --font-mono: 'Courier New', 'Consolas', 'Monaco', monospace;
+    --font-size-base: 20px;
+
+    /* Spacing - tighter for terminal */
+    --padding-page: 8px;
+    --padding-card: 8px;
+    --padding-input: 6px;
+}

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Hydra</title>
@@ -66,5 +73,6 @@
 <li><strong>Wrap:</strong> Melee Weapon Attack: +9 to hit, reach 10 ft., one Medium or smaller creature. Hit: The target is grappled (escape DC 17) and restrained until this grappled ends. The hydra can grapple one creature for each of its heads. When one of the hydras heads is killed while it is grappling a creature, the creature that killed the head can choose one creature to free from the grapple.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/a5e_monstrous_menagerie/hydra-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

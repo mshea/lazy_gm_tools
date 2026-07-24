@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Bulbous Violet</title>
@@ -55,5 +62,6 @@
 <li><strong>Tendril:</strong> Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 2 (1d4) acid damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained and takes 2 (1d4) acid damage at the start of each of its turns. The violet has two tendrils strong enough to grapple creatures; each can grapple only one target. If the acid damage reduces the target to 0 hp, the violet regains 7 (2d6) hp.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2/bulbous-violet.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

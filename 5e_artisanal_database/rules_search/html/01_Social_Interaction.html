@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Social Interaction - 5.2 SRD</title>
 </head>
@@ -21,5 +27,6 @@
 <h3 id="abilitychecks">Ability Checks</h3>
 <p>Ability checks can be key in determining the outcome of a social interaction. Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance if the GM wants dice to play a role in determining an NPC’s response to you. In such situations, the GM will typically ask you to take the Influence action.</p>
 <p>Pay attention to your skill proficiencies when thinking of how you will interact with an NPC; use an approach that relies on your group’s skill proficiencies. For example, if the group needs to trick a guard into letting them into a castle, the Rogue who is proficient in Deception should lead the discussion.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

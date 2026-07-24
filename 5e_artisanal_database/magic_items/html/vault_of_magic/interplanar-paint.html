@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Interplanar Paint</title>
@@ -17,5 +24,6 @@
 <li><strong>Source:</strong> Vault of Magic</li>
 </ul>
 <p>This black, tarry substance can be used to paint a single black doorway on a flat surface. A pot contains enough paint to create one doorway. While painting, you must concentrate on a plane of existence other than the one you currently occupy. If you are not interrupted, the doorway can be painted in 5 minutes. Once completed, the painting opens a two-way portal to the plane you imagined. The doorway is mirrored on the other plane, often appearing on a rocky face or the wall of a building. The doorway lasts for 1 week or until 5 gallons of water with flecks of silver worth at least 2,000 gp is applied to one side of the door.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/interplanar-paint.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

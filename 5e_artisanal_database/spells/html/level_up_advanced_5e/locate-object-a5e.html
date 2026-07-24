@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Locate Object</title>
@@ -23,5 +30,6 @@
 <p>You may locate a specific object known to you, provided that you have observed it within 30 feet at least once. You may also find the closest example of a certain type of object (for example an instrument, item of furniture, compass, or vase).</p>
 <p>When there is any thickness of lead in the direct path between you and the object the spell is unable to find it.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/locate-object-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Cubic Gate</title>
@@ -18,5 +25,6 @@
 </ul>
 <p>This 3-inch cube has 3 charges and regains 1d3 charges each dawn. Each side of the cube is keyed to a different plane, one of which is the Material Plane. The other five sides are determined by the Narrator.</p>
 <p>As an action, you may press one side of the cube and spend a charge to cast the <em>gate  s_pell, expending a charge and opening a portal to the associated plane. You may instead press a side twice, expending 2 charges and casting _plane shift</em> (save DC 17) which sends the targets to the associated plane.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/cubic-gate-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -2,7 +2,7 @@
 // Contains AC, HP, initiative, CR, type, source, and HTML links for custom monsters
 // Format matches monster_combat_stats.js for compatibility
 
-const customMonsterCombatStats = [
+window.customMonsterCombatStats = [
   {
     "name": "Minion",
     "ac": 11,

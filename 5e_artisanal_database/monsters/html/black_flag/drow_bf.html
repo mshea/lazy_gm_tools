@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Drow</title>
@@ -62,5 +69,6 @@
 <li><strong>Poison Weapon:</strong> The drow coats one weapon it is wearing or carrying in one of the following poisons. Each time the drow hits a creature with that weapon, the target must succeed on a DC 11 CON save or be poisoned for 1 minute and suffer the chosen poison's effect while poisoned in this way. The poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The poison remains on the weapon until the start of the drow's next turn.<br>- <strong>Beetle's Bite.</strong> The target's speed is halved while poisoned.<br>- <strong>Dark Caress.</strong> The target is blinded while poisoned.<br>- <strong>Nightmare's Kiss.</strong> The target is frightened of the drow while poisoned.<br>- <strong>Slumber's Call.</strong> The target falls unconscious while poisoned or until it takes damage or another creature uses an action to wake it.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/drow_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

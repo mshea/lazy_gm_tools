@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>White Ape</title>
@@ -60,5 +67,6 @@
 <li><strong>Familiar:</strong> The witchlight can serve another creature as a familiar, forming a magic, telepathic bond with that willing companion. While the two are bonded, the companion can sense what the witchlight senses as long as they are within 1 mile of each other. While the witchlight is within 10 feet of its companion, the companion can't be blinded. At any time and for any reason, the witchlight can end its service as a familiar, ending the telepathic bond.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2023/whiteape-tob1-2023.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

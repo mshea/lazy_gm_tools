@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Pegasus - 5.2 SRD</title>
 </head>
@@ -72,5 +78,6 @@
 </ul>
 <h3 id="actions">Actions</h3>
 <p><strong><em>Hooves.</em></strong> <em>Melee Attack Roll:</em> +6, reach 5 ft. 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Radiant damage.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

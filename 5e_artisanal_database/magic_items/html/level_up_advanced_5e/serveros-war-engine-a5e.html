@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Serveros War Engine</title>
@@ -72,5 +79,6 @@
 <p><strong>Destroying the War Engine</strong></p>
 <p>Of all its various parts and components the key to disabling and ultimately destroying the war engine is the helm. The rest of the massive construct might feasibly be replaced or reengineered by an ingenious mind. However with its complex structure, both magical and mechanical, replicating the controller headpiece requires arcane knowledge and technical documentation that disappeared with the war engine’s creators long ago. </p>
 <p>The helm is heavily enchanted with fortifications against harm. Bypassing its magical protections requires two steps: first, a __dispel magic_ cast at 5th-level or higher is needed to make the invisible barrier around the war engine’s helm vulnerable for 6 seconds, followed by a __disintegrate_ spell cast at 7th-level or higher to completely dissolve the barrier. Once the barrier is dissolved, for the next 24 hours the helm can be destroyed like any other item (AC 22, 100 hit points) before its magical protections regenerate and fully repair it.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/serveros-war-engine-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

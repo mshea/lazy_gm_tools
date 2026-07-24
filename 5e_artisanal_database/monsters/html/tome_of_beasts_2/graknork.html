@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Graknork</title>
@@ -59,5 +66,6 @@
 <li><strong>Freezing Eye (Recharge 5-6):</strong> The graknork's blue eye flares open and releases a beam of icy energy in a line that is 120-feet long and 10 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw. On a failure, a creature takes 35 (10d6) cold damage and is restrained for 1 minute as its limbs freeze. On a success, a creature takes half the damage and isn't restrained. A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the restrained creature can be freed if it takes at least 10 fire damage.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2/graknork.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

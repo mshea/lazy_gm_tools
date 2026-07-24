@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Cylinder [Area of Effect]</title>
 </head>
@@ -13,5 +20,6 @@
 <h1>Cylinder [Area of Effect]</h1>
 <p>A Cylinder is an area of effect that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.</p>
 <p>A Cylinder's point of origin is included in the area of effect.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

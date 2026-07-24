@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Mammon’s Due</title>
@@ -23,5 +30,6 @@
 <p>A creature that’s restrained by the arms at the start of your turn must make a successful Strength saving throw or be pulled 5 feet farther down into the ash. A creature pulled below the surface is blinded, deafened, and can’t breathe. To escape, a creature must use an action to make a successful Strength or Dexterity check against your spell save DC. On a successful check, the creature is no longer restrained and can move through the difficult terrain of the ash pit. It doesn’t need to make a Strength or Dexterity saving throw this turn to not be grabbed by the arms again, but it must make the saving throw as normal if it’s still in the ash pit at the start of its next turn.</p>
 <p>The diameter of the ash pit increases by 10 feet at the start of each of your turns for the duration of the spell. The ash pit remains after the spell ends, but the grasping arms disappear and restrained creatures are freed automatically. As the ash slowly cools, it deals 1d6 less fire damage for each hour that passes after the spell ends.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/mammons-due.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

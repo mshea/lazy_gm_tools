@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Calculate</title>
@@ -22,5 +29,6 @@
 <p>You instantly know the answer to any mathematical equation that you speak aloud. The equation must be a problem that a creature with Intelligence 20 could solve using nonmagical tools with 1 hour of calculation. Additionally, you gain an expertise die on Engineering checks made during the duration of the spell.</p>
 <p>Note: Using the <em>calculate</em> cantrip allows a player to make use of a calculator at the table in order to rapidly answer mathematical equations.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/calculate-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Periapt of Wound Closure</title>
@@ -21,5 +28,6 @@
 <li>While wearing this pendant, you automatically stabilize when dying. You may still roll your Death <em>saving throw</em>  to try and roll a 20, but may only roll once on each of your turns and no more than three times.</li>
 <li>Whenever you roll a Hit Die to regain hit points, you regain twice as many as normal.</li>
 </ul><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/periapt-of-wound-closure-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

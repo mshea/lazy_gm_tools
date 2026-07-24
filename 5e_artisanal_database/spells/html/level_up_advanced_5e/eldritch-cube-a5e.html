@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Eldritch Cube</title>
@@ -22,5 +29,6 @@
 <p>A black, nonreflective, incorporeal 10-foot cube appears in an unoccupied space that you can see. Its space can be in midair if you so desire. When a creature starts its turn in the cube or enters the cube for the first time on its turn it must make an Intelligence saving throw, taking 5d6 psychic damage on a failed save, or half damage on a success.</p>
 <p>As a bonus action, you can move the cube up to 10 feet in any direction to a space you can see. The cube cannot be made to pass through other creatures in this way.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/eldritch-cube-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

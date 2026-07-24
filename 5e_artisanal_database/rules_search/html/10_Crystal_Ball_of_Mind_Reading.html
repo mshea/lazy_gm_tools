@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Crystal Ball of Mind Reading - 5.2 SRD</title>
 </head>
@@ -11,5 +17,6 @@
 <h4 id="crystalballofmindreading">Crystal Ball of Mind Reading</h4>
 <p><em>Wondrous Item, Legendary (Requires Attunement)</em></p>
 <p>While touching this crystal orb, you can cast <em>Scrying</em> (save DC 17) with it. In addition, you can cast <em>Detect Thoughts</em> (save DC 17) targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this <em>Detect Thoughts</em> spell to maintain it during its duration, but it ends if the <em>Scrying</em> spell ends.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

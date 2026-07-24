@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Bearded Devil - 5.2 SRD</title>
 </head>
@@ -77,5 +83,6 @@
 <p><strong><em>Multiattack.</em></strong> The devil makes one Beard attack and one Infernal Glaive attack.</p>
 <p><strong><em>Beard.</em></strong> <em>Melee Attack Roll:</em> +5, reach 5 ft. 7 (1d8 + 3) Piercing damage, and the target has the Poisoned condition until the start of the devil's next turn. Until this poison ends, the target can't regain Hit Points.</p>
 <p><strong><em>Infernal Glaive.</em></strong> <em>Melee Attack Roll:</em> +5, reach 10 ft. 8 (1d10 + 3) Slashing damage. If the target is a creature and doesn't already have an infernal wound, it is subjected to the following effect. <em>Constitution Saving Throw</em>: DC 12. <em>Failure:</em>  The target receives an infernal wound. While wounded, the target loses 5 (1d10) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 12 Wisdom (Medicine) check.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

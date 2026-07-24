@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Hungry Quasit</title>
@@ -18,5 +25,6 @@
 </ul>
 <p>This Tiny bloodstone is carved in the shape of a grinning, pot-bellied <em>quasit</em> . Whenever you would gain temporary hit points, you can choose to store them inside the quasit instead. Unlike normal temporary hit points, the hit points you store inside the quasit stack, although the maximum number of temporary hit points the quasit can hold at one time is equal to your Charisma modifier + your warlock level (minimum 1).</p>
 <p>You can use an action to activate the quasit and gain all the temporary hit points currently stored inside it, which last for up to 1 hour. Whenever you activate the quasit, roll a d20. On a result of 5 or less, you don’t gain any temporary hit points, and instead the <em>quasit</em>  animates and flies off never to be seen again.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/hungry-quasit-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

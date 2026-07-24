@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Ring of Mind Shielding</title>
@@ -19,5 +26,6 @@
 <p>While wearing this ring, creatures cannot magically read your thoughts, know if you’re lying, or discern your creature type, and you can only be communicated with telepathically if you allow it.</p>
 <p>If you die while wearing this ring, your soul enters the ring upon death, unless another soul already occupies it. You choose when your soul leaves the ring. While within the ring, you can communicate telepathically with anyone wearing it (this communication cannot be prevented.)</p>
 <p>You can use an action to make the ring <em>invisible</em> , and it remains so until it is removed, you die, or you use an action to make it visible.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/ring-of-mind-shielding-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

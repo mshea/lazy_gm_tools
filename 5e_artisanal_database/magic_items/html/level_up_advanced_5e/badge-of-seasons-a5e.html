@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Badge of Seasons</title>
@@ -23,5 +30,6 @@
 <p><strong>Autumn:</strong> Whenever you use your pact weapon to damage a creature, the target makes a Charisma <em>saving throw</em>  against your spell save DC or it deals half damage with weapon attacks until the end of your next turn.</p>
 <p><strong>Winter:</strong> You can use a bonus action to teleport up to 15 feet to an unoccupied space that you can see. Creatures within 5 feet of the space you left each take 1d4 cold damage.</p>
 <p>The symbol disappears after its effect ends. Once you’ve used all four symbols, the badge becomes a mundane item.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/badge-of-seasons-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Harm</title>
@@ -22,5 +29,6 @@
 <p>You assail a target with an agonizing disease. The target takes 14d6 necrotic damage. If it fails its saving throw its hit point maximum is reduced by an amount equal to the damage taken for 1 hour or until the disease is magically cured. This spell cannot reduce a target to less than 1 hit point.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> Increase the damage by 2d6 for each slot level above 6th.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/harm-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

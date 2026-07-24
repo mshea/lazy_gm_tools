@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Curse of the Grave</title>
@@ -27,5 +34,6 @@
 <li>The target, as a vampire spawn, seeks you out in an attempt to serve its new master. You can have only one vampire spawn under your control at a time through this spell. If you create another, the existing one turns to dust. If you or your companions do anything harmful to the target, it can make a Wisdom saving throw. On a success, it is no longer under your control.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/curse-of-the-grave.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

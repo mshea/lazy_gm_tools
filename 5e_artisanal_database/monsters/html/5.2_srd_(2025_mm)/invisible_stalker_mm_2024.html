@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Invisible Stalker</title>
@@ -82,5 +89,6 @@
 <p><strong><em>Wind Swipe.</em></strong> <em>Melee Attack Roll:</em> +7, reach 5 ft. 11 (2d6 + 4) Force damage.</p>
 <p><strong><em>Vortex.</em></strong> <em>Constitution Saving Throw</em>: DC 14, one Large or smaller creature in the stalker's space. <em>Failure:</em>  7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and takes 7 (2d6) Thunder damage at the start of each of the stalker's turns.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/5.2_srd_(2025_mm)/invisible_stalker_mm_2024.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

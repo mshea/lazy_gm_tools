@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Curse of Boreas</title>
@@ -21,5 +28,6 @@
 </ul>
 <p>You designate a creature within range that you can see. If the target fails a Charisma saving throw, it and its equipment are frozen solid, becoming an inert statue of ice. The creature is effectively paralyzed, but mental activity does not cease, and signs of life are detectable; the creature still breathes and its heart continues to beat, though both acts are almost imperceptible. If the ice statue is broken or damaged while frozen, the creature will have matching damage or injury when returned to its original state. Dispel magic can’t end this spell, but it can allow the target to speak (but not move or cast spells) for a number of rounds equal to the spell slot used. Greater restoration or more potent magic is needed to free a creature from the ice.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/curse-of-boreas.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

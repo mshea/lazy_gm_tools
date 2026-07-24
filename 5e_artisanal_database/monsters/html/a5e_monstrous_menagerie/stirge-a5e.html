@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Stirge</title>
@@ -49,5 +56,6 @@
 <li><strong>Blood Drain:</strong> The stirge drains blood from the creature it is attached to. The creature loses 4 (1d8) hit points. After the stirge has drained 8 hit points  it detaches itself and can't use Blood Drain again until it finishes a rest.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/a5e_monstrous_menagerie/stirge-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

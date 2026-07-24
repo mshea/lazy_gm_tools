@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>02 - Building a Quick Monster</title>
 </head>
@@ -448,5 +455,6 @@
 <p>To further flesh out your monster, add monster types and features found for monsters similar to the one you're building such as extra weapon damage types, breath weapons, auras, damage shields, and other traits and features that better define your monster in the story and situation.</p>
 <h2>Using the Table with Published Monsters</h2>
 <p>While the Monster Statistics by Challenge Rating table is intended to let you build monsters from scratch, it can easily be used as a reference to better understand how a published monster might act in combat. If a published CR 4 monster has 30 hit points but deals 35 damage per round, you can see from the table that their hit points are low but their damage is high compared to the creature's baseline challenge rating. Such a monster hits hard for their challenge rating, but when they're hit in turn, they go down fast.</p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

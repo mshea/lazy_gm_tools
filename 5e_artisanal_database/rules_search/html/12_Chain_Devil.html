@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Chain Devil - 5.2 SRD</title>
 </head>
@@ -78,5 +84,6 @@
 <p><strong><em>Multiattack.</em></strong> The devil makes two Chain attacks and uses Conjure Infernal Chain.</p>
 <p><strong><em>Chain.</em></strong> <em>Melee Attack Roll:</em> +7, reach 10 ft. 11 (2d6 + 4) Slashing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two chains, and it has the Restrained condition until the grapple ends.</p>
 <p><strong><em>Conjure Infernal Chain.</em></strong> The devil conjures a fiery chain to bind a creature. <em>Dexterity Saving Throw</em>: DC 15, one creature the devil can see within 60 feet. <em>Failure:</em>  9 (2d4 + 4) Fire damage, and the target has the Restrained condition until the end of the devil's next turn, at which point the chain disappears. If the target is Large or smaller, the devil moves the target up to 30 feet straight toward itself. <em>Success:</em>  The chain disappears.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

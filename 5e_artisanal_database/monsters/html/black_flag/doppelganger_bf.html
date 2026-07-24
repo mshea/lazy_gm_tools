@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Doppelganger</title>
@@ -64,5 +71,6 @@
 <li><strong>Read Thoughts:</strong> The doppelganger magically reads the surface thoughts - what is foremost in the mind at the moment - of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading the target's thoughts until its concentration is broken (as if concentrating on a spell) or it uses Read Thoughts on a different target.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/doppelganger_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

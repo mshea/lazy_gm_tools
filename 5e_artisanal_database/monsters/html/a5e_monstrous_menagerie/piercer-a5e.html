@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Piercer</title>
@@ -52,5 +59,6 @@
 <li><strong>Pierce:</strong> Melee Weapon Attack: +2 to hit  one target directly underneath the piercer. Hit: 10 (3d6) piercing damage. This attack has disadvantage against a creature that is protecting its head with a shield or similar object. If the attack misses  the piercer dies.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/a5e_monstrous_menagerie/piercer-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

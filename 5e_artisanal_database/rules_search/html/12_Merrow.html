@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Merrow - 5.2 SRD</title>
 </head>
@@ -76,5 +82,6 @@
 <p><strong><em>Bite.</em></strong> <em>Melee Attack Roll:</em> +6, reach 5 ft. 6 (1d4 + 4) Piercing damage, and the target has the Poisoned condition until the end of the merrow's next turn.</p>
 <p><strong><em>Claw.</em></strong> <em>Melee Attack Roll:</em> +6, reach 5 ft. 9 (2d4 + 4) Slashing damage.</p>
 <p><strong><em>Harpoon.</em></strong> <em>Melee or Ranged Attack Roll:</em> +6, reach 5 ft. or range 20/60 ft. 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, the merrow pulls the target up to 15 feet straight toward itself.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

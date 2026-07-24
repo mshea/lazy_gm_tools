@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Elf</title>
 </head>
@@ -30,5 +37,6 @@
 <p><strong><em>Elf Weapon Training</em></strong>. You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
 <p><strong><em>Cantrip</em></strong>. You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</p>
 <p><strong><em>Extra Language</em></strong>. You can speak, read, and write one extra language of your choice.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Reincarnate</title>
@@ -23,5 +30,6 @@
 <p><strong>01-04</strong> Dragonborn <strong>05-13</strong> Dwarf, hill <strong>14-21</strong> Dwarf, mountain <strong>22-25</strong> Elf, dark <strong>26-34</strong> Elf, high <strong>35-42</strong> Elf, wood <strong>43-46</strong> Gnome, forest <strong>47-52</strong> Gnome, rock <strong>53-56</strong> Half-elf <strong>57-60</strong> Half-orc <strong>61-68</strong> Halfling, lightfoot <strong>69-76</strong> Halfling, stout <strong>77-96</strong> Human <strong>97-00</strong> Tiefling 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/5.1_srd_(d&d_2014)/reincarnate.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

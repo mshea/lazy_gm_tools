@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Shambling Mound - 5.2 SRD</title>
 </head>
@@ -77,5 +83,6 @@
 <p><strong><em>Multiattack.</em></strong> The shambling mound makes three Charged Tendril attacks. It can replace one attack with a use of Engulf.</p>
 <p><strong><em>Charged Tendril.</em></strong> <em>Melee Attack Roll:</em> +7, reach 10 ft. 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Lightning damage. If the target is a Medium or smaller creature, the shambling mound pulls the target 5 feet straight toward itself.</p>
 <p><strong><em>Engulf.</em></strong> <em>Strength Saving Throw</em>: DC 15, one Medium or smaller creature within 5 feet. <em>Failure:</em>  The target is pulled into the shambling mound's space and has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Beguiling Bet</title>
@@ -23,5 +30,6 @@
 <p>The charmed creature must use its next action (which can be a legendary action) to make the same ability check in a contest against your check. Even if the creature can't perform the action—it may not be close enough to a wall to climb it, or it might not have appendages suitable for strumming a lute—it must still attempt the action to the best of its capability. If you win the contest, the spell (and the contest) continues, with you making a new ability check as a bonus action on your turn. The spell ends when it expires or when the creature wins the contest.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for every two slot levels above 2nd. Each creature must be within 30 feet of another creature when you cast the spell.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/beguiling-bet.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

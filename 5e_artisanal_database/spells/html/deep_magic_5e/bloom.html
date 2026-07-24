@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Bloom</title>
@@ -28,5 +35,6 @@
 Living creatures that take a short rest within the area of a bloom spell receive the maximum hit points for Hit Dice expended. <strong>Bloom</strong> counters the effects of a desolation spell.</p>
 <p><strong><em>Ritual Focus.</em></strong> If you expend your ritual focus, the duration becomes permanent.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/bloom.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

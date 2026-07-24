@@ -3,6 +3,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../css_js/5eadb.css">
 <style>
 
@@ -16,14 +23,16 @@
     width: 100%;
     padding: 10px;
     font-size: 16px;
-    border: 2px solid #ddd;
-    border-radius: 4px;
+    border: 2px solid var(--border-color-light);
+    border-radius: var(--border-radius);
     box-sizing: border-box;
     margin-bottom: 5px;
+    background-color: var(--bg-input);
+    color: var(--text-input);
 }
 
 .search-input:focus {
-    border-color: #888;
+    border-color: var(--border-color-input-focus);
     outline: none;
 }
 
@@ -34,9 +43,9 @@
 
 /* Search page filter overrides - slightly different sizing from shared defaults */
 .filter-section-title {
-    color: #333;
+    color: var(--text-body);
     padding: 8px 4px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--border-color-light);
 }
 
 .filter-section-title input[type="checkbox"] {
@@ -112,14 +121,6 @@
         padding: 16px 24px;
         font-size: 16px;
         min-height: 48px;
-    }
-}
-
-/* Dark mode - only needed for color explicitly set above that would otherwise clobber shared dark mode */
-@media (prefers-color-scheme: dark) {
-    .filter-section-title {
-        color: #e0e0e0;
-        border-bottom-color: #555;
     }
 }
 </style>
@@ -524,5 +525,6 @@ function performLuckySearch() {
 
 </script>
 
+<script src="../css_js/theme-switcher.js"></script>
 </body>
 </html>

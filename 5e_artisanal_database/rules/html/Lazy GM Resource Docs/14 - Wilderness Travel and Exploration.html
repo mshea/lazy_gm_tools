@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>14 - Wilderness Travel and Exploration</title>
 </head>
@@ -35,5 +42,6 @@
 <p>As the characters travel through the wilderness, choose or randomly select potential encounters. These might be face-to-face encounters with denizens of the wilderness, but not all such encounters need to be hostile. The characters could run into friendly travelers, fearful monsters, weak foes, or signs of a previous battle. Likewise, they might spot the tracks of creatures recently passed by, or that are heading in the party's direction.</p>
 <h3>Place Notable Landmarks</h3>
 <p>Use notable landmarks to mark key points along the characters' journey. Such landmarks can serve as a backdrop for random encounters or as places to rest. They might also serve as a source of secrets and clues that the characters can discover.</p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

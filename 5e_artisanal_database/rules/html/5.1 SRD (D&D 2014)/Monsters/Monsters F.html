@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Monsters (F)</title>
 </head>
@@ -81,5 +88,6 @@
 <h6>Actions</h6>
 <p><strong><em>Multiattack</em></strong>. The fungus makes 1d4 Rotting Touch attacks.</p>
 <p><strong><em>Rotting Touch</em></strong>. <em>Melee Weapon Attack:</em> +2 to hit, reach 10 ft., one creature. <em>Hit:</em> 4 (1d8) necrotic damage.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

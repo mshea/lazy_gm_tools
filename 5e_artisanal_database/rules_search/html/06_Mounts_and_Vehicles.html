@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Mounts and Vehicles - 5.2 SRD</title>
 </head>
@@ -238,5 +244,6 @@
 <p>If a vehicle has a damage threshold (see "Rules Glossary"), it's noted in the table.</p>
 <h4 id="shiprepair">Ship Repair</h4>
 <p>Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

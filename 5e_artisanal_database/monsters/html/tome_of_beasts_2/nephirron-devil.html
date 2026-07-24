@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Nephirron Devil</title>
@@ -70,5 +77,6 @@ At will: detect thoughts, protection from evil and good, teleport (self plus 150
 <li><strong>Sculpt Breath (Recharge 6):</strong> When the nephirron is in the area of a spell, such as fireball, or a breath weapon, it can create a hole in the spell or breath weapon, protecting itself from the effects. If it does so, the nephirron automatically succeeds on its saving throw against the spell or breath weapon and takes no damage if it would normally take half damage on a successful save.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2/nephirron-devil.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

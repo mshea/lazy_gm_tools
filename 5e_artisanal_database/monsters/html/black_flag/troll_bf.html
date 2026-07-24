@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Troll</title>
@@ -65,5 +72,6 @@
 <li><strong>Ravenous Frenzy (52 HP or Fewer):</strong> Desperate for a meal as its injuries mount, the troll moves up to half its speed and makes one Bite attack against a creature it can see within range. The troll then regains HP equal to half the damage dealt.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/troll_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

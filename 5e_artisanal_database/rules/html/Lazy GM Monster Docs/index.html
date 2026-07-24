@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Lazy GM Monster Docs</title>
 </head>
@@ -24,5 +31,6 @@
 <li><a href="11 - Monsters by Adventure Location.html">11 - Monsters by Adventure Location</a></li>
 <li><a href="12 - Monsters and the Tiers of Play.html">12 - Monsters and the Tiers of Play</a></li>
 </ul>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

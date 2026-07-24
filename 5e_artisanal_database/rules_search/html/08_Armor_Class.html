@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Armor Class - 5.2 SRD</title>
 </head>
@@ -11,5 +17,6 @@
 <h4 id="armorclass">Armor Class</h4>
 <p>An Armor Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.</p>
 <p>Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you another base AC calculation, you choose which calculation to use; you can't use more than one. <em>See also</em> "Attack Roll."</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

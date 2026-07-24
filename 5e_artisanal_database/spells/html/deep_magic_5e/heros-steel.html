@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Hero's Steel</title>
@@ -21,5 +28,6 @@
 </ul>
 <p>You infuse the metal of a melee weapon you touch with the fearsome aura of a mighty hero. The weapon’s wielder has advantage on Charisma (Intimidation) checks made while aggressively brandishing the weapon. In addition, an opponent that currently has 30 or fewer hit points and is struck by the weapon must make a successful Charisma saving throw or be stunned for 1 round. If the creature has more than 30 hit points but fewer than the weapon’s wielder currently has, it becomes frightened instead; a frightened creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a successful save. A creature that succeeds on the saving throw is immune to castings of this spell on the same weapon for 24 hours.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/heros-steel.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Phantom Steed</title>
@@ -23,5 +30,6 @@
 <p>You or any creature you allow may ride the steed, which uses the statistics for a riding horse but has a Speed of 100 feet and travels at 10 miles per hour at a steady pace (13 miles per hour at a fast pace).</p>
 <p>The steed vanishes if it takes damage (disappearing instantly) or you use an action to dismiss it (fading away, giving the rider 1 minute to dismount).</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/phantom-steed-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

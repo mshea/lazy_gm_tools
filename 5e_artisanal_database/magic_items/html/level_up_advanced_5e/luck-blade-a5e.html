@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Luck Blade</title>
@@ -19,5 +26,6 @@
 <p>You gain a +1 bonus to attack and damage rolls made with this magic sword. While you are attuned to the sword and holding it, you gain a +1 bonus to <em>saving throws</em> . In addition, it has the following properties:</p>
 <p><strong>Luck.</strong> Once per dawn, while the sword is on your person you may reroll one ability check, attack roll, or <em>saving throw</em> . You must use the new roll.</p>
 <p><strong>Wish.</strong> Once per dawn, while holding the weapon you can use an action to expend 1 charge and cast <em>wish</em> . The weapon has 1d4 – 1 charges and loses this property when there are no charges left.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/luck-blade-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

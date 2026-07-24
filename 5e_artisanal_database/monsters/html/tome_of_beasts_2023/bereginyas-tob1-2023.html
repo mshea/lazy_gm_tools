@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Bereginyas</title>
@@ -58,5 +65,6 @@
 <li><strong>Smother:</strong> While attached to a creature that isn't a Construct or Undead, the bereginyas extends a tendril of poisonous gas down the creature's throat. The creature must make a DC 14 Constitution saving throw. On a failure, it takes 22 (5d8) poison damage, immediately runs out of breath, and begins suffocating. On a success, it takes half the damage, doesn't run out of breath, and isn't suffocating. Suffocation ends if the creature dies, if the bereginyas is removed from the creature, or if the bereginyas is killed. A suffocating creature that fails this saving throw reduces its remaining rounds of breath by 1.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2023/bereginyas-tob1-2023.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

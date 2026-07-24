@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Tracer</title>
@@ -22,5 +29,6 @@
 <p>When you cast this spell and as a bonus action on each of your turns until the spell ends, you can imbue a piece of ammunition you fire from a ranged weapon with a tiny, invisible beacon. If a ranged attack roll with an imbued piece of ammunition hits a target, the beacon is transferred to the target. The weapon that fired the ammunition is attuned to the beacon and becomes warm to the touch when it points in the direction of the target as long as the target is on the same plane of existence as you. You can have only one <em>tracer</em> target at a time. If you put a <em>tracer</em> on a different target, the effect on the previous target ends.
   A creature must succeed on an Intelligence (Arcana) check against your spell save DC to notice the magical beacon.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/tracer.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

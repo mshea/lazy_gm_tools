@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Mind Exchange</title>
@@ -23,5 +30,6 @@
 <p>The exchange lasts until either of the the two bodies drops to 0 hit points, until you end it as a bonus action, or until you are forced out of the target body by an effect such as a dispel magic or dispel evil and good spell (the latter spell defeats <strong>mind exchange</strong> even though possession by a humanoid isn’t usually affected by that spell). When the effect of this spell ends, both switched minds return to their original bodies. The target of the spell is immune to mind exchange for 24 hours after succeeding on the saving throw or after the exchange ends.</p>
 <p>The effects of the exchange can be made permanent with a wish spell or comparable magic.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/mind-exchange.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

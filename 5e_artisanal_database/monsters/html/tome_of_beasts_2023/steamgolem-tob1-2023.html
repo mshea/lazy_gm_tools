@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Steam Golem</title>
@@ -66,5 +73,6 @@
 <li><strong>Whistle (Recharge 4-6):</strong> When a creature the steam golem can see within 30 feet of it casts a spell, the steam golem emits a shriek from its twin steam whistles. The spellcaster must succeed on a DC 17 Constitution saving throw or the spell fails and has no effect.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2023/steamgolem-tob1-2023.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

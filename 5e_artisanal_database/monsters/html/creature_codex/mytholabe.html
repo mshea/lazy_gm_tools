@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Mytholabe</title>
@@ -65,5 +72,6 @@
 <li><strong>Purifying Resonance (Recharge 5-6):</strong> The mytholabe thrums with a harmonic resonance that brings order to those within 30 feet. Each creature in that area must succeed on a DC 16 Constitution saving throw or have all conditions and magical effects on it ended immediately and any concentration it's maintaining broken.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/creature_codex/mytholabe.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

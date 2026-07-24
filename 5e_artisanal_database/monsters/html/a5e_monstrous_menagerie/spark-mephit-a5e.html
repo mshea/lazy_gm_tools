@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Spark Mephit</title>
@@ -58,5 +65,6 @@
 <li><strong>Faerie Flame (1/Day):</strong> Each creature within 10 feet of the mephit makes a DC 11 Dexterity saving throw. On a failure  the creature is magically outlined in blue light for 1 minute. While outlined  the creature gains no benefit from being invisible and attack rolls against it are made with advantage.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/a5e_monstrous_menagerie/spark-mephit-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

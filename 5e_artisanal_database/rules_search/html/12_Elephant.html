@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Elephant - 5.2 SRD</title>
 </head>
@@ -73,5 +79,6 @@
 <p><strong><em>Gore.</em></strong> <em>Melee Attack Roll:</em> +8, reach 5 ft. 15 (2d8 + 6) Piercing damage. If the target is a Huge or smaller creature and the elephant moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.</p>
 <h3 id="bonusactions">Bonus Actions</h3>
 <p><strong><em>Trample.</em></strong> <em>Dexterity Saving Throw</em>: DC 16, one creature within 5 feet that has the Prone condition. <em>Failure:</em>  17 (2d10 + 6) Bludgeoning damage. <em>Success:</em>  Half damage.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

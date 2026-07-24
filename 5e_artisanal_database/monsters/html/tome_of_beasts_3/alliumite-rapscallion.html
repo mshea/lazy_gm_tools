@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Alliumite, Rapscallion</title>
@@ -62,5 +69,6 @@
 <li><strong>Pungent Retort:</strong> When a creature rapscallion can see within 60' of it starts its turn or casts a spell rapscallion issues forth a string of insults cleverly crafted to make a foe cry. If it can hear the rapscallion target: DC 14 Wis save or sob uncontrollably until start of rapscallion's next turn. A sobbing creature has disadvantage on ability checks and attack rolls and must make DC 14 Con save to cast a spell that requires spellcaster to see its target. Spellcaster doesn't lose the spell slot on a failure.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_3/alliumite-rapscallion.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

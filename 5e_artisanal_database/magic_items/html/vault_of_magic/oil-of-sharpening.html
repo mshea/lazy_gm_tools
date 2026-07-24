@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Oil of Sharpening</title>
@@ -17,5 +24,6 @@
 <li><strong>Source:</strong> Vault of Magic</li>
 </ul>
 <p>You can apply this fine, silvery oil to one piercing or slashing weapon or up to 5 pieces of piercing or slashing ammunition. Applying the oil takes 1 minute. For 1 hour, any attack with the coated item scores a critical hit on a roll of 19 or 20.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/oil-of-sharpening.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

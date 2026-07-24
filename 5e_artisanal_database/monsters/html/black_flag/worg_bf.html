@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Worg</title>
@@ -61,5 +68,6 @@
 <li><strong>Loathsome Howl (1/Day):</strong> The worg unleashes an unnatural howl audible out to a distance of 300 feet. Each creature of the worg's choice within 30 feet of it must succeed on a DC 13 CHA save or be frightened of it for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Until it finishes a long rest, the worg can sense the direction but not the exact location of each creature that was frightened by Loathsome Howl.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/worg_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

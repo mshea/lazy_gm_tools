@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Inspiring Pahu</title>
@@ -20,5 +27,6 @@
 <p>This drum has 2 charges and regains 1 charge each dawn. You can use a bonus action to play it and expend 1 charge, focusing its energies on a living creature that has 0 hit points and that you can see within 20 feet. Until the start of your next turn, the creature has <em>advantage</em>  on death <em>saving throws</em> .</p>
 <p>Alternatively, you can use an action to play it and expend 2 charges. Each creature within 30 feet of you that hears you play makes a DC 20 Constitution <em>saving throw</em> . On a success, a creature gains inspiration. </p>
 <p>If you expend the last charge, roll a d20. On a result of 5 or less, the sharkskin membrane covering the drum breaks and it becomes a mundane item.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/inspiring-pahu-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

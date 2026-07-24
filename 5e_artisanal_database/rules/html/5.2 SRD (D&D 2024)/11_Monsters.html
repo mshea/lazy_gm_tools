@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Monsters</title>
 </head>
@@ -369,5 +376,6 @@
 <li><strong>Recharge X–Y.</strong> This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll 1d6. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a Short or Long Rest. For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on 1d6.</li>
 <li><strong>Recharge after a Short or Long Rest.</strong> This notation means the monster can use the stat block part once and must then finish a Short or Long Rest to use it again.</li>
 </ul>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

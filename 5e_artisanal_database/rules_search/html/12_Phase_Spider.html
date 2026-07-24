@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Phase Spider - 5.2 SRD</title>
 </head>
@@ -78,5 +84,6 @@
 <p><strong><em>Bite.</em></strong> <em>Melee Attack Roll:</em> +5, reach 5 ft. 8 (1d10 + 3) Piercing damage plus 9 (2d8) Poison damage. If this damage reduces the target to 0 Hit Points, the target becomes Stable, and it has the Poisoned condition for 1 hour. While Poisoned, the target also has the Paralyzed condition.</p>
 <h3 id="bonusactions">Bonus Actions</h3>
 <p><strong><em>Ethereal Jaunt.</em></strong> The spider teleports from the Material Plane to the Ethereal Plane or vice versa.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

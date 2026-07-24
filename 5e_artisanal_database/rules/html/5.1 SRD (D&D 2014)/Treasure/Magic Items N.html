@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Magic Items (N)</title>
 </head>
@@ -73,5 +80,6 @@
 <p><em>Weapon (any sword), very rare (requires attunement)</em></p>
 <p>You gain a +2 bonus to attack and damage rolls made with this magic weapon.</p>
 <p>The sword has 1d8+1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

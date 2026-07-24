@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Mordant Snare</title>
@@ -62,5 +69,6 @@
 <li><strong>Hidden Trap:</strong> While underground, the mordant snare covers itself in dirt, sand, or other material and lurks just below the surface. The mordant snare is indistinguishable from the ground around it while motionless and covered in this way. When a creature enters the mordant snare's space, the snare can make one Tentacle attack against the creature as a reaction, removing the covering material.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2023/mordantsnare-tob1-2023.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Rat King</title>
@@ -64,5 +71,6 @@
 <li><strong>Absorption:</strong> When a friendly rat, giant rat, or swarm of rats starts its turn within 5 feet of the rat king, the rat king can absorb it. If the rat king does so, the target dies, and the rat king gains temporary hp equal to the target's remaining hp.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2023/ratking-tob1-2023.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

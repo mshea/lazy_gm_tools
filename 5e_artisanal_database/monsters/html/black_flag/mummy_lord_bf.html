@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Mummy Lord</title>
@@ -80,5 +87,6 @@
 <li><strong>Unleash Divine Energy (Costs 2 Actions):</strong> The mummy lord unleashes a wave of divine energy. Each creature within 10 feet of it must make a DC 17 CON save. On a failure, a creature takes 14 (4d6) necrotic damage or radiant damage (the mummy lord's choice) and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn't stunned.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/mummy_lord_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

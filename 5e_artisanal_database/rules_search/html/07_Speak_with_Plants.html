@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Speak with Plants - 5.2 SRD</title>
 </head>
@@ -18,5 +24,6 @@
 <p>You can also turn Difficult Terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into Difficult Terrain that lasts for the duration.</p>
 <p>The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.</p>
 <p>If a Plant creature is in the area, you can communicate with it as if you shared a common language.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

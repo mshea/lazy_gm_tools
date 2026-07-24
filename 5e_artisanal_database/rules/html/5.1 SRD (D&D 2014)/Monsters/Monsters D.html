@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Monsters (D)</title>
 </head>
@@ -2855,5 +2862,6 @@
 <p><strong><em>War Pick</em></strong>. <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d8+2) piercing damage, or 11 (2d8+2) piercing damage while enlarged.</p>
 <p><strong><em>Javelin</em></strong>. <em>Melee or Ranged Weapon Attack:</em> +4 to hit, reach 5 ft. or range 30/120 ft., one target. <em>Hit:</em> 5 (1d6+2) piercing damage, or 9 (2d6+2) piercing damage while enlarged.</p>
 <p><strong><em>Invisibility (Recharges after a Short or Long Rest)</em></strong>. The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

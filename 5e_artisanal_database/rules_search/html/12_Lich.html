@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Lich - 5.2 SRD</title>
 </head>
@@ -92,5 +98,6 @@
 <p><strong><em>Deathly Teleport.</em></strong> The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.</p>
 <p><strong><em>Disrupt Life.</em></strong> <em>Constitution Saving Throw</em>: DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. <em>Failure:</em>  31 (9d6) Necrotic damage. <em>Success:</em>  Half damage. <em>Failure or Success</em>:  The lich can't take this action again until the start of its next turn.</p>
 <p><strong><em>Frightening Gaze.</em></strong> The lich casts <em>Fear</em>, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Spike Growth</title>
@@ -22,5 +29,6 @@
 <p>You cause sharp spikes and thorns to sprout in the area, making it difficult terrain. When a creature enters or moves within the area, it takes 2d4 piercing damage for every 5 feet it travels.</p>
 <p>Your magic causes the ground to look natural. A creature that can't see the area when the spell is cast can spot the hazardous terrain just before entering it by making a Perception check against your spell save DC.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/spike-growth-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

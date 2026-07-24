@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Incinis</title>
@@ -58,5 +65,6 @@
 <li><strong>Wave of Magma (Recharge 5-6):</strong> The incinis transforms into a wave of magma, moving up to its speed in a straight line. Each creature in the path where the incinis moves must make a DC 17 Dexterity saving throw. On a failure, a target takes 21 (6d6) fire damage and, if it is a Large or smaller creature, it is pushed ahead of the incinis and knocked prone in an unoccupied space within 5 feet of where the incinis ends its movement. On a success, a target takes half the damage and is neither pushed nor knocked prone.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/creature_codex/incinis.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

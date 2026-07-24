@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Fire Giant</title>
@@ -65,5 +72,6 @@
 <li><strong>Pyroclastic Surge:</strong> A burst of volcanic gas and rock fragments flows in a 60-foot-line that is 5 feet wide from the fire giant's outstretched hand. Each creature in the line must succeed on a DC 16 DEX save or be poisoned until the end of its next turn and pushed up to 15 feet away from the giant. A creature that fails the save by 5 or more is petrified in volcanic ash for 1 hour or until a creature spends 1 minute soaking the petrified creature in cool water.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/fire_giant_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

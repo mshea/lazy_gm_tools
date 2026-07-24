@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Fire Giant - 5.2 SRD</title>
 </head>
@@ -75,5 +81,6 @@
 <p><strong><em>Multiattack.</em></strong> The giant makes two attacks, using Flame Sword or Hammer Throw in any combination.</p>
 <p><strong><em>Flame Sword.</em></strong> <em>Melee Attack Roll:</em> +11, reach 10 ft. 21 (4d6 + 7) Slashing damage plus 10 (3d6) Fire damage.</p>
 <p><strong><em>Hammer Throw.</em></strong> <em>Ranged Attack Roll:</em> +11, range 60/240 ft. 23 (3d10 + 7) Bludgeoning damage plus 4 (1d8) Fire damage, and the target is pushed up to 15 feet straight away from the giant and has Disadvantage on the next attack roll it makes before the end of its next turn.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Green Dragon Wyrmling - 5.2 SRD</title>
 </head>
@@ -77,5 +83,6 @@
 <p><strong><em>Multiattack.</em></strong> The dragon makes two Rend attacks.</p>
 <p><strong><em>Rend.</em></strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. 7 (1d10 + 2) Slashing damage plus 3 (1d6) Poison damage.</p>
 <p><strong><em>Poison Breath (Recharge 5-6).</em></strong> <em>Constitution Saving Throw</em>: DC 11, each creature in a 15-foot Cone. <em>Failure:</em>  21 (6d6) Poison damage. <em>Success:</em>  Half damage.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

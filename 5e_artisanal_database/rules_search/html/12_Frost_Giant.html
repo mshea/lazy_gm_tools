@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Frost Giant - 5.2 SRD</title>
 </head>
@@ -77,5 +83,6 @@
 <p><strong><em>Great Bow.</em></strong> <em>Ranged Attack Roll:</em> +9, range 150/600 ft. 17 (2d10 + 6) Piercing damage plus 7 (2d6) Cold damage, and the target's Speed decreases by 10 feet until the end of its next turn.</p>
 <h3 id="bonusactions">Bonus Actions</h3>
 <p><strong><em>War Cry (Recharge 5-6).</em></strong> The giant or one creature of its choice that can see or hear it gains 16 (2d10 + 5) Temporary Hit Points and has Advantage on attack rolls until the start of the giant's next turn.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

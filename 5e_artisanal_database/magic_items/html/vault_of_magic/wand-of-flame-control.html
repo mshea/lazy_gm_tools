@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Wand of Flame Control</title>
@@ -19,5 +26,6 @@
 <p>This wand is fashioned from a branch of pine, stripped of bark and beaded with hardened resin. The wand has 3 charges. If you use the wand as an arcane focus while casting a spell that deals fire damage, you can expend 1 charge as part of casting the spell to increase the spell's damage by 1d4. In addition, while holding the wand, you can use an action to expend 1 of its charges to cause one of the following effects: - Change the color of any flames within 30 feet.
 - Cause a single flame to burn lower, halving the range of light it sheds but burning twice as long.
 - Cause a single flame to burn brighter, doubling the range of the light it sheds but halving its duration. The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a 1d20. On a 1, the wand bursts into flames and burns to ash in seconds.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/wand-of-flame-control.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

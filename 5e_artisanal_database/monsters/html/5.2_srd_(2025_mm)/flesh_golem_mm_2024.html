@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Flesh Golem</title>
@@ -83,5 +90,6 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 <p><strong><em>Multiattack.</em></strong> The golem makes two Slam attacks.</p>
 <p><strong><em>Slam.</em></strong> <em>Melee Attack Roll:</em> +7, reach 5 ft. 13 (2d8 + 4) Bludgeoning damage plus 4 (1d8) Lightning damage.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/5.2_srd_(2025_mm)/flesh_golem_mm_2024.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

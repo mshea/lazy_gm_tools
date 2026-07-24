@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Converse With Dragon</title>
@@ -22,5 +29,6 @@
 <p>You gain limited telepathy, allowing you to communicate with any creature within 120 feet of you that has the dragon type, regardless of the creature’s languages. A dragon can choose to make a Charisma saving throw to prevent telepathic contact with itself.</p>
 <p>This spell doesn’t change a dragon’s disposition toward you or your allies, it only opens a channel of communication. In some cases, unwanted telepathic contact can worsen the dragon’s attitude toward you.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/converse-with-dragon.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

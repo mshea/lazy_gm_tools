@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Expeditious Retreat</title>
@@ -22,5 +29,6 @@
 <p>Until the spell ends, you're able to move with incredible speed. When you cast the spell and as a bonus action on subsequent turns, you can take the Dash action.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> Your Speed increases by 10 feet for each slot level above 1st.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/expeditious-retreat-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

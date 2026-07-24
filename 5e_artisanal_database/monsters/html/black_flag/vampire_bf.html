@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Vampire</title>
@@ -85,5 +92,6 @@
 <li><strong>Excessive Bleeding (Costs 2 Actions):</strong> Each creature within 15 feet of the vampire that doesn't have all its HP must succeed on a DC 17 CON save or lose 14 (4d6) HP as its wounds bleed profusely. Before the end of its next turn, the vampire has advantage on the next attack roll it makes against a creature that failed this save.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/vampire_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

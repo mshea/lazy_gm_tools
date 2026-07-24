@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Shifting Shirt</title>
@@ -17,5 +24,6 @@
 <li><strong>Source:</strong> Vault of Magic</li>
 </ul>
 <p>This nondescript, smock-like garment changes its appearance on command. While wearing this shirt, you can use a bonus action to speak the shirt's command word and cause it to assume the appearance of a different set of clothing. You decide what it looks like, including color, style, and accessories—from filthy beggar's clothes to glittering court attire. The illusory appearance lasts until you use this property again or remove the shirt.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/shifting-shirt.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

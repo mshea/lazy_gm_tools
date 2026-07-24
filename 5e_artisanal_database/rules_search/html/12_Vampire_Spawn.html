@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Vampire Spawn - 5.2 SRD</title>
 </head>
@@ -86,5 +92,6 @@
 <p><strong><em>Bite.</em></strong> <em>Constitution Saving Throw</em>: DC 14, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. <em>Failure:</em>  5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount.</p>
 <h3 id="bonusactions">Bonus Actions</h3>
 <p><strong><em>Deathless Agility.</em></strong> The vampire takes the Dash or Disengage action.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

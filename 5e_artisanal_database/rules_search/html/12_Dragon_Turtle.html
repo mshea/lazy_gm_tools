@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Dragon Turtle - 5.2 SRD</title>
 </head>
@@ -77,5 +83,6 @@
 <p><strong><em>Bite.</em></strong> <em>Melee Attack Roll:</em> +13, reach 15 ft. 23 (3d10 + 7) Piercing damage plus 7 (2d6) Fire damage. Being underwater doesn't grant Resistance to this Fire damage.</p>
 <p><strong><em>Tail.</em></strong> <em>Melee Attack Roll:</em> +13, reach 15 ft. 18 (2d10 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.</p>
 <p><strong><em>Steam Breath (Recharge 5-6).</em></strong> <em>Constitution Saving Throw</em>: DC 19, each creature in a 60-foot Cone. <em>Failure:</em>  56 (16d6) Fire damage. <em>Success:</em>  Half damage. <em>Failure or Success</em>:  Being underwater doesn't grant Resistance to this Fire damage.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

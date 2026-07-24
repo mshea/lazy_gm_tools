@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Character Creation & Leveling</title>
 </head>
@@ -594,5 +601,6 @@
 </table>
 <p>If you have more than one spellcasting class, this table might give you spell slots of a circle that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-circle spells. If a lower-circle spell that you cast, like burning hands, has an enhanced effect when cast using a higher-circle slot, you can use the enhanced effect, even though you don't have spells of that higher circle.</p>
 <p>For example, if you are a 4th-level ranger and 3rd level wizard, you count as a 5th-level character when determining your spell slots: you have four 1st-circle slots, three 2nd-circle slots, and two 3rd-circle slots. However, you don't know any 3rd-circle spells, nor do you know any 2nd-circle Primordial spells. You can use the spell slots of those circles to cast the spells you do know and potentially enhance their effects.</p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

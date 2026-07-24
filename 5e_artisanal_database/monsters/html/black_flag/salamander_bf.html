@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Salamander</title>
@@ -66,5 +73,6 @@
 <li><strong>Tighten Grip:</strong> The salamander tightens its grip around one creature it is grappling. Until the start of the salamander's next turn, the target has disadvantage on any check made to escape the grapple, and other than a successful check to escape the grapple, the target can't be moved, knocked prone, or otherwise removed from the salamander's grasp without the salamander's permission.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/salamander_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Retribution Armor</title>
@@ -20,5 +27,6 @@
 - You have darkvision out to a range of 60 feet.
 - You have advantage on saving throws against effects that turn undead.
 - You can use an action to sense the direction of your killer. This works like the locate creature spell, except you can sense only the creature that killed you. You rise as an undead only if your death was caused with intent; accidental deaths or deaths from unintended consequences (such as dying from a disease unintentionally passed to you) don't activate this property of the armor. You exist in this deathly state for up to 1 week per Hit Die or until you exact revenge on your killer, at which time your body crumbles to ash and you finally die. You can be restored to life only by means of a true resurrection or wish spell.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/retribution-armor.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Tiefling</title>
 </head>
@@ -22,5 +29,6 @@
 <p><strong><em>Hellish Resistance</em></strong>. You have resistance to fire damage.</p>
 <p><strong><em>Infernal Legacy</em></strong>. You know the <em>thaumaturgy</em> cantrip. When you reach 3rd level, you can cast the <em>hellish rebuke</em> spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the <em>darkness</em> spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
 <p><strong><em>Languages</em></strong>. You can speak, read, and write Common and Infernal.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

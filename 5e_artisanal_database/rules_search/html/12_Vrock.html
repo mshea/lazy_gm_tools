@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Vrock - 5.2 SRD</title>
 </head>
@@ -79,5 +85,6 @@
 <p><strong><em>Shred.</em></strong> <em>Melee Attack Roll:</em> +6, reach 5 ft. 10 (2d6 + 3) Piercing damage plus 10 (3d6) Poison damage.</p>
 <p><strong><em>Spores (Recharge 6).</em></strong> <em>Constitution Saving Throw</em>: DC 15, each creature in a 20-foot Emanation originating from the vrock. <em>Failure:</em>  The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. While Poisoned, the target takes 5 (1d10) Poison damage at the start of each of its turns. Emptying a flask of Holy Water on the target ends the effect early.</p>
 <p><strong><em>Stunning Screech (1/Day).</em></strong> <em>Constitution Saving Throw</em>: DC 15, each creature in a 20-foot Emanation originating from the vrock (demons succeed automatically). <em>Failure:</em>  10 (3d6) Thunder damage, and the target has the Stunned condition until the end of the vrock's next turn.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

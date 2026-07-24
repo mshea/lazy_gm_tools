@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Warding Bond</title>
@@ -23,5 +30,6 @@
 <p>The spell ends if you are reduced to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if you use an action to dismiss it, or if the spell is cast again on either you or the target.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> The duration increases by 1 hour for each slot level above 2nd.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/warding-bond-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

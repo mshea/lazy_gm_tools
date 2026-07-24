@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Potion of Invisibility - 5.2 SRD</title>
 </head>
@@ -11,5 +17,6 @@
 <h4 id="potionofinvisibility">Potion of Invisibility</h4>
 <p><em>Potion, Rare</em></p>
 <p>This potion's container looks empty but feels as though it holds liquid. When you drink the potion, you have the Invisible condition for 1 hour. The effect ends early if you make an attack roll, deal damage, or cast a spell.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

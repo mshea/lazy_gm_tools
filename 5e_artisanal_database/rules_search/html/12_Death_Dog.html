@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Death Dog - 5.2 SRD</title>
 </head>
@@ -73,5 +79,6 @@
 <h3 id="actions">Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The death dog makes two Bite attacks.</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. 4 (1d4 + 2) Piercing damage. If the target is a creature, it is subjected to the following effect. <em>Constitution Saving Throw</em>: DC 12. <em>First Failure</em> The target has the Poisoned condition. While Poisoned, the target's Hit Point maximum doesn't return to normal when finishing a Long Rest, and it repeats the save every 24 hours that elapse, ending the effect on itself on a success. Subsequent Failures: The Poisoned target's Hit Point maximum decreases by 5 (1d10).</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

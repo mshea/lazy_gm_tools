@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Shovel (2 GP) - 5.2 SRD</title>
 </head>
@@ -12,5 +18,6 @@
 <p>Working for 1 hour, you can use a Shovel to dig a hole that is 5 feet on each side in soil or similar material.</p>
 <hr />
 <p><em>Source: 5.2 SRD (D&D 2024) - Adventuring Gear</em></p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

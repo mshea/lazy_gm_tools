@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Conjure Voidborn</title>
@@ -24,5 +31,6 @@
 <p>If your concentration is broken, the spell ends but the creature doesn’t disappear. Instead, you can no longer issue commands to the fiend, and it becomes hostile to you and your companions. It will attack you and your allies if it believes it has a chance to win the fight or to inflict meaningful harm, but it won’t fight if it fears doing so would mean its own death. You can’t dismiss the creature, but it disappears 1 hour after you summoned it.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 8th level or higher, the challenge rating increases by 1 for each slot level above 7th.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/conjure-voidborn.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Arcane Lock</title>
@@ -22,5 +29,6 @@
 <p>The target is sealed to all creatures except those you designate (who can open the object normally). Alternatively, you may choose a password that suppresses this spell for 1 minute when it is spoken within 5 feet of the target. The spell can also be suppressed for 10 minutes by casting <em>knock</em> on the target. Otherwise, the target cannot be opened normally and it is more difficult to break or force open, increasing the DC to break it or pick any locks on it by 10 (minimum DC 20).</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> Increase the DC to force open the object or pick any locks on the object by an additional 2 for each slot level above 2nd. Only a knock spell cast at a slot level equal to or greater than your arcane lock suppresses it.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/arcane-lock-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

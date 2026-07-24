@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Evercold</title>
@@ -22,5 +29,6 @@
 <p>You target a creature within the spell’s range, and that creature must make a successful Wisdom saving throw or take 1d6 cold damage. In addition, the target is cursed to feel as if it’s exposed to extreme cold. For the duration of <strong>evercold</strong>, the target must make a successful DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. The target has advantage on the hourly saving throws if wearing suitable cold-weather clothing, but it has disadvantage on saving throws against other spells and magic that deal cold damage (regardless of its clothing) for the spell’s duration.</p>
 <p>The spell can be ended by its caster or by dispel magic or remove curse.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/evercold.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

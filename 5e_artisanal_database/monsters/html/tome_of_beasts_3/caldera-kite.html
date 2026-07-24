@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Caldera Kite</title>
@@ -60,5 +67,6 @@
 <li><strong>Dust Cloud (Recharge 4-6):</strong> Kite thrashes its body and releases stored toxic gases. Each creature within 20' of kite: 28 (8d6) poison (DC 14 Con half). Creature that fails save can't speak and is suffocating until it is no longer within 20' of caldera kite.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_3/caldera-kite.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

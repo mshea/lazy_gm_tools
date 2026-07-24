@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Wand of the War Mage 1 2 or 3 - 5.2 SRD</title>
 </head>
@@ -11,5 +17,6 @@
 <h4 id="wandofthewarmage12or3">Wand of the War Mage, +1, +2, or +3</h4>
 <p><em>Wand, Uncommon (+1), Rare (+2), or Very Rare (+3) (Requires Attunement by a Spellcaster)</em></p>
 <p>While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore Half Cover when making a spell attack roll.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

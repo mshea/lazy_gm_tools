@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Brown Bear - 5.2 SRD</title>
 </head>
@@ -73,5 +79,6 @@
 <p><strong><em>Multiattack.</em></strong> The bear makes one Bite attack and one Claw attack.</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Attack Roll:</em> +5, reach 5 ft. 7 (1d8 + 3) Piercing damage.</p>
 <p><strong><em>Claw.</em></strong> <em>Melee Attack Roll:</em> +5, reach 5 ft. 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

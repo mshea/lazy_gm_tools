@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Fear and Mental Stress - 5.2 SRD</title>
 </head>
@@ -78,5 +84,6 @@
 <p><strong><em>Short-Term Effects.</em></strong> The character has the Frightened, Incapacitated, or Stunned condition for 1d10 minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the <em>Calm Emotions</em> spell or removed by the <em>Lesser Restoration</em> spell.</p>
 <p><strong><em>Long-Term Effects.</em></strong> The character has Disadvantage on some or all ability checks for 1d10 × 10 hours, stemming from an unwillingness or inability to exert a particular set of abilities. The character might feel enervated and unable to exert much Strength, for example, or become so suspicious of others that Charisma checks are more difficult. These effects can be suppressed with the <em>Calm Emotions</em> spell or removed by the <em>Lesser Restoration</em> spell.</p>
 <p><strong><em>Indefinite Effects.</em></strong> An indefinite effect is a longterm effect (see above) that lasts until removed by a <em>Greater Restoration</em> spell. It can be suppressed by a <em>Calm Emotions</em> spell.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Elemental Twist</title>
@@ -21,5 +28,6 @@
 </ul>
 <p>During this spell’s duration, reality shifts around you whenever you cast a spell that deals acid, cold, fire, lightning, poison, or thunder damage. Assign each damage type a number and roll a d6 to determine the type of damage this casting of the spell deals. In addition, the spell’s damage increases by 1d6. All other properties or effects of the spell are unchanged.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/elemental-twist.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

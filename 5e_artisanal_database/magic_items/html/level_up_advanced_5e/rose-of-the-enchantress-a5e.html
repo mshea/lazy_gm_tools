@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Rose of the Enchantress</title>
@@ -19,5 +26,6 @@
 <p>While you are <em>concentrating</em>  on a spell of 3rd-level or lower and attuned to this item, you can use a bonus action to activate it. Once activated, the rose maintains concentration on the spell for you for the duration or until you use another bonus action to stop the rose’s concentration. </p>
 <p>The rose has 10 petals. When it is activated, a number of petals drop from the rose equal to the level of the spell it is concentrating on. At the end of each minute the spell continues, an equal number of petals drop from the rose. When its last petal falls the rose wilts and its magic is lost.</p>
 <p>Alternatively, if the rose is thrown against the ground, the magic inside of it implodes and frays magical energies in a 15-foot radius (as the __dispel magic_ spell, gaining a bonus to any spellcasting ability checks equal to its number of petals).</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/rose-of-the-enchantress-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

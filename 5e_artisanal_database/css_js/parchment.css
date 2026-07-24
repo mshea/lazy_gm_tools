@@ -1,0 +1,92 @@
+/* Parchment Theme for 5e Artisanal Database
+   Add [data-theme="parchment"] to html element to activate.
+   Gives a warm, paper-like feel for an old-world RPG aesthetic.
+*/
+[data-theme="parchment"] {
+    /* Background colors */
+    --bg-body: #f4e4c1;
+    --bg-surface: #ead5a6;
+    --bg-surface-alt: #e0c98e;
+    --bg-input: #faf0dc;
+    --bg-button: #ead5a6;
+    --bg-button-hover: #e0c98e;
+    --bg-button-secondary: #8b6914;
+    --bg-button-secondary-hover: #a07918;
+    --bg-table-header: #ead5a6;
+    --bg-filter-container: #ead5a6;
+    --bg-filter-header-hover: #e0c98e;
+    --bg-filter-item: #faf0dc;
+    --bg-filter-item-hover: #ead5a6;
+    --bg-filter-count: #ead5a6;
+    --bg-dropdown: #faf0dc;
+    --bg-dropdown-hover: #ead5a6;
+    --bg-dropdown-selected: #d4b87a;
+    --bg-current-turn: #d4b87a;
+    --bg-ability-card: #ead5a6;
+    --bg-controls: #ead5a6;
+    --bg-results: #ead5a6;
+    --bg-remove-btn: #8b4513;
+    --bg-remove-btn-hover: #a0522d;
+    --bg-remove-btn-alt: #8b4513;
+    --bg-remove-btn-alt-hover: #a0522d;
+    --bg-search-btn: #ead5a6;
+    --bg-search-btn-hover: #e0c98e;
+    --bg-ability-btn: #8b6914;
+    --bg-ability-btn-hover: #a07918;
+    --bg-ability-btn-disabled: #c0b080;
+    --bg-add-btn: #8b6914;
+    --bg-add-btn-hover: #a07918;
+    --bg-reset-btn: #8b6914;
+    --bg-reset-btn-hover: #a07918;
+    --bg-dice: #ead5a6;
+    --bg-dice-hover: #e0c98e;
+    --bg-history: #faf0dc;
+
+    /* Text colors */
+    --text-body: #3e2723;
+    --text-heading: #3e2723;
+    --text-muted: #6d4c41;
+    --text-link: #5d4037;
+    --text-link-hover: #3e2723;
+    --text-button: #3e2723;
+    --text-button-hover: #1a0f0a;
+    --text-button-secondary: #faf0dc;
+    --text-filter-section: #5d4037;
+    --text-label: #3e2723;
+    --text-input: #3e2723;
+    --text-placeholder: #8d6e63;
+
+    /* Border colors */
+    --border-color: #bcaaa4;
+    --border-color-light: #d7ccc8;
+    --border-color-strong: #5d4037;
+    --border-color-input: #bcaaa4;
+    --border-color-input-focus: #8b6914;
+    --border-color-button: #bcaaa4;
+    --border-color-search-btn: #bcaaa4;
+    --border-color-table: #8d6e63;
+    --border-color-result: #d7ccc8;
+    --border-color-section: #bcaaa4;
+    --border-color-ability: #bcaaa4;
+    --border-color-ability-score: #8b6914;
+    --border-color-controls: #bcaaa4;
+    --border-color-dice: #8d6e63;
+
+    /* Accent / highlight */
+    --highlight-bg: #fff3cd;
+    --highlight-text: #3e2723;
+
+    /* Difficulty colors */
+    --difficulty-easy: #2e7d32;
+    --difficulty-medium: #e65100;
+    --difficulty-hard: #b71c1c;
+    --difficulty-deadly: #4a0000;
+    --difficulty-warning: #827717;
+
+    /* Fonts - serif for old-world feel */
+    --font-body: 'Georgia', 'Palatino', 'Book Antiqua', serif;
+    --font-heading: 'Georgia', 'Palatino', 'Book Antiqua', serif;
+
+    /* Texture */
+    --bg-texture: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4b87a' fill-opacity='0.06'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}

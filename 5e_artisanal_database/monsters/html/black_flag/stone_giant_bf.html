@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Stone Giant</title>
@@ -68,5 +75,6 @@
 <li><strong>Missile Deflection:</strong> If a creature the giant can see makes a ranged weapon attack against the giant, the giant can add 3 to its AC. If the attack misses, the giant can catch the missile, provided the attack included a projectile, and throw it back at the attacker, using the giant's normal ranged weapon attack bonus and the weapon's normal damage.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/stone_giant_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Mbielu</title>
@@ -57,5 +64,6 @@
 <li><strong>Rumbling Bellow (Recharge 5-6):</strong> The mbielu releases a deep bellow that vibrates within the bodies of those nearby. Each creature within 15 feet of the mbielu must make a DC 13 Constitution saving throw, taking 18 (4d8) thunder damage on a failed save, or half as much damage on a successful one. If a creature poisoned by the mbielu's Toxic Skin fails this saving throw, it is also incapacitated until the end of its next turn as the combined vibrations and hallucinations disorient it.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2023/mbielu-tob1-2023.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

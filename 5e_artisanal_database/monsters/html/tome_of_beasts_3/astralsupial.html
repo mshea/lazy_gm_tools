@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Astralsupial</title>
@@ -65,5 +72,6 @@
 <li><strong>Playing Dead:</strong> When reduced to 10 hp or less it feigns death in hopes of deceiving its attackers. A creature that sees it in this state can determine it is a ruse via DC 15 Wis (Medicine) check. Ruse lasts until astralsupial ends it (no action required) up to 8 hrs. 1st attack it makes within 1 round of ending ruse has advantage.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_3/astralsupial.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

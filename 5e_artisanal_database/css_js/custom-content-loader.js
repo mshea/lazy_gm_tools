@@ -69,12 +69,7 @@ function initializeCustomContentLoader(contentType) {
 function getAvailableContent() {
   const config = CONTENT_TYPES[currentContentType];
   
-  let dataVariable = window[config.dataVariable];
-  
-  // Try global scope if not in window
-  if (!dataVariable) {
-    dataVariable = eval(config.dataVariable);
-  }
+  const dataVariable = window[config.dataVariable];
   
   
   if (dataVariable) {

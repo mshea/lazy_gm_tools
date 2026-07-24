@@ -4,10 +4,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 
 <title>Spells</title>
 <link rel="stylesheet" type="text/css" href="../css_js/jquery.dataTables.css">
 <link rel="stylesheet" type="text/css" href="../css_js/filter-datatables.css">
+<link rel="stylesheet" type="text/css" href="../css_js/5eadb.css">
 <script type="text/javascript" charset="utf8" src="../css_js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" charset="utf8" src="../css_js/jquery.dataTables.js"></script>
 <script type="text/javascript" src="../css_js/spells_data.js"></script>
@@ -140,5 +148,6 @@ $(document).ready(function() {
 });
 </script>
 
+<script src="../css_js/theme-switcher.js"></script>
 </body>
 </html>

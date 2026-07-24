@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Monsters (E)</title>
 </head>
@@ -284,5 +291,6 @@
 <p><strong><em>Multiattack</em></strong>. The ettin makes two attacks: one with its battleaxe and one with its morningstar.</p>
 <p><strong><em>Battleaxe</em></strong>. <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d8+5) slashing damage.</p>
 <p><strong><em>Morningstar</em></strong>. <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d8+5) piercing damage.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

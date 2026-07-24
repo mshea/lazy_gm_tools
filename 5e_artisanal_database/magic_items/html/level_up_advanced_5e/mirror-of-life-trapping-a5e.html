@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Mirror of Life Trapping</title>
@@ -26,5 +33,6 @@
 <li>A trapped creature can be freed by using an action to speak a different command word. The creature appears in an unoccupied space near the mirror and facing away from it.</li>
 </ul>
 <p>When the mirror (AC 11, 10 hit points, vulnerability to bludgeoning damage) is reduced to 0 hit points it shatters, freeing all trapped creatures. The creatures appear in unoccupied spaces nearby.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/mirror-of-life-trapping-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

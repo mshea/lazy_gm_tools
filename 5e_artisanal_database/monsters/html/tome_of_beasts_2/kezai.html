@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Kezai</title>
@@ -56,5 +63,6 @@
 <li><strong>Searing Acid (Recharge 6):</strong> The kezai's mandibles drip a searing acid, instantly igniting the gas around it. Each creature within 20 feet of the kezai must make a DC 14 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one. The kezai's Nauseous Gas trait becomes inactive for 1 minute. The kezai can't use Searing Gas unless Nauseous Gas has been active for at least 1 minute.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2/kezai.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

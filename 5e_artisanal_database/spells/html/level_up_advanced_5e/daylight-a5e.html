@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Daylight</title>
@@ -22,5 +29,6 @@
 <p>Magical light fills the area. The area is brightly lit and sheds dim light for an additional 60 feet. If any of the area overlaps with magical darkness created by a spell of 3rd-level or lower, the spell that created the darkness is dispelled.</p>
 <p>When cast on an object that is in your possession or unattended, the light shines from it and moves with it. Completely covering the object with something that is not transparent blocks the light.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/daylight-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

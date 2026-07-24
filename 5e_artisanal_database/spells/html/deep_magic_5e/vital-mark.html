@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Vital Mark</title>
@@ -22,5 +29,6 @@
 <p>You mark an unattended magic item (including weapons and armor) with a clearly visible stain of your blood. The exact appearance of the bloodstain is up to you. The item’s magical abilities don’t function for anyone else as long as the bloodstain remains on it. For example, a <strong>+1 flaming longsword</strong> with a vital mark functions as a nonmagical longsword in the hands of anyone but the caster, but it still functions as a <strong>+1 flaming longsword</strong> for the caster who placed the bloodstain on it. A wand of magic missiles would be no more than a stick in the hands of anyone but the caster.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 4th level or higher on the same item for 28 consecutive days, the effect becomes permanent until dispelled.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/vital-mark.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

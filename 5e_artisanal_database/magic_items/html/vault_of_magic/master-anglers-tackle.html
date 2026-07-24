@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Master Angler's Tackle</title>
@@ -17,5 +24,6 @@
 <li><strong>Source:</strong> Vault of Magic</li>
 </ul>
 <p>This is a set of well-worn but finely crafted fishing gear. You have advantage on any Wisdom (Survival) checks made to catch fish or other seafood when using it. If you ever roll a 1 on your check while using the tackle, roll again. If the second roll is a 20, you still fail to catch anything edible, but you pull up something interesting or valuable—a bottle with a note in it, a fragment of an ancient tablet carved in ancient script, a mermaid in need of help, or similar. The GM decides what you pull up and its value, if it has one.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/master-anglers-tackle.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

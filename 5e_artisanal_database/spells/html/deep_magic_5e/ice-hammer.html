@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Ice Hammer</title>
@@ -23,5 +30,6 @@
 <p>The warhammer melts and is destroyed when it or its user accumulates 20 or more fire damage, or when the spell ends.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 3rd level or higher, you can create one additional hammer for each slot level above 2nd. Alternatively, you can create half as many hammers (round down), but each is oversized (1d10 bludgeoning damage, or 1d12 if wielded with two hands, plus 2d8 cold damage). Medium or smaller creatures have disadvantage when using oversized weapons, even if they are proficient with them.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/ice-hammer.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

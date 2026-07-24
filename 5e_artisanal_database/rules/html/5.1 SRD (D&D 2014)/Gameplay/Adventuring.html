@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>ADVENTURING</title>
 </head>
@@ -169,5 +176,6 @@
 <p>You can spend time between adventures learning a new language or training with a set of tools. Your GM might allow additional training options.</p>
 <p>First, you must find an instructor willing to teach you. The GM determines how long it takes, and whether one or more ability checks are required.</p>
 <p>The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

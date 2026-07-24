@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>22 - Undead Templates</title>
 </head>
@@ -60,5 +67,6 @@
 <p>To build variants of creatures modeled after more powerful undead, use the undead creature's stat block and add traits from the base creature. It's easier to apply the traits and actions of a stone giant to a lich or vampire stat block than it is to apply lich or vampire traits to a stone giant stat block.</p>
 <h2>Ability Modifications</h2>
 <p>Ability score modifications to undead creatures aren't covered in these templates. For example, skeletons might have reductions to Dexterity and Charisma, and vampire spawn might have boosted Strength, Dexterity, and Constitution scores. Most of the time, you can safely skip such changes, simply improvising adjustments to the baseline abilities of the monster when needed.</p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

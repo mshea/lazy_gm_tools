@@ -4,6 +4,13 @@ The code for this tool is released under a CC0 1.0 Universal license. You can co
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta name="robots" content="noindex">
@@ -112,5 +119,6 @@ The code for this tool is released under a CC0 1.0 Universal license. You can co
         });
     });
   </script>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Druid</title>
 </head>
@@ -1410,5 +1417,6 @@
 <h4>Level 14: Nature's Sanctuary</h4>
 <p>As a Magic action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot Cube on the ground within 120 feet of yourself. They last there for 1 minute or until you have the Incapacitated condition or die. You and your allies have Half Cover while in that area, and your allies gain the current Resistance of your Nature's Ward while there.</p>
 <p>As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet of yourself.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

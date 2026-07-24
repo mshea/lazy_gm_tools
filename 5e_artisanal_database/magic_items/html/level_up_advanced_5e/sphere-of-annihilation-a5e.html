@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Sphere of Annihilation</title>
@@ -21,5 +28,6 @@
 <p>While within 60 feet of an uncontrolled <em>sphere of annihilation</em>, you can use an action to make a DC 25 Intelligence (Arcana) check and take control of it. On a success, the sphere moves in the direction of your choice a number of feet equal to 5 × your Intelligence modifier (minimum 5 feet). On a failure, the sphere moves 10 feet toward you instead. </p>
 <p>If a sphere is controlled by another creature, you may wrest away control by using an action and making an Intelligence (Arcana) check opposed by the controlling creature. On a success, you take control of the sphere and can utilize it as normal. </p>
 <p>A unique effect happens when a sphere comes into contact with a planar portal or extradimensional space (such as a <em>portable hole</em> ). In the case of such an event, the Narrator rolls d100 to determine what happens next: on 1–50 the sphere is destroyed, on 51–85 the sphere simply moves through the portal or into the space, and on 86–100 a rift forms that pulls in all creatures and objects within 180 feet. Each object and creature, including the sphere, reappears in a random plane of existence. </p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/sphere-of-annihilation-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

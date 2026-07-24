@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Proficiency - 5.2 SRD</title>
 </head>
@@ -182,5 +188,6 @@ they train to resist mental assault.</p>
 <p>A character gains proficiency with various weapons and tools from their class and background. There are two categories of equipment proficiency:</p>
 <p><strong>Weapons.</strong> Anyone can wield a weapon, but proficiency makes you better at wielding it. If you have proficiency with a weapon, you add your Proficiency Bonus to attack rolls you make with it.</p>
 <p><strong>Tools.</strong> If you have proficiency with a tool, you can add your Proficiency Bonus to any ability check you make that uses the tool. If you have profciency in the skill that’s also used with that check, you have Advantage on the check too. This means you can benefit from both skill proficiency and tool proficiency on the same ability check.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

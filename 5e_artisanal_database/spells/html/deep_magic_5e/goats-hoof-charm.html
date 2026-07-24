@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Goat's Hoof Charm</title>
@@ -22,5 +29,6 @@
 <p>A creature you touch traverses craggy slopes with the surefootedness of a mountain goat. When ascending a slope that would normally be difficult terrain for it, the target can move at its full speed instead. The target also gains a +2 bonus on Dexterity checks and saving throws to prevent falling, to catch a ledge or otherwise stop a fall, or to move along a narrow ledge.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 2nd level or higher, you can increase the duration by 1 minute, or you can affect one additional creature, for each slot level above 1st.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/goats-hoof-charm.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

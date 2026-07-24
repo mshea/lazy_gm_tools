@@ -72,6 +72,40 @@ The index page, the generators, and the tools are provisioned as a Progressive W
 
 I recommend using [Obsidian](https://obsidian.md) for offline retrieval of spells, monsters, magic items, and rulesets. Add the markdown directories of monsters, magic items, spells, and rulesets you want to have offline to your Obsidian vault and if your vault is shared across platforms, you can access it on each platform even offline. See "Markdown and HTML files" above for details.
 
+## Themes
+
+The 5eADB includes a built-in theme switcher (bottom-right corner of every page) with six themes:
+
+| Theme | Description |
+|---|---|
+| **System** | No theme applied; uses your browser/system default light/dark preference |
+| **Light** | Default light theme (the base CSS) |
+| **Dark** | Dark mode — dark backgrounds, light text, purple accents |
+| **Parchment** | Warm paper-like feel with serif fonts |
+| **Terminal** | Green-on-black terminal aesthetic with monospace font |
+| **Compact** | Smaller fonts and tighter spacing for higher information density |
+
+### Adding a Custom Theme
+
+1. Create a CSS file in `css_js/` (e.g., `css_js/ocean.css`) with a `[data-theme="ocean"]` selector block containing CSS variable overrides. See `css_js/dark.css` for a complete example.
+
+2. Register the theme by adding this script tag **before** the `theme-switcher.js` script tag on any page (or in a shared header):
+
+   ```html
+   <script>
+   window.CUSTOM_THEMES = window.CUSTOM_THEMES || [];
+   window.CUSTOM_THEMES.push({
+     id: 'ocean',
+     label: 'Ocean',
+     file: 'ocean.css'
+   });
+   </script>
+   ```
+
+3. The theme appears in the switcher dropdown automatically.
+
+The CSS variable system uses custom properties on `:root` (defined in `css_js/5eadb.css`). Your theme file only needs to override the variables you want to change — use the `[data-theme="yourtheme"]` selector.
+
 ## Licensing
 
 See the "licensing.html" file in the root directory for licensing information. Outside of lunr.js and datatables.js, all javascript code in this application is released under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). You can copy, modify, and distribute the code for these tools, even for commercial purposes, all without asking permission. 

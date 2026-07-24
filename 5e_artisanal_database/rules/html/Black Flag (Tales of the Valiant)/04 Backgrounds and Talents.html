@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Backgrounds and Talents</title>
 </head>
@@ -263,5 +270,6 @@
 <li>When you would gain 1 Luck as a result of failing an attack roll or save, you instead gain 2 Luck.</li>
 <li>If you have 5 Luck and would gain a 6th, your Luck total resets to 1d4 + 1.</li>
 </ul>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Candle of Invocation</title>
@@ -20,5 +27,6 @@
 <p>You can use an action to light the candle and activate its magic. The candle can burn for a total of 4 hours in 1 minute increments before being used up. </p>
 <p>While lit, the candle sheds dim light in a 30-foot radius. Any creature within the area who worships the same deity as the attuned creature (or at the Narrator’s discretion, an allied deity) has <em>advantage</em>  on <em>attack rolls</em> , <em>saving throws</em> , and ability checks. If one of the creatures gaining the prior benefit is also a cleric, druid, or herald, they can cast 1st-level spells from one of those classes at that spell level without expending spell slots.</p>
 <p>Alternatively, one of these candles that has not yet been lit can be used to cast the __gate_ spell. Doing so consumes the candle.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/candle-of-invocation-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

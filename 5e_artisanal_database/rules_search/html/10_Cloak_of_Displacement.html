@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Cloak of Displacement - 5.2 SRD</title>
 </head>
@@ -11,5 +17,6 @@
 <h4 id="cloakofdisplacement">Cloak of Displacement</h4>
 <p><em>Wondrous Item, Rare (Requires Attunement)</em></p>
 <p>While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have Disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your Speed is 0.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

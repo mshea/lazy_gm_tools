@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Innocuous Aspect</title>
@@ -22,5 +29,6 @@
 <p>An area of false vision encompasses all creatures within 20 feet of you. You and each creature in the area that you choose to affect take on the appearance of a harmless creature or object, chosen by you. Each image is identical, and only appearance is affected. Sound, movement, or physical inspection can reveal the ruse.</p>
 <p>A creature that uses its action to study the image visually can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, that creature sees through the image.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/innocuous-aspect.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

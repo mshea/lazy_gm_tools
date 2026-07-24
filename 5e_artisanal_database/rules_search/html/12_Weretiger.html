@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Weretiger - 5.2 SRD</title>
 </head>
@@ -79,5 +85,6 @@
 <h3 id="bonusactions">Bonus Actions</h3>
 <p><strong><em>Prowl (Tiger or Hybrid Form Only).</em></strong> The weretiger moves up to its Speed without provoking Opportunity Attacks. At the end of this movement, the weretiger can take the Hide action.</p>
 <p><strong><em>Shape-Shift.</em></strong> The weretiger shape-shifts into a Large tiger-humanoid hybrid or a Large tiger, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

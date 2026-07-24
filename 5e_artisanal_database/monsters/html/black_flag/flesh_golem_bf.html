@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Flesh Golem</title>
@@ -65,5 +72,6 @@
 <li><strong>Creator's Anguish (Recharge 5-6):</strong> The golem releases a wave of emotional anguish from its core. Each creature within 15 feet of the golem must make a DC 15 WIS save. On a failure, a creature takes 31 (9d6) psychic damage and is incapacitated until the end of its next turn, as its mind fills with memories of its greatest failures. On a success, a creature takes half the damage and isn't incapacitated.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/flesh_golem_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

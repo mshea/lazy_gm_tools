@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Combat Maneuvers</title>
 </head>
@@ -837,5 +844,6 @@ Choose a weapon when you learn this combat maneuver. For the next minute, attack
 <p><em>5th degree Unending Wheel action</em><br />
 <em>Prerequisite: Extra Attack</em><br />
 When you activate this maneuver, you take the Attack action and make two weapon attacks, as well as double the number of additional attacks granted by Extra Attack. You can replace any number of these attacks with combat maneuvers that do not grant more than one attack. At the end of your turn your exertion pool is reduced to 0 and you suffer a level of fatigue.</p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

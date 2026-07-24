@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>Monsters (U)</title>
 </head>
@@ -60,5 +67,6 @@
 <p><strong>Hooves</strong>. The unicorn makes one attack with its hooves.</p>
 <p><strong>Shimmering Shield (Costs 2 Actions)</strong>. The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.</p>
 <p><strong>Heal Self (Costs 3 Actions)</strong>. The unicorn magically regains 11 (2d8+2) hit points.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

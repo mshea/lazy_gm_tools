@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Will-o&#039;-Wisp - 5.2 SRD</title>
 </head>
@@ -80,5 +86,6 @@
 <h3 id="bonusactions">Bonus Actions</h3>
 <p><strong><em>Consume Life.</em></strong> <em>Constitution Saving Throw</em>: DC 10, one living creature the wisp can see within 5 feet that has 0 Hit Points. <em>Failure:</em>  The target dies, and the wisp regains 10 (3d6) Hit Points.</p>
 <p><strong><em>Vanish.</em></strong> The wisp and its light have the Invisible condition until the wisp's  Concentration ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

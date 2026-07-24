@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Lineage and Heritage</title>
 </head>
@@ -102,5 +109,6 @@
 <p><strong><em>Beast Affinity.</em></strong> Using gestures and sounds, you can communicate simple ideas with Beasts and creatures with the Animal tag, and you have advantage on checks made to interact with such creatures.</p>
 <p><strong><em>Shepherd's Gift.</em></strong> You have proficiency in the Animal Handling skill. Any Beast or creature with the Animal tag whose CR is equal to or less than your PB that targets you with an attack must first make a WIS check contested by your WIS (Animal Handling). If you succeed, the creature must choose a new target or lose the attack.</p>
 <p><strong><em>Languages.</em></strong> You know Common and one additional language of your choice. Typical wildlands heritage characters choose Sylvan.</p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

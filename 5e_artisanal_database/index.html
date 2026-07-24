@@ -3,6 +3,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="./css_js/5eadb.css">
 <title>5e Artisanal Database</title>
 </head>
@@ -124,7 +131,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <p>The 5e Artisanal Database is a set of tools, generators, and <a href="./licensing.html">open-licensed</a> rules, monsters, items, and spells to help you run 5e-based tabletop roleplaying games. It's mobile friendly, downloadable, and self-hostable using your own web server or locally using your own web browser. <a href="5e_artisanal_database.zip">Download your own copy</a> and read the README.md file for technical details.</p>
 
+<h2>Themes</h2>
+<p>Click the theme switcher in the bottom-right corner of any page to change the visual theme. Themes available: System, Light, Dark, Parchment, Terminal, and Compact. To add your own custom theme, see the README.md or the comments in <code>css_js/theme-switcher.js</code>.</p>
+
 <p>The 5e Artisanal Database is a reward for <a href="https://www.patreon.com/c/slyflourish">Patreons of Sly Flourish</a>. If you are not a patron, please <a href="https://www.patreon.com/c/slyflourish">join up</a> to support this work and get access to a whole lot more.</a>
 
+<script src="./css_js/theme-switcher.js"></script>
 </body>
 </html>

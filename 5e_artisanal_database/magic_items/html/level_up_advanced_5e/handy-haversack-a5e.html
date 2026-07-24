@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Handy Haversack</title>
@@ -22,5 +29,6 @@
 <p>The bag cannot hold any item that would not fit in a normal bag of its apparent size or any item with the Bulky quality. </p>
 <p>If the bag is punctured, torn, or otherwise structurally damaged, it ruptures and is destroyed, and the contents are scattered throughout the Astral Plane.</p>
 <p>Placing a <em>handy haversack</em> inside another extradimensional storage device such as a <em>bag of holding</em> or __portable hole_ results in planar rift that destroys both items and pulls everything within 10 feet into the Astral Plane. The rift then closes and disappears.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/handy-haversack-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

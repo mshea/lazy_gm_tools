@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>10 - The Lazy Encounter Benchmark</title>
 </head>
@@ -72,5 +79,6 @@
 <p>At 1st tier (levels 1 to 4), the benchmark is simply the total of all character levels divided by 4. But as characters rise in level and across the tiers of play, they experience three distinct bumps in power at 5th level (the start of the second tier, multiplying the benchmark by 2), 11th level (the start of the third tier, for a ×3 multiplier), and 17th level (the start of the fourth tier, for a ×4 multiplier).</p>
 <p>In a broad sense, characters of the second tier can be thought of as effectively twice as powerful as characters of the first tier, with characters of the third and fourth tiers increasing in power yet again. However, as with the default versions of the benchmarks, it's important to remember that increasing the multipliers for the third and fourth tier is optional, and should be done only if you find that encounters created with the ×2 multiplier aren't keeping up to the characters.</p>
 </blockquote>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

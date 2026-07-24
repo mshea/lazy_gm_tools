@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Black Swan Storm</title>
@@ -22,5 +29,6 @@
 <p>You call forth a whirlwind of black feathers that fills a 5-foot cube within range. The feathers deal 2d8 force damage to creatures in the cube’s area and radiate darkness, causing the illumination level within 20 feet of the cube to drop by one step (from bright light to dim light, and from dim light to darkness). Creatures that make a successful Dexterity saving throw take half the damage and are still affected by the change in light.</p>
 <p><strong>Using a Higher-Level Spell Slot.</strong> When you cast this spell using a spell slot of 3rd level or higher, the feathers deal an extra 1d8 force damage for each slot level above 2nd.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/black-swan-storm.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

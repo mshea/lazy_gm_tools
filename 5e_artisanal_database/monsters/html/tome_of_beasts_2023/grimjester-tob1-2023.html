@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Grim Jester</title>
@@ -67,5 +74,6 @@
 <li><strong>Joker's Shuffle (Recharge 6):</strong> The grim jester exchanges locations with a Medium or smaller creature it can see within 60 feet of it. The jester and target each teleport to the other's space, and each becomes covered in a magical illusion to look and sound like the other. A creature must take an action to visually inspect an illusion and succeed on a DC 19 Intelligence (Investigation) check to discern that the jester and target are disguised. The illusions last for 1 minute, until the jester dies, or until the jester dismisses them as a bonus action.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2023/grimjester-tob1-2023.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

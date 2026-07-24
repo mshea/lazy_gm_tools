@@ -1,15 +1,130 @@
 /* 5e Artisanal Database Shared Styles */
 
+/* ==========================================================================
+   CSS Custom Properties (Theme Variables)
+   ========================================================================== */
+
+:root {
+    /* Background colors */
+    --bg-body: #fff;
+    --bg-surface: #f8f8f8;
+    --bg-surface-alt: #f9f9f9;
+    --bg-input: #fff;
+    --bg-button: #f9f9f9;
+    --bg-button-hover: #e9e9e9;
+    --bg-button-secondary: #444;
+    --bg-button-secondary-hover: #333;
+    --bg-table-header: #f0f0f0;
+    --bg-filter-container: #f8f8f8;
+    --bg-filter-header-hover: #e8e8e8;
+    --bg-filter-item: #fff;
+    --bg-filter-item-hover: #f0f0f0;
+    --bg-filter-count: #f0f0f0;
+    --bg-dropdown: #fff;
+    --bg-dropdown-hover: #f0f0f0;
+    --bg-dropdown-selected: #e0e0e0;
+    --bg-current-turn: #d0d0d0;
+    --bg-ability-card: #f9f9f9;
+    --bg-controls: #f9f9f9;
+    --bg-results: #f8f8f8;
+    --bg-remove-btn: #f44336;
+    --bg-remove-btn-hover: #da190b;
+    --bg-remove-btn-alt: #d9534f;
+    --bg-remove-btn-alt-hover: #c9302c;
+    --bg-search-btn: #f8f9fa;
+    --bg-search-btn-hover: #f1f3f4;
+    --bg-ability-btn: #444;
+    --bg-ability-btn-hover: #222;
+    --bg-ability-btn-disabled: #aaa;
+    --bg-add-btn: #777;
+    --bg-add-btn-hover: #555;
+    --bg-reset-btn: #666;
+    --bg-reset-btn-hover: #444;
+    --bg-dice: #f9f9f9;
+    --bg-dice-hover: #e9e9e9;
+    --bg-history: #fff;
+
+    /* Text colors */
+    --text-body: #000;
+    --text-heading: #000;
+    --text-muted: #666;
+    --text-link: #333;
+    --text-link-hover: #666;
+    --text-button: #3c4043;
+    --text-button-hover: #202124;
+    --text-button-secondary: #fff;
+    --text-filter-section: #555;
+    --text-label: #000;
+    --text-input: #000;
+    --text-placeholder: #888;
+
+    /* Border colors */
+    --border-color: #ccc;
+    --border-color-light: #ddd;
+    --border-color-strong: #000;
+    --border-color-input: #ccc;
+    --border-color-input-focus: #888;
+    --border-color-button: #ccc;
+    --border-color-search-btn: #dadce0;
+    --border-color-table: #000;
+    --border-color-result: #ddd;
+    --border-color-section: #ccc;
+    --border-color-ability: #ccc;
+    --border-color-ability-score: #666;
+    --border-color-controls: #ccc;
+    --border-color-dice: #000;
+
+    /* Accent / highlight */
+    --highlight-bg: #ffff99;
+    --highlight-text: inherit;
+
+    /* Difficulty colors */
+    --difficulty-easy: green;
+    --difficulty-medium: orange;
+    --difficulty-hard: red;
+    --difficulty-deadly: darkred;
+    --difficulty-warning: #DAA520;
+
+    /* Fonts */
+    --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-heading: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace;
+    --font-size-base: 18px;
+    --font-size-small: 14px;
+    --font-size-large: 20px;
+    --font-size-h1: 2em;
+    --line-height: 1.5;
+
+    /* Spacing */
+    --padding-page: 10px;
+    --padding-card: 10px;
+    --padding-input: 8px;
+    --border-radius: 4px;
+    --border-radius-sm: 3px;
+
+    /* Shadows */
+    --shadow-button-hover: 0 1px 1px rgba(0,0,0,.1);
+
+    /* Misc */
+    --bg-texture: none;
+    --heading-decoration: none;
+    --heading-font-variant: normal;
+    --heading-letter-spacing: normal;
+}
+
 body {
     max-width: 800px;
     margin: auto;
-    font-size: 18px;
-    font-family: sans-serif;
-    padding: 10px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-body);
+    padding: var(--padding-page);
+    background-color: var(--bg-body);
+    color: var(--text-body);
+    background-image: var(--bg-texture);
 }
 
 p, li {
-    line-height: 1.5em;
+    line-height: var(--line-height);
 }
 
 table {
@@ -17,19 +132,20 @@ table {
 }
 
 th, td {
-    border: 1px solid black;
+    border: 1px solid var(--border-color-table);
     padding: 5px;
     text-align: left;
 }
 
 button, select {
-    font-size: 18px;
+    font-size: var(--font-size-base);
     min-height: 44px;
     padding: 12px 16px;
     margin: 5px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    background-color: #f9f9f9;
+    border: 1px solid var(--border-color-input);
+    border-radius: var(--border-radius);
+    background-color: var(--bg-surface-alt);
+    color: var(--text-body);
     cursor: pointer;
     touch-action: manipulation;
     -webkit-touch-callout: none;
@@ -38,7 +154,44 @@ button, select {
 }
 
 button:hover {
-    background-color: #e9e9e9;
+    background-color: var(--bg-button-hover);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--text-heading);
+    font-family: var(--font-heading);
+    font-variant: var(--heading-font-variant);
+    letter-spacing: var(--heading-letter-spacing);
+}
+
+a {
+    color: var(--text-link);
+}
+
+a:hover {
+    color: var(--text-link-hover);
+}
+
+a:visited {
+    color: var(--text-link);
+}
+
+input[type="text"],
+input[type="number"],
+input[type="search"],
+textarea,
+select {
+    background-color: var(--bg-input);
+    border-color: var(--border-color-input);
+    color: var(--text-input);
+}
+
+input::placeholder {
+    color: var(--text-placeholder);
+}
+
+label {
+    color: var(--text-label);
 }
 
 /* Main page search styles */
@@ -50,17 +203,17 @@ button:hover {
 
 .main-search-input {
     width: 100%;
-    padding: 10px;
+    padding: var(--padding-page);
     font-size: 16px;
-    border: 2px solid #ddd;
-    border-radius: 4px;
+    border: 2px solid var(--border-color-light);
+    border-radius: var(--border-radius);
     box-sizing: border-box;
-    background-color: white;
+    background-color: var(--bg-input);
     margin-bottom: 5px;
 }
 
 .main-search-input:focus {
-    border-color: #888;
+    border-color: var(--text-placeholder);
     outline: none;
 }
 
@@ -69,11 +222,11 @@ button:hover {
 }
 
 .search-buttons button {
-    background-color: #f8f9fa;
-    color: #3c4043;
-    border: 1px solid #dadce0;
-    border-radius: 4px;
-    padding: 8px 16px;
+    background-color: var(--bg-search-btn);
+    color: var(--text-button);
+    border: 1px solid var(--border-color-search-btn);
+    border-radius: var(--border-radius);
+    padding: var(--padding-input) 16px;
     font-size: 16px;
     cursor: pointer;
     margin: 0 5px;
@@ -81,19 +234,19 @@ button:hover {
 }
 
 .search-buttons button:hover {
-    box-shadow: 0 1px 1px rgba(0,0,0,.1);
-    background-color: #f1f3f4;
-    border: 1px solid #dadce0;
-    color: #202124;
+    box-shadow: var(--shadow-button-hover);
+    background-color: var(--bg-search-btn-hover);
+    border: 1px solid var(--border-color-search-btn);
+    color: var(--text-button-hover);
 }
 
 /* Filter styles for main page */
 .filter-container {
     margin: 10px 0;
     padding: 0;
-    background-color: #f8f8f8;
-    border-radius: 4px;
-    border: 1px solid #ddd;
+    background-color: var(--bg-surface);
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color-light);
     max-width: 500px;
 }
 
@@ -101,14 +254,14 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px;
+    padding: var(--padding-page);
     cursor: pointer;
     user-select: none;
     gap: 8px;
 }
 
 .filter-header:hover {
-    background-color: #e8e8e8;
+    background-color: var(--bg-filter-header-hover);
 }
 
 .filter-header h3 {
@@ -118,8 +271,8 @@ button:hover {
 }
 
 .filter-toggle {
-    font-size: 18px;
-    color: #666;
+    font-size: var(--font-size-base);
+    color: var(--text-muted);
     transition: transform 0.2s ease;
 }
 
@@ -167,14 +320,14 @@ button:hover {
 }
 
 .filter-section-title:hover {
-    background-color: #f0f0f0;
-    border-radius: 4px;
+    background-color: var(--bg-table-header);
+    border-radius: var(--border-radius);
 }
 
 .section-toggle {
     margin-left: auto;
     font-size: 16px;
-    color: #666;
+    color: var(--text-muted);
     transition: transform 0.2s ease;
 }
 
@@ -197,8 +350,8 @@ button:hover {
 
 .filter-subsection-title {
     font-weight: 600;
-    font-size: 14px;
-    color: #555;
+    font-size: var(--font-size-small);
+    color: var(--text-filter-section);
     margin-bottom: 6px;
 }
 
@@ -206,17 +359,17 @@ button:hover {
     display: flex;
     align-items: center;
     gap: 12px;
-    padding: 8px;
+    padding: var(--padding-input);
     margin-bottom: 4px;
-    background-color: #fff;
-    border-radius: 4px;
-    border: 1px solid #ddd;
+    background-color: var(--bg-input);
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color-light);
     cursor: pointer;
     transition: background-color 0.2s;
 }
 
 .source-filter:hover {
-    background-color: #f0f0f0;
+    background-color: var(--bg-table-header);
 }
 
 .source-filter input[type="checkbox"] {
@@ -232,7 +385,7 @@ button:hover {
 
 .source-filter-count {
     font-size: 12px;
-    background-color: #f0f0f0;
+    background-color: var(--bg-table-header);
     padding: 2px 6px;
     border-radius: 12px;
     min-width: 20px;
@@ -247,11 +400,11 @@ button:hover {
 }
 
 .filter-actions button {
-    background-color: #666;
-    color: white;
+    background-color: var(--bg-button-secondary);
+    color: var(--text-button-secondary);
     border: none;
-    border-radius: 4px;
-    padding: 8px 16px;
+    border-radius: var(--border-radius);
+    padding: var(--padding-input) 16px;
     cursor: pointer;
     font-size: 16px;
     white-space: nowrap;
@@ -259,7 +412,7 @@ button:hover {
 }
 
 .filter-actions button:hover {
-    background-color: #555;
+    background-color: var(--bg-button-secondary-hover);
 }
 
 /* Search result styles */
@@ -269,7 +422,7 @@ button:hover {
 
 .result-item {
     padding: 12px 0;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--border-color-result);
 }
 
 .result-title {
@@ -278,47 +431,47 @@ button:hover {
 }
 
 .result-title a {
-    color: #333;
+    color: var(--text-link);
     text-decoration: none;
 }
 
 .result-title a:hover {
     text-decoration: underline;
-    color: #666;
+    color: var(--text-muted);
 }
 
 .result-source {
-    color: #666;
-    font-size: 14px;
+    color: var(--text-muted);
+    font-size: var(--font-size-small);
     margin-bottom: 5px;
 }
 
 .result-snippet {
-    color: #555;
+    color: var(--text-filter-section);
     line-height: 1.4;
 }
 
 .search-stats {
-    color: #666;
-    font-size: 14px;
+    color: var(--text-muted);
+    font-size: var(--font-size-small);
     margin-bottom: 10px;
 }
 
 .no-results {
     text-align: center;
-    color: #666;
+    color: var(--text-muted);
     font-style: italic;
     margin: 20px 0;
 }
 
 .loading {
     text-align: center;
-    color: #666;
+    color: var(--text-muted);
     margin: 20px 0;
 }
 
 .highlight {
-    background-color: #ffff99;
+    background-color: var(--highlight-bg);
     padding: 1px 2px;
 }
 
@@ -376,9 +529,9 @@ body.dice-roller > div:first-child {
     width: 90%;
     max-width: 400px;
     margin: 20px 0;
-    padding: 10px;
-    border: 1px solid #000;
-    background-color: #fff;
+    padding: var(--padding-page);
+    border: 1px solid var(--border-color-dice);
+    background-color: var(--bg-input);
     max-height: 300px;
     overflow-y: auto;
     font-size: 1.5em;
@@ -422,7 +575,7 @@ body.encounter-calculator table {
 }
 
 body.encounter-calculator th {
-    background-color: #f0f0f0;
+    background-color: var(--bg-table-header);
 }
 
 .encounter-calculator .flex-column {
@@ -439,19 +592,19 @@ body.encounter-calculator th {
 
 .encounter-calculator .section-base {
     margin: 15px 0;
-    padding: 10px;
+    padding: var(--padding-page);
     border: 2px solid;
     border-radius: 5px;
 }
 
 .encounter-calculator .input-section {
-    border-color: #ccc;
+    border-color: var(--text-muted);
 }
 
 .encounter-calculator .results {
-    border-color: #333;
+    border-color: var(--text-link);
     padding: 12px;
-    background-color: #f8f8f8;
+    background-color: var(--bg-surface);
 }
 
 .encounter-calculator .input-section h3,
@@ -470,9 +623,9 @@ body.encounter-calculator th {
 .encounter-calculator .monster-group {
     gap: 8px;
     margin: 8px 0;
-    padding: 8px;
-    background-color: #f9f9f9;
-    border-radius: 3px;
+    padding: var(--padding-input);
+    background-color: var(--bg-surface-alt);
+    border-radius: var(--border-radius-sm);
 }
 
 .encounter-calculator .search-input-group {
@@ -495,10 +648,10 @@ body.encounter-calculator th {
 .encounter-calculator input,
 .encounter-calculator select,
 .encounter-calculator .monster-search {
-    padding: 8px;
+    padding: var(--padding-input);
     font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
+    border: 1px solid var(--border-color-input);
+    border-radius: var(--border-radius-sm);
 }
 
 .encounter-calculator .monster-search {
@@ -516,8 +669,8 @@ body.encounter-calculator th {
     top: 100%;
     left: 0;
     right: 0;
-    background: white;
-    border: 1px solid #ccc;
+    background: var(--bg-dropdown);
+    border: 1px solid var(--border-color-input);
     border-top: none;
     border-radius: 0 0 3px 3px;
     max-height: 200px;
@@ -527,16 +680,16 @@ body.encounter-calculator th {
 }
 
 .encounter-calculator .monster-option {
-    padding: 8px;
+    padding: var(--padding-input);
     cursor: pointer;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color-light);
     font-size: 16px;
-    background-color: white;
+    background-color: var(--bg-input);
 }
 
 .encounter-calculator .monster-option:hover,
 .encounter-calculator .monster-option.highlighted {
-    background-color: #f0f0f0;
+    background-color: var(--bg-table-header);
 }
 
 .encounter-calculator .monster-option:last-child {
@@ -544,47 +697,47 @@ body.encounter-calculator th {
 }
 
 .monster-option-source {
-    color: #666;
+    color: var(--text-muted);
     font-size: 0.9em;
 }
 
 .encounter-calculator .cr-tag {
     float: right;
-    font-size: 14px;
+    font-size: var(--font-size-small);
 }
 
 .encounter-calculator .monster-name-display {
     font-style: italic;
     margin-top: 4px;
-    font-size: 14px;
+    font-size: var(--font-size-small);
 }
 
 .encounter-calculator .button-base {
-    color: white;
+    color: var(--text-button-secondary);
     border: none;
     cursor: pointer;
-    border-radius: 3px;
+    border-radius: var(--border-radius-sm);
 }
 
 .encounter-calculator .add-button {
-    background-color: #777;
-    padding: 8px 15px;
+    background-color: var(--bg-add-btn);
+    padding: var(--padding-input) 15px;
     font-size: 16px;
 }
 
 .encounter-calculator .add-button:hover {
-    background-color: #555;
+    background-color: var(--bg-button-secondary-hover);
 }
 
 .encounter-calculator .remove-button {
-    background-color: #f44336;
+    background-color: var(--bg-remove-btn);
     padding: 5px 10px;
-    font-size: 14px;
+    font-size: var(--font-size-small);
     align-self: flex-end;
 }
 
 .encounter-calculator .remove-button:hover {
-    background-color: #da190b;
+    background-color: var(--bg-remove-btn-hover);
 }
 
 .encounter-calculator .button-row {
@@ -598,11 +751,11 @@ body.encounter-calculator th {
     font-weight: bold;
 }
 
-.encounter-calculator .difficulty-easy { color: green; }
-.encounter-calculator .difficulty-medium { color: orange; }
-.encounter-calculator .difficulty-hard { color: red; }
-.encounter-calculator .difficulty-deadly { color: darkred; }
-.encounter-calculator .difficulty-warning { color: #DAA520; }
+.encounter-calculator .difficulty-easy { color: var(--difficulty-easy); }
+.encounter-calculator .difficulty-medium { color: var(--difficulty-medium); }
+.encounter-calculator .difficulty-hard { color: var(--difficulty-hard); }
+.encounter-calculator .difficulty-deadly { color: var(--difficulty-deadly); }
+.encounter-calculator .difficulty-warning { color: var(--difficulty-warning); }
 
 @media (max-width: 600px) {
     .encounter-calculator .flex-row {
@@ -645,10 +798,10 @@ body.encounter-calculator th {
 }
 
 .point-buy-calculator .ability-card {
-    background: #f9f9f9;
-    border: 2px solid #ccc;
+    background: var(--bg-surface-alt);
+    border: 2px solid var(--border-color-ability);
     border-radius: 5px;
-    padding: 8px;
+    padding: var(--padding-input);
     text-align: center;
 }
 
@@ -667,10 +820,10 @@ body.encounter-calculator th {
 }
 
 .point-buy-calculator .ability-button {
-    background-color: #444;
-    color: white;
+    background-color: var(--bg-ability-btn);
+    color: var(--text-button-secondary);
     border: none;
-    border-radius: 3px;
+    border-radius: var(--border-radius-sm);
     width: 30px;
     height: 30px;
     font-size: 16px;
@@ -682,23 +835,23 @@ body.encounter-calculator th {
 }
 
 .point-buy-calculator .ability-button:hover:not(:disabled) {
-    background-color: #222;
+    background-color: var(--bg-button);
 }
 
 .point-buy-calculator .ability-button:disabled {
-    background-color: #aaa;
+    background-color: var(--bg-button-secondary);
     cursor: not-allowed;
 }
 
 .point-buy-calculator .ability-score {
-    font-size: 20px;
+    font-size: var(--font-size-large);
     font-weight: bold;
     width: 50px;
-    border: 2px solid #666;
-    border-radius: 3px;
+    border: 2px solid var(--border-color-ability-score);
+    border-radius: var(--border-radius-sm);
     padding: 4px;
     text-align: center;
-    background: white;
+    background: var(--bg-dropdown);
     -webkit-appearance: none;
     appearance: none;
 }
@@ -714,18 +867,18 @@ body.encounter-calculator th {
 }
 
 .point-buy-calculator .reset-button {
-    background-color: #666;
-    color: white;
+    background-color: var(--bg-button-secondary);
+    color: var(--text-button-secondary);
     border: none;
-    border-radius: 3px;
-    padding: 10px 20px;
+    border-radius: var(--border-radius-sm);
+    padding: var(--padding-page) 20px;
     font-size: 16px;
     cursor: pointer;
     margin: 10px;
 }
 
 .point-buy-calculator .reset-button:hover {
-    background-color: #444;
+    background-color: var(--bg-ability-btn);
 }
 
 @media (max-width: 480px) {
@@ -750,19 +903,19 @@ body.encounter-calculator th {
     width: 100%;
     padding: 12px;
     font-size: 16px;
-    border: 2px solid #ddd;
-    border-radius: 4px;
+    border: 2px solid var(--border-color-light);
+    border-radius: var(--border-radius);
     box-sizing: border-box;
     min-height: 44px;
 }
 
 .rules-search .search-input:focus {
-    border-color: #666;
+    border-color: var(--text-muted);
     outline: none;
 }
 
 .rules-search .search-stats {
-    font-size: 14px;
+    font-size: var(--font-size-small);
     margin: 15px 0 10px 0;
 }
 
@@ -771,16 +924,16 @@ body.encounter-calculator th {
 }
 
 .rules-search .result-item {
-    border: 1px solid #ddd;
+    border: 1px solid var(--border-color-light);
     margin: 15px 0;
     padding: 15px;
-    border-radius: 4px;
-    background-color: #f9f9f9;
+    border-radius: var(--border-radius);
+    background-color: var(--bg-surface-alt);
 }
 
 .rules-search .result-title {
     font-weight: bold;
-    font-size: 18px;
+    font-size: var(--font-size-base);
     margin-bottom: 8px;
 }
 
@@ -811,13 +964,13 @@ body.encounter-calculator th {
 
 .rules-search .result-content th,
 .rules-search .result-content td {
-    border: 1px solid #ddd;
-    padding: 8px;
+    border: 1px solid var(--border-color-light);
+    padding: var(--padding-input);
     text-align: left;
 }
 
 .rules-search .result-content th {
-    background-color: #f0f0f0;
+    background-color: var(--bg-table-header);
     font-weight: bold;
 }
 
@@ -832,7 +985,7 @@ body.encounter-calculator th {
 }
 
 .rules-search .highlight {
-    background-color: #ffff99;
+    background-color: var(--highlight-bg);
     padding: 2px 4px;
     border-radius: 2px;
 }
@@ -866,14 +1019,14 @@ body.encounter-calculator th {
 
 .combat-tracker th,
 .combat-tracker td {
-    border: 1px solid #999;
+    border: 1px solid var(--border-color-input);
     padding: 6px;
     vertical-align: middle;
     text-align: left;
 }
 
 .combat-tracker th {
-    background-color: #e0e0e0;
+    background-color: var(--bg-dropdown-selected);
     font-size: 16px;
 }
 
@@ -911,10 +1064,10 @@ body.encounter-calculator th {
 
 .combat-tracker .controls {
     margin: 10px 0;
-    padding: 8px;
-    border: 1px solid #ccc;
-    background-color: #f9f9f9;
-    border-radius: 4px;
+    padding: var(--padding-input);
+    border: 1px solid var(--border-color-input);
+    background-color: var(--bg-surface-alt);
+    border-radius: var(--border-radius);
 }
 
 .combat-tracker .controls h3 {
@@ -924,10 +1077,10 @@ body.encounter-calculator th {
 .combat-tracker .controls input {
     margin: 2px;
     padding: 6px;
-    background-color: white;
-    color: black;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    background-color: var(--bg-input);
+    color: var(--text-body);
+    border: 1px solid var(--border-color-input);
+    border-radius: var(--border-radius);
     font-size: 16px;
 }
 
@@ -940,16 +1093,16 @@ body.encounter-calculator th {
 
 .combat-tracker .hp-controls button,
 .combat-tracker .combat-controls button {
-    background-color: #666;
-    color: white;
+    background-color: var(--bg-button-secondary);
+    color: var(--text-button-secondary);
     border: none;
     cursor: pointer;
-    border-radius: 4px;
+    border-radius: var(--border-radius);
 }
 
 .combat-tracker .hp-controls button:hover,
 .combat-tracker .combat-controls button:hover {
-    background-color: #555;
+    background-color: var(--bg-button-secondary-hover);
 }
 
 .combat-tracker .hp-controls button {
@@ -963,10 +1116,10 @@ body.encounter-calculator th {
     text-align: center;
     margin: 0;
     padding: 3px;
-    background-color: white;
-    color: black;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    background-color: var(--bg-input);
+    color: var(--text-body);
+    border: 1px solid var(--border-color-input);
+    border-radius: var(--border-radius);
 }
 
 .combat-tracker .hp-controls span {
@@ -974,22 +1127,22 @@ body.encounter-calculator th {
 }
 
 .combat-tracker .current-turn {
-    background-color: #d0d0d0;
+    background-color: var(--bg-current-turn);
     font-weight: bold;
 }
 
 .combat-tracker .remove-btn {
-    background-color: #666;
-    color: white;
+    background-color: var(--bg-button-secondary);
+    color: var(--text-button-secondary);
     border: none;
     padding: 4px 8px;
     cursor: pointer;
     font-weight: bold;
-    border-radius: 4px;
+    border-radius: var(--border-radius);
 }
 
 .combat-tracker .remove-btn:hover {
-    background-color: #555;
+    background-color: var(--bg-button-secondary-hover);
 }
 
 .combat-tracker .combat-controls {
@@ -1001,7 +1154,7 @@ body.encounter-calculator th {
 }
 
 .combat-tracker .combat-controls button {
-    padding: 8px 12px;
+    padding: var(--padding-input) 12px;
     flex: 1;
     min-width: 70px;
     max-width: 100px;
@@ -1038,8 +1191,8 @@ body.encounter-calculator th {
     width: 100%;
     padding: 2px 6px;
     font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
+    border: 1px solid var(--border-color-input);
+    border-radius: var(--border-radius-sm);
     box-sizing: border-box;
     text-align: left;
 }
@@ -1051,8 +1204,8 @@ body.encounter-calculator th {
     right: 0;
     max-height: 200px;
     overflow-y: auto;
-    border: 1px solid #999;
-    background-color: white;
+    border: 1px solid var(--border-color-input);
+    background-color: var(--bg-input);
     display: none;
     z-index: 1000;
 }
@@ -1060,40 +1213,40 @@ body.encounter-calculator th {
 .combat-tracker .monster-result-item {
     padding: 4px;
     cursor: pointer;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--border-color-result);
     font-size: 16px;
-    background-color: white;
+    background-color: var(--bg-input);
 }
 
 .combat-tracker .monster-result-item:hover {
-    background-color: #f0f0f0;
+    background-color: var(--bg-table-header);
 }
 
 .combat-tracker .monster-result-item.selected {
-    background-color: #e0e0e0;
+    background-color: var(--bg-dropdown-selected);
 }
 
 .combat-tracker .monster-result-source {
-    color: #666;
+    color: var(--text-muted);
 }
 
 .combat-tracker select {
-    padding: 8px;
+    padding: var(--padding-input);
     font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
+    border: 1px solid var(--border-color-input);
+    border-radius: var(--border-radius-sm);
     box-sizing: border-box;
 }
 
 .combat-tracker .hp-button {
-    background-color: #666 !important;
-    color: white !important;
+    background-color: var(--bg-button-secondary) !important;
+    color: var(--text-button-secondary) !important;
     border: none !important;
     padding: 3px 8px !important;
     cursor: pointer;
     font-size: 16px !important;
     margin: 0 2px !important;
-    border-radius: 3px !important;
+    border-radius: var(--border-radius-sm) !important;
     line-height: 16px !important;
     height: auto !important;
     min-height: auto !important;
@@ -1101,7 +1254,7 @@ body.encounter-calculator th {
 }
 
 .combat-tracker .hp-button:hover {
-    background-color: #555 !important;
+    background-color: var(--bg-button-secondary-hover) !important;
 }
 
 .combat-tracker .hp-input {
@@ -1110,31 +1263,38 @@ body.encounter-calculator th {
     text-align: center;
     margin: 0 3px;
     padding: 1px;
-    background-color: white;
-    color: black;
-    border: 1px solid #999;
+    background-color: var(--bg-input);
+    color: var(--text-body);
+    border: 1px solid var(--border-color-input);
 }
 
 .combat-tracker .transparent-input {
-    border: none;
-    background: transparent;
+    border: 1px solid var(--border-color-input);
+    background-color: var(--bg-input);
     font-size: 16px;
     width: 35px;
     font-weight: bold;
     text-align: center;
-    color: black;
-    padding: 1px;
+    color: var(--text-body);
+    padding: 2px 4px;
+    border-radius: 2px;
+}
+
+.combat-tracker .name-col .transparent-input {
+    width: auto;
+    min-width: 80px;
+    text-align: left;
 }
 
 .combat-tracker .remove-button {
-    background-color: #d9534f !important;
-    color: white !important;
+    background-color: var(--bg-remove-btn-alt) !important;
+    color: var(--text-button-secondary) !important;
     border: none !important;
     padding: 2px 6px !important;
     cursor: pointer;
     font-size: 12px !important;
     margin: 0 2px !important;
-    border-radius: 3px !important;
+    border-radius: var(--border-radius-sm) !important;
     line-height: 14px !important;
     height: auto !important;
     min-height: auto !important;
@@ -1142,323 +1302,118 @@ body.encounter-calculator th {
 }
 
 .combat-tracker .remove-button:hover {
-    background-color: #c9302c !important;
+    background-color: var(--bg-remove-btn-alt-hover) !important;
 }
 
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #000;
-        color: #e0e0e0;
-    }
+/* ==========================================================================
+   Theme Switcher
+   ========================================================================== */
 
-    th, td {
-        border-color: #444;
-    }
+.theme-switcher {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9999;
+    font-size: 14px;
+    padding: 6px 10px;
+    min-height: auto;
+    background-color: var(--bg-button);
+    color: var(--text-body);
+    border: 1px solid var(--border-color-button);
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    opacity: 0.8;
+}
 
-    button, select {
-        background-color: #222;
-        border-color: #555;
-        color: #e0e0e0;
-    }
+.theme-switcher:hover {
+    opacity: 1;
+}
 
-    button:hover {
-        background-color: #333;
-    }
+/* ==========================================================================
+   DataTables Theme Overrides
+   (Must beat jquery.dataTables.css hardcoded colors and its dark mode block)
+   ========================================================================== */
 
-    .main-search-input {
-        background-color: #000;
-        border-color: #555;
-        color: #e0e0e0;
-    }
+/* Table text and background */
+table.dataTable {
+    color: var(--text-body) !important;
+}
 
-    .main-search-input:focus {
-        border-color: #888;
-    }
+table.dataTable thead th,
+table.dataTable thead td,
+table.dataTable tfoot th,
+table.dataTable tfoot td {
+    background-color: var(--bg-table-header) !important;
+    color: var(--text-body) !important;
+    border-color: var(--border-color-light) !important;
+}
 
-    .search-buttons button {
-        background-color: #222;
-        border-color: #555;
-        color: #e0e0e0;
-    }
+table.dataTable tbody td {
+    border-color: var(--border-color-light) !important;
+}
 
-    .search-buttons button:hover {
-        background-color: #333;
-        border-color: #666;
-    }
+table.dataTable tbody tr {
+    background-color: var(--bg-body) !important;
+}
 
-    .filter-container {
-        background-color: #000;
-        border-color: #555;
-    }
+table.dataTable tbody tr:nth-child(even) {
+    background-color: var(--bg-surface-alt) !important;
+}
 
-    .source-filter {
-        background-color: #000;
-        border-color: #555;
-    }
+table.dataTable tbody tr:hover {
+    background-color: var(--bg-dropdown-hover) !important;
+}
 
-    .source-filter:hover {
-        background-color: #222;
-    }
+/* DataTables wrapper elements */
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_paginate {
+    color: var(--text-body) !important;
+}
 
-    .source-filter-count {
-        background-color: #333;
-    }
+.dataTables_wrapper .dataTables_length select,
+.dataTables_wrapper .dataTables_filter input {
+    background-color: var(--bg-input) !important;
+    color: var(--text-input) !important;
+    border: 1px solid var(--border-color-input) !important;
+}
 
-    .filter-actions button {
-        background-color: #333;
-    }
+/* Pagination buttons */
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    background: var(--bg-button) !important;
+    color: var(--text-body) !important;
+    border: 1px solid var(--border-color-button) !important;
+}
 
-    .filter-actions button:hover {
-        background-color: #444;
-    }
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: var(--bg-button-hover) !important;
+    color: var(--text-body) !important;
+    border-color: var(--border-color-input) !important;
+}
 
-    .filter-header:hover {
-        background-color: #222;
-    }
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    background: var(--bg-button-secondary) !important;
+    color: var(--text-button-secondary) !important;
+    border-color: var(--border-color-input) !important;
+}
 
-    .filter-toggle {
-        color: #999;
-    }
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled,
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover {
+    color: var(--text-muted) !important;
+    background: transparent !important;
+}
 
-    .filter-section-title {
-        color: #e0e0e0;
-        border-bottom-color: #555;
-    }
+.dataTables_wrapper .dataTables_processing {
+    background: var(--bg-surface) !important;
+    color: var(--text-body) !important;
+    border: 1px solid var(--border-color-light) !important;
+}
 
-    .filter-section-title:hover {
-        background-color: #222;
-    }
-
-    .section-toggle {
-        color: #999;
-    }
-
-    .filter-subsection-title {
-        color: #aaa;
-    }
-
-    /* Search result dark mode */
-    .result-item {
-        border-bottom-color: #444;
-    }
-
-    .result-title a {
-        color: #6db3f2;
-    }
-
-    .result-title a:hover {
-        color: #b4a7d6;
-    }
-
-    .result-source {
-        color: #999;
-    }
-
-    .result-snippet {
-        color: #ccc;
-    }
-
-    .search-stats {
-        color: #999;
-    }
-
-    .no-results {
-        color: #999;
-    }
-
-    .loading {
-        color: #999;
-    }
-
-    .highlight {
-        background-color: #665500;
-        color: #fff;
-    }
-
-    a {
-        color: #6db3f2;
-    }
-
-    a:visited {
-        color: #b4a7d6;
-    }
-    #history {
-        background-color: #000;
-        color: #e0e0e0;
-    }
-    label {
-        color: #e0e0e0;
-    }
-
-    input[type="text"],
-    input[type="number"],
-    input[type="search"] {
-        background-color: #333;
-        border-color: #555;
-        color: #e0e0e0;
-    }
-
-    /* Make number input spinners visible */
-    input[type="number"]::-webkit-inner-spin-button,
-    input[type="number"]::-webkit-outer-spin-button {
-        opacity: 1;
-        filter: invert(1);
-    }
-
-    input::placeholder {
-        color: #888;
-    }
-
-    /* Common dark mode overrides */
-    h1, h2, h3, h4, h5, h6 {
-        color: #e0e0e0 !important;
-    }
-
-    th {
-        background-color: #000 !important;
-        color: #e0e0e0;
-        border-color: #555;
-    }
-
-    input,
-    textarea,
-    select {
-        background-color: #333 !important;
-        border-color: #555 !important;
-        color: #e0e0e0 !important;
-    }
-
-    /* Common component styling */
-    .results,
-    .character-group,
-    .monster-group,
-    .ability-card,
-    .monster-results,
-    #monsterResults,
-    .monster-dropdown {
-        background-color: #000 !important;
-        border-color: #555 !important;
-        color: #e0e0e0;
-    }
-
-    .input-section {
-        background-color: transparent !important;
-        border-color: #555 !important;
-    }
-
-    .monster-option {
-        background-color: #000 !important;
-        color: #e0e0e0 !important;
-        border-color: #555 !important;
-    }
-
-    .monster-option:hover,
-    .monster-option.highlighted {
-        background-color: #222 !important;
-    }
-
-    .monster-option-source {
-        color: #999;
-    }
-
-    /* Dice Roller dark mode */
-    .dice-roller .history {
-        background-color: #000;
-        border-color: #555;
-        color: #e0e0e0;
-    }
-
-    .dice-roller .dice {
-        background-color: #222;
-        border-color: #555;
-        color: #e0e0e0;
-    }
-
-    .dice-roller .dice:hover {
-        background-color: #333;
-    }
-
-    /* Encounter Calculator - only unique styles */
-    .encounter-calculator .difficulty-easy { color: #90ee90; }
-    .encounter-calculator .difficulty-medium { color: #ffa500; }
-    .encounter-calculator .difficulty-hard { color: #ff6b6b; }
-    .encounter-calculator .difficulty-deadly { color: #ff4444; }
-    .encounter-calculator .difficulty-warning { color: #ffb84d; }
-
-    /* Point Buy Calculator - only unique styles */
-    .point-buy-calculator .ability-button {
-        background-color: #333;
-    }
-
-    .point-buy-calculator .ability-button:hover:not(:disabled) {
-        background-color: #444;
-    }
-
-    .point-buy-calculator .ability-button:disabled {
-        background-color: #222;
-    }
-
-    /* Rules Search - only unique styles */
-    .rules-search .result-item {
-        background-color: #000;
-        border-color: #555;
-    }
-
-    .rules-search .result-content th,
-    .rules-search .result-content td {
-        border-color: #555;
-    }
-
-    .rules-search .result-content th {
-        background-color: #000;
-    }
-
-    .rules-search .highlight {
-        background-color: #665500;
-        color: #fff;
-    }
-
-    /* Combat Tracker - only unique styles */
-    .combat-tracker .current-turn {
-        background-color: #1a1a1a;
-    }
-
-    .combat-tracker #monsterResults {
-        background-color: #1a1a1a;
-        border-color: #555;
-    }
-
-    .combat-tracker .monster-result-item {
-        background-color: #1a1a1a;
-        border-bottom-color: #444;
-        color: #e0e0e0;
-    }
-
-    .combat-tracker .monster-result-item:hover {
-        background-color: #2a2a2a;
-    }
-
-    .combat-tracker .monster-result-item.selected {
-        background-color: #333;
-    }
-
-    .combat-tracker .monster-result-source {
-        color: #999;
-    }
-
-    .combat-tracker .transparent-input {
-        background: #000 !important;
-        color: #e0e0e0;
-    }
-
-    .combat-tracker .hp-input {
-        background: #000 !important;
-        color: #e0e0e0;
-    }
-
-    .combat-tracker .controls {
-        background-color: #000;
-        border-color: #555;
-    }
+/* DataTables sorting icons */
+table.dataTable thead .sorting,
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc {
+    color: var(--text-body) !important;
 }

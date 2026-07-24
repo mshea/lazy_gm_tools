@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Create Your Character - 5.2 SRD</title>
 </head>
@@ -549,5 +555,6 @@
 <p><em>Spell attack bonus</em> = spellcasting ability modifier + Proficiency Bonus</p>
 <p>Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.</p>
 <p><strong>Spell Slots, Cantrips, and Prepared Spells.</strong> If your class gives you the Spellcasting or Pact Magic feature, your class features table shows the number of spell slots you have available, how many cantrips you know, and how many spells you can prepare. Choose your cantrips and prepared spells, and note them—along with your number of spell slots—on your character sheet.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

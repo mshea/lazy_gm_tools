@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Lantern of Selective Illumination</title>
@@ -17,5 +24,6 @@
 <li><strong>Source:</strong> Vault of Magic</li>
 </ul>
 <p>This brass lantern is fitted with round panels of crown glass and burns for 6 hours on one 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. During a short rest, you can choose up to three creatures to be magically linked by the lantern. When the lantern is lit, its light can be perceived only by you and those linked creatures. To anyone else, the lantern appears dark and provides no illumination.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/lantern-of-selective-illumination.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

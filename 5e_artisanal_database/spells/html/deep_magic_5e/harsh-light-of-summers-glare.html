@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Harsh Light of Summer’s Glare</title>
@@ -21,5 +28,6 @@
 </ul>
 <p>You emit a burst of brilliant light, which bears down oppressively upon all creatures within range that can see you. Creatures with darkvision that fail a Constitution saving throw are blinded and stunned. Creatures without darkvision that fail a Constitution saving throw are blinded. This is not a gaze attack, and it cannot be avoided by averting one’s eyes or wearing a blindfold.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/harsh-light-of-summers-glare.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

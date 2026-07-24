@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Erinyes - 5.2 SRD</title>
 </head>
@@ -80,5 +86,6 @@
 <p><strong><em>Multiattack.</em></strong> The erinyes makes three Withering Sword attacks and can use Entangling Rope.</p>
 <p><strong><em>Withering Sword.</em></strong> <em>Melee Attack Roll:</em> +8, reach 5 ft. 13 (2d8 + 4) Slashing damage plus 11 (2d10) Necrotic damage.</p>
 <p><strong><em>Entangling Rope (Requires Magic Rope).</em></strong> <em>Strength Saving Throw</em>: DC 16, one creature the erinyes can see within 120 feet. <em>Failure:</em>  14 (4d6) Force damage, and the target has the Restrained condition until the rope is destroyed, the erinyes uses a Bonus Action to release the target, or the erinyes uses Entangling Rope again.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

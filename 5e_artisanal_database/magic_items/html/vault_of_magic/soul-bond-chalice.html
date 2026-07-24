@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Soul Bond Chalice</title>
@@ -22,5 +29,6 @@
 - If your bonded partner is wounded, you can use a bonus action to take 4d8 slashing damage, healing your bonded partner for the same amount. If your bonded partner is reduced to 0 hit points, you can do this as a reaction.
 - If you are under the effects of a spell that has a duration but doesn't require concentration, you can use an action to touch your bonded partner to share the effects of the spell with them, splitting the remaining duration (rounded down) between you. For example, if you are affected by the mage armor spell and it has 4 hours remaining, you can use an action to touch your bonded partner to give them the benefits of the mage armor spell, reducing the duration to 2 hours on each of you.
 - If your bonded partner dies, you must make a DC 15 Constitution saving throw. On a failure, you drop to 0 hit points. On a success, you are stunned until the end of your next turn by the shock of the bond suddenly being broken. Once the chalice has been used to bond two creatures, it can't be used again until 7 days have passed.</p><p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/vault_of_magic/soul-bond-chalice.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

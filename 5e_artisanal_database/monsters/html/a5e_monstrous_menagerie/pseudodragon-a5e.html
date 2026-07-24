@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Pseudodragon</title>
@@ -56,5 +63,6 @@
 <li><strong>Telepathic Static (3/Day):</strong> The pseudodragon targets one creature it can see within 10 feet  forcing it to make a DC 11 Charisma saving throw. On a failure  its stunned until the end of its next turn as it suffers a barrage of telepathic imagery.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/a5e_monstrous_menagerie/pseudodragon-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

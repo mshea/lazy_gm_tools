@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Sea Hag</title>
@@ -62,5 +69,6 @@
 <li><strong>Horrific Transformation:</strong> The hag briefly takes on a terrifying form or reveals its true form. Each creature within 30 feet that can see the hag makes a DC 11 Wisdom saving throw. A creature under the hags curse automatically fails this saving throw. On a failure, the creature is frightened until the end of its next turn. If a creatures saving throw is successful, it is immune to the hags Horrific Transformation for 24 hours.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/a5e_monstrous_menagerie/sea-hag-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

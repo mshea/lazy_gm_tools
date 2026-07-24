@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Ouroban</title>
@@ -67,5 +74,6 @@
 <li><strong>Abyssal Fires (Recharges after a Short or Long Rest):</strong> The ouroban summons green flames under up to five creatures within 30 feet of it. Each target must succeed on a DC 17 Dexterity saving throw or take 18 (4d8) fire damage and be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a success.<br><br>The ouroban has advantage on attack rolls and ability checks against a creature poisoned by its Abyssal Fires.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/creature_codex/ouroban.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Blackguard</title>
@@ -59,5 +66,6 @@
 <li><strong>Vile Curse (1/Day):</strong> The knight utters hellish words that scald the soul. Living creatures of the knights choice within 30 feet that can hear and understand them are magically cursed for 1 minute. A d4 is subtracted from attack rolls and saving throws made by a cursed creature. A creature immune to the frightened condition is immune to this curse.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/a5e_monstrous_menagerie/blackguard-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

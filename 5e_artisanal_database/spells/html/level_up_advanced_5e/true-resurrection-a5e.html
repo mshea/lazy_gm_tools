@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>True Resurrection</title>
@@ -23,5 +30,6 @@
 <p>The spell cures any poisons and diseases that affected the target at the time of death, closes all mortal wounds, and restores any missing body parts.</p>
 <p>If no body (or body parts) exist, you can still cast the spell but must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you. This option requires diamonds worth at least 50, 000 gold (consumed by the spell).</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/true-resurrection-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

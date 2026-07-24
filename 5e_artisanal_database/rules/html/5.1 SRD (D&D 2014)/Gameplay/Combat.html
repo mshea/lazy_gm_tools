@@ -4,6 +4,13 @@
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../../../css_js/5eadb.css">
 <title>COMBAT</title>
 </head>
@@ -321,5 +328,6 @@
 <p>When making a <strong>melee weapon attack</strong>, a creature that doesn't have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident.</p>
 <p>A <strong>ranged weapon attack</strong> automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).</p>
 <p>Creatures and objects that are fully immersed in water have resistance to fire damage.</p>
+<script src="../../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

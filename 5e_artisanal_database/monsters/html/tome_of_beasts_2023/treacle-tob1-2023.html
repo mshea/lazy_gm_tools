@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Treacle</title>
@@ -58,5 +65,6 @@
 <li><strong>Mimic Innocence:</strong> When a creature the treacle can see moves within 120 feet of it, the treacle squishes, stretches, and molds its body into the shape of a Tiny Beast or object the creature finds least threatening, such as an injured rabbit or a long-lost toy. The treacle's body takes on most of the coloration of the desired shape, but some part of it is always white, pale, or pearlescent. Regardless of the shape, the treacle's flesh doesn't change and is soft and plush to the touch. The treacle can maintain this shape for up to 8 hours or until another creature it can see moves within 120 feet of it.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/tome_of_beasts_2023/treacle-tob1-2023.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

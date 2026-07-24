@@ -2,7 +2,7 @@
 // Contains name, level, classes, source, and HTML links for custom spells
 // Format matches spells_data.js for compatibility
 
-const customSpellsData = [
+window.customSpellsData = [
   {
     "name": "Death Sphere",
     "level": 3,

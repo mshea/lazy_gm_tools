@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Arcanists Magic Aura - 5.2 SRD</title>
 </head>
@@ -17,5 +23,6 @@
 <p>With a touch, you place an illusion on a willing creature or an object that isn't being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.</p>
 <p><strong><em>Mask (Creature).</em></strong> Choose a creature type other than the target's actual type. Spells and other magical effects treat the target as if it were a creature of the chosen type.</p>
 <p><strong><em>False Aura (Object).</em></strong> You change the way the target appears to spells and magical effects that detect magical auras, such as <em>Detect Magic</em>. You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object's aura so that it appears to belong to a school of magic you choose.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

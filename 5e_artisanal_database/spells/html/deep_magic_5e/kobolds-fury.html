@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Kobold’s Fury</title>
@@ -21,5 +28,6 @@
 </ul>
 <p>Your touch infuses the rage of a threatened kobold into the target. The target has advantage on melee weapon attacks until the end of its next turn. In addition, its next successful melee weapon attack against a creature larger than itself does an additional 2d8 damage.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/deep_magic_5e/kobolds-fury.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Lizard, Giant</title>
@@ -55,5 +62,6 @@
 <li><strong>Detach Tail (9 HP or Fewer, Recharges after a Short or Long Rest):</strong> When the lizard takes damage, it can detach its tail, reducing the damage by 4 (1d8), and immediately move up to its speed without provoking opportunity attacks.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/lizard_giant_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

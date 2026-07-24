@@ -3,6 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem("5eadb-theme");
+    if (t && t !== "light") document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <title>Harpy - 5.2 SRD</title>
 </head>
@@ -72,5 +78,6 @@
 <h3 id="actions">Actions</h3>
 <p><strong><em>Claw.</em></strong> <em>Melee Attack Roll:</em> +3, reach 5 ft. 6 (2d4 + 1) Slashing damage.</p>
 <p><strong><em>Luring Song.</em></strong> The harpy sings a magical melody, which lasts until the harpy's  Concentration ends on it. <em>Wisdom Saving Throw</em>: DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. <em>Failure:</em>  The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn't avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. <em>Success:</em>  The target is immune to this harpy's Luring Song for 24 hours.</p>
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

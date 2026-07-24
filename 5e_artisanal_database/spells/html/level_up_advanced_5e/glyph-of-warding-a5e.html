@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Glyph of Warding</title>
@@ -28,5 +35,6 @@
 </ul>
 <p><strong>Using a Higher-Level Spell Slot.</strong> The cost of the material component increases by 200 gold for each slot level above 3rd. For Explosive Runes, the damage increases by 1d8 for each slot level above 3rd, and for Spell Glyph you can store a spell of up to the same level as the spell slot used to cast glyph of warding.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/glyph-of-warding-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

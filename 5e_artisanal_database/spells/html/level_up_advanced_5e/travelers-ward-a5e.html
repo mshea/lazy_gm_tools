@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Traveler's Ward</title>
@@ -22,5 +29,6 @@
 <p>Until the spell ends, creatures have disadvantage on Sleight of Hand checks made against the target.</p>
 <p>If a creature fails a Sleight of Hand check to steal from the target, the ward creates a loud noise and a flash of bright light easily heard and seen by creatures within 100 feet.</p>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/level_up_advanced_5e/travelers-ward-a5e.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>

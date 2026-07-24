@@ -7,14 +7,21 @@ Learn about the licensing of the data of this tool in the license.html file loca
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
 <meta name="robots" content="noindex">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <link rel="stylesheet" href="../../css_js/5eadb.css">
 <style>
 /* Map Annotator specific overrides */
 body {
     max-width: 1200px;
     font-size: 16px;
-    background-color: white;
-    color: black;
+    background-color: var(--bg-body);
+    color: var(--text-body);
 }
 
 /* Prevent iOS zoom on inputs - override shared CSS */
@@ -25,8 +32,8 @@ input, button, select, textarea {
 .controls {
     margin: 10px 0;
     padding: 8px;
-    border: 1px solid #999;
-    background-color: #e8e8e8;
+    border: 1px solid var(--border-color-input);
+    background-color: var(--bg-filter-header-hover);
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -46,15 +53,15 @@ input, button, select, textarea {
 }
 
 .controls input[type="file"] {
-    background-color: white;
-    color: black;
-    border: 1px solid #999;
+    background-color: var(--bg-input);
+    color: var(--text-input);
+    border: 1px solid var(--border-color-input);
 }
 
 .controls input[type="text"], .controls input[type="number"], .controls textarea {
-    background-color: white;
-    color: black;
-    border: 1px solid #999;
+    background-color: var(--bg-input);
+    color: var(--text-input);
+    border: 1px solid var(--border-color-input);
     width: 150px;
     resize: vertical;
 }
@@ -62,44 +69,44 @@ input, button, select, textarea {
 .controls input[type="color"] {
     width: 40px;
     height: 28px;
-    border: 1px solid #999;
-    border-radius: 4px;
+    border: 1px solid var(--border-color-input);
+    border-radius: var(--border-radius);
     padding: 0;
     background: none;
     cursor: pointer;
 }
 
 .controls select {
-    background-color: white;
-    color: black;
-    border: 1px solid #999;
+    background-color: var(--bg-input);
+    color: var(--text-input);
+    border: 1px solid var(--border-color-input);
     padding: 4px;
     font-size: 16px;
-    border-radius: 4px;
+    border-radius: var(--border-radius);
     width: 140px;
 }
 
 .controls button {
-    background-color: #666;
-    color: white;
+    background-color: var(--bg-button-secondary);
+    color: var(--text-button-secondary);
     border: none;
     padding: 6px 10px;
     font-size: 24px;
 }
 
 .controls button:hover {
-    background-color: #555;
+    background-color: var(--bg-button-secondary-hover);
 }
 
 .controls button.active {
-    background-color: #444;
+    background-color: var(--bg-ability-btn);
 }
 
 .map-container {
     position: relative;
     margin: 20px 0;
-    border: 2px solid #999;
-    background-color: #f0f0f0;
+    border: 2px solid var(--border-color-input);
+    background-color: var(--bg-table-header);
     min-height: 400px;
     overflow: auto;
     max-height: 80vh;
@@ -127,7 +134,7 @@ input, button, select, textarea {
     cursor: pointer;
     font-size: 24px;
     font-weight: bold;
-    border-radius: 4px;
+    border-radius: var(--border-radius);
     min-width: 40px;
 }
 
@@ -179,7 +186,7 @@ input, button, select, textarea {
 }
 
 .text-label:hover {
-    outline: 2px dashed #666;
+    outline: 2px dashed var(--text-muted);
 }
 
 .text-label.selected {
@@ -189,8 +196,8 @@ input, button, select, textarea {
 .label-controls {
     margin: 0;
     padding: 8px;
-    border: 1px solid #999;
-    background-color: #f9f9f9;
+    border: 1px solid var(--border-color-input);
+    background-color: var(--bg-surface-alt);
     display: none;
 }
 
@@ -204,16 +211,16 @@ input, button, select, textarea {
 }
 
 .label-controls input {
-    background-color: white;
-    color: black;
-    border: 1px solid #999;
+    background-color: var(--bg-input);
+    color: var(--text-input);
+    border: 1px solid var(--border-color-input);
     padding: 4px;
     margin: 2px;
 }
 
 .no-map {
     text-align: center;
-    color: #666;
+    color: var(--text-muted);
     font-style: italic;
     padding: 60px 20px;
 }
@@ -232,79 +239,15 @@ input, button, select, textarea {
 }
 
 .file-controls button {
-    background-color: #666;
-    color: white;
+    background-color: var(--bg-button-secondary);
+    color: var(--text-button-secondary);
     border: none;
     padding: 8px 12px;
     font-size: 24px;
-    border-radius: 4px;
+    border-radius: var(--border-radius);
 }
 
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #000;
-        color: #e0e0e0;
-    }
 
-    .controls {
-        background-color: #111;
-        border-color: #555;
-    }
-
-    .controls input[type="file"],
-    .controls input[type="text"],
-    .controls input[type="number"],
-    .controls textarea {
-        background-color: #333;
-        color: #e0e0e0;
-        border-color: #555;
-    }
-
-    .controls select {
-        background-color: #333;
-        color: #e0e0e0;
-        border-color: #555;
-    }
-
-    .map-container {
-        background-color: #000;
-        border-color: #555;
-    }
-
-    .zoom-controls {
-        background: rgba(0, 0, 0, 0.3);
-    }
-
-    .zoom-controls button {
-        background-color: rgba(51, 51, 51, 0.9);
-    }
-
-    .zoom-controls button:hover {
-        background-color: rgba(68, 68, 68, 0.9);
-    }
-
-    .label-controls {
-        background-color: #111;
-        border-color: #555;
-    }
-
-    .label-controls input {
-        background-color: #333;
-        color: #e0e0e0;
-        border-color: #555;
-    }
-
-    .no-map {
-        color: #bbb;
-    }
-
-    input[type="number"]::-webkit-inner-spin-button,
-    input[type="number"]::-webkit-outer-spin-button {
-        opacity: 1;
-        filter: invert(1);
-    }
-}
 </style>
 <title>Map Annotator - 5e Artisanal Database</title>
 </head>
@@ -984,5 +927,6 @@ document.addEventListener('wheel', handleMouseWheel, { passive: false });
 
 <p>No images are saved to any server when using this tool. All file manipulation happens in your local web browser.</p>
 
+<script src="../../css_js/theme-switcher.js"></script>
 </body>
 </html>

@@ -3,6 +3,13 @@
 <head>
 <meta name="viewport" content="user-scalable=yes, width=device-width">
 <meta charset="UTF-8">
+<script>
+  (function() {
+    var t = localStorage.getItem('5eadb-theme');
+    if (t && t !== 'light') document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="../../../css_js/5eadb.css">
 <title>Tyrannosaurus Rex</title>
@@ -61,5 +68,6 @@
 <li><strong>Rending Shake:</strong> While grappling a creature, the tyrannosaurus shakes its head, tearing at the creature. The grappled creature must succeed on a DC 16 STR save or take 6 (1d12) slashing damage and be thrown up to 20 feet in a random direction and knocked prone. If the thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 16 DEX save or take the same damage and be knocked prone.</li>
 </ul>
 <p><a href="../../../licensing.html">Licensing</a> – <a href="../../md/black_flag/tyrannosaurus_rex_bf.md">Markdown Format</a></p>
+<script src="../../../css_js/theme-switcher.js"></script>
 </body>
 </html>
