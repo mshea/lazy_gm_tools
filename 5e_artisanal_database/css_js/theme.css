@@ -1,0 +1,85 @@
+/* Dark Theme for 5e Artisanal Database
+   Copy or rename this file to theme.css to activate.
+   Variables override :root defaults in 5eadb.css.
+*/
+:root {
+    /* Background colors - pure black and white */
+    --bg-body: #000000;
+    --bg-surface: #000000;
+    --bg-surface-alt: #111111;
+    --bg-input: #000000;
+    --bg-button: #111111;
+    --bg-button-hover: #222222;
+    --bg-button-secondary: #222222;
+    --bg-button-secondary-hover: #333333;
+    --bg-table-header: #000000;
+    --bg-filter-container: #000000;
+    --bg-filter-header-hover: #111111;
+    --bg-filter-item: #000000;
+    --bg-filter-item-hover: #111111;
+    --bg-filter-count: #000000;
+    --bg-dropdown: #000000;
+    --bg-dropdown-hover: #111111;
+    --bg-dropdown-selected: #222222;
+    --bg-current-turn: #111111;
+    --bg-ability-card: #000000;
+    --bg-controls: #000000;
+    --bg-results: #000000;
+    --bg-remove-btn: #660000;
+    --bg-remove-btn-hover: #880000;
+    --bg-remove-btn-alt: #660000;
+    --bg-remove-btn-alt-hover: #880000;
+    --bg-search-btn: #000000;
+    --bg-search-btn-hover: #111111;
+    --bg-ability-btn: #222222;
+    --bg-ability-btn-hover: #333333;
+    --bg-ability-btn-disabled: #111111;
+    --bg-add-btn: #222222;
+    --bg-add-btn-hover: #333333;
+    --bg-reset-btn: #222222;
+    --bg-reset-btn-hover: #333333;
+    --bg-dice: #000000;
+    --bg-dice-hover: #111111;
+    --bg-history: #000000;
+
+    /* Text colors - pure white */
+    --text-body: #ffffff;
+    --text-heading: #ffffff;
+    --text-muted: #cccccc;
+    --text-link: #ffffff;
+    --text-link-hover: #cccccc;
+    --text-button: #ffffff;
+    --text-button-hover: #ffffff;
+    --text-button-secondary: #ffffff;
+    --text-filter-section: #ffffff;
+    --text-label: #ffffff;
+    --text-input: #ffffff;
+    --text-placeholder: #888888;
+
+    /* Border colors - white on black */
+    --border-color: #333333;
+    --border-color-light: #222222;
+    --border-color-strong: #ffffff;
+    --border-color-input: #333333;
+    --border-color-input-focus: #ffffff;
+    --border-color-button: #333333;
+    --border-color-search-btn: #333333;
+    --border-color-table: #444444;
+    --border-color-result: #333333;
+    --border-color-section: #333333;
+    --border-color-ability: #444444;
+    --border-color-ability-score: #ffffff;
+    --border-color-controls: #333333;
+    --border-color-dice: #444444;
+
+    /* Accent / highlight */
+    --highlight-bg: #ffffff;
+    --highlight-text: #000000;
+
+    /* Difficulty colors */
+    --difficulty-easy: #4caf50;
+    --difficulty-medium: #ff9800;
+    --difficulty-hard: #f44336;
+    --difficulty-deadly: #b71c1c;
+    --difficulty-warning: #ffd54f;
+}
