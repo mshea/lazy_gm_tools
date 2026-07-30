@@ -472,6 +472,7 @@ label {
 
 .highlight {
     background-color: var(--highlight-bg);
+    color: var(--highlight-text);
     padding: 1px 2px;
 }
 
@@ -986,6 +987,7 @@ body.encounter-calculator th {
 
 .rules-search .highlight {
     background-color: var(--highlight-bg);
+    color: var(--highlight-text);
     padding: 2px 4px;
     border-radius: 2px;
 }
