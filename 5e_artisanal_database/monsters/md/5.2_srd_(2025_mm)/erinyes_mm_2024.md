@@ -40,3 +40,6 @@
 
 ***Entangling Rope (Requires Magic Rope).*** *Strength Saving Throw*: DC 16, one creature the erinyes can see within 120 feet. *Failure:*  14 (4d6) Force damage, and the target has the Restrained condition until the rope is destroyed, the erinyes uses a Bonus Action to release the target, or the erinyes uses Entangling Rope again.
 
+## Reactions
+
+***Parry.*** *Trigger:* The erinyes is hit by a melee attack roll while holding a weapon. *Response:* The erinyes adds 4 to its AC against that attack, possibly causing it to miss.

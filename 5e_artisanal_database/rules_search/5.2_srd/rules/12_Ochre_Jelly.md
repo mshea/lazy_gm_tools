@@ -31,3 +31,8 @@
 ### Actions
 
 ***Pseudopod.*** *Melee Attack Roll:* +4, reach 5 ft. 12 (3d6 + 2) Acid damage.
+
+
+### Reactions
+
+***Split.*** *Trigger:* While the jelly is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. *Response:* The jelly splits into two new **Ochre Jellies**. Each new jelly is one size smaller than the original jelly and acts on its Initiative. The original jelly's Hit Points are divided evenly between the new jellies (round down).

@@ -20,3 +20,6 @@
 - **Senses**: blindsight 30 ft.; Passive Perception 6
 - **CR** 0 (XP 0)
 
+## Reactions
+
+***Shriek.*** *Trigger:* A creature or a source of Bright Light moves within 30 feet of the shrieker. *Response:* The shrieker emits a shriek audible within 300 feet of itself for 1 minute or until the shrieker dies.

@@ -34,3 +34,6 @@
 
 ***Destroy Metal.*** The rust monster touches a nonmagical metal object within 5 feet of itself that isn't being worn or carried. The touch destroys a 1-foot Cube of the object.
 
+## Reactions
+
+***Reflexive Antennae.*** *Trigger:* An attack roll hits the rust monster. *Response:* The rust monster uses Antennae.

@@ -29,3 +29,6 @@
 
 ***Boulder.*** *Ranged Attack Roll:* +9, range 60/240 ft. 15 (2d8 + 6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
 
+## Reactions
+
+***Deflect Missile (Recharge 5-6).*** *Trigger:* The giant is hit by a ranged attack roll and takes Bludgeoning, Piercing, or Slashing damage from it. *Response:* The giant reduces the damage it takes from the attack by 11 (1d10 + 6), and if that damage is reduced to 0, the giant can redirect some of the attack's force. *Dexterity Saving Throw:* DC 17, one creature the giant can see within 60 feet. *Failure:* 11 (1d10 + 6) Force damage.

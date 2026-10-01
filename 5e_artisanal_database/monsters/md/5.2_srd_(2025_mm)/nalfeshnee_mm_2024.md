@@ -42,3 +42,6 @@
 
 ***Horror Nimbus (Recharge 5-6).*** *Wisdom Saving Throw*: DC 15, each creature in a 15-foot Emanation originating from the nalfeshnee. *Failure:*  28 (8d6) Psychic damage, and the target has the Frightened condition for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee out of line of sight. *Success:*  The target is immune to this nalfeshnee's Horror Nimbus for 24 hours.
 
+## Reactions
+
+***Pursuit.*** *Trigger:* Another creature the nalfeshnee can see ends its move within 120 feet of the nalfeshnee. *Response:* The nalfeshnee uses Teleport, but its destination space must be within 10 feet of the triggering creature.

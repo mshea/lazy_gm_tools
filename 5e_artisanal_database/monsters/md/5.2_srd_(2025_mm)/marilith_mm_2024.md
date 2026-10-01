@@ -45,3 +45,6 @@
 
 ***Teleport (Recharge 5-6).*** The marilith teleports up to 120 feet to an unoccupied space it can see.
 
+## Reactions
+
+***Parry.*** *Trigger:* The marilith is hit by a melee attack roll while holding a weapon. *Response:* The marilith adds 5 to its AC against that attack, possibly causing it to miss.

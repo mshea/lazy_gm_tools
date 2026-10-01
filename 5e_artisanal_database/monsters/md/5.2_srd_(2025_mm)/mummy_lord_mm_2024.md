@@ -47,6 +47,10 @@
 - **At Will:** *Dispel Magic*, *Thaumaturgy*
 - **1e/Day Each:** *Animate Dead*, *Harm*, *Insect Plague*
 
+## Reactions
+
+***Whirlwind of Sand.*** *Trigger:* The mummy is hit by an attack roll. *Response:* The mummy adds 2 to its AC against the attack, possibly causing the attack to miss, and the mummy teleports up to 60 feet to an unoccupied space it can see. Each creature of its choice that it can see within 5 feet of its destination space has the Blinded condition until the end of the mummy's next turn.
+
 ## Legendary Actions
 
 ***Glare.*** The mummy uses Dreadful Glare. The mummy can't take this action again until the start of its next turn.

@@ -1808,6 +1808,9 @@ While grappling the target, the rug can't take this action, the rug halves the d
 ***Pistol.*** *Ranged Attack Roll:* +5, range 30/90 ft. 8 (1d10 + 3) Piercing damage.
 
 
+### Reactions
+
+***Parry.*** *Trigger:* The bandit is hit by a melee attack roll while holding a weapon. *Response:* The bandit adds 2 to its AC against that attack, possibly causing it to miss.
 
 ## Barbed Devil
 
@@ -2135,6 +2138,9 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 ***Dissolving Pseudopod.*** *Melee Attack Roll:* +5, reach 10 ft. 17 (4d6 + 3) Acid damage. Nonmagical armor worn by the target takes a -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the *Mending* spell on the armor.
 
 
+### Reactions
+
+***Split.*** *Trigger:* While the pudding is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. *Response:* The pudding splits into two new **Black Puddings**. Each new pudding is one size smaller than the original pudding and acts on its Initiative. The original pudding's Hit Points are divided evenly between the new puddings (round down).
 
 ## Blink Dog
 
@@ -2675,6 +2681,9 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 ***Conjure Infernal Chain.*** The devil conjures a fiery chain to bind a creature. *Dexterity Saving Throw*: DC 15, one creature the devil can see within 60 feet. *Failure:*  9 (2d4 + 4) Fire damage, and the target has the Restrained condition until the end of the devil's next turn, at which point the chain disappears. If the target is Large or smaller, the devil moves the target up to 30 feet straight toward itself. *Success:*  The chain disappears.
 
 
+### Reactions
+
+***Unnerving Gaze.*** *Trigger:* A creature the devil can see starts its turn within 30 feet of the devil and can see the devil. *Response—Wisdom Saving Throw:* DC 15, the triggering creature. *Failure:* The target has the Frightened condition until the end of its turn. *Success:* The target is immune to this devil's Unnerving Gaze for 24 hours.
 
 ## Chimera
 
@@ -3960,6 +3969,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 ***Entangling Rope (Requires Magic Rope).*** *Strength Saving Throw*: DC 16, one creature the erinyes can see within 120 feet. *Failure:*  14 (4d6) Force damage, and the target has the Restrained condition until the rope is destroyed, the erinyes uses a Bonus Action to release the target, or the erinyes uses Entangling Rope again.
 
 
+### Reactions
+
+***Parry.*** *Trigger:* The erinyes is hit by a melee attack roll while holding a weapon. *Response:* The erinyes adds 4 to its AC against that attack, possibly causing it to miss.
 
 ## Ettercap
 
@@ -4976,6 +4988,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 ***Tentacles.*** *Melee Attack Roll:* +5, reach 10 ft. 10 (2d6 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from all eight tentacles. While Grappled, the target has the Restrained condition.
 
 
+### Reactions
+
+***Ink Cloud (1/Day).*** *Trigger:* The octopus takes damage while underwater. *Response:* The octopus releases ink that fills a 10-foot Cube centered on itself, and the octopus moves up to its Swim Speed. The Cube is Heavily Obscured for 1 minute or until a strong current or similar effect disperses the ink.
 
 ## Giant Owl
 
@@ -5502,6 +5517,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 ***Shield Bash.*** *Strength Saving Throw*: DC 15, one creature within 5 feet that the gladiator can see. *Failure:*  9 (2d4 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
 
+### Reactions
+
+***Parry.*** *Trigger:* The gladiator is hit by a melee attack roll while holding a weapon. *Response:* The gladiator adds 3 to its AC against that attack, possibly causing it to miss.
 
 ## Gnoll Warrior
 
@@ -5604,6 +5622,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 ***Nimble Escape.*** The goblin takes the Disengage or Hide action.
 
 
+### Reactions
+
+***Redirect Attack.*** *Trigger:* A creature the goblin can see makes an attack roll against it. *Response:* The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap places, and the ally becomes the target of the attack instead.
 
 ## Goblin Minion
 
@@ -6971,6 +6992,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 ***Heavy Crossbow.*** *Ranged Attack Roll:* +2, range 100/400 ft. 11 (2d10) Piercing damage plus 4 (1d8) Radiant damage.
 
 
+### Reactions
+
+***Parry.*** *Trigger:* The knight is hit by a melee attack roll while holding a weapon. *Response:* The knight adds 2 to its AC against that attack, possibly causing it to miss.
 
 ## Kobold Warrior
 
@@ -7507,6 +7531,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 ***Teleport (Recharge 5-6).*** The marilith teleports up to 120 feet to an unoccupied space it can see.
 
 
+### Reactions
+
+***Parry.*** *Trigger:* The marilith is hit by a melee attack roll while holding a weapon. *Response:* The marilith adds 5 to its AC against that attack, possibly causing it to miss.
 
 ## Mastiff
 
@@ -7867,6 +7894,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **At Will:** *Dispel Magic*, *Thaumaturgy*
 - **1e/Day Each:** *Animate Dead*, *Harm*, *Insect Plague*
 
+
+### Reactions
+
+***Whirlwind of Sand.*** *Trigger:* The mummy is hit by an attack roll. *Response:* The mummy adds 2 to its AC against the attack, possibly causing the attack to miss, and the mummy teleports up to 60 feet to an unoccupied space it can see. Each creature of its choice that it can see within 5 feet of its destination space has the Blinded condition until the end of the mummy's next turn.
+
 ### Legendary Actions
 
 ***Glare.*** The mummy uses Dreadful Glare. The mummy can't take this action again until the start of its next turn.
@@ -7921,6 +7953,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 ***Horror Nimbus (Recharge 5-6).*** *Wisdom Saving Throw*: DC 15, each creature in a 15-foot Emanation originating from the nalfeshnee. *Failure:*  28 (8d6) Psychic damage, and the target has the Frightened condition for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee out of line of sight. *Success:*  The target is immune to this nalfeshnee's Horror Nimbus for 24 hours.
 
 
+### Reactions
+
+***Pursuit.*** *Trigger:* Another creature the nalfeshnee can see ends its move within 120 feet of the nalfeshnee. *Response:* The nalfeshnee uses Teleport, but its destination space must be within 10 feet of the triggering creature.
 
 ## Night Hag
 
@@ -8044,6 +8079,9 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 ***Rapier.*** *Melee Attack Roll:* +3, reach 5 ft. 5 (1d8 + 1) Piercing damage.
 
 
+### Reactions
+
+***Parry.*** *Trigger:* The noble is hit by a melee attack roll while holding a weapon. *Response:* The noble adds 2 to its AC against that attack, possibly causing it to miss.
 
 ## Ochre Jelly
 
@@ -8080,6 +8118,9 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 ***Pseudopod.*** *Melee Attack Roll:* +4, reach 5 ft. 12 (3d6 + 2) Acid damage.
 
 
+### Reactions
+
+***Split.*** *Trigger:* While the jelly is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. *Response:* The jelly splits into two new **Ochre Jellies**. Each new jelly is one size smaller than the original jelly and acts on its Initiative. The original jelly's Hit Points are divided evenly between the new jellies (round down).
 
 ## Ogre
 
@@ -8501,6 +8542,9 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 ***Captain's Charm.*** *Wisdom Saving Throw*: DC 14, one creature the pirate can see within 30 feet. *Failure:*  The target has the Charmed condition until the start of the pirate's next turn.
 
 
+### Reactions
+
+***Riposte.*** *Trigger:* The pirate is hit by a melee attack roll while holding a weapon. *Response:* The pirate adds 3 to its AC against that attack, possibly causing it to miss. On a miss, the pirate makes one Rapier attack against the triggering creature if within range.
 
 ## Pit Fiend
 
@@ -9324,6 +9368,9 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 ***Destroy Metal.*** The rust monster touches a nonmagical metal object within 5 feet of itself that isn't being worn or carried. The touch destroys a 1-foot Cube of the object.
 
 
+### Reactions
+
+***Reflexive Antennae.*** *Trigger:* An attack roll hits the rust monster. *Response:* The rust monster uses Antennae.
 
 ## Saber-Toothed Tiger
 
@@ -9742,6 +9789,9 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 ***Fist.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Force damage.
 
 
+### Reactions
+
+***Protection.*** *Trigger:* An attack roll hits the wearer of the guardian's amulet while the wearer is within 5 feet of the guardian. *Response:* The wearer gains a +5 bonus to AC, including against the triggering attack and possibly causing it to miss, until the start of the guardian's next turn.
 
 ## Shrieker Fungus
 
@@ -9766,6 +9816,9 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **CR** 0 (XP 0)
 
 
+### Reactions
+
+***Shriek.*** *Trigger:* A creature or a source of Bright Light moves within 30 feet of the shrieker. *Response:* The shrieker emits a shriek audible within 300 feet of itself for 1 minute or until the shrieker dies.
 
 ## Silver Dragon Wyrmling
 
@@ -10078,6 +10131,9 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Slashing damage plus 7 (2d6) Radiant damage.
 
 
+### Reactions
+
+***Burst of Ingenuity (2/Day).*** *Trigger:* The sphinx or another creature within 30 feet makes an ability check or a saving throw. *Response:* The sphinx adds 2 to the roll.
 
 ## Spider
 
@@ -10329,6 +10385,9 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 ***Boulder.*** *Ranged Attack Roll:* +9, range 60/240 ft. 15 (2d8 + 6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
 
 
+### Reactions
+
+***Deflect Missile (Recharge 5-6).*** *Trigger:* The giant is hit by a ranged attack roll and takes Bludgeoning, Piercing, or Slashing damage from it. *Response:* The giant reduces the damage it takes from the attack by 11 (1d10 + 6), and if that damage is reduced to 0, the giant can redirect some of the attack's force. *Dexterity Saving Throw:* DC 17, one creature the giant can see within 60 feet. *Failure:* 11 (1d10 + 6) Force damage.
 
 ## Stone Golem
 
@@ -11533,6 +11592,9 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 ***Heavy Crossbow.*** *Ranged Attack Roll:* +3, range 100/400 ft. 12 (2d10 + 1) Piercing damage.
 
 
+### Reactions
+
+***Parry.*** *Trigger:* The warrior is hit by a melee attack roll while holding a weapon. *Response:* The warrior adds 2 to its AC against that attack, possibly causing it to miss.
 
 ## Water Elemental
 

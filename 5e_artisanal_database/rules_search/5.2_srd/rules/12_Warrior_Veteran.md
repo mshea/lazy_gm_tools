@@ -29,3 +29,8 @@
 ***Greatsword.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage.
 
 ***Heavy Crossbow.*** *Ranged Attack Roll:* +3, range 100/400 ft. 12 (2d10 + 1) Piercing damage.
+
+
+### Reactions
+
+***Parry.*** *Trigger:* The warrior is hit by a melee attack roll while holding a weapon. *Response:* The warrior adds 2 to its AC against that attack, possibly causing it to miss.

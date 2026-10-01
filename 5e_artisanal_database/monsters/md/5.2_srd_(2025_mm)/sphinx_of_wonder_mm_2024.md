@@ -31,3 +31,6 @@
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Slashing damage plus 7 (2d6) Radiant damage.
 
+## Reactions
+
+***Burst of Ingenuity (2/Day).*** *Trigger:* The sphinx or another creature within 30 feet makes an ability check or a saving throw. *Response:* The sphinx adds 2 to the roll.

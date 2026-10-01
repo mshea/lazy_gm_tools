@@ -25,3 +25,8 @@
 ### Actions
 
 ***Rapier.*** *Melee Attack Roll:* +3, reach 5 ft. 5 (1d8 + 1) Piercing damage.
+
+
+### Reactions
+
+***Parry.*** *Trigger:* The noble is hit by a melee attack roll while holding a weapon. *Response:* The noble adds 2 to its AC against that attack, possibly causing it to miss.

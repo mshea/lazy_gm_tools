@@ -36,3 +36,8 @@
 ***Chain.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Slashing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two chains, and it has the Restrained condition until the grapple ends.
 
 ***Conjure Infernal Chain.*** The devil conjures a fiery chain to bind a creature. *Dexterity Saving Throw*: DC 15, one creature the devil can see within 60 feet. *Failure:*  9 (2d4 + 4) Fire damage, and the target has the Restrained condition until the end of the devil's next turn, at which point the chain disappears. If the target is Large or smaller, the devil moves the target up to 30 feet straight toward itself. *Success:*  The chain disappears.
+
+
+### Reactions
+
+***Unnerving Gaze.*** *Trigger:* A creature the devil can see starts its turn within 30 feet of the devil and can see the devil. *Response—Wisdom Saving Throw:* DC 15, the triggering creature. *Failure:* The target has the Frightened condition until the end of its turn. *Success:* The target is immune to this devil's Unnerving Gaze for 24 hours.

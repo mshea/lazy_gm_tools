@@ -36,3 +36,6 @@
 
 ***Fist.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Force damage.
 
+## Reactions
+
+***Protection.*** *Trigger:* An attack roll hits the wearer of the guardian's amulet while the wearer is within 5 feet of the guardian. *Response:* The wearer gains a +5 bonus to AC, including against the triggering attack and possibly causing it to miss, until the start of the guardian's next turn.

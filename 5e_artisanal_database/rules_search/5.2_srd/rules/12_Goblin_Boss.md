@@ -34,3 +34,8 @@
 ### Bonus Actions
 
 ***Nimble Escape.*** The goblin takes the Disengage or Hide action.
+
+
+### Reactions
+
+***Redirect Attack.*** *Trigger:* A creature the goblin can see makes an attack roll against it. *Response:* The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap places, and the ally becomes the target of the attack instead.

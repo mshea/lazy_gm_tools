@@ -29,3 +29,8 @@
 ***Scimitar.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Slashing damage.
 
 ***Pistol.*** *Ranged Attack Roll:* +5, range 30/90 ft. 8 (1d10 + 3) Piercing damage.
+
+
+### Reactions
+
+***Parry.*** *Trigger:* The bandit is hit by a melee attack roll while holding a weapon. *Response:* The bandit adds 2 to its AC against that attack, possibly causing it to miss.

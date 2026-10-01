@@ -34,3 +34,8 @@
 ### Bonus Actions
 
 ***Captain's Charm.*** *Wisdom Saving Throw*: DC 14, one creature the pirate can see within 30 feet. *Failure:*  The target has the Charmed condition until the start of the pirate's next turn.
+
+
+### Reactions
+
+***Riposte.*** *Trigger:* The pirate is hit by a melee attack roll while holding a weapon. *Response:* The pirate adds 3 to its AC against that attack, possibly causing it to miss. On a miss, the pirate makes one Rapier attack against the triggering creature if within range.

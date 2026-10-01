@@ -30,3 +30,6 @@
 
 ***Shield Bash.*** *Strength Saving Throw*: DC 15, one creature within 5 feet that the gladiator can see. *Failure:*  9 (2d4 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
+## Reactions
+
+***Parry.*** *Trigger:* The gladiator is hit by a melee attack roll while holding a weapon. *Response:* The gladiator adds 3 to its AC against that attack, possibly causing it to miss.

@@ -29,3 +29,6 @@
 
 ***Tentacles.*** *Melee Attack Roll:* +5, reach 10 ft. 10 (2d6 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from all eight tentacles. While Grappled, the target has the Restrained condition.
 
+## Reactions
+
+***Ink Cloud (1/Day).*** *Trigger:* The octopus takes damage while underwater. *Response:* The octopus releases ink that fills a 10-foot Cube centered on itself, and the octopus moves up to its Swim Speed. The Cube is Heavily Obscured for 1 minute or until a strong current or similar effect disperses the ink.
