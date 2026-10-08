@@ -105,6 +105,17 @@ Pages already link `css_js/theme.css`, so keep it as an empty file (or a comment
 
 Note: every theme file declares `color-scheme: only light` (or `only dark`). This tells Chrome not to force-darken the page — without it, Chrome's Auto Dark Theme renders the filter panels' form controls as unreadable black blocks on light themes.
 
+### Search Page Row Striping
+
+The Monsters, Spells, and Magic Items search pages use alternating row colors for readability, controlled by two CSS variables:
+
+- `--bg-table-stripe` — even-row background: `#ececec` in light, `#1f1f1f` in dark
+- `--bg-table-row-hover` — row hover highlight: `#f0f0f0` in light, `#2e2e2e` in dark
+
+Both are defined in `css_js/5eadb.css` (in `:root` and inside the `prefers-color-scheme: dark` block) and mirrored in each forced theme file that has its own palette (`dark.css`, `parchment.css`, `terminal.css`). `compact.css` inherits them from `5eadb.css`.
+
+If you add a custom theme, define both variables in your theme file — especially for dark themes, otherwise striped rows fall back to the light-mode stripe color.
+
 ### Adding a Custom Theme
 
 1. Create a CSS file in `css_js/` (e.g., `css_js/ocean.css`) with a `:root` selector block containing CSS variable overrides. See `css_js/dark.css` for a complete example.
