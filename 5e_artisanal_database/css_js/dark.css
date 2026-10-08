@@ -10,6 +10,8 @@
     --bg-body: #000000;
     --bg-surface: #000000;
     --bg-surface-alt: #111111;
+    --bg-table-stripe: #1f1f1f;
+    --bg-table-row-hover: #2e2e2e;
     --bg-input: #000000;
     --bg-button: #111111;
     --bg-button-hover: #222222;
@@ -23,6 +25,7 @@
     --bg-filter-count: #000000;
     --bg-dropdown: #000000;
     --bg-dropdown-hover: #111111;
+    --bg-table-row-hover: #2e2e2e;
     --bg-dropdown-selected: #222222;
     --bg-current-turn: #111111;
     --bg-ability-card: #000000;
