@@ -3,6 +3,7 @@
    Green-on-black terminal aesthetic.
 */
 :root {
+    color-scheme: only dark;
     /* Background colors */
     --bg-body: #0a0a0a;
     --bg-surface: #111111;

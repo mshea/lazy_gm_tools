@@ -3,6 +3,7 @@
    Gives a warm, paper-like feel for an old-world RPG aesthetic.
 */
 :root {
+    color-scheme: only light;
     /* Background colors */
     --bg-body: #f4e4c1;
     --bg-surface: #ead5a6;

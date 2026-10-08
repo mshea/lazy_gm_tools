@@ -3,6 +3,7 @@
    Smaller fonts, tighter spacing, more information density.
 */
 :root {
+    color-scheme: only light;
     /* Fonts - smaller base size */
     --font-size-base: 14px;
     --font-size-small: 11px;

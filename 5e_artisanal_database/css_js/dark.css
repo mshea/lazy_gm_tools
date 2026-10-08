@@ -1,8 +1,11 @@
 /* Dark Theme for 5e Artisanal Database
    Copy or rename this file to theme.css to activate.
    Variables override :root defaults in 5eadb.css.
+   NOTE: this palette is duplicated verbatim inside 5eadb.css's
+   @media (prefers-color-scheme: dark) block — keep them in sync.
 */
 :root {
+    color-scheme: only dark;
     /* Background colors - pure black and white */
     --bg-body: #000000;
     --bg-surface: #000000;

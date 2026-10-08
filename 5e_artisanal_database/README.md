@@ -74,12 +74,15 @@ I recommend using [Obsidian](https://obsidian.md) for offline retrieval of spell
 
 ## Themes
 
-The 5eADB includes six visual themes. To switch themes, copy or rename your preferred theme file to `css_js/theme.css`:
+By default, the 5eADB automatically follows the theme the user chose in their operating system: light for light-system settings, dark for dark-system settings. This is done with a CSS `prefers-color-scheme` media query — no JavaScript, and no server-side logic.
+
+On top of that, six opt-in visual themes are included. To force one theme for all users, copy or rename your preferred theme file to `css_js/theme.css`:
 
 | Theme | File | Description |
 |---|---|---|
-| **Light** (default) | *(no theme.css needed)* | Default light theme from `5eadb.css` |
-| **Dark** | `css_js/dark.css` | Dark mode — dark backgrounds, light text |
+| **Light** (default base) | — | Light palette from `5eadb.css` |
+| **Auto** (default) | *(placeholder `theme.css`, empty)* | Follows the user's system setting: light mode or dark mode |
+| **Dark** (forced) | `css_js/dark.css` | Always dark — dark backgrounds, light text |
 | **Parchment** | `css_js/parchment.css` | Warm paper-like feel with serif fonts |
 | **Terminal** | `css_js/terminal.css` | Green-on-black terminal aesthetic with monospace font |
 | **Compact** | `css_js/compact.css` | Smaller fonts and tighter spacing for higher information density |
@@ -88,16 +91,19 @@ The 5eADB includes six visual themes. To switch themes, copy or rename your pref
 
 ```bash
 # From the build scripts directory:
-bash apply_theme.sh dark
+bash apply_theme.sh dark     # force dark regardless of system setting
+bash apply_theme.sh light    # back to the default: follows the system setting
 
 # Or manually:
 cp css_js/dark.css css_js/theme.css
 
-# To revert to the default light theme:
+# Revert to following the system setting (light for light systems, dark for dark):
 rm css_js/theme.css
 ```
 
-No JavaScript needed — the theme applies to all pages immediately.
+Pages already link `css_js/theme.css`, so keep it as an empty file (or a comment) when following the system setting — deleting it 404s the link on every page.
+
+Note: every theme file declares `color-scheme: only light` (or `only dark`). This tells Chrome not to force-darken the page — without it, Chrome's Auto Dark Theme renders the filter panels' form controls as unreadable black blocks on light themes.
 
 ### Adding a Custom Theme
 
