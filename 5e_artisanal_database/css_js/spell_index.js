@@ -1611,6 +1611,7 @@ const spellIndex = {
       "Find the Path",
       "Flesh to Stone",
       "Forbiddance",
+      "Freezing Sphere",
       "Globe of Invulnerability",
       "Guards and Wards",
       "Harm",

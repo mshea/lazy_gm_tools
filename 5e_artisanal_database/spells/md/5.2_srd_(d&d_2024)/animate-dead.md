@@ -2,7 +2,7 @@
 
 - **Level**: 3 Necromancy
 - **Classes**: Cleric, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 10 feet
 - **Components**: V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
 - **Duration**: instantaneous

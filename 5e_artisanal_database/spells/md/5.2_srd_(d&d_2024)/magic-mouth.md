@@ -2,7 +2,7 @@
 
 - **Level**: 2 Illusion
 - **Classes**: Bard, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 30 feet
 - **Components**: V, S, M (jade dust worth 10+ GP, which the spell consumes)
 - **Duration**: until dispelled

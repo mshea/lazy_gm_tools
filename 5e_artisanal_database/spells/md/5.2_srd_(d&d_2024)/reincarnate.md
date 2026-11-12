@@ -2,7 +2,7 @@
 
 - **Level**: 5 Necromancy
 - **Classes**: Druid
-- **Casting Time**: hour
+- **Casting Time**: 1 hour
 - **Range**: Touch
 - **Components**: V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
 - **Duration**: instantaneous
@@ -11,7 +11,7 @@
 You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body's species, or the GM chooses another playable species.
 
 | 1d10 | Species |
-| ------ | ------------- |
+| --- | --- |
 | 1 | Roll again. |
 | 2 | Dragonborn |
 | 3 | Dwarf |

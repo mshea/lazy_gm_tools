@@ -2,7 +2,7 @@
 
 - **Level**: 6 Conjuration
 - **Classes**: Bard, Cleric, Druid
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Self
 - **Components**: V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)
 - **Duration**: instantaneous

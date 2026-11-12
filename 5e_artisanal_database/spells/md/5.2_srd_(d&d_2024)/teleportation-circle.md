@@ -2,7 +2,7 @@
 
 - **Level**: 5 Conjuration
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 10 feet
 - **Components**: V, M (rare inks worth 50+ GP, which the spell consumes)
 - **Duration**: 1 round

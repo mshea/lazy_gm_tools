@@ -2,7 +2,7 @@
 
 - **Level**: 3 Illusion
 - **Classes**: Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 30 feet
 - **Components**: V, S
 - **Duration**: 1 hour

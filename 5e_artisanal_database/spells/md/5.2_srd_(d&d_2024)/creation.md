@@ -2,7 +2,7 @@
 
 - **Level**: 5 Illusion
 - **Classes**: Sorcerer, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 30 feet
 - **Components**: V, S, M (a paintbrush)
 - **Duration**: special

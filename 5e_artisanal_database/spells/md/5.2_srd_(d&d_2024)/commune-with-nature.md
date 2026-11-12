@@ -2,7 +2,7 @@
 
 - **Level**: 5 Divination
 - **Classes**: Druid, Ranger
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: instantaneous

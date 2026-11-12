@@ -2,7 +2,7 @@
 
 - **Level**: 5 Necromancy
 - **Classes**: Bard, Cleric, Paladin
-- **Casting Time**: hour
+- **Casting Time**: 1 hour
 - **Range**: Touch
 - **Components**: V, S, M (a diamond worth 500+ GP, which the spell consumes)
 - **Duration**: instantaneous

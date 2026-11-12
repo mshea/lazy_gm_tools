@@ -2,7 +2,7 @@
 
 - **Level**: 6 Necromancy
 - **Classes**: Cleric, Warlock, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 10 feet
 - **Components**: V, S, M (one 150+ GP black onyx stone for each corpse)
 - **Duration**: instantaneous

@@ -2,7 +2,7 @@
 
 - **Level**: 1 Divination
 - **Classes**: Bard, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Touch
 - **Components**: V, S, M (a pearl worth 100+ GP)
 - **Duration**: instantaneous

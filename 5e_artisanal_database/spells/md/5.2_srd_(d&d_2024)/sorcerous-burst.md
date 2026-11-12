@@ -4,7 +4,7 @@
 - **Classes**: Sorcerer
 - **Casting Time**: 1 action
 - **Range**: 120 feet
-- **Components**: 
+- **Components**: V, S
 - **Duration**: instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 

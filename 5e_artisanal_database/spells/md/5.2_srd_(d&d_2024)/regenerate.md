@@ -2,7 +2,7 @@
 
 - **Level**: 7 Transmutation
 - **Classes**: Bard, Cleric, Druid
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Touch
 - **Components**: V, S, M (a prayer wheel)
 - **Duration**: 1 hour

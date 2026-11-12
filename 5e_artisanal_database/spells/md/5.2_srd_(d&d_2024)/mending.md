@@ -2,7 +2,7 @@
 
 - **Level**: Cantrip Transmutation
 - **Classes**: Bard, Cleric, Druid, Sorcerer, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Touch
 - **Components**: V, S, M (two lodestones)
 - **Duration**: instantaneous

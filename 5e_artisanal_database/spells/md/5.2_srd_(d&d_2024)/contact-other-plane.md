@@ -2,7 +2,7 @@
 
 - **Level**: 5 Divination
 - **Classes**: Warlock, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 minute

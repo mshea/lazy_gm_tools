@@ -4,7 +4,7 @@
 - **Classes**: Bard, Cleric
 - **Casting Time**: 1 action
 - **Range**: 60 feet
-- **Components**: 
+- **Components**: V
 - **Duration**: instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 

@@ -2,7 +2,7 @@
 
 - **Level**: 5 Divination
 - **Classes**: Bard, Cleric, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Self
 - **Components**: V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)
 - **Duration**: instantaneous

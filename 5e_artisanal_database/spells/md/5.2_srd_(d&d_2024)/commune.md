@@ -2,7 +2,7 @@
 
 - **Level**: 5 Divination
 - **Classes**: Cleric
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Self
 - **Components**: V, S, M (incense)
 - **Duration**: 1 minute

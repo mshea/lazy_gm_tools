@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: 30 feet
 - **Components**: V, S, M (a strip of white cloth)
-- **Duration**: 8 hour
+- **Duration**: 8 hours
 - **Source**: 5.2 SRD (D&D 2024)
 
 Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.

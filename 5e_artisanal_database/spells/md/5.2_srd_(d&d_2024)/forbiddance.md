@@ -2,7 +2,7 @@
 
 - **Level**: 6 Abjuration
 - **Classes**: Cleric
-- **Casting Time**: 1 action
+- **Casting Time**: 10 minutes
 - **Range**: Touch
 - **Components**: V, S, M (ruby dust worth 1,000+ GP)
 - **Duration**: 1 day

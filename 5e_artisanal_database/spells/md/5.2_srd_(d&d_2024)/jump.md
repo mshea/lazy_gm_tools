@@ -4,7 +4,7 @@
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
 - **Casting Time**: 1 bonus action
 - **Range**: Touch
-- **Components**: 
+- **Components**: V, S, M
 - **Duration**: 1 minute
 - **Source**: 5.2 SRD (D&D 2024)
 

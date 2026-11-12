@@ -2,7 +2,7 @@
 
 - **Level**: 2 Abjuration
 - **Classes**: Cleric, Paladin
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 30 feet
 - **Components**: V
 - **Duration**: instantaneous

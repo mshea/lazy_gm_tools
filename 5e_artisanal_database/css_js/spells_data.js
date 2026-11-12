@@ -4554,6 +4554,13 @@ const spellsData = [
     "htmlLink": "./html/5.1_srd_(d&d_2014)/freezing-sphere.html"
   },
   {
+    "name": "Freezing Sphere",
+    "level": 6,
+    "classes": "Sorcerer, Wizard",
+    "source": "5.2 SRD (D&D 2024)",
+    "htmlLink": "./html/5.2_srd_(d&d_2024)/freezing-sphere.html"
+  },
+  {
     "name": "Frenzied Bolt",
     "level": 2,
     "classes": "Bard, Sorceror, Wizard",

@@ -2,7 +2,7 @@
 
 - **Level**: 4 Transmutation
 - **Classes**: Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 120 feet
 - **Components**: V, S
 - **Duration**: instantaneous

@@ -8,5 +8,5 @@
 - **Duration**: Concentration, 1 minute
 - **Source**: 5.2 SRD (D&D 2024)
 
-
+A creature you touch has the Invisible condition until the spell ends.
 

@@ -2,7 +2,7 @@
 
 - **Level**: 2 Divination
 - **Classes**: Cleric, Druid, Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Self
 - **Components**: V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
 - **Duration**: instantaneous

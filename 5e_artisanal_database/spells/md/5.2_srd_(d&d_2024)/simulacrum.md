@@ -2,7 +2,7 @@
 
 - **Level**: 7 Illusion
 - **Classes**: Wizard
-- **Casting Time**: hour
+- **Casting Time**: 1 hour
 - **Range**: Touch
 - **Components**: V, S, M (powdered ruby worth 1,500+ GP, which the spell consumes)
 - **Duration**: until dispelled

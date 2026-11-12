@@ -2,7 +2,7 @@
 
 - **Level**: 6 Necromancy
 - **Classes**: Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Self
 - **Components**: V, S, M (a gem, crystal, or reliquary worth 500+ GP)
 - **Duration**: until dispelled

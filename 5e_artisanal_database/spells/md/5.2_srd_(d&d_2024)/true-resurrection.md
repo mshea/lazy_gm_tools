@@ -2,7 +2,7 @@
 
 - **Level**: 9 Necromancy
 - **Classes**: Cleric, Druid
-- **Casting Time**: hour
+- **Casting Time**: 1 hour
 - **Range**: Touch
 - **Components**: V, S, M (diamonds worth 25,000+ GP, which the spell consumes)
 - **Duration**: instantaneous

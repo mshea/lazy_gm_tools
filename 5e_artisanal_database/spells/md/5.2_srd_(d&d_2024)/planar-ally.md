@@ -2,7 +2,7 @@
 
 - **Level**: 6 Conjuration
 - **Classes**: Cleric
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: 60 feet
 - **Components**: V, S
 - **Duration**: instantaneous

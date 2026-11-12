@@ -2,7 +2,7 @@
 
 - **Level**: 9 Necromancy
 - **Classes**: Cleric, Warlock, Wizard
-- **Casting Time**: hour
+- **Casting Time**: 1 hour
 - **Range**: 10 feet
 - **Components**: V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes)
 - **Duration**: until dispelled

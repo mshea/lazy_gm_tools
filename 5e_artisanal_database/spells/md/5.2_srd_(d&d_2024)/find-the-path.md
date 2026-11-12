@@ -2,7 +2,7 @@
 
 - **Level**: 6 Divination
 - **Classes**: Bard, Cleric, Druid
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Self
 - **Components**: V, S, M (a set of divination tools—such as cards or runes—worth 100+ GP)
 - **Duration**: Concentration, 1 day

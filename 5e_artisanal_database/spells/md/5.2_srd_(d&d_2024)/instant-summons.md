@@ -2,7 +2,7 @@
 
 - **Level**: 6 Conjuration
 - **Classes**: Wizard
-- **Casting Time**: minute
+- **Casting Time**: 1 minute
 - **Range**: Touch
 - **Components**: V, S, M (a sapphire worth 1,000+ GP)
 - **Duration**: until dispelled
