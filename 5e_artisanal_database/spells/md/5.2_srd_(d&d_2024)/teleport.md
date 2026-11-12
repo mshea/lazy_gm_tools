@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: 10 feet
 - **Components**: V
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can't be held or carried by an unwilling creature. The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.

@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: 60 feet
 - **Components**: V
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the Charmed, Frightened, Paralyzed, Poisoned, or Stunned condition, the condition ends. If the creature has the Prone condition, it can use its Reaction to stand up.

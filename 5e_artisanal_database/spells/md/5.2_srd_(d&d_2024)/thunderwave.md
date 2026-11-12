@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: Self
 - **Components**: V, S
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 You unleash a wave of thunderous energy. Each creature in a 15-foot Cube originating from you makes a Constitution saving throw. On a failed save, a creature takes 2d8 Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.

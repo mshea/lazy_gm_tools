@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: 15 feet
 - **Components**: V, S
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.

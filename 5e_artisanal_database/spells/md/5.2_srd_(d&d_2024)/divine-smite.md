@@ -5,7 +5,7 @@
 - **Casting Time**: 1 bonus action
 - **Range**: Self
 - **Components**: V
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.

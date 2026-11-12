@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: 10 feet
 - **Components**: V, S
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.

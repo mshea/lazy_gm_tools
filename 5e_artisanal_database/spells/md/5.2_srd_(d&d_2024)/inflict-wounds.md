@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: Touch
 - **Components**: V, S
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.

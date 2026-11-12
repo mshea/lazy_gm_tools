@@ -5,7 +5,7 @@
 - **Casting Time**: 1 hour
 - **Range**: 150 feet
 - **Components**: V, S
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.

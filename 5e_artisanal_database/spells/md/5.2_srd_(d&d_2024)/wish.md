@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: Self
 - **Components**: V
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 *Wish* is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.

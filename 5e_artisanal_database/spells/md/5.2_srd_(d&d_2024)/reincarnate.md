@@ -5,7 +5,7 @@
 - **Casting Time**: 1 hour
 - **Range**: Touch
 - **Components**: V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body's species, or the GM chooses another playable species.

@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: Touch
 - **Components**: V, S
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.

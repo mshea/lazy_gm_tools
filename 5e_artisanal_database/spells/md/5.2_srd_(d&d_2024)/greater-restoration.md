@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: Touch
 - **Components**: V, S, M (diamond dust worth 100+ GP, which the spell consumes)
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 You touch a creature and magically remove one of the following effects from it:

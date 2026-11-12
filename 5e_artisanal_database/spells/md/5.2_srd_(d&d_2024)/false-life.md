@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: Self
 - **Components**: V, S, M (a drop of alcohol)
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 You gain 2d4 + 4 Temporary Hit Points.

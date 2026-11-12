@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: 300 feet
 - **Components**: V, S, M (a miniature crystal sphere)
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius Sphere. Each creature in that area makes a Constitution saving throw, taking 10d6 Cold damage on failed save or half as much damage on a successful one.

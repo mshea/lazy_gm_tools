@@ -5,7 +5,7 @@
 - **Casting Time**: 1 action
 - **Range**: 30 feet
 - **Components**: V, S, M (a mix of water and sand)
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 You do one of the following:

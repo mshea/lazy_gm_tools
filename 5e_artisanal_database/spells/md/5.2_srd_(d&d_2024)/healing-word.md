@@ -5,7 +5,7 @@
 - **Casting Time**: 1 bonus action
 - **Range**: 60 feet
 - **Components**: V
-- **Duration**: instantaneous
+- **Duration**: Instantaneous
 - **Source**: 5.2 SRD (D&D 2024)
 
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
