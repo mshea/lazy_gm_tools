@@ -1,5 +1,5 @@
 // Auto-generated search data for 5e Artisanal Database
-// Generated at: 2026-11-12T14:54:18.579Z
+// Generated at: 2026-11-12T14:56:12.977Z
 // Total documents: 7131
 // Sources: 5.1 SRD (D&D 2014), 5.2 SRD (D&D 2024), Black Flag (Tales of the Valiant), Level Up Advanced 5e, Lazy GM's Resource Document, Lazy GM's Monster Resource Document, Monsters, Magic Items, Spells
 
